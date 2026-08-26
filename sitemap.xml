@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+    <!-- =====================================================
+         POLISH — STRONA GŁÓWNA
+    ====================================================== -->
+
+    <url>
+        <loc>https://lasertechservice.pl/</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://lasertechservice.pl/ru/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/" />
+
+        <priority>1.0</priority>
+    </url>
+
+
+    <!-- =====================================================
+         POLISH — USŁUGI
+    ====================================================== -->
+
+    <url>
+        <loc>https://lasertechservice.pl/uslugi</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/uslugi" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://lasertechservice.pl/ru/uslugi" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/uslugi" />
+
+        <priority>0.8</priority>
+    </url>
+
+
+    <!-- =====================================================
+         POLISH — KONTAKT
+    ====================================================== -->
+
+    <url>
+        <loc>https://lasertechservice.pl/kontakt</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/kontakt" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://lasertechservice.pl/ru/kontakt" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/kontakt" />
+
+        <priority>0.7</priority>
+    </url>
+
+
+    <!-- =====================================================
+         RUSSIAN — ГЛАВНАЯ
+    ====================================================== -->
+
+    <url>
+        <loc>https://lasertechservice.pl/ru/</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://lasertechservice.pl/ru/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/" />
+
+        <priority>0.8</priority>
+    </url>
+
+
+    <!-- =====================================================
+         RUSSIAN — УСЛУГИ
+    ====================================================== -->
+
+    <url>
+        <loc>https://lasertechservice.pl/ru/uslugi</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/uslugi" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://lasertechservice.pl/ru/uslugi" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/uslugi" />
+
+        <priority>0.7</priority>
+    </url>
+
+
+    <!-- =====================================================
+         RUSSIAN — КОНТАКТ
+    ====================================================== -->
+
+    <url>
+        <loc>https://lasertechservice.pl/ru/kontakt</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/kontakt" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://lasertechservice.pl/ru/kontakt" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/kontakt" />
+
+        <priority>0.6</priority>
+    </url>
+
+</urlset>
