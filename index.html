@@ -276,7 +276,8 @@
 
 
     <!-- =====================================================
-         12. GOOGLE TAG MANAGER
+         12. GOOGLE TAG MANAGER - OLD
+         GTM-PT7BMHKW
     ====================================================== -->
 
     <script>
@@ -313,6 +314,44 @@
 
 
     <!-- =====================================================
+         12.1 GOOGLE TAG MANAGER - NEW
+         GTM-MF33VG4R
+    ====================================================== -->
+
+    <script>
+        (function(w, d, s, l, i) {
+
+            w[l] = w[l] || [];
+
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+
+            j.async = true;
+
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' +
+                i +
+                dl;
+
+            f.parentNode.insertBefore(j, f);
+
+        })(
+            window,
+            document,
+            'script',
+            'dataLayer',
+            'GTM-MF33VG4R'
+        );
+    </script>
+
+
+    <!-- =====================================================
          13. GOOGLE ADS
     ====================================================== -->
 
@@ -339,12 +378,28 @@
 
 
     <!-- =====================================================
-         GOOGLE TAG MANAGER NOSCRIPT
+         GOOGLE TAG MANAGER NOSCRIPT - OLD
+         GTM-PT7BMHKW
     ====================================================== -->
 
     <noscript>
         <iframe
             src="https://www.googletagmanager.com/ns.html?id=GTM-PT7BMHKW"
+            height="0"
+            width="0"
+            style="display:none;visibility:hidden">
+        </iframe>
+    </noscript>
+
+
+    <!-- =====================================================
+         GOOGLE TAG MANAGER NOSCRIPT - NEW
+         GTM-MF33VG4R
+    ====================================================== -->
+
+    <noscript>
+        <iframe
+            src="https://www.googletagmanager.com/ns.html?id=GTM-MF33VG4R"
             height="0"
             width="0"
             style="display:none;visibility:hidden">
@@ -553,7 +608,7 @@
                     <li class="nav-list__item">
 
                         <a
-                            href="/uslugi"
+                            href="/uslugi.html"
                             class="nav-list__link">
 
                             Usługi
@@ -562,22 +617,24 @@
 
                     </li>
 
-                    <li class="nav-list__item">
-
-    <a
-        href="/realizacje/"
-        class="nav-list__link">
-
-        Realizacje
-
-    </a>
-
-</li>
 
                     <li class="nav-list__item">
 
                         <a
-                            href="/kontakt"
+                            href="/realizacje/"
+                            class="nav-list__link">
+
+                            Realizacje
+
+                        </a>
+
+                    </li>
+
+
+                    <li class="nav-list__item">
+
+                        <a
+                            href="/kontakt.html"
                             class="nav-list__link">
 
                             Kontakt
@@ -1249,8 +1306,7 @@
                         </div>
 
 
-                        <div
-                            class="select-items select-hide">
+                        <div class="select-items select-hide">
 
                             <div>
                                 Laser diodowy
