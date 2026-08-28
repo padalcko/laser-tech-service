@@ -229,7 +229,6 @@
 
     <!-- =====================================================
          11. GOOGLE TAG MANAGER - OLD
-         GTM-PT7BMHKW
     ====================================================== -->
 
     <script>
@@ -255,7 +254,6 @@
 
     <!-- =====================================================
          11.1 GOOGLE TAG MANAGER - NEW
-         GTM-MF33VG4R
     ====================================================== -->
 
     <script>
@@ -412,37 +410,23 @@
     </div>
 
     <!-- =====================================================
-         02. NAVIGATION
+         02. MAIN NAVIGATION
     ====================================================== -->
 
-    <nav class="nav">
+    <nav class="nav" id="siteNav" aria-label="Główna nawigacja">
       <div class="container">
         <div class="nav-row">
-          <a href="/" class="logo" aria-label="Laser Tech Service">
+          <a
+            href="/"
+            class="logo"
+            aria-label="Laser Tech Service – strona główna"
+          >
             <span class="brand-laser-tech"> LASER TECH </span>
 
             <span class="brand-service"> SERVICE </span>
           </a>
 
-          <button
-            class="dark-mode-btn"
-            type="button"
-            aria-label="Zmień wersję językową"
-          >
-            <img
-              src="/img/icons/PL.svg"
-              alt="Wersja polska"
-              class="dark-mode-btn__icon"
-            />
-
-            <img
-              src="/img/icons/RU.svg"
-              alt="Wersja rosyjska"
-              class="dark-mode-btn__icon"
-            />
-          </button>
-
-          <ul class="nav-list">
+          <ul class="nav-list" id="primaryNavigation">
             <li class="nav-list__item">
               <a href="/" class="nav-list__link"> Strona główna </a>
             </li>
@@ -451,6 +435,7 @@
               <a
                 href="/uslugi.html"
                 class="nav-list__link nav-list__link--active"
+                aria-current="page"
               >
                 Usługi
               </a>
@@ -464,6 +449,43 @@
               <a href="/kontakt.html" class="nav-list__link"> Kontakt </a>
             </li>
           </ul>
+
+          <div class="language-switcher" aria-label="Wybór języka">
+            <a
+              href="/uslugi.html"
+              class="language-switcher__link language-switcher__link--active"
+              lang="pl"
+              hreflang="pl"
+              aria-current="page"
+            >
+              PL
+            </a>
+
+            <span class="language-switcher__separator" aria-hidden="true">
+              /
+            </span>
+
+            <a
+              href="/ru/uslugi.html"
+              class="language-switcher__link"
+              lang="ru"
+              hreflang="ru"
+            >
+              RU
+            </a>
+          </div>
+
+          <button
+            class="nav-toggle"
+            type="button"
+            aria-label="Otwórz menu"
+            aria-controls="primaryNavigation"
+            aria-expanded="false"
+          >
+            <span class="nav-toggle__line"></span>
+            <span class="nav-toggle__line"></span>
+            <span class="nav-toggle__line"></span>
+          </button>
         </div>
       </div>
     </nav>
@@ -945,8 +967,6 @@
     <footer class="footer">
       <div class="container">
         <div class="footer__main">
-          <!-- COMPANY -->
-
           <div class="footer__company">
             <a href="/" class="footer__brand" aria-label="Laser Tech Service">
               <span class="brand-laser-tech"> LASER TECH </span>
@@ -1011,8 +1031,6 @@
             </div>
           </div>
 
-          <!-- CONTACT -->
-
           <div class="footer__column">
             <h3 class="footer__heading">Kontakt</h3>
 
@@ -1044,8 +1062,6 @@
               </li>
             </ul>
           </div>
-
-          <!-- COMPANY DATA -->
 
           <div class="footer__column footer__company-data">
             <h3 class="footer__heading">Dane firmy</h3>
@@ -1081,8 +1097,6 @@
             </dl>
           </div>
         </div>
-
-        <!-- BOTTOM -->
 
         <div class="footer__bottom">
           <p class="footer__copyright">© 2026 Laser Tech Service sp. z o.o.</p>

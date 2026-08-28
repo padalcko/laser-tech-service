@@ -1,756 +1,534 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pl">
-
-<head>
-
+  <head>
     <!-- =====================================================
          01. BASIC META
     ====================================================== -->
 
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta name="robots" content="noindex, follow" />
+
+    <title>404 | Nie znaleziono strony – Laser Tech Service</title>
 
     <meta
-        name="viewport"
-        content="width=device-width, initial-scale=1.0">
-
-    <meta
-        name="robots"
-        content="noindex, follow">
-
-    <title>
-        404 | Nie znaleziono strony – Laser Tech Service
-    </title>
-
-    <meta
-        name="description"
-        content="Nie znaleziono strony. Wróć na stronę główną Laser Tech Service lub skontaktuj się z naszym serwisem.">
-
+      name="description"
+      content="Nie znaleziono strony. Wróć na stronę główną Laser Tech Service, sprawdź nasze usługi lub skontaktuj się z serwisem."
+    />
 
     <!-- =====================================================
          02. FAVICON / WEB APP
     ====================================================== -->
 
-    <link
-        rel="icon"
-        type="image/png"
-        href="/favicon-96x96.png"
-        sizes="96x96">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
 
-    <link
-        rel="icon"
-        type="image/svg+xml"
-        href="/favicon.svg">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
-    <link
-        rel="shortcut icon"
-        href="/favicon.ico">
+    <link rel="shortcut icon" href="/favicon.ico" />
 
-    <link
-        rel="apple-touch-icon"
-        sizes="180x180"
-        href="/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 
-    <meta
-        name="apple-mobile-web-app-title"
-        content="Laser Tech Service">
+    <meta name="apple-mobile-web-app-title" content="Laser Tech Service" />
 
-    <link
-        rel="manifest"
-        href="/site.webmanifest">
-
+    <link rel="manifest" href="/site.webmanifest" />
 
     <!-- =====================================================
          03. CSS
     ====================================================== -->
 
-    <link
-        rel="stylesheet"
-        href="/css/main.css?v=20260818">
-
+    <link rel="stylesheet" href="/css/main.css" />
 
     <!-- =====================================================
          04. GOOGLE ANALYTICS
     ====================================================== -->
 
     <script
-        async
-        src="https://www.googletagmanager.com/gtag/js?id=G-5STE4YVSDH">
-    </script>
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-5STE4YVSDH"
+    ></script>
 
     <script>
-        window.dataLayer = window.dataLayer || [];
+      window.dataLayer = window.dataLayer || [];
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
+      function gtag() {
+        dataLayer.push(arguments);
+      }
 
-        gtag('js', new Date());
-        gtag('config', 'G-5STE4YVSDH');
+      gtag("js", new Date());
+      gtag("config", "G-5STE4YVSDH");
     </script>
 
-
     <!-- =====================================================
-         05. GOOGLE TAG MANAGER
+         05. GOOGLE TAG MANAGER - OLD
     ====================================================== -->
 
     <script>
-        (function(w, d, s, l, i) {
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
 
-            w[l] = w[l] || [];
+        w[l].push({
+          "gtm.start": new Date().getTime(),
+          event: "gtm.js",
+        });
 
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
 
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
 
-            j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
 
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' +
-                i +
-                dl;
-
-            f.parentNode.insertBefore(j, f);
-
-        })(
-            window,
-            document,
-            'script',
-            'dataLayer',
-            'GTM-PT7BMHKW'
-        );
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-PT7BMHKW");
     </script>
 
+    <!-- =====================================================
+         05.1 GOOGLE TAG MANAGER - NEW
+    ====================================================== -->
+
+    <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+
+        w[l].push({
+          "gtm.start": new Date().getTime(),
+          event: "gtm.js",
+        });
+
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+
+        j.async = true;
+
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-MF33VG4R");
+    </script>
 
     <!-- =====================================================
          06. GOOGLE ADS
     ====================================================== -->
 
     <script
-        async
-        src="https://www.googletagmanager.com/gtag/js?id=AW-17614450660">
-    </script>
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=AW-17614450660"
+    ></script>
 
     <script>
-        window.dataLayer = window.dataLayer || [];
+      window.dataLayer = window.dataLayer || [];
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
+      function gtag() {
+        dataLayer.push(arguments);
+      }
 
-        gtag('js', new Date());
-        gtag('config', 'AW-17614450660');
+      gtag("js", new Date());
+      gtag("config", "AW-17614450660");
     </script>
+  </head>
 
-</head>
-
-
-<body class="pl">
-
-
+  <body class="pl">
     <!-- =====================================================
-         GOOGLE TAG MANAGER NOSCRIPT
+         GTM NOSCRIPT - OLD
     ====================================================== -->
 
     <noscript>
-
-        <iframe
-            src="https://www.googletagmanager.com/ns.html?id=GTM-PT7BMHKW"
-            height="0"
-            width="0"
-            style="display:none;visibility:hidden">
-        </iframe>
-
+      <iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-PT7BMHKW"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      >
+      </iframe>
     </noscript>
 
+    <!-- =====================================================
+         GTM NOSCRIPT - NEW
+    ====================================================== -->
+
+    <noscript>
+      <iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-MF33VG4R"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      >
+      </iframe>
+    </noscript>
 
     <!-- =====================================================
          01. FLOATING SOCIAL MENU
     ====================================================== -->
 
     <div class="menu">
+      <menu>
+        <a
+          href="https://www.instagram.com/lasertech.service/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="action"
+          aria-label="Instagram Laser Tech Service"
+        >
+          <img
+            src="/img/icons/instagram2.svg"
+            alt="Instagram Laser Tech Service"
+          />
+        </a>
 
-        <menu>
+        <a
+          href="https://www.facebook.com/share/1CPgxschrT/?mibextid=wwXIfr"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="action"
+          aria-label="Facebook Laser Tech Service"
+        >
+          <img
+            src="/img/icons/facebook2.svg"
+            alt="Facebook Laser Tech Service"
+          />
+        </a>
 
-            <a
-                href="https://www.instagram.com/lasertech.service/"
-                target="_blank"
-                rel="noopener noreferrer"
-                class="action"
-                aria-label="Instagram Laser Tech Service">
+        <a
+          href="https://wa.me/48790402597"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="action"
+          aria-label="WhatsApp Laser Tech Service"
+        >
+          <img
+            src="/img/icons/whatsapp2.svg"
+            alt="Kontakt przez WhatsApp z serwisem urządzeń laserowych"
+          />
+        </a>
 
-                <img
-                    src="/img/icons/instagram2.svg"
-                    alt="Instagram Laser Tech Service">
+        <a
+          href="https://t.me/lasertechservice"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="action"
+          aria-label="Telegram Laser Tech Service"
+        >
+          <img
+            src="/img/icons/telegram2.svg"
+            alt="Telegram Laser Tech Service"
+          />
+        </a>
 
-            </a>
+        <a
+          href="tel:+48790402597"
+          class="action"
+          aria-label="Zadzwoń do Laser Tech Service"
+        >
+          <img src="/img/icons/phone.svg" alt="Telefon do Laser Tech Service" />
+        </a>
 
-
-            <a
-                href="https://www.facebook.com/share/1CPgxschrT/?mibextid=wwXIfr"
-                target="_blank"
-                rel="noopener noreferrer"
-                class="action"
-                aria-label="Facebook Laser Tech Service">
-
-                <img
-                    src="/img/icons/facebook2.svg"
-                    alt="Facebook Laser Tech Service">
-
-            </a>
-
-
-            <a
-                href="https://wa.me/48790402597"
-                target="_blank"
-                rel="noopener noreferrer"
-                class="action"
-                aria-label="WhatsApp Laser Tech Service">
-
-                <img
-                    src="/img/icons/whatsapp2.svg"
-                    alt="Kontakt przez WhatsApp z serwisem urządzeń laserowych">
-
-            </a>
-
-
-            <a
-                href="https://t.me/lasertechservice"
-                target="_blank"
-                rel="noopener noreferrer"
-                class="action"
-                aria-label="Telegram Laser Tech Service">
-
-                <img
-                    src="/img/icons/telegram2.svg"
-                    alt="Telegram Laser Tech Service">
-
-            </a>
-
-
-            <a
-                href="tel:+48790402597"
-                class="action"
-                aria-label="Zadzwoń do Laser Tech Service">
-
-                <img
-                    src="/img/icons/phone.svg"
-                    alt="Telefon do Laser Tech Service">
-
-            </a>
-
-
-            <button
-                type="button"
-                class="trigger pulse"
-                aria-label="Otwórz menu kontaktowe">
-
-                <img
-                    src="/img/icons/social.svg"
-                    alt="Menu kontaktowe Laser Tech Service">
-
-            </button>
-
-        </menu>
-
+        <button
+          type="button"
+          class="trigger pulse"
+          aria-label="Otwórz menu kontaktowe"
+        >
+          <img
+            src="/img/icons/social.svg"
+            alt="Menu kontaktowe Laser Tech Service"
+          />
+        </button>
+      </menu>
     </div>
 
-
     <!-- =====================================================
-         02. NAVIGATION
+         02. MAIN NAVIGATION
     ====================================================== -->
 
-    <nav class="nav">
+    <nav class="nav" id="siteNav" aria-label="Główna nawigacja">
+      <div class="container">
+        <div class="nav-row">
+          <a
+            href="/"
+            class="logo"
+            aria-label="Laser Tech Service – strona główna"
+          >
+            <span class="brand-laser-tech"> LASER TECH </span>
 
-        <div class="container">
+            <span class="brand-service"> SERVICE </span>
+          </a>
 
-            <div class="nav-row">
+          <ul class="nav-list" id="primaryNavigation">
+            <li class="nav-list__item">
+              <a href="/" class="nav-list__link"> Strona główna </a>
+            </li>
 
+            <li class="nav-list__item">
+              <a href="/uslugi.html" class="nav-list__link"> Usługi </a>
+            </li>
 
-                <a
-                    href="/"
-                    class="logo"
-                    aria-label="Laser Tech Service">
+            <li class="nav-list__item">
+              <a href="/realizacje/" class="nav-list__link"> Realizacje </a>
+            </li>
 
-                    <span class="brand-laser-tech">
-                        LASER TECH
-                    </span>
+            <li class="nav-list__item">
+              <a href="/kontakt.html" class="nav-list__link"> Kontakt </a>
+            </li>
+          </ul>
 
-                    <span class="brand-service">
-                        SERVICE
-                    </span>
+          <div class="language-switcher" aria-label="Wybór języka">
+            <a
+              href="/"
+              class="language-switcher__link language-switcher__link--active"
+              lang="pl"
+              hreflang="pl"
+            >
+              PL
+            </a>
 
-                </a>
+            <span class="language-switcher__separator" aria-hidden="true">
+              /
+            </span>
 
+            <a
+              href="/ru/"
+              class="language-switcher__link"
+              lang="ru"
+              hreflang="ru"
+            >
+              RU
+            </a>
+          </div>
 
-                <ul class="nav-list">
-
-
-                    <li class="nav-list__item">
-
-                        <a
-                            href="/"
-                            class="nav-list__link">
-
-                            Strona główna
-
-                        </a>
-
-                    </li>
-
-
-                    <li class="nav-list__item">
-
-                        <a
-                            href="/uslugi"
-                            class="nav-list__link">
-
-                            Usługi
-
-                        </a>
-
-                    </li>
-
-
-                    <li class="nav-list__item">
-
-                        <a
-                            href="/kontakt"
-                            class="nav-list__link">
-
-                            Kontakt
-
-                        </a>
-
-                    </li>
-
-
-                </ul>
-
-
-            </div>
-
+          <button
+            class="nav-toggle"
+            type="button"
+            aria-label="Otwórz menu"
+            aria-controls="primaryNavigation"
+            aria-expanded="false"
+          >
+            <span class="nav-toggle__line"></span>
+            <span class="nav-toggle__line"></span>
+            <span class="nav-toggle__line"></span>
+          </button>
         </div>
-
+      </div>
     </nav>
-
 
     <!-- =====================================================
          03. 404 CONTENT
     ====================================================== -->
 
     <main>
+      <section class="error-page-section">
+        <div class="container">
+          <div class="error-page">
+            <span class="section-eyebrow"> LASER TECH SERVICE </span>
 
-        <section class="error-page-section">
+            <div class="error-page__code" aria-hidden="true">404</div>
 
-            <div class="container">
+            <h1 class="error-page__title">Nie znaleziono strony</h1>
 
-                <div class="error-page">
+            <p class="error-page__text">
+              Strona, której szukasz, nie istnieje, została przeniesiona albo
+              podany adres jest nieprawidłowy.
+            </p>
 
+            <p class="error-page__hint">
+              Wybierz jedną z dostępnych sekcji lub skontaktuj się bezpośrednio
+              z naszym serwisem.
+            </p>
 
-                    <span class="section-eyebrow">
+            <div class="error-page__actions">
+              <a href="/" class="btn"> Strona główna </a>
 
-                        LASER TECH SERVICE
+              <a href="/uslugi.html" class="btn"> Usługi </a>
 
-                    </span>
+              <a href="/realizacje/" class="btn"> Realizacje </a>
 
-
-                    <div class="error-page__code">
-
-                        404
-
-                    </div>
-
-
-                    <h1 class="error-page__title">
-
-                        Nie znaleziono strony
-
-                    </h1>
-
-
-                    <p class="error-page__text">
-
-                        Strona, której szukasz,
-                        nie istnieje, została przeniesiona
-                        albo podany adres jest nieprawidłowy.
-
-                    </p>
-
-
-                    <p class="error-page__hint">
-
-                        Możesz wrócić na stronę główną,
-                        przejść do naszych usług
-                        albo skontaktować się bezpośrednio z serwisem.
-
-                    </p>
-
-
-                    <div class="error-page__actions">
-
-
-                        <a
-                            href="/"
-                            class="btn">
-
-                            Strona główna
-
-                        </a>
-
-
-                        <a
-                            href="/uslugi"
-                            class="btn">
-
-                            Zobacz usługi
-
-                        </a>
-
-
-                        <a
-                            href="/kontakt"
-                            class="btn">
-
-                            Kontakt
-
-                        </a>
-
-
-                    </div>
-
-
-                    <div class="error-page__phone">
-
-                        <span>
-                            Potrzebujesz pomocy?
-                        </span>
-
-                        <a
-                            href="tel:+48790402597">
-
-                            +48 790 402 597
-
-                        </a>
-
-                    </div>
-
-
-                </div>
-
+              <a href="/kontakt.html" class="btn"> Kontakt </a>
             </div>
 
-        </section>
+            <div class="error-page__phone">
+              <span> Potrzebujesz pomocy? </span>
 
+              <a href="tel:+48790402597"> +48 790 402 597 </a>
+            </div>
+
+            <div class="error-page__phone">
+              <span> Możesz też napisać przez WhatsApp </span>
+
+              <a
+                href="https://wa.me/48790402597"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Otwórz WhatsApp
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
     </main>
-
 
     <!-- =====================================================
          04. FOOTER
     ====================================================== -->
 
     <footer class="footer">
-
-        <div class="container">
-
-
-            <div class="footer__main">
-
-
-                <!-- COMPANY -->
-
-                <div class="footer__company">
-
-
-                    <a
-                        href="/"
-                        class="footer__brand"
-                        aria-label="Laser Tech Service">
-
-                        <span class="brand-laser-tech">
-
-                            LASER TECH
-
-                        </span>
-
-                        <span class="brand-service">
-
-                            SERVICE
-
-                        </span>
-
-                    </a>
-
-
-                    <p class="footer__description">
-
-                        Profesjonalny serwis
-                        urządzeń laserowych
-                        i kosmetologicznych.
-
-                        Diagnostyka, naprawa,
-                        regeneracja oraz konserwacja
-                        urządzeń na terenie całej Polski.
-
-                    </p>
-
-
-                    <div class="footer__social">
-
-
-                        <a
-                            href="https://www.instagram.com/lasertech.service/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            aria-label="Instagram Laser Tech Service">
-
-                            <img
-                                src="/img/icons/gold-instagram.svg"
-                                alt="Instagram Laser Tech Service">
-
-                        </a>
-
-
-                        <a
-                            href="https://wa.me/48790402597"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            aria-label="WhatsApp Laser Tech Service">
-
-                            <img
-                                src="/img/icons/gold-whatsapp.svg"
-                                alt="WhatsApp Laser Tech Service">
-
-                        </a>
-
-
-                        <a
-                            href="https://www.facebook.com/share/1CPgxschrT/?mibextid=wwXIfr"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            aria-label="Facebook Laser Tech Service">
-
-                            <img
-                                src="/img/icons/gold-facebook.svg"
-                                alt="Facebook Laser Tech Service">
-
-                        </a>
-
-
-                        <a
-                            href="https://t.me/lasertechservice"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            aria-label="Telegram Laser Tech Service">
-
-                            <img
-                                src="/img/icons/gold-telegram.svg"
-                                alt="Telegram Laser Tech Service">
-
-                        </a>
-
-
-                    </div>
-
-                </div>
-
-
-                <!-- CONTACT -->
-
-                <div class="footer__column">
-
-
-                    <h3 class="footer__heading">
-
-                        Kontakt
-
-                    </h3>
-
-
-                    <ul class="footer__contact-list">
-
-
-                        <li>
-
-                            <span class="footer__label">
-                                Telefon
-                            </span>
-
-                            <a
-                                href="tel:+48790402597">
-
-                                +48 790 402 597
-
-                            </a>
-
-                        </li>
-
-
-                        <li>
-
-                            <span class="footer__label">
-                                WhatsApp
-                            </span>
-
-                            <a
-                                href="https://wa.me/48790402597"
-                                target="_blank"
-                                rel="noopener noreferrer">
-
-                                Napisz do nas
-
-                            </a>
-
-                        </li>
-
-
-                        <li>
-
-                            <span class="footer__label">
-                                E-mail
-                            </span>
-
-                            <a
-                                href="mailto:contact@lasertechservice.pl">
-
-                                contact@lasertechservice.pl
-
-                            </a>
-
-                        </li>
-
-
-                    </ul>
-
-                </div>
-
-
-                <!-- COMPANY DATA -->
-
-                <div
-                    class="footer__column footer__company-data">
-
-
-                    <h3 class="footer__heading">
-
-                        Dane firmy
-
-                    </h3>
-
-
-                    <address>
-
-                        Laser Tech Service sp. z o.o.
-                        <br>
-
-                        Marsz. Józefa Piłsudskiego 74 lok. 320
-                        <br>
-
-                        50-020 Wrocław
-
-                    </address>
-
-
-                    <dl class="footer__legal-data">
-
-
-                        <div>
-
-                            <dt>
-                                NIP
-                            </dt>
-
-                            <dd>
-                                8971959502
-                            </dd>
-
-                        </div>
-
-
-                        <div>
-
-                            <dt>
-                                KRS
-                            </dt>
-
-                            <dd>
-                                0001193879
-                            </dd>
-
-                        </div>
-
-
-                        <div>
-
-                            <dt>
-                                REGON
-                            </dt>
-
-                            <dd>
-                                542701591
-                            </dd>
-
-                        </div>
-
-
-                    </dl>
-
-                </div>
-
-
+      <div class="container">
+        <div class="footer__main">
+          <div class="footer__company">
+            <a href="/" class="footer__brand" aria-label="Laser Tech Service">
+              <span class="brand-laser-tech"> LASER TECH </span>
+
+              <span class="brand-service"> SERVICE </span>
+            </a>
+
+            <p class="footer__description">
+              Profesjonalny serwis urządzeń laserowych i kosmetologicznych.
+              Diagnostyka, naprawa, regeneracja oraz konserwacja urządzeń na
+              terenie całej Polski.
+            </p>
+
+            <div class="footer__social">
+              <a
+                href="https://www.instagram.com/lasertech.service/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Instagram Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-instagram.svg"
+                  alt="Instagram Laser Tech Service"
+                />
+              </a>
+
+              <a
+                href="https://wa.me/48790402597"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="WhatsApp Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-whatsapp.svg"
+                  alt="WhatsApp Laser Tech Service"
+                />
+              </a>
+
+              <a
+                href="https://www.facebook.com/share/1CPgxschrT/?mibextid=wwXIfr"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Facebook Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-facebook.svg"
+                  alt="Facebook Laser Tech Service"
+                />
+              </a>
+
+              <a
+                href="https://t.me/lasertechservice"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Telegram Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-telegram.svg"
+                  alt="Telegram Laser Tech Service"
+                />
+              </a>
             </div>
+          </div>
 
+          <div class="footer__column">
+            <h3 class="footer__heading">Kontakt</h3>
 
-            <!-- FOOTER BOTTOM -->
+            <ul class="footer__contact-list">
+              <li>
+                <span class="footer__label"> Telefon </span>
 
-            <div class="footer__bottom">
+                <a href="tel:+48790402597"> +48 790 402 597 </a>
+              </li>
 
+              <li>
+                <span class="footer__label"> WhatsApp </span>
 
-                <p class="footer__copyright">
+                <a
+                  href="https://wa.me/48790402597"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Napisz do nas
+                </a>
+              </li>
 
-                    © 2026 Laser Tech Service sp. z o.o.
+              <li>
+                <span class="footer__label"> E-mail </span>
 
-                </p>
+                <a href="mailto:contact@lasertechservice.pl">
+                  contact@lasertechservice.pl
+                </a>
+              </li>
+            </ul>
+          </div>
 
+          <div class="footer__column footer__company-data">
+            <h3 class="footer__heading">Dane firmy</h3>
 
-                <p class="footer__creator">
+            <address>
+              Laser Tech Service sp. z o.o.
+              <br />
 
-                    Created by
+              Marsz. Józefa Piłsudskiego 74 lok. 320
+              <br />
 
-                    <a
-                        href="https://raccoon-studio.com.ua/"
-                        target="_blank"
-                        rel="noopener noreferrer">
+              50-020 Wrocław
+            </address>
 
-                        Raccoon Studio
+            <dl class="footer__legal-data">
+              <div>
+                <dt>NIP</dt>
+                <dd>8971959502</dd>
+              </div>
 
-                    </a>
+              <div>
+                <dt>KRS</dt>
+                <dd>0001193879</dd>
+              </div>
 
-                    © 2026
-
-                </p>
-
-
-            </div>
-
-
+              <div>
+                <dt>REGON</dt>
+                <dd>542701591</dd>
+              </div>
+            </dl>
+          </div>
         </div>
 
-    </footer>
+        <div class="footer__bottom">
+          <p class="footer__copyright">© 2026 Laser Tech Service sp. z o.o.</p>
 
+          <p class="footer__creator">
+            Created by
+
+            <a
+              href="https://raccoon-studio.com.ua/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Raccoon Studio
+            </a>
+
+            © 2026
+          </p>
+        </div>
+      </div>
+    </footer>
 
     <!-- =====================================================
          JAVASCRIPT
     ====================================================== -->
 
-    <script src="/js/main.js?v=20260818"></script>
-
-
-</body>
-
+    <script src="/js/main.js"></script>
+  </body>
 </html>

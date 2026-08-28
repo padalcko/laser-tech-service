@@ -174,8 +174,7 @@
     </script>
 
     <!-- =====================================================
-         11. GOOGLE TAG MANAGER - EXISTING CONTAINER
-         GTM-PT7BMHKW
+         11. GOOGLE TAG MANAGER - OLD
     ====================================================== -->
 
     <script>
@@ -200,8 +199,7 @@
     </script>
 
     <!-- =====================================================
-         12. GOOGLE TAG MANAGER - NEW CONTAINER
-         GTM-MF33VG4R
+         11.1 GOOGLE TAG MANAGER - NEW
     ====================================================== -->
 
     <script>
@@ -226,7 +224,7 @@
     </script>
 
     <!-- =====================================================
-         13. GOOGLE ADS
+         12. GOOGLE ADS
     ====================================================== -->
 
     <script
@@ -248,7 +246,7 @@
 
   <body class="pl">
     <!-- =====================================================
-         GOOGLE TAG MANAGER NOSCRIPT - EXISTING
+         GOOGLE TAG MANAGER NOSCRIPT - OLD
     ====================================================== -->
 
     <noscript>
@@ -358,37 +356,27 @@
     </div>
 
     <!-- =====================================================
-         02. NAVIGATION
+         02. MAIN NAVIGATION
     ====================================================== -->
 
-    <nav class="nav">
+    <nav class="nav" id="siteNav" aria-label="Główna nawigacja">
       <div class="container">
         <div class="nav-row">
-          <a href="/" class="logo" aria-label="Laser Tech Service">
+          <!-- LOGO -->
+
+          <a
+            href="/"
+            class="logo"
+            aria-label="Laser Tech Service – strona główna"
+          >
             <span class="brand-laser-tech"> LASER TECH </span>
 
             <span class="brand-service"> SERVICE </span>
           </a>
 
-          <button
-            class="dark-mode-btn"
-            type="button"
-            aria-label="Zmień wersję językową"
-          >
-            <img
-              src="/img/icons/PL.svg"
-              alt="Wersja polska"
-              class="dark-mode-btn__icon"
-            />
+          <!-- NAVIGATION -->
 
-            <img
-              src="/img/icons/RU.svg"
-              alt="Wersja rosyjska"
-              class="dark-mode-btn__icon"
-            />
-          </button>
-
-          <ul class="nav-list">
+          <ul class="nav-list" id="primaryNavigation">
             <li class="nav-list__item">
               <a href="/" class="nav-list__link"> Strona główna </a>
             </li>
@@ -405,11 +393,53 @@
               <a
                 href="/kontakt.html"
                 class="nav-list__link nav-list__link--active"
+                aria-current="page"
               >
                 Kontakt
               </a>
             </li>
           </ul>
+
+          <!-- LANGUAGE SWITCHER -->
+
+          <div class="language-switcher" aria-label="Wybór języka">
+            <a
+              href="/kontakt.html"
+              class="language-switcher__link language-switcher__link--active"
+              lang="pl"
+              hreflang="pl"
+              aria-current="page"
+            >
+              PL
+            </a>
+
+            <span class="language-switcher__separator" aria-hidden="true">
+              /
+            </span>
+
+            <a
+              href="/ru/kontakt.html"
+              class="language-switcher__link"
+              lang="ru"
+              hreflang="ru"
+            >
+              RU
+            </a>
+          </div>
+
+          <!-- MOBILE BURGER -->
+
+          <button
+            class="nav-toggle"
+            type="button"
+            aria-label="Otwórz menu"
+            aria-controls="primaryNavigation"
+            aria-expanded="false"
+          >
+            <span class="nav-toggle__line"></span>
+            <span class="nav-toggle__line"></span>
+            <span class="nav-toggle__line"></span>
+          </button>
         </div>
       </div>
     </nav>
@@ -458,7 +488,7 @@
               </div>
 
               <div class="contact-card__content">
-                <h2>Lokalizacja</h2>
+                <h3>Lokalizacja</h3>
 
                 <p>50-020 Wrocław</p>
 
@@ -488,12 +518,11 @@
               </div>
 
               <div class="contact-card__content">
-                <h2>Adres</h2>
+                <h3>Adres</h3>
 
                 <address>
                   Marsz. Józefa Piłsudskiego 74
                   <br />
-
                   lok. 320
                 </address>
               </div>
@@ -523,7 +552,7 @@
               </div>
 
               <div class="contact-card__content">
-                <h2>Telefon / WhatsApp</h2>
+                <h3>Telefon / WhatsApp</h3>
 
                 <a href="tel:+48790402597" class="contact-card__primary">
                   +48 790 402 597
@@ -559,7 +588,7 @@
               </div>
 
               <div class="contact-card__content">
-                <h2>E-mail</h2>
+                <h3>E-mail</h3>
 
                 <a
                   href="mailto:contact@lasertechservice.pl"
@@ -618,13 +647,21 @@
 
                 <div class="select-items select-hide">
                   <div>Laser diodowy</div>
+
                   <div>IPL</div>
+
                   <div>Laser CO2</div>
+
                   <div>Laser pikosekundowy</div>
+
                   <div>ND:YAG</div>
+
                   <div>RF</div>
+
                   <div>LPG</div>
+
                   <div>Krioterapia</div>
+
                   <div>Inne</div>
                 </div>
               </div>
@@ -914,10 +951,6 @@
     <!-- =====================================================
          JAVASCRIPT
     ====================================================== -->
-
-    <script src="https://cdn.jsdelivr.net/npm/jarallax@1.12.1/dist/jarallax.min.js"></script>
-
-    <script src="https://cdn.jsdelivr.net/npm/jarallax@1.12.1/dist/jarallax-video.min.js"></script>
 
     <script src="/js/main.js"></script>
   </body>
