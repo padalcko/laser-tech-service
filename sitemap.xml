@@ -39,22 +39,22 @@
 
     <url>
 
-        <loc>https://lasertechservice.pl/uslugi</loc>
+        <loc>https://lasertechservice.pl/uslugi.html</loc>
 
         <xhtml:link
             rel="alternate"
             hreflang="pl"
-            href="https://lasertechservice.pl/uslugi" />
+            href="https://lasertechservice.pl/uslugi.html" />
 
         <xhtml:link
             rel="alternate"
             hreflang="ru"
-            href="https://lasertechservice.pl/ru/uslugi" />
+            href="https://lasertechservice.pl/ru/uslugi.html" />
 
         <xhtml:link
             rel="alternate"
             hreflang="x-default"
-            href="https://lasertechservice.pl/uslugi" />
+            href="https://lasertechservice.pl/uslugi.html" />
 
         <priority>0.8</priority>
 
@@ -90,22 +90,22 @@
 
     <url>
 
-        <loc>https://lasertechservice.pl/kontakt</loc>
+        <loc>https://lasertechservice.pl/kontakt.html</loc>
 
         <xhtml:link
             rel="alternate"
             hreflang="pl"
-            href="https://lasertechservice.pl/kontakt" />
+            href="https://lasertechservice.pl/kontakt.html" />
 
         <xhtml:link
             rel="alternate"
             hreflang="ru"
-            href="https://lasertechservice.pl/ru/kontakt" />
+            href="https://lasertechservice.pl/ru/kontakt.html" />
 
         <xhtml:link
             rel="alternate"
             hreflang="x-default"
-            href="https://lasertechservice.pl/kontakt" />
+            href="https://lasertechservice.pl/kontakt.html" />
 
         <priority>0.7</priority>
 
@@ -114,22 +114,22 @@
 
     <!-- =====================================================
          REALIZACJA 01
-         SERWIS LASERA DO USUWANIA TATUAŻU
+         MULTIPOLAR RF — LUBLIN
     ====================================================== -->
 
     <url>
 
-        <loc>https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/</loc>
+        <loc>https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/</loc>
 
         <xhtml:link
             rel="alternate"
             hreflang="pl"
-            href="https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/" />
+            href="https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/" />
 
         <xhtml:link
             rel="alternate"
             hreflang="x-default"
-            href="https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/" />
+            href="https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/" />
 
         <priority>0.7</priority>
 
@@ -154,6 +154,30 @@
             rel="alternate"
             hreflang="x-default"
             href="https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/" />
+
+        <priority>0.7</priority>
+
+    </url>
+
+
+    <!-- =====================================================
+         REALIZACJA 03
+         ML-ND YAG LASER A1 — LEGNICA
+    ====================================================== -->
+
+    <url>
+
+        <loc>https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/" />
 
         <priority>0.7</priority>
 
@@ -194,22 +218,22 @@
 
     <url>
 
-        <loc>https://lasertechservice.pl/ru/uslugi</loc>
+        <loc>https://lasertechservice.pl/ru/uslugi.html</loc>
 
         <xhtml:link
             rel="alternate"
             hreflang="pl"
-            href="https://lasertechservice.pl/uslugi" />
+            href="https://lasertechservice.pl/uslugi.html" />
 
         <xhtml:link
             rel="alternate"
             hreflang="ru"
-            href="https://lasertechservice.pl/ru/uslugi" />
+            href="https://lasertechservice.pl/ru/uslugi.html" />
 
         <xhtml:link
             rel="alternate"
             hreflang="x-default"
-            href="https://lasertechservice.pl/uslugi" />
+            href="https://lasertechservice.pl/uslugi.html" />
 
         <priority>0.7</priority>
 
@@ -222,22 +246,22 @@
 
     <url>
 
-        <loc>https://lasertechservice.pl/ru/kontakt</loc>
+        <loc>https://lasertechservice.pl/ru/kontakt.html</loc>
 
         <xhtml:link
             rel="alternate"
             hreflang="pl"
-            href="https://lasertechservice.pl/kontakt" />
+            href="https://lasertechservice.pl/kontakt.html" />
 
         <xhtml:link
             rel="alternate"
             hreflang="ru"
-            href="https://lasertechservice.pl/ru/kontakt" />
+            href="https://lasertechservice.pl/ru/kontakt.html" />
 
         <xhtml:link
             rel="alternate"
             hreflang="x-default"
-            href="https://lasertechservice.pl/kontakt" />
+            href="https://lasertechservice.pl/kontakt.html" />
 
         <priority>0.6</priority>
 
