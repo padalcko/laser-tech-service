@@ -2,7 +2,8 @@
 
 <urlset
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+>
 
 
     <!-- =====================================================
@@ -178,6 +179,32 @@
             rel="alternate"
             hreflang="x-default"
             href="https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/" />
+
+        <priority>0.7</priority>
+
+    </url>
+
+
+    <!-- =====================================================
+         REALIZACJA 04
+         HIFU KIMED K1-W1601 — GÖRLITZ
+    ====================================================== -->
+
+    <url>
+
+        <loc>https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/" />
+
+        <lastmod>2026-09-07</lastmod>
 
         <priority>0.7</priority>
 
