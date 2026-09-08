@@ -87,6 +87,67 @@
 
 
     <!-- =====================================================
+         POLISH — BLOG
+    ====================================================== -->
+
+    <url>
+
+        <loc>https://lasertechservice.pl/blog/</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/blog/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://lasertechservice.pl/ru/blog/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/blog/" />
+
+        <lastmod>2026-09-08</lastmod>
+
+        <priority>0.8</priority>
+
+    </url>
+
+
+    <!-- =====================================================
+         POLISH — BLOG ARTICLE 01
+         PROFESJONALNY SERWIS
+    ====================================================== -->
+
+    <url>
+
+        <loc>https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/" />
+
+        <lastmod>2026-09-08</lastmod>
+
+        <priority>0.7</priority>
+
+    </url>
+
+
+    <!-- =====================================================
          POLISH — KONTAKT
     ====================================================== -->
 
@@ -316,6 +377,67 @@
             href="https://lasertechservice.pl/uslugi.html" />
 
         <priority>0.7</priority>
+
+    </url>
+
+
+    <!-- =====================================================
+         RUSSIAN — БЛОГ
+    ====================================================== -->
+
+    <url>
+
+        <loc>https://lasertechservice.pl/ru/blog/</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/blog/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://lasertechservice.pl/ru/blog/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/blog/" />
+
+        <lastmod>2026-09-08</lastmod>
+
+        <priority>0.7</priority>
+
+    </url>
+
+
+    <!-- =====================================================
+         RUSSIAN — BLOG ARTICLE 01
+         ПРОФЕССИОНАЛЬНЫЙ СЕРВИС
+    ====================================================== -->
+
+    <url>
+
+        <loc>https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/" />
+
+        <lastmod>2026-09-08</lastmod>
+
+        <priority>0.6</priority>
 
     </url>
 
