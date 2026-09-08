@@ -24,10 +24,28 @@
     <meta name="author" content="Laser Tech Service" />
 
     <!-- =====================================================
-         02. CANONICAL
+         02. CANONICAL + HREFLANG
     ====================================================== -->
 
     <link rel="canonical" href="https://lasertechservice.pl/blog/" />
+
+    <link
+      rel="alternate"
+      hreflang="pl"
+      href="https://lasertechservice.pl/blog/"
+    />
+
+    <link
+      rel="alternate"
+      hreflang="ru"
+      href="https://lasertechservice.pl/ru/blog/"
+    />
+
+    <link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://lasertechservice.pl/blog/"
+    />
 
     <!-- =====================================================
          03. OPEN GRAPH
@@ -46,10 +64,25 @@
 
     <meta property="og:locale" content="pl_PL" />
 
+    <meta property="og:locale:alternate" content="ru_RU" />
+
     <meta property="og:site_name" content="Laser Tech Service" />
 
     <!-- =====================================================
-         04. FAVICON / WEB APP
+         04. TWITTER
+    ====================================================== -->
+
+    <meta name="twitter:card" content="summary" />
+
+    <meta name="twitter:title" content="Blog Laser Tech Service" />
+
+    <meta
+      name="twitter:description"
+      content="Praktyczne materiały o serwisie, diagnostyce i naprawach urządzeń laserowych oraz kosmetycznych."
+    />
+
+    <!-- =====================================================
+         05. FAVICON / WEB APP
     ====================================================== -->
 
     <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
@@ -65,12 +98,57 @@
     <link rel="manifest" href="/site.webmanifest" />
 
     <!-- =====================================================
-         05. STYLES
+         06. STYLES
     ====================================================== -->
 
     <link rel="stylesheet" href="/css/main.css" />
 
     <link rel="stylesheet" href="/css/blog.css" />
+
+    <!-- =====================================================
+         07. BLOG SCHEMA
+    ====================================================== -->
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Blog",
+        "name": "Blog Laser Tech Service",
+        "description": "Praktyczne materiały o serwisie, diagnostyce i naprawach urządzeń laserowych oraz kosmetycznych.",
+        "url": "https://lasertechservice.pl/blog/",
+        "inLanguage": "pl",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Laser Tech Service",
+          "url": "https://lasertechservice.pl/"
+        }
+      }
+    </script>
+
+    <!-- =====================================================
+         08. BREADCRUMB SCHEMA
+    ====================================================== -->
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Strona główna",
+            "item": "https://lasertechservice.pl/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://lasertechservice.pl/blog/"
+          }
+        ]
+      }
+    </script>
   </head>
 
   <body class="pl">
@@ -231,7 +309,7 @@
             </span>
 
             <a
-              href="/ru/"
+              href="/ru/blog/"
               class="language-switcher__link"
               lang="ru"
               hreflang="ru"
@@ -258,14 +336,15 @@
     </nav>
 
     <!-- =====================================================
-         MAIN
-         ONLY BLOG ARTICLES
+         03. BLOG
     ====================================================== -->
 
     <main class="blog-page">
       <section class="blog-listing">
         <div class="container">
-          <div class="blog-listing__header">
+          <!-- BLOG HEADER -->
+
+          <header class="blog-listing__header">
             <span class="blog-listing__eyebrow"> LASER TECH SERVICE </span>
 
             <h1 class="blog-listing__title">Blog</h1>
@@ -274,12 +353,16 @@
               Praktyczna wiedza o serwisie, diagnostyce, naprawach i
               eksploatacji urządzeń laserowych oraz kosmetycznych.
             </p>
-          </div>
+          </header>
+
+          <!-- =================================================
+               ARTICLES GRID
+          ================================================== -->
 
           <div class="blog-grid">
-            <!-- =================================================
+            <!-- ===============================================
                  ARTICLE 01
-            ================================================== -->
+            ================================================ -->
 
             <article class="blog-card">
               <div class="blog-card__top">
@@ -301,23 +384,26 @@
                 </h2>
 
                 <p class="blog-card__description">
-                  Gwarancja, dokumentacja wykonanych prac, historia serwisowa i
-                  odpowiedzialność za naprawę mają realne znaczenie dla
-                  właściciela urządzenia.
+                  Gwarancja, dokumentacja wykonanych prac, historia serwisowa,
+                  możliwość szybkiego wyjazdu do klienta i odpowiedzialność za
+                  naprawę mają realne znaczenie dla właściciela urządzenia.
                 </p>
               </div>
 
-              <div class="blog-card__footer">
-                <span class="blog-card__reading-time"> 6 min czytania </span>
+              <footer class="blog-card__footer">
+                <span class="blog-card__reading-time">
+                  około 7 min czytania
+                </span>
 
                 <a
                   href="/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/"
                   class="blog-card__link"
+                  aria-label="Czytaj artykuł: Dlaczego warto korzystać z profesjonalnego serwisu urządzeń kosmetycznych?"
                 >
                   Czytaj artykuł
                   <span aria-hidden="true">→</span>
                 </a>
-              </div>
+              </footer>
             </article>
           </div>
         </div>
@@ -325,7 +411,7 @@
     </main>
 
     <!-- =====================================================
-         FOOTER
+         04. FOOTER
     ====================================================== -->
 
     <footer class="footer">
@@ -418,7 +504,7 @@
     </footer>
 
     <!-- =====================================================
-         MAIN JS
+         05. MAIN JS
     ====================================================== -->
 
     <script src="/js/main.js"></script>

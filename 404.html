@@ -12,15 +12,15 @@
 
     <meta name="robots" content="noindex, follow" />
 
-    <title>404 | Nie znaleziono strony – Laser Tech Service</title>
+    <title>Błąd 404 | Laser Tech Service</title>
 
     <meta
       name="description"
-      content="Nie znaleziono strony. Wróć na stronę główną Laser Tech Service, sprawdź nasze usługi lub skontaktuj się z serwisem."
+      content="Nie znaleźliśmy tej strony. Wróć na stronę główną Laser Tech Service, sprawdź nasze usługi, realizacje, blog lub skontaktuj się z serwisem."
     />
 
     <!-- =====================================================
-         02. FAVICON / WEB APP
+         02. FAVICON
     ====================================================== -->
 
     <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
@@ -36,13 +36,501 @@
     <link rel="manifest" href="/site.webmanifest" />
 
     <!-- =====================================================
-         03. CSS
+         03. MAIN CSS
     ====================================================== -->
 
     <link rel="stylesheet" href="/css/main.css" />
 
     <!-- =====================================================
-         04. GOOGLE ANALYTICS
+         04. 404 PAGE CSS
+    ====================================================== -->
+
+    <style>
+      /* =====================================================
+         404 PAGE
+      ====================================================== */
+
+      .error-page {
+        position: relative;
+        overflow: hidden;
+        min-height: calc(100vh - 80px);
+        background:
+          radial-gradient(
+            circle at 72% 32%,
+            rgba(203, 178, 106, 0.12),
+            transparent 34%
+          ),
+          linear-gradient(135deg, #0d0d0e 0%, #171718 52%, #0d0d0e 100%);
+        color: #ffffff;
+      }
+
+      .error-page::before {
+        content: "";
+        position: absolute;
+        top: -220px;
+        left: -180px;
+        width: 520px;
+        height: 520px;
+        border: 1px solid rgba(203, 178, 106, 0.08);
+        border-radius: 50%;
+        pointer-events: none;
+      }
+
+      .error-page::after {
+        content: "";
+        position: absolute;
+        right: -250px;
+        bottom: -300px;
+        width: 650px;
+        height: 650px;
+        border: 1px solid rgba(203, 178, 106, 0.06);
+        border-radius: 50%;
+        pointer-events: none;
+      }
+
+      .error-hero {
+        position: relative;
+        z-index: 2;
+        padding: 80px 0 70px;
+      }
+
+      .error-hero__grid {
+        display: grid;
+        grid-template-columns: minmax(0, 0.88fr) minmax(0, 1.12fr);
+        gap: 60px;
+        align-items: center;
+      }
+
+      /* =====================================================
+         ERROR CONTENT
+      ====================================================== */
+
+      .error-content {
+        position: relative;
+        z-index: 3;
+      }
+
+      .error-code {
+        margin: 0 0 10px;
+        color: var(--gold);
+        font-family: var(--font-main);
+        font-size: clamp(100px, 12vw, 190px);
+        font-weight: 800;
+        line-height: 0.85;
+        letter-spacing: -0.07em;
+      }
+
+      .error-eyebrow {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 18px;
+        color: var(--gold-light);
+        font-size: 12px;
+        font-weight: 700;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+      }
+
+      .error-eyebrow::before {
+        content: "";
+        width: 34px;
+        height: 1px;
+        background: var(--gold);
+      }
+
+      .error-title {
+        max-width: 600px;
+        margin: 0 0 20px;
+        color: #ffffff;
+        font-size: clamp(34px, 4vw, 58px);
+        font-weight: 700;
+        line-height: 1.05;
+        letter-spacing: -0.035em;
+      }
+
+      .error-title span {
+        color: var(--gold-light);
+      }
+
+      .error-text {
+        max-width: 610px;
+        margin: 0 0 34px;
+        color: rgba(255, 255, 255, 0.7);
+        font-size: 17px;
+        line-height: 1.75;
+      }
+
+      .error-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+      }
+
+      .error-btn {
+        display: inline-flex;
+        min-height: 52px;
+        align-items: center;
+        justify-content: center;
+        padding: 0 25px;
+        border: 1px solid var(--gold);
+        border-radius: var(--radius-sm);
+        background: var(--gold);
+        color: var(--black-deep);
+        font-size: 13px;
+        font-weight: 700;
+        letter-spacing: 0.03em;
+        text-decoration: none;
+        transition:
+          transform var(--transition),
+          background var(--transition),
+          color var(--transition),
+          border-color var(--transition);
+      }
+
+      .error-btn:hover {
+        transform: translateY(-2px);
+        background: var(--gold-light);
+        border-color: var(--gold-light);
+      }
+
+      .error-btn--secondary {
+        background: transparent;
+        color: #ffffff;
+        border-color: rgba(255, 255, 255, 0.18);
+      }
+
+      .error-btn--secondary:hover {
+        background: rgba(255, 255, 255, 0.06);
+        border-color: var(--gold);
+        color: var(--gold-light);
+      }
+
+      /* =====================================================
+         RACCOON IMAGE
+      ====================================================== */
+
+      .error-visual {
+        position: relative;
+        min-width: 0;
+      }
+
+      .error-visual::before {
+        content: "";
+        position: absolute;
+        inset: 12% -5% -8% 10%;
+        z-index: -1;
+        background: rgba(203, 178, 106, 0.13);
+        filter: blur(70px);
+        border-radius: 50%;
+      }
+
+      .error-image {
+        position: relative;
+        overflow: hidden;
+        margin: 0;
+        border: 1px solid rgba(203, 178, 106, 0.25);
+        border-radius: 26px;
+        background: #171718;
+        box-shadow:
+          0 35px 90px rgba(0, 0, 0, 0.5),
+          0 0 0 1px rgba(255, 255, 255, 0.02);
+      }
+
+      .error-image img {
+        display: block;
+        width: 100%;
+        height: auto;
+        aspect-ratio: 3 / 2;
+        object-fit: cover;
+      }
+
+      .error-image__badge {
+        position: absolute;
+        right: 20px;
+        bottom: 20px;
+        display: flex;
+        align-items: center;
+        gap: 9px;
+        padding: 11px 15px;
+        border: 1px solid rgba(203, 178, 106, 0.3);
+        border-radius: 999px;
+        background: rgba(13, 13, 14, 0.82);
+        color: rgba(255, 255, 255, 0.82);
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        backdrop-filter: blur(12px);
+      }
+
+      .error-image__status {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        background: var(--gold);
+        box-shadow: 0 0 15px rgba(203, 178, 106, 0.8);
+      }
+
+      /* =====================================================
+         QUICK LINKS
+      ====================================================== */
+
+      .error-links {
+        position: relative;
+        z-index: 2;
+        padding: 20px 0 90px;
+      }
+
+      .error-links__heading {
+        max-width: 650px;
+        margin-bottom: 32px;
+      }
+
+      .error-links__eyebrow {
+        display: block;
+        margin-bottom: 10px;
+        color: var(--gold);
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+      }
+
+      .error-links__title {
+        margin: 0;
+        color: #ffffff;
+        font-size: clamp(27px, 3vw, 38px);
+        line-height: 1.15;
+      }
+
+      .error-links__grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: 16px;
+      }
+
+      .error-link-card {
+        position: relative;
+        display: flex;
+        min-height: 190px;
+        flex-direction: column;
+        justify-content: space-between;
+        padding: 25px;
+        overflow: hidden;
+        border: 1px solid rgba(255, 255, 255, 0.09);
+        border-radius: var(--radius-md);
+        background: rgba(255, 255, 255, 0.035);
+        color: #ffffff;
+        text-decoration: none;
+        transition:
+          transform var(--transition),
+          border-color var(--transition),
+          background var(--transition);
+      }
+
+      .error-link-card:hover {
+        transform: translateY(-4px);
+        border-color: rgba(203, 178, 106, 0.55);
+        background: rgba(203, 178, 106, 0.07);
+      }
+
+      .error-link-card__number {
+        color: rgba(203, 178, 106, 0.5);
+        font-size: 12px;
+        font-weight: 700;
+      }
+
+      .error-link-card h2 {
+        margin: 28px 0 8px;
+        color: #ffffff;
+        font-size: 19px;
+        line-height: 1.25;
+      }
+
+      .error-link-card p {
+        margin: 0;
+        color: rgba(255, 255, 255, 0.52);
+        font-size: 13px;
+        line-height: 1.65;
+      }
+
+      .error-link-card__arrow {
+        position: absolute;
+        top: 22px;
+        right: 23px;
+        color: var(--gold);
+        font-size: 20px;
+        transition: transform var(--transition);
+      }
+
+      .error-link-card:hover .error-link-card__arrow {
+        transform: translate(3px, -3px);
+      }
+
+      /* =====================================================
+         HELP / CONTACT
+      ====================================================== */
+
+      .error-help {
+        position: relative;
+        z-index: 2;
+        padding: 0 0 100px;
+      }
+
+      .error-help__box {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
+        gap: 40px;
+        align-items: center;
+        padding: 38px 42px;
+        border: 1px solid rgba(203, 178, 106, 0.25);
+        border-radius: var(--radius-lg);
+        background: linear-gradient(
+          135deg,
+          rgba(203, 178, 106, 0.1),
+          rgba(255, 255, 255, 0.025)
+        );
+      }
+
+      .error-help__content h2 {
+        margin: 0 0 10px;
+        color: #ffffff;
+        font-size: clamp(24px, 3vw, 34px);
+      }
+
+      .error-help__content p {
+        max-width: 650px;
+        margin: 0;
+        color: rgba(255, 255, 255, 0.58);
+      }
+
+      .error-help__actions {
+        display: flex;
+        gap: 10px;
+      }
+
+      /* =====================================================
+         MOBILE
+      ====================================================== */
+
+      @media (max-width: 1050px) {
+        .error-hero__grid {
+          grid-template-columns: 1fr;
+          gap: 45px;
+        }
+
+        .error-content {
+          max-width: 760px;
+        }
+
+        .error-visual {
+          max-width: 850px;
+        }
+
+        .error-links__grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+      }
+
+      @media (max-width: 760px) {
+        .error-hero {
+          padding: 50px 0 55px;
+        }
+
+        .error-hero__grid {
+          display: flex;
+          flex-direction: column;
+          gap: 35px;
+        }
+
+        .error-visual {
+          order: 1;
+        }
+
+        .error-content {
+          order: 2;
+        }
+
+        .error-code {
+          font-size: 100px;
+        }
+
+        .error-title {
+          font-size: 38px;
+        }
+
+        .error-text {
+          font-size: 15px;
+        }
+
+        .error-actions {
+          flex-direction: column;
+        }
+
+        .error-btn {
+          width: 100%;
+        }
+
+        .error-image {
+          border-radius: 18px;
+        }
+
+        .error-image__badge {
+          right: 12px;
+          bottom: 12px;
+          padding: 9px 12px;
+          font-size: 9px;
+        }
+
+        .error-links {
+          padding-bottom: 65px;
+        }
+
+        .error-links__grid {
+          grid-template-columns: 1fr;
+        }
+
+        .error-link-card {
+          min-height: 155px;
+        }
+
+        .error-help {
+          padding-bottom: 70px;
+        }
+
+        .error-help__box {
+          grid-template-columns: 1fr;
+          gap: 25px;
+          padding: 28px 22px;
+        }
+
+        .error-help__actions {
+          flex-direction: column;
+        }
+      }
+
+      @media (max-width: 480px) {
+        .error-hero {
+          padding-top: 35px;
+        }
+
+        .error-code {
+          font-size: 82px;
+        }
+
+        .error-title {
+          font-size: 32px;
+        }
+
+        .error-image img {
+          aspect-ratio: 4 / 3;
+        }
+      }
+    </style>
+
+    <!-- =====================================================
+         05. GOOGLE ANALYTICS
     ====================================================== -->
 
     <script
@@ -62,7 +550,7 @@
     </script>
 
     <!-- =====================================================
-         05. GOOGLE TAG MANAGER - OLD
+         06. GOOGLE TAG MANAGER - NEW
     ====================================================== -->
 
     <script>
@@ -79,32 +567,6 @@
           dl = l != "dataLayer" ? "&l=" + l : "";
 
         j.async = true;
-
-        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
-
-        f.parentNode.insertBefore(j, f);
-      })(window, document, "script", "dataLayer", "GTM-PT7BMHKW");
-    </script>
-
-    <!-- =====================================================
-         05.1 GOOGLE TAG MANAGER - NEW
-    ====================================================== -->
-
-    <script>
-      (function (w, d, s, l, i) {
-        w[l] = w[l] || [];
-
-        w[l].push({
-          "gtm.start": new Date().getTime(),
-          event: "gtm.js",
-        });
-
-        var f = d.getElementsByTagName(s)[0],
-          j = d.createElement(s),
-          dl = l != "dataLayer" ? "&l=" + l : "";
-
-        j.async = true;
-
         j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
 
         f.parentNode.insertBefore(j, f);
@@ -112,7 +574,7 @@
     </script>
 
     <!-- =====================================================
-         06. GOOGLE ADS
+         07. GOOGLE ADS
     ====================================================== -->
 
     <script
@@ -134,21 +596,7 @@
 
   <body class="pl">
     <!-- =====================================================
-         GTM NOSCRIPT - OLD
-    ====================================================== -->
-
-    <noscript>
-      <iframe
-        src="https://www.googletagmanager.com/ns.html?id=GTM-PT7BMHKW"
-        height="0"
-        width="0"
-        style="display: none; visibility: hidden"
-      >
-      </iframe>
-    </noscript>
-
-    <!-- =====================================================
-         GTM NOSCRIPT - NEW
+         GTM NOSCRIPT
     ====================================================== -->
 
     <noscript>
@@ -157,8 +605,7 @@
         height="0"
         width="0"
         style="display: none; visibility: hidden"
-      >
-      </iframe>
+      ></iframe>
     </noscript>
 
     <!-- =====================================================
@@ -202,7 +649,7 @@
         >
           <img
             src="/img/icons/whatsapp2.svg"
-            alt="Kontakt przez WhatsApp z serwisem urządzeń laserowych"
+            alt="WhatsApp Laser Tech Service"
           />
         </a>
 
@@ -224,7 +671,7 @@
           class="action"
           aria-label="Zadzwoń do Laser Tech Service"
         >
-          <img src="/img/icons/phone.svg" alt="Telefon do Laser Tech Service" />
+          <img src="/img/icons/phone.svg" alt="Telefon Laser Tech Service" />
         </a>
 
         <button
@@ -232,30 +679,31 @@
           class="trigger pulse"
           aria-label="Otwórz menu kontaktowe"
         >
-          <img
-            src="/img/icons/social.svg"
-            alt="Menu kontaktowe Laser Tech Service"
-          />
+          <img src="/img/icons/social.svg" alt="Menu kontaktowe" />
         </button>
       </menu>
     </div>
 
     <!-- =====================================================
-         02. MAIN NAVIGATION
+         02. NAVIGATION
     ====================================================== -->
 
     <nav class="nav" id="siteNav" aria-label="Główna nawigacja">
       <div class="container">
         <div class="nav-row">
+          <!-- LOGO -->
+
           <a
             href="/"
             class="logo"
-            aria-label="Laser Tech Service – strona główna"
+            aria-label="Laser Tech Service — strona główna"
           >
             <span class="brand-laser-tech"> LASER TECH </span>
 
             <span class="brand-service"> SERVICE </span>
           </a>
+
+          <!-- MENU -->
 
           <ul class="nav-list" id="primaryNavigation">
             <li class="nav-list__item">
@@ -271,9 +719,26 @@
             </li>
 
             <li class="nav-list__item">
+              <a href="/blog/" class="nav-list__link"> Blog </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a
+                href="https://ltsmarket.pl/"
+                class="nav-list__link"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                LTS Market
+              </a>
+            </li>
+
+            <li class="nav-list__item">
               <a href="/kontakt.html" class="nav-list__link"> Kontakt </a>
             </li>
           </ul>
+
+          <!-- LANGUAGE -->
 
           <div class="language-switcher" aria-label="Wybór języka">
             <a
@@ -299,6 +764,8 @@
             </a>
           </div>
 
+          <!-- BURGER -->
+
           <button
             class="nav-toggle"
             type="button"
@@ -315,54 +782,178 @@
     </nav>
 
     <!-- =====================================================
-         03. 404 CONTENT
+         MAIN
     ====================================================== -->
 
-    <main>
-      <section class="error-page-section">
+    <main class="error-page">
+      <!-- =================================================
+           03. HERO
+      ================================================== -->
+
+      <section class="error-hero">
         <div class="container">
-          <div class="error-page">
-            <span class="section-eyebrow"> LASER TECH SERVICE </span>
+          <div class="error-hero__grid">
+            <!-- CONTENT -->
 
-            <div class="error-page__code" aria-hidden="true">404</div>
+            <div class="error-content">
+              <span class="error-eyebrow"> Laser Tech Service </span>
 
-            <h1 class="error-page__title">Nie znaleziono strony</h1>
+              <p class="error-code" aria-label="Błąd 404">404</p>
 
-            <p class="error-page__text">
-              Strona, której szukasz, nie istnieje, została przeniesiona albo
-              podany adres jest nieprawidłowy.
-            </p>
+              <h1 class="error-title">Ojej… <span>błąd 404.</span></h1>
 
-            <p class="error-page__hint">
-              Wybierz jedną z dostępnych sekcji lub skontaktuj się bezpośrednio
-              z naszym serwisem.
-            </p>
+              <p class="error-text">
+                Wygląda na to, że ta strona wymaga małego serwisu. Spokojnie —
+                już nad tym pracuję. W międzyczasie możesz wrócić na stronę
+                główną albo sprawdzić, co ostatnio naprawialiśmy.
+              </p>
 
-            <div class="error-page__actions">
-              <a href="/" class="btn"> Strona główna </a>
+              <div class="error-actions">
+                <a href="/" class="error-btn"> Wróć na stronę główną </a>
 
-              <a href="/uslugi.html" class="btn"> Usługi </a>
-
-              <a href="/realizacje/" class="btn"> Realizacje </a>
-
-              <a href="/kontakt.html" class="btn"> Kontakt </a>
+                <a href="/realizacje/" class="error-btn error-btn--secondary">
+                  Zobacz realizacje
+                </a>
+              </div>
             </div>
 
-            <div class="error-page__phone">
-              <span> Potrzebujesz pomocy? </span>
+            <!-- RACCOON -->
 
-              <a href="tel:+48790402597"> +48 790 402 597 </a>
+            <div class="error-visual">
+              <figure class="error-image">
+                <img
+                  src="/img/404/lts-raccoon-404.webp"
+                  alt="Szop technik Laser Tech Service naprawiający urządzenie laserowe"
+                  width="1536"
+                  height="1024"
+                  loading="eager"
+                  fetchpriority="high"
+                />
+
+                <figcaption class="error-image__badge">
+                  <span class="error-image__status" aria-hidden="true"></span>
+
+                  Serwis w toku
+                </figcaption>
+              </figure>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- =================================================
+           04. QUICK LINKS
+      ================================================== -->
+
+      <section class="error-links">
+        <div class="container">
+          <div class="error-links__heading">
+            <span class="error-links__eyebrow"> Może tego szukasz? </span>
+
+            <h2 class="error-links__title">Wybierz, dokąd chcesz przejść</h2>
+          </div>
+
+          <div class="error-links__grid">
+            <!-- SERVICES -->
+
+            <a href="/uslugi.html" class="error-link-card">
+              <span class="error-link-card__number"> 01 </span>
+
+              <span class="error-link-card__arrow" aria-hidden="true"> ↗ </span>
+
+              <div>
+                <h2>Usługi</h2>
+
+                <p>
+                  Diagnostyka, naprawa i serwis profesjonalnego sprzętu
+                  kosmetologicznego.
+                </p>
+              </div>
+            </a>
+
+            <!-- REALIZATIONS -->
+
+            <a href="/realizacje/" class="error-link-card">
+              <span class="error-link-card__number"> 02 </span>
+
+              <span class="error-link-card__arrow" aria-hidden="true"> ↗ </span>
+
+              <div>
+                <h2>Realizacje</h2>
+
+                <p>
+                  Zobacz prawdziwe naprawy wykonane przez Laser Tech Service.
+                </p>
+              </div>
+            </a>
+
+            <!-- BLOG -->
+
+            <a href="/blog/" class="error-link-card">
+              <span class="error-link-card__number"> 03 </span>
+
+              <span class="error-link-card__arrow" aria-hidden="true"> ↗ </span>
+
+              <div>
+                <h2>Blog</h2>
+
+                <p>
+                  Wiedza o serwisie, diagnostyce i eksploatacji urządzeń
+                  kosmetologicznych.
+                </p>
+              </div>
+            </a>
+
+            <!-- MARKET -->
+
+            <a
+              href="https://ltsmarket.pl/"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="error-link-card"
+            >
+              <span class="error-link-card__number"> 04 </span>
+
+              <span class="error-link-card__arrow" aria-hidden="true"> ↗ </span>
+
+              <div>
+                <h2>LTS Market</h2>
+
+                <p>Profesjonalne urządzenia i rozwiązania dla branży beauty.</p>
+              </div>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <!-- =================================================
+           05. CONTACT CTA
+      ================================================== -->
+
+      <section class="error-help">
+        <div class="container">
+          <div class="error-help__box">
+            <div class="error-help__content">
+              <h2>Problem nie dotyczy strony, tylko urządzenia?</h2>
+
+              <p>
+                To akurat dobra wiadomość — tym zajmujemy się na co dzień.
+                Zadzwoń lub wyślij nam wiadomość przez WhatsApp.
+              </p>
             </div>
 
-            <div class="error-page__phone">
-              <span> Możesz też napisać przez WhatsApp </span>
+            <div class="error-help__actions">
+              <a href="tel:+48790402597" class="error-btn error-btn--secondary">
+                +48 790 402 597
+              </a>
 
               <a
                 href="https://wa.me/48790402597"
                 target="_blank"
                 rel="noopener noreferrer"
+                class="error-btn"
               >
-                Otwórz WhatsApp
+                WhatsApp
               </a>
             </div>
           </div>
@@ -371,12 +962,14 @@
     </main>
 
     <!-- =====================================================
-         04. FOOTER
+         06. FOOTER
     ====================================================== -->
 
     <footer class="footer">
       <div class="container">
         <div class="footer__main">
+          <!-- COMPANY -->
+
           <div class="footer__company">
             <a href="/" class="footer__brand" aria-label="Laser Tech Service">
               <span class="brand-laser-tech"> LASER TECH </span>
@@ -386,8 +979,8 @@
 
             <p class="footer__description">
               Profesjonalny serwis urządzeń laserowych i kosmetologicznych.
-              Diagnostyka, naprawa, regeneracja oraz konserwacja urządzeń na
-              terenie całej Polski.
+              Diagnostyka, naprawa, regeneracja i obsługa techniczna na terenie
+              całej Polski.
             </p>
 
             <div class="footer__social">
@@ -441,6 +1034,8 @@
             </div>
           </div>
 
+          <!-- CONTACT -->
+
           <div class="footer__column">
             <h3 class="footer__heading">Kontakt</h3>
 
@@ -473,16 +1068,16 @@
             </ul>
           </div>
 
+          <!-- COMPANY DATA -->
+
           <div class="footer__column footer__company-data">
             <h3 class="footer__heading">Dane firmy</h3>
 
             <address>
               Laser Tech Service sp. z o.o.
               <br />
-
               Marsz. Józefa Piłsudskiego 74 lok. 320
               <br />
-
               50-020 Wrocław
             </address>
 
@@ -504,6 +1099,8 @@
             </dl>
           </div>
         </div>
+
+        <!-- BOTTOM -->
 
         <div class="footer__bottom">
           <p class="footer__copyright">© 2026 Laser Tech Service sp. z o.o.</p>
