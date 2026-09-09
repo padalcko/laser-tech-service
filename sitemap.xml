@@ -109,7 +109,7 @@
             hreflang="x-default"
             href="https://lasertechservice.pl/blog/" />
 
-        <lastmod>2026-09-08</lastmod>
+        <lastmod>2026-09-09</lastmod>
 
         <priority>0.8</priority>
 
@@ -141,6 +141,37 @@
             href="https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/" />
 
         <lastmod>2026-09-08</lastmod>
+
+        <priority>0.7</priority>
+
+    </url>
+
+
+    <!-- =====================================================
+         POLISH — BLOG ARTICLE 02
+         UŻYWANY LASER Z HISTORIĄ SERWISOWĄ
+    ====================================================== -->
+
+    <url>
+
+        <loc>https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/" />
+
+        <lastmod>2026-09-09</lastmod>
 
         <priority>0.7</priority>
 
@@ -404,7 +435,7 @@
             hreflang="x-default"
             href="https://lasertechservice.pl/blog/" />
 
-        <lastmod>2026-09-08</lastmod>
+        <lastmod>2026-09-09</lastmod>
 
         <priority>0.7</priority>
 
@@ -436,6 +467,37 @@
             href="https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/" />
 
         <lastmod>2026-09-08</lastmod>
+
+        <priority>0.6</priority>
+
+    </url>
+
+
+    <!-- =====================================================
+         RUSSIAN — BLOG ARTICLE 02
+         ПОДЕРЖАННЫЙ ЛАЗЕР С ИСТОРИЕЙ СЕРВИСА
+    ====================================================== -->
+
+    <url>
+
+        <loc>https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/" />
+
+        <lastmod>2026-09-09</lastmod>
 
         <priority>0.6</priority>
 
