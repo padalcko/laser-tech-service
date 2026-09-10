@@ -109,7 +109,7 @@
             hreflang="x-default"
             href="https://lasertechservice.pl/blog/" />
 
-        <lastmod>2026-09-09</lastmod>
+        <lastmod>2026-09-10</lastmod>
 
         <priority>0.8</priority>
 
@@ -172,6 +172,37 @@
             href="https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/" />
 
         <lastmod>2026-09-09</lastmod>
+
+        <priority>0.7</priority>
+
+    </url>
+
+
+    <!-- =====================================================
+         POLISH — BLOG ARTICLE 03
+         5 OZNAK WYMIANY DIODY
+    ====================================================== -->
+
+    <url>
+
+        <loc>https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/" />
+
+        <lastmod>2026-09-10</lastmod>
 
         <priority>0.7</priority>
 
@@ -435,7 +466,7 @@
             hreflang="x-default"
             href="https://lasertechservice.pl/blog/" />
 
-        <lastmod>2026-09-09</lastmod>
+        <lastmod>2026-09-10</lastmod>
 
         <priority>0.7</priority>
 
@@ -498,6 +529,37 @@
             href="https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/" />
 
         <lastmod>2026-09-09</lastmod>
+
+        <priority>0.6</priority>
+
+    </url>
+
+
+    <!-- =====================================================
+         RUSSIAN — BLOG ARTICLE 03
+         5 ПРИЗНАКОВ ЗАМЕНЫ ДИОДА
+    ====================================================== -->
+
+    <url>
+
+        <loc>https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/" />
+
+        <lastmod>2026-09-10</lastmod>
 
         <priority>0.6</priority>
 
