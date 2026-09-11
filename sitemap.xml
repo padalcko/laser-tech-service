@@ -417,6 +417,31 @@
 
     </url>
 
+    <!-- =====================================================
+     REALIZACJA 07
+     SERWIS GŁOWICY LASERA DIODOWEGO — POZNAŃ
+====================================================== -->
+
+<url>
+
+    <loc>https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/</loc>
+
+    <xhtml:link
+        rel="alternate"
+        hreflang="pl"
+        href="https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/" />
+
+    <xhtml:link
+        rel="alternate"
+        hreflang="x-default"
+        href="https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/" />
+
+    <lastmod>2026-09-11</lastmod>
+
+    <priority>0.7</priority>
+
+</url>
+
 
     <!-- =====================================================
          RUSSIAN — ГЛАВНАЯ
