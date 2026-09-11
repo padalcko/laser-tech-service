@@ -109,7 +109,7 @@
             hreflang="x-default"
             href="https://lasertechservice.pl/blog/" />
 
-        <lastmod>2026-09-10</lastmod>
+        <lastmod>2026-09-11</lastmod>
 
         <priority>0.8</priority>
 
@@ -203,6 +203,37 @@
             href="https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/" />
 
         <lastmod>2026-09-10</lastmod>
+
+        <priority>0.7</priority>
+
+    </url>
+
+
+    <!-- =====================================================
+         POLISH — BLOG ARTICLE 04
+         SERWIS GŁOWICY LASERA DIODOWEGO
+    ====================================================== -->
+
+    <url>
+
+        <loc>https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/" />
+
+        <lastmod>2026-09-11</lastmod>
 
         <priority>0.7</priority>
 
@@ -466,7 +497,7 @@
             hreflang="x-default"
             href="https://lasertechservice.pl/blog/" />
 
-        <lastmod>2026-09-10</lastmod>
+        <lastmod>2026-09-11</lastmod>
 
         <priority>0.7</priority>
 
@@ -567,6 +598,37 @@
 
 
     <!-- =====================================================
+         RUSSIAN — BLOG ARTICLE 04
+         СЕРВИС ГОЛОВКИ ДИОДНОГО ЛАЗЕРА
+    ====================================================== -->
+
+    <url>
+
+        <loc>https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/" />
+
+        <lastmod>2026-09-11</lastmod>
+
+        <priority>0.6</priority>
+
+    </url>
+
+
+    <!-- =====================================================
          RUSSIAN — КОНТАКТ
     ====================================================== -->
 
@@ -592,6 +654,5 @@
         <priority>0.6</priority>
 
     </url>
-
 
 </urlset>
