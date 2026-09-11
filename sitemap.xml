@@ -79,7 +79,7 @@
             hreflang="x-default"
             href="https://lasertechservice.pl/realizacje/" />
 
-        <lastmod>2026-09-07</lastmod>
+        <lastmod>2026-09-11</lastmod>
 
         <priority>0.8</priority>
 
@@ -417,30 +417,57 @@
 
     </url>
 
+
     <!-- =====================================================
-     REALIZACJA 07
-     SERWIS GŁOWICY LASERA DIODOWEGO — POZNAŃ
-====================================================== -->
+         REALIZACJA 07
+         SERWIS GŁOWICY LASERA DIODOWEGO — POZNAŃ
+    ====================================================== -->
 
-<url>
+    <url>
 
-    <loc>https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/</loc>
+        <loc>https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/</loc>
 
-    <xhtml:link
-        rel="alternate"
-        hreflang="pl"
-        href="https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/" />
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/" />
 
-    <xhtml:link
-        rel="alternate"
-        hreflang="x-default"
-        href="https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/" />
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/" />
 
-    <lastmod>2026-09-11</lastmod>
+        <lastmod>2026-09-11</lastmod>
 
-    <priority>0.7</priority>
+        <priority>0.7</priority>
 
-</url>
+    </url>
+
+
+    <!-- =====================================================
+         REALIZACJA 08
+         ALMA ACCENT — GÖRLITZ
+    ====================================================== -->
+
+    <url>
+
+        <loc>https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="pl"
+            href="https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/" />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/" />
+
+        <lastmod>2026-09-11</lastmod>
+
+        <priority>0.7</priority>
+
+    </url>
 
 
     <!-- =====================================================
