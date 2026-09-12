@@ -1,710 +1,229 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-
-    <!-- =====================================================
-         POLISH — STRONA GŁÓWNA
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="ru"
-            href="https://lasertechservice.pl/ru/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/" />
-
-        <priority>1.0</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         POLISH — USŁUGI
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/uslugi.html</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/uslugi.html" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="ru"
-            href="https://lasertechservice.pl/ru/uslugi.html" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/uslugi.html" />
-
-        <priority>0.8</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         POLISH — REALIZACJE
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/realizacje/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/realizacje/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/realizacje/" />
-
-        <lastmod>2026-09-11</lastmod>
-
-        <priority>0.8</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         POLISH — BLOG
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/blog/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/blog/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="ru"
-            href="https://lasertechservice.pl/ru/blog/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/blog/" />
-
-        <lastmod>2026-09-11</lastmod>
-
-        <priority>0.8</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         POLISH — BLOG ARTICLE 01
-         PROFESJONALNY SERWIS
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="ru"
-            href="https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/" />
-
-        <lastmod>2026-09-08</lastmod>
-
-        <priority>0.7</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         POLISH — BLOG ARTICLE 02
-         UŻYWANY LASER Z HISTORIĄ SERWISOWĄ
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="ru"
-            href="https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/" />
-
-        <lastmod>2026-09-09</lastmod>
-
-        <priority>0.7</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         POLISH — BLOG ARTICLE 03
-         5 OZNAK WYMIANY DIODY
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="ru"
-            href="https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/" />
-
-        <lastmod>2026-09-10</lastmod>
-
-        <priority>0.7</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         POLISH — BLOG ARTICLE 04
-         SERWIS GŁOWICY LASERA DIODOWEGO
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="ru"
-            href="https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/" />
-
-        <lastmod>2026-09-11</lastmod>
-
-        <priority>0.7</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         POLISH — KONTAKT
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/kontakt.html</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/kontakt.html" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="ru"
-            href="https://lasertechservice.pl/ru/kontakt.html" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/kontakt.html" />
-
-        <priority>0.7</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         REALIZACJA 01
-         MULTIPOLAR RF — LUBLIN
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/" />
-
-        <priority>0.7</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         REALIZACJA 02
-         NUBWAY NBW-VSIII — WROCŁAW
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/" />
-
-        <priority>0.7</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         REALIZACJA 03
-         ML-ND YAG LASER A1 — LEGNICA
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/" />
-
-        <priority>0.7</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         REALIZACJA 04
-         HIFU KIMED K1-W1601 — GÖRLITZ
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/" />
-
-        <lastmod>2026-09-07</lastmod>
-
-        <priority>0.7</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         REALIZACJA 05
-         LASER DIODOWY — WYMIANA GŁOWICY — WROCŁAW
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/" />
-
-        <lastmod>2026-09-07</lastmod>
-
-        <priority>0.7</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         REALIZACJA 06
-         CAVI SHAPE ADVANCED — WROCŁAW
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/" />
-
-        <lastmod>2026-09-07</lastmod>
-
-        <priority>0.7</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         REALIZACJA 07
-         SERWIS GŁOWICY LASERA DIODOWEGO — POZNAŃ
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/" />
-
-        <lastmod>2026-09-11</lastmod>
-
-        <priority>0.7</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         REALIZACJA 08
-         ALMA ACCENT — GÖRLITZ
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/" />
-
-        <lastmod>2026-09-11</lastmod>
-
-        <priority>0.7</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         RUSSIAN — ГЛАВНАЯ
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/ru/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="ru"
-            href="https://lasertechservice.pl/ru/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/" />
-
-        <priority>0.8</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         RUSSIAN — УСЛУГИ
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/ru/uslugi.html</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/uslugi.html" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="ru"
-            href="https://lasertechservice.pl/ru/uslugi.html" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/uslugi.html" />
-
-        <priority>0.7</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         RUSSIAN — БЛОГ
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/ru/blog/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/blog/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="ru"
-            href="https://lasertechservice.pl/ru/blog/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/blog/" />
-
-        <lastmod>2026-09-11</lastmod>
-
-        <priority>0.7</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         RUSSIAN — BLOG ARTICLE 01
-         ПРОФЕССИОНАЛЬНЫЙ СЕРВИС
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="ru"
-            href="https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/" />
-
-        <lastmod>2026-09-08</lastmod>
-
-        <priority>0.6</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         RUSSIAN — BLOG ARTICLE 02
-         ПОДЕРЖАННЫЙ ЛАЗЕР С ИСТОРИЕЙ СЕРВИСА
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="ru"
-            href="https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/" />
-
-        <lastmod>2026-09-09</lastmod>
-
-        <priority>0.6</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         RUSSIAN — BLOG ARTICLE 03
-         5 ПРИЗНАКОВ ЗАМЕНЫ ДИОДА
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="ru"
-            href="https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/" />
-
-        <lastmod>2026-09-10</lastmod>
-
-        <priority>0.6</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         RUSSIAN — BLOG ARTICLE 04
-         СЕРВИС ГОЛОВКИ ДИОДНОГО ЛАЗЕРА
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="ru"
-            href="https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/" />
-
-        <lastmod>2026-09-11</lastmod>
-
-        <priority>0.6</priority>
-
-    </url>
-
-
-    <!-- =====================================================
-         RUSSIAN — КОНТАКТ
-    ====================================================== -->
-
-    <url>
-
-        <loc>https://lasertechservice.pl/ru/kontakt.html</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="pl"
-            href="https://lasertechservice.pl/kontakt.html" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="ru"
-            href="https://lasertechservice.pl/ru/kontakt.html" />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://lasertechservice.pl/kontakt.html" />
-
-        <priority>0.6</priority>
-
-    </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Polish core pages -->
+
+  <url>
+    <loc>https://lasertechservice.pl/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/"/>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/uslugi.html</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/uslugi.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/uslugi.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/uslugi.html"/>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/realizacje/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/realizacje/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/realizacje/"/>
+    <lastmod>2026-09-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/blog/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/blog/"/>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/kontakt.html</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/kontakt.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/kontakt.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/kontakt.html"/>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Polish blog -->
+
+  <url>
+    <loc>https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/"/>
+    <lastmod>2026-09-08</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/"/>
+    <lastmod>2026-09-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/"/>
+    <lastmod>2026-09-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/"/>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Polish realizacje -->
+
+  <url>
+    <loc>https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/"/>
+    <lastmod>2026-09-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/"/>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/"/>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/"/>
+    <lastmod>2026-09-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/"/>
+    <lastmod>2026-09-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/"/>
+    <lastmod>2026-09-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/"/>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/realizacje/naprawа-nubway-nbw-vsiii-wroclaw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/"/>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/"/>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Russian pages -->
+
+  <url>
+    <loc>https://lasertechservice.pl/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/"/>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/ru/uslugi.html</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/uslugi.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/uslugi.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/uslugi.html"/>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/ru/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/blog/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/blog/"/>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/ru/kontakt.html</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/kontakt.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/kontakt.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/kontakt.html"/>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/"/>
+    <lastmod>2026-09-08</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/"/>
+    <lastmod>2026-09-09</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/"/>
+    <lastmod>2026-09-10</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/"/>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.6</priority>
+  </url>
 
 </urlset>
