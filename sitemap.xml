@@ -133,6 +133,32 @@
   ====================================================== -->
 
   <url>
+    <loc>https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/</loc>
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://lasertechservice.pl/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/"
+    />
+
+    <lastmod>2026-09-14</lastmod>
+
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://lasertechservice.pl/blog/beauty-planet-3d-contour-mozliwosci-serwis/</loc>
 
     <xhtml:link
@@ -202,7 +228,7 @@
     <xhtml:link
       rel="alternate"
       hreflang="x-default"
-      href="https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optika/"
+      href="https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/"
     />
 
     <lastmod>2026-09-11</lastmod>
@@ -595,6 +621,32 @@
   <!-- =====================================================
        RUSSIAN BLOG
   ====================================================== -->
+
+  <url>
+    <loc>https://lasertechservice.pl/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/</loc>
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://lasertechservice.pl/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/"
+    />
+
+    <lastmod>2026-09-14</lastmod>
+
+    <priority>0.7</priority>
+  </url>
 
   <url>
     <loc>https://lasertechservice.pl/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/</loc>
