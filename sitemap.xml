@@ -98,7 +98,7 @@
       href="https://lasertechservice.pl/blog/"
     />
 
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
 
     <priority>0.8</priority>
   </url>
@@ -131,6 +131,32 @@
   <!-- =====================================================
        POLISH BLOG
   ====================================================== -->
+
+  <url>
+    <loc>https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/</loc>
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://lasertechservice.pl/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/"
+    />
+
+    <lastmod>2026-09-15</lastmod>
+
+    <priority>0.8</priority>
+  </url>
 
   <url>
     <loc>https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/</loc>
@@ -341,6 +367,24 @@
   </url>
 
   <url>
+    <loc>https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/</loc>
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/"
+    />
+
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/</loc>
 
     <xhtml:link
@@ -461,42 +505,6 @@
   </url>
 
   <url>
-    <loc>https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/</loc>
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="pl"
-      href="https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="x-default"
-      href="https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/"
-    />
-
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/</loc>
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="pl"
-      href="https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="x-default"
-      href="https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/"
-    />
-
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/</loc>
 
     <xhtml:link
@@ -509,6 +517,24 @@
       rel="alternate"
       hreflang="x-default"
       href="https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/"
+    />
+
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/</loc>
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/"
     />
 
     <priority>0.7</priority>
@@ -540,7 +566,7 @@
       href="https://lasertechservice.pl/"
     />
 
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
 
   <url>
@@ -564,7 +590,7 @@
       href="https://lasertechservice.pl/uslugi.html"
     />
 
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
 
   <url>
@@ -588,9 +614,9 @@
       href="https://lasertechservice.pl/blog/"
     />
 
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
 
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
 
   <url>
@@ -614,13 +640,39 @@
       href="https://lasertechservice.pl/kontakt.html"
     />
 
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
 
 
   <!-- =====================================================
        RUSSIAN BLOG
   ====================================================== -->
+
+  <url>
+    <loc>https://lasertechservice.pl/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/</loc>
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://lasertechservice.pl/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/"
+    />
+
+    <lastmod>2026-09-15</lastmod>
+
+    <priority>0.8</priority>
+  </url>
 
   <url>
     <loc>https://lasertechservice.pl/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/</loc>
@@ -645,7 +697,7 @@
 
     <lastmod>2026-09-14</lastmod>
 
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
 
   <url>
@@ -671,7 +723,7 @@
 
     <lastmod>2026-09-14</lastmod>
 
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
 
   <url>

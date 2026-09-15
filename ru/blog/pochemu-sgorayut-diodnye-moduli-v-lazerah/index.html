@@ -402,7 +402,6 @@
             aria-label="Laser Tech Service — главная страница"
           >
             <span class="brand-laser-tech"> LASER TECH </span>
-
             <span class="brand-service"> SERVICE </span>
           </a>
 
@@ -416,7 +415,7 @@
             </li>
 
             <li class="nav-list__item">
-              <a href="/ru/realizacje/" class="nav-list__link"> Реализации </a>
+              <a href="/realizacje/" class="nav-list__link"> Реализации </a>
             </li>
 
             <li class="nav-list__item">
@@ -431,7 +430,7 @@
 
             <li class="nav-list__item">
               <a
-                href="https://ltsmarket.pl/ru/"
+                href="https://ltsmarket.pl/"
                 class="nav-list__link"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -496,13 +495,9 @@
 
             <nav class="article-breadcrumbs" aria-label="Навигационная цепочка">
               <a href="/ru/">Главная</a>
-
               <span aria-hidden="true">/</span>
-
               <a href="/ru/blog/">Блог</a>
-
               <span aria-hidden="true">/</span>
-
               <span>Повреждение диодных модулей</span>
             </nav>
 
@@ -786,7 +781,9 @@
               <p>
                 Подробнее о профилактическом обслуживании можно прочитать в
                 статье:
-                <a href="/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera/">
+                <a
+                  href="/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/"
+                >
                   Плановое обслуживание диодного лазера — почему это важно </a
                 >.
               </p>
@@ -797,7 +794,7 @@
 
               <p>
                 Необходимо установить не только факт повреждения модуля, но и
-                <strong> причину, по которой оно произошло </strong>.
+                <strong>причину, по которой оно произошло</strong>.
               </p>
 
               <p>
@@ -817,7 +814,7 @@
               <p>
                 Если замена действительно необходима, появляется следующий
                 важный этап:
-                <strong> правильный подбор нового модуля </strong>.
+                <strong>правильный подбор нового модуля</strong>.
               </p>
 
               <p>
@@ -835,7 +832,7 @@
               <figure class="article-image">
                 <img
                   src="/img/blog/dlaczego-pala-sie-moduly-diodowe/uszkodzony-modul-lasera-diodowego.jpg"
-                  alt="Повреждённый модуль диодного лазера во время диагностики"
+                  alt="Повреждённый модуль диодного лазера"
                   loading="lazy"
                   decoding="async"
                 />
@@ -921,7 +918,6 @@
 
               <!-- =================================================
                    ФОРМА ДЛЯ ВЛАДЕЛЬЦЕВ САЛОНОВ
-                   N8N ПОДКЛЮЧИМ ПОЗЖЕ
               ================================================== -->
 
               <section
@@ -947,7 +943,7 @@
                 >
                   <div class="article-service-form__grid">
                     <div class="article-service-form__field">
-                      <label for="fullName"> Имя и фамилия </label>
+                      <label for="fullName">Имя и фамилия</label>
 
                       <input
                         type="text"
@@ -959,7 +955,7 @@
                     </div>
 
                     <div class="article-service-form__field">
-                      <label for="phone"> Телефон </label>
+                      <label for="phone">Телефон</label>
 
                       <input
                         type="tel"
@@ -971,11 +967,11 @@
                         required
                       />
 
-                      <small> Номер телефона в Польше </small>
+                      <small>Номер телефона в Польше</small>
                     </div>
 
                     <div class="article-service-form__field">
-                      <label for="city"> Город </label>
+                      <label for="city">Город</label>
 
                       <input
                         type="text"
@@ -1286,20 +1282,6 @@
     ====================================================== -->
 
     <script src="/js/main.js"></script>
-
-    <!--
-      Форма пока намеренно не отправляет данные.
-      Webhook n8n подключим отдельным этапом.
-    -->
-
-    <script>
-      const salonServiceForm = document.getElementById("salonServiceForm");
-
-      if (salonServiceForm) {
-        salonServiceForm.addEventListener("submit", function (event) {
-          event.preventDefault();
-        });
-      }
-    </script>
+    <script src="/js/service-lead-form.js"></script>
   </body>
 </html>

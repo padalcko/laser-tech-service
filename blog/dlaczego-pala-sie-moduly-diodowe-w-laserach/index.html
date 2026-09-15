@@ -103,10 +103,8 @@
     ====================================================== -->
 
     <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
-
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="shortcut icon" href="/favicon.ico" />
-
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 
     <meta name="apple-mobile-web-app-title" content="Laser Tech Service" />
@@ -500,13 +498,9 @@
 
             <nav class="article-breadcrumbs" aria-label="Okruszki">
               <a href="/">Strona główna</a>
-
               <span aria-hidden="true">/</span>
-
               <a href="/blog/">Blog</a>
-
               <span aria-hidden="true">/</span>
-
               <span>Uszkodzenia modułów diodowych</span>
             </nav>
 
@@ -921,7 +915,6 @@
 
               <!-- =================================================
                    FORMULARZ DLA WŁAŚCICIELI SALONÓW
-                   N8N ZOSTANIE PODŁĄCZONY PÓŹNIEJ
               ================================================== -->
 
               <section
@@ -1123,7 +1116,6 @@
           <div class="footer__company">
             <a href="/" class="footer__brand" aria-label="Laser Tech Service">
               <span class="brand-laser-tech"> LASER TECH </span>
-
               <span class="brand-service"> SERVICE </span>
             </a>
 
@@ -1192,7 +1184,6 @@
             <ul class="footer__contact-list">
               <li>
                 <span class="footer__label"> Telefon </span>
-
                 <a href="tel:+48790402597"> +48 790 402 597 </a>
               </li>
 
@@ -1277,20 +1268,6 @@
     ====================================================== -->
 
     <script src="/js/main.js"></script>
-
-    <!--
-      Formularz celowo nie ma jeszcze fetch().
-      Podłączenie webhooka n8n wykonamy w osobnym kroku.
-    -->
-
-    <script>
-      const salonServiceForm = document.getElementById("salonServiceForm");
-
-      if (salonServiceForm) {
-        salonServiceForm.addEventListener("submit", function (event) {
-          event.preventDefault();
-        });
-      }
-    </script>
+    <script src="/js/service-lead-form.js"></script>
   </body>
 </html>
