@@ -1080,3 +1080,292 @@
 
     line-height: 1.7;
 }
+
+/* =========================================================
+   ARTICLE SERVICE FORM
+========================================================= */
+
+.article-service-form {
+    position: relative;
+
+    margin-top: 75px;
+    margin-bottom: 65px;
+
+    padding: 45px;
+
+    overflow: hidden;
+
+    border: 1px solid rgba(203, 178, 106, 0.34);
+    border-radius: var(--radius-lg);
+
+    background:
+        radial-gradient(circle at 100% 0%,
+            rgba(203, 178, 106, 0.12),
+            transparent 42%),
+        var(--black-card);
+}
+
+
+.article-service-form::before {
+    content: "";
+
+    position: absolute;
+
+    top: 0;
+    left: 45px;
+
+    width: 90px;
+    height: 2px;
+
+    background:
+        linear-gradient(90deg,
+            var(--gold-dark),
+            var(--gold-light));
+}
+
+
+.article-content .article-service-form h2 {
+    margin: 0 0 17px;
+
+    color: var(--white);
+
+    font-size: clamp(27px, 4vw, 38px);
+}
+
+
+.article-service-form__lead {
+    max-width: 680px;
+
+    margin-bottom: 35px !important;
+
+    color: rgba(255, 255, 255, 0.68);
+}
+
+
+.article-service-form__form {
+    margin-top: 32px;
+}
+
+
+.article-service-form__grid {
+    display: grid;
+
+    grid-template-columns:
+        repeat(2, minmax(0, 1fr));
+
+    gap: 24px;
+}
+
+
+.article-service-form__field {
+    display: flex;
+    flex-direction: column;
+
+    gap: 9px;
+}
+
+
+.article-service-form__field--full {
+    grid-column: 1 / -1;
+}
+
+
+.article-service-form__field label {
+    color: var(--white);
+
+    font-size: 13px;
+    font-weight: 600;
+
+    line-height: 1.4;
+}
+
+
+.article-service-form__field input {
+    width: 100%;
+    min-height: 52px;
+
+    padding: 0 16px;
+
+    border:
+        1px solid rgba(255, 255, 255, 0.13);
+
+    border-radius: var(--radius-sm);
+
+    outline: none;
+
+    background: rgba(255, 255, 255, 0.035);
+
+    color: var(--white);
+
+    font: inherit;
+    font-size: 15px;
+
+    transition:
+        border-color var(--transition),
+        background var(--transition),
+        box-shadow var(--transition);
+}
+
+
+.article-service-form__field input::placeholder {
+    color: rgba(255, 255, 255, 0.32);
+}
+
+
+.article-service-form__field input:hover {
+    border-color:
+        rgba(203, 178, 106, 0.42);
+}
+
+
+.article-service-form__field input:focus {
+    border-color: var(--gold);
+
+    background:
+        rgba(203, 178, 106, 0.045);
+
+    box-shadow:
+        0 0 0 3px rgba(203, 178, 106, 0.08);
+}
+
+
+.article-service-form__field small {
+    color: rgba(255, 255, 255, 0.4);
+
+    font-size: 11px;
+    line-height: 1.5;
+}
+
+
+.article-service-form__submit {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    min-height: 52px;
+
+    margin-top: 30px;
+
+    padding: 0 25px;
+
+    border: 1px solid var(--gold);
+    border-radius: var(--radius-sm);
+
+    cursor: pointer;
+
+    background:
+        linear-gradient(135deg,
+            var(--gold-dark),
+            var(--gold-light));
+
+    color: var(--black-deep);
+
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: 700;
+
+    transition:
+        transform var(--transition),
+        box-shadow var(--transition);
+}
+
+
+.article-service-form__submit:hover {
+    transform: translateY(-2px);
+
+    box-shadow:
+        0 10px 30px rgba(203, 178, 106, 0.16);
+}
+
+
+.article-service-form__submit:focus-visible {
+    outline: 2px solid var(--gold-light);
+    outline-offset: 4px;
+}
+
+
+/* =========================================================
+   ARTICLE SERVICE FORM - TABLET
+========================================================= */
+
+@media (max-width: 768px) {
+
+    .article-service-form {
+        margin-top: 60px;
+        margin-bottom: 55px;
+
+        padding: 34px 28px;
+    }
+
+
+    .article-service-form::before {
+        left: 28px;
+
+        width: 70px;
+    }
+
+
+    .article-service-form__grid {
+        grid-template-columns: 1fr;
+
+        gap: 20px;
+    }
+
+
+    .article-service-form__field--full {
+        grid-column: auto;
+    }
+
+
+    .article-service-form__submit {
+        width: 100%;
+    }
+}
+
+
+/* =========================================================
+   ARTICLE SERVICE FORM - MOBILE
+========================================================= */
+
+@media (max-width: 480px) {
+
+    .article-service-form {
+        margin-top: 50px;
+        margin-bottom: 45px;
+
+        padding: 30px 20px;
+
+        border-radius: var(--radius-md);
+    }
+
+
+    .article-service-form::before {
+        left: 20px;
+
+        width: 60px;
+    }
+
+
+    .article-service-form__form {
+        margin-top: 26px;
+    }
+
+
+    .article-service-form__field input {
+        min-height: 50px;
+
+        padding: 0 14px;
+
+        font-size: 16px;
+    }
+
+
+    .article-service-form__submit {
+        min-height: 52px;
+
+        padding: 10px 18px;
+
+        line-height: 1.4;
+        text-align: center;
+    }
+}
