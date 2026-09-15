@@ -366,8 +366,6 @@
     <nav class="nav" id="siteNav" aria-label="Основная навигация">
       <div class="container">
         <div class="nav-row">
-          <!-- LOGO -->
-
           <a
             href="/ru/"
             class="logo"
@@ -377,8 +375,6 @@
 
             <span class="brand-service"> SERVICE </span>
           </a>
-
-          <!-- NAVIGATION -->
 
           <ul class="nav-list" id="primaryNavigation">
             <li class="nav-list__item">
@@ -419,8 +415,6 @@
             </li>
           </ul>
 
-          <!-- LANGUAGE SWITCHER -->
-
           <div class="language-switcher" aria-label="Выбор языка">
             <a
               href="/kontakt.html"
@@ -445,8 +439,6 @@
               RU
             </a>
           </div>
-
-          <!-- MOBILE BURGER -->
 
           <button
             class="nav-toggle"
@@ -624,60 +616,89 @@
       </section>
 
       <!-- =================================================
-           04. SERVICE FORM
+           04. SERVICE LEAD FORM
       ================================================== -->
 
       <section class="section scroll-animate scroll-up">
         <div class="container" id="contactid">
           <div class="contact">
-            <h2 class="title-1">Отправить заявку в сервис</h2>
+            <h2 class="title-1">Вы владелец салона?</h2>
 
             <div class="contact-form__title">
-              <h3 class="title-3">Опишите проблему с оборудованием</h3>
+              <h3 class="title-3">Оставьте данные — мы свяжемся с вами</h3>
+
+              <p>
+                Обсудим техническое состояние вашего лазера, неисправность,
+                ремонт или возможность проведения планового технического
+                обслуживания.
+              </p>
             </div>
 
-            <form id="contactForm">
+            <form
+              id="salonServiceForm"
+              class="article-service-form__form"
+              novalidate
+            >
               <div class="form-row">
                 <input
                   class="form"
                   type="text"
-                  name="name"
-                  placeholder="Имя"
+                  id="fullName"
+                  name="fullName"
+                  placeholder="Имя и фамилия"
                   autocomplete="name"
                   required
                 />
 
                 <input
                   class="form"
-                  id="phone"
                   type="tel"
+                  id="phone"
                   name="phone"
-                  placeholder="Номер телефона"
+                  placeholder="+48"
                   autocomplete="tel"
-                  required
+                  inputmode="tel"
                   value="+48"
+                  required
                 />
               </div>
 
-              <div class="custom-select" id="equipmentSelect">
-                <div class="select-selected" role="button" tabindex="0">
-                  Выберите оборудование
-                </div>
+              <div class="form-row">
+                <input
+                  class="form"
+                  type="text"
+                  id="city"
+                  name="city"
+                  placeholder="Город"
+                  autocomplete="address-level2"
+                  required
+                />
 
-                <div class="select-items select-hide">
-                  <div>Диодный лазер</div>
-                  <div>IPL</div>
-                  <div>Лазер CO2</div>
-                  <div>Пикосекундный лазер</div>
-                  <div>ND:YAG</div>
-                  <div>RF</div>
-                  <div>LPG</div>
-                  <div>Криотерапия</div>
-                  <div>Другое</div>
-                </div>
+                <input
+                  class="form"
+                  type="text"
+                  id="salonName"
+                  name="salonName"
+                  placeholder="Название салона"
+                  autocomplete="organization"
+                  required
+                />
               </div>
 
-              <input type="hidden" name="equipment" id="equipmentInput" />
+              <div class="form-row">
+                <input
+                  class="form"
+                  type="text"
+                  id="deviceName"
+                  name="deviceName"
+                  placeholder="Название или модель лазера"
+                  required
+                />
+              </div>
+
+              <input type="hidden" name="source" value="ru-contact" />
+
+              <input type="hidden" name="language" value="ru" />
 
               <label class="consent">
                 <input type="checkbox" name="consent" required />
@@ -688,13 +709,10 @@
                 </span>
               </label>
 
-              <button class="btn" type="submit">Отправить заявку</button>
+              <button class="btn article-service-form__submit" type="submit">
+                Отправить заявку
+              </button>
             </form>
-
-            <div class="success-message title-3" id="successMsg">
-              Спасибо. Наш консультант свяжется с вами в ближайшее возможное
-              время.
-            </div>
           </div>
         </div>
       </section>
@@ -964,5 +982,6 @@
     ====================================================== -->
 
     <script src="/js/main.js"></script>
+    <script src="/js/service-lead-form.js"></script>
   </body>
 </html>

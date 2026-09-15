@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="pl">
+<html lang="ru">
   <head>
     <!-- =====================================================
          01. BASIC META
@@ -10,17 +10,77 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <meta name="robots" content="noindex, follow" />
+    <meta name="robots" content="index, follow" />
 
-    <title>Błąd 404 | Laser Tech Service</title>
+    <title>
+      Ремонт диодных лазеров | Сервис лазерного оборудования – Вроцлав, Польша
+    </title>
 
     <meta
       name="description"
-      content="Nie znaleźliśmy tej strony. Wróć na stronę główną Laser Tech Service, sprawdź nasze usługi, realizacje, blog lub skontaktuj się z serwisem."
+      content="Laser Tech Service – профессиональный ремонт диодных лазеров и косметологического оборудования. Замена диодов, ремонт головок, охлаждения и электроники. Вроцлав и вся Польша."
+    />
+
+    <meta name="author" content="Laser Tech Service" />
+
+    <!-- =====================================================
+         02. CANONICAL
+    ====================================================== -->
+
+    <link rel="canonical" href="https://lasertechservice.pl/ru/" />
+
+    <!-- =====================================================
+         03. OPEN GRAPH
+    ====================================================== -->
+
+    <meta
+      property="og:title"
+      content="Laser Tech Service – Ремонт лазерного оборудования"
+    />
+
+    <meta
+      property="og:description"
+      content="Профессиональный сервис диодных лазеров и косметологического оборудования. Вроцлав и вся Польша."
+    />
+
+    <meta
+      property="og:image"
+      content="https://lasertechservice.pl/img/001.jpg"
+    />
+
+    <meta property="og:url" content="https://lasertechservice.pl/ru/" />
+
+    <meta property="og:type" content="website" />
+
+    <meta property="og:locale" content="ru_RU" />
+
+    <meta property="og:locale:alternate" content="pl_PL" />
+
+    <meta property="og:site_name" content="Laser Tech Service" />
+
+    <!-- =====================================================
+         04. TWITTER
+    ====================================================== -->
+
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <meta
+      name="twitter:title"
+      content="Laser Tech Service – Ремонт лазерного оборудования"
+    />
+
+    <meta
+      name="twitter:description"
+      content="Ремонт диодных лазеров, IPL, ND:YAG, CO2 и косметологического оборудования. Вроцлав и вся Польша."
+    />
+
+    <meta
+      name="twitter:image"
+      content="https://lasertechservice.pl/img/001.jpg"
     />
 
     <!-- =====================================================
-         02. FAVICON
+         05. FAVICON / WEB APP
     ====================================================== -->
 
     <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
@@ -36,501 +96,131 @@
     <link rel="manifest" href="/site.webmanifest" />
 
     <!-- =====================================================
-         03. MAIN CSS
+         06. LANGUAGE VERSIONS
+    ====================================================== -->
+
+    <link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/" />
+
+    <link
+      rel="alternate"
+      hreflang="ru"
+      href="https://lasertechservice.pl/ru/"
+    />
+
+    <link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://lasertechservice.pl/"
+    />
+
+    <!-- =====================================================
+         07. PHONE INPUT
+    ====================================================== -->
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.19/css/intlTelInput.min.css"
+    />
+
+    <!-- =====================================================
+         08. MAIN CSS
     ====================================================== -->
 
     <link rel="stylesheet" href="/css/main.css" />
 
     <!-- =====================================================
-         04. 404 PAGE CSS
+         09. LOCAL BUSINESS SCHEMA
     ====================================================== -->
 
-    <style>
-      /* =====================================================
-         404 PAGE
-      ====================================================== */
-
-      .error-page {
-        position: relative;
-        overflow: hidden;
-        min-height: calc(100vh - 80px);
-        background:
-          radial-gradient(
-            circle at 72% 32%,
-            rgba(203, 178, 106, 0.12),
-            transparent 34%
-          ),
-          linear-gradient(135deg, #0d0d0e 0%, #171718 52%, #0d0d0e 100%);
-        color: #ffffff;
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "Laser Tech Service",
+        "image": "https://lasertechservice.pl/img/001.jpg",
+        "url": "https://lasertechservice.pl/",
+        "telephone": "+48 790 402 597",
+        "email": "contact@lasertechservice.pl",
+        "description": "Профессиональный сервис и ремонт лазерного и косметологического оборудования. Замена диодов, ремонт головок, электроники и систем охлаждения. Вроцлав и вся Польша.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Marsz. Józefa Piłsudskiego 74 lok. 320",
+          "addressLocality": "Wrocław",
+          "postalCode": "50-020",
+          "addressCountry": "PL"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.1009351,
+          "longitude": 17.0322713
+        },
+        "openingHours": "Mo-Fr 09:00-17:00"
       }
-
-      .error-page::before {
-        content: "";
-        position: absolute;
-        top: -220px;
-        left: -180px;
-        width: 520px;
-        height: 520px;
-        border: 1px solid rgba(203, 178, 106, 0.08);
-        border-radius: 50%;
-        pointer-events: none;
-      }
-
-      .error-page::after {
-        content: "";
-        position: absolute;
-        right: -250px;
-        bottom: -300px;
-        width: 650px;
-        height: 650px;
-        border: 1px solid rgba(203, 178, 106, 0.06);
-        border-radius: 50%;
-        pointer-events: none;
-      }
-
-      .error-hero {
-        position: relative;
-        z-index: 2;
-        padding: 80px 0 70px;
-      }
-
-      .error-hero__grid {
-        display: grid;
-        grid-template-columns: minmax(0, 0.88fr) minmax(0, 1.12fr);
-        gap: 60px;
-        align-items: center;
-      }
-
-      /* =====================================================
-         ERROR CONTENT
-      ====================================================== */
-
-      .error-content {
-        position: relative;
-        z-index: 3;
-      }
-
-      .error-code {
-        margin: 0 0 10px;
-        color: var(--gold);
-        font-family: var(--font-main);
-        font-size: clamp(100px, 12vw, 190px);
-        font-weight: 800;
-        line-height: 0.85;
-        letter-spacing: -0.07em;
-      }
-
-      .error-eyebrow {
-        display: inline-flex;
-        align-items: center;
-        gap: 10px;
-        margin-bottom: 18px;
-        color: var(--gold-light);
-        font-size: 12px;
-        font-weight: 700;
-        letter-spacing: 0.18em;
-        text-transform: uppercase;
-      }
-
-      .error-eyebrow::before {
-        content: "";
-        width: 34px;
-        height: 1px;
-        background: var(--gold);
-      }
-
-      .error-title {
-        max-width: 600px;
-        margin: 0 0 20px;
-        color: #ffffff;
-        font-size: clamp(34px, 4vw, 58px);
-        font-weight: 700;
-        line-height: 1.05;
-        letter-spacing: -0.035em;
-      }
-
-      .error-title span {
-        color: var(--gold-light);
-      }
-
-      .error-text {
-        max-width: 610px;
-        margin: 0 0 34px;
-        color: rgba(255, 255, 255, 0.7);
-        font-size: 17px;
-        line-height: 1.75;
-      }
-
-      .error-actions {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 12px;
-      }
-
-      .error-btn {
-        display: inline-flex;
-        min-height: 52px;
-        align-items: center;
-        justify-content: center;
-        padding: 0 25px;
-        border: 1px solid var(--gold);
-        border-radius: var(--radius-sm);
-        background: var(--gold);
-        color: var(--black-deep);
-        font-size: 13px;
-        font-weight: 700;
-        letter-spacing: 0.03em;
-        text-decoration: none;
-        transition:
-          transform var(--transition),
-          background var(--transition),
-          color var(--transition),
-          border-color var(--transition);
-      }
-
-      .error-btn:hover {
-        transform: translateY(-2px);
-        background: var(--gold-light);
-        border-color: var(--gold-light);
-      }
-
-      .error-btn--secondary {
-        background: transparent;
-        color: #ffffff;
-        border-color: rgba(255, 255, 255, 0.18);
-      }
-
-      .error-btn--secondary:hover {
-        background: rgba(255, 255, 255, 0.06);
-        border-color: var(--gold);
-        color: var(--gold-light);
-      }
-
-      /* =====================================================
-         RACCOON IMAGE
-      ====================================================== */
-
-      .error-visual {
-        position: relative;
-        min-width: 0;
-      }
-
-      .error-visual::before {
-        content: "";
-        position: absolute;
-        inset: 12% -5% -8% 10%;
-        z-index: -1;
-        background: rgba(203, 178, 106, 0.13);
-        filter: blur(70px);
-        border-radius: 50%;
-      }
-
-      .error-image {
-        position: relative;
-        overflow: hidden;
-        margin: 0;
-        border: 1px solid rgba(203, 178, 106, 0.25);
-        border-radius: 26px;
-        background: #171718;
-        box-shadow:
-          0 35px 90px rgba(0, 0, 0, 0.5),
-          0 0 0 1px rgba(255, 255, 255, 0.02);
-      }
-
-      .error-image img {
-        display: block;
-        width: 100%;
-        height: auto;
-        aspect-ratio: 3 / 2;
-        object-fit: cover;
-      }
-
-      .error-image__badge {
-        position: absolute;
-        right: 20px;
-        bottom: 20px;
-        display: flex;
-        align-items: center;
-        gap: 9px;
-        padding: 11px 15px;
-        border: 1px solid rgba(203, 178, 106, 0.3);
-        border-radius: 999px;
-        background: rgba(13, 13, 14, 0.82);
-        color: rgba(255, 255, 255, 0.82);
-        font-size: 11px;
-        font-weight: 700;
-        letter-spacing: 0.08em;
-        text-transform: uppercase;
-        backdrop-filter: blur(12px);
-      }
-
-      .error-image__status {
-        width: 8px;
-        height: 8px;
-        border-radius: 50%;
-        background: var(--gold);
-        box-shadow: 0 0 15px rgba(203, 178, 106, 0.8);
-      }
-
-      /* =====================================================
-         QUICK LINKS
-      ====================================================== */
-
-      .error-links {
-        position: relative;
-        z-index: 2;
-        padding: 20px 0 90px;
-      }
-
-      .error-links__heading {
-        max-width: 650px;
-        margin-bottom: 32px;
-      }
-
-      .error-links__eyebrow {
-        display: block;
-        margin-bottom: 10px;
-        color: var(--gold);
-        font-size: 11px;
-        font-weight: 700;
-        letter-spacing: 0.18em;
-        text-transform: uppercase;
-      }
-
-      .error-links__title {
-        margin: 0;
-        color: #ffffff;
-        font-size: clamp(27px, 3vw, 38px);
-        line-height: 1.15;
-      }
-
-      .error-links__grid {
-        display: grid;
-        grid-template-columns: repeat(4, minmax(0, 1fr));
-        gap: 16px;
-      }
-
-      .error-link-card {
-        position: relative;
-        display: flex;
-        min-height: 190px;
-        flex-direction: column;
-        justify-content: space-between;
-        padding: 25px;
-        overflow: hidden;
-        border: 1px solid rgba(255, 255, 255, 0.09);
-        border-radius: var(--radius-md);
-        background: rgba(255, 255, 255, 0.035);
-        color: #ffffff;
-        text-decoration: none;
-        transition:
-          transform var(--transition),
-          border-color var(--transition),
-          background var(--transition);
-      }
-
-      .error-link-card:hover {
-        transform: translateY(-4px);
-        border-color: rgba(203, 178, 106, 0.55);
-        background: rgba(203, 178, 106, 0.07);
-      }
-
-      .error-link-card__number {
-        color: rgba(203, 178, 106, 0.5);
-        font-size: 12px;
-        font-weight: 700;
-      }
-
-      .error-link-card h2 {
-        margin: 28px 0 8px;
-        color: #ffffff;
-        font-size: 19px;
-        line-height: 1.25;
-      }
-
-      .error-link-card p {
-        margin: 0;
-        color: rgba(255, 255, 255, 0.52);
-        font-size: 13px;
-        line-height: 1.65;
-      }
-
-      .error-link-card__arrow {
-        position: absolute;
-        top: 22px;
-        right: 23px;
-        color: var(--gold);
-        font-size: 20px;
-        transition: transform var(--transition);
-      }
-
-      .error-link-card:hover .error-link-card__arrow {
-        transform: translate(3px, -3px);
-      }
-
-      /* =====================================================
-         HELP / CONTACT
-      ====================================================== */
-
-      .error-help {
-        position: relative;
-        z-index: 2;
-        padding: 0 0 100px;
-      }
-
-      .error-help__box {
-        display: grid;
-        grid-template-columns: minmax(0, 1fr) auto;
-        gap: 40px;
-        align-items: center;
-        padding: 38px 42px;
-        border: 1px solid rgba(203, 178, 106, 0.25);
-        border-radius: var(--radius-lg);
-        background: linear-gradient(
-          135deg,
-          rgba(203, 178, 106, 0.1),
-          rgba(255, 255, 255, 0.025)
-        );
-      }
-
-      .error-help__content h2 {
-        margin: 0 0 10px;
-        color: #ffffff;
-        font-size: clamp(24px, 3vw, 34px);
-      }
-
-      .error-help__content p {
-        max-width: 650px;
-        margin: 0;
-        color: rgba(255, 255, 255, 0.58);
-      }
-
-      .error-help__actions {
-        display: flex;
-        gap: 10px;
-      }
-
-      /* =====================================================
-         MOBILE
-      ====================================================== */
-
-      @media (max-width: 1050px) {
-        .error-hero__grid {
-          grid-template-columns: 1fr;
-          gap: 45px;
-        }
-
-        .error-content {
-          max-width: 760px;
-        }
-
-        .error-visual {
-          max-width: 850px;
-        }
-
-        .error-links__grid {
-          grid-template-columns: repeat(2, minmax(0, 1fr));
-        }
-      }
-
-      @media (max-width: 760px) {
-        .error-hero {
-          padding: 50px 0 55px;
-        }
-
-        .error-hero__grid {
-          display: flex;
-          flex-direction: column;
-          gap: 35px;
-        }
-
-        .error-visual {
-          order: 1;
-        }
-
-        .error-content {
-          order: 2;
-        }
-
-        .error-code {
-          font-size: 100px;
-        }
-
-        .error-title {
-          font-size: 38px;
-        }
-
-        .error-text {
-          font-size: 15px;
-        }
-
-        .error-actions {
-          flex-direction: column;
-        }
-
-        .error-btn {
-          width: 100%;
-        }
-
-        .error-image {
-          border-radius: 18px;
-        }
-
-        .error-image__badge {
-          right: 12px;
-          bottom: 12px;
-          padding: 9px 12px;
-          font-size: 9px;
-        }
-
-        .error-links {
-          padding-bottom: 65px;
-        }
-
-        .error-links__grid {
-          grid-template-columns: 1fr;
-        }
-
-        .error-link-card {
-          min-height: 155px;
-        }
-
-        .error-help {
-          padding-bottom: 70px;
-        }
-
-        .error-help__box {
-          grid-template-columns: 1fr;
-          gap: 25px;
-          padding: 28px 22px;
-        }
-
-        .error-help__actions {
-          flex-direction: column;
-        }
-      }
-
-      @media (max-width: 480px) {
-        .error-hero {
-          padding-top: 35px;
-        }
-
-        .error-code {
-          font-size: 82px;
-        }
-
-        .error-title {
-          font-size: 32px;
-        }
-
-        .error-image img {
-          aspect-ratio: 4 / 3;
-        }
-      }
-    </style>
+    </script>
 
     <!-- =====================================================
-         05. GOOGLE ANALYTICS
+         10. FAQ SCHEMA
+    ====================================================== -->
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Сколько времени занимает ремонт лазера?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Большинство ремонтов выполняем в течение 1–3 рабочих дней. При более сложных неисправностях срок может увеличиться — об этом мы сообщаем заранее."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Предоставляете ли вы гарантию на ремонт?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Да. На выполненные работы предоставляется гарантия. Её срок зависит от типа устройства и объёма ремонта — обычно от 3 до 6 месяцев."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Как передать устройство в сервис?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Можно связаться с нами по телефону, через WhatsApp или отправить заявку через форму. Опишите проблему и по возможности приложите фотографии устройства."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Можно ли отправить оборудование курьером?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Да. Оборудование можно отправить в наш сервис после предварительного согласования и надёжной упаковки."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Проводите ли вы бесплатную диагностику?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Диагностика бесплатна при последующем выполнении ремонта. В остальных случаях может взиматься плата за техническую экспертизу."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Какие запчасти вы используете?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Используем оригинальные комплектующие или проверенные качественные аналоги в зависимости от модели устройства, доступности и пожеланий клиента."
+            }
+          }
+        ]
+      }
+    </script>
+
+    <!-- =====================================================
+         11. GOOGLE ANALYTICS
     ====================================================== -->
 
     <script
@@ -550,7 +240,7 @@
     </script>
 
     <!-- =====================================================
-         06. GOOGLE TAG MANAGER - NEW
+         12. GOOGLE TAG MANAGER - OLD
     ====================================================== -->
 
     <script>
@@ -567,6 +257,32 @@
           dl = l != "dataLayer" ? "&l=" + l : "";
 
         j.async = true;
+
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-PT7BMHKW");
+    </script>
+
+    <!-- =====================================================
+         12.1 GOOGLE TAG MANAGER - NEW
+    ====================================================== -->
+
+    <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+
+        w[l].push({
+          "gtm.start": new Date().getTime(),
+          event: "gtm.js",
+        });
+
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+
+        j.async = true;
+
         j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
 
         f.parentNode.insertBefore(j, f);
@@ -574,7 +290,7 @@
     </script>
 
     <!-- =====================================================
-         07. GOOGLE ADS
+         13. GOOGLE ADS
     ====================================================== -->
 
     <script
@@ -594,9 +310,22 @@
     </script>
   </head>
 
-  <body class="pl">
+  <body class="ru">
     <!-- =====================================================
-         GTM NOSCRIPT
+         GOOGLE TAG MANAGER NOSCRIPT - OLD
+    ====================================================== -->
+
+    <noscript>
+      <iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-PT7BMHKW"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe>
+    </noscript>
+
+    <!-- =====================================================
+         GOOGLE TAG MANAGER NOSCRIPT - NEW
     ====================================================== -->
 
     <noscript>
@@ -649,7 +378,7 @@
         >
           <img
             src="/img/icons/whatsapp2.svg"
-            alt="WhatsApp Laser Tech Service"
+            alt="Связаться с сервисом через WhatsApp"
           />
         </a>
 
@@ -669,57 +398,64 @@
         <a
           href="tel:+48790402597"
           class="action"
-          aria-label="Zadzwoń do Laser Tech Service"
+          aria-label="Позвонить в Laser Tech Service"
         >
-          <img src="/img/icons/phone.svg" alt="Telefon Laser Tech Service" />
+          <img
+            src="/img/icons/phone.svg"
+            alt="Телефон сервиса лазерного оборудования"
+          />
         </a>
 
         <button
           type="button"
           class="trigger pulse"
-          aria-label="Otwórz menu kontaktowe"
+          aria-label="Открыть меню контактов"
         >
-          <img src="/img/icons/social.svg" alt="Menu kontaktowe" />
+          <img
+            src="/img/icons/social.svg"
+            alt="Контактное меню Laser Tech Service"
+          />
         </button>
       </menu>
     </div>
 
     <!-- =====================================================
-         02. NAVIGATION
+         02. MAIN NAVIGATION
     ====================================================== -->
 
-    <nav class="nav" id="siteNav" aria-label="Główna nawigacja">
+    <nav class="nav" id="siteNav" aria-label="Основная навигация">
       <div class="container">
         <div class="nav-row">
-          <!-- LOGO -->
-
           <a
-            href="/"
+            href="/ru/"
             class="logo"
-            aria-label="Laser Tech Service — strona główna"
+            aria-label="Laser Tech Service — главная страница"
           >
             <span class="brand-laser-tech"> LASER TECH </span>
-
             <span class="brand-service"> SERVICE </span>
           </a>
 
-          <!-- MENU -->
-
           <ul class="nav-list" id="primaryNavigation">
             <li class="nav-list__item">
-              <a href="/" class="nav-list__link"> Strona główna </a>
+              <a
+                href="/ru/"
+                class="nav-list__link nav-list__link--active"
+                aria-current="page"
+              >
+                Главная
+              </a>
             </li>
 
             <li class="nav-list__item">
-              <a href="/uslugi.html" class="nav-list__link"> Usługi </a>
+              <a href="/ru/uslugi.html" class="nav-list__link"> Услуги </a>
             </li>
 
             <li class="nav-list__item">
-              <a href="/realizacje/" class="nav-list__link"> Realizacje </a>
+              <a href="/realizacje/" class="nav-list__link"> Реализации </a>
             </li>
 
             <li class="nav-list__item">
-              <a href="/blog/" class="nav-list__link"> Blog </a>
+              <a href="/ru/blog/" class="nav-list__link"> Блог </a>
             </li>
 
             <li class="nav-list__item">
@@ -734,19 +470,12 @@
             </li>
 
             <li class="nav-list__item">
-              <a href="/kontakt.html" class="nav-list__link"> Kontakt </a>
+              <a href="/ru/kontakt.html" class="nav-list__link"> Контакты </a>
             </li>
           </ul>
 
-          <!-- LANGUAGE -->
-
-          <div class="language-switcher" aria-label="Wybór języka">
-            <a
-              href="/"
-              class="language-switcher__link language-switcher__link--active"
-              lang="pl"
-              hreflang="pl"
-            >
+          <div class="language-switcher" aria-label="Выбор языка">
+            <a href="/" class="language-switcher__link" lang="pl" hreflang="pl">
               PL
             </a>
 
@@ -756,20 +485,19 @@
 
             <a
               href="/ru/"
-              class="language-switcher__link"
+              class="language-switcher__link language-switcher__link--active"
               lang="ru"
               hreflang="ru"
+              aria-current="page"
             >
               RU
             </a>
           </div>
 
-          <!-- BURGER -->
-
           <button
             class="nav-toggle"
             type="button"
-            aria-label="Otwórz menu"
+            aria-label="Открыть меню"
             aria-controls="primaryNavigation"
             aria-expanded="false"
           >
@@ -782,205 +510,919 @@
     </nav>
 
     <!-- =====================================================
-         MAIN
+         03. HERO
     ====================================================== -->
 
-    <main class="error-page">
-      <!-- =================================================
-           03. HERO
-      ================================================== -->
+    <header class="header">
+      <div class="header__wrapper">
+        <h1 class="header__title">
+          <strong>
+            Ремонт диодных лазеров и косметологического оборудования
+          </strong>
+        </h1>
 
-      <section class="error-hero">
-        <div class="container">
-          <div class="error-hero__grid">
-            <!-- CONTENT -->
+        <div class="header__text">
+          <p>
+            Комплексная диагностика, ремонт и восстановление диодных лазеров:
+            замена диодов, ремонт систем охлаждения, электроники и головок.
+            Вроцлав и вся Польша.
+          </p>
+        </div>
 
-            <div class="error-content">
-              <span class="error-eyebrow"> Laser Tech Service </span>
+        <a
+          href="https://wa.me/48790402597"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn"
+        >
+          Связаться через WhatsApp
+        </a>
+      </div>
+    </header>
 
-              <p class="error-code" aria-label="Błąd 404">404</p>
+    <!-- =====================================================
+         04. DEVICES CAROUSEL
+    ====================================================== -->
 
-              <h1 class="error-title">Ojej… <span>błąd 404.</span></h1>
+    <section
+      class="devices-carousel"
+      aria-label="Оборудование, которое мы обслуживаем"
+    >
+      <div class="carousel-wrapper">
+        <div class="carousel-track" id="carouselTrack">
+          <div class="device">
+            <img
+              src="/img/map.png"
+              alt="Сервис лазерного оборудования по всей Польше"
+            />
+          </div>
 
-              <p class="error-text">
-                Wygląda na to, że ta strona wymaga małego serwisu. Spokojnie —
-                już nad tym pracuję. W międzyczasie możesz wrócić na stronę
-                główną albo sprawdzić, co ostatnio naprawialiśmy.
-              </p>
+          <div class="device">
+            <img
+              src="/img/diod.jpg"
+              alt="Ремонт диодных лазеров для депиляции"
+            />
+          </div>
 
-              <div class="error-actions">
-                <a href="/" class="error-btn"> Wróć na stronę główną </a>
+          <div class="device">
+            <img src="/img/ndyag.jpg" alt="Ремонт и сервис лазеров ND:YAG" />
+          </div>
 
-                <a href="/realizacje/" class="error-btn error-btn--secondary">
-                  Zobacz realizacje
-                </a>
-              </div>
-            </div>
+          <div class="device">
+            <img
+              src="/img/ir.png"
+              alt="Ремонт профессионального лазерного оборудования"
+            />
+          </div>
 
-            <!-- RACCOON -->
+          <div class="device">
+            <img
+              src="/img/massage.jpg"
+              alt="Ремонт косметологического массажного оборудования"
+            />
+          </div>
 
-            <div class="error-visual">
-              <figure class="error-image">
-                <img
-                  src="/img/404/lts-raccoon-404.webp"
-                  alt="Szop technik Laser Tech Service naprawiający urządzenie laserowe"
-                  width="1536"
-                  height="1024"
-                  loading="eager"
-                  fetchpriority="high"
-                />
+          <div class="device">
+            <img
+              src="/img/cryo.jpg"
+              alt="Ремонт оборудования для криотерапии"
+            />
+          </div>
 
-                <figcaption class="error-image__badge">
-                  <span class="error-image__status" aria-hidden="true"></span>
-
-                  Serwis w toku
-                </figcaption>
-              </figure>
-            </div>
+          <div class="device">
+            <img
+              src="/img/alex.jpg"
+              alt="Профессиональный сервис лазерного оборудования"
+            />
           </div>
         </div>
-      </section>
+      </div>
+    </section>
 
+    <main>
       <!-- =================================================
-           04. QUICK LINKS
+           05. WHY LASER TECH SERVICE
       ================================================== -->
 
-      <section class="error-links">
+      <section class="section scroll-animate scroll-up">
         <div class="container">
-          <div class="error-links__heading">
-            <span class="error-links__eyebrow"> Może tego szukasz? </span>
+          <div class="key">
+            <div class="key__img">
+              <img
+                src="/img/laser.png"
+                alt="Профессиональный ремонт лазерного оборудования"
+              />
+            </div>
 
-            <h2 class="error-links__title">Wybierz, dokąd chcesz przejść</h2>
-          </div>
+            <div class="key__content">
+              <h2 class="title-3">Почему выбирают Laser Tech Service?</h2>
 
-          <div class="error-links__grid">
-            <!-- SERVICES -->
+              <ul class="key__list">
+                <li>
+                  <strong>Сотни</strong>
+                  отремонтированных косметологических аппаратов — от небольших
+                  неисправностей до комплексного восстановления.
+                </li>
 
-            <a href="/uslugi.html" class="error-link-card">
-              <span class="error-link-card__number"> 01 </span>
+                <li>
+                  Обслуживаем
+                  <strong>различные марки</strong>
+                  диодных лазеров.
+                </li>
 
-              <span class="error-link-card__arrow" aria-hidden="true"> ↗ </span>
+                <li>
+                  <strong>Быстрая диагностика</strong>
+                  и возможность обслуживания
+                  <strong>непосредственно у клиента.</strong>
+                </li>
 
-              <div>
-                <h2>Usługi</h2>
+                <li>
+                  Предоставляем
+                  <strong>письменную гарантию</strong>
+                  на выполненные работы и заменённые компоненты.
+                </li>
+              </ul>
 
-                <p>
-                  Diagnostyka, naprawa i serwis profesjonalnego sprzętu
-                  kosmetologicznego.
-                </p>
-              </div>
-            </a>
-
-            <!-- REALIZATIONS -->
-
-            <a href="/realizacje/" class="error-link-card">
-              <span class="error-link-card__number"> 02 </span>
-
-              <span class="error-link-card__arrow" aria-hidden="true"> ↗ </span>
-
-              <div>
-                <h2>Realizacje</h2>
-
-                <p>
-                  Zobacz prawdziwe naprawy wykonane przez Laser Tech Service.
-                </p>
-              </div>
-            </a>
-
-            <!-- BLOG -->
-
-            <a href="/blog/" class="error-link-card">
-              <span class="error-link-card__number"> 03 </span>
-
-              <span class="error-link-card__arrow" aria-hidden="true"> ↗ </span>
-
-              <div>
-                <h2>Blog</h2>
-
-                <p>
-                  Wiedza o serwisie, diagnostyce i eksploatacji urządzeń
-                  kosmetologicznych.
-                </p>
-              </div>
-            </a>
-
-            <!-- MARKET -->
-
-            <a
-              href="https://ltsmarket.pl/"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="error-link-card"
-            >
-              <span class="error-link-card__number"> 04 </span>
-
-              <span class="error-link-card__arrow" aria-hidden="true"> ↗ </span>
-
-              <div>
-                <h2>LTS Market</h2>
-
-                <p>Profesjonalne urządzenia i rozwiązania dla branży beauty.</p>
-              </div>
-            </a>
-          </div>
-        </div>
-      </section>
-
-      <!-- =================================================
-           05. CONTACT CTA
-      ================================================== -->
-
-      <section class="error-help">
-        <div class="container">
-          <div class="error-help__box">
-            <div class="error-help__content">
-              <h2>Problem nie dotyczy strony, tylko urządzenia?</h2>
+              <h2 class="title-3">Есть неисправность?</h2>
 
               <p>
-                To akurat dobra wiadomość — tym zajmujemy się na co dzień.
-                Zadzwoń lub wyślij nam wiadomość przez WhatsApp.
+                Отправьте заявку. Мы свяжемся с вами, уточним модель
+                оборудования и обсудим возможные варианты диагностики, ремонта
+                или планового обслуживания.
+              </p>
+
+              <a href="#contactid" class="btn"> Отправить заявку в сервис </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- =================================================
+           06. PARALLAX
+      ================================================== -->
+
+      <section class="section page-section-ptb parallax" id="whywe3">
+        <div class="container">
+          <div class="girl">
+            <div class="girl__row">
+              <div class="section-title">
+                <h6>Laser Tech Service</h6>
+
+                <h3>
+                  Восстанавливаем полную работоспособность вашего оборудования
+                </h3>
+              </div>
+            </div>
+          </div>
+
+          <div class="girl">
+            <div class="girl__row">
+              <ul>
+                <li>Точная техническая диагностика</li>
+                <li>Замена ламп и диодов</li>
+                <li>Ремонт систем охлаждения</li>
+                <li>Профессиональное обслуживание</li>
+                <li>Техническая поддержка и установка</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div
+          class="jarallax"
+          data-jarallax
+          data-jarallax-speed="0.6"
+          style="background-image: url(&quot;/img/sprzet.jpg&quot;)"
+        ></div>
+      </section>
+
+      <!-- =================================================
+           07. BEFORE / AFTER
+      ================================================== -->
+
+      <section class="before-after">
+        <div class="container">
+          <h2 class="section-title title-1">Результаты нашей работы</h2>
+
+          <p class="section-subtitle">
+            Ремонтируем, восстанавливаем и возвращаем оборудованию полную
+            работоспособность.
+          </p>
+
+          <div class="ba-grid">
+            <article class="ba-item">
+              <div class="ba-images">
+                <img
+                  src="/img/przed1.jpg"
+                  alt="Головка диодного лазера до ремонта"
+                />
+
+                <img
+                  src="/img/po1.jpg"
+                  alt="Головка диодного лазера после ремонта"
+                />
+              </div>
+
+              <div class="ba-labels">
+                <span>ДО</span>
+                <span>ПОСЛЕ</span>
+              </div>
+
+              <h3>Восстановление головки диодного лазера</h3>
+
+              <p>
+                Замена диодов и восстановление рабочих параметров устройства.
+              </p>
+            </article>
+
+            <article class="ba-item">
+              <div class="ba-images">
+                <img
+                  src="/img/przed.jpg"
+                  alt="Лазерное оборудование до технического обслуживания"
+                />
+
+                <img
+                  src="/img/po.jpg"
+                  alt="Лазерное оборудование после технического обслуживания"
+                />
+              </div>
+
+              <div class="ba-labels">
+                <span>ДО</span>
+                <span>ПОСЛЕ</span>
+              </div>
+
+              <h3>Техническое обслуживание</h3>
+
+              <p>Чистка, диагностика и профилактическое обслуживание.</p>
+            </article>
+
+            <article class="ba-item">
+              <div class="ba-images">
+                <img
+                  src="/img/przed2.jpg"
+                  alt="Система охлаждения лазера до ремонта"
+                />
+
+                <img
+                  src="/img/po2.jpg"
+                  alt="Система охлаждения лазера после ремонта"
+                />
+              </div>
+
+              <div class="ba-labels">
+                <span>ДО</span>
+                <span>ПОСЛЕ</span>
+              </div>
+
+              <h3>Ремонт системы охлаждения</h3>
+
+              <p>Диагностика и замена повреждённых элементов системы.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- =================================================
+           08. SERVICES
+      ================================================== -->
+
+      <section class="section scroll-animate scroll-up">
+        <div class="container">
+          <div class="row">
+            <div class="row__item">
+              <div class="section-title">
+                <h2 class="title-1">Ремонт и сервис диодных лазеров</h2>
+
+                <h3 class="title-2">
+                  Обслуживание, замена диодов, ремонт электроники и систем
+                  охлаждения
+                </h3>
+
+                <p class="title-3">
+                  Работаем с оборудованием косметологических клиник, салонов
+                  красоты и кабинетов эстетической медицины.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="row__item">
+              <ul class="row__item-list">
+                <li>Диагностика и ремонт диодных лазеров</li>
+                <li>Восстановление лазерных головок</li>
+                <li>Замена и калибровка диодов</li>
+                <li>Ремонт систем охлаждения</li>
+                <li>Чистка и профилактика оборудования</li>
+                <li>Ремонт блоков питания и электроники</li>
+                <li>Ремонт сенсорных экранов и датчиков</li>
+                <li>Оптимизация мощности оборудования</li>
+                <li>Замена проводов и расходных элементов</li>
+                <li>Послегарантийный сервис</li>
+              </ul>
+
+              <p class="title-3">
+                <strong>
+                  Обслуживаем оборудование разных производителей.
+                </strong>
+
+                Возможен выезд к клиенту. На выполненные работы предоставляется
+                гарантия.
+              </p>
+
+              <p>
+                Работаем с клиентами по всей Польше: Вроцлав, Варшава, Краков,
+                Познань, Гданьск, Катовице, Ополе, Лодзь и другие города.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- =================================================
+           09. PDF
+      ================================================== -->
+
+      <section class="pdf-download">
+        <div class="container">
+          <h2 class="title-1">Первые признаки неисправности оборудования</h2>
+
+          <p>
+            Мы подготовили практическую памятку, которая поможет вовремя
+            заметить первые признаки неисправности диодного лазера.
+          </p>
+
+          <a
+            href="/files/Sprawdz-sprzet.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="btn-download"
+          >
+            Посмотреть PDF
+          </a>
+        </div>
+      </section>
+
+      <!-- =================================================
+           10. SERVICE LEAD FORM
+      ================================================== -->
+
+      <section class="section scroll-animate scroll-up">
+        <div class="container" id="contactid">
+          <div class="contact">
+            <h2 class="title-1">Вы владелец салона?</h2>
+
+            <div class="contact-form__title">
+              <h3 class="title-3">Оставьте данные — мы свяжемся с вами</h3>
+
+              <p>
+                Обсудим техническое состояние вашего лазера, неисправность,
+                ремонт или возможность проведения планового технического
+                обслуживания.
               </p>
             </div>
 
-            <div class="error-help__actions">
-              <a href="tel:+48790402597" class="error-btn error-btn--secondary">
-                +48 790 402 597
-              </a>
+            <form
+              id="salonServiceForm"
+              class="article-service-form__form"
+              novalidate
+            >
+              <div class="form-row">
+                <input
+                  class="form"
+                  type="text"
+                  id="fullName"
+                  name="fullName"
+                  placeholder="Имя и фамилия"
+                  autocomplete="name"
+                  required
+                />
 
+                <input
+                  class="form"
+                  type="tel"
+                  id="phone"
+                  name="phone"
+                  placeholder="+48"
+                  autocomplete="tel"
+                  inputmode="tel"
+                  required
+                  value="+48"
+                />
+              </div>
+
+              <div class="form-row">
+                <input
+                  class="form"
+                  type="text"
+                  id="city"
+                  name="city"
+                  placeholder="Город"
+                  autocomplete="address-level2"
+                  required
+                />
+
+                <input
+                  class="form"
+                  type="text"
+                  id="salonName"
+                  name="salonName"
+                  placeholder="Название салона"
+                  autocomplete="organization"
+                  required
+                />
+              </div>
+
+              <div class="form-row">
+                <input
+                  class="form"
+                  type="text"
+                  id="deviceName"
+                  name="deviceName"
+                  placeholder="Название или модель лазера"
+                  required
+                />
+              </div>
+
+              <input type="hidden" name="source" value="ru-homepage" />
+
+              <input type="hidden" name="language" value="ru" />
+
+              <label class="consent">
+                <input type="checkbox" name="consent" required />
+
+                <span>
+                  Даю согласие на обработку моих персональных данных компанией
+                  Laser Tech Service с целью обработки сервисной заявки.
+                </span>
+              </label>
+
+              <button class="btn article-service-form__submit" type="submit">
+                Отправить заявку
+              </button>
+            </form>
+          </div>
+        </div>
+      </section>
+
+      <!-- =================================================
+           11. INSTAGRAM
+      ================================================== -->
+
+      <section class="section">
+        <div class="container">
+          <div class="inst__sub">
+            <h2 class="title-1 inst__title">Следите за нами в Instagram</h2>
+
+            <div class="inst__screen">
               <a
-                href="https://wa.me/48790402597"
+                href="https://www.instagram.com/lasertech.service/"
                 target="_blank"
                 rel="noopener noreferrer"
-                class="error-btn"
               >
-                WhatsApp
+                <img src="/img/inst.png" alt="Laser Tech Service в Instagram" />
               </a>
             </div>
           </div>
+        </div>
+      </section>
+
+      <!-- =================================================
+           12. FAQ
+      ================================================== -->
+
+      <section class="section faq scroll-animate scroll-up">
+        <div class="container">
+          <h2 class="title-1">Часто задаваемые вопросы</h2>
+
+          <div class="container__faq">
+            <div class="faq__item">
+              <button class="faq__question" type="button">
+                <h3 class="title-3">Сколько времени занимает ремонт лазера?</h3>
+
+                <span class="faq__arrow"> ▼ </span>
+              </button>
+
+              <div class="faq__answer">
+                <p>
+                  Большинство ремонтов выполняем в течение 1–3 рабочих дней. При
+                  более сложных неисправностях срок может увеличиться — об этом
+                  мы сообщаем заранее.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq__item">
+              <button class="faq__question" type="button">
+                <h3 class="title-3">
+                  Предоставляете ли вы гарантию на ремонт?
+                </h3>
+
+                <span class="faq__arrow"> ▼ </span>
+              </button>
+
+              <div class="faq__answer">
+                <p>
+                  Да. На выполненные работы предоставляется гарантия. Её срок
+                  зависит от типа устройства и объёма ремонта — обычно от 3 до 6
+                  месяцев.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq__item">
+              <button class="faq__question" type="button">
+                <h3 class="title-3">Как передать устройство в сервис?</h3>
+
+                <span class="faq__arrow"> ▼ </span>
+              </button>
+
+              <div class="faq__answer">
+                <p>
+                  Свяжитесь с нами по телефону, через WhatsApp или отправьте
+                  заявку. Опишите проблему и по возможности приложите фотографии
+                  оборудования.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq__item">
+              <button class="faq__question" type="button">
+                <h3 class="title-3">
+                  Можно ли отправить оборудование курьером?
+                </h3>
+
+                <span class="faq__arrow"> ▼ </span>
+              </button>
+
+              <div class="faq__answer">
+                <p>
+                  Да. После предварительного согласования оборудование можно
+                  отправить в наш сервис. Его необходимо надёжно упаковать для
+                  транспортировки.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq__item">
+              <button class="faq__question" type="button">
+                <h3 class="title-3">Проводите ли вы бесплатную диагностику?</h3>
+
+                <span class="faq__arrow"> ▼ </span>
+              </button>
+
+              <div class="faq__answer">
+                <p>
+                  Диагностика бесплатна, если после неё выполняется ремонт. В
+                  остальных случаях может взиматься плата за техническую
+                  экспертизу.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq__item">
+              <button class="faq__question" type="button">
+                <h3 class="title-3">Какие запчасти вы используете?</h3>
+
+                <span class="faq__arrow"> ▼ </span>
+              </button>
+
+              <div class="faq__answer">
+                <p>
+                  Используем оригинальные комплектующие или проверенные
+                  качественные аналоги — в зависимости от модели, доступности и
+                  пожеланий клиента.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- =================================================
+           13. PROCESS
+      ================================================== -->
+
+      <section class="section scroll-animate scroll-up">
+        <div class="container">
+          <h2 class="title-1">Как проходит ремонт</h2>
+
+          <p class="process">
+            Если оборудование работает нестабильно, перегревается или выдаёт
+            ошибки, лучше обратиться в сервис до появления более серьёзной
+            неисправности.
+          </p>
+
+          <ol class="process__list">
+            <li class="process__info">
+              <span class="process__info-number title-1"> 01. </span>
+
+              <h3 class="process__info-title">Заявка</h3>
+
+              <p class="process__info-text">
+                Свяжитесь с нами по телефону, через форму или WhatsApp. Укажите
+                модель оборудования и проблему.
+              </p>
+            </li>
+
+            <li class="process__info">
+              <span class="process__info-number title-1"> 02. </span>
+
+              <h3 class="process__info-title">Диагностика</h3>
+
+              <p class="process__info-text">
+                Проводим предварительную диагностику удалённо или
+                непосредственно у клиента.
+              </p>
+            </li>
+
+            <li class="process__info">
+              <span class="process__info-number title-1"> 03. </span>
+
+              <h3 class="process__info-title">Ремонт и тестирование</h3>
+
+              <p class="process__info-text">
+                После согласования стоимости выполняем ремонт, замену
+                компонентов и проверку рабочих параметров оборудования.
+              </p>
+            </li>
+
+            <li class="process__info">
+              <span class="process__info-number title-1"> 04. </span>
+
+              <h3 class="process__info-title">Гарантия и поддержка</h3>
+
+              <p class="process__info-text">
+                После ремонта предоставляем гарантию и при необходимости
+                техническую поддержку.
+              </p>
+            </li>
+          </ol>
+
+          <div class="process-actions">
+            <a href="tel:+48790402597" class="btn btn__down"> Позвонить </a>
+
+            <a
+              href="https://wa.me/48790402597"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="btn btn__down btn-whatsapp"
+            >
+              WhatsApp
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <!-- =================================================
+           14. COMMON FAILURES
+      ================================================== -->
+
+      <section class="section faq-text scroll-animate scroll-up">
+        <div class="container">
+          <div class="section-heading-small">
+            <span class="section-eyebrow"> СЕРВИС </span>
+
+            <h2 class="title-1">Частые неисправности оборудования</h2>
+
+            <p class="section-description">
+              Если вы заметили один из этих признаков, рекомендуем ограничить
+              использование оборудования и обратиться в сервис.
+            </p>
+          </div>
+
+          <div class="faq-visual">
+            <div class="faq-card">Лазер перегревается</div>
+
+            <div class="faq-card">Головка не охлаждается</div>
+
+            <div class="faq-card">Лазер отключается во время работы</div>
+
+            <div class="faq-card">Нет импульсов</div>
+
+            <div class="faq-card">Ролики не вращаются</div>
+
+            <div class="faq-card">ND:YAG перегревается</div>
+
+            <div class="faq-card">ND:YAG — нет импульсов</div>
+
+            <div class="faq-card">Водородная очистка не работает</div>
+
+            <div class="faq-card">RF — иглы не выходят</div>
+
+            <div class="faq-card">Криомассаж не охлаждает</div>
+
+            <div class="faq-card">IPL — нет импульсов</div>
+
+            <div class="faq-card">IPL перегревается</div>
+
+            <div class="faq-card">IPL не включается</div>
+
+            <div class="faq-card">LPG — нет вакуума</div>
+
+            <div class="faq-card">CO2 не включается</div>
+
+            <div class="faq-card">CO2 перегревается</div>
+
+            <div class="faq-card">CO2 — нет импульсов</div>
+
+            <a href="tel:+48790402597" class="faq-card faq-card--contact">
+              Позвонить: +48 790 402 597
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <!-- =================================================
+           15. CONTACT
+      ================================================== -->
+
+      <section class="contact-section" id="kontakt">
+        <div class="container">
+          <div class="contact-section__header">
+            <span class="contact-section__eyebrow"> LASER TECH SERVICE </span>
+
+            <h2 class="contact-section__title">Контакты</h2>
+
+            <p class="contact-section__intro">
+              Свяжитесь с нами по телефону, через WhatsApp или e-mail. Работаем
+              с клиентами во Вроцлаве и по всей территории Польши.
+            </p>
+          </div>
+
+          <div class="contact-grid">
+            <article class="contact-card">
+              <div class="contact-card__icon" aria-hidden="true">
+                <svg
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.8"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path
+                    d="M20 10c0 5-8 12-8 12S4 15 4 10a8 8 0 1 1 16 0Z"
+                  ></path>
+
+                  <circle cx="12" cy="10" r="2.5"></circle>
+                </svg>
+              </div>
+
+              <div class="contact-card__content">
+                <h3>Местоположение</h3>
+
+                <p>50-020 Wrocław</p>
+
+                <span> Польша </span>
+              </div>
+            </article>
+
+            <article class="contact-card">
+              <div class="contact-card__icon" aria-hidden="true">
+                <svg
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.8"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path d="M3 21h18"></path>
+                  <path d="M6 21V4h9v17"></path>
+                  <path d="M15 9h3v12"></path>
+                  <path d="M9 7h2"></path>
+                  <path d="M9 11h2"></path>
+                  <path d="M9 15h2"></path>
+                </svg>
+              </div>
+
+              <div class="contact-card__content">
+                <h3>Адрес</h3>
+
+                <address>
+                  Marsz. Józefa Piłsudskiego 74
+                  <br />
+                  lok. 320
+                </address>
+              </div>
+            </article>
+
+            <article class="contact-card">
+              <div class="contact-card__icon" aria-hidden="true">
+                <svg
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.8"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path
+                    d="M22 16.92v3a2 2 0 0 1-2.18 2
+                    19.79 19.79 0 0 1-8.63-3.07
+                    19.5 19.5 0 0 1-6-6
+                    19.79 19.79 0 0 1-3.07-8.67
+                    A2 2 0 0 1 4.11 2h3
+                    a2 2 0 0 1 2 1.72"
+                  ></path>
+                </svg>
+              </div>
+
+              <div class="contact-card__content">
+                <h3>Телефон / WhatsApp</h3>
+
+                <a href="tel:+48790402597" class="contact-card__primary">
+                  +48 790 402 597
+                </a>
+
+                <a
+                  href="https://wa.me/48790402597"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="contact-card__secondary"
+                >
+                  Написать в WhatsApp
+                </a>
+              </div>
+            </article>
+
+            <article class="contact-card">
+              <div class="contact-card__icon" aria-hidden="true">
+                <svg
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.8"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <rect x="3" y="5" width="18" height="14" rx="2"></rect>
+
+                  <path d="m3 7 9 6 9-6"></path>
+                </svg>
+              </div>
+
+              <div class="contact-card__content">
+                <h3>E-mail</h3>
+
+                <a
+                  href="mailto:contact@lasertechservice.pl"
+                  class="contact-card__primary"
+                >
+                  contact@lasertechservice.pl
+                </a>
+
+                <span> Отвечаем в ближайшее возможное время </span>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- =================================================
+           16. MAP
+      ================================================== -->
+
+      <section class="map-section" aria-label="Расположение Laser Tech Service">
+        <div class="map">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2505.4078353966124!2d17.032271299999998!3d51.1009351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa167f67459e939f1%3A0x72500cc6a6428047!2sLaser%20Tech%20Service!5e0!3m2!1sru!2spl!4v1759755009693!5m2!1sru!2spl"
+            width="100%"
+            height="450"
+            allowfullscreen
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            title="Карта проезда к Laser Tech Service во Вроцлаве"
+          ></iframe>
         </div>
       </section>
     </main>
 
     <!-- =====================================================
-         06. FOOTER
+         17. FOOTER
     ====================================================== -->
 
     <footer class="footer">
       <div class="container">
         <div class="footer__main">
-          <!-- COMPANY -->
-
           <div class="footer__company">
-            <a href="/" class="footer__brand" aria-label="Laser Tech Service">
+            <a
+              href="/ru/"
+              class="footer__brand"
+              aria-label="Laser Tech Service"
+            >
               <span class="brand-laser-tech"> LASER TECH </span>
 
               <span class="brand-service"> SERVICE </span>
             </a>
 
             <p class="footer__description">
-              Profesjonalny serwis urządzeń laserowych i kosmetologicznych.
-              Diagnostyka, naprawa, regeneracja i obsługa techniczna na terenie
-              całej Polski.
+              Профессиональный сервис лазерного и косметологического
+              оборудования. Диагностика, ремонт, восстановление и техническое
+              обслуживание по всей территории Польши.
             </p>
 
             <div class="footer__social">
@@ -1034,14 +1476,12 @@
             </div>
           </div>
 
-          <!-- CONTACT -->
-
           <div class="footer__column">
-            <h3 class="footer__heading">Kontakt</h3>
+            <h3 class="footer__heading">Контакты</h3>
 
             <ul class="footer__contact-list">
               <li>
-                <span class="footer__label"> Telefon </span>
+                <span class="footer__label"> Телефон </span>
 
                 <a href="tel:+48790402597"> +48 790 402 597 </a>
               </li>
@@ -1054,7 +1494,7 @@
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Napisz do nas
+                  Написать нам
                 </a>
               </li>
 
@@ -1068,10 +1508,8 @@
             </ul>
           </div>
 
-          <!-- COMPANY DATA -->
-
           <div class="footer__column footer__company-data">
-            <h3 class="footer__heading">Dane firmy</h3>
+            <h3 class="footer__heading">Данные компании</h3>
 
             <address>
               Laser Tech Service sp. z o.o.
@@ -1100,8 +1538,6 @@
           </div>
         </div>
 
-        <!-- BOTTOM -->
-
         <div class="footer__bottom">
           <p class="footer__copyright">© 2026 Laser Tech Service sp. z o.o.</p>
 
@@ -1126,6 +1562,12 @@
          JAVASCRIPT
     ====================================================== -->
 
+    <script src="https://cdn.jsdelivr.net/npm/jarallax@1.12.1/dist/jarallax.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/jarallax@1.12.1/dist/jarallax-video.min.js"></script>
+
     <script src="/js/main.js"></script>
+
+    <script src="/js/service-lead-form.js"></script>
   </body>
 </html>
