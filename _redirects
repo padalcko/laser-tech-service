@@ -1,0 +1,5 @@
+# Permanent redirects from legacy service and contact URLs
+/uslugi.html       /uslugi/       301!
+/kontakt.html      /kontakt/      301!
+/ru/uslugi.html    /ru/uslugi/    301!
+/ru/kontakt.html   /ru/kontakt/   301!
