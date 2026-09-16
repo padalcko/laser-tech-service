@@ -426,19 +426,14 @@
     <nav class="nav" id="siteNav" aria-label="Основная навигация">
       <div class="container">
         <div class="nav-row">
-          <!-- LOGO -->
-
           <a
             href="/ru/"
             class="logo"
             aria-label="Laser Tech Service — главная страница"
           >
             <span class="brand-laser-tech"> LASER TECH </span>
-
             <span class="brand-service"> SERVICE </span>
           </a>
-
-          <!-- NAVIGATION -->
 
           <ul class="nav-list" id="primaryNavigation">
             <li class="nav-list__item">
@@ -479,8 +474,6 @@
             </li>
           </ul>
 
-          <!-- LANGUAGE SWITCHER -->
-
           <div class="language-switcher" aria-label="Выбор языка">
             <a href="/" class="language-switcher__link" lang="pl" hreflang="pl">
               PL
@@ -500,8 +493,6 @@
               RU
             </a>
           </div>
-
-          <!-- MOBILE BURGER -->
 
           <button
             class="nav-toggle"
@@ -655,8 +646,9 @@
               <h2 class="title-3">Есть неисправность?</h2>
 
               <p>
-                Отправьте фотографию или описание проблемы. Мы проведём
-                предварительную оценку и предложим оптимальное решение.
+                Отправьте заявку. Мы свяжемся с вами, уточним модель
+                оборудования и обсудим возможные варианты диагностики, ремонта
+                или планового обслуживания.
               </p>
 
               <a href="#contactid" class="btn"> Отправить заявку в сервис </a>
@@ -874,57 +866,89 @@
       </section>
 
       <!-- =================================================
-           10. SERVICE FORM
+           10. SERVICE LEAD FORM
       ================================================== -->
 
       <section class="section scroll-animate scroll-up">
         <div class="container" id="contactid">
           <div class="contact">
-            <h2 class="title-1">Отправить заявку в сервис</h2>
+            <h2 class="title-1">Вы владелец салона?</h2>
 
             <div class="contact-form__title">
-              <h3 class="title-3">Опишите проблему с оборудованием</h3>
+              <h3 class="title-3">Оставьте данные — мы свяжемся с вами</h3>
+
+              <p>
+                Обсудим техническое состояние вашего лазера, неисправность,
+                ремонт или возможность проведения планового технического
+                обслуживания.
+              </p>
             </div>
 
-            <form id="contactForm">
+            <form
+              id="salonServiceForm"
+              class="article-service-form__form"
+              novalidate
+            >
               <div class="form-row">
                 <input
                   class="form"
                   type="text"
-                  name="name"
-                  placeholder="Имя"
+                  id="fullName"
+                  name="fullName"
+                  placeholder="Имя и фамилия"
                   autocomplete="name"
                   required
                 />
 
                 <input
                   class="form"
-                  id="phone"
                   type="tel"
+                  id="phone"
                   name="phone"
-                  placeholder="Номер телефона"
+                  placeholder="+48"
                   autocomplete="tel"
+                  inputmode="tel"
                   required
                   value="+48"
                 />
               </div>
 
-              <div class="custom-select" id="equipmentSelect">
-                <div class="select-selected" role="button" tabindex="0">
-                  Выберите оборудование
-                </div>
+              <div class="form-row">
+                <input
+                  class="form"
+                  type="text"
+                  id="city"
+                  name="city"
+                  placeholder="Город"
+                  autocomplete="address-level2"
+                  required
+                />
 
-                <div class="select-items select-hide">
-                  <div>Диодный лазер</div>
-                  <div>IPL</div>
-                  <div>Лазер CO2</div>
-                  <div>Пикосекундный лазер</div>
-                  <div>ND:YAG</div>
-                  <div>Другое</div>
-                </div>
+                <input
+                  class="form"
+                  type="text"
+                  id="salonName"
+                  name="salonName"
+                  placeholder="Название салона"
+                  autocomplete="organization"
+                  required
+                />
               </div>
 
-              <input type="hidden" name="equipment" id="equipmentInput" />
+              <div class="form-row">
+                <input
+                  class="form"
+                  type="text"
+                  id="deviceName"
+                  name="deviceName"
+                  placeholder="Название или модель лазера"
+                  required
+                />
+              </div>
+
+              <input type="hidden" name="source" value="ru-homepage" />
+
+              <input type="hidden" name="language" value="ru" />
 
               <label class="consent">
                 <input type="checkbox" name="consent" required />
@@ -935,13 +959,10 @@
                 </span>
               </label>
 
-              <button class="btn" type="submit">Отправить заявку</button>
+              <button class="btn article-service-form__submit" type="submit">
+                Отправить заявку
+              </button>
             </form>
-
-            <div class="success-message title-3" id="successMsg">
-              Спасибо. Наш консультант свяжется с вами в ближайшее возможное
-              время.
-            </div>
           </div>
         </div>
       </section>
@@ -1102,7 +1123,7 @@
 
               <p class="process__info-text">
                 Свяжитесь с нами по телефону, через форму или WhatsApp. Укажите
-                модель оборудования, проблему и приложите фотографии.
+                модель оборудования и проблему.
               </p>
             </li>
 
@@ -1232,8 +1253,6 @@
           </div>
 
           <div class="contact-grid">
-            <!-- LOCATION -->
-
             <article class="contact-card">
               <div class="contact-card__icon" aria-hidden="true">
                 <svg
@@ -1260,8 +1279,6 @@
                 <span> Польша </span>
               </div>
             </article>
-
-            <!-- ADDRESS -->
 
             <article class="contact-card">
               <div class="contact-card__icon" aria-hidden="true">
@@ -1292,8 +1309,6 @@
                 </address>
               </div>
             </article>
-
-            <!-- PHONE -->
 
             <article class="contact-card">
               <div class="contact-card__icon" aria-hidden="true">
@@ -1333,8 +1348,6 @@
                 </a>
               </div>
             </article>
-
-            <!-- EMAIL -->
 
             <article class="contact-card">
               <div class="contact-card__icon" aria-hidden="true">
@@ -1395,8 +1408,6 @@
     <footer class="footer">
       <div class="container">
         <div class="footer__main">
-          <!-- COMPANY -->
-
           <div class="footer__company">
             <a
               href="/ru/"
@@ -1465,8 +1476,6 @@
             </div>
           </div>
 
-          <!-- CONTACT -->
-
           <div class="footer__column">
             <h3 class="footer__heading">Контакты</h3>
 
@@ -1499,8 +1508,6 @@
             </ul>
           </div>
 
-          <!-- COMPANY DATA -->
-
           <div class="footer__column footer__company-data">
             <h3 class="footer__heading">Данные компании</h3>
 
@@ -1531,8 +1538,6 @@
           </div>
         </div>
 
-        <!-- FOOTER BOTTOM -->
-
         <div class="footer__bottom">
           <p class="footer__copyright">© 2026 Laser Tech Service sp. z o.o.</p>
 
@@ -1562,5 +1567,7 @@
     <script src="https://cdn.jsdelivr.net/npm/jarallax@1.12.1/dist/jarallax-video.min.js"></script>
 
     <script src="/js/main.js"></script>
+
+    <script src="/js/service-lead-form.js"></script>
   </body>
 </html>
