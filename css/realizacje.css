@@ -741,7 +741,7 @@
 }
 
 
-body.pl .nav-list {
+body:is(.pl, .ru) .nav-list {
     white-space: nowrap;
 }
 
@@ -827,12 +827,12 @@ body.pl .nav-list {
 
     /* NAV */
 
-    body.pl .nav-list {
+    body:is(.pl, .ru) .nav-list {
         gap: 5px;
     }
 
 
-    body.pl .nav-list__link {
+    body:is(.pl, .ru) .nav-list__link {
         font-size: 10.5px;
     }
 
@@ -1015,7 +1015,7 @@ body.pl .nav-list {
 
 @media (max-width: 420px) {
 
-    body.pl .nav-list__link {
+    body:is(.pl, .ru) .nav-list__link {
         font-size: 9.7px;
     }
 

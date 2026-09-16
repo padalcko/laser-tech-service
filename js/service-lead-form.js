@@ -24,6 +24,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const WEBHOOK_URL =
     "https://n8n.raccoon-studio.com.ua/webhook/lts-service-lead";
 
+  const REQUEST_TIMEOUT_MS = 15000;
+
   const forms = document.querySelectorAll(".article-service-form__form");
 
   if (!forms.length) {
@@ -212,9 +214,14 @@ document.addEventListener("DOMContentLoaded", () => {
            Request
         ------------------------------------------------- */
 
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS);
+
       try {
         const response = await fetch(WEBHOOK_URL, {
           method: "POST",
+
+          signal: controller.signal,
 
           headers: {
             "Content-Type": "application/json",
@@ -251,6 +258,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
         showError(message, text.error);
       } finally {
+        clearTimeout(timeoutId);
+
         /* -----------------------------------------------
              Restore form
           ----------------------------------------------- */

@@ -421,6 +421,8 @@ menu>.action {
 
     opacity: 0;
 
+    visibility: hidden;
+
     pointer-events: none;
 
     transform:
@@ -438,6 +440,8 @@ menu.open>.action {
     --factor: 1;
 
     opacity: 1;
+
+    visibility: visible;
 
     pointer-events: auto;
 }

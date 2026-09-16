@@ -12,8 +12,7 @@
    08. Smooth anchor scroll
    09. Jarallax
    10. Legacy social button
-   11. Contact form
-   12. Devices carousel
+   11. Devices carousel
 ========================================================= */
 
 /* =========================================================
@@ -181,6 +180,12 @@ document.addEventListener("DOMContentLoaded", () => {
     return;
   }
 
+  function setExpanded(item, expanded) {
+    item.classList.toggle("active", expanded);
+    item.querySelector(".faq__question")?.setAttribute("aria-expanded", String(expanded));
+    item.querySelector(".faq__answer")?.setAttribute("aria-hidden", String(!expanded));
+  }
+
   faqItems.forEach((item) => {
     const button = item.querySelector(".faq__question");
 
@@ -188,14 +193,16 @@ document.addEventListener("DOMContentLoaded", () => {
       return;
     }
 
+    setExpanded(item, item.classList.contains("active"));
+
     button.addEventListener("click", () => {
       faqItems.forEach((otherItem) => {
         if (otherItem !== item) {
-          otherItem.classList.remove("active");
+          setExpanded(otherItem, false);
         }
       });
 
-      item.classList.toggle("active");
+      setExpanded(item, !item.classList.contains("active"));
     });
   });
 });
@@ -211,6 +218,8 @@ document.addEventListener("DOMContentLoaded", () => {
     return;
   }
 
+  trigger.setAttribute("aria-expanded", String(trigger.parentElement.classList.contains("open")));
+
   trigger.addEventListener("click", (event) => {
     const menu = event.currentTarget.parentElement;
 
@@ -219,6 +228,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     menu.classList.toggle("open");
+    trigger.setAttribute("aria-expanded", String(menu.classList.contains("open")));
   });
 });
 
@@ -356,289 +366,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 /* =========================================================
-   11. CONTACT FORM
-========================================================= */
-
-document.addEventListener("DOMContentLoaded", () => {
-  const phoneInput = document.getElementById("phone");
-
-  const contactForm = document.getElementById("contactForm");
-
-  const customSelect = document.getElementById("equipmentSelect");
-
-  if (!phoneInput || !contactForm || !customSelect) {
-    return;
-  }
-
-  const selected = customSelect.querySelector(".select-selected");
-
-  const items = customSelect.querySelector(".select-items");
-
-  const equipmentInput = document.getElementById("equipmentInput");
-
-  const successMessage = document.getElementById("successMsg");
-
-  const isRussian = document.documentElement.lang === "ru";
-
-  /* -----------------------------------------
-     LANGUAGE STRINGS
-  ----------------------------------------- */
-
-  const text = {
-    nameRequired: isRussian ? "Введите имя." : "Wpisz imię.",
-
-    phoneRequired: isRussian
-      ? "Введите номер телефона."
-      : "Wpisz numer telefonu.",
-
-    equipmentRequired: isRussian
-      ? "Выберите оборудование."
-      : "Musisz wybrać urządzenie!",
-
-    consentRequired: isRussian
-      ? "Необходимо согласие на обработку персональных данных."
-      : "Musisz wyrazić zgodę na przetwarzanie danych!",
-
-    formError: isRussian
-      ? "Ошибка при отправке формы. Попробуйте ещё раз или свяжитесь с нами по телефону."
-      : "Błąd podczas wysyłania formularza. Spróbuj ponownie lub skontaktuj się z nami telefonicznie.",
-
-    defaultEquipment: isRussian
-      ? "Выберите оборудование"
-      : "Wybierz urządzenie",
-
-    telegramTitle: isRussian
-      ? "Новая сервисная заявка"
-      : "Nowe zgłoszenie serwisowe",
-
-    telegramName: isRussian ? "Имя" : "Imię",
-
-    telegramPhone: isRussian ? "Телефон" : "Telefon",
-
-    telegramEquipment: isRussian ? "Оборудование" : "Urządzenie",
-
-    telegramDate: isRussian ? "Дата / время" : "Data / czas",
-  };
-
-  /* -----------------------------------------
-     PHONE +48
-  ----------------------------------------- */
-
-  phoneInput.addEventListener("focus", () => {
-    if (!phoneInput.value.startsWith("+48")) {
-      phoneInput.value = "+48 ";
-    }
-
-    setTimeout(() => {
-      const length = phoneInput.value.length;
-
-      phoneInput.setSelectionRange(length, length);
-    }, 0);
-  });
-
-  phoneInput.addEventListener("input", () => {
-    let value = phoneInput.value.replace(/\s+/g, "");
-
-    if (!value.startsWith("+48")) {
-      value = "+48";
-    }
-
-    let digits = value.slice(3).replace(/\D/g, "");
-
-    digits = digits.slice(0, 9);
-
-    const formattedDigits = digits.replace(/(\d{3})(?=\d)/g, "$1 ");
-
-    phoneInput.value = "+48 " + formattedDigits;
-  });
-
-  /* -----------------------------------------
-     CUSTOM SELECT
-  ----------------------------------------- */
-
-  if (selected && items) {
-    selected.addEventListener("click", (event) => {
-      event.stopPropagation();
-
-      items.classList.toggle("show");
-
-      selected.classList.toggle("active");
-    });
-
-    selected.addEventListener("keydown", (event) => {
-      if (event.key !== "Enter" && event.key !== " ") {
-        return;
-      }
-
-      event.preventDefault();
-
-      items.classList.toggle("show");
-
-      selected.classList.toggle("active");
-    });
-
-    items.querySelectorAll("div").forEach((option) => {
-      option.addEventListener("click", (event) => {
-        event.stopPropagation();
-
-        const value = option.textContent.trim();
-
-        selected.textContent = value;
-
-        if (equipmentInput) {
-          equipmentInput.value = value;
-        }
-
-        items.classList.remove("show");
-
-        selected.classList.remove("active");
-      });
-    });
-
-    document.addEventListener("click", (event) => {
-      if (!customSelect.contains(event.target)) {
-        items.classList.remove("show");
-
-        selected.classList.remove("active");
-      }
-    });
-  }
-
-  /* -----------------------------------------
-     TELEGRAM SETTINGS
-
-     ВАЖНО:
-     вставь сюда реальные данные,
-     если форма действительно отправляется
-     напрямую в Telegram.
-  ----------------------------------------- */
-
-  const TELEGRAM_BOT_TOKEN = "WSTAW_TUTAJ_SWÓJ_TOKEN";
-
-  const TELEGRAM_CHAT_ID = "WSTAW_TUTAJ_CHAT_ID";
-
-  /* -----------------------------------------
-     FORM SUBMIT
-  ----------------------------------------- */
-
-  contactForm.addEventListener("submit", async function (event) {
-    event.preventDefault();
-
-    const name = this.elements.name?.value.trim() || "";
-
-    const phone = this.elements.phone?.value.trim() || "";
-
-    const consent = Boolean(this.elements.consent?.checked);
-
-    let equipment = "";
-
-    if (equipmentInput && equipmentInput.value) {
-      equipment = equipmentInput.value.trim();
-    } else if (selected) {
-      const selectedText = selected.textContent.trim();
-
-      if (selectedText !== text.defaultEquipment) {
-        equipment = selectedText;
-      }
-    }
-
-    /* VALIDATION */
-
-    if (!name) {
-      alert(text.nameRequired);
-
-      return;
-    }
-
-    const phoneDigits = phone.replace(/\D/g, "");
-
-    if (phoneDigits.length < 11) {
-      alert(text.phoneRequired);
-
-      return;
-    }
-
-    if (!equipment) {
-      alert(text.equipmentRequired);
-
-      return;
-    }
-
-    if (!consent) {
-      alert(text.consentRequired);
-
-      return;
-    }
-
-    const now = new Date();
-
-    const locale = isRussian ? "ru-RU" : "pl-PL";
-
-    const date = now.toLocaleDateString(locale);
-
-    const time = now.toLocaleTimeString(locale, {
-      hour: "2-digit",
-      minute: "2-digit",
-    });
-
-    const message = `${text.telegramTitle}
-
-${text.telegramName}: ${name}
-${text.telegramPhone}: ${phone}
-${text.telegramEquipment}: ${equipment}
-${text.telegramDate}: ${date} ${time}`;
-
-    try {
-      const response = await fetch(
-        `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`,
-        {
-          method: "POST",
-
-          headers: {
-            "Content-Type": "application/json",
-          },
-
-          body: JSON.stringify({
-            chat_id: TELEGRAM_CHAT_ID,
-
-            text: message,
-          }),
-        },
-      );
-
-      const result = await response.json();
-
-      if (!response.ok || result.ok === false) {
-        throw new Error("Telegram API error");
-      }
-
-      /* SUCCESS */
-
-      if (successMessage) {
-        successMessage.classList.add("show");
-      }
-
-      this.reset();
-
-      phoneInput.value = "+48 ";
-
-      if (selected) {
-        selected.textContent = text.defaultEquipment;
-      }
-
-      if (equipmentInput) {
-        equipmentInput.value = "";
-      }
-    } catch (error) {
-      console.error("Form submit error:", error);
-
-      alert(text.formError);
-    }
-  });
-});
-
-/* =========================================================
-   12. DEVICES CAROUSEL
+   11. DEVICES CAROUSEL
 ========================================================= */
 
 document.addEventListener("DOMContentLoaded", () => {

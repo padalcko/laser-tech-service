@@ -878,51 +878,82 @@
     <section class="section scroll-animate scroll-up">
       <div class="container" id="contactid">
         <div class="contact">
-          <h2 class="title-1">Wyślij zgłoszenie serwisowe</h2>
+          <h2 class="title-1">Jesteś właścicielem salonu?</h2>
 
           <div class="contact-form__title">
-            <h3 class="title-3">Opisz problem z urządzeniem</h3>
+            <h3 class="title-3">Zostaw dane — skontaktujemy się z Tobą</h3>
+
+            <p>
+              Omówimy stan techniczny Twojego lasera, usterkę, naprawę
+              lub możliwość wykonania planowego przeglądu technicznego.
+            </p>
           </div>
 
-          <form id="contactForm">
+          <form
+            id="salonServiceForm"
+            class="article-service-form__form"
+            novalidate
+          >
             <div class="form-row">
               <input
                 class="form"
                 type="text"
-                name="name"
-                placeholder="Imię"
+                id="fullName"
+                name="fullName"
+                placeholder="Imię i nazwisko"
                 autocomplete="name"
                 required
               />
 
               <input
                 class="form"
-                id="phone"
                 type="tel"
+                id="phone"
                 name="phone"
-                placeholder="Numer telefonu"
+                placeholder="+48"
                 autocomplete="tel"
+                inputmode="tel"
                 required
                 value="+48"
               />
             </div>
 
-            <div class="custom-select" id="equipmentSelect">
-              <div class="select-selected" role="button" tabindex="0">
-                Wybierz urządzenie
-              </div>
+            <div class="form-row">
+              <input
+                class="form"
+                type="text"
+                id="city"
+                name="city"
+                placeholder="Miasto"
+                autocomplete="address-level2"
+                required
+              />
 
-              <div class="select-items select-hide">
-                <div>Laser diodowy</div>
-                <div>IPL</div>
-                <div>Laser CO2</div>
-                <div>Laser pikosekundowy</div>
-                <div>ND:YAG</div>
-                <div>Inne</div>
-              </div>
+              <input
+                class="form"
+                type="text"
+                id="salonName"
+                name="salonName"
+                placeholder="Nazwa salonu"
+                autocomplete="organization"
+                required
+              />
             </div>
 
-            <input type="hidden" name="equipment" id="equipmentInput" />
+            <div class="form-row">
+              <input
+                class="form"
+                type="text"
+                id="deviceName"
+                name="deviceName"
+                placeholder="Nazwa lub model lasera"
+                required
+              />
+            </div>
+
+            <input type="hidden" name="source" value="pl-homepage" />
+
+            <input type="hidden" name="language" value="pl" />
 
             <label class="consent">
               <input type="checkbox" name="consent" required />
@@ -933,13 +964,10 @@
               </span>
             </label>
 
-            <button class="btn" type="submit">Wyślij zgłoszenie</button>
+            <button class="btn article-service-form__submit" type="submit">
+              Wyślij zgłoszenie
+            </button>
           </form>
-
-          <div class="success-message title-3" id="successMsg">
-            Dziękujemy. Nasz konsultant skontaktuje się z Tobą możliwie
-            najszybciej.
-          </div>
         </div>
       </div>
     </section>
@@ -1558,5 +1586,6 @@
     <script src="https://cdn.jsdelivr.net/npm/jarallax@1.12.1/dist/jarallax-video.min.js"></script>
 
     <script src="/js/main.js"></script>
+    <script src="/js/service-lead-form.js"></script>
   </body>
 </html>
