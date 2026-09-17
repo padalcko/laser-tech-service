@@ -68,12 +68,6 @@
 
     <xhtml:link
       rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/"
-    />
-
-    <xhtml:link
-      rel="alternate"
       hreflang="x-default"
       href="https://lasertechservice.pl/realizacje/"
     />
@@ -363,12 +357,6 @@
 
     <xhtml:link
       rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/"
-    />
-
-    <xhtml:link
-      rel="alternate"
       hreflang="x-default"
       href="https://lasertechservice.pl/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/"
     />
@@ -389,12 +377,6 @@
 
     <xhtml:link
       rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/"
-    />
-
-    <xhtml:link
-      rel="alternate"
       hreflang="x-default"
       href="https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/"
     />
@@ -409,12 +391,6 @@
       rel="alternate"
       hreflang="pl"
       href="https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/przeglad-estelase-power-p808l/"
     />
 
     <xhtml:link
@@ -439,12 +415,6 @@
 
     <xhtml:link
       rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/naprawa-alma-accent-gorlitz/"
-    />
-
-    <xhtml:link
-      rel="alternate"
       hreflang="x-default"
       href="https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/"
     />
@@ -461,12 +431,6 @@
       rel="alternate"
       hreflang="pl"
       href="https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/"
     />
 
     <xhtml:link
@@ -491,12 +455,6 @@
 
     <xhtml:link
       rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/"
-    />
-
-    <xhtml:link
-      rel="alternate"
       hreflang="x-default"
       href="https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/"
     />
@@ -513,12 +471,6 @@
       rel="alternate"
       hreflang="pl"
       href="https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/"
     />
 
     <xhtml:link
@@ -543,12 +495,6 @@
 
     <xhtml:link
       rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/"
-    />
-
-    <xhtml:link
-      rel="alternate"
       hreflang="x-default"
       href="https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/"
     />
@@ -569,12 +515,6 @@
 
     <xhtml:link
       rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/"
-    />
-
-    <xhtml:link
-      rel="alternate"
       hreflang="x-default"
       href="https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/"
     />
@@ -589,12 +529,6 @@
       rel="alternate"
       hreflang="pl"
       href="https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/naprawa-multipolar-rf-lublin/"
     />
 
     <xhtml:link
@@ -920,250 +854,6 @@
     <lastmod>2026-09-08</lastmod>
 
     <priority>0.7</priority>
-  </url>
-
-  <!-- RUSSIAN PORTFOLIO -->
-
-  <url>
-    <loc>https://lasertechservice.pl/ru/realizacje/</loc>
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="pl"
-      href="https://lasertechservice.pl/realizacje/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="x-default"
-      href="https://lasertechservice.pl/realizacje/"
-    />
-  </url>
-
-  <url>
-    <loc>https://lasertechservice.pl/ru/realizacje/naprawa-alma-accent-gorlitz/</loc>
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="pl"
-      href="https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/naprawa-alma-accent-gorlitz/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="x-default"
-      href="https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/"
-    />
-  </url>
-
-  <url>
-    <loc>https://lasertechservice.pl/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/</loc>
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="pl"
-      href="https://lasertechservice.pl/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="x-default"
-      href="https://lasertechservice.pl/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/"
-    />
-  </url>
-
-  <url>
-    <loc>https://lasertechservice.pl/ru/realizacje/naprawa-multipolar-rf-lublin/</loc>
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="pl"
-      href="https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/naprawa-multipolar-rf-lublin/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="x-default"
-      href="https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/"
-    />
-  </url>
-
-  <url>
-    <loc>https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/</loc>
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="pl"
-      href="https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="x-default"
-      href="https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/"
-    />
-  </url>
-
-  <url>
-    <loc>https://lasertechservice.pl/ru/realizacje/przeglad-estelase-power-p808l/</loc>
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="pl"
-      href="https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/przeglad-estelase-power-p808l/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="x-default"
-      href="https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/"
-    />
-  </url>
-
-  <url>
-    <loc>https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/</loc>
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="pl"
-      href="https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="x-default"
-      href="https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/"
-    />
-  </url>
-
-  <url>
-    <loc>https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/</loc>
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="pl"
-      href="https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="x-default"
-      href="https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/"
-    />
-  </url>
-
-  <url>
-    <loc>https://lasertechservice.pl/ru/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/</loc>
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="pl"
-      href="https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="x-default"
-      href="https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/"
-    />
-  </url>
-
-  <url>
-    <loc>https://lasertechservice.pl/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/</loc>
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="pl"
-      href="https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="x-default"
-      href="https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/"
-    />
-  </url>
-
-  <url>
-    <loc>https://lasertechservice.pl/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/</loc>
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="pl"
-      href="https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://lasertechservice.pl/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/"
-    />
-
-    <xhtml:link
-      rel="alternate"
-      hreflang="x-default"
-      href="https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/"
-    />
   </url>
 
 </urlset>
