@@ -278,26 +278,26 @@
          02. NAVIGATION
     ====================================================== -->
 
-    <nav class="nav" id="siteNav" aria-label="Главная навигация">
+    <nav class="nav" id="siteNav" aria-label="Основная навигация">
       <div class="container">
         <div class="nav-row">
-          <!-- LOGO -->
-
           <a
             href="/ru/"
             class="logo"
             aria-label="Laser Tech Service — главная страница"
           >
             <span class="brand-laser-tech"> LASER TECH </span>
-
             <span class="brand-service"> SERVICE </span>
           </a>
 
-          <!-- NAVIGATION -->
-
           <ul class="nav-list" id="primaryNavigation">
             <li class="nav-list__item">
-              <a href="/ru/" class="nav-list__link"> Главная </a>
+              <a
+                href="/ru/"
+                class="nav-list__link"
+              >
+                Главная
+              </a>
             </li>
 
             <li class="nav-list__item">
@@ -309,9 +309,7 @@
             </li>
 
             <li class="nav-list__item">
-              <a href="/ru/blog/" class="nav-list__link nav-list__link--active">
-                Блог
-              </a>
+              <a href="/ru/blog/" class="nav-list__link nav-list__link--active" aria-current="location"> Блог </a>
             </li>
 
             <li class="nav-list__item">
@@ -330,15 +328,8 @@
             </li>
           </ul>
 
-          <!-- LANGUAGE SWITCHER -->
-
           <div class="language-switcher" aria-label="Выбор языка">
-            <a
-              href="/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/"
-              class="language-switcher__link"
-              lang="pl"
-              hreflang="pl"
-            >
+            <a href="/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/" class="language-switcher__link" lang="pl" hreflang="pl">
               PL
             </a>
 
@@ -356,8 +347,6 @@
               RU
             </a>
           </div>
-
-          <!-- BURGER -->
 
           <button
             class="nav-toggle"
@@ -794,8 +783,6 @@
     <footer class="footer">
       <div class="container">
         <div class="footer__main">
-          <!-- COMPANY -->
-
           <div class="footer__company">
             <a
               href="/ru/"
@@ -807,13 +794,62 @@
               <span class="brand-service"> SERVICE </span>
             </a>
 
-            <p>
+            <p class="footer__description">
               Профессиональный сервис лазерного и косметологического
-              оборудования во Вроцлаве и по всей Польше.
+              оборудования. Диагностика, ремонт, восстановление и техническое
+              обслуживание по всей территории Польши.
             </p>
-          </div>
 
-          <!-- CONTACT -->
+            <div class="footer__social">
+              <a
+                href="https://www.instagram.com/lasertech.service/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Instagram Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-instagram.svg"
+                  alt="Instagram Laser Tech Service"
+                />
+              </a>
+
+              <a
+                href="https://wa.me/48790402597"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="WhatsApp Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-whatsapp.svg"
+                  alt="WhatsApp Laser Tech Service"
+                />
+              </a>
+
+              <a
+                href="https://www.facebook.com/share/1CPgxschrT/?mibextid=wwXIfr"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Facebook Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-facebook.svg"
+                  alt="Facebook Laser Tech Service"
+                />
+              </a>
+
+              <a
+                href="https://t.me/lasertechservice"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Telegram Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-telegram.svg"
+                  alt="Telegram Laser Tech Service"
+                />
+              </a>
+            </div>
+          </div>
 
           <div class="footer__column">
             <h3 class="footer__heading">Контакты</h3>
@@ -823,14 +859,6 @@
                 <span class="footer__label"> Телефон </span>
 
                 <a href="tel:+48790402597"> +48 790 402 597 </a>
-              </li>
-
-              <li>
-                <span class="footer__label"> E-mail </span>
-
-                <a href="mailto:contact@lasertechservice.pl">
-                  contact@lasertechservice.pl
-                </a>
               </li>
 
               <li>
@@ -844,10 +872,16 @@
                   Написать нам
                 </a>
               </li>
+
+              <li>
+                <span class="footer__label"> E-mail </span>
+
+                <a href="mailto:contact@lasertechservice.pl">
+                  contact@lasertechservice.pl
+                </a>
+              </li>
             </ul>
           </div>
-
-          <!-- COMPANY DATA -->
 
           <div class="footer__column footer__company-data">
             <h3 class="footer__heading">Данные компании</h3>
@@ -858,9 +892,24 @@
               Marsz. Józefa Piłsudskiego 74 lok. 320
               <br />
               50-020 Wrocław
-              <br />
-              Polska
             </address>
+
+            <dl class="footer__legal-data">
+              <div>
+                <dt>NIP</dt>
+                <dd>8971959502</dd>
+              </div>
+
+              <div>
+                <dt>KRS</dt>
+                <dd>0001193879</dd>
+              </div>
+
+              <div>
+                <dt>REGON</dt>
+                <dd>542701591</dd>
+              </div>
+            </dl>
           </div>
         </div>
 

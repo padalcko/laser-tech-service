@@ -287,36 +287,40 @@
     <nav class="nav" id="siteNav" aria-label="Główna nawigacja">
       <div class="container">
         <div class="nav-row">
+          <!-- LOGO -->
+
           <a
             href="/"
             class="logo"
             aria-label="Laser Tech Service – strona główna"
           >
-            <span class="brand-laser-tech">LASER TECH</span>
-            <span class="brand-service">SERVICE</span>
+            <span class="brand-laser-tech"> LASER TECH </span>
+
+            <span class="brand-service"> SERVICE </span>
           </a>
+
+          <!-- DESKTOP + MOBILE NAVIGATION -->
 
           <ul class="nav-list" id="primaryNavigation">
             <li class="nav-list__item">
-              <a href="/" class="nav-list__link">Strona główna</a>
-            </li>
-
-            <li class="nav-list__item">
-              <a href="/uslugi/" class="nav-list__link">Usługi</a>
-            </li>
-
-            <li class="nav-list__item">
               <a
-                href="/realizacje/"
-                class="nav-list__link nav-list__link--active"
-                aria-current="page"
+                href="/"
+                class="nav-list__link"
               >
-                Realizacje
+                Strona główna
               </a>
             </li>
 
             <li class="nav-list__item">
-              <a href="/blog/" class="nav-list__link">Blog</a>
+              <a href="/uslugi/" class="nav-list__link"> Usługi </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a href="/realizacje/" class="nav-list__link nav-list__link--active" aria-current="page"> Realizacje </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a href="/blog/" class="nav-list__link"> Blog </a>
             </li>
 
             <li class="nav-list__item">
@@ -331,9 +335,11 @@
             </li>
 
             <li class="nav-list__item">
-              <a href="/kontakt/" class="nav-list__link">Kontakt</a>
+              <a href="/kontakt/" class="nav-list__link"> Kontakt </a>
             </li>
           </ul>
+
+          <!-- LANGUAGE SWITCHER -->
 
           <div class="language-switcher" aria-label="Wybór języka">
             <a
@@ -346,7 +352,9 @@
               PL
             </a>
 
-            <span class="language-switcher__separator" aria-hidden="true"> / </span>
+            <span class="language-switcher__separator" aria-hidden="true">
+              /
+            </span>
 
             <a
               href="/ru/realizacje/"
@@ -357,6 +365,8 @@
               RU
             </a>
           </div>
+
+          <!-- MOBILE BURGER -->
 
           <button
             class="nav-toggle"
@@ -417,6 +427,16 @@
         </div>
 
         <div class="realizacje-grid">
+          <article class="realizacja-card">
+            <a href="/realizacje/naprawa-3000-nain-bloku-zasilania/" class="realizacja-card__image"><img src="/img/realizacje/3000-nain/naprawa-3000-nain-laser-tech-service-karta.webp" alt="Członek zespołu przy urządzeniu 3000 NAIN ze zdjętą osłoną boczną" width="360" height="640" decoding="async" loading="lazy" /></a>
+            <div class="realizacja-card__content">
+              <div class="realizacja-card__meta"><span>3000 NAIN</span><span>Blok zasilania</span></div>
+              <h2 class="realizacja-card__title"><a href="/realizacje/naprawa-3000-nain-bloku-zasilania/">3000 NAIN — diagnostyka i naprawa bloku zasilania</a></h2>
+              <p class="realizacja-card__text">Diagnostyka i naprawa bloku zasilania 3000 NAIN. Zobacz demontaż, pracę przy elektronice, ponowny montaż oraz uruchomienie aparatu na zdjęciach i filmach.</p>
+              <a href="/realizacje/naprawa-3000-nain-bloku-zasilania/" class="realizacja-card__link">Zobacz realizację <span aria-hidden="true">→</span></a>
+            </div>
+          </article>
+
           <!-- REALIZACJA 10 — BEAUTY PLANET 3D CONTOUR, WROCŁAW -->
 
           <article class="realizacja-card">
@@ -580,7 +600,7 @@
               class="realizacja-card__image"
             >
               <img
-                src="/img/blog/serwis-glowicy-lasera/nieszczelnosc-manipuly-lasera.jpg"
+                src="/img/blog/serwis-glowicy-lasera/nieszczelnosc-manipuly-lasera.webp"
                 alt="Serwis głowicy lasera diodowego w Poznaniu"
                 loading="lazy"
               />
@@ -782,7 +802,7 @@
               class="realizacja-card__image"
             >
               <img
-                src="/img/realizacje/multipolar-rf-lublin.jpg"
+                src="/img/realizacje/multipolar-rf-lublin.webp"
                 alt="Naprawa urządzenia Multipolar RF w Lublinie"
                 loading="lazy"
               />
@@ -831,7 +851,7 @@
               class="realizacja-card__image"
             >
               <img
-                src="/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw.jpg"
+                src="/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw.webp"
                 alt="Naprawa urządzenia NUBWAY NBW-VSIII 5D we Wrocławiu"
                 loading="lazy"
               />
@@ -882,7 +902,7 @@
               class="realizacja-card__image"
             >
               <img
-                src="/img/realizacje/serwis-lasera-tatuaz.jpg"
+                src="/img/realizacje/serwis-lasera-tatuaz.webp"
                 alt="Serwis lasera do usuwania tatuażu – wymiana filtra"
                 loading="lazy"
               />
@@ -1005,10 +1025,13 @@
     <footer class="footer">
       <div class="container">
         <div class="footer__main">
+          <!-- COMPANY -->
+
           <div class="footer__company">
             <a href="/" class="footer__brand" aria-label="Laser Tech Service">
-              <span class="brand-laser-tech">LASER TECH</span>
-              <span class="brand-service">SERVICE</span>
+              <span class="brand-laser-tech"> LASER TECH </span>
+
+              <span class="brand-service"> SERVICE </span>
             </a>
 
             <p class="footer__description">
@@ -1068,17 +1091,21 @@
             </div>
           </div>
 
+          <!-- CONTACT -->
+
           <div class="footer__column">
             <h3 class="footer__heading">Kontakt</h3>
 
             <ul class="footer__contact-list">
               <li>
-                <span class="footer__label">Telefon</span>
-                <a href="tel:+48790402597">+48 790 402 597</a>
+                <span class="footer__label"> Telefon </span>
+
+                <a href="tel:+48790402597"> +48 790 402 597 </a>
               </li>
 
               <li>
-                <span class="footer__label">WhatsApp</span>
+                <span class="footer__label"> WhatsApp </span>
+
                 <a
                   href="https://wa.me/48790402597"
                   target="_blank"
@@ -1089,7 +1116,8 @@
               </li>
 
               <li>
-                <span class="footer__label">E-mail</span>
+                <span class="footer__label"> E-mail </span>
+
                 <a href="mailto:contact@lasertechservice.pl">
                   contact@lasertechservice.pl
                 </a>
@@ -1097,12 +1125,16 @@
             </ul>
           </div>
 
+          <!-- COMPANY DATA -->
+
           <div class="footer__column footer__company-data">
             <h3 class="footer__heading">Dane firmy</h3>
 
             <address>
-              Laser Tech Service sp. z o.o.<br />
-              Marsz. Józefa Piłsudskiego 74 lok. 320<br />
+              Laser Tech Service sp. z o.o.
+              <br />
+              Marsz. Józefa Piłsudskiego 74 lok. 320
+              <br />
               50-020 Wrocław
             </address>
 
@@ -1125,11 +1157,14 @@
           </div>
         </div>
 
+        <!-- FOOTER BOTTOM -->
+
         <div class="footer__bottom">
           <p class="footer__copyright">© 2026 Laser Tech Service sp. z o.o.</p>
 
           <p class="footer__creator">
             Created by
+
             <a
               href="https://raccoon-studio.com.ua/"
               target="_blank"
@@ -1137,6 +1172,7 @@
             >
               Raccoon Studio
             </a>
+
             © 2026
           </p>
         </div>

@@ -250,11 +250,16 @@
             <span class="brand-service"> SERVICE </span>
           </a>
 
-          <!-- NAVIGATION -->
+          <!-- DESKTOP + MOBILE NAVIGATION -->
 
           <ul class="nav-list" id="primaryNavigation">
             <li class="nav-list__item">
-              <a href="/" class="nav-list__link"> Strona główna </a>
+              <a
+                href="/"
+                class="nav-list__link"
+              >
+                Strona główna
+              </a>
             </li>
 
             <li class="nav-list__item">
@@ -266,13 +271,7 @@
             </li>
 
             <li class="nav-list__item">
-              <a
-                href="/blog/"
-                class="nav-list__link nav-list__link--active"
-                aria-current="page"
-              >
-                Blog
-              </a>
+              <a href="/blog/" class="nav-list__link nav-list__link--active" aria-current="page"> Blog </a>
             </li>
 
             <li class="nav-list__item">
@@ -360,6 +359,12 @@
           ================================================== -->
 
           <div class="blog-grid">
+            <article class="blog-card">
+              <div class="blog-card__top"><span class="blog-card__category">Technologia i serwis laserów</span><time class="blog-card__date" datetime="2026-09-19">19 września 2026</time></div>
+              <div class="blog-card__content"><h2 class="blog-card__title"><a href="/blog/3000-nain-laser-historia-konstrukcja-serwis/">3000 NAIN — poznajcie dinozaura wśród laserów</a></h2><p class="blog-card__description">3000 NAIN z bliska: historia modelu, technologia Nd:YAG Q-Switched, duża obudowa i znaczenie naprawy elektroniki. Co wiemy, a czego nie potwierdzono?</p></div>
+              <footer class="blog-card__footer"><span class="blog-card__reading-time">około 6 min czytania</span><a href="/blog/3000-nain-laser-historia-konstrukcja-serwis/" class="blog-card__link" aria-label="Czytaj artykuł: 3000 NAIN — poznajcie dinozaura wśród laserów">Czytaj artykuł <span aria-hidden="true">→</span></a></footer>
+            </article>
+
             <!-- ===============================================
      ARTICLE 08
      DLACZEGO PALĄ SIĘ MODUŁY DIODOWE?
@@ -769,10 +774,61 @@
               <span class="brand-service"> SERVICE </span>
             </a>
 
-            <p>
-              Profesjonalny serwis urządzeń laserowych i kosmetologicznych we
-              Wrocławiu oraz na terenie całej Polski.
+            <p class="footer__description">
+              Profesjonalny serwis urządzeń laserowych i kosmetologicznych.
+              Diagnostyka, naprawa, regeneracja oraz konserwacja urządzeń na
+              terenie całej Polski.
             </p>
+
+            <div class="footer__social">
+              <a
+                href="https://www.instagram.com/lasertech.service/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Instagram Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-instagram.svg"
+                  alt="Instagram Laser Tech Service"
+                />
+              </a>
+
+              <a
+                href="https://wa.me/48790402597"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="WhatsApp Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-whatsapp.svg"
+                  alt="WhatsApp Laser Tech Service"
+                />
+              </a>
+
+              <a
+                href="https://www.facebook.com/share/1CPgxschrT/?mibextid=wwXIfr"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Facebook Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-facebook.svg"
+                  alt="Facebook Laser Tech Service"
+                />
+              </a>
+
+              <a
+                href="https://t.me/lasertechservice"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Telegram Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-telegram.svg"
+                  alt="Telegram Laser Tech Service"
+                />
+              </a>
+            </div>
           </div>
 
           <!-- CONTACT -->
@@ -788,14 +844,6 @@
               </li>
 
               <li>
-                <span class="footer__label"> E-mail </span>
-
-                <a href="mailto:contact@lasertechservice.pl">
-                  contact@lasertechservice.pl
-                </a>
-              </li>
-
-              <li>
                 <span class="footer__label"> WhatsApp </span>
 
                 <a
@@ -804,6 +852,14 @@
                   rel="noopener noreferrer"
                 >
                   Napisz do nas
+                </a>
+              </li>
+
+              <li>
+                <span class="footer__label"> E-mail </span>
+
+                <a href="mailto:contact@lasertechservice.pl">
+                  contact@lasertechservice.pl
                 </a>
               </li>
             </ul>
@@ -820,11 +876,28 @@
               Marsz. Józefa Piłsudskiego 74 lok. 320
               <br />
               50-020 Wrocław
-              <br />
-              Polska
             </address>
+
+            <dl class="footer__legal-data">
+              <div>
+                <dt>NIP</dt>
+                <dd>8971959502</dd>
+              </div>
+
+              <div>
+                <dt>KRS</dt>
+                <dd>0001193879</dd>
+              </div>
+
+              <div>
+                <dt>REGON</dt>
+                <dd>542701591</dd>
+              </div>
+            </dl>
           </div>
         </div>
+
+        <!-- FOOTER BOTTOM -->
 
         <div class="footer__bottom">
           <p class="footer__copyright">© 2026 Laser Tech Service sp. z o.o.</p>

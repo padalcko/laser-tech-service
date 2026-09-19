@@ -732,8 +732,7 @@
 
 
 /* =========================================================
-   13. NAVIGATION FIX
-   4 items on Realizacje page
+   13. SECTION POSITION
 ========================================================= */
 
 .realizacje-hero + .realizacje-section {
@@ -741,9 +740,6 @@
 }
 
 
-body:is(.pl, .ru) .nav-list {
-    white-space: nowrap;
-}
 
 
 /* =========================================================
@@ -824,17 +820,6 @@ body:is(.pl, .ru) .nav-list {
 ========================================================= */
 
 @media (max-width: 650px) {
-
-    /* NAV */
-
-    body:is(.pl, .ru) .nav-list {
-        gap: 5px;
-    }
-
-
-    body:is(.pl, .ru) .nav-list__link {
-        font-size: 10.5px;
-    }
 
 
     /* HERO */
@@ -1015,9 +1000,6 @@ body:is(.pl, .ru) .nav-list {
 
 @media (max-width: 420px) {
 
-    body:is(.pl, .ru) .nav-list__link {
-        font-size: 9.7px;
-    }
 
 
     .realizacje-hero {

@@ -415,36 +415,40 @@
     <nav class="nav" id="siteNav" aria-label="Główna nawigacja">
       <div class="container">
         <div class="nav-row">
+          <!-- LOGO -->
+
           <a
             href="/"
             class="logo"
             aria-label="Laser Tech Service – strona główna"
           >
-            <span class="brand-laser-tech">LASER TECH</span>
-            <span class="brand-service">SERVICE</span>
+            <span class="brand-laser-tech"> LASER TECH </span>
+
+            <span class="brand-service"> SERVICE </span>
           </a>
+
+          <!-- DESKTOP + MOBILE NAVIGATION -->
 
           <ul class="nav-list" id="primaryNavigation">
             <li class="nav-list__item">
-              <a href="/" class="nav-list__link">Strona główna</a>
-            </li>
-
-            <li class="nav-list__item">
-              <a href="/uslugi/" class="nav-list__link">Usługi</a>
-            </li>
-
-            <li class="nav-list__item">
               <a
-                href="/realizacje/"
-                class="nav-list__link nav-list__link--active"
-                aria-current="page"
+                href="/"
+                class="nav-list__link"
               >
-                Realizacje
+                Strona główna
               </a>
             </li>
 
             <li class="nav-list__item">
-              <a href="/blog/" class="nav-list__link">Blog</a>
+              <a href="/uslugi/" class="nav-list__link"> Usługi </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a href="/realizacje/" class="nav-list__link nav-list__link--active" aria-current="location"> Realizacje </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a href="/blog/" class="nav-list__link"> Blog </a>
             </li>
 
             <li class="nav-list__item">
@@ -459,9 +463,11 @@
             </li>
 
             <li class="nav-list__item">
-              <a href="/kontakt/" class="nav-list__link">Kontakt</a>
+              <a href="/kontakt/" class="nav-list__link"> Kontakt </a>
             </li>
           </ul>
+
+          <!-- LANGUAGE SWITCHER -->
 
           <div class="language-switcher" aria-label="Wybór języka">
             <a
@@ -474,7 +480,9 @@
               PL
             </a>
 
-            <span class="language-switcher__separator" aria-hidden="true"> / </span>
+            <span class="language-switcher__separator" aria-hidden="true">
+              /
+            </span>
 
             <a
               href="/ru/realizacje/naprawa-alma-accent-gorlitz/"
@@ -485,6 +493,8 @@
               RU
             </a>
           </div>
+
+          <!-- MOBILE BURGER -->
 
           <button
             class="nav-toggle"
@@ -942,10 +952,13 @@
     <footer class="footer">
       <div class="container">
         <div class="footer__main">
+          <!-- COMPANY -->
+
           <div class="footer__company">
             <a href="/" class="footer__brand" aria-label="Laser Tech Service">
-              <span class="brand-laser-tech">LASER TECH</span>
-              <span class="brand-service">SERVICE</span>
+              <span class="brand-laser-tech"> LASER TECH </span>
+
+              <span class="brand-service"> SERVICE </span>
             </a>
 
             <p class="footer__description">
@@ -1005,17 +1018,20 @@
             </div>
           </div>
 
+          <!-- CONTACT -->
+
           <div class="footer__column">
             <h3 class="footer__heading">Kontakt</h3>
 
             <ul class="footer__contact-list">
               <li>
-                <span class="footer__label">Telefon</span>
-                <a href="tel:+48790402597">+48 790 402 597</a>
+                <span class="footer__label"> Telefon </span>
+
+                <a href="tel:+48790402597"> +48 790 402 597 </a>
               </li>
 
               <li>
-                <span class="footer__label">WhatsApp</span>
+                <span class="footer__label"> WhatsApp </span>
 
                 <a
                   href="https://wa.me/48790402597"
@@ -1027,7 +1043,7 @@
               </li>
 
               <li>
-                <span class="footer__label">E-mail</span>
+                <span class="footer__label"> E-mail </span>
 
                 <a href="mailto:contact@lasertechservice.pl">
                   contact@lasertechservice.pl
@@ -1035,6 +1051,8 @@
               </li>
             </ul>
           </div>
+
+          <!-- COMPANY DATA -->
 
           <div class="footer__column footer__company-data">
             <h3 class="footer__heading">Dane firmy</h3>
@@ -1066,11 +1084,14 @@
           </div>
         </div>
 
+        <!-- FOOTER BOTTOM -->
+
         <div class="footer__bottom">
           <p class="footer__copyright">© 2026 Laser Tech Service sp. z o.o.</p>
 
           <p class="footer__creator">
             Created by
+
             <a
               href="https://raccoon-studio.com.ua/"
               target="_blank"
@@ -1078,6 +1099,7 @@
             >
               Raccoon Studio
             </a>
+
             © 2026
           </p>
         </div>

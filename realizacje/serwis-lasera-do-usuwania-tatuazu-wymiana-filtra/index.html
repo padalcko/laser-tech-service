@@ -48,7 +48,7 @@
 
     <meta
       property="og:image"
-      content="https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz.jpg"
+      content="https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz.webp"
     />
 
     <meta
@@ -78,7 +78,7 @@
 
     <meta
       name="twitter:image"
-      content="https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz.jpg"
+      content="https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz.webp"
     />
 
     <!-- =====================================================
@@ -139,9 +139,9 @@
         "headline": "Serwis lasera ND:YAG do usuwania tatuażu – ML-ND YAG LASER A1",
         "description": "Diagnostyka i techniczna obsługa lasera do usuwania tatuażu w Legnicy. Czyszczenie urządzenia, konserwacja układu chłodzenia oraz wymiana filtra.",
         "image": [
-          "https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz.jpg",
-          "https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz-1.jpg",
-          "https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz-2.jpg"
+          "https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz.webp",
+          "https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz-1.webp",
+          "https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz-2.webp"
         ],
         "author": {
           "@type": "Organization",
@@ -435,6 +435,8 @@
     <nav class="nav" id="siteNav" aria-label="Główna nawigacja">
       <div class="container">
         <div class="nav-row">
+          <!-- LOGO -->
+
           <a
             href="/"
             class="logo"
@@ -445,9 +447,16 @@
             <span class="brand-service"> SERVICE </span>
           </a>
 
+          <!-- DESKTOP + MOBILE NAVIGATION -->
+
           <ul class="nav-list" id="primaryNavigation">
             <li class="nav-list__item">
-              <a href="/" class="nav-list__link"> Strona główna </a>
+              <a
+                href="/"
+                class="nav-list__link"
+              >
+                Strona główna
+              </a>
             </li>
 
             <li class="nav-list__item">
@@ -455,12 +464,21 @@
             </li>
 
             <li class="nav-list__item">
+              <a href="/realizacje/" class="nav-list__link nav-list__link--active" aria-current="location"> Realizacje </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a href="/blog/" class="nav-list__link"> Blog </a>
+            </li>
+
+            <li class="nav-list__item">
               <a
-                href="/realizacje/"
-                class="nav-list__link nav-list__link--active"
-                aria-current="page"
+                href="https://ltsmarket.pl/"
+                class="nav-list__link"
+                target="_blank"
+                rel="noopener noreferrer"
               >
-                Realizacje
+                LTS Market
               </a>
             </li>
 
@@ -468,6 +486,8 @@
               <a href="/kontakt/" class="nav-list__link"> Kontakt </a>
             </li>
           </ul>
+
+          <!-- LANGUAGE SWITCHER -->
 
           <div class="language-switcher" aria-label="Wybór języka">
             <a
@@ -480,7 +500,9 @@
               PL
             </a>
 
-            <span class="language-switcher__separator" aria-hidden="true"> / </span>
+            <span class="language-switcher__separator" aria-hidden="true">
+              /
+            </span>
 
             <a
               href="/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/"
@@ -491,6 +513,8 @@
               RU
             </a>
           </div>
+
+          <!-- MOBILE BURGER -->
 
           <button
             class="nav-toggle"
@@ -560,7 +584,7 @@
 
             <div class="case-hero__image">
               <img
-                src="/img/realizacje/serwis-lasera-tatuaz.jpg"
+                src="/img/realizacje/serwis-lasera-tatuaz.webp"
                 alt="Serwis lasera ML-ND YAG LASER A1 do usuwania tatuażu w Legnicy"
               />
             </div>
@@ -644,7 +668,7 @@
           <div class="case-work-grid">
             <div class="case-work-image">
               <img
-                src="/img/realizacje/serwis-lasera-tatuaz-1.jpg"
+                src="/img/realizacje/serwis-lasera-tatuaz-1.webp"
                 alt="Techniczne czyszczenie lasera ND:YAG do usuwania tatuażu"
               />
             </div>
@@ -725,7 +749,7 @@
 
             <div class="case-work-image">
               <img
-                src="/img/realizacje/serwis-lasera-tatuaz-2.jpg"
+                src="/img/realizacje/serwis-lasera-tatuaz-2.webp"
                 alt="Układ chłodzenia lasera ML-ND YAG LASER A1 podczas serwisu"
               />
             </div>
@@ -838,7 +862,7 @@
           <div class="case-gallery">
             <figure>
               <img
-                src="/img/realizacje/serwis-lasera-tatuaz.jpg"
+                src="/img/realizacje/serwis-lasera-tatuaz.webp"
                 alt="Laser ML-ND YAG LASER A1 podczas serwisu w Legnicy"
                 loading="lazy"
               />
@@ -846,7 +870,7 @@
 
             <figure>
               <img
-                src="/img/realizacje/serwis-lasera-tatuaz-1.jpg"
+                src="/img/realizacje/serwis-lasera-tatuaz-1.webp"
                 alt="Serwis lasera do usuwania tatuażu w Legnicy"
                 loading="lazy"
               />
@@ -854,7 +878,7 @@
 
             <figure>
               <img
-                src="/img/realizacje/serwis-lasera-tatuaz-2.jpg"
+                src="/img/realizacje/serwis-lasera-tatuaz-2.webp"
                 alt="Techniczna kontrola lasera ND:YAG do usuwania tatuażu"
                 loading="lazy"
               />
@@ -1112,10 +1136,8 @@
             <address>
               Laser Tech Service sp. z o.o.
               <br />
-
               Marsz. Józefa Piłsudskiego 74 lok. 320
               <br />
-
               50-020 Wrocław
             </address>
 
