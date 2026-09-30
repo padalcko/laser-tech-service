@@ -19,7 +19,7 @@ def resolve(url, source):
 def audit():
     allfiles=files(); refs={}; missing=[]; redirects=[]
     for p in allfiles:
-        if p.suffix.lower() in EXT or p.suffix.lower() in {'.pdf','.mp4','.woff','.woff2'} or p.name.startswith('image-audit') or p.name == 'audit-images.py': continue
+        if p.suffix.lower() in EXT or p.suffix.lower() in {'.pdf','.mp4','.woff','.woff2'} or p.name.startswith('image-audit') or p.name in {'audit-images.py', 'check-pharaon.py'}: continue
         try: text=p.read_text()
         except (UnicodeError,OSError): continue
         text = re.sub(r'data:[^\s\"\']+', '', text)
