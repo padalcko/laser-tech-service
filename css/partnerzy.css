@@ -1,0 +1,111 @@
+/* Partners extend the existing hero, article typography and section layout. */
+.partners-intro {
+    margin: 0;
+}
+
+.partners-intro blockquote {
+    margin-bottom: 0;
+}
+
+.partners-grid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-auto-rows: 1fr;
+    gap: 28px;
+}
+
+.partner-card {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    overflow: hidden;
+    border: 1px solid rgba(203, 178, 106, 0.24);
+    border-radius: var(--radius-lg);
+    background: var(--black-card);
+    box-shadow: var(--shadow-dark);
+    text-decoration: none;
+    transition: transform var(--transition), border-color var(--transition);
+}
+
+.partner-card__image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    aspect-ratio: 16 / 10;
+    padding: 24px;
+    background: var(--white);
+}
+
+.partner-card__image img {
+    width: 100%;
+    max-width: 201px;
+    height: 100%;
+    object-fit: contain;
+}
+
+.partner-card__content {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    padding: 24px;
+}
+
+.partner-card__title {
+    margin: 0 0 18px;
+    color: var(--white);
+    font-size: clamp(21px, 2vw, 26px);
+    font-weight: 600;
+    line-height: 1.4;
+    letter-spacing: -0.5px;
+}
+
+.partner-card__description {
+    margin: 0 0 25px;
+    color: rgba(255, 255, 255, 0.62);
+    font-size: 15px;
+    line-height: 1.75;
+}
+
+.partner-card .partner-card__badge {
+    margin: auto 0 0;
+    padding-top: 22px;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    color: var(--gold-light);
+    font-size: 12px;
+    line-height: 1.6;
+}
+
+.partner-card:focus-visible {
+    outline: 2px solid var(--gold-light);
+    outline-offset: 4px;
+}
+
+@media (hover: hover) and (pointer: fine) {
+    .partner-card:hover {
+        transform: translateY(-2px);
+        border-color: var(--gold);
+    }
+}
+
+@media (max-width: 1000px) {
+    .partners-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media (max-width: 760px) {
+    .partners-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .partner-card {
+        transition: none;
+    }
+
+    .partner-card:hover {
+        transform: none;
+    }
+}
