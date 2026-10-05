@@ -40,14 +40,14 @@ for p,parser in parsers.items():
  meta={a.get('name',a.get('property')):a.get('content') for t,a in tags if t=='meta'};descs[meta.get('description','')].append(rel)
  if not title:issues['missing_title'].append(rel)
  if not meta.get('description'):issues['missing_description'].append(rel)
- alternates={a.get('hreflang'):a.get('href') for t,a in tags if t=='link' and a.get('rel')=='alternate'}
+ alternates={a.get('hreflang'):a.get('href') for t,a in tags if t=='link' and a.get('rel')=='alternate' and a.get('hreflang')}
  if rel!='404.html':
   if [a.get('href') for t,a in tags if t=='link' and a.get('rel')=='canonical']!=[own]:issues['canonical'].append(rel)
   if alternates.get('ru' if rel.startswith('ru/') else 'pl')!=own or alternates.get('x-default')!=alternates.get('pl'):issues['hreflang'].append(rel)
   for lang,u in alternates.items():
    q=resolve(u,p)
    if not q or q[0] not in parsers:issues['hreflang'].append((rel,u));continue
-   peer={a.get('hreflang'):a.get('href') for t,a in parsers[q[0]].tags if t=='link' and a.get('rel')=='alternate'}
+   peer={a.get('hreflang'):a.get('href') for t,a in parsers[q[0]].tags if t=='link' and a.get('rel')=='alternate' and a.get('hreflang')}
    if peer!=alternates:issues['hreflang'].append((rel,'reciprocity'))
   if own not in sitemap:issues['sitemap'].append(('missing',own))
   else:

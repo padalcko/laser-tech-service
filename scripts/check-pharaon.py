@@ -56,9 +56,9 @@ for rel in new:
  assert len(re.findall(r'<h1\b',t))==1,rel
  assert [d['lang'] for tag,d in parser.tags if tag=='html']==['ru' if ru else 'pl']
  canon=[d['href'] for tag,d in parser.tags if tag=='link' and d.get('rel')=='canonical'];assert canon==[own],(rel,canon)
- alternates={d['hreflang']:d['href'] for tag,d in parser.tags if tag=='link' and d.get('rel')=='alternate'};assert set(alternates)=={'pl','ru','x-default'};assert alternates['x-default']==alternates['pl'];assert alternates['ru' if ru else 'pl']==own
+ alternates={d['hreflang']:d['href'] for tag,d in parser.tags if tag=='link' and d.get('rel')=='alternate' and d.get('hreflang')};assert set(alternates)=={'pl','ru','x-default'};assert alternates['x-default']==alternates['pl'];assert alternates['ru' if ru else 'pl']==own
  for lang,url in alternates.items():
-  target=resolve(url,p)[0];peer=parsers[target];peeralt={d['hreflang']:d['href'] for tag,d in peer.tags if tag=='link' and d.get('rel')=='alternate'};assert peeralt==alternates
+  target=resolve(url,p)[0];peer=parsers[target];peeralt={d['hreflang']:d['href'] for tag,d in peer.tags if tag=='link' and d.get('rel')=='alternate' and d.get('hreflang')};assert peeralt==alternates
  switch={d.get('hreflang'):BASE+d['href'] for tag,d in parser.tags if tag=='a' and 'language-switcher__link' in d.get('class','')};assert switch=={k:alternates[k] for k in ['pl','ru']}
  schemas=[json.loads(s) for s in re.findall(r'<script type="application/ld\+json">(.*?)</script>',t,re.S)];assert [s['@type'] for s in schemas]==['Article','BreadcrumbList']
  article,crumb=schemas;assert article['mainEntityOfPage']['@id']==own;assert article['datePublished']=='2026-09-30';assert article['dateModified']=='2026-09-30';assert crumb['itemListElement'][-1]['item']==own
@@ -85,7 +85,7 @@ for e in tree.findall('s:url',ns):
  url=e.find('s:loc',ns).text;assert url not in urls;urls[url]=e;assert resolve(url,R/'index.html')[0].exists(),url
 for rel in new:
  url=BASE+'/'+rel.removesuffix('index.html');e=urls[url];assert e.find('s:lastmod',ns).text=='2026-09-30'
- assert {x.attrib['hreflang']:x.attrib['href'] for x in e.findall('x:link',ns)}=={d['hreflang']:d['href'] for tag,d in parsers[R/rel].tags if tag=='link' and d.get('rel')=='alternate'}
+ assert {x.attrib['hreflang']:x.attrib['href'] for x in e.findall('x:link',ns)}=={d['hreflang']:d['href'] for tag,d in parsers[R/rel].tags if tag=='link' and d.get('rel')=='alternate' and d.get('hreflang')}
 # Check newly added URLs have exactly one matching card, and unchanged old content remains.
 for rel in new:
  url='/'+rel.removesuffix('index.html');kind='blog' if '/blog/' in url else 'realizacje';index=R/('ru/' if rel.startswith('ru/') else '')/kind/'index.html';text=index.read_text();cards=re.findall(r'<article class="'+('blog-card' if kind=='blog' else 'realizacja-card')+r'">.*?</article>',text,re.S);assert sum(url in c for c in cards)==1;assert url in cards[0]
@@ -104,14 +104,14 @@ for p,parser in parsers.items():
  rel=str(p.relative_to(R));t=p.read_text();tags=parser.tags;own=BASE+'/'+rel.removesuffix('index.html');ru=rel.startswith('ru/')
  titles[re.sub(r'\s+',' ',re.search(r'<title>(.*?)</title>',t,re.S)[1]).strip()].append(rel)
  metas={a.get('name',a.get('property')):a.get('content') for tag,a in tags if tag=='meta'};descs[metas.get('description')].append(rel)
- canon=[a.get('href') for tag,a in tags if tag=='link' and a.get('rel')=='canonical'];alt={a.get('hreflang'):a.get('href') for tag,a in tags if tag=='link' and a.get('rel')=='alternate'}
+ canon=[a.get('href') for tag,a in tags if tag=='link' and a.get('rel')=='canonical'];alt={a.get('hreflang'):a.get('href') for tag,a in tags if tag=='link' and a.get('rel')=='alternate' and a.get('hreflang')}
  if rel!='404.html':
   if canon!=[own]:issues['canonical'].append((rel,canon))
   if own not in entries:issues['sitemap_missing'].append(rel)
   if alt.get('ru' if ru else 'pl')!=own or alt.get('x-default')!=alt.get('pl'):issues['hreflang'].append((rel,alt))
   for lang,url in alt.items():
    peer=resolve(url,p)[0]
-   pa={a.get('hreflang'):a.get('href') for tag,a in parsers[peer].tags if tag=='link' and a.get('rel')=='alternate'}
+   pa={a.get('hreflang'):a.get('href') for tag,a in parsers[peer].tags if tag=='link' and a.get('rel')=='alternate' and a.get('hreflang')}
    if pa!=alt:issues['hreflang_reciprocity'].append((rel,url,pa))
   ea={e.get('hreflang'):e.get('href') for e in entries[own].findall('x:link',ns)}
   if ea!=alt:issues['sitemap_hreflang'].append((rel,ea,alt))

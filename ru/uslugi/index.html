@@ -129,29 +129,39 @@
     ====================================================== -->
 
     <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "LocalBusiness",
-        "name": "Laser Tech Service",
-        "image": "https://lasertechservice.pl/img/urzadzenia-laserowe-w-gabinecie.webp",
-        "url": "https://lasertechservice.pl/",
-        "telephone": "+48 790 402 597",
-        "email": "contact@lasertechservice.pl",
-        "description": "Профессиональный сервис и ремонт лазерного и косметологического оборудования. Вроцлав и вся Польша.",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "Marsz. Józefa Piłsudskiego 74 lok. 320",
-          "addressLocality": "Wrocław",
-          "postalCode": "50-020",
-          "addressCountry": "PL"
-        },
-        "geo": {
-          "@type": "GeoCoordinates",
-          "latitude": 51.1009351,
-          "longitude": 17.0322713
-        },
-        "openingHours": "Mo-Fr 09:00-17:00"
-      }
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Laser Tech Service",
+  "image": "https://lasertechservice.pl/img/urzadzenia-laserowe-w-gabinecie.webp",
+  "url": "https://lasertechservice.pl/",
+  "telephone": "+48 790 402 597",
+  "email": "contact@lasertechservice.pl",
+  "description": "Профессиональный сервис и ремонт лазерного и косметологического оборудования. Вроцлав и вся Польша.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Marsz. Józefa Piłsudskiego 74 lok. 320",
+    "addressLocality": "Wrocław",
+    "postalCode": "50-020",
+    "addressCountry": "PL"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.1009351,
+    "longitude": 17.0322713
+  },
+  "openingHours": "Mo-Fr 09:00-17:00",
+  "@id": "https://lasertechservice.pl/#organization",
+  "sameAs": [
+    "https://www.instagram.com/lasertech.service/",
+    "https://www.facebook.com/share/1CPgxschrT/?mibextid=wwXIfr",
+    "https://t.me/lasertechservice"
+  ],
+  "areaServed": {
+    "@type": "Country",
+    "name": "Poland"
+  }
+}
     </script>
 
     <!-- =====================================================
@@ -304,7 +314,41 @@
       gtag("js", new Date());
       gtag("config", "AW-17614450660");
     </script>
-  </head>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://lasertechservice.pl/ru/uslugi/#service",
+  "name": "Профессиональный сервис лазерного и косметологического оборудования",
+  "url": "https://lasertechservice.pl/ru/uslugi/",
+  "provider": {
+    "@id": "https://lasertechservice.pl/#organization"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "Poland"
+  },
+  "subjectOf": [
+    {
+      "@type": "Article",
+      "url": "https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/"
+    },
+    {
+      "@type": "Article",
+      "url": "https://lasertechservice.pl/ru/realizacje/naprawa-3000-nain-bloku-zasilania/"
+    },
+    {
+      "@type": "Article",
+      "url": "https://lasertechservice.pl/ru/realizacje/naprawa-alma-accent-gorlitz/"
+    }
+  ]
+}
+    </script>
+<!-- AI resources: generated -->
+    <link rel="alternate" type="text/markdown" href="https://lasertechservice.pl/ru/uslugi/index.md" />
+    <link rel="describedby" href="/llms.txt" />
+<!-- /AI resources -->
+</head>
 
   <body class="ru">
     <!-- =====================================================

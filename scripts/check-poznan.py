@@ -67,11 +67,11 @@ for rel in new:
  assert len(re.findall(r'<h1\b',t))==1,rel
  assert [d['lang'] for tag,d in parser.tags if tag=='html']==[lang]
  canon=[d['href'] for tag,d in parser.tags if tag=='link' and d.get('rel')=='canonical'];assert canon==[own]
- alternates={d['hreflang']:d['href'] for tag,d in parser.tags if tag=='link' and d.get('rel')=='alternate'}
+ alternates={d['hreflang']:d['href'] for tag,d in parser.tags if tag=='link' and d.get('rel')=='alternate' and d.get('hreflang')}
  assert set(alternates)=={'pl','ru','x-default'} and alternates['x-default']==alternates['pl'] and alternates[lang]==own
  for peerurl in alternates.values():
   peer=parsers[resolve(peerurl,p)[0]]
-  assert {d['hreflang']:d['href'] for tag,d in peer.tags if tag=='link' and d.get('rel')=='alternate'}==alternates
+  assert {d['hreflang']:d['href'] for tag,d in peer.tags if tag=='link' and d.get('rel')=='alternate' and d.get('hreflang')}==alternates
  switch={d.get('hreflang'):BASE+d['href'] for tag,d in parser.tags if tag=='a' and 'language-switcher__link' in d.get('class','')}
  assert switch=={k:alternates[k] for k in ['pl','ru']}
  schemas=[json.loads(x) for x in re.findall(r'<script type="application/ld\+json">(.*?)</script>',t,re.S)]

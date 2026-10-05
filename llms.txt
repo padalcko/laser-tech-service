@@ -1,0 +1,86 @@
+# Laser Tech Service
+
+> Laser Tech Service repairs and maintains laser and cosmetic equipment. The business is based in Wrocław and serves clients across Poland.
+
+The website is published in Polish and Russian. HTML pages are the canonical sources; their Markdown representations preserve the original language and link to language equivalents. Repair cases document work on specific devices, while blog articles explain technology, diagnostics and maintenance. A repair case does not establish manufacturer authorization or universal model compatibility. The site also documents selected jobs in Görlitz, Germany; this is not a claim of unrestricted international coverage.
+
+## About
+
+- [Naprawa laserów diodowych do depilacji – profesjonalny serwis w Polsce](https://lasertechservice.pl/): Company, specialization and service geography.
+- [Naprawa laserów diodowych do depilacji – profesjonalny serwis w Polsce](https://lasertechservice.pl/index.md): Polish company overview in Markdown.
+
+## Main Pages
+
+- [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/): Service scope and equipment categories.
+- [Nasze realizacje](https://lasertechservice.pl/realizacje/): Index of documented repairs and maintenance.
+- [Blog](https://lasertechservice.pl/blog/): Technical knowledge and company articles.
+- [Nasi partnerzy](https://lasertechservice.pl/partnerzy/): Partners presented on the website.
+- [Kontakt](https://lasertechservice.pl/kontakt/): Business contact information and address.
+
+## Services
+
+- [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/index.md): Diagnostics, diode replacement, handpieces, cooling, power supplies, electronics and preventive maintenance; Wrocław and Poland.
+- [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/index.md): Russian representation of the services page.
+
+## Repair Cases
+
+- [Nasze realizacje](https://lasertechservice.pl/realizacje/index.md): Polish catalogue; each case has a Markdown version and a Russian equivalent.
+- [Наши работы](https://lasertechservice.pl/ru/realizacje/index.md): Russian catalogue of the same documented cases.
+- [Beauty Planet 3D Contour — wymiana przewodu zasilającego manipułę we Wrocławiu](https://lasertechservice.pl/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/): Brak vacuum w manipule Beauty Planet 3D Contour w studio Tiamo we Wrocławiu. Diagnostyka, wymiana uszkodzonego przewodu zasilającego i test podciśnienia.
+- [3000 NAIN — diagnostyka i naprawa bloku zasilania](https://lasertechservice.pl/realizacje/naprawa-3000-nain-bloku-zasilania/): Diagnostyka i naprawa bloku zasilania 3000 NAIN. Zobacz demontaż, pracę przy elektronice, ponowny montaż oraz uruchomienie aparatu na zdjęciach i filmach.
+- [Naprawa Alma Accent – wymiana przewodu układu chłodzenia głowicy RF](https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/): Naprawa urządzenia Alma Accent w Görlitz. Wymiana uszkodzonego w trzech miejscach przewodu doprowadzającego wodę do głowicy RF i przywrócenie prawidłowego obiegu chłodzenia.
+- [Naprawa Beauty Planet 3D Contour – vacuum i RF](https://lasertechservice.pl/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/): Naprawa Beauty Planet 3D Contour we Wrocławiu. Diagnostyka manipuły, brak zasilania, niesprawny vacuum i RF. Przywrócenie działania podciśnienia i radiofrekwencji.
+- [Naprawa urządzenia Multipolar RF w Lublinie](https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/): Naprawa urządzenia Multipolar RF w Lublinie. Usunięcie problemu ze słabym podciśnieniem, naprawa pompy oraz uszkodzonego złącza RF.
+- [Naprawa NUBWAY NBW-VSIII – serwis RF i układu podciśnienia](https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/): Naprawa NUBWAY NBW-VSIII 5D we Wrocławiu. Wymiana przewodów układu podciśnienia, naprawa elementu RF, układu próżniowego oraz czyszczenie urządzenia.
+- [Przegląd lasera ESTELASE POWER P-808L — wymiana filtra i wody](https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/): Planowy przegląd ESTELASE POWER P-808L: przedmuch, wymiana filtra i wody oraz sprawdzenie urządzenia. Zdjęcia i wideo z prac Laser Tech Service.
+- [Przegląd i serwis Pharaon 1470 — Wrocław](https://lasertechservice.pl/realizacje/przeglad-serwis-pharaon-1470-wroclaw/): Pharaon 1470 w klinice Denica we Wrocławiu: diagnostyka, czyszczenie wnętrza, planowy przegląd i wpis do dokumentacji serwisowej urządzenia.
+- [Serwis Cavi Shape Advanced – naprawa RF, podczerwieni i ultradźwięków](https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/): Serwis Cavi Shape Advanced we Wrocławiu. Naprawa trzech głowic RF, światła podczerwonego i ultradźwięków. Czyszczenie styków, naprawa połączeń i płyty głównej.
+- [Serwis głowicy lasera diodowego – czyszczenie i przywrócenie szczelności](https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/): Serwis głowicy lasera diodowego w Poznaniu. Usunięcie zabrudzeń po rozszczelnieniu manipulatora, czyszczenie optyki i wnętrza głowicy oraz przywrócenie szczelności.
+- [GME ExSys 308 — kontrola serwisowa i test działania](https://lasertechservice.pl/realizacje/serwis-gme-exsys-308/): Kontrola GME ExSys 308 w Laser Tech Service: test aparatu i manipuły, zdjęcia oraz film. Poznaj system EPL z lampą ekscymerową UVB 308 nm.
+- [Serwis HIFU KIMED K1-W1601 – naprawa głowicy i obsługa techniczna](https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/): Serwis HIFU KIMED K1-W1601 w Görlitz. Naprawa niedziałającej głowicy HIFU, czyszczenie układu wodnego, konserwacja i test sprawności.
+- [Serwis lasera diodowego – wymiana głowicy i obsługa techniczna](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/): Serwis lasera diodowego we Wrocławiu. Wymiana głowicy zabiegowej, czyszczenie urządzenia, obsługa techniczna i końcowy test sprawności.
+- [Serwis lasera ND:YAG do usuwania tatuażu](https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/): Diagnostyka i serwis lasera ML-ND YAG LASER A1 do usuwania tatuażu w Legnicy. Czyszczenie urządzenia, konserwacja układu chłodzenia i wymiana filtra.
+- [Wymiana modułu diodowego lasera po zalaniu – Poznań](https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/): Naprawa lasera w Poznaniu: wymiana zalanego modułu diodowego i prawidłowy montaż uszczelki. Zdjęcia uszkodzeń i przyczyna kosztownej awarii.
+
+## Knowledge Base / Blog
+
+- [Blog](https://lasertechservice.pl/blog/index.md): Polish article catalogue; use article Markdown for full text and related cases.
+- [Блог](https://lasertechservice.pl/ru/blog/index.md): Russian article catalogue.
+- [3000 NAIN — poznajcie dinozaura wśród laserów](https://lasertechservice.pl/blog/3000-nain-laser-historia-konstrukcja-serwis/): 3000 NAIN z bliska: historia modelu, technologia Nd:YAG Q-Switched, duża obudowa i znaczenie naprawy elektroniki. Co wiemy, a czego nie potwierdzono?
+- [5 oznak, że dioda w laserze do depilacji wymaga sprawdzenia lub wymiany](https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/): Poznaj 5 oznak, które mogą wskazywać na zużycie lub uszkodzenie diody w laserze do depilacji. Sprawdź, kiedy potrzebna jest diagnostyka i wymiana diody laserowej.
+- [Beauty Planet 3D Contour – co potrafi, jak działa i czy warto mieć go w gabinecie?](https://lasertechservice.pl/blog/beauty-planet-3d-contour-mozliwosci-serwis/): Beauty Planet 3D Contour – co potrafi urządzenie 5 w 1, jakie technologie oferuje, jakie ma znaczenie dla gabinetu i co zrobić w przypadku awarii vacuum lub RF.
+- [Dlaczego mały przewód powoduje duże problemy?](https://lasertechservice.pl/blog/dlaczego-maly-przewod-powoduje-duze-problemy/): Aparat się włącza, ale manipuła nie działa? Wyjaśniamy, jak wewnętrzne uszkodzenie przewodu zatrzymuje funkcję urządzenia, na przykładzie Beauty Planet 3D Contour.
+- [Dlaczego nie warto samodzielnie wymieniać uszczelek w urządzeniu laserowym?](https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/): Źle założona uszczelka doprowadziła do zalania diody w laserze w Poznaniu. Wyjaśniamy ryzyko, koszty i objawy wymagające wyłączenia urządzenia.
+- [Dlaczego palą się moduły diodowe w laserach do depilacji? Przyczyny, objawy i konsekwencje](https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/): Dlaczego moduły diodowe w laserach do depilacji ulegają uszkodzeniu? Przyczyny, objawy, koszty awarii oraz znaczenie diagnostyki i regularnego serwisu.
+- [Dlaczego warto korzystać z profesjonalnego serwisu urządzeń kosmetycznych?](https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/): Dlaczego profesjonalny serwis urządzeń kosmetycznych ma znaczenie? Gwarancja, szybki dojazd, dokumentacja napraw, historia serwisowa i większa wartość urządzenia.
+- [HIFU – co to jest, jak działa i do czego służy urządzenie HIFU?](https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/): HIFU – co to jest i jak działa? Wyjaśniamy zasadę działania skoncentrowanych ultradźwięków, głębokości 1,5, 3,0 i 4,5 mm, zastosowanie HIFU, budowę urządzeń oraz ich serwis.
+- [Laser Tech Service z nagrodą Złota Firma 2026](https://lasertechservice.pl/blog/laser-tech-service-zlota-firma-2026/): Laser Tech Service otrzymał nagrodę Złota Firma 2026. Dziękujemy za zaufanie do naszego serwisu laserów i urządzeń kosmetycznych we Wrocławiu i całej Polsce.
+- [Pharaon 1470 — historia urządzenia i światło, które pochłania woda](https://lasertechservice.pl/blog/pharaon-1470-historia-technologia-lasera/): Pharaon 1470, LSO Medical i OSYRIS: historia oznaczeń, znaczenie długości fali 1470 nm oraz jej zastosowanie w medycynie, na podstawie źródeł i badań.
+- [Planowy przegląd lasera diodowego – dlaczego jest ważny i co obejmuje?](https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/): Dlaczego warto wykonywać planowy przegląd lasera diodowego? Wyjaśniamy znaczenie czyszczenia, kontroli układu chłodzenia, filtra, wody i sprawdzenia urządzenia po serwisie.
+- [Serwis głowicy lasera diodowego – dlaczego szczelność i czysta optyka są tak ważne?](https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/): Nieszczelna głowica lasera może powodować zabrudzenie optyki, spadek skuteczności zabiegów i ryzyko uszkodzenia modułu diodowego. Zobacz rzeczywisty przypadek serwisowy.
+- [Używany laser diodowy – dlaczego warto kupować urządzenie z historią serwisową?](https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/): Kupujesz używany laser diodowy? Sprawdź, dlaczego historia serwisowa, dokumentacja urządzenia i późniejsze wsparcie techniczne są ważniejsze niż sama niska cena.
+
+## Partners
+
+- [Nasi partnerzy](https://lasertechservice.pl/partnerzy/index.md): AnnVi, cosmetology and podology in Wrocław, is listed as a partner.
+
+## Contact
+
+- [Kontakt](https://lasertechservice.pl/kontakt/index.md): Marsz. Józefa Piłsudskiego 74 lok. 320, 50-020 Wrocław, Poland; +48 790 402 597; contact@lasertechservice.pl.
+
+## Languages
+
+- [Naprawa laserów diodowych do depilacji – profesjonalny serwis w Polsce](https://lasertechservice.pl/): Polish website.
+- [Ремонт диодных лазеров и косметологического оборудования](https://lasertechservice.pl/ru/): Russian website.
+
+## Important Resources
+
+- [Expanded site text](https://lasertechservice.pl/llms-full.txt): Company, services, equipment, cases, articles, locations, partners, contact and language map.
+- [XML sitemap](https://lasertechservice.pl/sitemap.xml): Canonical HTML pages and language equivalents.
+- [Crawler rules](https://lasertechservice.pl/robots.txt): Access rules; independent from this resource map.
+
+## Optional
+
+- [Wymiana modułu diodowego lasera po zalaniu – Poznań](https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/index.md): Diode module replacement after coolant ingress in Poznań.
+- [Dlaczego nie warto samodzielnie wymieniać uszczelek w urządzeniu laserowym?](https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/index.md): Seal replacement risks and the related water-damage case.
+- [3000 NAIN — diagnostyka i naprawa bloku zasilania](https://lasertechservice.pl/realizacje/naprawa-3000-nain-bloku-zasilania/index.md): Power-supply repair with links to the recorded videos.
