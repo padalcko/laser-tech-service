@@ -10,6 +10,12 @@
 
 Пишем о том, с чем сталкиваемся каждый день: ремонте лазеров, диагностике неисправностей, обслуживании косметологического оборудования и обычных проблемах, которые возникают у владельцев салонов и кабинетов.
 
+Диагностика и ремонт6 октября 2026
+
+## [CO₂-лазер не реагирует на педаль: симптом — ещё не диагноз](https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/)
+
+Почему нельзя ставить диагноз по одному симптому: исправная педаль, внутренний обрыв провода и последовательная диагностика на выезде в Познани.
+
 Сервис лазеров5 октября 2026
 
 ## [Почему не стоит самостоятельно менять уплотнительные прокладки в лазерном аппарате](https://lasertechservice.pl/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/)
@@ -94,6 +100,7 @@ Pharaon 1470, LSO Medical и OSYRIS: история обозначений, ос
 
 ## Связанные статьи
 
+- [CO₂-лазер не реагирует на педаль: симптом — ещё не диагноз](https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/)
 - [Почему не стоит самостоятельно менять уплотнительные прокладки в лазерном аппарате](https://lasertechservice.pl/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/)
 - [Laser Tech Service получил награду Złota Firma 2026](https://lasertechservice.pl/ru/blog/laser-tech-service-zlota-firma-2026/)
 - [Pharaon 1470 — история аппарата и свет, который поглощает вода](https://lasertechservice.pl/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/)

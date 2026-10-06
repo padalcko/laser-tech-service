@@ -16,6 +16,16 @@
 
 Каждое устройство требует индивидуальной диагностики. Ниже представлены отдельные примеры нашей работы.
 
+![Лазерный аппарат с закрытым корпусом в кабинете в Познани](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/aparat-laserowy-poznan.webp)
+
+ПознаньВыездной сервис
+
+## [Срочный ремонт CO₂-аппарата в Познани с выездом к клиенту](https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/)
+
+Выездной ремонт CO₂-аппарата в Познани: диагностика исправной педали, поиск обрыва красного провода манипулы, замена и обслуживание.
+
+[Смотреть ремонт](https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/)
+
 ![Повреждённый диодный модуль со следами жидкости и отложений](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp)
 
 PoznańСервис лазеров
@@ -212,6 +222,7 @@ RF Вакуум Диагностика Ремонт
 
 ## Связанные работы
 
+- [Срочный ремонт CO₂-аппарата в Познани с выездом к клиенту](https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/)
 - [Замена диодного модуля лазера после залития — Познань](https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
 - [GME ExSys 308 — сервисная проверка и тест аппарата](https://lasertechservice.pl/ru/realizacje/serwis-gme-exsys-308/)
 - [Pharaon 1470 — диагностика и обслуживание во Вроцлаве](https://lasertechservice.pl/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/)

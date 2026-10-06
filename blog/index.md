@@ -10,6 +10,12 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/)
 
 Praktyczna wiedza o serwisie, diagnostyce, naprawach i eksploatacji urządzeń laserowych oraz kosmetycznych.
 
+Diagnostyka i naprawa6 października 2026
+
+## [Laser CO₂ nie reaguje na pedał? Objaw to jeszcze nie diagnoza](https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/)
+
+Sprawny pedał i jeden uszkodzony przewód: dlaczego pomiary powinny poprzedzać zakup części? Wyjaśniamy na przykładzie pilnego serwisu w Poznaniu.
+
 Serwis laserów5 października 2026
 
 ## [Dlaczego nie warto samodzielnie wymieniać uszczelek w urządzeniu laserowym?](https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/)
@@ -94,6 +100,7 @@ Gwarancja, dokumentacja wykonanych prac, historia serwisowa, możliwość szybki
 
 ## Powiązane artykuły
 
+- [Laser CO₂ nie reaguje na pedał? Objaw to jeszcze nie diagnoza](https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/)
 - [Dlaczego nie warto samodzielnie wymieniać uszczelek w urządzeniu laserowym?](https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/)
 - [Laser Tech Service z nagrodą Złota Firma 2026](https://lasertechservice.pl/blog/laser-tech-service-zlota-firma-2026/)
 - [Pharaon 1470 — historia urządzenia i światło, które pochłania woda](https://lasertechservice.pl/blog/pharaon-1470-historia-technologia-lasera/)

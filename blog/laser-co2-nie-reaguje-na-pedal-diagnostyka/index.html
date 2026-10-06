@@ -1,0 +1,716 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <!-- =====================================================
+         01. BASIC META
+    ====================================================== -->
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+
+    <title>Laser CO₂ nie reaguje na pedał — diagnostyka | LTS</title>
+
+    <meta
+      name="description"
+      content="Brak reakcji lasera CO₂ na pedał nie musi oznaczać awarii pedału. Przypadek z Poznania pokazuje, dlaczego najpierw szukamy przerwy w obwodzie."
+    />
+
+    <meta name="author" content="Laser Tech Service" />
+
+    <!-- =====================================================
+         02. CANONICAL + HREFLANG
+    ====================================================== -->
+
+    <link
+      rel="canonical"
+      href="https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/"
+    />
+
+    <link
+      rel="alternate"
+      hreflang="pl"
+      href="https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/"
+    />
+
+    <link
+      rel="alternate"
+      hreflang="ru"
+      href="https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/"
+    />
+
+    <link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/"
+    />
+
+    <!-- =====================================================
+         03. OPEN GRAPH
+    ====================================================== -->
+
+    <meta property="og:type" content="article" />
+
+    <meta
+      property="og:title"
+      content="Laser CO₂ nie reaguje na pedał — diagnostyka | LTS"
+    />
+
+    <meta
+      property="og:description"
+      content="Brak reakcji lasera CO₂ na pedał nie musi oznaczać awarii pedału. Przypadek z Poznania pokazuje, dlaczego najpierw szukamy przerwy w obwodzie."
+    />
+
+    <meta
+      property="og:url"
+      content="https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/"
+    />
+
+    <meta
+      property="og:image"
+      content="https://lasertechservice.pl/img/realizacje/laser-co2-poznan/manipula-lasera-diagnostyka-multimetrem.webp"
+    />
+
+    <meta property="og:locale" content="pl_PL" />
+    <meta property="og:locale:alternate" content="ru_RU" />
+    <meta property="og:site_name" content="Laser Tech Service" />
+
+    <!-- =====================================================
+         04. TWITTER
+    ====================================================== -->
+
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <meta
+      name="twitter:title"
+      content="Laser CO₂ nie reaguje na pedał — diagnostyka | LTS"
+    />
+
+    <meta
+      name="twitter:description"
+      content="Brak reakcji lasera CO₂ na pedał nie musi oznaczać awarii pedału. Przypadek z Poznania pokazuje, dlaczego najpierw szukamy przerwy w obwodzie."
+    />
+
+    <meta
+      name="twitter:image"
+      content="https://lasertechservice.pl/img/realizacje/laser-co2-poznan/manipula-lasera-diagnostyka-multimetrem.webp"
+    />
+
+    <!-- =====================================================
+         05. FAVICON
+    ====================================================== -->
+
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <link rel="shortcut icon" href="/favicon.ico" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+
+    <meta name="apple-mobile-web-app-title" content="Laser Tech Service" />
+
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <!-- =====================================================
+         06. CSS
+    ====================================================== -->
+
+    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="stylesheet" href="/css/blog.css" />
+
+    
+
+    
+
+    
+
+    
+
+    <!-- =====================================================
+         09. BREADCRUMBS
+    ====================================================== -->
+
+    
+
+    <!-- =====================================================
+         10. GOOGLE ANALYTICS
+    ====================================================== -->
+
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-5STE4YVSDH"
+    ></script>
+
+    <script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+
+      gtag("js", new Date());
+
+      gtag("config", "G-5STE4YVSDH");
+    </script>
+
+    <!-- =====================================================
+         11. GTM OLD
+    ====================================================== -->
+
+    <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+
+        w[l].push({
+          "gtm.start": new Date().getTime(),
+          event: "gtm.js",
+        });
+
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+
+        j.async = true;
+
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-PT7BMHKW");
+    </script>
+
+    <!-- =====================================================
+         12. GTM NEW
+    ====================================================== -->
+
+    <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+
+        w[l].push({
+          "gtm.start": new Date().getTime(),
+          event: "gtm.js",
+        });
+
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+
+        j.async = true;
+
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-MF33VG4R");
+    </script>
+
+    <!-- =====================================================
+         13. GOOGLE ADS
+    ====================================================== -->
+
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=AW-17614450660"
+    ></script>
+
+    <script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+
+      gtag("js", new Date());
+
+      gtag("config", "AW-17614450660");
+    </script>
+      <meta property="og:image:width" content="1125" />
+    <meta property="og:image:height" content="2000" />
+    <meta property="og:image:alt" content="Diagnostyka przewodów manipuły za pomocą multimetru" />
+    <meta name="twitter:image:alt" content="Diagnostyka przewodów manipuły za pomocą multimetru" />
+      
+    
+      <meta property="article:published_time" content="2026-10-06" />
+    <meta property="article:modified_time" content="2026-10-06" />
+  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Laser CO₂ nie reaguje na pedał? Objaw to jeszcze nie diagnoza",
+  "description": "Brak reakcji lasera CO₂ na pedał nie musi oznaczać awarii pedału. Przypadek z Poznania pokazuje, dlaczego najpierw szukamy przerwy w obwodzie.",
+  "image": [
+    "https://lasertechservice.pl/img/realizacje/laser-co2-poznan/manipula-lasera-diagnostyka-multimetrem.webp",
+    "https://lasertechservice.pl/img/realizacje/laser-co2-poznan/manipula-lasera-przewody.webp"
+  ],
+  "thumbnailUrl": "https://lasertechservice.pl/img/realizacje/laser-co2-poznan/manipula-lasera-diagnostyka-multimetrem.webp",
+  "datePublished": "2026-10-06",
+  "dateModified": "2026-10-06",
+  "inLanguage": "pl-PL",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Laser Tech Service",
+    "url": "https://lasertechservice.pl/",
+    "@id": "https://lasertechservice.pl/#organization"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Laser Tech Service",
+    "url": "https://lasertechservice.pl/",
+    "@id": "https://lasertechservice.pl/#organization"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Strona główna",
+      "item": "https://lasertechservice.pl/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Blog",
+      "item": "https://lasertechservice.pl/blog/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Laser CO₂ nie reaguje na pedał? Objaw to jeszcze nie diagnoza",
+      "item": "https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/"
+    }
+  ]
+}
+</script>
+<!-- AI resources: generated -->
+    <link rel="alternate" type="text/markdown" href="https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/index.md" />
+    <link rel="describedby" href="/llms.txt" />
+<!-- /AI resources -->
+</head>
+
+  <body class="pl">
+    <!-- =====================================================
+         GTM NOSCRIPT OLD
+    ====================================================== -->
+
+    <noscript>
+      <iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-PT7BMHKW"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe>
+    </noscript>
+
+    <!-- =====================================================
+         GTM NOSCRIPT NEW
+    ====================================================== -->
+
+    <noscript>
+      <iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-MF33VG4R"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe>
+    </noscript>
+
+    <!-- =====================================================
+         01. FLOATING SOCIAL MENU
+    ====================================================== -->
+
+    <div class="menu">
+      <menu>
+        <a
+          href="https://www.instagram.com/lasertech.service/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="action"
+          aria-label="Instagram Laser Tech Service"
+        >
+          <img
+            src="/img/icons/instagram2.svg"
+            alt="Instagram Laser Tech Service"
+          />
+        </a>
+
+        <a
+          href="https://www.facebook.com/share/1CPgxschrT/?mibextid=wwXIfr"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="action"
+          aria-label="Facebook Laser Tech Service"
+        >
+          <img
+            src="/img/icons/facebook2.svg"
+            alt="Facebook Laser Tech Service"
+          />
+        </a>
+
+        <a
+          href="https://wa.me/48790402597"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="action"
+          aria-label="WhatsApp Laser Tech Service"
+        >
+          <img
+            src="/img/icons/whatsapp2.svg"
+            alt="WhatsApp Laser Tech Service"
+          />
+        </a>
+
+        <a
+          href="https://t.me/lasertechservice"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="action"
+          aria-label="Telegram Laser Tech Service"
+        >
+          <img
+            src="/img/icons/telegram2.svg"
+            alt="Telegram Laser Tech Service"
+          />
+        </a>
+
+        <a
+          href="tel:+48790402597"
+          class="action"
+          aria-label="Zadzwoń do Laser Tech Service"
+        >
+          <img src="/img/icons/phone.svg" alt="Telefon Laser Tech Service" />
+        </a>
+
+        <button
+          type="button"
+          class="trigger pulse"
+          aria-label="Otwórz menu kontaktowe"
+        >
+          <img
+            src="/img/icons/social.svg"
+            alt="Menu kontaktowe Laser Tech Service"
+          />
+        </button>
+      </menu>
+    </div>
+
+    <!-- =====================================================
+         02. NAVIGATION
+    ====================================================== -->
+
+    <nav class="nav" id="siteNav" aria-label="Główna nawigacja">
+      <div class="container">
+        <div class="nav-row">
+          <!-- LOGO -->
+
+          <a
+            href="/"
+            class="logo"
+            aria-label="Laser Tech Service – strona główna"
+          >
+            <span class="brand-laser-tech"> LASER TECH </span>
+
+            <span class="brand-service"> SERVICE </span>
+          </a>
+
+          <!-- DESKTOP + MOBILE NAVIGATION -->
+
+          <ul class="nav-list" id="primaryNavigation">
+            <li class="nav-list__item">
+              <a
+                href="/"
+                class="nav-list__link"
+              >
+                Strona główna
+              </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a href="/uslugi/" class="nav-list__link"> Usługi </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a href="/realizacje/" class="nav-list__link"> Realizacje </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a href="/blog/" class="nav-list__link nav-list__link--active" aria-current="location"> Blog </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a
+                href="https://ltsmarket.pl/"
+                class="nav-list__link"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                LTS Market
+              </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a href="/partnerzy/" class="nav-list__link"> Partnerzy </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a href="/kontakt/" class="nav-list__link"> Kontakt </a>
+            </li>
+          </ul>
+
+          <!-- LANGUAGE SWITCHER -->
+
+          <div class="language-switcher" aria-label="Wybór języka">
+            <a
+              href="/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/"
+              class="language-switcher__link language-switcher__link--active"
+              lang="pl"
+              hreflang="pl"
+              aria-current="page"
+            >
+              PL
+            </a>
+
+            <span class="language-switcher__separator" aria-hidden="true">
+              /
+            </span>
+
+            <a
+              href="/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/"
+              class="language-switcher__link"
+              lang="ru"
+              hreflang="ru"
+            >
+              RU
+            </a>
+          </div>
+
+          <!-- MOBILE BURGER -->
+
+          <button
+            class="nav-toggle"
+            type="button"
+            aria-label="Otwórz menu"
+            aria-controls="primaryNavigation"
+            aria-expanded="false"
+          >
+            <span class="nav-toggle__line"></span>
+            <span class="nav-toggle__line"></span>
+            <span class="nav-toggle__line"></span>
+          </button>
+        </div>
+      </div>
+    </nav>
+
+    <!-- =====================================================
+         03. ARTICLE
+    ====================================================== -->
+
+    <main class="article-page"><article class="article"><div class="container"><nav class="article-breadcrumbs" aria-label="Okruszki nawigacyjne"><a href="/">Strona główna</a><span aria-hidden="true">/</span><a href="/blog/">Blog</a><span aria-hidden="true">/</span><span aria-current="page">Brak reakcji na pedał</span></nav><header class="article-header"><span class="article-category">Diagnostyka i naprawa</span><h1>Laser CO₂ nie reaguje na pedał? Objaw to jeszcze nie diagnoza</h1><p class="article-lead">Naciskasz pedał, a laser nie odpowiada. Pierwsze podejrzenie wydaje się oczywiste. Przypadek z naszego wyjazdowego serwisu w Poznaniu pokazuje jednak, że sprawny element sterujący może wyglądać na uszkodzony, gdy sygnał zatrzymuje się dalej w obwodzie.</p><div class="article-meta"><time datetime="2026-10-06">6 października 2026</time><span>7 min czytania</span></div></header><div class="article-content"><p>Gdy urządzenie nie wykonuje polecenia, uwaga naturalnie kieruje się na element, którym to polecenie wydajemy. W przypadku lasera CO₂ będzie to często pedał sterujący. To rozsądny punkt rozpoczęcia kontroli, ale jeszcze nie powód, aby zamawiać nową część. Między naciśnięciem pedału a odpowiedzią aparatu istnieje obwód, którego poszczególne połączenia muszą działać prawidłowo.</p>
+<p><strong>Objaw to nie diagnoza.</strong> Objaw opisuje to, co zauważył użytkownik. Diagnoza ma wskazać, który element rzeczywiście zawiódł i na jakiej podstawie to stwierdzono. Różnicę dobrze pokazuje naprawa wykonana podczas pilnego wyjazdu do studia medycyny estetycznej w Poznaniu.</p>
+<figure class="article-image"><img src="/img/realizacje/laser-co2-poznan/manipula-lasera-diagnostyka-multimetrem.webp" srcset="/img/realizacje/laser-co2-poznan/manipula-lasera-diagnostyka-multimetrem-480w.webp 480w, /img/realizacje/laser-co2-poznan/manipula-lasera-diagnostyka-multimetrem-768w.webp 768w, /img/realizacje/laser-co2-poznan/manipula-lasera-diagnostyka-multimetrem.webp 1125w" sizes="(max-width: 650px) calc(100vw - 38px), (max-width: 760px) calc(100vw - 50px), (max-width: 1000px) calc(100vw - 42px), 958px" width="1125" height="2000" alt="Diagnostyka przewodów manipuły za pomocą multimetru" decoding="async" /><figcaption>Diagnostyka przewodów manipuły za pomocą multimetru.</figcaption></figure>
+<h2>Dlaczego zaczynamy od pedału?</h2>
+<p>Najbardziej oczywisty podejrzany powinien zostać sprawdzony, a nie automatycznie wymieniony. Kontrola pedału pozwala potwierdzić lub wykluczyć pierwszą hipotezę. Jeżeli jest niesprawny, mamy podstawę do dalszych działań dotyczących tego elementu. Jeżeli działa prawidłowo, wynik jest równie wartościowy: wiemy, że trzeba szukać dalej.</p>
+<p>W opisanym przypadku pedał został w pełni sprawdzony i okazał się całkowicie sprawny. Taka informacja nie kończy diagnostyki, lecz porządkuje ją. Kolejne czynności powinny odpowiadać na nowe pytanie: gdzie w dalszej części obwodu znika prawidłowo wydane polecenie?</p>
+<h2>Sprawny pedał zmienia kierunek poszukiwań</h2>
+<p>W obwodzie sterowania znaczenie ma nie tylko sam element uruchamiający, ale również droga przekazania jego sygnału. Dlatego po sprawdzeniu pedału przeszliśmy do połączeń i przewodów manipuły. Nie chodziło o ponowne potwierdzanie tego samego objawu, lecz o stopniowe zawężanie miejsca uszkodzenia.</p>
+<p>Praca wymagała uzyskania dostępu do okablowania, prześledzenia połączeń i sprawdzania kolejnych przewodów. Multimetr pomaga ustalić ciągłość badanego połączenia. Sam wygląd przewodu nie daje takiej odpowiedzi. To pomiary, odniesione do konkretnego obwodu, pozwalają odróżnić podejrzenie od rozpoznanej usterki.</p>
+<h2>Jak przewód może wyglądać na cały, a nie przekazywać sygnału?</h2>
+<p>To, co widzimy na zewnątrz kabla, nie jest całym połączeniem elektrycznym. Osłona może nie zdradzać przerwy znajdującej się wewnątrz. Brak wyraźnego przecięcia czy oderwanego złącza nie wystarcza więc, aby uznać obwód za sprawny. Z tego powodu oględziny i sprawdzenie elektryczne pełnią różne role.</p>
+<p>W Poznaniu znaleźliśmy wewnętrzną przerwę w małym czerwonym przewodzie manipuły. Nie przypisujemy jej niepotwierdzonej przyczyny mechanicznej. Wiemy natomiast, że właśnie przerwa uniemożliwiała prawidłowe przekazanie polecenia, a pełna wymiana uszkodzonego przewodu przywróciła reakcję systemu na pedał.</p>
+<figure class="article-image"><img src="/img/realizacje/laser-co2-poznan/manipula-lasera-przewody.webp" srcset="/img/realizacje/laser-co2-poznan/manipula-lasera-przewody-480w.webp 480w, /img/realizacje/laser-co2-poznan/manipula-lasera-przewody-768w.webp 768w, /img/realizacje/laser-co2-poznan/manipula-lasera-przewody.webp 1125w" sizes="(max-width: 650px) calc(100vw - 38px), (max-width: 760px) calc(100vw - 50px), (max-width: 1000px) calc(100vw - 42px), 958px" width="1125" height="2000" alt="Odsłonięte przewody przy metalowym elemencie manipuły" decoding="async" loading="lazy" /><figcaption>Odsłonięte przewody przy metalowym elemencie manipuły.</figcaption></figure>
+<h2>Jeden mały przewód — dlaczego znalezienie go zajmuje czas?</h2>
+<p>Z perspektywy gotowej naprawy łatwo powiedzieć: „Przecież to był tylko jeden przewód”. Technik na początku nie wie jednak, który przewód jest uszkodzony ani czy przyczyna rzeczywiście znajduje się w okablowaniu. Widzi objaw i musi go wyjaśnić. Znaczna część pracy polega na dotarciu do miejsca usterki, a nie na samej wymianie małego elementu.</p>
+<p>W tym przypadku kolejność działań obejmowała:</p>
+<ol><li>pełną diagnostykę pedału;</li><li>rozebranie niezbędnych elementów i uzyskanie dostępu do przewodów;</li><li>ustalenie drogi sygnału oraz kontrolę złączy;</li><li>kolejne sprawdzanie poszczególnych przewodów;</li><li>lokalizację wewnętrznej przerwy;</li><li>całkowitą wymianę uszkodzonego przewodu i prawidłowe ułożenie okablowania;</li><li>złożenie urządzenia i ponowne sprawdzenie reakcji na sterowanie.</li></ol>
+<p>Wielkość wymienionej części nie jest zatem miarą zakresu serwisu. Bez etapów poprzedzających wymianę nowy przewód nie miałby nawet ustalonego miejsca w diagnozie. Bez kontroli po złożeniu brakowałoby potwierdzenia, że usunięto problem zgłoszony przez klienta.</p>
+<h2>Dlaczego wymiana sprawnego pedału nie byłaby oszczędnością?</h2>
+<p>Gdybyśmy przyjęli skrót „brak reakcji oznacza uszkodzony pedał”, klient mógłby kupić niepotrzebną część, zapłacić za jej wymianę i nadal mieć ten sam problem. Byłby to dodatkowy wydatek oraz czas poświęcony na działanie, które nie usuwa przerwy w manipule. To opis możliwych konsekwencji błędnej decyzji, a nie kosztów poniesionych w tej realizacji.</p>
+<p>Diagnostyka jest potrzebna również po to, żeby <strong>nie wymieniać sprawnych części</strong>. Pozwala powiązać zakup i zakres pracy z rozpoznaną przyczyną. Nie podajemy hipotetycznych cen pedału ani kwoty oszczędności: najważniejszy jest potwierdzony fakt, że pedał był sprawny i nie wymagał wymiany.</p>
+<h2>Przykład z serwisu: pilny wyjazd do Poznania</h2>
+<p>Studio medycyny estetycznej nie mogło normalnie używać aparatu CO₂ z powodu nieprawidłowej reakcji na pedał. Laser Tech Service wykonał pilny wyjazd do klienta. Diagnostyka na miejscu potwierdziła sprawność pedału, a dalsze badanie przewodów manipuły ujawniło mały czerwony przewód z wewnętrznym przerwaniem.</p>
+<p>Przewód wymieniliśmy w całości, odtworzyliśmy połączenie, ułożyliśmy okablowanie i złożyliśmy rozebrane elementy. Następnie sprawdziliśmy reakcję aparatu na sterowanie. W ramach wizyty wykonano również przegląd i niezbędne czynności serwisowe urządzenia. Po tych pracach aparat był w pełni gotowy do dalszego użytkowania w studiu.</p>
+<p>Pełną dokumentację fotograficzną i przebieg prac przedstawiamy w realizacji <a href="/realizacje/pilna-naprawa-lasera-co2-poznan/">pilna naprawa lasera CO₂ w Poznaniu</a>.</p>
+<h2>Mały element może zatrzymać ważną funkcję</h2>
+<p>Rozmiar części nie wyznacza rozmiaru problemu. Niewielki przewód należy do obwodu tak samo jak duży, łatwo rozpoznawalny podzespół. Jeżeli w potrzebnym połączeniu wystąpi przerwa, sama sprawność pozostałych elementów nie zapewni prawidłowej odpowiedzi urządzenia.</p>
+<p>Podobną rolę okablowania omawiamy w artykule <a href="/blog/dlaczego-maly-przewod-powoduje-duze-problemy/">dlaczego mały przewód powoduje duże problemy</a>, opartym na innym przypadku serwisowym. Nie oznacza to, że każdy brak reakcji ma tę samą przyczynę. Właśnie dlatego w kolejnym urządzeniu trzeba przeprowadzić diagnostykę, zamiast automatycznie szukać identycznego czerwonego przewodu.</p>
+<h2>Naprawa kończy się sprawdzeniem rezultatu</h2>
+<p>Znalezienie przerwy wyjaśnia objaw, a wymiana przewodu usuwa rozpoznane uszkodzenie. Dopiero poprawne ułożenie połączeń, złożenie elementów i ponowny test pozwalają ocenić rezultat wykonanej pracy. W Poznaniu potwierdziliśmy powrót prawidłowej reakcji na pedał po naprawie.</p>
+<p>Tak rozumiemy <a href="/uslugi/">diagnostykę i naprawę urządzeń laserowych</a>: najpierw ustalić przyczynę, potem wykonać potrzebną pracę i sprawdzić wynik. Jeśli zgłaszasz podobny problem, opisz obserwowaną reakcję aparatu oraz okoliczności jej występowania. Taki opis pomaga rozpocząć rozmowę z serwisem, ale nie zastępuje badania urządzenia.</p><div class="article-cta"><h2>Potrzebujesz diagnostyki urządzenia?</h2><p>Laser Tech Service wykonuje naprawy i wyjazdowy serwis laserów w Poznaniu i całej Polsce. Opisz objawy, a ustalimy dalszy sposób działania.</p><div class="article-cta__actions"><a class="article-cta__button" href="/realizacje/pilna-naprawa-lasera-co2-poznan/">Zobacz realizację</a><a class="article-cta__button" href="/kontakt/">Skontaktuj się z serwisem</a></div></div><div class="article-signature">Laser Tech Service</div><div class="article-back"><a href="/blog/">← Wróć do bloga</a></div></div></div></article></main>
+
+    <!-- =====================================================
+         04. FOOTER
+    ====================================================== -->
+
+    <footer class="footer">
+      <div class="container">
+        <div class="footer__main">
+          <!-- COMPANY -->
+
+          <div class="footer__company">
+            <a href="/" class="footer__brand" aria-label="Laser Tech Service">
+              <span class="brand-laser-tech"> LASER TECH </span>
+
+              <span class="brand-service"> SERVICE </span>
+            </a>
+
+            <p class="footer__description">
+              Profesjonalny serwis urządzeń laserowych i kosmetologicznych.
+              Diagnostyka, naprawa, regeneracja oraz konserwacja urządzeń na
+              terenie całej Polski.
+            </p>
+
+            <div class="footer__social">
+              <a
+                href="https://www.instagram.com/lasertech.service/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Instagram Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-instagram.svg"
+                  alt="Instagram Laser Tech Service"
+                />
+              </a>
+
+              <a
+                href="https://wa.me/48790402597"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="WhatsApp Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-whatsapp.svg"
+                  alt="WhatsApp Laser Tech Service"
+                />
+              </a>
+
+              <a
+                href="https://www.facebook.com/share/1CPgxschrT/?mibextid=wwXIfr"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Facebook Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-facebook.svg"
+                  alt="Facebook Laser Tech Service"
+                />
+              </a>
+
+              <a
+                href="https://t.me/lasertechservice"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Telegram Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-telegram.svg"
+                  alt="Telegram Laser Tech Service"
+                />
+              </a>
+            </div>
+          </div>
+
+          <!-- CONTACT -->
+
+          <div class="footer__column">
+            <h3 class="footer__heading">Kontakt</h3>
+
+            <ul class="footer__contact-list">
+              <li>
+                <span class="footer__label"> Telefon </span>
+
+                <a href="tel:+48790402597"> +48 790 402 597 </a>
+              </li>
+
+              <li>
+                <span class="footer__label"> WhatsApp </span>
+
+                <a
+                  href="https://wa.me/48790402597"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Napisz do nas
+                </a>
+              </li>
+
+              <li>
+                <span class="footer__label"> E-mail </span>
+
+                <a href="mailto:contact@lasertechservice.pl">
+                  contact@lasertechservice.pl
+                </a>
+              </li>
+            </ul>
+          </div>
+
+          <!-- COMPANY DATA -->
+
+          <div class="footer__column footer__company-data">
+            <h3 class="footer__heading">Dane firmy</h3>
+
+            <address>
+              Laser Tech Service sp. z o.o.
+              <br />
+              Marsz. Józefa Piłsudskiego 74 lok. 320
+              <br />
+              50-020 Wrocław
+            </address>
+
+            <dl class="footer__legal-data">
+              <div>
+                <dt>NIP</dt>
+                <dd>8971959502</dd>
+              </div>
+
+              <div>
+                <dt>KRS</dt>
+                <dd>0001193879</dd>
+              </div>
+
+              <div>
+                <dt>REGON</dt>
+                <dd>542701591</dd>
+              </div>
+            </dl>
+          </div>
+        </div>
+
+        <!-- FOOTER BOTTOM -->
+
+        <div class="footer__bottom">
+          <p class="footer__copyright">© 2026 Laser Tech Service sp. z o.o.</p>
+
+          <p class="footer__creator">
+            Created by
+
+            <a
+              href="https://raccoon-studio.com.ua/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Raccoon Studio
+            </a>
+
+            © 2026
+          </p>
+        </div>
+      </div>
+    </footer>
+
+    <script src="/js/main.js"></script>
+  </body>
+</html>

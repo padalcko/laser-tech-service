@@ -16,6 +16,16 @@ Pokazujemy rzeczywiste realizacje serwisowe: zakres zlecenia, wykonane prace ora
 
 Każde urządzenie wymaga indywidualnej diagnostyki. Poniżej prezentujemy wybrane realizacje naszego serwisu.
 
+![Aparat laserowy z zamkniętą obudową w gabinecie w Poznaniu](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/aparat-laserowy-poznan.webp)
+
+PoznańSerwis wyjazdowy
+
+## [Pilna naprawa lasera CO₂ w Poznaniu — serwis u klienta](https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/)
+
+Pilny serwis lasera CO₂ w Poznaniu: sprawny pedał, wewnętrzne przerwanie czerwonego przewodu manipuły, jego wymiana i przywrócenie działania.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/)
+
 ![Uszkodzony moduł diodowy ze śladami cieczy i osadów](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp)
 
 PoznańSerwis laserów
@@ -212,6 +222,7 @@ Serwisujemy lasery diodowe, urządzenia ND:YAG, IPL, CO2 oraz inne urządzenia w
 
 ## Powiązane realizacje
 
+- [Pilna naprawa lasera CO₂ w Poznaniu — serwis u klienta](https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/)
 - [Wymiana modułu diodowego lasera po zalaniu – Poznań](https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
 - [GME ExSys 308 — kontrola serwisowa i test działania](https://lasertechservice.pl/realizacje/serwis-gme-exsys-308/)
 - [Przegląd i serwis Pharaon 1470 — Wrocław](https://lasertechservice.pl/realizacje/przeglad-serwis-pharaon-1470-wroclaw/)
