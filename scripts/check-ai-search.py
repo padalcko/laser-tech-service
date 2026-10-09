@@ -35,6 +35,20 @@ def walk(value):
         for x in value:yield from walk(x)
 def norm(text):return re.sub(r'[^\w]+','',text.lower())
 robot=RobotFileParser();robot.parse((R/'robots.txt').read_text().splitlines())
+for agent in ('Googlebot','Bingbot','OAI-SearchBot','ChatGPT-User','PerplexityBot'):
+    for page in pages:
+        for url in (page['canonical'],page['md']):
+            counts['search_crawler_checks']+=1
+            if not robot.can_fetch(agent,url):problem('blocked_search_crawler',[agent,url])
+for field in ('title','description'):
+    values=collections.defaultdict(list)
+    for page in pages:
+        value=(next((n.text() for n in page['tags'] if n.tag=='title'),'')
+               if field=='title' else page['meta'].get('description',''))
+        if not value:problem('missing_'+field,page['canonical'])
+        values[value].append(page['canonical'])
+    for value,urls in values.items():
+        if len(urls)>1:problem('duplicate_'+field,urls)
 expected=ai.outputs(pages)
 for path,content in expected.items():
     if not path.exists() or path.read_text()!=content:problem('stale_resources',str(path.relative_to(R)))
@@ -69,7 +83,9 @@ for page in pages:
     path=page['path'];tags=page['tags'];own=page['canonical'];lang=page['lang'];mdpath=path.with_suffix('.md');md=mdpath.read_text()
     counts['markdown_resources']+=1;counts[page['kind']+'_markdown']+=1
     alt={n.attrs['hreflang']:n.attrs.get('href') for n in tags if n.tag=='link' and n.attrs.get('hreflang')}
-    if set(alt)!=set(['pl','ru','x-default']) or alt.get(lang)!=own or alt.get('x-default')!=alt.get('pl'):problem('hreflang_problems',own)
+    # Polish-only cases have no translated alternate; paired pages stay reciprocal.
+    monolingual_case = page['kind']=='case' and lang=='pl' and not alt
+    if not monolingual_case and (set(alt)!=set(['pl','ru','x-default']) or alt.get(lang)!=own or alt.get('x-default')!=alt.get('pl')):problem('hreflang_problems',own)
     for u in alt.values():
         if u not in lookup or lookup[u]['alternates']!=alt:problem('hreflang_problems',[own,u])
     links=[n.attrs.get('href') for n in tags if n.tag=='link' and n.attrs.get('rel')=='alternate' and n.attrs.get('type')=='text/markdown']

@@ -10,6 +10,18 @@
 
 Пишем о том, с чем сталкиваемся каждый день: ремонте лазеров, диагностике неисправностей, обслуживании косметологического оборудования и обычных проблемах, которые возникают у владельцев салонов и кабинетов.
 
+Эксплуатация и сервис9 октября 2026
+
+## [Маленький кабель — большая проблема. Почему соединение манипулы с аппаратом так важно?](https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/)
+
+Как кабель и разъём влияют на работу манипулы: признаки неисправности, причины повреждений, уход и пример ремонта RSL-аппарата в Варшаве.
+
+Эксплуатация и сервис9 октября 2026
+
+## [Вода в лазере для эпиляции: почему её необходимо менять и вовремя проводить обслуживание?](https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/)
+
+Зачем обслуживать охлаждение лазера: качество воды, циркуляция, риск перегрева и сроки замены по документации конкретного аппарата.
+
 Диагностика и ремонт6 октября 2026
 
 ## [CO₂-лазер не реагирует на педаль: симптом — ещё не диагноз](https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/)
@@ -100,6 +112,8 @@ Pharaon 1470, LSO Medical и OSYRIS: история обозначений, ос
 
 ## Связанные статьи
 
+- [Маленький кабель — большая проблема. Почему соединение манипулы с аппаратом так важно?](https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/)
+- [Вода в лазере для эпиляции: почему её необходимо менять и вовремя проводить обслуживание?](https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/)
 - [CO₂-лазер не реагирует на педаль: симптом — ещё не диагноз](https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/)
 - [Почему не стоит самостоятельно менять уплотнительные прокладки в лазерном аппарате](https://lasertechservice.pl/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/)
 - [Laser Tech Service получил награду Złota Firma 2026](https://lasertechservice.pl/ru/blog/laser-tech-service-zlota-firma-2026/)

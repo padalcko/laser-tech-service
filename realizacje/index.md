@@ -16,6 +16,26 @@ Pokazujemy rzeczywiste realizacje serwisowe: zakres zlecenia, wykonane prace ora
 
 Każde urządzenie wymaga indywidualnej diagnostyki. Poniżej prezentujemy wybrane realizacje naszego serwisu.
 
+![Serwisant przy bocznym połączeniu manipuły aparatu RSL w Warszawie](https://lasertechservice.pl/img/realizacje/rsl-warszawa/rsl-serwis-wyjazdowy-warszawa.webp)
+
+Naprawa RSL · Warszawa
+
+## [Pilna naprawa urządzenia do masażu RSL w Warszawie – naprawa przewodu i wymiana złącza](https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/)
+
+Pilna naprawa urządzenia do masażu RSL w Warszawie. Naprawa przewodu manipulatora i wymiana złącza przez Laser Tech Service.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/)
+
+![Serwisant przy panelu lasera do depilacji z manipułą w dłoni](https://lasertechservice.pl/img/realizacje/serwis-lasera-do-depilacji/laser-do-depilacji-panel-i-manipula.webp)
+
+laser do depilacji
+
+## [Serwis lasera do depilacji – przegląd techniczny urządzenia](https://lasertechservice.pl/realizacje/przeglad-techniczny-lasera-do-depilacji/)
+
+Serwis lasera do depilacji. Przegląd techniczny i znaczenie regularnej konserwacji urządzeń laserowych. Laser Tech Service.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/przeglad-techniczny-lasera-do-depilacji/)
+
 ![Aparat laserowy z zamkniętą obudową w gabinecie w Poznaniu](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/aparat-laserowy-poznan.webp)
 
 PoznańSerwis wyjazdowy
@@ -222,6 +242,8 @@ Serwisujemy lasery diodowe, urządzenia ND:YAG, IPL, CO2 oraz inne urządzenia w
 
 ## Powiązane realizacje
 
+- [Pilna naprawa urządzenia do masażu RSL w Warszawie – naprawa przewodu i wymiana złącza](https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/)
+- [Serwis lasera do depilacji – przegląd techniczny urządzenia](https://lasertechservice.pl/realizacje/przeglad-techniczny-lasera-do-depilacji/)
 - [Pilna naprawa lasera CO₂ w Poznaniu — serwis u klienta](https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/)
 - [Wymiana modułu diodowego lasera po zalaniu – Poznań](https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
 - [GME ExSys 308 — kontrola serwisowa i test działania](https://lasertechservice.pl/realizacje/serwis-gme-exsys-308/)

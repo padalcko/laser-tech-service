@@ -233,8 +233,8 @@ The website is published in Polish and Russian. HTML pages are the canonical sou
         if p['kind']=='service' and urlsplit(p['canonical']).path not in ['/uslugi/','/ru/uslugi/']:
             out+=f'- [{p["title"]}]({p["md"]}): {p["meta"]["description"]}\n'
     out+='\n## Repair Cases\n\n'
-    out+=item('/realizacje/','Polish catalogue; each case has a Markdown version and a Russian equivalent.',True)
-    out+=item('/ru/realizacje/','Russian catalogue of the same documented cases.',True)
+    out+=item('/realizacje/','Polish catalogue; each case has a Markdown version. Russian translations are linked where available.',True)
+    out+=item('/ru/realizacje/','Russian catalogue of translated repair cases.',True)
     for p in pages:
         if p['kind']=='case' and p['lang']=='pl':out+=f'- [{p["title"]}]({p["canonical"]}): {p["meta"]["description"]}\n'
     out+='\n## Knowledge Base / Blog\n\n'
@@ -284,7 +284,13 @@ def full_text(pages, representations):
             if loc:out+='- ['+p['title']+']('+p['canonical']+'): '+'; '.join(loc)+'\n'
     out+='\n## Languages\n\n'
     for p in pages:
-        if p['lang']=='pl':out+='- [Polski: '+p['title']+']('+p['canonical']+') — [Русский]('+p['alternates']['ru']+')\n'
+        if p['lang']=='pl':
+            out+='- [Polski: '+p['title']+']('+p['canonical']+')'
+            if p['alternates'].get('ru'):
+                out+=' — [Русский]('+p['alternates']['ru']+')'
+            else:
+                out+=' — Polish only'
+            out+='\n'
     return out
 
 def outputs(pages):

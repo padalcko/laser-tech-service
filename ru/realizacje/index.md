@@ -16,6 +16,26 @@
 
 Каждое устройство требует индивидуальной диагностики. Ниже представлены отдельные примеры нашей работы.
 
+![Специалист у бокового соединения манипулы аппарата RSL в Варшаве](https://lasertechservice.pl/img/realizacje/rsl-warszawa/rsl-serwis-wyjazdowy-warszawa.webp)
+
+Ремонт RSL · Варшава
+
+## [Срочный ремонт аппарата для RSL-массажа в Варшаве — ремонт кабеля и замена разъёма](https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/)
+
+Срочный ремонт аппарата для RSL-массажа в Варшаве: ремонт кабеля манипулы, замена разъёма и восстановление соединения. Laser Tech Service.
+
+[Смотреть работу](https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/)
+
+![Специалист у панели управления лазера для эпиляции с манипулой в руке](https://lasertechservice.pl/img/realizacje/serwis-lasera-do-depilacji/laser-do-depilacji-panel-i-manipula.webp)
+
+лазер для эпиляции
+
+## [Сервис лазера для эпиляции — техническое обслуживание аппарата](https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/)
+
+Техническое обслуживание лазера для эпиляции. Фотографии сервисных работ и значение регулярного ухода. Laser Tech Service.
+
+[Смотреть работу](https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/)
+
 ![Лазерный аппарат с закрытым корпусом в кабинете в Познани](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/aparat-laserowy-poznan.webp)
 
 ПознаньВыездной сервис
@@ -222,6 +242,8 @@ RF Вакуум Диагностика Ремонт
 
 ## Связанные работы
 
+- [Срочный ремонт аппарата для RSL-массажа в Варшаве — ремонт кабеля и замена разъёма](https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/)
+- [Сервис лазера для эпиляции — техническое обслуживание аппарата](https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/)
 - [Срочный ремонт CO₂-аппарата в Познани с выездом к клиенту](https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/)
 - [Замена диодного модуля лазера после залития — Познань](https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
 - [GME ExSys 308 — сервисная проверка и тест аппарата](https://lasertechservice.pl/ru/realizacje/serwis-gme-exsys-308/)

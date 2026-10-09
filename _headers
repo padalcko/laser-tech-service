@@ -76,10 +76,20 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/blog/uszkodzony-przewod-manipulatora/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /blog/uzywany-laser-diodowy-z-historia-serwisowa/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/blog/wymiana-wody-w-laserze-do-depilacji/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /kontakt/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -126,6 +136,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/realizacje/naprawa-rsl-masaz-warszawa/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /realizacje/pilna-naprawa-lasera-co2-poznan/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -140,6 +155,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/realizacje/przeglad-serwis-pharaon-1470-wroclaw/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/realizacje/przeglad-techniczny-lasera-do-depilacji/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/realizacje/przeglad-techniczny-lasera-do-depilacji/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /realizacje/serwis-cavi-shape-advanced-wroclaw/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -256,6 +276,16 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/blog/povrezhdennyj-kabel-manipuly/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /ru/kontakt/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -301,6 +331,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/realizacje/naprawa-rsl-masaz-warszawa/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /ru/realizacje/pilna-naprawa-lasera-co2-poznan/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -315,6 +350,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/realizacje/serwis-cavi-shape-advanced-wroclaw/index.md
   Content-Type: text/markdown; charset=utf-8
