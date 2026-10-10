@@ -4306,3 +4306,27 @@ button.btn {
     }
 
 }
+
+/* Services submenu: extension of the existing navigation, mobile first. */
+.nav-services { position: relative; }
+.nav-services__row { display: flex; align-items: center; }
+.nav-services__row > .nav-list__link { flex: 1; }
+.nav-submenu-toggle { display: inline-flex; align-items: center; justify-content: center; flex: 0 0 44px; min-height: 44px; padding: 0; border: 0; border-radius: var(--radius-sm); background: transparent; color: var(--gold-light); font: inherit; cursor: pointer; }
+.nav-submenu-toggle[aria-expanded="true"] span { transform: rotate(180deg); }
+.nav-submenu { margin: 0; padding: 0 0 10px 16px; list-style: none; }
+.nav-submenu a { display: block; padding: 14px 10px; color: var(--gold-light); font-size: 14px; line-height: 1.5; }
+.nav-submenu a:hover, .nav-submenu a[aria-current="page"] { color: var(--white); }
+.nav-submenu-toggle:focus-visible, .nav-submenu a:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+.nav-submenu[hidden], .nav-submenu-toggle[hidden] { display: none; }
+@media (min-width: 761px) {
+    .nav-submenu-toggle { flex-basis: 28px; min-height: 40px; }
+    .nav-submenu { position: absolute; top: 100%; left: 0; z-index: 1400; min-width: 180px; padding: 8px; border: 1px solid var(--border); border-radius: var(--radius-sm); background: var(--black-deep); box-shadow: 0 8px 25px rgba(0, 0, 0, 0.10); }
+}
+
+/* Allow long contact addresses to wrap on the services pages at 320px. */
+.services-page .contact-card__content { min-width: 0; overflow-wrap: anywhere; }
+@media (max-width: 760px) {
+    .services-page .contact-grid { grid-template-columns: minmax(0, 1fr); }
+    .services-page .contact-card { min-width: 0; }
+}
+.services-page .header__title, .services-page .contact-section__title { overflow-wrap: anywhere; }

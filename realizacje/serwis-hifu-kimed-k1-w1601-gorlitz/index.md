@@ -150,17 +150,26 @@ Nasza siedziba znajduje się we Wrocławiu. Realizujemy serwis urządzeń dla kl
 
 ## Najczęściej zadawane pytania
 
+### Czy naprawiacie urządzenia HIFU?
+
 Tak. Wykonujemy diagnostykę, naprawy oraz obsługę techniczną urządzeń HIFU różnych producentów.
+
+### Czy można naprawić niedziałającą głowicę HIFU?
 
 Zależy to od rodzaju usterki i konstrukcji konkretnej głowicy. Najpierw wykonujemy diagnostykę. W przypadku urządzenia KIMED K1-W1601 z tej realizacji głowica została naprawiona i ponownie sprawdzona.
 
+### Czy wykonujecie czyszczenie układu wodnego?
+
 Tak. W ramach obsługi technicznej możemy skontrolować zbiornik oraz dostępne elementy obiegu wody i usunąć nagromadzone zanieczyszczenia.
+
+### Czy wykonujecie serwis urządzeń bezpośrednio u klienta?
 
 Tak, jeżeli charakter urządzenia i zakres prac pozwalają na realizację serwisu na miejscu. Ten serwis urządzenia KIMED został wykonany bezpośrednio u klienta w Görlitz w Niemczech.
 
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Wideo
 

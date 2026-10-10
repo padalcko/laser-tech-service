@@ -129,6 +129,7 @@ W osobnej realizacji dla studio Tiamo we Wrocławiu przyczyną braku vacuum był
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Powiązane realizacje
 

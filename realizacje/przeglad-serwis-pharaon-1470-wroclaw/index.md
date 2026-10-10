@@ -73,6 +73,7 @@ Zakres naszej pracy opisuje strona [serwisu urządzeń laserowych we Wrocławiu]
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Powiązane artykuły
 

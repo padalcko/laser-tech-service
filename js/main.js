@@ -47,6 +47,11 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function closeMenu() {
+    nav.querySelectorAll(".nav-submenu-toggle").forEach((button) => {
+      button.setAttribute("aria-expanded", "false");
+      const submenu = document.getElementById(button.getAttribute("aria-controls"));
+      if (submenu) submenu.hidden = true;
+    });
     nav.classList.remove("nav--open");
 
     document.body.classList.remove("nav-open");
@@ -126,6 +131,42 @@ document.addEventListener("DOMContentLoaded", () => {
     if (window.innerWidth > 760) {
       closeMenu();
     }
+  });
+});
+
+/* Services disclosure: keep the parent service link independently usable. */
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll(".nav-services").forEach((item) => {
+    const button = item.querySelector(".nav-submenu-toggle");
+    const submenu = item.querySelector(".nav-submenu");
+    if (!button || !submenu) return;
+    button.hidden = false;
+    function setOpen(open) {
+      button.setAttribute("aria-expanded", String(open));
+      submenu.hidden = !open;
+    }
+    button.addEventListener("click", () => setOpen(submenu.hidden));
+    button.addEventListener("keydown", (event) => {
+      if (event.key === "ArrowDown") {
+        event.preventDefault();
+        setOpen(true);
+        submenu.querySelector("a")?.focus();
+      }
+    });
+    item.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && !submenu.hidden) {
+        event.preventDefault();
+        event.stopPropagation();
+        setOpen(false);
+        button.focus();
+      }
+    });
+    item.addEventListener("focusout", (event) => {
+      if (!item.contains(event.relatedTarget)) setOpen(false);
+    });
+    document.addEventListener("click", (event) => {
+      if (!item.contains(event.target)) setOpen(false);
+    });
   });
 });
 

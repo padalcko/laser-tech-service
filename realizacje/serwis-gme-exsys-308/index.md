@@ -77,6 +77,7 @@ Aby omówić kontrolę konkretnego aparatu, [skontaktuj się z Laser Tech Servic
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Powiązane artykuły
 

@@ -114,9 +114,15 @@ Naprawy realizujemy w naszym serwisie we Wrocławiu, a w zależności od rodzaju
 
 ## Najczęściej zadawane pytania
 
+### Dlaczego urządzenie słabo zasysa?
+
 Przyczyną może być nieszczelność przewodów, złączy lub pompy odpowiedzialnej za wytwarzanie podciśnienia. W tej realizacji problemem była uszkodzona i nieszczelna pompa.
 
+### Dlaczego element RF nie nagrzewa się?
+
 Jedną z możliwych przyczyn jest uszkodzone połączenie elektryczne, przewód, złącze lub jego styk. W tym urządzeniu uszkodzony był pin znajdujący się w złączu.
+
+### Czy wykonujecie naprawy urządzeń w Lublinie?
 
 Tak. W zależności od rodzaju urządzenia oraz charakteru usterki możliwa jest diagnostyka i naprawa bezpośrednio u klienta.
 
@@ -129,3 +135,4 @@ Opisz usterkę, podaj nazwę urządzenia i wyślij nam zdjęcia lub film. Sprawd
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)

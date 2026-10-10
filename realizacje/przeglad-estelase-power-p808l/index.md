@@ -93,6 +93,7 @@ Przy zgłoszeniu podaj model aparatu oraz informację o ostatnim przeglądzie. J
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Wideo
 

@@ -235,6 +235,7 @@ Czasami najlepszym pierwszym krokiem jest **wezwanie technika i prawidłowe zdia
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Powiązane realizacje
 

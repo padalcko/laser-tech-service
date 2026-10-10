@@ -85,6 +85,7 @@ Laser Tech Service wykonuje [diagnostykę, naprawę i wyjazdowy serwis urządze�
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Powiązane artykuły
 

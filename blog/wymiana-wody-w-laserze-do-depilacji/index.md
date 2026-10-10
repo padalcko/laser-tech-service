@@ -91,6 +91,7 @@ Sprawdzaj urządzenie w zakresie przewidzianym dla operatora, przestrzegaj termi
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Powiązane realizacje
 

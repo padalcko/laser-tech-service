@@ -71,6 +71,7 @@ Jeżeli podobnie zachowuje się Twój aparat, opisz objawy i model urządzenia p
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Powiązane realizacje
 

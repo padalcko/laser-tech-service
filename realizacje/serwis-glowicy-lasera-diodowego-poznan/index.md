@@ -147,6 +147,7 @@ Serwis znajduje się we Wrocławiu, a zlecenia i wyjazdy serwisowe realizujemy d
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Powiązane artykuły
 

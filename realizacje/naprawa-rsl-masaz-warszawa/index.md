@@ -65,6 +65,7 @@ W poradniku [dlaczego połączenie manipulatora z urządzeniem jest tak ważne](
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Powiązane artykuły
 

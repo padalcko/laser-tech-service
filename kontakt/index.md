@@ -55,3 +55,4 @@ Po zakończeniu naprawy urządzenie jest przekazywane klientowi wraz z informacj
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)

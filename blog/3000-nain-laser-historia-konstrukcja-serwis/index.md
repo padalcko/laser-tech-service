@@ -95,6 +95,7 @@ Jeden z egzemplarzy trafił do Laser Tech Service z zadaniem dotyczącym bloku z
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Powiązane realizacje
 

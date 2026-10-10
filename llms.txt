@@ -21,6 +21,8 @@ The website is published in Polish and Russian. HTML pages are the canonical sou
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/index.md): Diagnostics, diode replacement, handpieces, cooling, power supplies, electronics and preventive maintenance; Wrocław and Poland.
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/index.md): Russian representation of the services page.
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/): Ориентировочные цены диагностики, ремонта и обслуживания. Запчасти могут рассчитываться отдельно; окончательная стоимость после диагностики.
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/): Orientacyjne ceny diagnostyki, naprawy i konserwacji. Koszt części może być rozliczany osobno; końcowa wycena po diagnostyce.
 
 ## Repair Cases
 

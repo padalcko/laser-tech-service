@@ -138,17 +138,26 @@ Nasz serwis znajduje się we Wrocławiu, jednak realizujemy zlecenia również d
 
 ## Najczęściej zadawane pytania
 
+### Czy naprawiacie urządzenia NUBWAY?
+
 Tak. Wykonujemy diagnostykę i naprawy urządzeń kosmetologicznych różnych producentów. Możliwość naprawy oraz jej zakres ustalamy po diagnostyce konkretnego urządzenia.
+
+### Czy można naprawić układ podciśnienia?
 
 W wielu przypadkach tak. Sprawdzamy przewody, połączenia oraz elementy odpowiedzialne za wytwarzanie i przekazywanie podciśnienia.
 
+### Czy naprawiacie systemy RF?
+
 Tak. Diagnostykujemy elementy systemów RF, w tym podzespoły związane z funkcją nagrzewania. Zakres naprawy zależy od konstrukcji urządzenia oraz rodzaju usterki.
+
+### Czy serwisujecie urządzenia bezpośrednio u klienta?
 
 Tak, jeżeli charakter urządzenia i zakres prac pozwalają na wykonanie diagnostyki lub naprawy na miejscu. Ta realizacja została wykonana bezpośrednio w studiu rehabilitacji we Wrocławiu.
 
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Wideo
 

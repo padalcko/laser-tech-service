@@ -245,6 +245,7 @@ Laser Tech Service занимается диагностикой, ремонто
 ## Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 ## Связанные статьи
 

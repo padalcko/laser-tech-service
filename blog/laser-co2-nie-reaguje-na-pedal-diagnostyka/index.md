@@ -89,6 +89,7 @@ Tak rozumiemy [diagnostykę i naprawę urządzeń laserowych](https://lasertechs
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Powiązane realizacje
 

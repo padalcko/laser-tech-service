@@ -110,17 +110,35 @@ Błędy elektroniki
 
 ## Najczęściej zadawane pytania
 
+### Jakie urządzenia serwisujecie?
+
 Serwisujemy lasery diodowe, IPL, ND:YAG, lasery CO2, urządzenia pikosekundowe, RF, LPG, urządzenia do krioterapii oraz inne urządzenia kosmetologiczne.
+
+### Czy naprawiacie lasery różnych producentów?
 
 Tak. Obsługujemy urządzenia wielu producentów. Możliwość naprawy konkretnego modelu potwierdzamy po otrzymaniu informacji o urządzeniu i rodzaju usterki.
 
+### Jak długo trwa naprawa urządzenia?
+
 Większość standardowych napraw wykonujemy w ciągu 1–3 dni roboczych. Czas zależy od rodzaju usterki oraz dostępności potrzebnych części.
+
+### Czy oferujecie naprawę na miejscu u klienta?
 
 Tak. W zależności od rodzaju urządzenia i usterki możliwa jest diagnostyka lub naprawa bezpośrednio u klienta.
 
+### Czy mogę wysłać urządzenie kurierem?
+
 Tak. Po wcześniejszym kontakcie urządzenie można wysłać do naszego serwisu. Sprzęt powinien być odpowiednio zabezpieczony na czas transportu.
 
+### Czy udzielacie gwarancji na naprawę?
+
 Tak. Na wykonane prace serwisowe udzielamy gwarancji. Jej długość zależy od zakresu naprawy oraz zastosowanych części.
+
+## Ile kosztuje serwis urządzenia?
+
+Sprawdź orientacyjne ceny diagnostyki, naprawy i konserwacji profesjonalnego sprzętu.
+
+[Zobacz cennik](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Masz problem z urządzeniem?
 
@@ -143,6 +161,10 @@ Zadzwoń lub napisz przez WhatsApp. Podaj model urządzenia, opisz usterkę i w 
 Marsz. Józefa Piłsudskiego 74
 lok. 320
 50-020 Wrocław
+
+## Usługi serwisowe
+
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Powiązane realizacje
 

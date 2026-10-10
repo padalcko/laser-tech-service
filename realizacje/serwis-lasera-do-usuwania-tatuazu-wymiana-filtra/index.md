@@ -118,12 +118,19 @@ Realizujemy naprawy zarówno w naszym serwisie we Wrocławiu, jak również – 
 
 ## Najczęściej zadawane pytania
 
+### Czy laser ND:YAG wymaga okresowego serwisu?
+
 Tak. Okresowa diagnostyka, czyszczenie i kontrola elementów eksploatacyjnych pomagają utrzymać prawidłowe warunki pracy urządzenia.
 
+### Dlaczego należy kontrolować filtr?
+
 Zanieczyszczony filtr może ograniczać prawidłowy przepływ i pogarszać warunki pracy elementów układu chłodzenia.
+
+### Czy wykonujecie serwis laserów u klienta?
 
 Tak. Możliwość wykonania naprawy lub konserwacji bezpośrednio u klienta zależy od urządzenia i zakresu wymaganych prac.
 
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)

@@ -1,0 +1,59 @@
+/* Price-list components only; shared hero, buttons, contact cards and FAQ stay canonical. */
+.price-page { overflow-wrap: anywhere; }
+.price-breadcrumbs { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 28px; font-size: 12px; color: var(--gold-light); }
+.price-breadcrumbs a { color: inherit; }
+.price-actions { display: flex; flex-direction: column; align-items: center; gap: 12px; }
+.price-actions .btn { width: 100%; max-width: 340px; }
+.price-page .price-note { font-size: 14px; line-height: 1.7; }
+.price-page [id] { scroll-margin-top: 100px; }
+.price-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 20px; }
+.price-card { display: block; min-width: 0; min-height: 0; background: var(--white); }
+.price-card h3, .price-maintenance__scope h3 { margin: 0 0 20px; font-size: 21px; font-weight: 700; line-height: 1.4; }
+.price-card p { margin: 0 0 18px; color: var(--text-soft); line-height: 1.7; font-size: 15px; }
+.price-card p:last-child { margin-bottom: 0; }
+.price-page .price-amount { display: block; margin: 14px 0; font-size: 27px; font-weight: 700; line-height: 1.4; color: var(--gold-dark); font-variant-numeric: tabular-nums; }
+.price-amount span { display: block; font-size: 16px; }
+.price-list { margin: 0 0 20px; }
+.price-list > div { padding: 16px 0; border-bottom: 1px solid var(--border); }
+.price-list > div:first-child { padding-top: 0; }
+.price-list dt { margin-bottom: 8px; font-size: 15px; line-height: 1.6; color: var(--text); }
+.price-list dd { margin: 0; color: var(--gold-dark); font-size: 22px; font-weight: 700; line-height: 1.45; font-variant-numeric: tabular-nums; }
+.price-soft { background: var(--section-soft); }
+.price-maintenance .section-heading-small, .price-maintenance .price-grid, .price-maintenance__scope { position: relative; z-index: 2; }
+.price-maintenance .title-2, .price-maintenance h3 { color: var(--white); }
+.price-maintenance .section-description, .price-maintenance p, .price-maintenance li { color: rgba(255, 255, 255, 0.74); }
+.price-maintenance .price-card { background: var(--black-card); }
+.price-maintenance .price-amount { color: var(--gold-light); }
+.price-maintenance__scope { max-width: 850px; margin: 35px 0 0; line-height: 1.8; }
+.price-maintenance__scope ul { padding-left: 22px; list-style: disc; margin-bottom: 20px; }
+.price-maintenance__scope p { margin-bottom: 24px; }
+.price-calculator { display: block; max-width: 760px; margin: 0 auto; background: var(--section-soft); }
+.price-calculator label { display: block; margin-bottom: 12px; font-weight: 600; }
+.price-calculator input { display: block; width: 100%; min-height: 50px; padding: 12px 14px; border: 1px solid var(--gold-dark); border-radius: var(--radius-sm); background: var(--white); color: var(--text); font: inherit; font-size: 18px; }
+.price-calculator p { margin: 14px 0; line-height: 1.7; }
+.price-calculator__error { color: var(--text); font-weight: 600; }
+.price-calculator [aria-invalid="true"] { outline: 2px solid var(--gold-dark); outline-offset: 2px; }
+.price-page :focus-visible { outline: 2px solid var(--gold); outline-offset: 4px; }
+.price-page .faq__item.active .faq__answer { max-height: none; }
+.price-page .faq__question { font: inherit; }
+@media (min-width: 650px) {
+    .price-actions { flex-direction: row; justify-content: center; }
+    .price-actions .btn { width: auto; }
+}
+@media (min-width: 768px) {
+    .price-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .price-page .price-amount { font-size: 30px; }
+}
+
+/* Keep the full email address readable without splitting its letters. */
+.price-page .contact-grid { grid-template-columns: minmax(0, 1fr); }
+.price-page .price-email { display: block; }
+.price-email .contact-card__icon { margin-bottom: 18px; }
+.price-email .contact-card__primary { white-space: nowrap; overflow-wrap: normal; font-size: clamp(14px, 4vw, 16px); }
+@media (min-width: 651px) {
+    .price-page .contact-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (min-width: 1200px) {
+    .price-email .contact-card__primary { font-size: 14px; }
+    .price-page .contact-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}

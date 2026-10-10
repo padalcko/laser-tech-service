@@ -95,7 +95,7 @@ def discover():
 
 def excluded(node):
     classes = set(node.attrs.get('class', '').split())
-    return (node.tag in SKIP or bool(classes & SKIP_CLASSES) or
+    return ((node.tag in SKIP and not (node.tag == 'button' and node.has('faq__question'))) or bool(classes & SKIP_CLASSES) or
             node.attrs.get('aria-hidden') == 'true' or 'hidden' in node.attrs or
             any('eyebrow' in c or 'breadcrumb' in c or c.endswith('__number') for c in classes))
 
@@ -231,7 +231,12 @@ The website is published in Polish and Russian. HTML pages are the canonical sou
     out+=item('/ru/uslugi/','Russian representation of the services page.',True)
     for p in pages:
         if p['kind']=='service' and urlsplit(p['canonical']).path not in ['/uslugi/','/ru/uslugi/']:
-            out+=f'- [{p["title"]}]({p["md"]}): {p["meta"]["description"]}\n'
+            description = p['meta']['description']
+            target = p['md']
+            if urlsplit(p['canonical']).path.endswith('/uslugi/cennik/'):
+                target = p['canonical']
+                description = ('Orientacyjne ceny diagnostyki, naprawy i konserwacji. Koszt części może być rozliczany osobno; końcowa wycena po diagnostyce.' if p['lang'] == 'pl' else 'Ориентировочные цены диагностики, ремонта и обслуживания. Запчасти могут рассчитываться отдельно; окончательная стоимость после диагностики.')
+            out+=f'- [{p["title"]}]({target}): {description}\n'
     out+='\n## Repair Cases\n\n'
     out+=item('/realizacje/','Polish catalogue; each case has a Markdown version. Russian translations are linked where available.',True)
     out+=item('/ru/realizacje/','Russian catalogue of translated repair cases.',True)

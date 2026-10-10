@@ -95,3 +95,4 @@ Jeżeli zauważyłeś nieprawidłową pracę lasera lub innego urządzenia kosme
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)

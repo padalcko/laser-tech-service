@@ -120,15 +120,27 @@ Przygotowaliśmy praktyczny przewodnik, który pomoże rozpoznać pierwsze sympt
 
 ## Najczęściej zadawane pytania
 
+### Jak długo trwa naprawa lasera?
+
 Większość napraw wykonujemy w ciągu 1–3 dni roboczych. W przypadku bardziej złożonych usterek czas może się wydłużyć – zawsze informujemy o tym wcześniej.
+
+### Czy oferujecie gwarancję na naprawę?
 
 Tak. Każda naprawa objęta jest gwarancją. Czas jej trwania zależy od rodzaju urządzenia i zakresu wykonanej usługi – standardowo od 3 do 6 miesięcy.
 
+### Jak mogę zgłosić urządzenie do serwisu?
+
 Możesz zadzwonić, napisać przez WhatsApp lub wysłać zgłoszenie za pomocą formularza. Opisz problem i w razie możliwości prześlij zdjęcia urządzenia.
+
+### Czy mogę wysłać urządzenie kurierem?
 
 Tak. Urządzenie należy odpowiednio zabezpieczyć i dołączyć dane kontaktowe. Po wykonanej naprawie odeślemy sprzęt pod wskazany adres.
 
+### Czy wykonujecie bezpłatną diagnostykę?
+
 Diagnostyka jest bezpłatna, jeśli zdecydujesz się na naprawę. W innym przypadku może zostać naliczona opłata za wykonanie ekspertyzy.
+
+### Czy stosujecie oryginalne części?
 
 Stosujemy oryginalne części lub sprawdzone zamienniki wysokiej jakości – w zależności od dostępności, urządzenia i preferencji klienta.
 
@@ -221,3 +233,4 @@ lok. 320
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)

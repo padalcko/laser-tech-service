@@ -126,15 +126,27 @@ Przygotowaliśmy praktyczny przewodnik, który pomoże rozpoznać pierwsze sympt
 
 #### Najczęściej zadawane pytania
 
+##### Jak długo trwa naprawa lasera?
+
 Większość napraw wykonujemy w ciągu 1–3 dni roboczych. W przypadku bardziej złożonych usterek czas może się wydłużyć – zawsze informujemy o tym wcześniej.
+
+##### Czy oferujecie gwarancję na naprawę?
 
 Tak. Każda naprawa objęta jest gwarancją. Czas jej trwania zależy od rodzaju urządzenia i zakresu wykonanej usługi – standardowo od 3 do 6 miesięcy.
 
+##### Jak mogę zgłosić urządzenie do serwisu?
+
 Możesz zadzwonić, napisać przez WhatsApp lub wysłać zgłoszenie za pomocą formularza. Opisz problem i w razie możliwości prześlij zdjęcia urządzenia.
+
+##### Czy mogę wysłać urządzenie kurierem?
 
 Tak. Urządzenie należy odpowiednio zabezpieczyć i dołączyć dane kontaktowe. Po wykonanej naprawie odeślemy sprzęt pod wskazany adres.
 
+##### Czy wykonujecie bezpłatną diagnostykę?
+
 Diagnostyka jest bezpłatna, jeśli zdecydujesz się na naprawę. W innym przypadku może zostać naliczona opłata za wykonanie ekspertyzy.
+
+##### Czy stosujecie oryginalne części?
 
 Stosujemy oryginalne części lub sprawdzone zamienniki wysokiej jakości – w zależności od dostępności, urządzenia i preferencji klienta.
 
@@ -227,6 +239,7 @@ lok. 320
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ### Ремонт диодных лазеров и косметологического оборудования
 
@@ -350,15 +363,27 @@ lok. 320
 
 #### Часто задаваемые вопросы
 
+##### Сколько времени занимает ремонт лазера?
+
 Большинство ремонтов выполняем в течение 1–3 рабочих дней. При более сложных неисправностях срок может увеличиться — об этом мы сообщаем заранее.
+
+##### Предоставляете ли вы гарантию на ремонт?
 
 Да. На выполненные работы предоставляется гарантия. Её срок зависит от типа устройства и объёма ремонта — обычно от 3 до 6 месяцев.
 
+##### Как передать устройство в сервис?
+
 Свяжитесь с нами по телефону, через WhatsApp или отправьте заявку. Опишите проблему и по возможности приложите фотографии оборудования.
+
+##### Можно ли отправить оборудование курьером?
 
 Да. После предварительного согласования оборудование можно отправить в наш сервис. Его необходимо надёжно упаковать для транспортировки.
 
+##### Проводите ли вы бесплатную диагностику?
+
 Диагностика бесплатна, если после неё выполняется ремонт. В остальных случаях может взиматься плата за техническую экспертизу.
+
+##### Какие запчасти вы используете?
 
 Используем оригинальные комплектующие или проверенные качественные аналоги — в зависимости от модели, доступности и пожеланий клиента.
 
@@ -451,6 +476,7 @@ lok. 320
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 ## Services
 
@@ -566,17 +592,35 @@ RF — иглы не выходят
 
 #### Часто задаваемые вопросы
 
+##### Какое оборудование вы ремонтируете?
+
 Мы обслуживаем диодные лазеры, IPL, ND:YAG, лазеры CO2, пикосекундные лазеры, оборудование RF, LPG, устройства для криотерапии и другое профессиональное косметологическое оборудование.
+
+##### Работаете ли вы с оборудованием разных производителей?
 
 Да. Мы обслуживаем оборудование различных производителей. Возможность ремонта конкретной модели подтверждаем после получения информации об устройстве и характере неисправности.
 
+##### Сколько времени занимает ремонт?
+
 Большинство стандартных ремонтов выполняем в течение 1–3 рабочих дней. Срок зависит от характера неисправности и наличия необходимых комплектующих.
+
+##### Можно ли выполнить ремонт у клиента?
 
 Да. В зависимости от типа оборудования и неисправности возможна диагностика или ремонт непосредственно у клиента.
 
+##### Можно ли отправить оборудование курьером?
+
 Да. После предварительного согласования оборудование можно отправить в наш сервис. Его необходимо надёжно упаковать для транспортировки.
 
+##### Предоставляете ли вы гарантию на ремонт?
+
 Да. На выполненные сервисные работы предоставляется гарантия. Её срок зависит от объёма ремонта и использованных комплектующих.
+
+#### Сколько стоит ремонт оборудования?
+
+Посмотрите ориентировочные цены диагностики, ремонта и технического обслуживания.
+
+[Посмотреть прайс-лист](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Есть проблема с оборудованием?
 
@@ -600,11 +644,219 @@ Marsz. Józefa Piłsudskiego 74
 lok. 320
 50-020 Wrocław
 
+#### Услуги сервиса
+
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+
 #### Связанные работы
 
 - [Замена диодного модуля лазера после залития — Познань](https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
 - [3000 NAIN — диагностика и ремонт блока питания](https://lasertechservice.pl/ru/realizacje/naprawa-3000-nain-bloku-zasilania/)
 - [Ремонт Alma Accent — замена шланга системы охлаждения RF-манипулы](https://lasertechservice.pl/ru/realizacje/naprawa-alma-accent-gorlitz/)
+
+### Прайс-лист сервисных услуг
+
+Источник HTML: [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+
+Язык: Русский
+
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/cennik/)
+
+> Прайс-лист на диагностику, ремонт и техническое обслуживание лазеров и косметологического оборудования. Сервис во Вроцлаве и выезд по Польше.
+
+Диагностика, ремонт и техническое обслуживание лазеров и профессионального косметологического оборудования. Вроцлав и вся Польша.
+
+Цены ориентировочные. Окончательную стоимость определяем после диагностики оборудования и согласования объёма работ.
+
+[Заказать сервис](https://lasertechservice.pl/ru/uslugi/cennik/#kontakt-serwis)[Посмотреть цены](https://lasertechservice.pl/ru/uslugi/cennik/#ceny)
+
+#### Диагностика и выезд
+
+Диагностика помогает определить необходимые работы и подготовить расчёт для конкретного аппарата.
+
+##### Диагностика оборудования у клиента
+
+600 zł + стоимость выезда
+
+Цены ориентировочные. Окончательную стоимость определяем после диагностики оборудования и согласования объёма работ.
+
+##### Выезд к клиенту
+
+1,40 zł/км
+
+Ставка ориентировочная. Итоговую стоимость поездки и количество расчётных километров согласовываем с клиентом до визита.
+
+#### Стоимость ремонта по типам оборудования
+
+Выберите категорию аппарата. Объём ремонта и стоимость запчастей подтверждаем индивидуально.
+
+##### ND:YAG / IPL / BBL
+
+Замена манипулы / головки
+
+3 200 zł
+
+Восстановление манипулы
+
+2 200 zł
+
+Замена относится к манипуле или головке целиком, а не к отдельной лампе.
+
+##### Диодные лазеры для эпиляции
+
+Работа по замене лазерного диода
+
+1 200 zł
+
+Новый лазерный диод
+
+Индивидуальный расчёт
+
+1 200 zł — стоимость работы без цены диода. Стоимость нового диода зависит от мощности и модели аппарата.
+
+##### Аппараты вакуумного массажа
+
+Чистка, обслуживание и ремонт
+
+1 500 zł
+
+Объём работ и возможную стоимость деталей определяем после оценки аппарата. Цена не означает устранение любой возможной неисправности.
+
+##### Аппараты роликового массажа
+
+Ремонт аппарата
+
+700–1 000 zł
+
+Замена роликов в манипуле
+
+300 zł
+
+Объём ремонта и включение деталей в конкретную позицию подтверждаем при расчёте стоимости.
+
+##### CO₂ и пикосекундные лазеры
+
+Калибровка
+
+1 600 zł
+
+Ремонт
+
+1 200–1 800 zł + стоимость запчастей
+
+Диапазон ориентировочный. Его верхняя граница не является максимальной ценой любого ремонта: итог зависит от диагностики и объёма работ.
+
+##### Другое оборудование
+
+Мы также обслуживаем другие виды профессионального оборудования. Укажите модель и опишите проблему, чтобы определить объём работ и индивидуальную стоимость.
+
+[Запросить стоимость](https://lasertechservice.pl/ru/kontakt/)
+
+#### Техническое обслуживание и профилактика оборудования
+
+Подбираем обслуживание с учётом конструкции и состояния аппарата. Регулярный осмотр помогает оценить его состояние, но не гарантирует отсутствие любых будущих поломок.
+
+##### Обслуживание в нашем сервисе
+
+800–1 300 zł
+
+Стоимость зависит от типа и технического состояния оборудования.
+
+##### Обслуживание у клиента
+
+1 200–1 600 zł + стоимость выезда
+
+Стоимость зависит от типа аппарата и объёма работ. Выезд рассчитываем отдельно с учётом расстояния.
+
+##### Что может входить в обслуживание?
+
+- Проверка технического состояния оборудования.
+
+- Выявление признаков износа и возможных неисправностей.
+
+- Чистка и обслуживание узлов, предусмотренных для конкретного аппарата.
+
+- Контроль работы основных систем.
+
+- Проверка оборудования после обслуживания.
+
+- Рекомендации по дальнейшей эксплуатации.
+
+Это пример возможного состава обслуживания. Подходящие для конкретного аппарата работы согласовываем индивидуально.
+
+[Заказать техническое обслуживание](https://lasertechservice.pl/ru/uslugi/cennik/#kontakt-serwis)
+
+#### Калькулятор стоимости выезда
+
+Введите количество километров для ориентировочного расчёта. Калькулятор не определяет маршрут и не добавляет обратную дорогу.
+
+Количество расчётных километров
+
+Километры × 1,40 zł. Пример: 100 км = 140 zł. Диагностика и сервисные работы в сумму не включены.
+
+Ориентировочная стоимость выезда
+
+—
+
+Результат калькулятора носит ориентировочный характер. Окончательную стоимость выезда согласовываем индивидуально до выполнения услуги.
+
+#### Условия расчёта и частые вопросы
+
+Перед началом работ согласовываем объём услуги и её стоимость. Ниже объясняем, от чего зависит расчёт.
+
+##### Почему итоговая цена может отличаться от прайса?
+
+В прайсе указаны ориентировочные суммы. Характер неисправности, конструкция аппарата, необходимые детали и объём работ влияют на окончательную стоимость. Её определяем после диагностики.
+
+##### Когда проводится диагностика?
+
+Диагностика предшествует определению объёма ремонта и окончательной стоимости. Диагностика у клиента стоит ориентировочно 600 zł плюс выезд. Это не означает автоматического включения диагностики в цену ремонта.
+
+##### Включены ли запасные части?
+
+При замене диода сумма 1 200 zł относится только к работе; новый диод рассчитывается отдельно. При ремонте CO₂ и пикосекундных лазеров детали оплачиваются дополнительно. Для остальных позиций состав и стоимость запчастей подтверждаем индивидуально в расчёте.
+
+##### Почему для некоторых аппаратов нужен индивидуальный расчёт?
+
+Модели отличаются конструкцией, комплектующими и доступностью деталей. Одного названия категории недостаточно, чтобы определить точный объём ремонта.
+
+##### Как согласовывается стоимость выезда?
+
+Ориентировочная ставка — 1,40 zł за расчётный километр. Количество километров и итоговую сумму согласовываем до визита. Калькулятор не определяет, считается ли путь в одну сторону или туда и обратно.
+
+##### Можно ли привезти оборудование в сервис?
+
+Да, доступно обслуживание в нашем сервисе. До доставки свяжитесь с нами, чтобы согласовать способ и место передачи оборудования.
+
+##### Как заказать ремонт или обслуживание?
+
+Позвоните, напишите в WhatsApp или отправьте письмо. Укажите модель, опишите симптомы и по возможности приложите фотографии. Мы согласуем дальнейшие действия.
+
+#### Нужен ремонт или техническое обслуживание оборудования?
+
+Опишите неисправность и укажите модель аппарата. Свяжитесь с нами для предварительной консультации и обсуждения обслуживания.
+
+##### Телефон
+
+[+48 790 402 597](tel:+48790402597)  Пн.–Пт. 09:00–17:00
+
+##### WhatsApp
+
+[Написать в сервис](https://wa.me/48790402597)  Можно отправить фотографии оборудования
+
+##### E-mail
+
+[contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)
+
+##### Сервис
+
+Marsz. Józefa Piłsudskiego 74
+lok. 320
+50-020 Wrocław
+
+#### Услуги сервиса
+
+- [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 
 ### Profesjonalny serwis urządzeń laserowych i kosmetologicznych
 
@@ -718,17 +970,35 @@ Błędy elektroniki
 
 #### Najczęściej zadawane pytania
 
+##### Jakie urządzenia serwisujecie?
+
 Serwisujemy lasery diodowe, IPL, ND:YAG, lasery CO2, urządzenia pikosekundowe, RF, LPG, urządzenia do krioterapii oraz inne urządzenia kosmetologiczne.
+
+##### Czy naprawiacie lasery różnych producentów?
 
 Tak. Obsługujemy urządzenia wielu producentów. Możliwość naprawy konkretnego modelu potwierdzamy po otrzymaniu informacji o urządzeniu i rodzaju usterki.
 
+##### Jak długo trwa naprawa urządzenia?
+
 Większość standardowych napraw wykonujemy w ciągu 1–3 dni roboczych. Czas zależy od rodzaju usterki oraz dostępności potrzebnych części.
+
+##### Czy oferujecie naprawę na miejscu u klienta?
 
 Tak. W zależności od rodzaju urządzenia i usterki możliwa jest diagnostyka lub naprawa bezpośrednio u klienta.
 
+##### Czy mogę wysłać urządzenie kurierem?
+
 Tak. Po wcześniejszym kontakcie urządzenie można wysłać do naszego serwisu. Sprzęt powinien być odpowiednio zabezpieczony na czas transportu.
 
+##### Czy udzielacie gwarancji na naprawę?
+
 Tak. Na wykonane prace serwisowe udzielamy gwarancji. Jej długość zależy od zakresu naprawy oraz zastosowanych części.
+
+#### Ile kosztuje serwis urządzenia?
+
+Sprawdź orientacyjne ceny diagnostyki, naprawy i konserwacji profesjonalnego sprzętu.
+
+[Zobacz cennik](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Masz problem z urządzeniem?
 
@@ -752,11 +1022,219 @@ Marsz. Józefa Piłsudskiego 74
 lok. 320
 50-020 Wrocław
 
+#### Usługi serwisowe
+
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+
 #### Powiązane realizacje
 
 - [Wymiana modułu diodowego lasera po zalaniu – Poznań](https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
 - [3000 NAIN — diagnostyka i naprawa bloku zasilania](https://lasertechservice.pl/realizacje/naprawa-3000-nain-bloku-zasilania/)
 - [Naprawa Alma Accent – wymiana przewodu układu chłodzenia głowicy RF](https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/)
+
+### Cennik usług serwisowych
+
+Źródło HTML: [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+
+Język: Polski
+
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/cennik/)
+
+> Sprawdź ceny diagnostyki, naprawy i konserwacji laserów oraz urządzeń kosmetologicznych. Serwis we Wrocławiu i dojazd do klientów w całej Polsce.
+
+Diagnostyka, naprawa i konserwacja laserów oraz profesjonalnych urządzeń kosmetologicznych. Wrocław i cała Polska.
+
+Podane ceny są orientacyjne. Ostateczny koszt ustalamy po diagnostyce urządzenia i uzgodnieniu zakresu prac.
+
+[Zamów serwis](https://lasertechservice.pl/uslugi/cennik/#kontakt-serwis)[Sprawdź ceny](https://lasertechservice.pl/uslugi/cennik/#ceny)
+
+#### Diagnostyka i dojazd
+
+Rozpoznanie usterki pozwala ustalić potrzebne prace i przygotować wycenę dla konkretnego urządzenia.
+
+##### Diagnostyka urządzenia u klienta
+
+600 zł + koszt dojazdu
+
+Podane ceny są orientacyjne. Ostateczny koszt ustalamy po diagnostyce urządzenia i uzgodnieniu zakresu prac.
+
+##### Dojazd do klienta
+
+1,40 zł/km
+
+Stawka orientacyjna. Ostateczny koszt przejazdu i liczbę rozliczanych kilometrów uzgadniamy z klientem przed wizytą.
+
+#### Cennik napraw według rodzaju urządzenia
+
+Wybierz kategorię urządzenia. Zakres naprawy i koszty części potwierdzamy indywidualnie.
+
+##### ND:YAG / IPL / BBL
+
+Wymiana manipuły / głowicy
+
+3 200 zł
+
+Regeneracja manipuły
+
+2 200 zł
+
+Pozycja wymiany dotyczy całej manipuły lub głowicy, a nie samej lampy.
+
+##### Lasery diodowe do depilacji
+
+Robocizna przy wymianie diody laserowej
+
+1 200 zł
+
+Nowa dioda laserowa
+
+Wycena indywidualna
+
+1 200 zł to koszt pracy, bez ceny diody. Koszt nowej diody zależy od mocy i modelu urządzenia.
+
+##### Urządzenia do masażu próżniowego
+
+Czyszczenie, konserwacja i naprawa
+
+1 500 zł
+
+Zakres prac i ewentualne koszty części ustalamy po ocenie urządzenia. Cena nie oznacza usunięcia każdej możliwej usterki.
+
+##### Urządzenia do masażu rolkowego
+
+Naprawa urządzenia
+
+700–1 000 zł
+
+Wymiana rolek w manipule
+
+300 zł
+
+Zakres naprawy oraz to, czy dana pozycja obejmuje części, potwierdzamy w wycenie.
+
+##### Lasery CO₂ i pikosekundowe
+
+Kalibracja
+
+1 600 zł
+
+Naprawa
+
+1 200–1 800 zł + koszt części
+
+Przedział jest orientacyjny. Górna granica nie stanowi maksymalnej ceny każdej naprawy; ostateczna wycena zależy od diagnozy i zakresu prac.
+
+##### Inne urządzenia
+
+Serwisujemy również inne rodzaje profesjonalnego sprzętu. Opisz model i problem, aby ustalić zakres prac oraz indywidualną wycenę.
+
+[Zapytaj o wycenę](https://lasertechservice.pl/kontakt/)
+
+#### Przegląd techniczny i konserwacja urządzeń
+
+Zakres obsługi dobieramy do konstrukcji i stanu konkretnego aparatu. Regularny przegląd pomaga ocenić jego stan, ale nie gwarantuje wyeliminowania wszystkich przyszłych awarii.
+
+##### Obsługa w naszym serwisie
+
+800–1 300 zł
+
+Koszt zależy od typu i stanu technicznego urządzenia.
+
+##### Obsługa u klienta
+
+1 200–1 600 zł + koszt dojazdu
+
+Koszt zależy od rodzaju urządzenia i zakresu prac. Dojazd wyceniamy osobno z uwzględnieniem odległości.
+
+##### Co może obejmować przegląd?
+
+- Sprawdzenie stanu technicznego urządzenia.
+
+- Rozpoznanie oznak zużycia i możliwych usterek.
+
+- Czyszczenie i obsługa podzespołów przewidzianych dla danego aparatu.
+
+- Kontrola działania podstawowych systemów.
+
+- Sprawdzenie urządzenia po obsłudze.
+
+- Zalecenia dotyczące dalszej eksploatacji.
+
+To przykładowy możliwy zakres. Czynności odpowiednie dla danego urządzenia uzgadniamy indywidualnie.
+
+[Zamów przegląd techniczny](https://lasertechservice.pl/uslugi/cennik/#kontakt-serwis)
+
+#### Kalkulator kosztu dojazdu
+
+Wpisz liczbę kilometrów przyjętą do orientacyjnego rozliczenia. Kalkulator nie określa trasy ani nie dolicza drogi powrotnej.
+
+Liczba kilometrów do rozliczenia
+
+Kilometry × 1,40 zł. Przykład: 100 km = 140 zł. Diagnostyka i prace serwisowe nie są wliczone.
+
+Orientacyjny koszt dojazdu
+
+—
+
+Wynik kalkulatora ma charakter orientacyjny. Ostateczny koszt dojazdu ustalamy indywidualnie przed realizacją usługi.
+
+#### Ważne informacje i pytania o wycenę
+
+Przed rozpoczęciem prac ustalamy zakres usługi i jej koszt. Poniżej wyjaśniamy, od czego zależy wycena.
+
+##### Dlaczego końcowy koszt może różnić się od cennika?
+
+Cennik zawiera wartości orientacyjne. Rzeczywisty zakres usterki, konstrukcja urządzenia, potrzebne części i zakres prac wpływają na końcową wycenę. Ustalamy ją po diagnostyce.
+
+##### Kiedy przeprowadzana jest diagnostyka?
+
+Diagnostyka poprzedza określenie zakresu naprawy i ostatecznej wyceny. Diagnostyka u klienta kosztuje orientacyjnie 600 zł plus dojazd. Nie oznacza to automatycznego wliczenia diagnostyki w cenę naprawy.
+
+##### Czy części zamienne są wliczone w cenę?
+
+Przy wymianie diody podane 1 200 zł dotyczy wyłącznie pracy; nową diodę wyceniamy osobno. Przy naprawie laserów CO₂ i pikosekundowych części są dodatkowo płatne. W pozostałych pozycjach zakres części i ich koszt potwierdzamy indywidualnie w wycenie.
+
+##### Dlaczego niektóre urządzenia wymagają indywidualnej wyceny?
+
+Różne modele mają odmienną konstrukcję, podzespoły i dostępność części. Nazwa kategorii urządzenia nie wystarcza do określenia dokładnego zakresu naprawy.
+
+##### Jak uzgadniany jest koszt dojazdu?
+
+Orientacyjna stawka wynosi 1,40 zł za kilometr rozliczeniowy. Liczbę kilometrów i ostateczny koszt uzgadniamy przed wizytą. Kalkulator nie określa, czy rozliczenie dotyczy jednego kierunku czy podróży w obie strony.
+
+##### Czy mogę dostarczyć urządzenie do serwisu?
+
+Tak, dostępna jest obsługa w naszym serwisie. Przed dostarczeniem sprzętu skontaktuj się z nami, aby uzgodnić sposób i miejsce przekazania urządzenia.
+
+##### Jak zamówić serwis lub przegląd?
+
+Zadzwoń, napisz przez WhatsApp albo wyślij e-mail. Podaj model urządzenia, opisz objawy i, jeśli możesz, dołącz zdjęcia. Ustalimy dalszy sposób działania.
+
+#### Potrzebujesz naprawy lub przeglądu urządzenia?
+
+Opisz usterkę i podaj model aparatu. Skontaktuj się z nami, aby uzyskać wstępną konsultację i omówić obsługę.
+
+##### Telefon
+
+[+48 790 402 597](tel:+48790402597)  Pon.–Pt. 09:00–17:00
+
+##### WhatsApp
+
+[Napisz do serwisu](https://wa.me/48790402597)  Możesz przesłać zdjęcia urządzenia
+
+##### E-mail
+
+[contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)
+
+##### Serwis
+
+Marsz. Józefa Piłsudskiego 74
+lok. 320
+50-020 Wrocław
+
+#### Usługi serwisowe
+
+- [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 
 ## Equipment
 
@@ -775,6 +1253,11 @@ lok. 320
 
 [HTML](https://lasertechservice.pl/ru/uslugi/)
 
+### Русский
+
+
+[HTML](https://lasertechservice.pl/ru/uslugi/cennik/)
+
 ### Polski
 
 - Diagnostyka laserów diodowych
@@ -788,6 +1271,11 @@ lok. 320
 - Serwis urządzeń do krioterapii
 
 [HTML](https://lasertechservice.pl/uslugi/)
+
+### Polski
+
+
+[HTML](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Repair Cases
 
@@ -858,6 +1346,7 @@ Potrzebna jest naprawa manipuły lub diagnostyka podobnego objawu? Sprawdź nasz
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane artykuły
 
@@ -974,6 +1463,7 @@ Potrzebujesz diagnostyki swojego aparatu? Poznaj nasz [serwis urządzeń kosmeto
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane artykuły
 
@@ -1114,6 +1604,7 @@ Zobacz również inne [realizacje serwisowe](https://lasertechservice.pl/realiza
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Wideo
 
@@ -1250,6 +1741,7 @@ W osobnej realizacji dla studio Tiamo we Wrocławiu przyczyną braku vacuum był
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane realizacje
 
@@ -1371,9 +1863,15 @@ Naprawy realizujemy w naszym serwisie we Wrocławiu, a w zależności od rodzaju
 
 #### Najczęściej zadawane pytania
 
+##### Dlaczego urządzenie słabo zasysa?
+
 Przyczyną może być nieszczelność przewodów, złączy lub pompy odpowiedzialnej za wytwarzanie podciśnienia. W tej realizacji problemem była uszkodzona i nieszczelna pompa.
 
+##### Dlaczego element RF nie nagrzewa się?
+
 Jedną z możliwych przyczyn jest uszkodzone połączenie elektryczne, przewód, złącze lub jego styk. W tym urządzeniu uszkodzony był pin znajdujący się w złączu.
+
+##### Czy wykonujecie naprawy urządzeń w Lublinie?
 
 Tak. W zależności od rodzaju urządzenia oraz charakteru usterki możliwa jest diagnostyka i naprawa bezpośrednio u klienta.
 
@@ -1386,6 +1884,7 @@ Opisz usterkę, podaj nazwę urządzenia i wyślij nam zdjęcia lub film. Sprawd
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ### Naprawa NUBWAY NBW-VSIII – serwis RF i układu podciśnienia
 
@@ -1527,17 +2026,26 @@ Nasz serwis znajduje się we Wrocławiu, jednak realizujemy zlecenia również d
 
 #### Najczęściej zadawane pytania
 
+##### Czy naprawiacie urządzenia NUBWAY?
+
 Tak. Wykonujemy diagnostykę i naprawy urządzeń kosmetologicznych różnych producentów. Możliwość naprawy oraz jej zakres ustalamy po diagnostyce konkretnego urządzenia.
+
+##### Czy można naprawić układ podciśnienia?
 
 W wielu przypadkach tak. Sprawdzamy przewody, połączenia oraz elementy odpowiedzialne za wytwarzanie i przekazywanie podciśnienia.
 
+##### Czy naprawiacie systemy RF?
+
 Tak. Diagnostykujemy elementy systemów RF, w tym podzespoły związane z funkcją nagrzewania. Zakres naprawy zależy od konstrukcji urządzenia oraz rodzaju usterki.
+
+##### Czy serwisujecie urządzenia bezpośrednio u klienta?
 
 Tak, jeżeli charakter urządzenia i zakres prac pozwalają na wykonanie diagnostyki lub naprawy na miejscu. Ta realizacja została wykonana bezpośrednio w studiu rehabilitacji we Wrocławiu.
 
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Wideo
 
@@ -1610,6 +2118,7 @@ W poradniku [dlaczego połączenie manipulatora z urządzeniem jest tak ważne](
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane artykuły
 
@@ -1702,6 +2211,7 @@ Laser Tech Service wykonuje [diagnostykę, naprawę i wyjazdowy serwis urządze�
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane artykuły
 
@@ -1802,6 +2312,7 @@ Przy zgłoszeniu podaj model aparatu oraz informację o ostatnim przeglądzie. J
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Wideo
 
@@ -1884,6 +2395,7 @@ Zakres naszej pracy opisuje strona [serwisu urządzeń laserowych we Wrocławiu]
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane artykuły
 
@@ -1940,6 +2452,7 @@ Przeczytaj artykuł [woda w laserze do depilacji — wymiana i regularny serwis]
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane artykuły
 
@@ -2110,6 +2623,7 @@ Serwis znajduje się we Wrocławiu, a zlecenia realizujemy również dla klient�
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Wideo
 
@@ -2267,6 +2781,7 @@ Serwis znajduje się we Wrocławiu, a zlecenia i wyjazdy serwisowe realizujemy d
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane artykuły
 
@@ -2351,6 +2866,7 @@ Aby omówić kontrolę konkretnego aparatu, [skontaktuj się z Laser Tech Servic
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane artykuły
 
@@ -2512,17 +3028,26 @@ Nasza siedziba znajduje się we Wrocławiu. Realizujemy serwis urządzeń dla kl
 
 #### Najczęściej zadawane pytania
 
+##### Czy naprawiacie urządzenia HIFU?
+
 Tak. Wykonujemy diagnostykę, naprawy oraz obsługę techniczną urządzeń HIFU różnych producentów.
+
+##### Czy można naprawić niedziałającą głowicę HIFU?
 
 Zależy to od rodzaju usterki i konstrukcji konkretnej głowicy. Najpierw wykonujemy diagnostykę. W przypadku urządzenia KIMED K1-W1601 z tej realizacji głowica została naprawiona i ponownie sprawdzona.
 
+##### Czy wykonujecie czyszczenie układu wodnego?
+
 Tak. W ramach obsługi technicznej możemy skontrolować zbiornik oraz dostępne elementy obiegu wody i usunąć nagromadzone zanieczyszczenia.
+
+##### Czy wykonujecie serwis urządzeń bezpośrednio u klienta?
 
 Tak, jeżeli charakter urządzenia i zakres prac pozwalają na realizację serwisu na miejscu. Ten serwis urządzenia KIMED został wykonany bezpośrednio u klienta w Görlitz w Niemczech.
 
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Wideo
 
@@ -2693,17 +3218,26 @@ Nasz serwis znajduje się we Wrocławiu, a zlecenia realizujemy również dla kl
 
 #### Najczęściej zadawane pytania
 
+##### Czy serwisujecie lasery diodowe we Wrocławiu?
+
 Tak. Laser Tech Service wykonuje diagnostykę, naprawę oraz obsługę techniczną profesjonalnych laserów diodowych we Wrocławiu.
+
+##### Czy można wymienić głowicę lasera diodowego?
 
 Tak. Możliwość oraz zakres wymiany zależą od konstrukcji konkretnego urządzenia i jego stanu technicznego.
 
+##### Czy wykonujecie okresowe przeglądy laserów?
+
 Tak. W ramach obsługi technicznej możemy wykonać kontrolę urządzenia, czyszczenie oraz sprawdzenie jego działania.
+
+##### Czy serwisujecie urządzenia bezpośrednio u klienta?
 
 Tak, jeżeli rodzaj urządzenia oraz zakres wymaganych prac pozwalają na wykonanie serwisu na miejscu.
 
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Wideo
 
@@ -2833,15 +3367,22 @@ Realizujemy naprawy zarówno w naszym serwisie we Wrocławiu, jak również – 
 
 #### Najczęściej zadawane pytania
 
+##### Czy laser ND:YAG wymaga okresowego serwisu?
+
 Tak. Okresowa diagnostyka, czyszczenie i kontrola elementów eksploatacyjnych pomagają utrzymać prawidłowe warunki pracy urządzenia.
 
+##### Dlaczego należy kontrolować filtr?
+
 Zanieczyszczony filtr może ograniczać prawidłowy przepływ i pogarszać warunki pracy elementów układu chłodzenia.
+
+##### Czy wykonujecie serwis laserów u klienta?
 
 Tak. Możliwość wykonania naprawy lub konserwacji bezpośrednio u klienta zależy od urządzenia i zakresu wymaganych prac.
 
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ### Wymiana modułu diodowego lasera po zalaniu – Poznań
 
@@ -2900,6 +3441,7 @@ W tym konkretnym przypadku uszkodzenie powstało po samodzielnej ingerencji i na
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane artykuły
 
@@ -2972,6 +3514,7 @@ Beauty Planet 3D Contour в studio Tiamo во Вроцлаве включалс�
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные статьи
 
@@ -3088,6 +3631,7 @@ Beauty Planet 3D Contour в studio Tiamo во Вроцлаве включалс�
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные статьи
 
@@ -3228,6 +3772,7 @@ Laser Tech Service выполняет диагностику и [обслужи�
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Видео
 
@@ -3364,6 +3909,7 @@ Laser Tech Service выполняет диагностику и ремонт п�
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные работы
 
@@ -3485,9 +4031,15 @@ Laser Tech Service выполняет диагностику и ремонт п�
 
 #### Часто задаваемые вопросы
 
+##### Почему аппарат слабо всасывает?
+
 Причиной может быть негерметичность шлангов, соединений или насоса, создающего вакуум. В этой работе проблема заключалась в повреждённом негерметичном насосе.
 
+##### Почему RF-элемент не нагревается?
+
 Одна из возможных причин — повреждение электрического соединения, кабеля, разъёма или его контакта. В этом аппарате был повреждён контакт разъёма.
+
+##### Вы ремонтируете оборудование в Люблине?
 
 Да. В зависимости от типа аппарата и характера неисправности возможны диагностика и ремонт непосредственно у клиента.
 
@@ -3500,6 +4052,7 @@ Laser Tech Service выполняет диагностику и ремонт п�
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 ### Ремонт NUBWAY NBW-VSIII — обслуживание RF и вакуумной системы
 
@@ -3641,17 +4194,26 @@ Laser Tech Service выполняет диагностику и ремонт п�
 
 #### Часто задаваемые вопросы
 
+##### Вы ремонтируете аппараты NUBWAY?
+
 Да. Выполняем диагностику и ремонт косметологического оборудования разных производителей. Возможность и объём ремонта определяем после диагностики конкретного аппарата.
+
+##### Можно ли отремонтировать вакуумную систему?
 
 Во многих случаях да. Проверяем шланги, соединения и элементы, отвечающие за создание и передачу вакуума.
 
+##### Вы ремонтируете RF-системы?
+
 Да. Диагностируем элементы RF-систем, включая узлы нагрева. Объём ремонта зависит от конструкции аппарата и типа неисправности.
+
+##### Вы обслуживаете аппараты непосредственно у клиента?
 
 Да, если тип аппарата и объём работ позволяют выполнить диагностику или ремонт на месте. Эта работа выполнена непосредственно в реабилитационной студии во Вроцлаве.
 
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Видео
 
@@ -3724,6 +4286,7 @@ Laser Tech Service выполнил **срочный выезд к клиент�
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные статьи
 
@@ -3816,6 +4379,7 @@ Laser Tech Service выполняет [диагностику, ремонт и �
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные статьи
 
@@ -3916,6 +4480,7 @@ Laser Tech Service выполняет технические осмотры, п�
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Видео
 
@@ -3998,6 +4563,7 @@ Pharaon 1470 · LSO Medical · Denica · Wrocław
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные статьи
 
@@ -4054,6 +4620,7 @@ Pharaon 1470 · LSO Medical · Denica · Wrocław
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные статьи
 
@@ -4224,6 +4791,7 @@ Laser Tech Service выполняет диагностику и ремонт п�
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Видео
 
@@ -4381,6 +4949,7 @@ Laser Tech Service выполняет диагностику, ремонт и п
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные статьи
 
@@ -4465,6 +5034,7 @@ GME ExSys 308 · German Medical Engineering
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные статьи
 
@@ -4626,17 +5196,26 @@ Laser Tech Service выполняет диагностику, ремонт и т
 
 #### Часто задаваемые вопросы
 
+##### Вы ремонтируете HIFU-аппараты?
+
 Да. Выполняем диагностику, ремонт и техническое обслуживание HIFU-аппаратов разных производителей.
+
+##### Можно ли отремонтировать неработающую HIFU-манипулу?
 
 Это зависит от типа неисправности и конструкции манипулы. Сначала проводим диагностику. В этой работе манипулу KIMED K1-W1601 отремонтировали и повторно проверили.
 
+##### Вы очищаете водяной контур?
+
 Да. При техническом обслуживании можем проверить резервуар и доступные элементы водяного контура, удалить накопившиеся загрязнения.
+
+##### Вы обслуживаете оборудование непосредственно у клиента?
 
 Да, если тип аппарата и объём работ позволяют выполнить обслуживание на месте. Этот аппарат KIMED обслужили непосредственно у клиента в Гёрлице, Германия.
 
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Видео
 
@@ -4807,17 +5386,26 @@ Laser Tech Service выполняет диагностику, ремонт и т
 
 #### Часто задаваемые вопросы
 
+##### Вы обслуживаете диодные лазеры во Вроцлаве?
+
 Да. Laser Tech Service выполняет диагностику, ремонт и техническое обслуживание профессиональных диодных лазеров во Вроцлаве.
+
+##### Можно ли заменить манипулу диодного лазера?
 
 Да. Возможность и объём замены зависят от конструкции конкретного аппарата и его технического состояния.
 
+##### Вы проводите периодические осмотры лазеров?
+
 Да. В рамках технического обслуживания можем проверить аппарат, очистить его и протестировать работу.
+
+##### Вы обслуживаете аппараты непосредственно у клиента?
 
 Да, если тип аппарата и объём необходимых работ позволяют выполнить обслуживание на месте.
 
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Видео
 
@@ -4947,15 +5535,22 @@ Laser Tech Service выполняет диагностику, профилакт
 
 #### Часто задаваемые вопросы
 
+##### Нужно ли периодически обслуживать лазер ND:YAG?
+
 Да. Периодическая диагностика, очистка и проверка расходных элементов помогают поддерживать нормальные условия работы аппарата.
 
+##### Почему нужно проверять фильтр?
+
 Загрязнённый фильтр может ограничивать поток и ухудшать условия работы элементов системы охлаждения.
+
+##### Вы обслуживаете лазеры у клиента?
 
 Да. Возможность ремонта или профилактики непосредственно у клиента зависит от аппарата и объёма необходимых работ.
 
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 ### Замена диодного модуля лазера после залития — Познань
 
@@ -5014,6 +5609,7 @@ Laser Tech Service выполняет диагностику, профилакт
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные статьи
 
@@ -5118,6 +5714,7 @@ Jeden z egzemplarzy trafił do Laser Tech Service z zadaniem dotyczącym bloku z
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane realizacje
 
@@ -5326,6 +5923,7 @@ Laser Tech Service zajmuje się diagnostyką i naprawą laserów diodowych oraz 
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Wideo
 
@@ -5568,6 +6166,7 @@ Czasami najlepszym pierwszym krokiem jest **wezwanie technika i prawidłowe zdia
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane realizacje
 
@@ -5646,6 +6245,7 @@ Jeżeli podobnie zachowuje się Twój aparat, opisz objawy i model urządzenia p
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane realizacje
 
@@ -5752,6 +6352,7 @@ Zakres i sposób kontroli muszą odpowiadać konstrukcji konkretnego aparatu ora
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane realizacje
 
@@ -5970,6 +6571,7 @@ Moduł musi odpowiadać wymaganiom technicznym konkretnego urządzenia. Probleme
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane artykuły
 
@@ -6073,6 +6675,7 @@ Jeżeli zauważyłeś nieprawidłową pracę lasera lub innego urządzenia kosme
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ### HIFU – co to jest, jak działa i do czego służy urządzenie HIFU?
 
@@ -6413,6 +7016,7 @@ Najlepszym pierwszym krokiem jest **ustalenie rzeczywistej przyczyny problemu.**
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane realizacje
 
@@ -6509,6 +7113,7 @@ Tak rozumiemy [diagnostykę i naprawę urządzeń laserowych](https://lasertechs
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane realizacje
 
@@ -6589,6 +7194,7 @@ Dziękujemy za zaufanie, polecenia i opinie.
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane realizacje
 
@@ -6661,6 +7267,7 @@ Praktyczny przykład stanowi [przegląd Pharaon 1470 w klinice Denica we Wrocła
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane artykuły
 
@@ -6917,6 +7524,7 @@ Częstotliwość zależy od konkretnego urządzenia, intensywności jego pracy o
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane artykuły
 
@@ -7134,6 +7742,7 @@ Częstotliwość zależy od konkretnego modelu, intensywności użytkowania oraz
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane artykuły
 
@@ -7240,6 +7849,7 @@ Zobacz zdjęcia i opis [naprawy urządzenia do masażu RSL w Warszawie](https://
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane realizacje
 
@@ -7414,6 +8024,7 @@ Jeżeli natomiast nikt nic nie wie o jego przeszłości, niska cena powinna być
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ### Woda w laserze do depilacji – dlaczego jej wymiana i regularny serwis są tak ważne?
 
@@ -7508,6 +8119,7 @@ Sprawdzaj urządzenie w zakresie przewidzianym dla operatora, przestrzegaj termi
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 #### Powiązane realizacje
 
@@ -7610,6 +8222,7 @@ Nd:YAG обозначает активную среду лазера, а Q-Switc
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные работы
 
@@ -7830,6 +8443,7 @@ Laser Tech Service занимается диагностикой, обслужи
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Видео
 
@@ -8072,6 +8686,7 @@ Beauty Planet 3D Contour может быть интересной платфор
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные работы
 
@@ -8170,6 +8785,7 @@ CO₂-аппарат в студии медицинской эстетики п�
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные работы
 
@@ -8534,6 +9150,7 @@ HIFU — это технология, использующая **сфокуси�
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные работы
 
@@ -8610,6 +9227,7 @@ Oleksandr Padalko с наградой Złota Firma 2026 для Laser Tech Servic
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные работы
 
@@ -8818,6 +9436,7 @@ Oleksandr Padalko с наградой Złota Firma 2026 для Laser Tech Servic
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные статьи
 
@@ -8890,6 +9509,7 @@ LSO Medical сообщает о выходе Endotherme 1470 на рынок в 
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные статьи
 
@@ -9146,6 +9766,7 @@ Laser Tech Service занимается диагностикой, ремонто
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные статьи
 
@@ -9229,6 +9850,7 @@ Laser Tech Service занимается диагностикой, ремонто
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные работы
 
@@ -9335,6 +9957,7 @@ Laser Tech Service занимается диагностикой, ремонто
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные работы
 
@@ -9553,6 +10176,7 @@ Laser Tech Service занимается диагностикой, ремонто
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные статьи
 
@@ -9714,6 +10338,7 @@ Laser Tech Service занимается диагностикой, ремонто
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 ### Подержанный диодный лазер — почему важно покупать устройство с историей обслуживания?
 
@@ -9882,6 +10507,7 @@ LTS Market открыт не только для покупателей.
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 ### Маленький кабель — большая проблема. Почему соединение манипулы с аппаратом так важно?
 
@@ -9984,6 +10610,7 @@ LTS Market открыт не только для покупателей.
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные работы
 
@@ -10086,6 +10713,7 @@ Laser Tech Service выполнил [сервис лазера для эпиля
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 #### Связанные работы
 
@@ -10122,6 +10750,7 @@ Partner Laser Tech Service
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ### Наши партнёры
 
@@ -10152,6 +10781,7 @@ Partner Laser Tech Service
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 ## Contact
 
@@ -10212,6 +10842,7 @@ Po zakończeniu naprawy urządzenie jest przekazywane klientowi wraz z informacj
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ### Контакты
 
@@ -10270,6 +10901,7 @@ lok. 320
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 
 ## Locations
 
@@ -10328,3 +10960,4 @@ lok. 320
 - [Polski: Serwis lasera ND:YAG do usuwania tatuażu](https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/) — [Русский](https://lasertechservice.pl/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/)
 - [Polski: Wymiana modułu diodowego lasera po zalaniu – Poznań](https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/) — [Русский](https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
 - [Polski: Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/) — [Русский](https://lasertechservice.pl/ru/uslugi/)
+- [Polski: Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/) — [Русский](https://lasertechservice.pl/ru/uslugi/cennik/)

@@ -337,6 +337,7 @@ Najlepszym pierwszym krokiem jest **ustalenie rzeczywistej przyczyny problemu.**
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Powiązane realizacje
 

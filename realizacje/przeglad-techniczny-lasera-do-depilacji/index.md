@@ -49,6 +49,7 @@ Przeczytaj artykuł [woda w laserze do depilacji — wymiana i regularny serwis]
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Powiązane artykuły
 

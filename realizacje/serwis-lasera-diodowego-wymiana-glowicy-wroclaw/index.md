@@ -162,17 +162,26 @@ Nasz serwis znajduje się we Wrocławiu, a zlecenia realizujemy również dla kl
 
 ## Najczęściej zadawane pytania
 
+### Czy serwisujecie lasery diodowe we Wrocławiu?
+
 Tak. Laser Tech Service wykonuje diagnostykę, naprawę oraz obsługę techniczną profesjonalnych laserów diodowych we Wrocławiu.
+
+### Czy można wymienić głowicę lasera diodowego?
 
 Tak. Możliwość oraz zakres wymiany zależą od konstrukcji konkretnego urządzenia i jego stanu technicznego.
 
+### Czy wykonujecie okresowe przeglądy laserów?
+
 Tak. W ramach obsługi technicznej możemy wykonać kontrolę urządzenia, czyszczenie oraz sprawdzenie jego działania.
+
+### Czy serwisujecie urządzenia bezpośrednio u klienta?
 
 Tak, jeżeli rodzaj urządzenia oraz zakres wymaganych prac pozwalają na wykonanie serwisu na miejscu.
 
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Wideo
 

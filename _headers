@@ -396,10 +396,20 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/uslugi/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/uslugi/cennik/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/uslugi/cennik/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /uslugi/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/uslugi/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/uslugi/cennik/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/uslugi/cennik/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /llms.txt
   Content-Type: text/plain; charset=utf-8

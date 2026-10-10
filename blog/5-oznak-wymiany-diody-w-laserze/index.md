@@ -197,6 +197,7 @@ Laser Tech Service zajmuje się diagnostyką i naprawą laserów diodowych oraz 
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 
 ## Wideo
 
