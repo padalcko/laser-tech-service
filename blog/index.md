@@ -10,6 +10,12 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/)
 
 Praktyczna wiedza o serwisie, diagnostyce, naprawach i eksploatacji urządzeń laserowych oraz kosmetycznych.
 
+Eksploatacja i serwis12 października 2026
+
+## [Kurz, wentylatory i przegrzanie — dlaczego czyścić chłodzenie lasera?](https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/)
+
+Jak kurz ogranicza chłodzenie lasera? Przyczyny awarii, dobór wentylatorów według przepływu i ciśnienia, objawy przegrzania oraz zasady konserwacji.
+
 Eksploatacja i serwis9 października 2026
 
 ## [Mały przewód, duży problem. Dlaczego połączenie manipulatora z urządzeniem jest tak ważne?](https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/)
@@ -113,6 +119,7 @@ Gwarancja, dokumentacja wykonanych prac, historia serwisowa, możliwość szybki
 
 ## Powiązane artykuły
 
+- [Dlaczego regularne czyszczenie układu chłodzenia lasera jest tak ważne? Kurz, awarie wentylatorów i ryzyko przegrzania](https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/)
 - [Mały przewód, duży problem. Dlaczego połączenie manipulatora z urządzeniem jest tak ważne?](https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/)
 - [Woda w laserze do depilacji – dlaczego jej wymiana i regularny serwis są tak ważne?](https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/)
 - [Laser CO₂ nie reaguje na pedał? Objaw to jeszcze nie diagnoza](https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/)

@@ -525,4 +525,32 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/uslugi/cennik/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/uslugi/cennik/" />
   </url>
+  <url>
+    <loc>https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/" />
+  </url>
+  <url>
+    <loc>https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/" />
+  </url>
+  <url>
+    <loc>https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/" />
+  </url>
+  <url>
+    <loc>https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/" />
+  </url>
 </urlset>
