@@ -70,7 +70,7 @@ The website is published in Polish and Russian. HTML pages are the canonical sou
 
 ## Partners
 
-- [Nasi partnerzy](https://lasertechservice.pl/partnerzy/index.md): AnnVi, cosmetology and podology in Wrocław, is listed as a partner.
+- [Nasi partnerzy](https://lasertechservice.pl/partnerzy/index.md): Partners: AnnVi (cosmetology and podology, Wrocław), Magia Kosmetyczna (beauty salon, Bydgoszcz), Cuprum Laser Tech (laser surface cleaning) and Cuprum Beauty Lab (diode laser hair removal, Lubin).
 
 ## Contact
 

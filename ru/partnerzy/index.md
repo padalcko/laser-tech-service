@@ -20,9 +20,53 @@
 
 ## AnnVi
 
-Косметология и подология · Вроцлав
+Кабинет косметологии и подологии.
+
++48 576 979 656
+ul. Pochyła 23/1D, Вроцлав
 
 Партнёр Laser Tech Service
+
+[Страница партнёра](https://annvi.pl/)
+
+![Логотип Magia Kosmetyczna — косметический салон в Быдгоще](https://lasertechservice.pl/img/partnerzy/magia-kosmetyczna-bydgoszcz-logo.webp)
+
+## Magia Kosmetyczna
+
+Салон маникюра, педикюра и депиляции.
+
++48 794 583 513
+ul. Krasińskiego 19/1a, Быдгощ
+
+Партнёр Laser Tech Service
+
+[Страница партнёра](https://www.instagram.com/magiakosmetyczna/)
+
+![Знак Cuprum Laser Tech с визитки — лазерная очистка поверхностей](https://lasertechservice.pl/img/partnerzy/cuprum-laser-tech-laserowe-czyszczenie-logo.webp)
+
+## Cuprum Laser Tech
+
+Лазерная очистка и реставрация поверхностей.
+
++48 889 894 894
+biuro@cuprumlasertech.com
+
+Партнёр Laser Tech Service
+
+[Страница партнёра](https://cuprumlasertech.com/)
+
+![Название Cuprum Beauty Lab с визитки — лазерная эпиляция в Любине](https://lasertechservice.pl/img/partnerzy/cuprum-beauty-lab-lubin-logo.webp)
+
+## Cuprum Beauty Lab
+
+Кабинет эпиляции диодным лазером.
+
++48 661 977 526
+ul. Grodzka 4, Любин
+
+Партнёр Laser Tech Service
+
+[Страница партнёра](https://www.instagram.com/cuprum_beauty_lab/)
 
 ## Услуги сервиса
 

@@ -20,9 +20,53 @@ Znamy urządzenia, na których pracują — dbamy o ich serwis i naprawy. Dzięk
 
 ## AnnVi
 
-Kosmetologia i podologia · Wrocław
+Gabinet kosmetologii i podologii.
+
++48 576 979 656
+ul. Pochyła 23/1D, Wrocław
 
 Partner Laser Tech Service
+
+[Strona partnera](https://annvi.pl/)
+
+![Logo Magia Kosmetyczna — salon kosmetyczny w Bydgoszczy](https://lasertechservice.pl/img/partnerzy/magia-kosmetyczna-bydgoszcz-logo.webp)
+
+## Magia Kosmetyczna
+
+Salon manicure, pedicure i depilacji.
+
++48 794 583 513
+ul. Krasińskiego 19/1a, Bydgoszcz
+
+Partner Laser Tech Service
+
+[Strona partnera](https://www.instagram.com/magiakosmetyczna/)
+
+![Znak Cuprum Laser Tech z wizytówki — laserowe czyszczenie powierzchni](https://lasertechservice.pl/img/partnerzy/cuprum-laser-tech-laserowe-czyszczenie-logo.webp)
+
+## Cuprum Laser Tech
+
+Laserowe czyszczenie i renowacja powierzchni.
+
++48 889 894 894
+biuro@cuprumlasertech.com
+
+Partner Laser Tech Service
+
+[Strona partnera](https://cuprumlasertech.com/)
+
+![Nazwa Cuprum Beauty Lab z wizytówki — depilacja laserowa w Lubinie](https://lasertechservice.pl/img/partnerzy/cuprum-beauty-lab-lubin-logo.webp)
+
+## Cuprum Beauty Lab
+
+Gabinet depilacji laserem diodowym.
+
++48 661 977 526
+ul. Grodzka 4, Lubin
+
+Partner Laser Tech Service
+
+[Strona partnera](https://www.instagram.com/cuprum_beauty_lab/)
 
 ## Usługi serwisowe
 

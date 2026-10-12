@@ -122,6 +122,9 @@ def render(node, page, seen_images):
         href = node.attrs.get('href', '')
         if not href or href.startswith(('javascript:', '#')) and href == '#': return body
         label = re.sub(r'\s+', ' ', body).strip()
+        if node.has('partner-card'):
+            link_label = 'Strona partnera' if page['lang'] == 'pl' else 'Страница партнёра'
+            return body + '\n\n[' + link_label + '](' + absolute(href, page['canonical']) + ')\n\n'
         # Linked photographs already carry their own evidence URL.
         if not label or '![' in label: return body
         return '['+label+']('+absolute(href,page['canonical'])+')'
@@ -247,7 +250,7 @@ The website is published in Polish and Russian. HTML pages are the canonical sou
     out+=item('/ru/blog/','Russian article catalogue.',True)
     for p in pages:
         if p['kind']=='article' and p['lang']=='pl':out+=f'- [{p["title"]}]({p["canonical"]}): {p["meta"]["description"]}\n'
-    out+='\n## Partners\n\n'+item('/partnerzy/','AnnVi, cosmetology and podology in Wrocław, is listed as a partner.',True)
+    out+='\n## Partners\n\n'+item('/partnerzy/','Partners: AnnVi (cosmetology and podology, Wrocław), Magia Kosmetyczna (beauty salon, Bydgoszcz), Cuprum Laser Tech (laser surface cleaning) and Cuprum Beauty Lab (diode laser hair removal, Lubin).',True)
     out+='\n## Contact\n\n'+item('/kontakt/','Marsz. Józefa Piłsudskiego 74 lok. 320, 50-020 Wrocław, Poland; +48 790 402 597; contact@lasertechservice.pl.',True)
     out+='\n## Languages\n\n'+item('/','Polish website.')+item('/ru/','Russian website.')
     out+='\n## Important Resources\n\n- [Expanded site text]('+BASE+'/llms-full.txt): Company, services, equipment, cases, articles, locations, partners, contact and language map.\n- [XML sitemap]('+BASE+'/sitemap.xml): Canonical HTML pages and language equivalents.\n- [Crawler rules]('+BASE+'/robots.txt): Access rules; independent from this resource map.\n'
