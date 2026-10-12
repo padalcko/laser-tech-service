@@ -16,6 +16,16 @@
 
 Каждое устройство требует индивидуальной диагностики. Ниже представлены отдельные примеры нашей работы.
 
+![Специалист Laser Tech Service у открытого корпуса лазерного аппарата во Вроцлаве](https://lasertechservice.pl/img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw.webp)
+
+WrocławОхлаждение и обслуживание
+
+## [Замена вентиляторов охлаждения лазера — Вроцлав](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/)
+
+Неисправные вентиляторы и пыль внутри аппарата: диагностика, замена компонентов, очистка и восстановление работы охлаждения.
+
+[Подробнее о ремонте](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/)
+
 ![Специалист у бокового соединения манипулы аппарата RSL в Варшаве](https://lasertechservice.pl/img/realizacje/rsl-warszawa/rsl-serwis-wyjazdowy-warszawa.webp)
 
 Ремонт RSL · Варшава
@@ -243,6 +253,7 @@ RF Вакуум Диагностика Ремонт
 
 ## Связанные работы
 
+- [Замена вентиляторов охлаждения лазерного аппарата и техническое обслуживание во Вроцлаве](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/)
 - [Срочный ремонт аппарата для RSL-массажа в Варшаве — ремонт кабеля и замена разъёма](https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/)
 - [Сервис лазера для эпиляции — техническое обслуживание аппарата](https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/)
 - [Срочный ремонт CO₂-аппарата в Познани с выездом к клиенту](https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/)

@@ -16,6 +16,16 @@ Pokazujemy rzeczywiste realizacje serwisowe: zakres zlecenia, wykonane prace ora
 
 Każde urządzenie wymaga indywidualnej diagnostyki. Poniżej prezentujemy wybrane realizacje naszego serwisu.
 
+![Technik Laser Tech Service przy otwartej obudowie aparatu laserowego we Wrocławiu](https://lasertechservice.pl/img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw.webp)
+
+WrocławChłodzenie i konserwacja
+
+## [Wymiana wentylatorów chłodzenia lasera — Wrocław](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/)
+
+Niesprawne wentylatory i kurz wewnątrz aparatu: diagnostyka, wymiana komponentów, czyszczenie oraz przywrócenie działania chłodzenia.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/)
+
 ![Serwisant przy bocznym połączeniu manipuły aparatu RSL w Warszawie](https://lasertechservice.pl/img/realizacje/rsl-warszawa/rsl-serwis-wyjazdowy-warszawa.webp)
 
 Naprawa RSL · Warszawa
@@ -243,6 +253,7 @@ Serwisujemy lasery diodowe, urządzenia ND:YAG, IPL, CO2 oraz inne urządzenia w
 
 ## Powiązane realizacje
 
+- [Wymiana wentylatorów chłodzenia lasera i konserwacja urządzenia — Wrocław](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/)
 - [Pilna naprawa urządzenia do masażu RSL w Warszawie – naprawa przewodu i wymiana złącza](https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/)
 - [Serwis lasera do depilacji – przegląd techniczny urządzenia](https://lasertechservice.pl/realizacje/przeglad-techniczny-lasera-do-depilacji/)
 - [Pilna naprawa lasera CO₂ w Poznaniu — serwis u klienta](https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/)
