@@ -114,10 +114,6 @@ Przygotowaliśmy praktyczny przewodnik, który pomoże rozpoznać pierwsze sympt
 
 [Zobacz PDF](https://lasertechservice.pl/files/Sprawdz-sprzet.pdf)
 
-## Obserwuj nas na Instagramie
-
-![Profil Laser Tech Service na Instagramie](https://lasertechservice.pl/img/profil-instagram-laser-tech-service.webp)
-
 ## Najczęściej zadawane pytania
 
 ### Jak długo trwa naprawa lasera?

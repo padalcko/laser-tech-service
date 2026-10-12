@@ -10,6 +10,12 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/)
 
 Praktyczna wiedza o serwisie, diagnostyce, naprawach i eksploatacji urządzeń laserowych oraz kosmetycznych.
 
+Zakup i diagnostyka12 października 2026
+
+## [Jak prawidłowo kupić używany laser kosmetyczny i nie stracić pieniędzy?](https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/)
+
+Planujesz zakup używanego lasera do depilacji? Sprawdź stan diody, historię serwisową i koszty napraw. Porady Laser Tech Service i oferty LTS Market.
+
 Eksploatacja i serwis12 października 2026
 
 ## [Kurz, wentylatory i przegrzanie — dlaczego czyścić chłodzenie lasera?](https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/)
@@ -119,6 +125,7 @@ Gwarancja, dokumentacja wykonanych prac, historia serwisowa, możliwość szybki
 
 ## Powiązane artykuły
 
+- [Jak prawidłowo kupić używany laser kosmetyczny i nie stracić pieniędzy?](https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/)
 - [Dlaczego regularne czyszczenie układu chłodzenia lasera jest tak ważne? Kurz, awarie wentylatorów i ryzyko przegrzania](https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/)
 - [Mały przewód, duży problem. Dlaczego połączenie manipulatora z urządzeniem jest tak ważne?](https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/)
 - [Woda w laserze do depilacji – dlaczego jej wymiana i regularny serwis są tak ważne?](https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/)

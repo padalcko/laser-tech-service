@@ -114,10 +114,6 @@
 
 [Посмотреть PDF](https://lasertechservice.pl/files/Sprawdz-sprzet.pdf)
 
-## Следите за нами в Instagram
-
-![Профиль Laser Tech Service в Instagram](https://lasertechservice.pl/img/profil-instagram-laser-tech-service.webp)
-
 ## Часто задаваемые вопросы
 
 ### Сколько времени занимает ремонт лазера?

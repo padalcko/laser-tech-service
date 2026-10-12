@@ -125,7 +125,7 @@ for kind, routes in [('case', CASES), ('article', ARTICLES)]:
         if kind == 'article':
             faq_title = 'Najczęstsze pytania' if language == 'pl' else 'Частые вопросы'
             faq = source.split(f'<h2>{faq_title}</h2>')[1].split('<h2>')[0]
-            assert len(re.findall('<h3>', faq)) == len(re.findall('<p>', faq)) == 6, route
+            assert len(re.findall('<summary>', faq)) == len(re.findall('<p>', faq)) == 6, route
             for term in ('CFM', 'RPM', 'PWM', 'Pa', 'mmH₂O'):
                 assert term in main.text(), (route, term)
             COUNTS['faq_answers'] += 6

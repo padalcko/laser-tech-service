@@ -160,7 +160,13 @@ Jeżeli na te pytania są konkretne odpowiedzi, używany laser może być napraw
 
 Jeżeli natomiast nikt nic nie wie o jego przeszłości, niska cena powinna być powodem, żeby dokładniej sprawdzić urządzenie, a nie jedynym argumentem przemawiającym za zakupem.
 
+Jeśli porównujesz konkretne oferty, skorzystaj z [poradnika zakupu używanego lasera: lista kontroli, diagnostyka i koszty](https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/). Pomoże przygotować pytania do sprzedawcy przed decyzją.
+
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+
+## Powiązane artykuły
+
+- [Jak prawidłowo kupić używany laser kosmetyczny i nie stracić pieniędzy?](https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/)

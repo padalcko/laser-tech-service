@@ -100,27 +100,27 @@ Wentylator i zakurzona kratka wewnątrz aparatu podczas dostępu serwisowego. To
 
 ## Najczęstsze pytania
 
-### Dlaczego aparat laserowy się przegrzewa?
+Dlaczego aparat laserowy się przegrzewa?
 
 Przyczyną może być niedrożny tor powietrzny, uszkodzony wentylator, niewłaściwe warunki wentylacji pomieszczenia albo usterka obiegu cieczy, jeśli taki obieg występuje. Możliwe są także nieprawidłowe wskazania czujnika. Ostrzeżenie temperaturowe jest objawem wymagającym diagnostyki, a nie potwierdzeniem jednej konkretnej awarii.
 
-### Czy kurz może uszkodzić wentylator?
+Czy kurz może uszkodzić wentylator?
 
 Może sprzyjać uszkodzeniu: osad na łopatkach bywa źródłem nierównomiernego obciążenia i drgań, a zanieczyszczenia docierające do łożyska mogą przyspieszać jego zużycie. Zależy to od konstrukcji i uszczelnienia. Trzeba też wykluczyć zużycie eksploatacyjne i usterki elektryczne.
 
-### Czy można zamontować dowolny wentylator o takim samym rozmiarze?
+Czy można zamontować dowolny wentylator o takim samym rozmiarze?
 
 Nie. Oprócz wymiarów muszą odpowiadać zasilanie, dopuszczalny pobór prądu, charakterystyka przepływu i ciśnienia, kierunek przepływu oraz połączenia elektryczne. Jeżeli sterownik oczekuje sygnału obrotów lub PWM, zamiennik musi obsługiwać właściwy standard sygnału.
 
-### Dlaczego wentylator działa, a urządzenie nadal się przegrzewa?
+Dlaczego wentylator działa, a urządzenie nadal się przegrzewa?
 
 Obracający się wirnik nie dowodzi wystarczającego przepływu przez radiator. Zatkane filtry, zanieczyszczony wymiennik, niewłaściwy kierunek przepływu lub nieszczelności omijające radiator mogą ograniczać chłodzenie. W urządzeniach chłodzonych cieczą problem może leżeć również w pompie, obiegu lub wymianie ciepła.
 
-### Jak często czyścić układ chłodzenia?
+Jak często czyścić układ chłodzenia?
 
 Punktem wyjścia jest harmonogram producenta. Intensywna eksploatacja, duża ilość pyłu i specyficzna budowa układu mogą wymagać wcześniejszej kontroli. Termin należy ustalić dla danego urządzenia na podstawie dokumentacji, warunków pracy i stanu stwierdzonego podczas przeglądu.
 
-### Czy niesprawne chłodzenie może uszkodzić inne elementy lasera?
+Czy niesprawne chłodzenie może uszkodzić inne elementy lasera?
 
 Tak. Długotrwała praca poza dopuszczalnymi temperaturami może skracać trwałość elektroniki i elementów zasilania. Zabezpieczenie termiczne, jeśli występuje, ogranicza ryzyko, lecz nie zastępuje sprawnego chłodzenia. Przy alarmach lub samoczynnym zatrzymywaniu pracy należy postępować zgodnie z instrukcją i zlecić diagnostykę.
 
@@ -134,7 +134,7 @@ Ogólne zasady przepływu i ciśnienia, doboru łożysk oraz sygnałów sterowan
 
 - [Same Sky: Cooling Fans — Monitoring, Control & Protection](https://www.sameskydevices.com/blog/cooling-fans-monitoring-control-and-protection-enhance-system-performance)
 
-Zakres diagnostyki i napraw przedstawiamy na stronie [serwisu urządzeń laserowych](https://lasertechservice.pl/uslugi/). Planową obsługę omawiamy w artykule o [przeglądzie lasera diodowego](https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/). Dla urządzeń z obiegiem cieczy przydatny jest tekst o [wodzie w układzie chłodzenia lasera](https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/); jego zalecenia dotyczą wyłącznie odpowiedniej konstrukcji.
+Zakres diagnostyki i napraw przedstawiamy na stronie [serwisu urządzeń laserowych](https://lasertechservice.pl/uslugi/). Planową obsługę omawiamy w artykule o [przeglądzie lasera diodowego](https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/). Dla urządzeń z obiegiem cieczy przydatny jest tekst o [wodzie w układzie chłodzenia lasera](https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/); jego zalecenia dotyczą wyłącznie odpowiedniej konstrukcji.
 
 ## Usługi serwisowe
 
@@ -147,4 +147,5 @@ Zakres diagnostyki i napraw przedstawiamy na stronie [serwisu urządzeń laserow
 
 ## Powiązane artykuły
 
+- [Planowy przegląd lasera diodowego – dlaczego jest ważny i co obejmuje?](https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/)
 - [Woda w laserze do depilacji – dlaczego jej wymiana i regularny serwis są tak ważne?](https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/)
