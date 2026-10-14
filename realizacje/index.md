@@ -16,6 +16,16 @@ Pokazujemy rzeczywiste realizacje serwisowe: zakres zlecenia, wykonane prace ora
 
 Każde urządzenie wymaga indywidualnej diagnostyki. Poniżej prezentujemy wybrane realizacje naszego serwisu.
 
+![Lumenis LightSheer DESIRE z ekranem logowania w gabinecie w Oleśnicy](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lumenis-lightsheer-desire-aparat-olesnica.webp)
+
+OleśnicaSerwis i konserwacja
+
+## [Naprawa Lumenis LightSheer DESIRE w Oleśnicy – wyciek płynu i awaria układu chłodzenia](https://lasertechservice.pl/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/)
+
+Wyjazdowy serwis Lumenis LightSheer DESIRE w Oleśnicy: zabrudzony filtr i zawór zwrotny, nieszczelne O-ring, czyszczenie oraz przywrócenie chłodzenia.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/)
+
 ![Technik Laser Tech Service przy otwartej obudowie aparatu laserowego we Wrocławiu](https://lasertechservice.pl/img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw.webp)
 
 WrocławChłodzenie i konserwacja
@@ -253,6 +263,7 @@ Serwisujemy lasery diodowe, urządzenia ND:YAG, IPL, CO2 oraz inne urządzenia w
 
 ## Powiązane realizacje
 
+- [Naprawa Lumenis LightSheer DESIRE w Oleśnicy – wyciek płynu i awaria układu chłodzenia](https://lasertechservice.pl/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/)
 - [Wymiana wentylatorów chłodzenia lasera i konserwacja urządzenia — Wrocław](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/)
 - [Pilna naprawa urządzenia do masażu RSL w Warszawie – naprawa przewodu i wymiana złącza](https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/)
 - [Serwis lasera do depilacji – przegląd techniczny urządzenia](https://lasertechservice.pl/realizacje/przeglad-techniczny-lasera-do-depilacji/)

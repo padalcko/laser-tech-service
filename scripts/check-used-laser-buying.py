@@ -64,14 +64,15 @@ for lang, route in ROUTES.items():
     prefix = '/ru' if lang == 'ru' else ''
     index = ai.Parser((ROOT / (prefix + '/blog/').lstrip('/') / 'index.html').read_text()).root
     cards = [n for n in index.all('article') if n.has('blog-card')]
-    assert len(cards) == 18
-    assert any(n.attrs.get('href') == route for n in cards[0].all('a'))
-    assert not list(cards[0].all('img')), 'Blog cards remain text-only'
+    matching = [c for c in cards if any(n.attrs.get('href') == route for n in c.all('a'))]
+    assert len(matching) == 1, route
+    card = matching[0]
+    assert not list(card.all('img')), 'Blog cards remain text-only'
     assert all(any(n.has('blog-card__reading-time') for n in c.all()) for c in cards)
-    reading = next(n.text() for n in cards[0].all() if n.has('blog-card__reading-time'))
+    reading = next(n.text() for n in card.all() if n.has('blog-card__reading-time'))
     assert str(math.ceil(words / 200)) in reading
     report[lang] = {'words': words, 'faq': 9, 'checklist': 14, 'responsive_images': len(images), 'cards': len(cards)}
 urls = [e.text for e in ET.parse(ROOT / 'sitemap.xml').findall('s:url/s:loc', ai.NS)]
-assert len(urls) == 88
+assert len(urls) == len(set(urls))
 assert all(urls.count(ai.BASE + route) == 1 for route in ROUTES.values())
 print(json.dumps({'result': 'passed', 'pages': report}, ensure_ascii=False, indent=2))

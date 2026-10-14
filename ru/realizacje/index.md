@@ -16,6 +16,16 @@
 
 Каждое устройство требует индивидуальной диагностики. Ниже представлены отдельные примеры нашей работы.
 
+![Lumenis LightSheer DESIRE с экраном входа в кабинете в Олеснице](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lumenis-lightsheer-desire-aparat-olesnica.webp)
+
+OleśnicaСервис и обслуживание
+
+## [Ремонт Lumenis LightSheer DESIRE в Олеснице — утечка жидкости и неисправность системы охлаждения](https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/)
+
+Выездной ремонт Lumenis LightSheer DESIRE в Олеснице: загрязнение фильтра и обратного клапана, уплотнения O-ring и восстановление охлаждения.
+
+[Подробнее о ремонте](https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/)
+
 ![Специалист Laser Tech Service у открытого корпуса лазерного аппарата во Вроцлаве](https://lasertechservice.pl/img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw.webp)
 
 WrocławОхлаждение и обслуживание
@@ -253,6 +263,7 @@ RF Вакуум Диагностика Ремонт
 
 ## Связанные работы
 
+- [Ремонт Lumenis LightSheer DESIRE в Олеснице — утечка жидкости и неисправность системы охлаждения](https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/)
 - [Замена вентиляторов охлаждения лазерного аппарата и техническое обслуживание во Вроцлаве](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/)
 - [Срочный ремонт аппарата для RSL-массажа в Варшаве — ремонт кабеля и замена разъёма](https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/)
 - [Сервис лазера для эпиляции — техническое обслуживание аппарата](https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/)

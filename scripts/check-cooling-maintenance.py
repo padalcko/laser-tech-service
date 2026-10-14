@@ -132,7 +132,9 @@ for kind, routes in [('case', CASES), ('article', ARTICLES)]:
         index_route = ('/ru' if language == 'ru' else '') + ('/realizacje/' if kind == 'case' else '/blog/')
         index = AI.Parser((ROOT / index_route.lstrip('/') / 'index.html').read_text()).root
         card_class = 'realizacja-card' if kind == 'case' else 'blog-card'
-        card = next(node for node in index.all('article') if node.has(card_class))
+        matching_cards = [node for node in index.all('article') if node.has(card_class) and any(link.attrs.get('href') == route for link in node.all('a'))]
+        assert len(matching_cards) == 1, route
+        card = matching_cards[0]
         assert any(node.attrs.get('href') == route for node in card.all('a')), route
         if kind == 'case':
             assert 'Wrocław' in card.text() and len(list(card.all('img'))) == 1, route

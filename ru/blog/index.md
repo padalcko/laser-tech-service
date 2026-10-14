@@ -10,6 +10,12 @@
 
 Пишем о том, с чем сталкиваемся каждый день: ремонте лазеров, диагностике неисправностей, обслуживании косметологического оборудования и обычных проблемах, которые возникают у владельцев салонов и кабинетов.
 
+Сервис и обслуживание14 октября 2026
+
+## [Lumenis LightSheer DESIRE спустя 10 лет: почему лазер за 200 000 zł может продолжать работать?](https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/)
+
+Как работают HIT и ChillTip в LightSheer DESIRE? Охлаждение, отложения, уплотнения и обслуживание на примере ремонта аппарата в Олеснице.
+
 Покупка и диагностика12 октября 2026
 
 ## [Как правильно купить б/у лазерный аппарат для салона красоты и не потерять деньги?](https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/)
@@ -125,6 +131,7 @@ Pharaon 1470, LSO Medical и OSYRIS: история обозначений, ос
 
 ## Связанные статьи
 
+- [Lumenis LightSheer DESIRE спустя 10 лет: почему лазер за 200 000 zł может продолжать работать?](https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/)
 - [Как правильно купить б/у лазерный аппарат для салона красоты и не потерять деньги?](https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/)
 - [Почему необходимо регулярно очищать систему охлаждения лазера: пыль, поломки вентиляторов и риск перегрева](https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/)
 - [Маленький кабель — большая проблема. Почему соединение манипулы с аппаратом так важно?](https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/)
