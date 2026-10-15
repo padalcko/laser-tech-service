@@ -166,6 +166,10 @@ Otrzymasz ustne wyjaśnienie wyników, pisemny wniosek techniczny oraz zalecenia
 
 Nie. Decyzję podejmujesz po poznaniu wyników i propozycji. Bez zlecenia naprawy diagnostyka kosztuje od 600 zł, a przy zleceniu naprawy w Laser Tech Service jest bezpłatna. Dojazd w obu sytuacjach jest rozliczany osobno.
 
+## Zamów diagnostykę
+
+Dojazd specjalisty płatny osobno — również przy zleceniu naprawy. [+48 790 402 597](tel:+48790402597) · [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)
+
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)

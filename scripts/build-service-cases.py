@@ -12,6 +12,8 @@ stale = []
 for service in config.values():
     for lang, route in service['pages'].items():
         cards = []
+        columns = max(1, min(4, len(service["cases"])))
+        image_sizes = f"(min-width: 1200px) {1120 // columns}px, (min-width: 1024px) {90 // columns}vw, (min-width: 650px) 45vw, 90vw"
         labels = ['Objaw', 'Przyczyna', 'Rezultat', 'Pełna realizacja'] if lang == 'pl' else ['Симптом', 'Причина', 'Результат', 'Полное описание']
         for case in service['cases']:
             content = case['content'][lang]
@@ -20,13 +22,13 @@ for service in config.values():
             img = case['image']
             assert (ROOT / img['src'].lstrip('/')).is_file(), img['src']
             attrs = ' '.join(f'{k}="{escape(v, quote=True)}"' for k, v in img.items())
-            card = f'<article class="contact-card price-card service-case"><img {attrs} sizes="(min-width: 768px) 45vw, 90vw" loading="lazy" decoding="async" alt="{escape(content["title"])}" /><h3>{escape(content["title"])}</h3>'
+            card = f'<article class="contact-card price-card service-case"><img {attrs} sizes="{image_sizes}" loading="lazy" decoding="async" alt="{escape(content["title"])}" /><h3>{escape(content["title"])}</h3>'
             card += ''.join(f'<p><strong>{label}:</strong> {escape(content[key])}</p>' for label, key in zip(labels, ['symptom', 'cause', 'result']))
             card += f'<a href="{url}">{labels[3]} →</a></article>'
             cards.append(card)
         path = ROOT / route.strip('/') / 'index.html'
         source = path.read_text()
-        block = '<!-- BEGIN SERVICE CASES -->\n<div class="price-grid">\n' + '\n'.join(cards) + '\n</div>\n<!-- END SERVICE CASES -->'
+        block = f'<!-- BEGIN SERVICE CASES -->\n<div class="service-cases-grid" style="--case-columns: {columns}">\n' + '\n'.join(cards) + '\n</div>\n<!-- END SERVICE CASES -->'
         updated, count = re.subn(r'<!-- BEGIN SERVICE CASES -->.*?<!-- END SERVICE CASES -->', lambda _: block, source, flags=re.S)
         assert count == 1, path
         # Keep machine-readable case relationships aligned with the visible cards.
