@@ -52,10 +52,13 @@
 
 [Почему не стоит самостоятельно менять уплотнительные прокладки в лазерном аппарате](https://lasertechservice.pl/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/)
 
+[Диагностика диодных лазеров →](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
 ## Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 
 ## Связанные статьи
 

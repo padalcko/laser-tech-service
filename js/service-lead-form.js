@@ -180,6 +180,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const formData = new FormData(form);
 
+      // Optional honeypot on landing forms; existing forms keep their contract.
+      if (getFormValue(formData, "companyWebsite")) {
+        showError(message, text.error);
+        return;
+      }
+
       const payload = {
         fullName: getFormValue(formData, "fullName"),
 
@@ -197,6 +203,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
         pageUrl: window.location.href,
       };
+
+      // Send additional fields only when the form provides them.
+      for (const field of ["serviceType", "problemDescription"]) {
+        if (formData.has(field)) payload[field] = getFormValue(formData, field);
+      }
 
       /* -------------------------------------------------
            UI: sending

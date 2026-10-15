@@ -18,7 +18,7 @@
 
 Ремонтируем оборудование, используемое в салонах красоты, косметологических клиниках и кабинетах эстетической медицины.
 
-- Диагностика диодных лазеров
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 
 - Замена и калибровка лазерных диодов
 
@@ -165,6 +165,7 @@ lok. 320
 ## Услуги сервиса
 
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 
 ## Связанные работы
 

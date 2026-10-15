@@ -20,6 +20,8 @@ Rozpoznanie usterki pozwala ustalić potrzebne prace i przygotować wycenę dla 
 
 ### Diagnostyka urządzenia u klienta
 
+[Diagnostyka laserów diodowych: od 600 zł](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/). Diagnostyka bezpłatna przy zleceniu naprawy. Dojazd specjalisty płatny osobno — również przy zleceniu naprawy.
+
 600 zł + koszt dojazdu
 
 Podane ceny są orientacyjne. Ostateczny koszt ustalamy po diagnostyce urządzenia i uzgodnieniu zakresu prac.
@@ -154,7 +156,7 @@ Cennik zawiera wartości orientacyjne. Rzeczywisty zakres usterki, konstrukcja u
 
 ### Kiedy przeprowadzana jest diagnostyka?
 
-Diagnostyka poprzedza określenie zakresu naprawy i ostatecznej wyceny. Diagnostyka u klienta kosztuje orientacyjnie 600 zł plus dojazd. Nie oznacza to automatycznego wliczenia diagnostyki w cenę naprawy.
+Diagnostyka poprzedza określenie zakresu naprawy i ostatecznej wyceny. Diagnostyka u klienta kosztuje orientacyjnie 600 zł plus dojazd. Nie oznacza to automatycznego wliczenia diagnostyki w cenę naprawy. Dla laserów diodowych obowiązują warunki opisane na stronie diagnostyki: od 600 zł bez zlecenia naprawy, bezpłatnie przy zleceniu naprawy w Laser Tech Service. Dojazd pozostaje osobno płatny.
 
 ### Czy części zamienne są wliczone w cenę?
 
@@ -201,3 +203,4 @@ lok. 320
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)

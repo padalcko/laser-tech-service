@@ -471,6 +471,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/uslugi/cennik/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/uslugi/diagnostika-diodnyh-lazerov/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /uslugi/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -480,6 +485,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/uslugi/cennik/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/uslugi/diagnostyka-laserow-diodowych/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /llms.txt
   Content-Type: text/plain; charset=utf-8

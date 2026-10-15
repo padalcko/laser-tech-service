@@ -1,0 +1,87 @@
+{
+  "diode-laser-diagnostics": {
+    "pages": {
+      "pl": "/uslugi/diagnostyka-laserow-diodowych/",
+      "ru": "/ru/uslugi/diagnostika-diodnyh-lazerov/"
+    },
+    "cases": [
+      {
+        "pages": {
+          "pl": "/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+          "ru": "/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/"
+        },
+        "image": {
+          "src": "/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp",
+          "srcset": "/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan-480w.webp 480w, /img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan-768w.webp 768w, /img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp 1122w",
+          "width": "1122",
+          "height": "1402"
+        },
+        "content": {
+          "pl": {
+            "title": "Wymiana modułu po zalaniu — Poznań",
+            "symptom": "Uszkodzony moduł diodowy po przedostaniu się cieczy.",
+            "cause": "Nieprawidłowo osadzona uszczelka spowodowała utratę szczelności i zalanie modułu.",
+            "result": "Wymieniono moduł i uszczelkę, przywracając prawidłowe uszczelnienie."
+          },
+          "ru": {
+            "title": "Замена модуля после залития — Познань",
+            "symptom": "Повреждение диодного модуля после попадания жидкости.",
+            "cause": "Неправильно установленное уплотнение привело к потере герметичности и залитию модуля.",
+            "result": "Заменены модуль и уплотнение, восстановлена герметичность узла."
+          }
+        }
+      },
+      {
+        "pages": {
+          "pl": "/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+          "ru": "/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/"
+        },
+        "image": {
+          "src": "/img/blog/serwis-glowicy-lasera/nieszczelnosc-manipuly-lasera.webp",
+          "width": "1920",
+          "height": "1080"
+        },
+        "content": {
+          "pl": {
+            "title": "Serwis głowicy lasera diodowego — Poznań",
+            "symptom": "Nieszczelna głowica i zabrudzenia wewnątrz manipuły.",
+            "cause": "Utrata szczelności obudowy umożliwiała przedostawanie się kurzu, także w obszar optyki.",
+            "result": "Oczyszczono wnętrze i optykę oraz przywrócono szczelność głowicy."
+          },
+          "ru": {
+            "title": "Сервис манипулы диодного лазера — Познань",
+            "symptom": "Негерметичная головка и загрязнения внутри манипулы.",
+            "cause": "Нарушение герметичности корпуса позволило пыли проникнуть внутрь, в том числе в область оптики.",
+            "result": "Очищены внутренние элементы и оптика, восстановлена герметичность головки."
+          }
+        }
+      },
+      {
+        "pages": {
+          "pl": "/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/",
+          "ru": "/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/"
+        },
+        "image": {
+          "src": "/img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw.webp",
+          "srcset": "/img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw-480w.webp 480w, /img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw-768w.webp 768w, /img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw.webp 941w",
+          "width": "941",
+          "height": "1672"
+        },
+        "content": {
+          "pl": {
+            "title": "Wymiana wentylatorów chłodzenia — Wrocław",
+            "symptom": "Niewystarczające chłodzenie aparatu laserowego.",
+            "cause": "Niesprawne wentylatory i znaczne zabrudzenie wnętrza.",
+            "result": "Wymieniono wentylatory, usunięto kurz i sprawdzono przywrócone działanie chłodzenia."
+          },
+          "ru": {
+            "title": "Замена вентиляторов охлаждения — Вроцлав",
+            "symptom": "Недостаточное охлаждение лазерного аппарата.",
+            "cause": "Неисправные вентиляторы и значительное загрязнение внутри корпуса.",
+            "result": "Заменены вентиляторы, удалена пыль, проверена восстановленная работа охлаждения."
+          }
+        }
+      }
+    ]
+  }
+}

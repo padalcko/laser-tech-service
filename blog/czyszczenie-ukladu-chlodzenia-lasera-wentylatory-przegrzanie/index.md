@@ -136,10 +136,17 @@ Ogólne zasady przepływu i ciśnienia, doboru łożysk oraz sygnałów sterowan
 
 Zakres diagnostyki i napraw przedstawiamy na stronie [serwisu urządzeń laserowych](https://lasertechservice.pl/uslugi/). Planową obsługę omawiamy w artykule o [przeglądzie lasera diodowego](https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/). Dla urządzeń z obiegiem cieczy przydatny jest tekst o [wodzie w układzie chłodzenia lasera](https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/); jego zalecenia dotyczą wyłącznie odpowiedniej konstrukcji.
 
+## Diagnostyka laserów diodowych
+
+Diagnostyka bezpłatna przy zleceniu naprawy. Dojazd specjalisty płatny osobno — również przy zleceniu naprawy.
+
+[Zamów diagnostykę →](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
 ## Powiązane realizacje
 

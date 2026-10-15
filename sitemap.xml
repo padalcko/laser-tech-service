@@ -623,4 +623,16 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/" />
   </url>
+  <url>
+    <loc>https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/" />
+  </url>
+  <url>
+    <loc>https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/" />
+  </url>
 </urlset>

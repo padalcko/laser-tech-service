@@ -208,10 +208,17 @@ Nie każda zmiana w pracy lasera oznacza uszkodzenie modułu. Dlatego przed zam�
 
 Moduł musi odpowiadać wymaganiom technicznym konkretnego urządzenia. Problemem może być również jakość samego komponentu. Profesjonalny dobór zmniejsza ryzyko zakupu niewłaściwej części oraz kolejnego przestoju urządzenia.
 
+## Diagnostyka laserów diodowych
+
+Diagnostyka bezpłatna przy zleceniu naprawy. Dojazd specjalisty płatny osobno — również przy zleceniu naprawy.
+
+[Zamów diagnostykę →](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
 ## Powiązane artykuły
 

@@ -52,10 +52,13 @@ W tym konkretnym przypadku uszkodzenie powstało po samodzielnej ingerencji i na
 
 [Dlaczego nie warto samodzielnie wymieniać uszczelek w urządzeniu laserowym?](https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/)
 
+[Diagnostyka laserów diodowych →](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
 ## Powiązane artykuły
 

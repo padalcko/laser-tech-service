@@ -18,7 +18,7 @@ Diagnostyka, naprawa, regeneracja i konserwacja laserów oraz urządzeń wykorzy
 
 Naprawiamy urządzenia wykorzystywane w salonach beauty, klinikach kosmetologicznych oraz gabinetach medycyny estetycznej.
 
-- Diagnostyka laserów diodowych
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
 - Wymiana i kalibracja diod laserowych
 
@@ -165,6 +165,7 @@ lok. 320
 ## Usługi serwisowe
 
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
 ## Powiązane realizacje
 

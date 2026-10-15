@@ -144,10 +144,13 @@ Serwis znajduje się we Wrocławiu, a zlecenia i wyjazdy serwisowe realizujemy d
 
 [Zobacz zakres usług Laser Tech Service →](https://lasertechservice.pl/uslugi/)
 
+[Diagnostyka laserów diodowych →](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
 ## Powiązane artykuły
 

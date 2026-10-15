@@ -1,0 +1,24 @@
+/* Additive, scoped landing components; canonical colors and components stay shared. */
+.service-landing .header { min-height: 0; padding: 36px 20px; }
+.service-landing .header__title strong { font-size: clamp(30px, 5vw, 58px); letter-spacing: -1px; }
+.service-landing .header__text { margin-bottom: 22px; }
+.service-landing .header__text p { margin-bottom: 12px; }
+.service-landing .service-price { font-size: 30px; font-weight: 700; color: var(--gold-light); }
+.service-landing .service-note { margin: 22px 0; line-height: 1.8; }
+.service-landing .service-steps { list-style: decimal; padding-left: 25px; line-height: 1.8; }
+.service-landing .service-steps li { margin-bottom: 24px; padding-left: 8px; }
+.service-landing .service-steps h3 { font-size: 21px; margin-bottom: 8px; }
+.service-landing .service-case img { width: 100%; height: 220px; object-fit: cover; border-radius: var(--radius-sm); margin-bottom: 20px; }
+.service-landing .article-service-form { margin: 25px 0 0; padding: 24px; }
+.service-landing .article-service-form__grid { grid-template-columns: minmax(0, 1fr); }
+.service-landing textarea { width: 100%; padding: 14px; min-height: 130px; border: 1px solid var(--border); border-radius: var(--radius-sm); background: var(--black-card); color: var(--white); font: inherit; resize: vertical; }
+.service-landing .consent { display: flex; align-items: flex-start; gap: 12px; color: var(--white); line-height: 1.6; font-size: 14px; }
+.service-landing .consent input { flex: 0 0 20px; width: 20px; height: 20px; margin-top: 3px; }
+.service-landing .article-service-form__message, .service-landing noscript p { color: var(--white); }
+.service-landing .service-honeypot { position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden; }
+.service-landing .btn, .service-landing .article-service-form__submit { white-space: normal; min-height: 48px; text-align: center; }
+@media (min-width: 768px) {
+ .service-landing .header { padding: 60px 20px; }
+ .service-landing .article-service-form__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+ .service-landing .article-service-form { padding: 45px; }
+}

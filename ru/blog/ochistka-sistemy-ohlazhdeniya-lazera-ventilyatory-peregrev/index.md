@@ -136,10 +136,17 @@
 
 Практический объём диагностики и ремонта приведён на странице [сервиса лазерного оборудования](https://lasertechservice.pl/ru/uslugi/). Плановое обслуживание разобрано в статье о [техническом обслуживании диодного лазера](https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/). Для аппаратов с жидкостным контуром полезен материал о [воде в системе охлаждения лазера](https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/); его рекомендации применимы только к соответствующей конструкции.
 
+## Диагностика диодных лазеров
+
+Диагностика бесплатно при заказе ремонта. Выезд специалиста оплачивается отдельно — в том числе при заказе ремонта.
+
+[Заказать диагностику →](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
 ## Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 
 ## Связанные работы
 

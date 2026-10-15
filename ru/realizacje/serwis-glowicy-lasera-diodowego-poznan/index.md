@@ -144,10 +144,13 @@ Laser Tech Service выполняет диагностику, ремонт и п
 
 [Посмотреть услуги Laser Tech Service →](https://lasertechservice.pl/ru/uslugi/)
 
+[Диагностика диодных лазеров →](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
 ## Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 
 ## Связанные статьи
 

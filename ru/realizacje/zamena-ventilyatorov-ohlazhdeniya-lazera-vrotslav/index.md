@@ -76,10 +76,13 @@
 
 Диагностика, ремонт охлаждения и обслуживание описаны на странице [сервиса лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/). Плановый уход также разобран в статье о [техническом обслуживании диодного лазера](https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/); его конкретный объём зависит от конструкции аппарата.
 
+[Диагностика диодных лазеров →](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
 ## Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 
 ## Связанные статьи
 

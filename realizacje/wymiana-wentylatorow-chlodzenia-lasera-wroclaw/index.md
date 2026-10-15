@@ -76,10 +76,13 @@ Przeczytaj, [jak kurz wpływa na chłodzenie lasera i dlaczego wentylator trzeba
 
 Zakres diagnostyki, napraw chłodzenia i konserwacji opisujemy na stronie [serwisu urządzeń laserowych i kosmetycznych](https://lasertechservice.pl/uslugi/). Więcej o planowej obsłudze znajdziesz w tekście o [przeglądzie lasera diodowego](https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/) — jego szczegóły zależą od konstrukcji danego aparatu.
 
+[Diagnostyka laserów diodowych →](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
 ## Powiązane artykuły
 

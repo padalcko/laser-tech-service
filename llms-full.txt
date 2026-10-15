@@ -492,7 +492,7 @@ lok. 320
 
 Ремонтируем оборудование, используемое в салонах красоты, косметологических клиниках и кабинетах эстетической медицины.
 
-- Диагностика диодных лазеров
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 
 - Замена и калибровка лазерных диодов
 
@@ -639,6 +639,7 @@ lok. 320
 #### Услуги сервиса
 
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 
 #### Связанные работы
 
@@ -667,6 +668,8 @@ lok. 320
 Диагностика помогает определить необходимые работы и подготовить расчёт для конкретного аппарата.
 
 ##### Диагностика оборудования у клиента
+
+[Диагностика диодных лазеров: от 600 zł](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/). Диагностика бесплатно при заказе ремонта. Выезд специалиста оплачивается отдельно — в том числе при заказе ремонта.
 
 600 zł + стоимость выезда
 
@@ -802,7 +805,7 @@ lok. 320
 
 ##### Когда проводится диагностика?
 
-Диагностика предшествует определению объёма ремонта и окончательной стоимости. Диагностика у клиента стоит ориентировочно 600 zł плюс выезд. Это не означает автоматического включения диагностики в цену ремонта.
+Диагностика предшествует определению объёма ремонта и окончательной стоимости. Диагностика у клиента стоит ориентировочно 600 zł плюс выезд. Это не означает автоматического включения диагностики в цену ремонта. Для диодных лазеров действуют условия страницы диагностики: от 600 zł без заказа ремонта, бесплатно при заказе ремонта в Laser Tech Service. Выезд остаётся платным отдельно.
 
 ##### Включены ли запасные части?
 
@@ -849,6 +852,191 @@ lok. 320
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
+### Диагностика диодных лазеров
+
+Источник HTML: [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
+Язык: Русский
+
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
+> Диагностика аппарата и манипулы диодного лазера от 600 zł. Письменное техническое заключение. Бесплатно при заказе ремонта в Laser Tech Service; выезд отдельно.
+
+Устанавливаем причину неисправности аппарата и манипулы, чтобы владельцы косметологических салонов, клиник и студий лазерной эпиляции могли принять обоснованное решение о ремонте. Вроцлав и вся Польша.
+
+от 600 zł
+
+**Диагностика бесплатно при заказе ремонта**
+
+Выезд специалиста оплачивается отдельно — в том числе при заказе ремонта.
+
+[Заказать диагностику](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/#diagnostic-form)[Позвонить](tel:+48790402597)
+
+#### Что входит в диагностику?
+
+##### Диагностика лазерного аппарата
+
+Оцениваем работу аппарата в связи с заявленной проблемой, учитывая его конструкцию и условия появления неисправности.
+
+##### Диагностика манипулы
+
+Проверяем состояние лазерной головки и её взаимодействие с аппаратом. Объём проверки зависит от модели и симптомов.
+
+##### Выявление причины неисправности
+
+Локализуем источник проблемы и отделяем симптом от причины. Не предполагаем заранее, что требуется замена диодного модуля.
+
+##### Рекомендации и предложение по ремонту
+
+Предоставляем устное объяснение, письменное техническое заключение, рекомендации и предложение по устранению неисправности.
+
+#### Когда нужна диагностика диодного лазера?
+
+У похожих симптомов могут быть разные причины. Окончательную причину можно установить только после диагностики конкретного аппарата. Объём работ зависит от модели и проблемы: одинаковые измерения, разборка или калибровка нужны не в каждом случае.
+
+##### Лазер не включается
+
+Возможны проблемы с подачей питания, соединениями, блоком питания или системой управления. Отсутствие реакции само по себе не доказывает неисправность лазерного модуля.
+
+##### Манипула не охлаждается
+
+Причина может быть связана с циркуляцией жидкости, отводом тепла, питанием или управлением охлаждением. В моделях с термоэлектрическим охлаждением также может иметь значение модуль Пельтье.
+
+##### Лазер потерял мощность
+
+Ослабление работы может быть связано с загрязнённой оптикой, состоянием диодного модуля, питанием или ограничением работы системой защиты. Наблюдение за результатом процедуры не заменяет техническую оценку. [Подробнее →](https://lasertechservice.pl/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/)
+
+##### Аппарат перегревается
+
+Недостаточный поток воздуха, загрязнение теплообменника, неисправный вентилятор или проблемы с циркуляцией жидкости могут затруднять отвод тепла. Учитываются и условия эксплуатации аппарата. [Подробнее →](https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/)
+
+##### На дисплее появляются ошибки
+
+Сообщение может относиться к температуре, потоку жидкости, связи между узлами или другим защитным функциям. Значение кода зависит от модели. В заявке полезно указать точный код и момент его появления.
+
+##### Отсутствует лазерный импульс
+
+Возможны отсутствие готовности аппарата, активная защита, проблема с сигналом запуска, подключением манипулы или питанием. Это не означает автоматически, что нужно менять диод.
+
+#### Как проходит диагностика?
+
+1. ### Обращение и описание неисправности
+
+Укажите симптомы, город и модель, если она известна. Опишите обстоятельства появления проблемы.
+2. ### Согласование условий
+
+Согласовываем объём, стоимость диагностики и способ её проведения. Выезд и его стоимость обсуждаем отдельно.
+3. ### Проверка аппарата и манипулы
+
+Проводим техническую оценку с учётом конструкции оборудования и заявленных симптомов.
+4. ### Объяснение и письменное заключение
+
+Вы получаете устное объяснение результатов, письменное техническое заключение, рекомендации и предложение по ремонту.
+5. ### Ваше решение о ремонте
+
+Ремонт не обязателен. При заказе ремонта в Laser Tech Service диагностика бесплатна. Выезд остаётся платным отдельно.
+
+#### Стоимость диагностики
+
+##### Диагностика без заказа ремонта
+
+**от 600 zł**
+
+##### Диагностика при заказе ремонта
+
+**0 zł**
+
+##### Выезд специалиста
+
+Оплачивается отдельно
+
+При заказе ремонта в Laser Tech Service плата за диагностику не взимается. Это не возврат денег, не скидка и не вычет 600 zł из стоимости ремонта. Условие не распространяется на транспорт.
+
+[Диагностика и выезд в прайс-листе →](https://lasertechservice.pl/ru/uslugi/cennik/#ceny)
+
+#### Примеры выполненных работ
+
+Реальные случаи показывают, почему важно установить причину симптома. Пример замены вентиляторов относится к лазерному аппарату с неподтверждённой технологией, а не к подтверждённому диодному лазеру.
+
+![Замена модуля после залития — Познань](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp)
+
+##### Замена модуля после залития — Познань
+
+**Симптом:** Повреждение диодного модуля после попадания жидкости.
+
+**Причина:** Неправильно установленное уплотнение привело к потере герметичности и залитию модуля.
+
+**Результат:** Заменены модуль и уплотнение, восстановлена герметичность узла.
+
+[Полное описание →](https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
+
+![Сервис манипулы диодного лазера — Познань](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/nieszczelnosc-manipuly-lasera.webp)
+
+##### Сервис манипулы диодного лазера — Познань
+
+**Симптом:** Негерметичная головка и загрязнения внутри манипулы.
+
+**Причина:** Нарушение герметичности корпуса позволило пыли проникнуть внутрь, в том числе в область оптики.
+
+**Результат:** Очищены внутренние элементы и оптика, восстановлена герметичность головки.
+
+[Полное описание →](https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/)
+
+![Замена вентиляторов охлаждения — Вроцлав](https://lasertechservice.pl/img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw.webp)
+
+##### Замена вентиляторов охлаждения — Вроцлав
+
+**Симптом:** Недостаточное охлаждение лазерного аппарата.
+
+**Причина:** Неисправные вентиляторы и значительное загрязнение внутри корпуса.
+
+**Результат:** Заменены вентиляторы, удалена пыль, проверена восстановленная работа охлаждения.
+
+[Полное описание →](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/)
+
+#### Вопросы о диагностике
+
+##### Сколько стоит диагностика диодного лазера?
+
+Диагностика без заказа ремонта стоит от 600 zł. Она включает аппарат и манипулу, локализацию неисправности, рекомендации и предложение по ремонту. Выезд рассчитывается отдельно.
+
+##### Бесплатна ли диагностика при заказе ремонта?
+
+Да. Если вы заказываете ремонт аппарата у специалистов Laser Tech Service, диагностика бесплатна. Это не возврат денег и не скидка. Выезд оплачивается отдельно.
+
+##### Входит ли выезд в стоимость диагностики?
+
+Нет. Транспорт не входит в стоимость от 600 zł и не становится бесплатным при заказе ремонта. Его стоимость согласовываем до выезда.
+
+##### Можно ли провести диагностику только манипулы?
+
+Диагностика манипулы входит в услугу. Если проблема касается только головки, опишите её при обращении. Возможность проверки отдельной манипулы без аппарата и условия такой проверки согласовываем индивидуально с учётом модели и симптомов.
+
+##### Что я получу после диагностики?
+
+Вы получите устное объяснение результатов, письменное техническое заключение, рекомендации и предложение по устранению выявленной неисправности.
+
+##### Обязательно ли заказывать ремонт после диагностики?
+
+Нет. Вы принимаете решение после получения результатов и предложения. Без заказа ремонта диагностика стоит от 600 zł, а при заказе ремонта в Laser Tech Service бесплатна. Выезд в обоих случаях оплачивается отдельно.
+
+#### Услуги сервиса
+
+- [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+
+#### Связанные статьи
+
+- [Почему сгорают диодные модули в лазерах для эпиляции: причины, симптомы и последствия](https://lasertechservice.pl/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/)
+- [Почему необходимо регулярно очищать систему охлаждения лазера: пыль, поломки вентиляторов и риск перегрева](https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/)
+
+#### Связанные работы
+
+- [Замена диодного модуля лазера после залития — Познань](https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
+- [Обслуживание манипулы диодного лазера — очистка и восстановление герметичности](https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/)
+- [Замена вентиляторов охлаждения лазерного аппарата и техническое обслуживание во Вроцлаве](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/)
 
 ### Profesjonalny serwis urządzeń laserowych i kosmetologicznych
 
@@ -870,7 +1058,7 @@ Diagnostyka, naprawa, regeneracja i konserwacja laserów oraz urządzeń wykorzy
 
 Naprawiamy urządzenia wykorzystywane w salonach beauty, klinikach kosmetologicznych oraz gabinetach medycyny estetycznej.
 
-- Diagnostyka laserów diodowych
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
 - Wymiana i kalibracja diod laserowych
 
@@ -1017,6 +1205,7 @@ lok. 320
 #### Usługi serwisowe
 
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
 #### Powiązane realizacje
 
@@ -1045,6 +1234,8 @@ Podane ceny są orientacyjne. Ostateczny koszt ustalamy po diagnostyce urządzen
 Rozpoznanie usterki pozwala ustalić potrzebne prace i przygotować wycenę dla konkretnego urządzenia.
 
 ##### Diagnostyka urządzenia u klienta
+
+[Diagnostyka laserów diodowych: od 600 zł](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/). Diagnostyka bezpłatna przy zleceniu naprawy. Dojazd specjalisty płatny osobno — również przy zleceniu naprawy.
 
 600 zł + koszt dojazdu
 
@@ -1180,7 +1371,7 @@ Cennik zawiera wartości orientacyjne. Rzeczywisty zakres usterki, konstrukcja u
 
 ##### Kiedy przeprowadzana jest diagnostyka?
 
-Diagnostyka poprzedza określenie zakresu naprawy i ostatecznej wyceny. Diagnostyka u klienta kosztuje orientacyjnie 600 zł plus dojazd. Nie oznacza to automatycznego wliczenia diagnostyki w cenę naprawy.
+Diagnostyka poprzedza określenie zakresu naprawy i ostatecznej wyceny. Diagnostyka u klienta kosztuje orientacyjnie 600 zł plus dojazd. Nie oznacza to automatycznego wliczenia diagnostyki w cenę naprawy. Dla laserów diodowych obowiązują warunki opisane na stronie diagnostyki: od 600 zł bez zlecenia naprawy, bezpłatnie przy zleceniu naprawy w Laser Tech Service. Dojazd pozostaje osobno płatny.
 
 ##### Czy części zamienne są wliczone w cenę?
 
@@ -1227,6 +1418,191 @@ lok. 320
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
+### Diagnostyka laserów diodowych
+
+Źródło HTML: [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
+Język: Polski
+
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
+> Diagnostyka aparatu i głowicy lasera diodowego od 600 zł. Pisemny wniosek techniczny. Bezpłatna przy zleceniu naprawy w Laser Tech Service; dojazd osobno.
+
+Ustalamy przyczynę awarii aparatu i głowicy, aby właściciele salonów kosmetologicznych, klinik i studiów depilacji laserowej mogli świadomie zdecydować o naprawie. Wrocław i cała Polska.
+
+od 600 zł
+
+**Diagnostyka bezpłatna przy zleceniu naprawy**
+
+Dojazd specjalisty płatny osobno — również przy zleceniu naprawy.
+
+[Zamów diagnostykę](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/#diagnostic-form)[Zadzwoń](tel:+48790402597)
+
+#### Co obejmuje diagnostyka?
+
+##### Diagnostyka urządzenia laserowego
+
+Oceniamy działanie aparatu w związku ze zgłoszonym problemem, uwzględniając jego konstrukcję i warunki występowania usterki.
+
+##### Diagnostyka głowicy laserowej
+
+Sprawdzamy stan manipuły i jej współpracę z aparatem. Zakres kontroli zależy od modelu i objawów.
+
+##### Identyfikacja przyczyny usterki
+
+Lokalizujemy źródło nieprawidłowości i rozróżniamy objaw od przyczyny. Nie zakładamy z góry konieczności wymiany modułu diodowego.
+
+##### Zalecenia i propozycja naprawy
+
+Przekazujemy ustne wyjaśnienie, pisemny wniosek techniczny oraz zalecenia i propozycję usunięcia usterki.
+
+#### Kiedy potrzebna jest diagnostyka lasera diodowego?
+
+Podobne objawy mogą mieć różne źródła. Ostateczną przyczynę można ustalić dopiero po diagnostyce konkretnego aparatu. Zakres czynności dobieramy do modelu i problemu; nie każda diagnostyka wymaga takich samych pomiarów, demontażu lub kalibracji.
+
+##### Laser nie włącza się
+
+Możliwy jest problem z doprowadzeniem zasilania, połączeniami, zasilaczem lub układem sterowania. Brak reakcji nie przesądza o uszkodzeniu modułu laserowego.
+
+##### Głowica nie chłodzi
+
+Przyczyna może dotyczyć obiegu cieczy, odprowadzania ciepła, zasilania lub sterowania chłodzeniem. W modelach z chłodzeniem termoelektrycznym znaczenie może mieć również moduł Peltiera.
+
+##### Laser stracił moc
+
+Osłabienie działania może wiązać się z zabrudzoną optyką, stanem modułu diodowego, zasilaniem lub ograniczeniem pracy przez układ ochronny. Sama obserwacja efektu zabiegu nie zastępuje oceny technicznej. [Przeczytaj więcej →](https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/)
+
+##### Aparat przegrzewa się
+
+Ograniczony przepływ powietrza, zabrudzenie wymiennika, niesprawny wentylator lub problemy z obiegiem cieczy mogą utrudniać oddawanie ciepła. Trzeba też uwzględnić warunki pracy urządzenia. [Przeczytaj więcej →](https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/)
+
+##### Na wyświetlaczu pojawiają się błędy
+
+Komunikat może dotyczyć temperatury, przepływu, komunikacji lub innych zabezpieczeń — znaczenie kodu zależy od modelu. W zgłoszeniu warto podać dokładny kod i moment jego wystąpienia.
+
+##### Brak impulsu laserowego
+
+Możliwe przyczyny obejmują brak gotowości aparatu, aktywne zabezpieczenie, problem z sygnałem wyzwalania, połączeniem głowicy lub zasilaniem. Nie oznacza to automatycznie konieczności wymiany diody.
+
+#### Jak przebiega diagnostyka?
+
+1. ### Zgłoszenie i opis usterki
+
+Podaj objawy, miasto oraz model, jeśli go znasz. Opisz, w jakich okolicznościach pojawił się problem.
+2. ### Uzgodnienie warunków
+
+Potwierdzamy zakres, koszt diagnostyki oraz sposób realizacji. Wyjazd i jego koszt uzgadniamy osobno.
+3. ### Kontrola aparatu i głowicy
+
+Przeprowadzamy techniczną ocenę odpowiednią dla konstrukcji urządzenia i zgłoszonych objawów.
+4. ### Wyjaśnienie i pisemny wniosek
+
+Otrzymujesz ustne omówienie wyników, pisemny wniosek techniczny oraz zalecenia i propozycję naprawy.
+5. ### Twoja decyzja o naprawie
+
+Naprawa nie jest obowiązkowa. Jeśli zlecisz ją Laser Tech Service, diagnostyka jest bezpłatna. Koszt dojazdu pozostaje osobno płatny.
+
+#### Koszt diagnostyki
+
+##### Diagnostyka bez zlecenia naprawy
+
+**od 600 zł**
+
+##### Diagnostyka przy zleceniu naprawy
+
+**0 zł**
+
+##### Dojazd specjalisty
+
+Płatny osobno
+
+Przy zleceniu naprawy w Laser Tech Service nie pobieramy opłaty za diagnostykę. Nie jest to zwrot pieniędzy, rabat ani odliczenie 600 zł od ceny naprawy. Warunek ten nie obejmuje transportu.
+
+[Zobacz diagnostykę i dojazd w cenniku →](https://lasertechservice.pl/uslugi/cennik/#ceny)
+
+#### Przykłady z naszych realizacji
+
+Rzeczywiste przypadki pokazują, dlaczego objaw trzeba powiązać z jego przyczyną. Przykład wymiany wentylatorów dotyczy aparatu laserowego o niepotwierdzonej technologii, a nie potwierdzonego lasera diodowego.
+
+![Wymiana modułu po zalaniu — Poznań](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp)
+
+##### Wymiana modułu po zalaniu — Poznań
+
+**Objaw:** Uszkodzony moduł diodowy po przedostaniu się cieczy.
+
+**Przyczyna:** Nieprawidłowo osadzona uszczelka spowodowała utratę szczelności i zalanie modułu.
+
+**Rezultat:** Wymieniono moduł i uszczelkę, przywracając prawidłowe uszczelnienie.
+
+[Pełna realizacja →](https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
+
+![Serwis głowicy lasera diodowego — Poznań](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/nieszczelnosc-manipuly-lasera.webp)
+
+##### Serwis głowicy lasera diodowego — Poznań
+
+**Objaw:** Nieszczelna głowica i zabrudzenia wewnątrz manipuły.
+
+**Przyczyna:** Utrata szczelności obudowy umożliwiała przedostawanie się kurzu, także w obszar optyki.
+
+**Rezultat:** Oczyszczono wnętrze i optykę oraz przywrócono szczelność głowicy.
+
+[Pełna realizacja →](https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/)
+
+![Wymiana wentylatorów chłodzenia — Wrocław](https://lasertechservice.pl/img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw.webp)
+
+##### Wymiana wentylatorów chłodzenia — Wrocław
+
+**Objaw:** Niewystarczające chłodzenie aparatu laserowego.
+
+**Przyczyna:** Niesprawne wentylatory i znaczne zabrudzenie wnętrza.
+
+**Rezultat:** Wymieniono wentylatory, usunięto kurz i sprawdzono przywrócone działanie chłodzenia.
+
+[Pełna realizacja →](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/)
+
+#### Pytania o diagnostykę
+
+##### Ile kosztuje diagnostyka lasera diodowego?
+
+Diagnostyka bez zlecenia naprawy kosztuje od 600 zł. Obejmuje aparat i głowicę, lokalizację usterki oraz zalecenia i propozycję naprawy. Koszt dojazdu ustalamy osobno.
+
+##### Czy diagnostyka jest bezpłatna przy zleceniu naprawy?
+
+Tak. Jeśli zlecisz naprawę aparatu specjalistom Laser Tech Service, diagnostyka jest bezpłatna. Nie jest to zwrot ani rabat. Dojazd pozostaje płatny osobno.
+
+##### Czy koszt dojazdu jest wliczony w cenę diagnostyki?
+
+Nie. Transport nie wchodzi w cenę od 600 zł i nie staje się bezpłatny przy zleceniu naprawy. Jego koszt uzgadniamy przed wyjazdem.
+
+##### Czy można zdiagnozować samą głowicę lasera?
+
+Diagnostyka głowicy jest częścią usługi. Jeśli problem dotyczy wyłącznie manipuły, opisz go podczas zgłoszenia. Możliwość sprawdzenia samej głowicy bez aparatu i warunki takiej kontroli uzgadniamy indywidualnie, zależnie od modelu i objawów.
+
+##### Co otrzymam po wykonaniu diagnostyki?
+
+Otrzymasz ustne wyjaśnienie wyników, pisemny wniosek techniczny oraz zalecenia i propozycję usunięcia stwierdzonej usterki.
+
+##### Czy po diagnostyce muszę zlecić naprawę?
+
+Nie. Decyzję podejmujesz po poznaniu wyników i propozycji. Bez zlecenia naprawy diagnostyka kosztuje od 600 zł, a przy zleceniu naprawy w Laser Tech Service jest bezpłatna. Dojazd w obu sytuacjach jest rozliczany osobno.
+
+#### Usługi serwisowe
+
+- [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+
+#### Powiązane artykuły
+
+- [Dlaczego palą się moduły diodowe w laserach do depilacji? Przyczyny, objawy i konsekwencje](https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/)
+- [Dlaczego regularne czyszczenie układu chłodzenia lasera jest tak ważne? Kurz, awarie wentylatorów i ryzyko przegrzania](https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/)
+
+#### Powiązane realizacje
+
+- [Wymiana modułu diodowego lasera po zalaniu – Poznań](https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
+- [Serwis głowicy lasera diodowego – czyszczenie i przywrócenie szczelności](https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/)
+- [Wymiana wentylatorów chłodzenia lasera i konserwacja urządzenia — Wrocław](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/)
 
 ## Equipment
 
@@ -1250,6 +1626,11 @@ lok. 320
 
 [HTML](https://lasertechservice.pl/ru/uslugi/cennik/)
 
+### Русский
+
+
+[HTML](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
 ### Polski
 
 - Diagnostyka laserów diodowych
@@ -1268,6 +1649,11 @@ lok. 320
 
 
 [HTML](https://lasertechservice.pl/uslugi/cennik/)
+
+### Polski
+
+
+[HTML](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
 ## Repair Cases
 
@@ -2880,10 +3266,13 @@ Serwis znajduje się we Wrocławiu, a zlecenia i wyjazdy serwisowe realizujemy d
 
 [Zobacz zakres usług Laser Tech Service →](https://lasertechservice.pl/uslugi/)
 
+[Diagnostyka laserów diodowych →](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
 #### Powiązane artykuły
 
@@ -3540,10 +3929,13 @@ W tym konkretnym przypadku uszkodzenie powstało po samodzielnej ingerencji i na
 
 [Dlaczego nie warto samodzielnie wymieniać uszczelek w urządzeniu laserowym?](https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/)
 
+[Diagnostyka laserów diodowych →](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
 #### Powiązane artykuły
 
@@ -3722,10 +4114,13 @@ Przeczytaj, [jak kurz wpływa na chłodzenie lasera i dlaczego wentylator trzeba
 
 Zakres diagnostyki, napraw chłodzenia i konserwacji opisujemy na stronie [serwisu urządzeń laserowych i kosmetycznych](https://lasertechservice.pl/uslugi/). Więcej o planowej obsłudze znajdziesz w tekście o [przeglądzie lasera diodowego](https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/) — jego szczegóły zależą od konstrukcji danego aparatu.
 
+[Diagnostyka laserów diodowych →](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
 #### Powiązane artykuły
 
@@ -5341,10 +5736,13 @@ Laser Tech Service выполняет диагностику, ремонт и п
 
 [Посмотреть услуги Laser Tech Service →](https://lasertechservice.pl/ru/uslugi/)
 
+[Диагностика диодных лазеров →](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 
 #### Связанные статьи
 
@@ -6001,10 +6399,13 @@ Laser Tech Service выполняет диагностику, профилакт
 
 [Почему не стоит самостоятельно менять уплотнительные прокладки в лазерном аппарате](https://lasertechservice.pl/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/)
 
+[Диагностика диодных лазеров →](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 
 #### Связанные статьи
 
@@ -6183,10 +6584,13 @@ ESTETECH
 
 Диагностика, ремонт охлаждения и обслуживание описаны на странице [сервиса лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/). Плановый уход также разобран в статье о [техническом обслуживании диодного лазера](https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/); его конкретный объём зависит от конструкции аппарата.
 
+[Диагностика диодных лазеров →](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 
 #### Связанные статьи
 
@@ -6888,10 +7292,17 @@ Ogólne zasady przepływu i ciśnienia, doboru łożysk oraz sygnałów sterowan
 
 Zakres diagnostyki i napraw przedstawiamy na stronie [serwisu urządzeń laserowych](https://lasertechservice.pl/uslugi/). Planową obsługę omawiamy w artykule o [przeglądzie lasera diodowego](https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/). Dla urządzeń z obiegiem cieczy przydatny jest tekst o [wodzie w układzie chłodzenia lasera](https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/); jego zalecenia dotyczą wyłącznie odpowiedniej konstrukcji.
 
+#### Diagnostyka laserów diodowych
+
+Diagnostyka bezpłatna przy zleceniu naprawy. Dojazd specjalisty płatny osobno — również przy zleceniu naprawy.
+
+[Zamów diagnostykę →](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
 #### Powiązane realizacje
 
@@ -7298,10 +7709,17 @@ Nie każda zmiana w pracy lasera oznacza uszkodzenie modułu. Dlatego przed zam�
 
 Moduł musi odpowiadać wymaganiom technicznym konkretnego urządzenia. Problemem może być również jakość samego komponentu. Profesjonalny dobór zmniejsza ryzyko zakupu niewłaściwej części oraz kolejnego przestoju urządzenia.
 
+#### Diagnostyka laserów diodowych
+
+Diagnostyka bezpłatna przy zleceniu naprawy. Dojazd specjalisty płatny osobno — również przy zleceniu naprawy.
+
+[Zamów diagnostykę →](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
 #### Powiązane artykuły
 
@@ -11214,10 +11632,17 @@ Laser Tech Service выполняет [диагностику, ремонт и �
 
 Практический объём диагностики и ремонта приведён на странице [сервиса лазерного оборудования](https://lasertechservice.pl/ru/uslugi/). Плановое обслуживание разобрано в статье о [техническом обслуживании диодного лазера](https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/). Для аппаратов с жидкостным контуром полезен материал о [воде в системе охлаждения лазера](https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/); его рекомендации применимы только к соответствующей конструкции.
 
+#### Диагностика диодных лазеров
+
+Диагностика бесплатно при заказе ремонта. Выезд специалиста оплачивается отдельно — в том числе при заказе ремонта.
+
+[Заказать диагностику →](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 
 #### Связанные работы
 
@@ -11959,10 +12384,17 @@ Laser Tech Service занимается диагностикой, ремонто
 
 Модуль должен соответствовать техническим требованиям конкретного аппарата. Кроме того, значение имеет качество самого компонента. Профессиональный подбор снижает риск покупки неподходящей детали и повторного простоя оборудования.
 
+#### Диагностика диодных лазеров
+
+Диагностика бесплатно при заказе ремонта. Выезд специалиста оплачивается отдельно — в том числе при заказе ремонта.
+
+[Заказать диагностику →](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 
 #### Связанные статьи
 
@@ -12855,3 +13287,4 @@ lok. 320
 - [Polski: Wymiana wentylatorów chłodzenia lasera i konserwacja urządzenia — Wrocław](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/) — [Русский](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/)
 - [Polski: Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/) — [Русский](https://lasertechservice.pl/ru/uslugi/)
 - [Polski: Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/) — [Русский](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Polski: Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/) — [Русский](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
