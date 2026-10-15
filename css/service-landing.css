@@ -40,3 +40,8 @@
 @media (min-width: 1024px) {
  .service-landing .service-cases-grid { grid-template-columns: repeat(var(--case-columns, 4), minmax(0, 1fr)); }
 }
+
+/* Decorative icons share the site's gold and do not replace the heading text. */
+.service-landing .service-card-heading { display: flex; align-items: flex-start; gap: 12px; }
+.service-landing .service-card-icon { flex: 0 0 30px; width: 30px; height: 30px; color: var(--gold-dark); }
+.service-landing .service-card-heading > span { min-width: 0; }
