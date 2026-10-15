@@ -4330,3 +4330,26 @@ button.btn {
     .services-page .contact-card { min-width: 0; }
 }
 .services-page .header__title, .services-page .contact-section__title { overflow-wrap: anywhere; }
+
+/* Space the price-list action from its introductory text in both locales. */
+.services-pricing-cta > .btn { margin-top: 24px; }
+
+/* Keep the complete email readable in shared contact cards, in every locale. */
+.contact-card__primary[href^="mailto:"] {
+    white-space: nowrap;
+    overflow-wrap: normal;
+    word-break: normal;
+    font-size: clamp(14px, 4vw, 16px);
+}
+@media (min-width: 1200px) {
+    .contact-card__primary[href^="mailto:"] { font-size: 14px; }
+}
+@media (min-width: 901px) and (max-width: 1199px) {
+    .contact-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+/* Preserve the shared icon-left mobile layout while keeping the address intact. */
+@media (max-width: 650px) {
+    .contact-card__content { min-width: 0; }
+    .contact-card .contact-card__primary[href^="mailto:"] { font-size: clamp(12px, 3.3vw, 16px); }
+}

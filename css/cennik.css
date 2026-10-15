@@ -47,8 +47,6 @@
 
 /* Keep the full email address readable without splitting its letters. */
 .price-page .contact-grid { grid-template-columns: minmax(0, 1fr); }
-.price-page .price-email { display: block; }
-.price-email .contact-card__icon { margin-bottom: 18px; }
 .price-email .contact-card__primary { white-space: nowrap; overflow-wrap: normal; font-size: clamp(14px, 4vw, 16px); }
 @media (min-width: 651px) {
     .price-page .contact-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
