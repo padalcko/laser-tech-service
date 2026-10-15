@@ -10,15 +10,21 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/)
 
 Praktyczna wiedza o serwisie, diagnostyce, naprawach i eksploatacji urządzeń laserowych oraz kosmetycznych.
 
+Chłodzenie i serwis15 października 2026
+
+## [Moduł Peltiera: dlaczego głowica lasera nie chłodzi?](https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/)
+
+Jak działa moduł Peltiera w głowicy lasera? Objawy usterek, rola termopasty, odprowadzanie ciepła i znaczenie diagnostyki przed wymianą TEC.
+
 Serwis i konserwacja14 października 2026
 
-## [Lumenis LightSheer DESIRE po 10 latach – dlaczego laser za 200 000 zł nadal może pracować niezawodnie?](https://lasertechservice.pl/blog/lightsheer-desire-chlodzenie-niezawodnosc/)
+## [LightSheer DESIRE: chłodzenie i niezawodność po 10 latach](https://lasertechservice.pl/blog/lightsheer-desire-chlodzenie-niezawodnosc/)
 
 LightSheer DESIRE, technologia HIT i ChillTip: jak chłodzenie, osady oraz uszczelnienia wpływają na niezawodność? Wnioski z naprawy w Oleśnicy.
 
 Zakup i diagnostyka12 października 2026
 
-## [Jak prawidłowo kupić używany laser kosmetyczny i nie stracić pieniędzy?](https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/)
+## [Jak kupić używany laser kosmetyczny i nie stracić pieniędzy?](https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/)
 
 Planujesz zakup używanego lasera do depilacji? Sprawdź stan diody, historię serwisową i koszty napraw. Porady Laser Tech Service i oferty LTS Market.
 
@@ -131,6 +137,7 @@ Gwarancja, dokumentacja wykonanych prac, historia serwisowa, możliwość szybki
 
 ## Powiązane artykuły
 
+- [Moduł Peltiera w głowicy lasera – jak działa chłodzenie i dlaczego przestaje działać?](https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/)
 - [Lumenis LightSheer DESIRE po 10 latach – dlaczego laser za 200 000 zł nadal może pracować niezawodnie?](https://lasertechservice.pl/blog/lightsheer-desire-chlodzenie-niezawodnosc/)
 - [Jak prawidłowo kupić używany laser kosmetyczny i nie stracić pieniędzy?](https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/)
 - [Dlaczego regularne czyszczenie układu chłodzenia lasera jest tak ważne? Kurz, awarie wentylatorów i ryzyko przegrzania](https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/)

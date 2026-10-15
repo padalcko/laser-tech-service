@@ -1,0 +1,574 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <title>Модуль Пельтье: не охлаждается манипула лазера | LTS</title>
+    <meta name="author" content="Laser Tech Service" />
+    <link rel="canonical" href="https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/" />
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Laser Tech Service" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/" />
+    <link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/" />
+    <link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/" />
+    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="stylesheet" href="/css/blog.css" />
+    
+    
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-5STE4YVSDH"
+    ></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+
+      gtag("js", new Date());
+      gtag("config", "G-5STE4YVSDH");
+    </script>
+<script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+
+        w[l].push({
+          "gtm.start": new Date().getTime(),
+          event: "gtm.js",
+        });
+
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-PT7BMHKW");
+    </script>
+<script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+
+        w[l].push({
+          "gtm.start": new Date().getTime(),
+          event: "gtm.js",
+        });
+
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-MF33VG4R");
+    </script>
+<script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=AW-17614450660"
+    ></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+
+      gtag("js", new Date());
+      gtag("config", "AW-17614450660");
+    </script>
+  
+<meta name="description" content="Как работает модуль Пельтье в лазерной манипуле: симптомы неисправностей, роль термопасты, отвод тепла и диагностика перед заменой TEC." />
+<meta property="og:title" content="Модуль Пельтье: не охлаждается манипула лазера | LTS" />
+<meta property="og:description" content="Как работает модуль Пельтье в лазерной манипуле: симптомы неисправностей, роль термопасты, отвод тепла и диагностика перед заменой TEC." />
+<meta property="og:url" content="https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Laser Tech Service" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:locale:alternate" content="pl_PL" />
+<meta property="og:image" content="https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-demontaz-wezla-chlodzenia.webp" />
+<meta property="og:image:width" content="864" />
+<meta property="og:image:height" content="1536" />
+<meta property="og:image:alt" content="Демонтированные детали узла контактного охлаждения манипулы ESTETECH" />
+<meta property="article:published_time" content="2026-10-15" />
+<meta property="article:modified_time" content="2026-10-15" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Модуль Пельтье: не охлаждается манипула лазера | LTS" />
+<meta name="twitter:description" content="Как работает модуль Пельтье в лазерной манипуле: симптомы неисправностей, роль термопасты, отвод тепла и диагностика перед заменой TEC." />
+<meta name="twitter:image" content="https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-demontaz-wezla-chlodzenia.webp" />
+<meta name="twitter:image:alt" content="Демонтированные детали узла контактного охлаждения манипулы ESTETECH" />
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/#article",
+  "headline": "Модуль Пельтье в лазерной манипуле: как работает охлаждение и почему оно выходит из строя",
+  "description": "Как работает модуль Пельтье в лазерной манипуле: симптомы неисправностей, роль термопасты, отвод тепла и диагностика перед заменой TEC.",
+  "image": [
+    "https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-demontaz-wezla-chlodzenia.webp"
+  ],
+  "inLanguage": "ru-RU",
+  "datePublished": "2026-10-15",
+  "dateModified": "2026-10-15",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/"
+  },
+  "author": {
+    "@type": "Organization",
+    "@id": "https://lasertechservice.pl/#organization",
+    "name": "Laser Tech Service",
+    "url": "https://lasertechservice.pl/"
+  },
+  "publisher": {
+    "@id": "https://lasertechservice.pl/#organization"
+  }
+}</script>
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Главная",
+      "item": "https://lasertechservice.pl/ru/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Блог",
+      "item": "https://lasertechservice.pl/ru/blog/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Модуль Пельтье в лазерной манипуле: как работает охлаждение и почему оно выходит из строя",
+      "item": "https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/"
+    }
+  ]
+}</script>
+<!-- AI resources: generated -->
+    <link rel="alternate" type="text/markdown" href="https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/index.md" />
+    <link rel="describedby" href="/llms.txt" />
+<!-- /AI resources -->
+</head>
+
+  <body class="ru">
+    <!-- GTM NOSCRIPT - OLD -->
+
+    <noscript>
+      <iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-PT7BMHKW"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe>
+    </noscript>
+
+    <!-- GTM NOSCRIPT - NEW -->
+
+    <noscript>
+      <iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-MF33VG4R"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe>
+    </noscript>
+
+    <!-- =====================================================
+         01. FLOATING SOCIAL MENU
+    ====================================================== -->
+
+    <div class="menu">
+      <menu>
+        <a
+          href="https://www.instagram.com/lasertech.service/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="action"
+          aria-label="Instagram Laser Tech Service"
+        >
+          <img
+            src="/img/icons/instagram2.svg"
+            alt="Instagram Laser Tech Service"
+          />
+        </a>
+
+        <a
+          href="https://www.facebook.com/share/1CPgxschrT/?mibextid=wwXIfr"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="action"
+          aria-label="Facebook Laser Tech Service"
+        >
+          <img
+            src="/img/icons/facebook2.svg"
+            alt="Facebook Laser Tech Service"
+          />
+        </a>
+
+        <a
+          href="https://wa.me/48790402597"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="action"
+          aria-label="WhatsApp Laser Tech Service"
+        >
+          <img
+            src="/img/icons/whatsapp2.svg"
+            alt="WhatsApp Laser Tech Service"
+          />
+        </a>
+
+        <a
+          href="https://t.me/lasertechservice"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="action"
+          aria-label="Telegram Laser Tech Service"
+        >
+          <img
+            src="/img/icons/telegram2.svg"
+            alt="Telegram Laser Tech Service"
+          />
+        </a>
+
+        <a
+          href="tel:+48790402597"
+          class="action"
+          aria-label="Позвонить в Laser Tech Service"
+        >
+          <img src="/img/icons/phone.svg" alt="Телефон Laser Tech Service" />
+        </a>
+
+        <button
+          type="button"
+          class="trigger pulse"
+          aria-label="Открыть меню контактов"
+        >
+          <img
+            src="/img/icons/social.svg"
+            alt="Меню контактов Laser Tech Service"
+          />
+        </button>
+      </menu>
+    </div>
+
+    <!-- =====================================================
+         02. NAVIGATION
+    ====================================================== -->
+
+    <nav class="nav" id="siteNav" aria-label="Основная навигация">
+      <div class="container">
+        <div class="nav-row">
+          <a
+            href="/ru/"
+            class="logo"
+            aria-label="Laser Tech Service — главная страница"
+          >
+            <span class="brand-laser-tech"> LASER TECH </span>
+            <span class="brand-service"> SERVICE </span>
+          </a>
+
+          <ul class="nav-list" id="primaryNavigation">
+            <li class="nav-list__item">
+              <a
+                href="/ru/"
+                class="nav-list__link"
+              >
+                Главная
+              </a>
+            </li>
+
+            <li class="nav-list__item nav-services"><div class="nav-services__row"><a href="/ru/uslugi/" class="nav-list__link"> Услуги </a><button class="nav-submenu-toggle" type="button" aria-label="Подменю услуг" aria-expanded="false" aria-controls="servicesSubmenu" hidden><span aria-hidden="true">▾</span></button></div><ul class="nav-submenu" id="servicesSubmenu" hidden><li><a href="/ru/uslugi/cennik/">Прайс-лист</a></li></ul></li>
+
+            <li class="nav-list__item">
+              <a href="/ru/realizacje/" class="nav-list__link"> Реализации </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a href="/ru/blog/" class="nav-list__link nav-list__link--active" aria-current="location"> Блог </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a
+                href="https://ltsmarket.pl/"
+                class="nav-list__link"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                LTS Market
+              </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a href="/ru/partnerzy/" class="nav-list__link"> Партнёры </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a href="/ru/kontakt/" class="nav-list__link"> Контакты </a>
+            </li>
+          </ul>
+
+          <div class="language-switcher" aria-label="Выбор языка">
+            <a href="/blog/modul-peltiera-chlodzenie-glowicy-lasera/" class="language-switcher__link" lang="pl" hreflang="pl">
+              PL
+            </a>
+
+            <span class="language-switcher__separator" aria-hidden="true">
+              /
+            </span>
+
+            <a
+              href="/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/"
+              class="language-switcher__link language-switcher__link--active"
+              lang="ru"
+              hreflang="ru"
+              aria-current="page"
+            >
+              RU
+            </a>
+          </div>
+
+          <button
+            class="nav-toggle"
+            type="button"
+            aria-label="Открыть меню"
+            aria-controls="primaryNavigation"
+            aria-expanded="false"
+          >
+            <span class="nav-toggle__line"></span>
+            <span class="nav-toggle__line"></span>
+            <span class="nav-toggle__line"></span>
+          </button>
+        </div>
+      </div>
+    </nav>
+
+    <!-- =====================================================
+         03. ARTICLE
+    ====================================================== -->
+
+    <main class="article-page"><article class="article"><div class="container"><nav class="article-breadcrumbs" aria-label="Блог"><a href="/ru/">Главная</a><span aria-hidden="true">/</span><a href="/ru/blog/">Блог</a><span aria-hidden="true">/</span><span aria-current="page">ESTETECH · Peltier</span></nav><header class="article-header"><span class="article-category">Охлаждение и сервис</span><h1>Модуль Пельтье в лазерной манипуле: как работает охлаждение и почему оно выходит из строя</h1><p class="article-lead">Отсутствие охлаждения контактной поверхности не указывает однозначно на повреждённую деталь. Разбираем роль TEC, теплоотвода и термоинтерфейса, а также необходимость проверки всей системы перед заменой.</p><div class="article-meta"><span>Laser Tech Service</span><time datetime="2026-10-15">15 октября 2026</time></div></header><div class="article-content"><h2>Что такое модуль Пельтье?</h2>
+<p>Модуль Пельтье, также называемый TEC, — термоэлектрический элемент, который при прохождении тока переносит тепло между двумя сторонами. Он использует эффект Пельтье: ток через соединения разных материалов сопровождается поглощением или выделением тепла. В типовом полупроводниковом модуле множество таких элементов расположено между керамическими пластинами.</p>
+<p>При охлаждении одна сторона забирает тепло у охлаждаемого узла, а другая передаёт его дальше. Названия «холодная» и «горячая» описывают назначение сторон, а не постоянные значения температуры. Для работы необходимы электрическое питание и эффективный отвод тепла. TEC нельзя рассматривать как автономный холодильник, которому подходит любой источник напряжения.</p>
+<p>Устройство элемента описано в <a href="https://thermal.ferrotec.com/technology/thermoelectric-reference-guide/thermalRef02/">технической документации Ferrotec</a>. Такие модули применяются в контактном охлаждении косметологического оборудования, но установлены не во всех лазерных аппаратах. Схему конкретной манипулы нужно уточнять по документации устройства, а не по внешнему сходству корпуса.</p>
+<h2>Зачем модуль Пельтье нужен в лазерной манипуле?</h2>
+<p>В конструкции с TEC охлаждаемая контактная поверхность помогает контролировать температуру кожи во время процедуры. Это важно для комфорта пациента и уменьшения нежелательного теплового воздействия. При этом исправное охлаждение не заменяет правильный выбор параметров процедуры, подготовку оператора и соблюдение требований производителя.</p>
+<p>Система охлаждения лазерного аппарата работает как единый комплекс. Тепло проходит от контактной поверхности через термоинтерфейс и модуль к теплоотводящему узлу. В зависимости от конструкции далее участвуют контур жидкости, теплообменник и вентиляция. Электропитание, температурные датчики и контроллер обеспечивают условия работы и регулирование.</p>
+<p>Горячая сторона должна рассеивать не только тепло, забранное у охлаждаемого участка, но и подведённую электрическую энергию. Поэтому исправный TEC не компенсирует недостаточный теплоотвод. Эта зависимость разобрана в <a href="https://thermal.ferrotec.com/technology/thermoelectric-reference-guide/thermalRef05/">материале Ferrotec об отводе тепла</a>. Если контактное охлаждение ухудшилось, использование манипулы следует прекратить до проверки специалистом.</p>
+<figure class="article-image" style="max-width: 360px;"><img src="/img/realizacje/estetech-peltier-poznan/estetech-demontaz-wezla-chlodzenia.webp" srcset="/img/realizacje/estetech-peltier-poznan/estetech-demontaz-wezla-chlodzenia-480w.webp 480w, /img/realizacje/estetech-peltier-poznan/estetech-demontaz-wezla-chlodzenia-768w.webp 768w, /img/realizacje/estetech-peltier-poznan/estetech-demontaz-wezla-chlodzenia.webp 864w" sizes="(max-width: 400px) calc(100vw - 40px), 360px" width="864" height="1536" alt="Демонтированные детали узла контактного охлаждения манипулы ESTETECH" decoding="async" loading="lazy" /><figcaption>Демонтированные детали узла контактного охлаждения манипулы ESTETECH.</figcaption></figure>
+<h2>Почему модуль Пельтье выходит из строя?</h2>
+<p>Возможные механизмы отказа необходимо отделять от диагноза конкретного аппарата. Следующий перечень показывает направления профессиональной проверки. Он не означает, что все перечисленные проблемы обнаружены в аппарате ESTETECH, о ремонте которого рассказано ниже.</p>
+<ul>
+<li><strong>Перегрев:</strong> недостаточный отвод тепла от горячей стороны может вывести модуль за пределы допустимых условий работы.</li>
+<li><strong>Неисправность жидкостного контура:</strong> отказ насоса, засорение или недостаточный поток ухудшают охлаждение узла, если конструкция использует циркуляцию жидкости.</li>
+<li><strong>Нарушение теплового контакта:</strong> неровности, загрязнение или неправильный прижим мешают передаче тепла между поверхностями.</li>
+<li><strong>Проблема термоинтерфейса:</strong> неподходящий, деградировавший или неправильно нанесённый материал может увеличивать тепловое сопротивление соединения.</li>
+<li><strong>Электрическая неисправность:</strong> нарушение питания, повреждение проводки или соединения способно остановить охлаждение без повреждения самого TEC.</li>
+<li><strong>Механическое повреждение:</strong> удар, напряжения или неравномерная нагрузка могут повредить хрупкие элементы модуля.</li>
+<li><strong>Длительная эксплуатация:</strong> повторяющиеся изменения температуры нагружают материалы и соединения. Последствия зависят от конструкции и диапазона изменений.</li>
+</ul>
+<p>Возраст аппарата сам по себе не определяет состояние элемента. В <a href="https://thermal.ferrotec.com/technology/thermoelectric-reference-guide/thermalRef10/">материале о надёжности Ferrotec</a> разделяет стабильный режим и нагрузку при термоциклировании. Результаты испытаний определённого TEC нельзя автоматически переносить на срок службы неизвестной детали в лазерной манипуле.</p>
+<h2>Какие симптомы указывают на проблему охлаждения?</h2>
+<p>Не охлаждается манипула лазера, контактная поверхность остаётся тёплой или охлаждение работает нестабильно. Ещё один признак — температура не достигает заданного значения. Если соответствующая функция предусмотрена производителем, аппарат может сообщать об ошибке температуры или охлаждения. Однако отсутствие сообщения не доказывает исправность системы.</p>
+<p>Аналогичные симптомы возможны при неисправности циркуляционного насоса, загрязнении каналов, недостаточном потоке жидкости, проблемах датчика температуры, блока питания или управляющей электроники. Значение на экране не обязательно показывает температуру контактной поверхности: это зависит от расположения датчика и принципа отображения данных.</p>
+<p><strong>Отсутствие охлаждения не означает автоматически неисправность модуля Пельтье. Нужна профессиональная диагностика лазерного оборудования.</strong> Специалист разделяет проблемы теплоотвода, питания, управления и самого элемента. Замена детали только по одному внешнему признаку может оставить действительную причину без устранения.</p>
+<h2>Почему важно правильно подобрать термопасту?</h2>
+<p>Даже визуально гладкие поверхности имеют микронеровности. Термоинтерфейс уменьшает влияние воздушных промежутков и помогает передавать тепло через соединение. Он не должен заменять правильное сопряжение поверхностей или компенсировать механическое повреждение узла. Материал выбирают с учётом конструкции, совместимости и условий работы.</p>
+<p>Избыток пасты может образовать лишний слой с повышенным тепловым сопротивлением. Неподходящий состав может не отвечать требованиям узла, а неполный контакт ухудшает теплопередачу. Универсальной пасты и единого способа её применения для всех лазерных манипул не существует. Наличие пасты на детали ещё не подтверждает качество теплового соединения.</p>
+<p><a href="https://thermal.ferrotec.com/technology/thermoelectric-reference-guide/thermalRef06/">Рекомендации Ferrotec по монтажу</a> подчёркивают значение контактных поверхностей. При ремонте аппарата необходимо соблюдать требования производителя конкретного узла к термоинтерфейсу и креплению. Фотография тюбика с составом не является спецификацией материала и не даёт оснований использовать его в другом устройстве.</p>
+<figure class="article-image" style="max-width: 360px;"><img src="/img/realizacje/estetech-peltier-poznan/estetech-lutowanie-przewodow.webp" srcset="/img/realizacje/estetech-peltier-poznan/estetech-lutowanie-przewodow-480w.webp 480w, /img/realizacje/estetech-peltier-poznan/estetech-lutowanie-przewodow-768w.webp 768w, /img/realizacje/estetech-peltier-poznan/estetech-lutowanie-przewodow.webp 864w" sizes="(max-width: 400px) calc(100vw - 40px), 360px" width="864" height="1536" alt="Пайка провода в открытой манипуле ESTETECH во время ремонта" decoding="async" loading="lazy" /><figcaption>Пайка провода в открытой манипуле ESTETECH во время ремонта.</figcaption></figure>
+<h2>Почему не стоит самостоятельно менять модуль Пельтье?</h2>
+<p>Внешнее сходство не подтверждает взаимозаменяемость. Важны напряжение и ток, размеры, толщина, способность переносить тепло и условия на обеих сторонах. Одного заявленного значения мощности недостаточно для выбора. Эти взаимосвязи рассматривает <a href="https://thermal.ferrotec.com/technology/thermoelectric-reference-guide/thermalRef09/">руководство по подбору TEC-модуля</a>.</p>
+<p>Неправильная полярность может изменить направление переноса тепла. Ошибки установки и неравномерный прижим способны повредить керамические пластины или ухудшить тепловой контакт. Несовместимый элемент может неправильно взаимодействовать с существующим контроллером. В результате возможны повторный отказ и повреждение манипулы.</p>
+<p>Ремонт лазерной манипулы требует оценки всего узла и проверки после сборки. Открытие корпуса, работа с проводкой и подбор элемента не относятся к обычному обслуживанию оператором. Объём вмешательства определяет <a href="/ru/uslugi/">сервис косметологического оборудования</a> по документации и состоянию аппарата. Обход защит и запуск разобранного оборудования не являются способом самостоятельной проверки.</p>
+<h2>Реальный случай: ремонт ESTETECH в Познани</h2>
+<p>У лазерного аппарата ESTETECH рабочая поверхность манипулы перестала нормально охлаждаться. Во время выездной диагностики в Познани подтверждена неисправность модуля Пельтье. Специалисты заменили его совместимым элементом, обновили термоинтерфейс, восстановили электрические соединения и провели техническое обслуживание. После сборки проверили работу аппарата и охлаждения. Оборудование вернули в эксплуатацию.</p>
+<p>В <a href="/ru/realizacje/zamena-modulya-pelte-estetech-poznan/">описании замены элемента Пельтье в ESTETECH</a> опубликованы фотографии работ. Подтверждённой причиной отсутствия охлаждения был неисправный TEC. Почему вышел из строя сам элемент, в исходных данных не установлено. Поэтому этому ремонту не приписываются отказ насоса, перегрев или применение неправильной термопасты.</p>
+<h2>Как снизить риск неисправностей охлаждения?</h2>
+<p>Периодическое обслуживание лазерных аппаратов планируют с учётом конструкции и интенсивности эксплуатации. Для жидкостной системы важны циркуляция, чистота контура, состояние соединений и применение рекомендованной производителем жидкости. Подробности разобраны в статье о <a href="/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/">воде и обслуживании системы охлаждения</a>.</p>
+<p>Оператору следует контролировать показания и сообщения в пределах инструкции, сообщать об изменении работы манипулы и сохранять историю обслуживания. Нельзя выбирать жидкость, добавки или интервалы замены по рекомендациям для другого аппарата. Проверка температуры не должна превращаться в испытание неисправной манипулы на коже.</p>
+<p>Полезно записывать дату обслуживания, использованную жидкость и замеченные отклонения. Если история аппарата неизвестна, лучше передать эту информацию специалисту, чем восполнять пробелы предположениями. Сохранённые сообщения об ошибках помогают обсуждать неисправность предметно. При этом фотографии и записи оператора дополняют профессиональную проверку, но не заменяют её.</p>
+<p><a href="/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/">Плановый технический осмотр</a> помогает оценить состояние оборудования до усиления симптомов. Другая возможная неисправность показана в <a href="/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/">ремонте вентиляторов во Вроцлаве</a>. Этот пример не подтверждает такую же причину в ESTETECH: одинаковая жалоба может требовать разных ремонтных работ.</p>
+<h2>Когда обращаться в сервис?</h2>
+<p>Если контактная поверхность недостаточно охлаждается, прекратите использование манипулы до проверки специалистом. Сообщите обозначение аппарата, характер симптомов, точный текст ошибки и историю обслуживания. Уточните, возникает ли проблема сразу после включения или спустя некоторое время. Это помогает подготовить диагностику, но не позволяет определить неисправную деталь дистанционно с уверенностью.</p>
+<p>Не стоит продолжать процедуры в расчёте на то, что охлаждение восстановится самостоятельно. Также не следует оценивать исправность только по работающему дисплею или отсутствию предупреждений. Для возвращения оборудования к работе необходимо установить причину отклонения и проверить результат ремонта в соответствии с устройством конкретного аппарата.</p>
+<p>Ремонт косметологических лазеров и ремонт охлаждения лазера зависят от обнаруженной неисправности. <a href="/ru/uslugi/cennik/">Прайс-лист услуг</a> служит ориентиром; стоимость конкретной работы определяется после уточнения её объёма. Ремонт лазеров в Познани и выезд специалиста можно согласовать через <a href="/ru/kontakt/">контакты Laser Tech Service</a>.</p>
+<div class="article-cta"><h2>Манипула лазера перестала охлаждаться? Закажите диагностику и ремонт.</h2><div class="article-cta__actions"><a class="article-cta__button" href="/ru/kontakt/">Связаться с сервисом</a></div></div><div class="article-signature">Laser Tech Service</div><div class="article-back"><a href="/ru/blog/">Блог</a></div></div></div></article></main>
+
+    <!-- =====================================================
+         04. FOOTER
+    ====================================================== -->
+
+    <footer class="footer">
+      <div class="container">
+        <div class="footer__main">
+          <div class="footer__company">
+            <a
+              href="/ru/"
+              class="footer__brand"
+              aria-label="Laser Tech Service"
+            >
+              <span class="brand-laser-tech"> LASER TECH </span>
+
+              <span class="brand-service"> SERVICE </span>
+            </a>
+
+            <p class="footer__description">
+              Профессиональный сервис лазерного и косметологического
+              оборудования. Диагностика, ремонт, восстановление и техническое
+              обслуживание по всей территории Польши.
+            </p>
+
+            <div class="footer__social">
+              <a
+                href="https://www.instagram.com/lasertech.service/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Instagram Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-instagram.svg"
+                  alt="Instagram Laser Tech Service"
+                />
+              </a>
+
+              <a
+                href="https://wa.me/48790402597"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="WhatsApp Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-whatsapp.svg"
+                  alt="WhatsApp Laser Tech Service"
+                />
+              </a>
+
+              <a
+                href="https://www.facebook.com/share/1CPgxschrT/?mibextid=wwXIfr"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Facebook Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-facebook.svg"
+                  alt="Facebook Laser Tech Service"
+                />
+              </a>
+
+              <a
+                href="https://t.me/lasertechservice"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Telegram Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-telegram.svg"
+                  alt="Telegram Laser Tech Service"
+                />
+              </a>
+            </div>
+          </div>
+
+          <div class="footer__column">
+            <h3 class="footer__heading">Контакты</h3>
+
+            <ul class="footer__contact-list">
+              <li>
+                <span class="footer__label"> Телефон </span>
+
+                <a href="tel:+48790402597"> +48 790 402 597 </a>
+              </li>
+
+              <li>
+                <span class="footer__label"> WhatsApp </span>
+
+                <a
+                  href="https://wa.me/48790402597"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Написать нам
+                </a>
+              </li>
+
+              <li>
+                <span class="footer__label"> E-mail </span>
+
+                <a href="mailto:contact@lasertechservice.pl">
+                  contact@lasertechservice.pl
+                </a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="footer__column footer__company-data">
+            <h3 class="footer__heading">Данные компании</h3>
+
+            <address>
+              Laser Tech Service sp. z o.o.
+              <br />
+              Marsz. Józefa Piłsudskiego 74 lok. 320
+              <br />
+              50-020 Wrocław
+            </address>
+
+            <dl class="footer__legal-data">
+              <div>
+                <dt>NIP</dt>
+                <dd>8971959502</dd>
+              </div>
+
+              <div>
+                <dt>KRS</dt>
+                <dd>0001193879</dd>
+              </div>
+
+              <div>
+                <dt>REGON</dt>
+                <dd>542701591</dd>
+              </div>
+            </dl>
+          </div>
+        </div>
+
+        <div class="footer__bottom">
+          <p class="footer__copyright">© 2026 Laser Tech Service sp. z o.o.</p>
+
+          <p class="footer__creator">
+            Created by
+
+            <a
+              href="https://raccoon-studio.com.ua/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Raccoon Studio
+            </a>
+
+            © 2026
+          </p>
+        </div>
+      </div>
+    </footer>
+
+    <!-- =====================================================
+         JAVASCRIPT
+    ====================================================== -->
+
+    <script src="/js/main.js"></script>
+  </body>
+</html>

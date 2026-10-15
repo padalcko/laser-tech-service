@@ -76,6 +76,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/blog/lightsheer-desire-chlodzenie-niezawodnosc/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/blog/modul-peltiera-chlodzenie-glowicy-lasera/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /blog/pharaon-1470-historia-technologia-lasera/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -216,6 +221,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/realizacje/wymiana-modulu-peltiera-estetech-poznan/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -270,6 +280,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -435,6 +450,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/realizacje/zamena-modulya-pelte-estetech-poznan/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/index.md
   Content-Type: text/markdown; charset=utf-8

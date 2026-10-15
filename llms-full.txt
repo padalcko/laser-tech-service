@@ -3549,6 +3549,101 @@ W tym konkretnym przypadku uszkodzenie powstało po samodzielnej ingerencji i na
 
 - [Dlaczego nie warto samodzielnie wymieniać uszczelek w urządzeniu laserowym?](https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/)
 
+### Wymiana modułu Peltiera w głowicy lasera ESTETECH – naprawa chłodzenia w Poznaniu
+
+Źródło HTML: [Wymiana modułu Peltiera w głowicy lasera ESTETECH – naprawa chłodzenia w Poznaniu](https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/)
+
+Język: Polski
+
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/)
+
+> Wyjazdowa naprawa ESTETECH w Poznaniu: wymiana modułu Peltiera, odnowienie termointerfejsu i przywrócenie chłodzenia manipuły. Zobacz przebieg prac.
+
+Autor: Laser Tech Service
+
+Data publikacji: 2026-10-15
+
+ESTETECH
+
+Wyjazdowa naprawa ESTETECH w Poznaniu: wymiana modułu Peltiera, odnowienie termointerfejsu i przywrócenie chłodzenia manipuły. Zobacz przebieg prac.
+
+![Zdemontowane elementy węzła chłodzenia kontaktowego manipuły ESTETECH](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-demontaz-wezla-chlodzenia.webp)
+
+- Urządzenie: ESTETECH
+
+- Miejsce: Poznań, Polska
+
+- Tryb: Serwis wyjazdowy
+
+- Przyczyna: Niesprawny moduł Peltiera
+
+#### Problem: powierzchnia głowicy nie chłodziła prawidłowo
+
+Klient w Poznaniu zgłosił niesprawność kontaktowego chłodzenia manipuły lasera ESTETECH. Powierzchnia robocza przestała się odpowiednio chłodzić, co uniemożliwiało normalne użytkowanie głowicy. Kontaktowe chłodzenie pomaga kontrolować temperaturę skóry podczas procedury, zwiększa komfort i ogranicza ryzyko niepożądanego oddziaływania cieplnego.
+
+#### Diagnostyka u klienta w Poznaniu
+
+Specjaliści Laser Tech Service przyjechali bezpośrednio do klienta. Diagnostyka wykazała niesprawność termoelektrycznego modułu Peltiera. Ten element pod wpływem prądu przenosi ciepło z chłodzonej strony na stronę, z której odbiera je dalsza część układu.
+
+W tym zleceniu potwierdzono uszkodzenie modułu jako przyczynę braku prawidłowego chłodzenia. Sam objaw nie pozwala jednak wskazać TEC w każdym urządzeniu: podobny problem może mieć inne źródło i wymaga profesjonalnej diagnostyki. Nie określamy przyczyny uszkodzenia samego modułu bez dodatkowych danych.
+
+#### Wymiana modułu Peltiera i obsługa techniczna
+
+Naprawa głowicy lasera objęła następujące czynności wykonane przez serwis:
+
+1. Demontaż obudowy manipuły.
+2. Uzyskanie dostępu do zespołu kontaktowego chłodzenia.
+3. Demontaż niesprawnego modułu termoelektrycznego.
+4. Przygotowanie powierzchni kontaktowych.
+5. Montaż nowego kompatybilnego modułu Peltiera.
+6. Odnowienie pasty termoprzewodzącej dla prawidłowego kontaktu cieplnego.
+7. Odtworzenie połączeń elektrycznych.
+8. Złożenie manipuły.
+9. Obsługę techniczną urządzenia.
+10. Sprawdzenie działania aparatu i chłodzenia.
+
+Dokumentacja zdjęciowa pokazuje dostęp do wnętrza głowicy, rozebrany węzeł chłodzenia oraz prace przy przewodach. Jest zapisem realizacji serwisowej, nie instrukcją samodzielnej wymiany.
+
+#### Rezultat: przywrócone chłodzenie i praca aparatu
+
+Po wymianie niesprawnego modułu Peltiera i wykonaniu obsługi technicznej przywróciliśmy działanie chłodzenia. Aparat ESTETECH wrócił do pracy. Serwis wyjazdowy pozwolił wykonać naprawę w Poznaniu bez transportowania całego urządzenia do warsztatu.
+
+#### Dlaczego ocena całego układu ma znaczenie?
+
+Artykuł [o module Peltiera i niesprawnym chłodzeniu głowicy](https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/) wyjaśnia działanie TEC, rolę termointerfejsu i możliwe źródła podobnych objawów. Zakres [diagnostyki, naprawy laserów kosmetycznych, napraw manipuł i konserwacji](https://lasertechservice.pl/uslugi/) dobieramy do konkretnego urządzenia.
+
+Inny problem z chłodzeniem przedstawia [realizacja wymiany wentylatorów we Wrocławiu](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/). Zasady planowej obsługi opisuje tekst o [płynie w układzie chłodzenia](https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/). Orientacyjny zakres kosztów znajdziesz w [cenniku serwisu urządzeń kosmetycznych](https://lasertechservice.pl/uslugi/cennik/).
+
+#### Zdjęcia z naprawy
+
+Wybierz zdjęcie, aby zobaczyć szczegóły.
+
+![Otwarta obudowa manipuły ESTETECH z przewodami i metalowym zespołem wewnętrznym](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp)
+
+![Wnętrze głowicy ESTETECH z płytką elektroniczną, okablowaniem i przyłączami](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-wnetrze-glowicy.webp)
+
+![Obudowa aparatu laserowego z oznaczeniem ESTETECH podczas serwisu w Poznaniu](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-aparat-poznan.webp)
+
+![Serwisant trzyma rozebrany zespół głowicy i element z prostokątnym otworem](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-powierzchnie-kontaktowe.webp)
+
+![Lutowanie przewodu w otwartej manipule ESTETECH podczas naprawy](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-lutowanie-przewodow.webp)
+
+![Odsłonięte połączenia przewodów przy rozebranym zespole chłodzenia ESTETECH](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-polaczenia-elektryczne.webp)
+
+#### Usługi serwisowe
+
+- [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+
+#### Powiązane artykuły
+
+- [Moduł Peltiera w głowicy lasera – jak działa chłodzenie i dlaczego przestaje działać?](https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/)
+- [Woda w laserze do depilacji – dlaczego jej wymiana i regularny serwis są tak ważne?](https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/)
+
+#### Powiązane realizacje
+
+- [Wymiana wentylatorów chłodzenia lasera i konserwacja urządzenia — Wrocław](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/)
+
 ### Wymiana wentylatorów chłodzenia lasera i konserwacja urządzenia — Wrocław
 
 Źródło HTML: [Wymiana wentylatorów chłodzenia lasera i konserwacja urządzenia — Wrocław](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/)
@@ -5915,6 +6010,101 @@ Laser Tech Service выполняет диагностику, профилакт
 
 - [Почему не стоит самостоятельно менять уплотнительные прокладки в лазерном аппарате](https://lasertechservice.pl/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/)
 
+### Замена модуля Пельтье в манипуле лазера ESTETECH — ремонт системы охлаждения в Познани
+
+Источник HTML: [Замена модуля Пельтье в манипуле лазера ESTETECH — ремонт системы охлаждения в Познани](https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/)
+
+Язык: Русский
+
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/)
+
+> Выездной ремонт ESTETECH в Познани: замена модуля Пельтье, обновление термоинтерфейса и восстановление охлаждения манипулы. Фотографии и ход работ.
+
+Автор: Laser Tech Service
+
+Дата публикации: 2026-10-15
+
+ESTETECH
+
+Выездной ремонт ESTETECH в Познани: замена модуля Пельтье, обновление термоинтерфейса и восстановление охлаждения манипулы. Фотографии и ход работ.
+
+![Демонтированные детали узла контактного охлаждения манипулы ESTETECH](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-demontaz-wezla-chlodzenia.webp)
+
+- Оборудование: ESTETECH
+
+- Место: Познань, Польша
+
+- Формат: Выездной ремонт
+
+- Причина: Неисправный модуль Пельтье
+
+#### Проблема: рабочая поверхность манипулы не охлаждалась
+
+Клиент в Познани обратился с неисправностью контактного охлаждения манипулы лазерного аппарата ESTETECH. Рабочая поверхность перестала нормально охлаждаться, что исключало обычное использование манипулы. Контактное охлаждение помогает контролировать температуру кожи во время процедуры, повышает комфорт и уменьшает риск нежелательного теплового воздействия.
+
+#### Диагностика на месте у клиента
+
+Специалисты Laser Tech Service выехали непосредственно к клиенту в Познань. При диагностике установили неисправность термоэлектрического модуля Пельтье. Под действием электрического тока этот элемент переносит тепло от охлаждаемой стороны к стороне, от которой тепло забирает остальная система.
+
+В данном ремонте неисправный модуль подтверждён как причина недостаточного охлаждения. Однако один этот симптом не позволяет диагностировать TEC в любом аппарате: сходные проявления могут иметь другое происхождение и требуют профессиональной проверки. Причина отказа самого модуля без дополнительных данных не устанавливается.
+
+#### Замена элемента Пельтье и техническое обслуживание
+
+Ремонт лазерной манипулы включал следующие работы, выполненные сервисом:
+
+1. Демонтаж корпуса манипулы.
+2. Доступ к узлу контактного охлаждения.
+3. Демонтаж неисправного термоэлектрического модуля.
+4. Подготовку контактных поверхностей.
+5. Установку нового совместимого модуля Пельтье.
+6. Обновление термопасты для правильного теплового контакта.
+7. Восстановление электрических соединений.
+8. Сборку манипулы.
+9. Техническое обслуживание аппарата.
+10. Проверку работы оборудования и охлаждения.
+
+На фотографиях показаны доступ к внутренним деталям манипулы, разобранный узел охлаждения и работа с проводкой. Это документация выполненного ремонта, а не инструкция по самостоятельной замене.
+
+#### Результат: охлаждение и работа аппарата восстановлены
+
+После замены неисправного модуля Пельтье и технического обслуживания система охлаждения вновь заработала. Лазерный аппарат ESTETECH вернули в эксплуатацию. Выездной сервис позволил выполнить ремонт в Познани без перевозки всего оборудования в мастерскую.
+
+#### Почему важно проверять всю систему?
+
+В статье [о модуле Пельтье и неисправностях охлаждения манипулы](https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/) объясняются работа TEC, значение термоинтерфейса и возможные причины похожих симптомов. Объём [диагностики, ремонта косметологических лазеров, манипул и технического обслуживания](https://lasertechservice.pl/ru/uslugi/) определяется для конкретного устройства.
+
+Другой случай неисправности охлаждения описан в [ремонте вентиляторов во Вроцлаве](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/). Правила планового ухода разобраны в статье о [жидкости в системе охлаждения](https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/). Ориентир по стоимости работ представлен в [прайс-листе сервиса](https://lasertechservice.pl/ru/uslugi/cennik/).
+
+#### Фотографии ремонта
+
+Выберите фотографию для просмотра деталей.
+
+![Открытый корпус манипулы ESTETECH с проводами и внутренним металлическим узлом](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp)
+
+![Внутренний узел манипулы ESTETECH с электронной платой, проводкой и соединениями](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-wnetrze-glowicy.webp)
+
+![Корпус лазерного аппарата с обозначением ESTETECH во время ремонта в Познани](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-aparat-poznan.webp)
+
+![Специалист держит разобранный узел манипулы и деталь с прямоугольным отверстием](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-powierzchnie-kontaktowe.webp)
+
+![Пайка провода в открытой манипуле ESTETECH во время ремонта](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-lutowanie-przewodow.webp)
+
+![Открытые соединения проводов у разобранного узла охлаждения ESTETECH](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-polaczenia-elektryczne.webp)
+
+#### Услуги сервиса
+
+- [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+
+#### Связанные статьи
+
+- [Модуль Пельтье в лазерной манипуле: как работает охлаждение и почему оно выходит из строя](https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/)
+- [Вода в лазере для эпиляции: почему её необходимо менять и вовремя проводить обслуживание?](https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/)
+
+#### Связанные работы
+
+- [Замена вентиляторов охлаждения лазерного аппарата и техническое обслуживание во Вроцлаве](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/)
+
 ### Замена вентиляторов охлаждения лазерного аппарата и техническое обслуживание во Вроцлаве
 
 Источник HTML: [Замена вентиляторов охлаждения лазерного аппарата и техническое обслуживание во Вроцлаве](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/)
@@ -8065,6 +8255,125 @@ Laser Tech Service prowadzi [diagnostykę, naprawy i techniczne utrzymanie urzą
 
 - [Planowy przegląd lasera diodowego – dlaczego jest ważny i co obejmuje?](https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/)
 
+### Moduł Peltiera w głowicy lasera – jak działa chłodzenie i dlaczego przestaje działać?
+
+Źródło HTML: [Moduł Peltiera w głowicy lasera – jak działa chłodzenie i dlaczego przestaje działać?](https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/)
+
+Język: Polski
+
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/)
+
+> Jak działa moduł Peltiera w głowicy lasera? Objawy usterek, rola termopasty, odprowadzanie ciepła i znaczenie diagnostyki przed wymianą TEC.
+
+Autor: Laser Tech Service
+
+Data publikacji: 2026-10-15
+
+Brak chłodzenia powierzchni kontaktowej nie wskazuje jednoznacznie uszkodzonej części. Wyjaśniamy rolę TEC, znaczenie odbioru ciepła i termointerfejsu oraz to, dlaczego przed wymianą potrzebna jest diagnostyka całego układu.
+
+#### Co to jest moduł Peltiera?
+
+Moduł Peltiera, nazywany także TEC, jest elementem termoelektrycznym, który pod wpływem prądu przenosi ciepło między dwiema stronami. Wykorzystuje efekt Peltiera: przepływ prądu przez połączenia różnych materiałów wiąże się z pochłanianiem lub oddawaniem ciepła. W typowym module półprzewodnikowym wiele takich elementów znajduje się pomiędzy płytkami ceramicznymi.
+
+Podczas chłodzenia jedna strona odbiera ciepło od chłodzonego zespołu, a druga przekazuje je dalej. Określenia „zimna” i „gorąca” opisują ich funkcję, a nie stałe temperatury. Moduł potrzebuje zasilania oraz sprawnego odbioru ciepła. Nie jest samodzielną lodówką, którą wystarczy podłączyć do dowolnego źródła napięcia.
+
+Podstawy budowy opisuje [dokumentacja techniczna Ferrotec](https://thermal.ferrotec.com/technology/thermoelectric-reference-guide/thermalRef02/). TEC może być częścią kontaktowego chłodzenia urządzeń kosmetologicznych, ale nie występuje w każdym laserze. Rozwiązanie zastosowane w konkretnej głowicy należy ustalić na podstawie dokumentacji aparatu.
+
+#### Po co moduł Peltiera w głowicy lasera?
+
+W konstrukcji wykorzystującej TEC chłodzona powierzchnia kontaktowa pomaga kontrolować temperaturę skóry podczas zabiegu. Ma to znaczenie dla komfortu pacjenta oraz ograniczania niepożądanego oddziaływania cieplnego. Sprawne chłodzenie nie zastępuje właściwych parametrów zabiegowych, kwalifikacji operatora ani zasad opisanych przez producenta urządzenia.
+
+Chłodzenie głowicy lasera jest zadaniem całego zespołu. Obejmuje drogę przepływu ciepła od powierzchni kontaktowej przez termointerfejs i moduł do elementu odbierającego ciepło. Zależnie od konstrukcji dalej pracują obieg cieczy, wymiennik i wentylacja. Zasilanie, czujniki oraz sterownik odpowiadają za warunki pracy i regulację.
+
+Gorąca strona musi oddać zarówno ciepło odebrane z chłodzonego miejsca, jak i energię dostarczoną elektrycznie. Dlatego sprawny TEC nie zrekompensuje nieskutecznego odbioru ciepła. Znaczenie tej zależności wyjaśnia [Ferrotec w omówieniu odprowadzania ciepła](https://thermal.ferrotec.com/technology/thermoelectric-reference-guide/thermalRef05/). Pogorszenie chłodzenia kontaktowego wymaga przerwania użytkowania głowicy i oceny serwisowej.
+
+![Zdemontowane elementy węzła chłodzenia kontaktowego manipuły ESTETECH](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-demontaz-wezla-chlodzenia.webp)
+
+Zdemontowane elementy węzła chłodzenia kontaktowego manipuły ESTETECH.
+
+#### Dlaczego moduł Peltiera przestaje działać?
+
+Możliwe mechanizmy awarii trzeba odróżnić od diagnozy konkretnego urządzenia. Poniższa lista wskazuje obszary do sprawdzenia przez specjalistę. Nie oznacza, że wszystkie te problemy wystąpiły w opisanym dalej aparacie ESTETECH.
+
+- **Przegrzanie:** niewystarczający odbiór ciepła z gorącej strony może wyprowadzić moduł poza dopuszczalne warunki pracy.
+
+- **Usterka obiegu cieczy:** niesprawna pompa, ograniczona drożność lub niedostateczny przepływ mogą pogorszyć chłodzenie zespołu, jeśli urządzenie korzysta z takiego obiegu.
+
+- **Nieprawidłowy kontakt cieplny:** nierówności, zabrudzenia albo niewłaściwy docisk utrudniają przekazywanie ciepła między powierzchniami.
+
+- **Problem z termointerfejsem:** źle dobrany, zdegradowany lub nieprawidłowo zastosowany materiał może zwiększać opór cieplny połączenia.
+
+- **Usterka elektryczna:** problem z zasilaniem, przewodem lub połączeniem może zatrzymać chłodzenie; nie każda taka sytuacja oznacza uszkodzenie samego TEC.
+
+- **Uszkodzenie mechaniczne:** naprężenia, uderzenie lub nierównomierne obciążenie mogą uszkodzić delikatne elementy modułu.
+
+- **Warunki długotrwałej eksploatacji:** powtarzające się zmiany temperatury obciążają połączenia i materiały. Ich wpływ zależy od konstrukcji i zakresu zmian.
+
+Sam wiek aparatu nie przesądza o stanie TEC. W [opracowaniu o niezawodności Ferrotec](https://thermal.ferrotec.com/technology/thermoelectric-reference-guide/thermalRef10/) rozróżnia pracę w stabilnych warunkach i obciążenie cyklami termicznymi. Nie należy przenosić wyników badań wybranego modułu na żywotność nieznanej części w laserze.
+
+#### Jakie są objawy niesprawnego chłodzenia?
+
+Głowica lasera nie chłodzi, powierzchnia kontaktowa pozostaje ciepła albo temperatura zmienia się niestabilnie. Innym sygnałem może być brak osiągnięcia wartości zadanej. Jeżeli producent przewidział odpowiednią funkcję, aparat może wyświetlać komunikat dotyczący temperatury lub chłodzenia. Brak alarmu nie potwierdza jednak sprawności układu.
+
+Podobne objawy mogą powodować pompa obiegowa, zanieczyszczenia, zbyt mały przepływ cieczy, czujnik temperatury, zasilacz albo elektronika sterująca. Wskazanie na ekranie nie zawsze opisuje temperaturę samej powierzchni kontaktowej; zależy to od lokalizacji czujnika i sposobu prezentacji danych.
+
+**Brak chłodzenia nie oznacza automatycznie awarii modułu Peltiera. Potrzebna jest profesjonalna diagnostyka laserów kosmetycznych.** Serwis rozdziela problem odbioru ciepła, zasilania, sterowania oraz samego modułu. Wymiana części na podstawie jednego objawu może pozostawić właściwą przyczynę bez naprawy.
+
+#### Dlaczego właściwa pasta termoprzewodząca ma znaczenie?
+
+Nawet pozornie gładkie powierzchnie mają mikronierówności. Termointerfejs ogranicza udział szczelin powietrznych w połączeniu i ułatwia przepływ ciepła. Jego zadaniem nie jest zastępowanie prawidłowo dopasowanych powierzchni ani naprawianie mechanicznego uszkodzenia zespołu. Właściwości materiału muszą odpowiadać konstrukcji i warunkom pracy.
+
+Nadmiar pasty może tworzyć zbędną warstwę zwiększającą opór cieplny, a niewłaściwy typ materiału może być niezgodny z wymaganiami zespołu. Z kolei nieciągły kontakt pogarsza wymianę ciepła. Nie istnieje jedna uniwersalna pasta i sposób jej aplikacji dla wszystkich głowic.
+
+[Zalecenia montażowe Ferrotec](https://thermal.ferrotec.com/technology/thermoelectric-reference-guide/thermalRef06/) podkreślają znaczenie powierzchni i połączenia cieplnego. W urządzeniu zabiegowym obowiązują wymagania producenta konkretnego węzła: rodzaj termointerfejsu, zgodność materiałowa oraz sposób mocowania. Zdjęcie tubki z preparatem nie jest specyfikacją materiału ani zaleceniem jego użycia w innym aparacie.
+
+![Lutowanie przewodu w otwartej manipule ESTETECH podczas naprawy](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-lutowanie-przewodow.webp)
+
+Lutowanie przewodu w otwartej manipule ESTETECH podczas naprawy.
+
+#### Dlaczego nie warto samodzielnie wymieniać modułu Peltiera?
+
+Podobny wygląd części nie potwierdza zamienności. Znaczenie mają parametry napięcia i prądu, wymiary, grubość, zdolność transportowania ciepła oraz warunki po obu stronach modułu. Sama deklarowana moc nie wystarcza do doboru. Zagadnienia te przedstawia [przewodnik doboru modułu TEC](https://thermal.ferrotec.com/technology/thermoelectric-reference-guide/thermalRef09/).
+
+Błędna polaryzacja może odwrócić kierunek transportu ciepła. Niewłaściwe osadzenie i nierównomierny docisk mogą uszkodzić płytki ceramiczne lub pogorszyć kontakt cieplny. Nieodpowiednia część może też nie współpracować prawidłowo z istniejącym sterowaniem. Skutkiem bywa kolejna awaria albo uszkodzenie manipuły.
+
+Naprawa głowicy lasera wymaga oceny całego zespołu oraz sprawdzenia po złożeniu. Otwarcie obudowy, ingerencja w przewody i dobór elementu nie należą do zwykłej obsługi operatora. Zakres takich prac ustala [serwis laserów kosmetycznych](https://lasertechservice.pl/uslugi/) na podstawie urządzenia i dokumentacji, bez uruchamiania go z pominięciem zabezpieczeń.
+
+#### Przykład: naprawa ESTETECH w Poznaniu
+
+W aparacie ESTETECH powierzchnia robocza manipuły przestała prawidłowo się chłodzić. Podczas wyjazdowej diagnostyki w Poznaniu potwierdzono niesprawność modułu Peltiera. Wymieniono go na kompatybilny element, odnowiono termointerfejs i połączenia elektryczne oraz wykonano obsługę techniczną. Po złożeniu sprawdzono działanie urządzenia i chłodzenia; aparat wrócił do pracy.
+
+[Realizacja wymiany modułu Peltiera w ESTETECH](https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/) zawiera dokumentację fotograficzną. Potwierdzoną przyczyną braku chłodzenia był niesprawny TEC. Nie ustalono w przekazanych danych, dlaczego sam moduł uległ uszkodzeniu, dlatego nie przypisujemy tej naprawie awarii pompy, przegrzania ani niewłaściwej pasty.
+
+#### Jak ograniczać ryzyko usterek chłodzenia?
+
+Regularne przeglądy powinny uwzględniać konstrukcję aparatu i intensywność pracy. W urządzeniach chłodzonych cieczą istotne są cyrkulacja, czystość układu, stan połączeń oraz zgodność płynu z zaleceniami producenta. Więcej wyjaśnia artykuł o [wodzie i obsłudze układu chłodzenia](https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/).
+
+Operator powinien kontrolować wskazania i komunikaty w zakresie przewidzianym instrukcją, zgłaszać zmianę zachowania głowicy oraz zapisywać historię obsługi. Nie należy dobierać płynu, dodatków ani interwału wymiany na podstawie zaleceń dla innego modelu. Kontrola temperatury nie polega na testowaniu niesprawnej głowicy na skórze.
+
+[Planowy przegląd techniczny](https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/) pozwala ocenić stan urządzenia przed nasileniem objawów. Przykład [naprawy wentylatorów we Wrocławiu](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/) pokazuje inną usterkę chłodzenia; nie jest dowodem na tę samą przyczynę w ESTETECH.
+
+#### Kiedy skontaktować się z serwisem?
+
+Jeśli powierzchnia kontaktowa nie chłodzi prawidłowo, przerwij korzystanie z manipuły do sprawdzenia przez specjalistę. Przekaż oznaczenie urządzenia, opis objawów, dokładny komunikat z ekranu i historię przeglądów. Informacja, czy objaw występuje od uruchomienia czy dopiero później, pomaga przygotować diagnostykę, ale nie zastępuje oceny urządzenia.
+
+Naprawa laserów kosmetycznych i naprawa chłodzenia lasera mają zakres zależny od rozpoznanej usterki. [Cennik usług](https://lasertechservice.pl/uslugi/cennik/) stanowi punkt odniesienia; koszt konkretnego zlecenia ustala się po określeniu prac. Serwis laserów w Poznaniu oraz wyjazd do klienta można uzgodnić przez [kontakt z Laser Tech Service](https://lasertechservice.pl/kontakt/).
+
+#### Usługi serwisowe
+
+- [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+
+#### Powiązane realizacje
+
+- [Wymiana modułu Peltiera w głowicy lasera ESTETECH – naprawa chłodzenia w Poznaniu](https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/)
+- [Wymiana wentylatorów chłodzenia lasera i konserwacja urządzenia — Wrocław](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/)
+
+#### Powiązane artykuły
+
+- [Woda w laserze do depilacji – dlaczego jej wymiana i regularny serwis są tak ważne?](https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/)
+- [Planowy przegląd lasera diodowego – dlaczego jest ważny i co obejmuje?](https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/)
+
 ### Pharaon 1470 — historia urządzenia i światło, które pochłania woda
 
 Źródło HTML: [Pharaon 1470 — historia urządzenia i światło, które pochłania woda](https://lasertechservice.pl/blog/pharaon-1470-historia-technologia-lasera/)
@@ -8987,6 +9296,8 @@ Dokumentacja fotograficzna przedstawia pracę przy panelu sterowania i manipule.
 
 Sprawdzaj urządzenie w zakresie przewidzianym dla operatora, przestrzegaj terminów obsługi i nie ignoruj wycieków ani alarmów. W razie nieprawidłowości przerwij użytkowanie zgodnie z instrukcją i zgłoś problem. Do [serwisu laserów](https://lasertechservice.pl/uslugi/) przekaż model, opis objawu i historię obsługi. To lepszy punkt wyjścia niż samodzielne dobieranie płynu lub wymiana części na próbę.
 
+Jeśli problem dotyczy powierzchni kontaktowej głowicy, przeczytaj również, [jak działa moduł Peltiera i dlaczego manipuła nie chłodzi](https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/). Niesprawność obiegu cieczy i uszkodzenie TEC wymagają rozróżnienia podczas diagnostyki.
+
 #### Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
@@ -8995,6 +9306,10 @@ Sprawdzaj urządzenie w zakresie przewidzianym dla operatora, przestrzegaj termi
 #### Powiązane realizacje
 
 - [Serwis lasera do depilacji – przegląd techniczny urządzenia](https://lasertechservice.pl/realizacje/przeglad-techniczny-lasera-do-depilacji/)
+
+#### Powiązane artykuły
+
+- [Moduł Peltiera w głowicy lasera – jak działa chłodzenie i dlaczego przestaje działać?](https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/)
 
 ### 3000 NAIN — знакомьтесь, динозавр среди лазеров
 
@@ -10427,6 +10742,129 @@ Laser Tech Service выполняет [диагностику, ремонт и �
 
 #### Связанные статьи
 
+- [Плановое обслуживание диодного лазера — почему это важно и что оно включает?](https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/)
+
+### Модуль Пельтье в лазерной манипуле: как работает охлаждение и почему оно выходит из строя
+
+Источник HTML: [Модуль Пельтье в лазерной манипуле: как работает охлаждение и почему оно выходит из строя](https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/)
+
+Язык: Русский
+
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/)
+
+> Как работает модуль Пельтье в лазерной манипуле: симптомы неисправностей, роль термопасты, отвод тепла и диагностика перед заменой TEC.
+
+Автор: Laser Tech Service
+
+Дата публикации: 2026-10-15
+
+Отсутствие охлаждения контактной поверхности не указывает однозначно на повреждённую деталь. Разбираем роль TEC, теплоотвода и термоинтерфейса, а также необходимость проверки всей системы перед заменой.
+
+#### Что такое модуль Пельтье?
+
+Модуль Пельтье, также называемый TEC, — термоэлектрический элемент, который при прохождении тока переносит тепло между двумя сторонами. Он использует эффект Пельтье: ток через соединения разных материалов сопровождается поглощением или выделением тепла. В типовом полупроводниковом модуле множество таких элементов расположено между керамическими пластинами.
+
+При охлаждении одна сторона забирает тепло у охлаждаемого узла, а другая передаёт его дальше. Названия «холодная» и «горячая» описывают назначение сторон, а не постоянные значения температуры. Для работы необходимы электрическое питание и эффективный отвод тепла. TEC нельзя рассматривать как автономный холодильник, которому подходит любой источник напряжения.
+
+Устройство элемента описано в [технической документации Ferrotec](https://thermal.ferrotec.com/technology/thermoelectric-reference-guide/thermalRef02/). Такие модули применяются в контактном охлаждении косметологического оборудования, но установлены не во всех лазерных аппаратах. Схему конкретной манипулы нужно уточнять по документации устройства, а не по внешнему сходству корпуса.
+
+#### Зачем модуль Пельтье нужен в лазерной манипуле?
+
+В конструкции с TEC охлаждаемая контактная поверхность помогает контролировать температуру кожи во время процедуры. Это важно для комфорта пациента и уменьшения нежелательного теплового воздействия. При этом исправное охлаждение не заменяет правильный выбор параметров процедуры, подготовку оператора и соблюдение требований производителя.
+
+Система охлаждения лазерного аппарата работает как единый комплекс. Тепло проходит от контактной поверхности через термоинтерфейс и модуль к теплоотводящему узлу. В зависимости от конструкции далее участвуют контур жидкости, теплообменник и вентиляция. Электропитание, температурные датчики и контроллер обеспечивают условия работы и регулирование.
+
+Горячая сторона должна рассеивать не только тепло, забранное у охлаждаемого участка, но и подведённую электрическую энергию. Поэтому исправный TEC не компенсирует недостаточный теплоотвод. Эта зависимость разобрана в [материале Ferrotec об отводе тепла](https://thermal.ferrotec.com/technology/thermoelectric-reference-guide/thermalRef05/). Если контактное охлаждение ухудшилось, использование манипулы следует прекратить до проверки специалистом.
+
+![Демонтированные детали узла контактного охлаждения манипулы ESTETECH](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-demontaz-wezla-chlodzenia.webp)
+
+Демонтированные детали узла контактного охлаждения манипулы ESTETECH.
+
+#### Почему модуль Пельтье выходит из строя?
+
+Возможные механизмы отказа необходимо отделять от диагноза конкретного аппарата. Следующий перечень показывает направления профессиональной проверки. Он не означает, что все перечисленные проблемы обнаружены в аппарате ESTETECH, о ремонте которого рассказано ниже.
+
+- **Перегрев:** недостаточный отвод тепла от горячей стороны может вывести модуль за пределы допустимых условий работы.
+
+- **Неисправность жидкостного контура:** отказ насоса, засорение или недостаточный поток ухудшают охлаждение узла, если конструкция использует циркуляцию жидкости.
+
+- **Нарушение теплового контакта:** неровности, загрязнение или неправильный прижим мешают передаче тепла между поверхностями.
+
+- **Проблема термоинтерфейса:** неподходящий, деградировавший или неправильно нанесённый материал может увеличивать тепловое сопротивление соединения.
+
+- **Электрическая неисправность:** нарушение питания, повреждение проводки или соединения способно остановить охлаждение без повреждения самого TEC.
+
+- **Механическое повреждение:** удар, напряжения или неравномерная нагрузка могут повредить хрупкие элементы модуля.
+
+- **Длительная эксплуатация:** повторяющиеся изменения температуры нагружают материалы и соединения. Последствия зависят от конструкции и диапазона изменений.
+
+Возраст аппарата сам по себе не определяет состояние элемента. В [материале о надёжности Ferrotec](https://thermal.ferrotec.com/technology/thermoelectric-reference-guide/thermalRef10/) разделяет стабильный режим и нагрузку при термоциклировании. Результаты испытаний определённого TEC нельзя автоматически переносить на срок службы неизвестной детали в лазерной манипуле.
+
+#### Какие симптомы указывают на проблему охлаждения?
+
+Не охлаждается манипула лазера, контактная поверхность остаётся тёплой или охлаждение работает нестабильно. Ещё один признак — температура не достигает заданного значения. Если соответствующая функция предусмотрена производителем, аппарат может сообщать об ошибке температуры или охлаждения. Однако отсутствие сообщения не доказывает исправность системы.
+
+Аналогичные симптомы возможны при неисправности циркуляционного насоса, загрязнении каналов, недостаточном потоке жидкости, проблемах датчика температуры, блока питания или управляющей электроники. Значение на экране не обязательно показывает температуру контактной поверхности: это зависит от расположения датчика и принципа отображения данных.
+
+**Отсутствие охлаждения не означает автоматически неисправность модуля Пельтье. Нужна профессиональная диагностика лазерного оборудования.** Специалист разделяет проблемы теплоотвода, питания, управления и самого элемента. Замена детали только по одному внешнему признаку может оставить действительную причину без устранения.
+
+#### Почему важно правильно подобрать термопасту?
+
+Даже визуально гладкие поверхности имеют микронеровности. Термоинтерфейс уменьшает влияние воздушных промежутков и помогает передавать тепло через соединение. Он не должен заменять правильное сопряжение поверхностей или компенсировать механическое повреждение узла. Материал выбирают с учётом конструкции, совместимости и условий работы.
+
+Избыток пасты может образовать лишний слой с повышенным тепловым сопротивлением. Неподходящий состав может не отвечать требованиям узла, а неполный контакт ухудшает теплопередачу. Универсальной пасты и единого способа её применения для всех лазерных манипул не существует. Наличие пасты на детали ещё не подтверждает качество теплового соединения.
+
+[Рекомендации Ferrotec по монтажу](https://thermal.ferrotec.com/technology/thermoelectric-reference-guide/thermalRef06/) подчёркивают значение контактных поверхностей. При ремонте аппарата необходимо соблюдать требования производителя конкретного узла к термоинтерфейсу и креплению. Фотография тюбика с составом не является спецификацией материала и не даёт оснований использовать его в другом устройстве.
+
+![Пайка провода в открытой манипуле ESTETECH во время ремонта](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-lutowanie-przewodow.webp)
+
+Пайка провода в открытой манипуле ESTETECH во время ремонта.
+
+#### Почему не стоит самостоятельно менять модуль Пельтье?
+
+Внешнее сходство не подтверждает взаимозаменяемость. Важны напряжение и ток, размеры, толщина, способность переносить тепло и условия на обеих сторонах. Одного заявленного значения мощности недостаточно для выбора. Эти взаимосвязи рассматривает [руководство по подбору TEC-модуля](https://thermal.ferrotec.com/technology/thermoelectric-reference-guide/thermalRef09/).
+
+Неправильная полярность может изменить направление переноса тепла. Ошибки установки и неравномерный прижим способны повредить керамические пластины или ухудшить тепловой контакт. Несовместимый элемент может неправильно взаимодействовать с существующим контроллером. В результате возможны повторный отказ и повреждение манипулы.
+
+Ремонт лазерной манипулы требует оценки всего узла и проверки после сборки. Открытие корпуса, работа с проводкой и подбор элемента не относятся к обычному обслуживанию оператором. Объём вмешательства определяет [сервис косметологического оборудования](https://lasertechservice.pl/ru/uslugi/) по документации и состоянию аппарата. Обход защит и запуск разобранного оборудования не являются способом самостоятельной проверки.
+
+#### Реальный случай: ремонт ESTETECH в Познани
+
+У лазерного аппарата ESTETECH рабочая поверхность манипулы перестала нормально охлаждаться. Во время выездной диагностики в Познани подтверждена неисправность модуля Пельтье. Специалисты заменили его совместимым элементом, обновили термоинтерфейс, восстановили электрические соединения и провели техническое обслуживание. После сборки проверили работу аппарата и охлаждения. Оборудование вернули в эксплуатацию.
+
+В [описании замены элемента Пельтье в ESTETECH](https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/) опубликованы фотографии работ. Подтверждённой причиной отсутствия охлаждения был неисправный TEC. Почему вышел из строя сам элемент, в исходных данных не установлено. Поэтому этому ремонту не приписываются отказ насоса, перегрев или применение неправильной термопасты.
+
+#### Как снизить риск неисправностей охлаждения?
+
+Периодическое обслуживание лазерных аппаратов планируют с учётом конструкции и интенсивности эксплуатации. Для жидкостной системы важны циркуляция, чистота контура, состояние соединений и применение рекомендованной производителем жидкости. Подробности разобраны в статье о [воде и обслуживании системы охлаждения](https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/).
+
+Оператору следует контролировать показания и сообщения в пределах инструкции, сообщать об изменении работы манипулы и сохранять историю обслуживания. Нельзя выбирать жидкость, добавки или интервалы замены по рекомендациям для другого аппарата. Проверка температуры не должна превращаться в испытание неисправной манипулы на коже.
+
+Полезно записывать дату обслуживания, использованную жидкость и замеченные отклонения. Если история аппарата неизвестна, лучше передать эту информацию специалисту, чем восполнять пробелы предположениями. Сохранённые сообщения об ошибках помогают обсуждать неисправность предметно. При этом фотографии и записи оператора дополняют профессиональную проверку, но не заменяют её.
+
+[Плановый технический осмотр](https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/) помогает оценить состояние оборудования до усиления симптомов. Другая возможная неисправность показана в [ремонте вентиляторов во Вроцлаве](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/). Этот пример не подтверждает такую же причину в ESTETECH: одинаковая жалоба может требовать разных ремонтных работ.
+
+#### Когда обращаться в сервис?
+
+Если контактная поверхность недостаточно охлаждается, прекратите использование манипулы до проверки специалистом. Сообщите обозначение аппарата, характер симптомов, точный текст ошибки и историю обслуживания. Уточните, возникает ли проблема сразу после включения или спустя некоторое время. Это помогает подготовить диагностику, но не позволяет определить неисправную деталь дистанционно с уверенностью.
+
+Не стоит продолжать процедуры в расчёте на то, что охлаждение восстановится самостоятельно. Также не следует оценивать исправность только по работающему дисплею или отсутствию предупреждений. Для возвращения оборудования к работе необходимо установить причину отклонения и проверить результат ремонта в соответствии с устройством конкретного аппарата.
+
+Ремонт косметологических лазеров и ремонт охлаждения лазера зависят от обнаруженной неисправности. [Прайс-лист услуг](https://lasertechservice.pl/ru/uslugi/cennik/) служит ориентиром; стоимость конкретной работы определяется после уточнения её объёма. Ремонт лазеров в Познани и выезд специалиста можно согласовать через [контакты Laser Tech Service](https://lasertechservice.pl/ru/kontakt/).
+
+#### Услуги сервиса
+
+- [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+
+#### Связанные работы
+
+- [Замена модуля Пельтье в манипуле лазера ESTETECH — ремонт системы охлаждения в Познани](https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/)
+- [Замена вентиляторов охлаждения лазерного аппарата и техническое обслуживание во Вроцлаве](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/)
+
+#### Связанные статьи
+
+- [Вода в лазере для эпиляции: почему её необходимо менять и вовремя проводить обслуживание?](https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/)
 - [Плановое обслуживание диодного лазера — почему это важно и что оно включает?](https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/)
 
 ### Сервис головки диодного лазера — почему герметичность и чистая оптика так важны?
@@ -12064,6 +12502,8 @@ Laser Tech Service выполнил [сервис лазера для эпиля
 
 Проверяйте аппарат в пределах обязанностей оператора, соблюдайте сроки обслуживания и не игнорируйте утечки или сигналы ошибок. При отклонениях прекратите использование согласно инструкции и обратитесь в сервис. Для [обслуживания лазера](https://lasertechservice.pl/ru/uslugi/) подготовьте модель, описание симптома и историю работ. Это полезнее самостоятельного подбора жидкости или пробной замены деталей.
 
+Если проблема касается контактной поверхности манипулы, прочитайте также, [как работает модуль Пельтье и почему манипула не охлаждается](https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/). Нарушение циркуляции жидкости и неисправность TEC необходимо различать при диагностике.
+
 #### Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
@@ -12072,6 +12512,10 @@ Laser Tech Service выполнил [сервис лазера для эпиля
 #### Связанные работы
 
 - [Сервис лазера для эпиляции — техническое обслуживание аппарата](https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/)
+
+#### Связанные статьи
+
+- [Модуль Пельтье в лазерной манипуле: как работает охлаждение и почему оно выходит из строя](https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/)
 
 ## Partners
 
@@ -12378,6 +12822,7 @@ lok. 320
 - [Polski: Laser CO₂ nie reaguje na pedał? Objaw to jeszcze nie diagnoza](https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/) — [Русский](https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/)
 - [Polski: Laser Tech Service z nagrodą Złota Firma 2026](https://lasertechservice.pl/blog/laser-tech-service-zlota-firma-2026/) — [Русский](https://lasertechservice.pl/ru/blog/laser-tech-service-zlota-firma-2026/)
 - [Polski: Lumenis LightSheer DESIRE po 10 latach – dlaczego laser za 200 000 zł nadal może pracować niezawodnie?](https://lasertechservice.pl/blog/lightsheer-desire-chlodzenie-niezawodnosc/) — [Русский](https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/)
+- [Polski: Moduł Peltiera w głowicy lasera – jak działa chłodzenie i dlaczego przestaje działać?](https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/) — [Русский](https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/)
 - [Polski: Pharaon 1470 — historia urządzenia i światło, które pochłania woda](https://lasertechservice.pl/blog/pharaon-1470-historia-technologia-lasera/) — [Русский](https://lasertechservice.pl/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/)
 - [Polski: Planowy przegląd lasera diodowego – dlaczego jest ważny i co obejmuje?](https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/) — [Русский](https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/)
 - [Polski: Serwis głowicy lasera diodowego – dlaczego szczelność i czysta optyka są tak ważne?](https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/) — [Русский](https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/)
@@ -12406,6 +12851,7 @@ lok. 320
 - [Polski: Serwis lasera diodowego – wymiana głowicy i obsługa techniczna](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/) — [Русский](https://lasertechservice.pl/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/)
 - [Polski: Serwis lasera ND:YAG do usuwania tatuażu](https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/) — [Русский](https://lasertechservice.pl/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/)
 - [Polski: Wymiana modułu diodowego lasera po zalaniu – Poznań](https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/) — [Русский](https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
+- [Polski: Wymiana modułu Peltiera w głowicy lasera ESTETECH – naprawa chłodzenia w Poznaniu](https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/) — [Русский](https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/)
 - [Polski: Wymiana wentylatorów chłodzenia lasera i konserwacja urządzenia — Wrocław](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/) — [Русский](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/)
 - [Polski: Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/) — [Русский](https://lasertechservice.pl/ru/uslugi/)
 - [Polski: Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/) — [Русский](https://lasertechservice.pl/ru/uslugi/cennik/)

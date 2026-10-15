@@ -16,6 +16,16 @@ Pokazujemy rzeczywiste realizacje serwisowe: zakres zlecenia, wykonane prace ora
 
 Każde urządzenie wymaga indywidualnej diagnostyki. Poniżej prezentujemy wybrane realizacje naszego serwisu.
 
+![Zdemontowane elementy węzła chłodzenia kontaktowego manipuły ESTETECH](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-demontaz-wezla-chlodzenia.webp)
+
+PoznańChłodzenie i serwis
+
+## [Wymiana modułu Peltiera w głowicy lasera ESTETECH – naprawa chłodzenia w Poznaniu](https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/)
+
+Wyjazdowa naprawa ESTETECH w Poznaniu: wymiana modułu Peltiera, odnowienie termointerfejsu i przywrócenie chłodzenia manipuły. Zobacz przebieg prac.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/)
+
 ![Lumenis LightSheer DESIRE z ekranem logowania w gabinecie w Oleśnicy](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lumenis-lightsheer-desire-aparat-olesnica.webp)
 
 OleśnicaSerwis i konserwacja
@@ -263,6 +273,7 @@ Serwisujemy lasery diodowe, urządzenia ND:YAG, IPL, CO2 oraz inne urządzenia w
 
 ## Powiązane realizacje
 
+- [Wymiana modułu Peltiera w głowicy lasera ESTETECH – naprawa chłodzenia w Poznaniu](https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/)
 - [Naprawa Lumenis LightSheer DESIRE w Oleśnicy – wyciek płynu i awaria układu chłodzenia](https://lasertechservice.pl/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/)
 - [Wymiana wentylatorów chłodzenia lasera i konserwacja urządzenia — Wrocław](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/)
 - [Pilna naprawa urządzenia do masażu RSL w Warszawie – naprawa przewodu i wymiana złącza](https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/)

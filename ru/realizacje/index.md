@@ -16,6 +16,16 @@
 
 Каждое устройство требует индивидуальной диагностики. Ниже представлены отдельные примеры нашей работы.
 
+![Демонтированные детали узла контактного охлаждения манипулы ESTETECH](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-demontaz-wezla-chlodzenia.webp)
+
+PoznańОхлаждение и сервис
+
+## [Замена модуля Пельтье в манипуле лазера ESTETECH — ремонт системы охлаждения в Познани](https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/)
+
+Выездной ремонт ESTETECH в Познани: замена модуля Пельтье, обновление термоинтерфейса и восстановление охлаждения манипулы. Фотографии и ход работ.
+
+[Подробнее о ремонте](https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/)
+
 ![Lumenis LightSheer DESIRE с экраном входа в кабинете в Олеснице](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lumenis-lightsheer-desire-aparat-olesnica.webp)
 
 OleśnicaСервис и обслуживание
@@ -263,6 +273,7 @@ RF Вакуум Диагностика Ремонт
 
 ## Связанные работы
 
+- [Замена модуля Пельтье в манипуле лазера ESTETECH — ремонт системы охлаждения в Познани](https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/)
 - [Ремонт Lumenis LightSheer DESIRE в Олеснице — утечка жидкости и неисправность системы охлаждения](https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/)
 - [Замена вентиляторов охлаждения лазерного аппарата и техническое обслуживание во Вроцлаве](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/)
 - [Срочный ремонт аппарата для RSL-массажа в Варшаве — ремонт кабеля и замена разъёма](https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/)

@@ -129,9 +129,8 @@
 
 .blog-card__top {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-start;
 
     gap: 12px;
 
@@ -253,6 +252,37 @@
 
 .blog-card__link:hover span {
     transform: translateX(4px);
+}
+
+
+/* Align corresponding card sections within each listing row without clipping text. */
+@supports (grid-template-rows: subgrid) {
+    .blog-grid > .blog-card {
+        display: grid;
+        grid-row: span 5;
+        grid-template-rows: subgrid;
+        row-gap: 0;
+    }
+
+    .blog-card__top {
+        display: grid;
+        grid-row: span 2;
+        grid-template-rows: subgrid;
+        row-gap: 0;
+        justify-items: start;
+    }
+
+    .blog-card__category {
+        align-self: start;
+    }
+
+    .blog-card__date {
+        padding-top: 12px;
+    }
+
+    .blog-card__content {
+        display: contents;
+    }
 }
 
 

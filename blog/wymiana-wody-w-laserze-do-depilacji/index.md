@@ -88,6 +88,8 @@ Dokumentacja fotograficzna przedstawia pracę przy panelu sterowania i manipule.
 
 Sprawdzaj urządzenie w zakresie przewidzianym dla operatora, przestrzegaj terminów obsługi i nie ignoruj wycieków ani alarmów. W razie nieprawidłowości przerwij użytkowanie zgodnie z instrukcją i zgłoś problem. Do [serwisu laserów](https://lasertechservice.pl/uslugi/) przekaż model, opis objawu i historię obsługi. To lepszy punkt wyjścia niż samodzielne dobieranie płynu lub wymiana części na próbę.
 
+Jeśli problem dotyczy powierzchni kontaktowej głowicy, przeczytaj również, [jak działa moduł Peltiera i dlaczego manipuła nie chłodzi](https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/). Niesprawność obiegu cieczy i uszkodzenie TEC wymagają rozróżnienia podczas diagnostyki.
+
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
@@ -96,3 +98,7 @@ Sprawdzaj urządzenie w zakresie przewidzianym dla operatora, przestrzegaj termi
 ## Powiązane realizacje
 
 - [Serwis lasera do depilacji – przegląd techniczny urządzenia](https://lasertechservice.pl/realizacje/przeglad-techniczny-lasera-do-depilacji/)
+
+## Powiązane artykuły
+
+- [Moduł Peltiera w głowicy lasera – jak działa chłodzenie i dlaczego przestaje działać?](https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/)
