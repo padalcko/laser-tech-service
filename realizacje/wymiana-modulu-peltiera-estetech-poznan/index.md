@@ -26,6 +26,8 @@ Wyjazdowa naprawa ESTETECH w Poznaniu: wymiana modułu Peltiera, odnowienie term
 
 - Przyczyna: Niesprawny moduł Peltiera
 
+[Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/) — poznaj zakres usługi i warunki wyceny.
+
 ## Problem: powierzchnia głowicy nie chłodziła prawidłowo
 
 Klient w Poznaniu zgłosił niesprawność kontaktowego chłodzenia manipuły lasera ESTETECH. Powierzchnia robocza przestała się odpowiednio chłodzić, co uniemożliwiało normalne użytkowanie głowicy. Kontaktowe chłodzenie pomaga kontrolować temperaturę skóry podczas procedury, zwiększa komfort i ogranicza ryzyko niepożądanego oddziaływania cieplnego.
@@ -83,6 +85,7 @@ Wybierz zdjęcie, aby zobaczyć szczegóły.
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
 
 ## Powiązane artykuły
 

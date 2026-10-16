@@ -22,7 +22,7 @@ Naprawiamy urządzenia wykorzystywane w salonach beauty, klinikach kosmetologicz
 
 - Wymiana i kalibracja diod laserowych
 
-- Regeneracja głowic i manipulatorów
+- [Regeneracja głowic i manipulatorów](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
 
 - Naprawa układów chłodzenia
 
@@ -166,6 +166,7 @@ lok. 320
 
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 - [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
 
 ## Powiązane realizacje
 

@@ -104,6 +104,8 @@
 
 Реальные случаи показывают, почему важно установить причину симптома. Пример замены вентиляторов относится к лазерному аппарату с неподтверждённой технологией, а не к подтверждённому диодному лазеру.
 
+[Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/) — перечень работ и условия от 800 zł.
+
 ![Замена модуля после залития — Познань](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp)
 
 ### Замена модуля после залития — Познань
@@ -174,6 +176,7 @@
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
 
 ## Связанные статьи
 

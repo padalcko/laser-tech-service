@@ -45,3 +45,12 @@
 .service-landing .service-card-heading { display: flex; align-items: flex-start; gap: 12px; }
 .service-landing .service-card-icon { flex: 0 0 30px; width: 30px; height: 30px; color: var(--gold-dark); }
 .service-landing .service-card-heading > span { min-width: 0; }
+
+/* Related reading: gold globe marks each clickable resource. */
+.service-landing .service-related-links { list-style: none; padding: 0; }
+.service-landing .service-related-links li { margin-bottom: 18px; }
+.service-landing .service-related-links a { display: inline-flex; align-items: flex-start; gap: 12px; min-height: 44px; padding: 8px 0; line-height: 1.6; }
+.service-landing .service-link-icon { flex: 0 0 22px; width: 22px; height: 22px; margin-top: 2px; color: var(--gold-dark); }
+.service-landing .service-related-links a span { min-width: 0; }
+.service-landing .service-related-links a:hover span,
+.service-landing .service-related-links a:focus-visible span { text-decoration: underline; text-underline-offset: 4px; }

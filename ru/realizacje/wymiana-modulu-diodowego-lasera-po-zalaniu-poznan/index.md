@@ -16,6 +16,8 @@
 
 ![Повреждённый диодный модуль со следами жидкости и отложений](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp)
 
+[Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/) — узнайте перечень работ и условия оценки стоимости.
+
 ## Проблема: повреждение модуля после залития
 
 В Познани мы ремонтировали лазер с повреждённым диодным модулем. Поломке предшествовала самостоятельная замена владельцем прокладки между элементами узла манипулы. Исходной причиной оказалась не сама диодная сборка.
@@ -58,6 +60,7 @@
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
 - [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 
 ## Связанные статьи

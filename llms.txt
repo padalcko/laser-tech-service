@@ -23,8 +23,10 @@ The website is published in Polish and Russian. HTML pages are the canonical sou
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/index.md): Russian representation of the services page.
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/): Ориентировочные цены диагностики, ремонта и обслуживания. Запчасти могут рассчитываться отдельно; окончательная стоимость после диагностики.
 - [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/index.md): Диагностика аппарата и манипулы диодного лазера от 600 zł. Письменное техническое заключение. Бесплатно при заказе ремонта в Laser Tech Service; выезд отдельно.
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/index.md): Ремонт головок и манипул лазерных аппаратов от 800 zł. Диоды, охлаждение, уплотнения. Диагностика бесплатно при заказе ремонта; выезд отдельно.
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/): Orientacyjne ceny diagnostyki, naprawy i konserwacji. Koszt części może być rozliczany osobno; końcowa wycena po diagnostyce.
 - [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/index.md): Diagnostyka aparatu i głowicy lasera diodowego od 600 zł. Pisemny wniosek techniczny. Bezpłatna przy zleceniu naprawy w Laser Tech Service; dojazd osobno.
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/index.md): Naprawa głowic i manipulatorów laserowych od 800 zł. Diody, chłodzenie, uszczelnienia. Diagnostyka bezpłatna przy zleceniu naprawy; dojazd osobno.
 
 ## Repair Cases
 

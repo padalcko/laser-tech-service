@@ -24,6 +24,8 @@
 
 - Местоположение: Познань
 
+[Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/) — узнайте перечень работ и условия оценки стоимости.
+
 ## Разгерметизированная манипула диодного лазера
 
 Во время выезда к клиенту в Познани проверили манипулу профессионального диодного лазера для эпиляции.
@@ -150,6 +152,7 @@ Laser Tech Service выполняет диагностику, ремонт и п
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
 - [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 
 ## Связанные статьи

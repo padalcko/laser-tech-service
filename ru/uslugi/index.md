@@ -22,7 +22,7 @@
 
 - Замена и калибровка лазерных диодов
 
-- Восстановление головок и манипул
+- [Восстановление головок и манипул](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
 
 - Ремонт систем охлаждения
 
@@ -166,6 +166,7 @@ lok. 320
 
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 - [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
 
 ## Связанные работы
 

@@ -16,6 +16,8 @@ Niewielka uszczelka, duże konsekwencje: po samodzielnej wymianie uszczelnienia 
 
 ![Uszkodzony moduł diodowy ze śladami cieczy i osadów](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp)
 
+[Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/) — poznaj zakres usługi i warunki wyceny.
+
 ## Problem: uszkodzony moduł po zalaniu
 
 Do naprawy w Poznaniu trafił laser z uszkodzonym modułem diodowym. Awaria nastąpiła po samodzielnej wymianie przez właściciela uszczelki pomiędzy elementami węzła manipuły. To nie sama dioda była początkiem problemu.
@@ -58,6 +60,7 @@ W tym konkretnym przypadku uszkodzenie powstało po samodzielnej ingerencji i na
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
 - [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
 ## Powiązane artykuły

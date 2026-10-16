@@ -83,5 +83,90 @@
         }
       }
     ]
+  },
+  "laser-handpiece-regeneration": {
+    "pages": {
+      "pl": "/uslugi/regeneracja-glowic-i-manipulatorow/",
+      "ru": "/ru/uslugi/vosstanovlenie-golovok-i-manipul/"
+    },
+    "cases": [
+      {
+        "pages": {
+          "pl": "/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+          "ru": "/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/"
+        },
+        "image": {
+          "src": "/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp",
+          "srcset": "/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan-480w.webp 480w, /img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan-768w.webp 768w, /img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp 1122w",
+          "width": "1122",
+          "height": "1402"
+        },
+        "content": {
+          "pl": {
+            "title": "Wymiana modułu po zalaniu — Poznań",
+            "symptom": "Uszkodzony moduł diodowy po przedostaniu się cieczy.",
+            "cause": "Nieprawidłowo osadzona uszczelka spowodowała utratę szczelności i zalanie modułu.",
+            "result": "Wymieniono moduł i uszczelkę, przywracając prawidłowe uszczelnienie."
+          },
+          "ru": {
+            "title": "Замена модуля после залития — Познань",
+            "symptom": "Повреждение диодного модуля после попадания жидкости.",
+            "cause": "Неправильно установленное уплотнение привело к потере герметичности и залитию модуля.",
+            "result": "Заменены модуль и уплотнение, восстановлена герметичность узла."
+          }
+        }
+      },
+      {
+        "pages": {
+          "pl": "/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+          "ru": "/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/"
+        },
+        "image": {
+          "src": "/img/blog/serwis-glowicy-lasera/nieszczelnosc-manipuly-lasera.webp",
+          "width": "1920",
+          "height": "1080"
+        },
+        "content": {
+          "pl": {
+            "title": "Serwis głowicy lasera diodowego — Poznań",
+            "symptom": "Nieszczelna głowica i zabrudzenia wewnątrz manipuły.",
+            "cause": "Utrata szczelności obudowy umożliwiała przedostawanie się kurzu, także w obszar optyki.",
+            "result": "Oczyszczono wnętrze i optykę oraz przywrócono szczelność głowicy."
+          },
+          "ru": {
+            "title": "Сервис манипулы диодного лазера — Познань",
+            "symptom": "Негерметичная головка и загрязнения внутри манипулы.",
+            "cause": "Нарушение герметичности корпуса позволило пыли проникнуть внутрь, в том числе в область оптики.",
+            "result": "Очищены внутренние элементы и оптика, восстановлена герметичность головки."
+          }
+        }
+      },
+      {
+        "pages": {
+          "pl": "/realizacje/wymiana-modulu-peltiera-estetech-poznan/",
+          "ru": "/ru/realizacje/zamena-modulya-pelte-estetech-poznan/"
+        },
+        "image": {
+          "src": "/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp",
+          "srcset": "/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula-480w.webp 480w, /img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula-768w.webp 768w, /img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp 864w",
+          "width": "864",
+          "height": "1536"
+        },
+        "content": {
+          "pl": {
+            "title": "Naprawa chłodzenia ESTETECH — Poznań",
+            "symptom": "Powierzchnia głowicy nie chłodziła prawidłowo.",
+            "cause": "Diagnostyka wykazała niesprawny moduł Peltiera.",
+            "result": "Wymieniono moduł, odnowiono termointerfejs i sprawdzono przywrócone chłodzenie."
+          },
+          "ru": {
+            "title": "Ремонт охлаждения ESTETECH — Познань",
+            "symptom": "Рабочая поверхность головки не охлаждалась должным образом.",
+            "cause": "Диагностика выявила неисправность модуля Пельтье.",
+            "result": "Заменён модуль, обновлён термоинтерфейс и проверено восстановленное охлаждение."
+          }
+        }
+      }
+    ]
   }
 }

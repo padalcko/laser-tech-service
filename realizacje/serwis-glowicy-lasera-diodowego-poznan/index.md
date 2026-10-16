@@ -24,6 +24,8 @@ Podczas realizacji serwisowej w Poznaniu zajęliśmy się głowicą lasera diodo
 
 - Lokalizacja: Poznań
 
+[Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/) — poznaj zakres usługi i warunki wyceny.
+
 ## Rozszczelniona głowica lasera diodowego
 
 Podczas wyjazdu serwisowego do klienta w Poznaniu sprawdziliśmy głowicę profesjonalnego lasera diodowego wykorzystywanego do depilacji.
@@ -150,6 +152,7 @@ Serwis znajduje się we Wrocławiu, a zlecenia i wyjazdy serwisowe realizujemy d
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
 - [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
 ## Powiązane artykuły
