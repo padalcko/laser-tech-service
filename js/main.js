@@ -548,3 +548,18 @@ document.addEventListener("DOMContentLoaded", () => {
     },
   );
 });
+
+/* Shared Lazar AI widget: all public PL/RU pages already load this entry point. */
+(() => {
+  const mountLazar = () => {
+    if (document.getElementById('lazar-ai-script')) return;
+    const style = document.createElement('link');
+    style.rel = 'stylesheet'; style.href = '/css/lazar-ai.css';
+    document.head.appendChild(style);
+    const script = document.createElement('script');
+    script.id = 'lazar-ai-script'; script.src = '/js/lazar-ai.js'; script.async = true;
+    document.body.appendChild(script);
+  };
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', mountLazar, { once: true });
+  else mountLazar();
+})();

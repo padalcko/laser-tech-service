@@ -1,0 +1,65 @@
+/* Lazar is isolated from site components. Mobile-first, non-modal dialog. */
+.lazar-root { font-family: var(--font-main, 'Montserrat', sans-serif); font-size: 14px; line-height: 1.5; color: var(--white, #fff); }
+.lazar-root *, .lazar-root *::before, .lazar-root *::after { box-sizing: border-box; }
+.lazar-root [hidden] { display: none !important; }
+.lazar-social-hidden { display: none !important; }
+.lazar-launcher { position: fixed; right: max(18px, env(safe-area-inset-right)); bottom: max(28px, env(safe-area-inset-bottom)); z-index: 1500; display: flex; align-items: center; justify-content: center; width: 58px; height: 58px; padding: 4px; border: 1px solid var(--gold); border-radius: 50%; background: var(--black); color: var(--gold-light); cursor: pointer; box-shadow: 0 0 20px #cbb26a33; isolation: isolate; }
+.lazar-launcher .lazar-avatar { width: 48px; height: 48px; flex-basis: 48px; }
+.lazar-launcher::before, .lazar-launcher::after { content: ''; position: absolute; inset: -6px; z-index: -1; border: 1px solid var(--gold); border-radius: 50%; opacity: .3; pointer-events: none; }
+.lazar-launcher::after { inset: -12px; opacity: .15; }
+.lazar-avatar { display: block; width: 38px; height: 38px; flex: 0 0 38px; }
+.lazar-panel { --lazar-panel-height: min(500px, calc(var(--lazar-vh, 100dvh) - 112px - env(safe-area-inset-top) - env(safe-area-inset-bottom))); position: fixed; z-index: 1600; right: max(12px, env(safe-area-inset-right)); top: calc(var(--lazar-top, 0px) + var(--lazar-vh, 100dvh) - var(--lazar-panel-height) - 94px - env(safe-area-inset-bottom)); width: min(360px, calc(100% - 24px - env(safe-area-inset-left) - env(safe-area-inset-right))); height: var(--lazar-panel-height); display: flex; flex-direction: column; min-height: 0; border: 1px solid var(--gold-dark); border-radius: 16px; overflow: hidden; background: var(--black-deep); box-shadow: 0 16px 48px #0006; }
+.lazar-header { display: flex; align-items: center; gap: 10px; padding: 8px 10px; background: var(--black); border-bottom: 1px solid var(--gold-dark); flex: 0 0 auto; }
+.lazar-heading { flex: 1; min-width: 0; }
+.lazar-title { font-size: 16px; font-weight: 700; color: var(--gold-light); }
+.lazar-brand, .lazar-subtitle { display: block; font-size: 10px; color: var(--white); }
+.lazar-close { width: 44px; height: 44px; flex: 0 0 44px; font: inherit; font-size: 28px; color: var(--gold-light); background: transparent; cursor: pointer; border-radius: 8px; }
+.lazar-log { flex: 1 1 auto; min-height: 0; padding: 12px; overflow-y: auto; overscroll-behavior: contain; scrollbar-color: var(--gold-dark) var(--black-deep); }
+.lazar-message { display: flex; gap: 8px; align-items: flex-start; margin-bottom: 12px; }
+.lazar-message .lazar-avatar { width: 28px; height: 28px; flex-basis: 28px; }
+.lazar-message-content { min-width: 0; max-width: 100%; }
+.lazar-bubble { margin: 0; padding: 10px 12px; border-radius: 12px; background: var(--section-soft); color: var(--black); white-space: pre-wrap; overflow-wrap: anywhere; min-width: 0; font-size: 13px; }
+.lazar-message--user { justify-content: flex-end; margin-left: 24px; }
+.lazar-message--user .lazar-bubble { background: var(--black-soft); color: var(--white); border: 1px solid var(--gold-dark); }
+.lazar-feedback { padding: 0 12px; font-size: 12px; color: var(--gold-light); overflow-wrap: anywhere; flex: 0 1 auto; overflow-y: auto; max-height: 30%; }
+.lazar-feedback:empty { display: none; }
+.lazar-retry { margin: 8px 12px 0; align-self: flex-start; }
+.lazar-contacts { display: flex; gap: 8px; padding: 8px 0 0; flex: 0 0 auto; flex-wrap: wrap; }
+.lazar-action { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 8px 10px; border: 1px solid var(--gold-dark); border-radius: 8px; color: var(--gold-light); background: var(--black-card); text-align: center; font: inherit; font-size: 12px; line-height: 1.4; cursor: pointer; }
+.lazar-contacts .lazar-action { flex: 1 1 90px; font-size: 11px; padding: 7px; }
+.lazar-contacts--priority .lazar-action { background: var(--gold-light); color: var(--black-deep); font-weight: 700; }
+.lazar-form { display: flex; flex: 0 0 auto; gap: 8px; padding: 0 12px 12px; }
+.lazar-input { flex: 1; min-width: 0; height: 56px; resize: none; padding: 10px; border: 1px solid var(--gold-dark); border-radius: 8px; background: var(--black-soft); color: var(--white); font: inherit; font-size: 16px; line-height: 1.4; }
+.lazar-input::placeholder { color: var(--gold-light); opacity: 1; }
+.lazar-send { align-self: stretch; background: var(--gold-light); color: var(--black-deep); font-weight: 700; }
+.lazar-root button:disabled { opacity: .6; cursor: wait; }
+.lazar-root :focus-visible { outline: 2px solid var(--gold-light); outline-offset: 2px; }
+.lazar-input:focus-visible { outline-offset: -3px; }
+@media (min-width: 651px) {
+ .lazar-launcher { right: max(32px, env(safe-area-inset-right)); bottom: max(38px, env(safe-area-inset-bottom)); }
+ .lazar-panel { right: max(24px, env(safe-area-inset-right)); }
+}
+@media (max-height: 480px) {
+ .lazar-panel { top: calc(var(--lazar-top, 0px) + 4px); height: calc(var(--lazar-vh, 100dvh) - 12px); }
+ .lazar-header { padding: 4px 10px; }
+ .lazar-brand { display: none; }
+ .lazar-input { height: 46px; }
+ .lazar-contacts { padding-top: 4px; padding-bottom: 4px; }
+}
+@media (prefers-reduced-motion: no-preference) {
+ .lazar-panel:not([hidden]) .lazar-header .lazar-avatar { animation: lazar-focus .3s ease-out; }
+ @keyframes lazar-focus { from { opacity: .5; transform: scale(.94); } to { opacity: 1; transform: scale(1); } }
+}
+
+/* visualViewport also shrinks when mobile keyboards do not resize layout viewport. */
+.lazar-root--compact .lazar-panel { top: calc(var(--lazar-top, 0px) + 4px); height: calc(var(--lazar-vh, 100dvh) - 12px); }
+.lazar-root--compact .lazar-header { padding: 4px 10px; }
+.lazar-root--compact .lazar-brand { display: none; }
+.lazar-root--compact .lazar-input { height: 46px; }
+.lazar-root--compact .lazar-contacts { padding-top: 4px; padding-bottom: 4px; }
+
+@media (prefers-reduced-motion: no-preference) {
+ .lazar-launcher::before, .lazar-launcher::after { animation: lazar-pulse 2.8s linear infinite; }
+ .lazar-launcher::after { animation-delay: 1.4s; }
+ @keyframes lazar-pulse { 0% { transform: scale(.85); opacity: 0; } 30% { opacity: .5; } 100% { transform: scale(1.2); opacity: 0; } }
+}
