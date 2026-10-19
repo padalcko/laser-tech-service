@@ -36,7 +36,7 @@
 
 Выберите категорию аппарата. Объём ремонта и стоимость запчастей подтверждаем индивидуально.
 
-### ND:YAG / IPL / BBL
+### ND:YAG / [IPL](https://lasertechservice.pl/ru/uslugi/servis-ipl/) / BBL
 
 Замена манипулы / головки
 
@@ -80,7 +80,7 @@
 
 Объём ремонта и включение деталей в конкретную позицию подтверждаем при расчёте стоимости.
 
-### CO₂ и пикосекундные лазеры
+### [Лазеры CO₂](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/) и пикосекундные лазеры
 
 Калибровка
 
@@ -204,3 +204,5 @@ lok. 320
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+- [Сервис и ремонт оборудования IPL](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
+- [Сервис и ремонт лазеров CO₂](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/)

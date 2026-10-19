@@ -227,5 +227,39 @@
         }
       }
     ]
+  },
+  "co2-laser-service": {
+    "pages": {
+      "pl": "/uslugi/serwis-laserow-co2/",
+      "ru": "/ru/uslugi/servis-lazerov-co2/"
+    },
+    "cases": [
+      {
+        "pages": {
+          "pl": "/realizacje/pilna-naprawa-lasera-co2-poznan/",
+          "ru": "/ru/realizacje/pilna-naprawa-lasera-co2-poznan/"
+        },
+        "image": {
+          "src": "/img/realizacje/laser-co2-poznan/manipula-lasera-diagnostyka-multimetrem.webp",
+          "srcset": "/img/realizacje/laser-co2-poznan/manipula-lasera-diagnostyka-multimetrem-480w.webp 480w, /img/realizacje/laser-co2-poznan/manipula-lasera-diagnostyka-multimetrem-768w.webp 768w, /img/realizacje/laser-co2-poznan/manipula-lasera-diagnostyka-multimetrem.webp 1125w",
+          "width": "1125",
+          "height": "2000"
+        },
+        "content": {
+          "pl": {
+            "title": "CO₂ w Poznaniu — diagnostyka przewodów manipuły",
+            "symptom": "Aparat nie reagował prawidłowo na naciśnięcie pedału.",
+            "cause": "Wewnętrzna przerwa w przewodzie manipuły; pedał był sprawny.",
+            "result": "Wymieniono uszkodzony przewód i sprawdzono przywróconą reakcję na sterowanie."
+          },
+          "ru": {
+            "title": "CO₂ в Познани — диагностика проводов манипулы",
+            "symptom": "Аппарат неправильно реагировал на нажатие педали.",
+            "cause": "Внутренний обрыв провода манипулы; педаль была исправна.",
+            "result": "Повреждённый провод заменён, восстановленная реакция на управление проверена."
+          }
+        }
+      }
+    ]
   }
 }

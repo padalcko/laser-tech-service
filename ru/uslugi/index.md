@@ -30,11 +30,11 @@
 
 - Ремонт сенсорных экранов и панелей управления
 
-- Сервис оборудования IPL
+- [Сервис оборудования IPL](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
 
 - Сервис лазеров ND:YAG
 
-- Сервис лазеров CO2
+- [Сервис лазеров CO2](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/)
 
 - Сервис пикосекундных лазеров
 
@@ -168,6 +168,8 @@ lok. 320
 - [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 - [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
 - [Ремонт блоков питания и электроники лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
+- [Сервис и ремонт оборудования IPL](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
+- [Сервис и ремонт лазеров CO₂](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/)
 
 ## Связанные работы
 

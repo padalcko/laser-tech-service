@@ -504,11 +504,11 @@ lok. 320
 
 - Ремонт сенсорных экранов и панелей управления
 
-- Сервис оборудования IPL
+- [Сервис оборудования IPL](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
 
 - Сервис лазеров ND:YAG
 
-- Сервис лазеров CO2
+- [Сервис лазеров CO2](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/)
 
 - Сервис пикосекундных лазеров
 
@@ -642,6 +642,8 @@ lok. 320
 - [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 - [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
 - [Ремонт блоков питания и электроники лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
+- [Сервис и ремонт оборудования IPL](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
+- [Сервис и ремонт лазеров CO₂](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/)
 
 #### Связанные работы
 
@@ -687,7 +689,7 @@ lok. 320
 
 Выберите категорию аппарата. Объём ремонта и стоимость запчастей подтверждаем индивидуально.
 
-##### ND:YAG / IPL / BBL
+##### ND:YAG / [IPL](https://lasertechservice.pl/ru/uslugi/servis-ipl/) / BBL
 
 Замена манипулы / головки
 
@@ -731,7 +733,7 @@ lok. 320
 
 Объём ремонта и включение деталей в конкретную позицию подтверждаем при расчёте стоимости.
 
-##### CO₂ и пикосекундные лазеры
+##### [Лазеры CO₂](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/) и пикосекундные лазеры
 
 Калибровка
 
@@ -855,6 +857,8 @@ lok. 320
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+- [Сервис и ремонт оборудования IPL](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
+- [Сервис и ремонт лазеров CO₂](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/)
 
 ### Диагностика диодных лазеров
 
@@ -1287,6 +1291,400 @@ Laser Tech Service выполняет профессиональную диаг�
 - [Маленький кабель — большая проблема. Почему соединение манипулы с аппаратом так важно?](https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/)
 - [CO₂-лазер не реагирует на педаль: симптом — ещё не диагноз](https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/)
 
+### Сервис и ремонт оборудования IPL
+
+Источник HTML: [Сервис и ремонт оборудования IPL](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
+
+Язык: Русский
+
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/serwis-ipl/)
+
+> Сервис IPL от 800 zł: ксеноновые лампы, оптика и охлаждение. Диагностика бесплатна при ремонте или обслуживании; выезд и детали рассчитываются отдельно.
+
+Обслуживаем IPL-аппараты для фотоэпиляции и других косметологических задач. Проверяем лампу, оптический тракт, охлаждение и параметры импульсов, подбирая объём ремонта по конструкции и состоянию оборудования.
+
+от 800 zł
+
+**Диагностика бесплатна при заказе обслуживания или ремонта IPL в Laser Tech Service.**
+
+Выезд специалиста оплачивается отдельно. Детали и дополнительные работы оцениваются индивидуально.
+
+[Оставить заявку на сервис IPL](https://lasertechservice.pl/ru/uslugi/servis-ipl/#diagnostic-form)[Позвонить](tel:+48790402597)
+
+#### Когда оборудованию IPL нужен сервис?
+
+Отсутствие импульса или снижение результата процедуры не указывают автоматически на одну неисправную деталь. Причину устанавливаем диагностикой с учётом настроек, конструкции и состояния аппарата.
+
+##### IPL не генерирует импульсы
+
+При попытке запуска отсутствует вспышка. Проверки требуют готовность аппарата, управление, лампа и её питание.
+
+##### Снизилась эффективность процедур
+
+Изношенная лампа может снижать энергию световых импульсов. Наблюдение за результатом процедуры не заменяет техническую проверку лампы и оптики.
+
+##### Манипула перегревается
+
+Чрезмерный нагрев может быть связан с недостаточным отводом тепла или другими неисправностями. Продолжать работу перегревающейся манипулой не следует.
+
+##### Не работает охлаждение
+
+Проверяем узлы, предусмотренные конкретной конструкцией, включая циркуляцию жидкости, если используется жидкостный контур.
+
+##### Ошибки и нестабильная работа
+
+Сообщения, перебои и нерегулярные импульсы оцениваем по документации аппарата. При обращении сообщите код ошибки.
+
+##### Повреждены фильтры или оптические элементы
+
+Трещины, деградация и загрязнения оптического тракта требуют оценки. Не каждый повреждённый компонент можно очистить или использовать повторно.
+
+#### Что входит в обслуживание IPL?
+
+##### Замена ксеноновых импульсных ламп IPL
+
+Диагностируем состояние импульсной лампы и проверяем работу манипулы. Заменяем изношенную или неисправную лампу на совместимый компонент, затем проверяем работоспособность. Износ лампы может приводить к снижению энергии световых импульсов.
+
+##### Очистка и замена оптических фильтров и световодов
+
+Проверяем фильтры и светопроводящие элементы, очищаем доступные поверхности подходящими методами, заменяем повреждённые или деградировавшие компоненты. После обслуживания контролируем оптическую систему. Не каждый фильтр или световод можно восстановить.
+
+##### Диагностика и ремонт системы охлаждения IPL
+
+Проверяем охлаждение манипулы и, в зависимости от конструкции, циркуляцию жидкости, насосы, вентиляторы и датчики. Устраняем выявленные неисправности и проверяем герметичность жидкостного контура, если он предусмотрен. Объём зависит от типа охлаждения.
+
+##### Контроль энергии импульсов и калибровка оборудования IPL
+
+Проверяем стабильность импульсов и рабочие параметры. Контролируем выходную энергию при наличии подходящего измерительного оборудования. Калибровка проводится по документации производителя, если она предусмотрена моделью и доступна соответствующая процедура. Не обещаем калибровку любого IPL.
+
+#### От обращения до проверки IPL
+
+1. ### Описание работы аппарата
+
+Сообщите модель, сообщения об ошибках и симптомы: отсутствие вспышки, снижение отдачи, нагрев или проблемы охлаждения.
+2. ### Диагностика манипулы и аппарата
+
+Оцениваем лампу, оптику и связанные системы в объёме, необходимом для проверки заявленной проблемы.
+3. ### Согласование ремонта и стоимости
+
+Определяем возможные работы, необходимые детали и доступность проверки или калибровки. Согласовываем расчёт с клиентом.
+4. ### Обслуживание или замена компонентов
+
+Выполняем согласованные работы с лампой, оптикой или охлаждением в соответствии с диагнозом.
+5. ### Проверка после сервиса
+
+Контролируем работу манипулы, охлаждение и параметры, доступные для проверки у данной модели.
+
+#### Стоимость и условия сервиса IPL
+
+##### Сервис IPL
+
+**от 800 zł**
+
+Окончательную стоимость согласовываем после диагностики.
+
+##### Диагностика при ремонте или обслуживании
+
+**0 zł**
+
+Диагностика бесплатна при заказе обслуживания или ремонта IPL в Laser Tech Service.
+
+##### Выезд специалиста
+
+Оплачивается отдельно
+
+Стоимость обслуживания начинается от 800 zł. Окончательную сумму согласовываем после диагностики. Запасные части, замена лампы, другие компоненты и дополнительные работы оцениваются индивидуально; 800 zł не означает любой ремонт со всеми деталями. Если нужна только диагностика, её условия и оплату согласовываем заранее.
+
+[Прайс и условия сервиса](https://lasertechservice.pl/ru/uslugi/cennik/)
+
+#### Почему Laser Tech Service?
+
+##### Сначала определяем источник проблемы
+
+Различаем неисправности лампы, оптики, охлаждения и управления, а не выбираем деталь исключительно по внешнему симптому.
+
+##### Учитываем конкретную модель
+
+До работ определяем возможности сервиса, доступность деталей и документации. Не обещаем ремонт любой конструкции.
+
+##### Проверяем после обслуживания
+
+Оцениваем работу обслуженных узлов и передаём информацию о дальнейшей эксплуатации IPL.
+
+#### Связанные услуги и материалы
+
+- [Диагностика диодных лазеров — отдельная услуга](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
+- [Ремонт блоков питания и электроники](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
+
+- [Восстановление головок и манипул](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
+- [Ремонт систем охлаждения — каталог услуг](https://lasertechservice.pl/ru/uslugi/)
+
+- [Техническое обслуживание — прайс и условия](https://lasertechservice.pl/ru/uslugi/cennik/)
+
+- [Проверка подержанного оборудования: различия тестов лазера и IPL](https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/)
+
+#### Вопросы о ремонте IPL
+
+##### Сколько стоит сервис оборудования IPL?
+
+Цена начинается от 800 zł. Итог определяем после диагностики; детали и дополнительные работы оцениваются индивидуально. Выезд специалиста оплачивается отдельно.
+
+##### Отсутствие вспышки означает износ лампы IPL?
+
+Не всегда. Причина может быть в лампе, её питании, управлении или условиях готовности аппарата. Замену лампы рекомендуем после проверки оборудования и манипулы.
+
+##### Когда нужно менять ксеноновую лампу?
+
+Учитываются её состояние, история использования, работа манипулы и требования производителя. Износ может снижать энергию импульсов. Универсального количества вспышек, после которого обязательно меняют любую лампу, мы не указываем.
+
+##### Можно ли очистить повреждённый оптический фильтр?
+
+Очистка помогает при подходящих загрязнениях доступной поверхности, но не устраняет трещины и не восстанавливает любую деградацию. Состояние фильтра и световода определяет возможность использования или необходимость замены.
+
+##### Что делать, если манипула IPL перегревается?
+
+Прекратите работу согласно инструкции аппарата и обратитесь в сервис. Проверка может затрагивать отвод тепла, циркуляцию жидкости, насос, вентиляторы и датчики — в зависимости от модели. Обходить защитные системы нельзя.
+
+##### Вы калибруете все модели IPL?
+
+Нет. Возможность зависит от документации, функций модели и наличия подходящего оборудования. Измерение энергии и калибровку согласовываем после оценки этих условий; показание заданной величины на дисплее их не заменяет.
+
+##### Диагностика и выезд бесплатны?
+
+Диагностика бесплатна при заказе обслуживания или ремонта в Laser Tech Service. Выезд оплачивается отдельно. Условия отдельно заказываемой диагностики согласовываются заранее.
+
+##### Как оформить обращение и когда возможен ремонт?
+
+Укажите модель IPL, симптомы и коды ошибок, а также историю обслуживания, если она известна. Срок зависит от диагностики, наличия лампы или других деталей и объёма работ; единого срока для всех моделей нет.
+
+#### Оставить заявку на сервис IPL
+
+Выезд специалиста оплачивается отдельно. Детали и дополнительные работы оцениваются индивидуально. [+48 790 402 597](tel:+48790402597) · [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)
+
+#### Услуги сервиса
+
+- [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+- [Ремонт блоков питания и электроники лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
+#### Связанные статьи
+
+- [Как правильно купить б/у лазерный аппарат для салона красоты и не потерять деньги?](https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/)
+
+### Сервис и ремонт лазеров CO₂
+
+Источник HTML: [Сервис и ремонт лазеров CO₂](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/)
+
+Язык: Русский
+
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/serwis-laserow-co2/)
+
+> Ремонт CO₂-лазеров от 1 200 zł: источник, оптика, сканер и охлаждение. Диагностика при ремонте бесплатна. Калибровка 1 600 zł, детали и выезд отдельно.
+
+Диагностируем и ремонтируем CO₂-лазеры косметологических и медицинских кабинетов, включая фракционные аппараты. Проверяем источник, оптический тракт, управление сканером и охлаждение, определяя работы по документации и возможностям модели.
+
+от 1 200 zł
+
+**Диагностика бесплатна при заказе ремонта или обслуживания CO₂ в Laser Tech Service.**
+
+Выезд оплачивается отдельно. Калибровка по прайсу: 1 600 zł — она не включена автоматически в ремонт от 1 200 zł.
+
+[Оставить заявку на сервис CO₂](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/#diagnostic-form)[Позвонить](tel:+48790402597)
+
+#### Когда CO₂-лазеру нужна диагностика?
+
+Неисправности питания, управления, источника или оптики могут давать похожие симптомы. Отсутствие излучения само по себе не доказывает поломку источника: нужна проверка соответствующих систем.
+
+##### CO₂-лазер не включается
+
+Отсутствие реакции требует проверки подачи питания, соединений и системы управления.
+
+##### Нет лазерного излучения
+
+Проверяем условия запуска генерации и цепь управления. Причина может находиться в соединении или сигнале запуска.
+
+##### Снизилась выходная мощность
+
+Оценки требуют источник, питание и состояние оптики. Значения на дисплее не заменяют контроль фактических параметров.
+
+##### Нестабильная работа фракционного сканера
+
+Неправильное сканирование требует диагностики механизма, управления и функций конкретной модели.
+
+##### Нарушено прохождение луча
+
+Проблема прохождения луча через оптическую систему требует проверки её элементов и настройки по документации.
+
+##### Перегрев и ошибки аппарата
+
+Ошибки электроники или охлаждения и повышенная температура требуют проверки соответствующих систем. Не продолжайте работу при аварийных сообщениях вопреки инструкции производителя.
+
+#### Что входит в сервис лазеров CO₂?
+
+##### Диагностика и ремонт лазерного источника CO₂
+
+Диагностируем источник и систему питания, выявляем причины нестабильной генерации. Ремонтируем или заменяем неисправные компоненты, когда это технически возможно. Не обещаем восстановление герметичного источника, конструкция которого не предусматривает ремонт.
+
+##### Обслуживание и юстировка оптической системы
+
+Осматриваем зеркала и линзы, очищаем их подходящими средствами и проверяем прохождение луча. Юстировку проводим по технической документации производителя. Правильная настройка оптики важна для стабильного прохождения луча по предусмотренному тракту.
+
+##### Диагностика и калибровка фракционного сканера CO₂
+
+Проверяем сканирующий механизм, систему управления и корректность сканирования. Калибровку выполняем по документации, если она поддерживается моделью. Она может оплачиваться отдельно по прайсу; объём и стоимость подтверждаем до работ.
+
+##### Проверка охлаждения и рабочих параметров лазера CO₂
+
+Диагностируем охлаждение, проверяем вентиляторы, датчики и другие предусмотренные конструкцией компоненты. Очищаем аппарат, контролируем выходные параметры и тестируем после ремонта. Учитываем различия воздушного и жидкостного охлаждения.
+
+#### Как проходит обслуживание CO₂?
+
+1. ### Модель и описание симптомов
+
+Сообщите реакцию аппарата, ошибки, особенности работы сканера и обстоятельства возникновения проблемы.
+2. ### Определение источника неисправности
+
+Проверяем соответствующие узлы: питание, управление, лазерный источник, оптику или охлаждение.
+3. ### Оценка возможностей и стоимости
+
+Определяем необходимые детали, ремонтопригодность и доступность процедур юстировки или калибровки. Согласовываем стоимость до работ.
+4. ### Ремонт и техническое обслуживание
+
+Выполняем утверждённый объём. Не подменяем диагностику автоматической заменой источника или сканера.
+5. ### Проверка параметров и работы
+
+Тестируем аппарат после ремонта с учётом конструкции; дополнительную калибровку выполняем в согласованном объёме.
+
+#### Цена ремонта CO₂ и отдельная калибровка
+
+##### Ремонт CO₂
+
+**от 1 200 zł**
+
+Окончательную стоимость согласовываем после диагностики.
+
+##### Диагностика при ремонте или обслуживании
+
+**0 zł**
+
+Диагностика бесплатна при заказе ремонта или обслуживания CO₂ в Laser Tech Service.
+
+##### Выезд специалиста
+
+Оплачивается отдельно
+
+##### Калибровка
+
+**1 600 zł**
+
+Отдельная позиция прайса; возможность и объём подтверждаем для модели.
+
+Ремонт начинается от 1 200 zł. Окончательную цену определяем после диагностики, стоимость деталей согласовываем индивидуально. В действующем прайсе указан ориентир 1 200–1 800 zł за ремонт плюс запчасти; 1 800 zł не является максимальной ценой любой неисправности. Калибровка в прайсе стоит 1 600 zł и не входит автоматически в базовую цену. Доступность, объём и оплату калибровки сканера подтверждаем для конкретной модели. Отдельно заказанная диагностика оплачивается по согласованным условиям.
+
+[Прайс и условия сервиса](https://lasertechservice.pl/ru/uslugi/cennik/)
+
+#### Подход Laser Tech Service к ремонту CO₂
+
+##### Проверяем путь сигнала и луча
+
+Различаем проблемы запуска, питания, источника и оптики. Отсутствие реакции на педаль не означает, что педаль обязательно нужно менять.
+
+##### Учитываем ограничения конструкции
+
+Оцениваем документацию, наличие деталей и возможность безопасного ремонта. Не заявляем восстановление любого источника или калибровку каждого сканера.
+
+##### Контролируем результат технических работ
+
+После ремонта проверяем взаимодействие обслуженных систем, не ограничиваясь установкой детали.
+
+#### Пример ремонта CO₂ в Познани
+
+Документированный случай показывает поиск неисправности в цепи управления; он не является примером ремонта источника или калибровки сканера.
+
+![CO₂ в Познани — диагностика проводов манипулы](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/manipula-lasera-diagnostyka-multimetrem.webp)
+
+##### CO₂ в Познани — диагностика проводов манипулы
+
+**Симптом:** Аппарат неправильно реагировал на нажатие педали.
+
+**Причина:** Внутренний обрыв провода манипулы; педаль была исправна.
+
+**Результат:** Повреждённый провод заменён, восстановленная реакция на управление проверена.
+
+[Полное описание →](https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/)
+
+#### Связанные услуги и материалы
+
+- [Диагностика диодных лазеров — отдельная услуга](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
+- [Ремонт блоков питания и электроники](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
+
+- [Восстановление головок и манипул](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
+- [Ремонт систем охлаждения — каталог услуг](https://lasertechservice.pl/ru/uslugi/)
+
+- [Техническое обслуживание — прайс и условия](https://lasertechservice.pl/ru/uslugi/cennik/)
+
+- [CO₂ не реагирует на педаль: почему нужна диагностика](https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/)
+
+#### Вопросы о сервисе лазеров CO₂
+
+##### Сколько стоит ремонт CO₂-лазера?
+
+Цена начинается от 1 200 zł. Итог зависит от диагностики, работ и деталей. В прайсе указан ориентир 1 200–1 800 zł плюс запчасти, без гарантии максимальной цены. Выезд оплачивается отдельно.
+
+##### Калибровка за 1 600 zł входит в ремонт?
+
+Она не включена автоматически в ремонт от 1 200 zł. В прайсе калибровка указана отдельной позицией 1 600 zł. Её доступность и объём, в том числе для фракционного сканера, определяем с учётом модели и документации.
+
+##### Можно ли отремонтировать любой источник CO₂?
+
+Нет. Возможность зависит от конструкции, повреждения и доступности деталей. Не обещаем восстановление герметичного источника, который не предусматривает ремонта; может потребоваться замена.
+
+##### Почему при нажатии педали нет излучения?
+
+Причина может быть в готовности аппарата, соединениях, управлении, питании или источнике. Сначала проверяем цепь и локализуем неисправность. В описанной реализации из Познани педаль была исправна, а замены требовал провод.
+
+##### Зачем юстировать оптику CO₂-лазера?
+
+Настройка зеркал и других элементов определяет правильное прохождение луча через оптический тракт. Проверку и юстировку проводят по документации с учётом состояния оптики. Очистка сама по себе не заменяет оценку настройки.
+
+##### Вы ремонтируете и калибруете фракционные сканеры?
+
+Диагностируем механизм и управление сканера, оцениваем возможность ремонта. Калибровка возможна, если поддерживается моделью и доступна соответствующая процедура производителя. Стоимость согласовываем заранее.
+
+##### Все CO₂-лазеры охлаждаются водой?
+
+Нет. Разные конструкции используют воздушное или жидкостное охлаждение. Проверка вентиляторов, датчиков и жидкостного контура, если он есть, должна соответствовать конкретному аппарату.
+
+##### Диагностика и выезд включены в ремонт?
+
+Диагностика бесплатна при заказе ремонта или обслуживания в Laser Tech Service. Выезд оплачивается отдельно, а стоимость деталей согласовывается индивидуально. Условия отдельной диагностики подтверждаем до начала работ.
+
+#### Оставить заявку на сервис CO₂
+
+Выезд оплачивается отдельно. Калибровка по прайсу: 1 600 zł — она не включена автоматически в ремонт от 1 200 zł. [+48 790 402 597](tel:+48790402597) · [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)
+
+#### Услуги сервиса
+
+- [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+- [Ремонт блоков питания и электроники лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
+#### Связанные работы
+
+- [Срочный ремонт CO₂-аппарата в Познани с выездом к клиенту](https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/)
+
+#### Связанные статьи
+
+- [CO₂-лазер не реагирует на педаль: симптом — ещё не диагноз](https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/)
+
 ### Восстановление головок и манипул лазерных аппаратов
 
 Источник HTML: [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
@@ -1562,11 +1960,11 @@ Naprawiamy urządzenia wykorzystywane w salonach beauty, klinikach kosmetologicz
 
 - Naprawa ekranów dotykowych i paneli sterujących
 
-- Serwis urządzeń IPL
+- [Serwis urządzeń IPL](https://lasertechservice.pl/uslugi/serwis-ipl/)
 
 - Serwis laserów ND:YAG
 
-- Serwis laserów CO2
+- [Serwis laserów CO2](https://lasertechservice.pl/uslugi/serwis-laserow-co2/)
 
 - Serwis laserów pikosekundowych
 
@@ -1700,6 +2098,8 @@ lok. 320
 - [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 - [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
 - [Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
+- [Serwis i naprawa urządzeń IPL](https://lasertechservice.pl/uslugi/serwis-ipl/)
+- [Serwis i naprawa laserów CO₂](https://lasertechservice.pl/uslugi/serwis-laserow-co2/)
 
 #### Powiązane realizacje
 
@@ -1745,7 +2145,7 @@ Stawka orientacyjna. Ostateczny koszt przejazdu i liczbę rozliczanych kilometr�
 
 Wybierz kategorię urządzenia. Zakres naprawy i koszty części potwierdzamy indywidualnie.
 
-##### ND:YAG / IPL / BBL
+##### ND:YAG / [IPL](https://lasertechservice.pl/uslugi/serwis-ipl/) / BBL
 
 Wymiana manipuły / głowicy
 
@@ -1789,7 +2189,7 @@ Wymiana rolek w manipule
 
 Zakres naprawy oraz to, czy dana pozycja obejmuje części, potwierdzamy w wycenie.
 
-##### Lasery CO₂ i pikosekundowe
+##### [Lasery CO₂](https://lasertechservice.pl/uslugi/serwis-laserow-co2/) i pikosekundowe
 
 Kalibracja
 
@@ -1913,6 +2313,8 @@ lok. 320
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+- [Serwis i naprawa urządzeń IPL](https://lasertechservice.pl/uslugi/serwis-ipl/)
+- [Serwis i naprawa laserów CO₂](https://lasertechservice.pl/uslugi/serwis-laserow-co2/)
 
 ### Diagnostyka laserów diodowych
 
@@ -2588,6 +2990,400 @@ Od wyniku diagnostyki, zakresu uszkodzeń, dostępności kompatybilnych części
 - [Dlaczego palą się moduły diodowe w laserach do depilacji? Przyczyny, objawy i konsekwencje](https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/)
 - [Serwis głowicy lasera diodowego – dlaczego szczelność i czysta optyka są tak ważne?](https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/)
 
+### Serwis i naprawa urządzeń IPL
+
+Źródło HTML: [Serwis i naprawa urządzeń IPL](https://lasertechservice.pl/uslugi/serwis-ipl/)
+
+Język: Polski
+
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
+
+> Serwis urządzeń IPL od 800 zł: lampy ksenonowe, optyka i chłodzenie. Diagnostyka bezpłatna przy naprawie lub obsłudze; dojazd i części wyceniane osobno.
+
+Serwisujemy urządzenia IPL do fotodepilacji i innych zastosowań kosmetologicznych. Sprawdzamy lampę, tor optyczny, chłodzenie i parametry impulsów, aby dobrać zakres naprawy do konstrukcji oraz stanu aparatu.
+
+od 800 zł
+
+**Diagnostyka bezpłatna przy zleceniu obsługi serwisowej lub naprawy IPL w Laser Tech Service.**
+
+Dojazd specjalisty płatny osobno. Części i dodatkowe prace wyceniamy indywidualnie.
+
+[Zgłoś urządzenie IPL](https://lasertechservice.pl/uslugi/serwis-ipl/#diagnostic-form)[Zadzwoń](tel:+48790402597)
+
+#### Kiedy urządzenie IPL wymaga serwisu?
+
+Brak impulsu lub słabszy efekt zabiegu nie wskazuje automatycznie jednej uszkodzonej części. Przyczynę ustalamy po diagnostyce, uwzględniając ustawienia, konstrukcję i stan urządzenia.
+
+##### Brak impulsów IPL
+
+Aparat nie wyzwala błysku mimo próby uruchomienia. Sprawdzenia wymagają stan gotowości, sterowanie, lampa i jej zasilanie.
+
+##### Spadek skuteczności zabiegów
+
+Zużyta lampa może powodować obniżenie energii impulsów. Sama obserwacja efektu zabiegu nie zastępuje kontroli technicznej lampy i optyki.
+
+##### Przegrzewanie głowicy
+
+Nadmierne nagrzewanie manipuły może wynikać z niewystarczającego odbioru ciepła lub innych usterek. Nie należy kontynuować pracy z przegrzewającą się głowicą.
+
+##### Niesprawne chłodzenie
+
+Brak prawidłowego chłodzenia wymaga sprawdzenia elementów przewidzianych dla danego modelu, w tym obiegu cieczy, jeśli występuje.
+
+##### Błędy i niestabilna praca
+
+Komunikaty, przerwy w działaniu i nieregularne impulsy oceniamy według dokumentacji aparatu. Przy zgłoszeniu podaj kod błędu.
+
+##### Uszkodzone filtry lub elementy optyczne
+
+Pęknięcia, degradacja lub zabrudzenia w torze optycznym wymagają oceny. Nie każdy uszkodzony element nadaje się do czyszczenia lub ponownego użycia.
+
+#### Co obejmuje serwis IPL?
+
+##### Wymiana ksenonowych lamp błyskowych IPL
+
+Diagnozujemy stan lampy impulsowej i sprawdzamy pracę głowicy. Wymieniamy zużytą lub niesprawną lampę na element zgodny z urządzeniem, a następnie kontrolujemy działanie. Zużycie lampy może prowadzić do spadku energii impulsów świetlnych.
+
+##### Czyszczenie i wymiana filtrów optycznych oraz elementów światłowodu
+
+Oceniamy stan filtrów i elementów prowadzących światło, czyścimy dostępne powierzchnie odpowiednimi metodami, a uszkodzone lub zdegradowane części wymieniamy. Po obsłudze sprawdzamy tor optyczny. Nie każdy filtr ani światłowód można przywrócić do użytkowania.
+
+##### Diagnostyka i naprawa układu chłodzenia IPL
+
+Sprawdzamy chłodzenie manipuły oraz — zależnie od budowy — obieg cieczy, pompy, wentylatory i czujniki. Usuwamy rozpoznane usterki i kontrolujemy szczelność układu cieczowego, jeśli występuje. Zakres zależy od zastosowanej konstrukcji chłodzenia.
+
+##### Kontrola energii impulsów i kalibracja urządzenia IPL
+
+Sprawdzamy stabilność impulsów i parametry pracy. Pomiar energii wyjściowej wykonujemy, gdy dostępne jest odpowiednie wyposażenie pomiarowe. Kalibracja jest możliwa zgodnie z dokumentacją producenta, jeżeli dany model ją przewiduje i procedura jest dostępna. Nie deklarujemy kalibracji każdego IPL.
+
+#### Od zgłoszenia do sprawdzenia IPL
+
+1. ### Opis pracy aparatu
+
+Przekaż model, komunikaty i objawy: brak błysku, słabszą pracę, nagrzewanie lub problem z chłodzeniem.
+2. ### Diagnostyka głowicy i urządzenia
+
+Oceniamy lampę, optykę oraz współpracujące układy w zakresie wynikającym ze zgłoszenia.
+3. ### Uzgodnienie naprawy i ceny
+
+Potwierdzamy możliwe prace, wymagane części i dostępność procedur kontroli lub kalibracji. Uzgadniamy wycenę z klientem.
+4. ### Obsługa lub wymiana komponentów
+
+Wykonujemy zaakceptowane prace przy lampie, optyce albo chłodzeniu, odpowiednio do diagnozy.
+5. ### Test działania po serwisie
+
+Kontrolujemy pracę głowicy, chłodzenie i parametry dostępne do sprawdzenia dla danego modelu.
+
+#### Koszt serwisu IPL i warunki
+
+##### Serwis IPL
+
+**od 800 zł**
+
+Ostateczny koszt uzgadniamy po diagnostyce.
+
+##### Diagnostyka przy naprawie lub obsłudze
+
+**0 zł**
+
+Diagnostyka bezpłatna przy zleceniu obsługi serwisowej lub naprawy IPL w Laser Tech Service.
+
+##### Dojazd specjalisty
+
+Płatny osobno
+
+Cena serwisu zaczyna się od 800 zł. Ostateczną kwotę uzgadniamy po diagnostyce. Części zamienne, wymiana lampy, inne komponenty i dodatkowe prace wymagają indywidualnej wyceny; 800 zł nie oznacza dowolnej naprawy z kompletem części. Jeśli zamawiasz wyłącznie diagnostykę, jej warunki i opłatę ustalamy przed realizacją.
+
+[Cennik i warunki serwisu](https://lasertechservice.pl/uslugi/cennik/)
+
+#### Dlaczego Laser Tech Service?
+
+##### Najpierw rozpoznanie przyczyny
+
+Rozróżniamy problemy lampy, optyki, chłodzenia i sterowania zamiast dobierać część wyłącznie na podstawie objawu.
+
+##### Zakres dopasowany do modelu
+
+Przed pracami określamy możliwości serwisu i dostępność komponentów oraz dokumentacji. Nie obiecujemy naprawy każdej konstrukcji.
+
+##### Kontrola po wykonaniu prac
+
+Po obsłudze oceniamy działanie naprawionych zespołów i przekazujemy informacje dotyczące dalszej eksploatacji IPL.
+
+#### Powiązane usługi i materiały
+
+- [Diagnostyka laserów diodowych — odrębna usługa](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
+- [Naprawa zasilaczy i elektroniki](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
+
+- [Regeneracja głowic i manipulatorów](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+- [Naprawa układów chłodzenia — katalog usług](https://lasertechservice.pl/uslugi/)
+
+- [Przeglądy i obsługa techniczna — cennik i warunki](https://lasertechservice.pl/uslugi/cennik/)
+
+- [Ocena używanego sprzętu: różnice między testami lasera i IPL](https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/)
+
+#### Pytania o naprawę IPL
+
+##### Ile kosztuje serwis urządzenia IPL?
+
+Cena zaczyna się od 800 zł. Końcowy koszt ustalamy po diagnostyce; części i dodatkowe prace są wyceniane indywidualnie. Dojazd specjalisty jest płatny osobno.
+
+##### Czy brak błysku oznacza zużytą lampę IPL?
+
+Nie zawsze. Przyczyna może dotyczyć lampy, jej zasilania, sterowania lub warunków gotowości urządzenia. Wymianę lampy zalecamy po sprawdzeniu aparatu i głowicy.
+
+##### Kiedy należy wymienić lampę ksenonową?
+
+Ocenia się jej stan, historię użytkowania, pracę głowicy i wymagania producenta. Zużycie może powodować spadek energii impulsów. Nie podajemy uniwersalnej liczby błysków, po której każda lampa wymaga wymiany.
+
+##### Czy uszkodzony filtr optyczny można wyczyścić?
+
+Czyszczenie pomaga przy odpowiednich zabrudzeniach dostępnej powierzchni, lecz nie naprawia pęknięć ani każdej degradacji. Stan filtra i elementów prowadzących światło decyduje o możliwości dalszego użycia lub konieczności wymiany.
+
+##### Co zrobić, gdy głowica IPL się przegrzewa?
+
+Przerwij pracę zgodnie z instrukcją urządzenia i zgłoś problem. Diagnostyka może obejmować odbiór ciepła, obieg cieczy, pompę, wentylatory i czujniki, zależnie od modelu. Nie należy omijać zabezpieczeń.
+
+##### Czy kalibrujecie każdy model IPL?
+
+Nie. Dostępność kalibracji zależy od dokumentacji i funkcji modelu oraz odpowiedniego wyposażenia. Pomiar energii i kalibrację uzgadniamy po ustaleniu tych możliwości; nie zastępuje ich odczyt wartości zadanej z ekranu.
+
+##### Czy diagnostyka i dojazd są bezpłatne?
+
+Diagnostyka jest bezpłatna przy zleceniu obsługi lub naprawy w Laser Tech Service. Dojazd pozostaje płatny osobno. Samodzielnie zamawiana diagnostyka ma uzgadniane wcześniej warunki.
+
+##### Jak przygotować zgłoszenie i kiedy możliwa jest naprawa?
+
+Podaj model IPL, opis objawów i kody błędów oraz historię serwisu, jeśli jest znana. Termin zależy od diagnozy, dostępności lampy lub innych części i zakresu prac; nie ma jednego terminu dla wszystkich modeli.
+
+#### Zgłoś urządzenie IPL
+
+Dojazd specjalisty płatny osobno. Części i dodatkowe prace wyceniamy indywidualnie. [+48 790 402 597](tel:+48790402597) · [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)
+
+#### Usługi serwisowe
+
+- [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+- [Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+#### Powiązane artykuły
+
+- [Jak prawidłowo kupić używany laser kosmetyczny i nie stracić pieniędzy?](https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/)
+
+### Serwis i naprawa laserów CO₂
+
+Źródło HTML: [Serwis i naprawa laserów CO₂](https://lasertechservice.pl/uslugi/serwis-laserow-co2/)
+
+Język: Polski
+
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/)
+
+> Naprawa laserów CO₂ od 1 200 zł: źródło, optyka, skaner i chłodzenie. Diagnostyka przy naprawie bezpłatna. Kalibracja 1 600 zł, części i dojazd osobno.
+
+Diagnozujemy i naprawiamy lasery CO₂ stosowane w gabinetach kosmetologicznych i medycznych, w tym aparaty frakcyjne. Sprawdzamy źródło, tor optyczny, sterowanie skanerem oraz chłodzenie, dobierając prace do dokumentacji i możliwości modelu.
+
+od 1 200 zł
+
+**Diagnostyka bezpłatna przy zleceniu naprawy lub obsługi serwisowej CO₂ w Laser Tech Service.**
+
+Dojazd płatny osobno. Kalibracja według cennika: 1 600 zł — nie jest automatycznie wliczona w naprawę od 1 200 zł.
+
+[Zgłoś laser CO₂ do serwisu](https://lasertechservice.pl/uslugi/serwis-laserow-co2/#diagnostic-form)[Zadzwoń](tel:+48790402597)
+
+#### Jakie objawy wymagają diagnostyki lasera CO₂?
+
+Usterka zasilania, sterowania, źródła lub toru optycznego może dawać podobne objawy. Sam brak emisji nie przesądza o uszkodzeniu źródła; potrzebna jest diagnostyka całego odpowiedniego obwodu.
+
+##### Laser CO₂ nie uruchamia się
+
+Brak reakcji aparatu wymaga oceny doprowadzenia zasilania, połączeń i układów sterowania.
+
+##### Brak promieniowania laserowego
+
+Sprawdzamy warunki uruchomienia emisji i obwód sterowania. Przyczyną może być także połączenie lub sygnał wyzwalający.
+
+##### Obniżona moc wyjściowa
+
+Oceny wymagają źródło, zasilanie i stan optyki. Wartości na ekranie nie zastępują kontroli rzeczywistych parametrów.
+
+##### Niestabilne skanowanie frakcyjne
+
+Nieprawidłowa praca skanera wymaga diagnostyki mechanizmu, sterowania i funkcji dostępnych w danym modelu.
+
+##### Problem z torem wiązki
+
+Nieprawidłowe przejście wiązki przez układ optyczny wymaga kontroli jego elementów i ustawienia zgodnie z dokumentacją.
+
+##### Przegrzewanie i komunikaty błędów
+
+Błędy elektroniki lub chłodzenia i nadmierna temperatura wymagają oceny odpowiednich układów. Nie kontynuuj pracy przy alarmach wbrew instrukcji producenta.
+
+#### Zakres serwisu laserów CO₂
+
+##### Diagnostyka i naprawa źródła lasera CO₂
+
+Diagnozujemy źródło i jego zasilanie, ustalamy przyczyny niestabilnej generacji. Naprawiamy lub wymieniamy niesprawne komponenty, gdy jest to technicznie możliwe. Nie obiecujemy regeneracji szczelnie zamkniętego źródła, którego konstrukcja nie przewiduje naprawy.
+
+##### Serwis i justowanie układu optycznego
+
+Oglądamy lustra i soczewki, czyścimy elementy odpowiednimi środkami i sprawdzamy przebieg wiązki. Justowanie wykonujemy według dokumentacji producenta. Prawidłowe ustawienie optyki ma znaczenie dla stabilnego przekazywania wiązki przez zaprojektowany tor.
+
+##### Diagnostyka i kalibracja skanera frakcyjnego CO₂
+
+Sprawdzamy mechanizm skanowania, układ sterowania i prawidłowość pracy skanera. Kalibrację wykonujemy według dokumentacji, jeśli wspiera ją konkretny model. Może być rozliczana oddzielnie według cennika — zakres i koszt potwierdzamy przed pracami.
+
+##### Kontrola chłodzenia i parametrów pracy lasera CO₂
+
+Diagnozujemy chłodzenie, sprawdzamy wentylatory, czujniki i pozostałe elementy właściwe dla konstrukcji. Czyścimy urządzenie, kontrolujemy parametry wyjściowe i testujemy działanie po naprawie. Uwzględniamy różnice między chłodzeniem powietrznym i cieczowym.
+
+#### Jak serwisujemy laser CO₂?
+
+1. ### Zgłoszenie modelu i objawów
+
+Opisz reakcję aparatu, komunikaty, pracę skanera i okoliczności pojawienia się problemu.
+2. ### Rozpoznanie źródła usterki
+
+Sprawdzamy odpowiednie układy: zasilanie, sterowanie, źródło, optykę lub chłodzenie.
+3. ### Ustalenie możliwości i wyceny
+
+Określamy potrzebne części, możliwość naprawy oraz dostępność procedur justowania lub kalibracji. Koszty uzgadniamy przed pracami.
+4. ### Naprawa i obsługa techniczna
+
+Realizujemy zatwierdzony zakres. Nie zastępujemy diagnozy automatyczną wymianą źródła czy skanera.
+5. ### Sprawdzenie parametrów i pracy
+
+Testujemy urządzenie po naprawie zgodnie z jego konstrukcją; dodatkową kalibrację wykonujemy w uzgodnionym zakresie.
+
+#### Cena naprawy CO₂ i osobna kalibracja
+
+##### Naprawa CO₂
+
+**od 1 200 zł**
+
+Ostateczny koszt uzgadniamy po diagnostyce.
+
+##### Diagnostyka przy naprawie lub obsłudze
+
+**0 zł**
+
+Diagnostyka bezpłatna przy zleceniu naprawy lub obsługi serwisowej CO₂ w Laser Tech Service.
+
+##### Dojazd specjalisty
+
+Płatny osobno
+
+##### Kalibracja
+
+**1 600 zł**
+
+Oddzielna pozycja cennika; możliwość i zakres potwierdzamy dla modelu.
+
+Naprawa zaczyna się od 1 200 zł. Ostateczną cenę ustalamy po diagnostyce, a koszt części uzgadniamy indywidualnie. Aktualny cennik podaje orientacyjnie 1 200–1 800 zł za naprawę plus części; 1 800 zł nie jest maksymalną ceną każdej naprawy. Kalibracja w cenniku kosztuje 1 600 zł i nie jest automatycznie częścią ceny bazowej. Dostępność, zakres i rozliczenie kalibracji skanera potwierdzamy dla modelu. Samodzielnie zamawiana diagnostyka jest płatna według uzgodnionych warunków.
+
+[Cennik i warunki serwisu](https://lasertechservice.pl/uslugi/cennik/)
+
+#### Podejście Laser Tech Service do CO₂
+
+##### Sprawdzamy drogę sygnału i wiązki
+
+Rozróżniamy problemy wyzwalania, zasilania, źródła oraz optyki. Brak reakcji na pedał nie oznacza automatycznie konieczności wymiany pedału.
+
+##### Pracujemy w granicach konstrukcji
+
+Oceniamy dokumentację, dostępność części i możliwość bezpiecznej naprawy. Nie deklarujemy odtworzenia każdego źródła ani kalibracji każdego skanera.
+
+##### Kontrolujemy efekt prac technicznych
+
+Po wykonaniu naprawy sprawdzamy współpracę obsługiwanych układów, zamiast kończyć pracę na samym montażu części.
+
+#### Przykład naprawy CO₂ w Poznaniu
+
+Udokumentowany przypadek dotyczy usterki obwodu sterowania; nie jest przykładem naprawy źródła ani kalibracji skanera.
+
+![CO₂ w Poznaniu — diagnostyka przewodów manipuły](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/manipula-lasera-diagnostyka-multimetrem.webp)
+
+##### CO₂ w Poznaniu — diagnostyka przewodów manipuły
+
+**Objaw:** Aparat nie reagował prawidłowo na naciśnięcie pedału.
+
+**Przyczyna:** Wewnętrzna przerwa w przewodzie manipuły; pedał był sprawny.
+
+**Rezultat:** Wymieniono uszkodzony przewód i sprawdzono przywróconą reakcję na sterowanie.
+
+[Pełna realizacja →](https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/)
+
+#### Powiązane usługi i materiały
+
+- [Diagnostyka laserów diodowych — odrębna usługa](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
+- [Naprawa zasilaczy i elektroniki](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
+
+- [Regeneracja głowic i manipulatorów](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+- [Naprawa układów chłodzenia — katalog usług](https://lasertechservice.pl/uslugi/)
+
+- [Przeglądy i obsługa techniczna — cennik i warunki](https://lasertechservice.pl/uslugi/cennik/)
+
+- [CO₂ nie reaguje na pedał: dlaczego potrzebna jest diagnostyka](https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/)
+
+#### Pytania o serwis laserów CO₂
+
+##### Ile kosztuje naprawa lasera CO₂?
+
+Cena zaczyna się od 1 200 zł. Ostateczna kwota zależy od diagnozy, prac i części. Cennik wskazuje orientacyjnie 1 200–1 800 zł plus części, bez gwarancji maksymalnej ceny. Dojazd rozliczamy osobno.
+
+##### Czy kalibracja za 1 600 zł jest w cenie naprawy?
+
+Nie jest automatycznie wliczona w naprawę od 1 200 zł. Kalibracja figuruje w cenniku jako oddzielna pozycja 1 600 zł. Jej dostępność i zakres, także dla skanera frakcyjnego, ustalamy z uwzględnieniem modelu i dokumentacji.
+
+##### Czy można naprawić każde źródło CO₂?
+
+Nie. Możliwość naprawy zależy od budowy, rodzaju uszkodzenia i dostępności części. Nie obiecujemy przywrócenia szczelnego źródła, którego konstrukcja nie przewiduje naprawy; może być potrzebna wymiana.
+
+##### Co oznacza brak emisji mimo naciskania pedału?
+
+Problem może znajdować się w warunkach gotowości, połączeniach, sterowaniu, zasilaniu lub źródle. Najpierw sprawdzamy obwód i przyczynę. W opisanej realizacji z Poznania pedał był sprawny, a wymiany wymagał przewód.
+
+##### Po co justować optykę lasera CO₂?
+
+Ustawienie luster i innych elementów decyduje o prawidłowym przejściu wiązki przez tor optyczny. Kontrolę i justowanie prowadzi się według dokumentacji, z uwzględnieniem stanu optyki. Samo czyszczenie nie zastępuje oceny ustawienia.
+
+##### Czy naprawiacie i kalibrujecie skanery frakcyjne?
+
+Diagnozujemy mechanizm oraz sterowanie skanera i oceniamy możliwości naprawy. Kalibracja jest możliwa, jeżeli wspiera ją model i dostępna jest odpowiednia procedura producenta. Koszt ustalamy przed realizacją.
+
+##### Czy wszystkie lasery CO₂ są chłodzone wodą?
+
+Nie. Konstrukcje różnią się chłodzeniem powietrznym lub cieczowym. Kontrola wentylatorów, czujników i obiegu cieczy, jeśli występuje, musi odpowiadać konkretnej budowie aparatu.
+
+##### Czy diagnostyka i dojazd są wliczone w naprawę?
+
+Diagnostyka jest bezpłatna przy zleceniu naprawy lub obsługi w Laser Tech Service. Dojazd jest płatny oddzielnie, a części uzgadniamy indywidualnie. Dla samej diagnostyki potwierdzamy warunki przed rozpoczęciem.
+
+#### Zgłoś laser CO₂ do serwisu
+
+Dojazd płatny osobno. Kalibracja według cennika: 1 600 zł — nie jest automatycznie wliczona w naprawę od 1 200 zł. [+48 790 402 597](tel:+48790402597) · [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)
+
+#### Usługi serwisowe
+
+- [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+- [Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+#### Powiązane realizacje
+
+- [Pilna naprawa lasera CO₂ w Poznaniu — serwis u klienta](https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/)
+
+#### Powiązane artykuły
+
+- [Laser CO₂ nie reaguje na pedał? Objaw to jeszcze nie diagnoza](https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/)
+
 ## Equipment
 
 
@@ -2620,6 +3416,19 @@ Od wyniku diagnostyki, zakresu uszkodzeń, dostępności kompatybilnych części
 - Диагностика диодных лазеров
 
 [HTML](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
+
+### Русский
+
+- Диагностика диодных лазеров — отдельная услуга
+- Проверка подержанного оборудования: различия тестов лазера и IPL
+
+[HTML](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
+
+### Русский
+
+- Диагностика диодных лазеров — отдельная услуга
+
+[HTML](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/)
 
 ### Русский
 
@@ -2664,6 +3473,19 @@ Od wyniku diagnostyki, zakresu uszkodzeń, dostępności kompatybilnych części
 - Diagnostyka laserów diodowych
 
 [HTML](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+### Polski
+
+- Diagnostyka laserów diodowych — odrębna usługa
+- Ocena używanego sprzętu: różnice między testami lasera i IPL
+
+[HTML](https://lasertechservice.pl/uslugi/serwis-ipl/)
+
+### Polski
+
+- Diagnostyka laserów diodowych — odrębna usługa
+
+[HTML](https://lasertechservice.pl/uslugi/serwis-laserow-co2/)
 
 ## Repair Cases
 
@@ -15068,3 +15890,5 @@ lok. 320
 - [Polski: Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/) — [Русский](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 - [Polski: Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/) — [Русский](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
 - [Polski: Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/) — [Русский](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+- [Polski: Serwis i naprawa urządzeń IPL](https://lasertechservice.pl/uslugi/serwis-ipl/) — [Русский](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
+- [Polski: Serwis i naprawa laserów CO₂](https://lasertechservice.pl/uslugi/serwis-laserow-co2/) — [Русский](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/)

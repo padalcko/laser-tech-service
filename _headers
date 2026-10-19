@@ -501,6 +501,16 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/uslugi/servis-ipl/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/uslugi/servis-ipl/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/uslugi/servis-lazerov-co2/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /ru/uslugi/vosstanovlenie-golovok-i-manipul/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -530,6 +540,16 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/uslugi/serwis-ipl/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/uslugi/serwis-ipl/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/uslugi/serwis-laserow-co2/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/uslugi/serwis-laserow-co2/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /llms.txt
   Content-Type: text/plain; charset=utf-8

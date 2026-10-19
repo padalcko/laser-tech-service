@@ -36,7 +36,7 @@ Stawka orientacyjna. Ostateczny koszt przejazdu i liczbę rozliczanych kilometr�
 
 Wybierz kategorię urządzenia. Zakres naprawy i koszty części potwierdzamy indywidualnie.
 
-### ND:YAG / IPL / BBL
+### ND:YAG / [IPL](https://lasertechservice.pl/uslugi/serwis-ipl/) / BBL
 
 Wymiana manipuły / głowicy
 
@@ -80,7 +80,7 @@ Wymiana rolek w manipule
 
 Zakres naprawy oraz to, czy dana pozycja obejmuje części, potwierdzamy w wycenie.
 
-### Lasery CO₂ i pikosekundowe
+### [Lasery CO₂](https://lasertechservice.pl/uslugi/serwis-laserow-co2/) i pikosekundowe
 
 Kalibracja
 
@@ -204,3 +204,5 @@ lok. 320
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+- [Serwis i naprawa urządzeń IPL](https://lasertechservice.pl/uslugi/serwis-ipl/)
+- [Serwis i naprawa laserów CO₂](https://lasertechservice.pl/uslugi/serwis-laserow-co2/)
