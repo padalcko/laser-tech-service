@@ -16,6 +16,16 @@
 
 Каждое устройство требует индивидуальной диагностики. Ниже представлены отдельные примеры нашей работы.
 
+![Специалист в футболке Laser Tech Service работает с разобранной манипулой Nd:YAG](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/specjalista-laser-tech-service-naprawa-nd-yag.webp)
+
+Диагностика и ремонт
+
+## [Один аппарат — две неисправности: замена элемента Пельтье и ремонт лазера ND](https://lasertechservice.pl/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/)
+
+Две независимые неисправности одного аппарата: замена элемента Пельтье, ремонт манипулы ND:YAG и калибровка. Работы Laser Tech Service.
+
+[Смотреть реализацию](https://lasertechservice.pl/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/)
+
 ![Демонтированные детали узла контактного охлаждения манипулы ESTETECH](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-demontaz-wezla-chlodzenia.webp)
 
 PoznańОхлаждение и сервис
@@ -273,6 +283,7 @@ RF Вакуум Диагностика Ремонт
 
 ## Связанные работы
 
+- [Один аппарат — две неисправности: замена элемента Пельтье и ремонт лазера ND](https://lasertechservice.pl/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/)
 - [Замена модуля Пельтье в манипуле лазера ESTETECH — ремонт системы охлаждения в Познани](https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/)
 - [Ремонт Lumenis LightSheer DESIRE в Олеснице — утечка жидкости и неисправность системы охлаждения](https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/)
 - [Замена вентиляторов охлаждения лазерного аппарата и техническое обслуживание во Вроцлаве](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/)

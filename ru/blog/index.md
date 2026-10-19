@@ -10,6 +10,12 @@
 
 Пишем о том, с чем сталкиваемся каждый день: ремонте лазеров, диагностике неисправностей, обслуживании косметологического оборудования и обычных проблемах, которые возникают у владельцев салонов и кабинетов.
 
+Диагностика и ремонт
+
+## [Один аппарат, две поломки: как неправильное подключение манипул приводит к перегреву и почему ND:YAG требует калибровки](https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/)
+
+Как подключение манипул влияет на охлаждение? Элемент Пельтье, признаки перегрева и калибровка ND:YAG после замены лазерного элемента.
+
 Охлаждение и сервис15 октября 2026
 
 ## [Модуль Пельтье: почему манипула лазера не охлаждается?](https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/)
@@ -137,6 +143,7 @@ Pharaon 1470, LSO Medical и OSYRIS: история обозначений, ос
 
 ## Связанные статьи
 
+- [Один аппарат, две поломки: как неправильное подключение манипул приводит к перегреву и почему ND:YAG требует калибровки](https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/)
 - [Модуль Пельтье в лазерной манипуле: как работает охлаждение и почему оно выходит из строя](https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/)
 - [Lumenis LightSheer DESIRE спустя 10 лет: почему лазер за 200 000 zł может продолжать работать?](https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/)
 - [Как правильно купить б/у лазерный аппарат для салона красоты и не потерять деньги?](https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/)

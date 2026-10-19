@@ -168,5 +168,64 @@
         }
       }
     ]
+  },
+  "power-supply-electronics-repair": {
+    "pages": {
+      "pl": "/uslugi/naprawa-zasilaczy-i-elektroniki/",
+      "ru": "/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/"
+    },
+    "cases": [
+      {
+        "pages": {
+          "pl": "/realizacje/naprawa-3000-nain-bloku-zasilania/",
+          "ru": "/ru/realizacje/naprawa-3000-nain-bloku-zasilania/"
+        },
+        "image": {
+          "src": "/img/realizacje/3000-nain/naprawa-elektroniki-3000-nain.webp",
+          "width": "900",
+          "height": "1600"
+        },
+        "content": {
+          "pl": {
+            "title": "3000 NAIN — naprawa bloku zasilania",
+            "symptom": "Problem z zasilaniem aparatu wymagający diagnostyki.",
+            "cause": "Diagnostyka wskazała blok zasilania; nie podano listy uszkodzonych komponentów.",
+            "result": "Naprawiono elektronikę bloku, zamontowano go ponownie, uruchomiono i sprawdzono aparat."
+          },
+          "ru": {
+            "title": "3000 NAIN — ремонт блока питания",
+            "symptom": "Проблема питания аппарата, требовавшая диагностики.",
+            "cause": "Диагностика указала на блок питания; перечень неисправных компонентов не приводится.",
+            "result": "Отремонтирована электроника блока, выполнены обратный монтаж, запуск и проверка аппарата."
+          }
+        }
+      },
+      {
+        "pages": {
+          "pl": "/realizacje/naprawa-rsl-masaz-warszawa/",
+          "ru": "/ru/realizacje/naprawa-rsl-masaz-warszawa/"
+        },
+        "image": {
+          "src": "/img/realizacje/rsl-warszawa/rsl-naprawa-zlacza-manipuly-warszawa.webp",
+          "srcset": "/img/realizacje/rsl-warszawa/rsl-naprawa-zlacza-manipuly-warszawa-480w.webp 480w, /img/realizacje/rsl-warszawa/rsl-naprawa-zlacza-manipuly-warszawa-768w.webp 768w, /img/realizacje/rsl-warszawa/rsl-naprawa-zlacza-manipuly-warszawa.webp 941w",
+          "width": "941",
+          "height": "1672"
+        },
+        "content": {
+          "pl": {
+            "title": "RSL — naprawa kabla i wymiana złącza",
+            "symptom": "Uszkodzone połączenie manipuły z aparatem kosmetologicznym.",
+            "cause": "Uszkodzenie przewodu i złącza manipuły.",
+            "result": "Naprawiono kabel i wymieniono konektor, przywracając sprawne połączenie."
+          },
+          "ru": {
+            "title": "RSL — ремонт кабеля и замена разъёма",
+            "symptom": "Повреждённое соединение манипулы с косметологическим аппаратом.",
+            "cause": "Повреждение провода и разъёма манипулы.",
+            "result": "Отремонтирован кабель и заменён разъём, восстановлено исправное соединение."
+          }
+        }
+      }
+    ]
   }
 }

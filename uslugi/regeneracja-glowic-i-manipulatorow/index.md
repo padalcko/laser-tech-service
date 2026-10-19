@@ -136,6 +136,8 @@ Weryfikujemy działanie naprawionych układów przed przekazaniem sprzętu.
 
 ## Przykłady napraw głowic
 
+[Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/) — warunki naprawy od 600 zł.
+
 ![Wymiana modułu po zalaniu — Poznań](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp)
 
 ### Wymiana modułu po zalaniu — Poznań
@@ -225,6 +227,7 @@ Od wyniku diagnostyki, zakresu uszkodzeń, dostępności kompatybilnych części
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 - [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+- [Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
 
 ## Powiązane realizacje
 

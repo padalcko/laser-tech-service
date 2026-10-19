@@ -106,6 +106,8 @@ Rzeczywiste przypadki pokazują, dlaczego objaw trzeba powiązać z jego przyczy
 
 [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/) — zakres naprawy i warunki od 800 zł.
 
+[Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/) — warunki naprawy od 600 zł.
+
 ![Wymiana modułu po zalaniu — Poznań](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp)
 
 ### Wymiana modułu po zalaniu — Poznań
@@ -177,6 +179,7 @@ Dojazd specjalisty płatny osobno — również przy zleceniu naprawy. [+48 790 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 - [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+- [Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
 
 ## Powiązane artykuły
 

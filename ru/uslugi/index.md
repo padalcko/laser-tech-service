@@ -26,7 +26,7 @@
 
 - Ремонт систем охлаждения
 
-- Ремонт блоков питания и электроники
+- [Ремонт блоков питания и электроники](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
 
 - Ремонт сенсорных экранов и панелей управления
 
@@ -167,6 +167,7 @@ lok. 320
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 - [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 - [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+- [Ремонт блоков питания и электроники лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
 
 ## Связанные работы
 

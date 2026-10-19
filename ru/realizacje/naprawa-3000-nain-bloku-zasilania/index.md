@@ -102,10 +102,13 @@
 
 Нужна диагностика вашего аппарата? Подробнее про [сервис косметологического и лазерного оборудования](https://lasertechservice.pl/ru/uslugi/).
 
+[Ремонт блоков питания и электроники лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/) — объём работ, стоимость и форма обращения.
+
 ## Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Ремонт блоков питания и электроники лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
 
 ## Связанные статьи
 

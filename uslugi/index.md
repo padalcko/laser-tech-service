@@ -26,7 +26,7 @@ Naprawiamy urządzenia wykorzystywane w salonach beauty, klinikach kosmetologicz
 
 - Naprawa układów chłodzenia
 
-- Naprawa zasilaczy i elektroniki
+- [Naprawa zasilaczy i elektroniki](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
 
 - Naprawa ekranów dotykowych i paneli sterujących
 
@@ -167,6 +167,7 @@ lok. 320
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 - [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 - [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+- [Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
 
 ## Powiązane realizacje
 

@@ -102,10 +102,13 @@ Skąd wzięła się ta konstrukcja i co sprawia, że nadal jest interesująca? P
 
 Potrzebujesz diagnostyki swojego aparatu? Poznaj nasz [serwis urządzeń kosmetologicznych i laserowych](https://lasertechservice.pl/uslugi/).
 
+[Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/) — zakres prac, koszt i formularz zgłoszenia.
+
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
 
 ## Powiązane artykuły
 

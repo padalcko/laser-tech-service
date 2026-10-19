@@ -91,6 +91,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -226,6 +231,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -330,6 +340,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/blog/povrezhdennyj-kabel-manipuly/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -456,6 +471,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -476,6 +496,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /ru/uslugi/vosstanovlenie-golovok-i-manipul/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -495,6 +520,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/uslugi/naprawa-zasilaczy-i-elektroniki/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /uslugi/regeneracja-glowic-i-manipulatorow/index.md
   Content-Type: text/markdown; charset=utf-8
