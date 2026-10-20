@@ -494,7 +494,7 @@ lok. 320
 
 - [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 
-- Замена и калибровка лазерных диодов
+- [Замена и калибровка лазерных диодов](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/)
 
 - [Восстановление головок и манипул](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
 
@@ -512,11 +512,11 @@ lok. 320
 
 - Сервис пикосекундных лазеров
 
-- Ремонт оборудования RF
+- [Ремонт оборудования RF](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/)
 
 - Ремонт оборудования LPG
 
-- Сервис оборудования для криотерапии
+- [Сервис оборудования для криотерапии](https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/)
 
 - Чистка и техническое обслуживание косметологического оборудования
 
@@ -640,10 +640,13 @@ lok. 320
 
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 - [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+- [Замена и калибровка лазерных диодов](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/)
 - [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
 - [Ремонт блоков питания и электроники лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
 - [Сервис и ремонт оборудования IPL](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
 - [Сервис и ремонт лазеров CO₂](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/)
+- [Ремонт и сервис RF-оборудования](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/)
+- [Сервис оборудования для криотерапии и криолиполиза](https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/)
 
 #### Связанные работы
 
@@ -1291,6 +1294,181 @@ Laser Tech Service выполняет профессиональную диаг�
 - [Маленький кабель — большая проблема. Почему соединение манипулы с аппаратом так важно?](https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/)
 - [CO₂-лазер не реагирует на педаль: симптом — ещё не диагноз](https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/)
 
+### Ремонт и сервис RF-оборудования
+
+Источник HTML: [Ремонт и сервис RF-оборудования](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/)
+
+Язык: Русский
+
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/)
+
+> Диагностика генераторов RF, электроники и манипул. Ремонт RF-аппаратов и микроигольчатых механизмов с учётом модели — сервис по всей Польше.
+
+Диагностика генераторов RF, электроники и манипул. Ремонт RF-аппаратов и микроигольчатых механизмов с учётом модели — сервис по всей Польше.
+
+от 600 zł
+
+**Диагностика бесплатно при заказе ремонта или технического обслуживания.**
+
+Выезд специалиста оплачивается отдельно.
+
+[Заказать сервис](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/#diagnostic-form)[Позвонить](tel:+48790402597)
+
+#### Что входит в сервис
+
+##### Ремонт RF-генераторов и управляющей электроники
+
+Диагностика генератора, силовых компонентов и управления. Ремонт плат и проверка работы после вмешательства.
+
+##### Ремонт RF-манипул и аппликаторов
+
+Проверка кабелей, разъёмов и контактных групп. Замена повреждённых соединений и совместимых деталей манипулы.
+
+##### Ремонт механизмов микроигольчатого RF
+
+В микроигольчатых моделях проверяем выдвижение игл, приводы, датчики и управляющую электронику. После ремонта тестируем механизм. Ремонтируем управление микроигольчатым механизмом.
+
+##### Проверка параметров и калибровка RF
+
+Проверяем стабильность генератора, измеряем выходные параметры подходящим прибором. Регулировку или калибровку проводим, если она предусмотрена производителем модели. Диагностируем отклонения выходных параметров RF.
+
+#### Когда нужна диагностика
+
+Причину неисправности определяем по результатам проверки конкретного аппарата.
+
+##### Нет энергии RF
+
+Манипула не нагревается или генератор работает нестабильно.
+
+##### Ошибки и отключения
+
+Аппарат показывает ошибку или выключается во время работы.
+
+##### Повреждённые соединения
+
+Повреждён кабель или разъём манипулы.
+
+##### Не выдвигаются иглы
+
+Неисправен механизм микроигольчатого аппарата.
+
+#### Как проходит ремонт
+
+1. ### Заявка
+
+Опишите неисправность, укажите модель аппарата и город.
+2. ### Диагностика
+
+Проверяем узлы, связанные с симптомами, и устанавливаем причину.
+3. ### Согласование
+
+Обсуждаем объём работ, доступность деталей и стоимость до ремонта.
+4. ### Ремонт и проверка
+
+Выполняем согласованные работы и проверяем работу затронутых узлов.
+
+#### Стоимость и условия
+
+##### Ремонт и сервис RF-оборудования
+
+**от 600 zł**
+
+Окончательную стоимость согласовываем после диагностики.
+
+##### Диагностика при ремонте или обслуживании
+
+**0 zł**
+
+Диагностика бесплатно при заказе ремонта или технического обслуживания.
+
+##### Выезд специалиста
+
+Оплачивается отдельно
+
+Стартовая цена не определяет стоимость каждого ремонта. Детали и дополнительные работы оцениваем после диагностики.
+
+[Прайс и условия сервиса](https://lasertechservice.pl/ru/uslugi/cennik/)
+
+#### Технический подход к ремонту
+
+##### Поиск причины
+
+Проверяем связанные системы, чтобы не ограничиваться заменой повреждённой детали.
+
+##### С учётом модели
+
+Подбираем совместимые компоненты и методы проверки по конструкции оборудования.
+
+##### Понятный объём работ
+
+Обсуждаем обнаруженные неисправности и согласовываем ремонт до его выполнения.
+
+#### Оборудование
+
+![Головка RF Alma Accent: документированный ремонт системы охлаждения.](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/alma-accent-glowica-rf-uklad-chlodzenia.webp)
+
+Головка RF Alma Accent: документированный ремонт системы охлаждения.
+
+[Описание ремонта на польском](https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/)
+
+#### Связанные услуги и материалы
+
+- [Диагностика диодных лазеров — отдельная услуга](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
+- [Ремонт блоков питания и электроники](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
+
+- [Восстановление головок и манипул](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
+- [Ремонт систем охлаждения — каталог услуг](https://lasertechservice.pl/ru/uslugi/)
+
+- [Техническое обслуживание — прайс и условия](https://lasertechservice.pl/ru/uslugi/cennik/)
+
+#### Частые вопросы
+
+##### Ремонтируете ли вы микроигольчатый RF?
+
+Да, диагностика может включать выдвижение игл, приводы, датчики и управление. Возможность ремонта подтверждаем для конкретной модели.
+
+##### Отсутствие нагрева означает поломку генератора?
+
+Не всегда. Причина может быть в манипуле, соединениях, управлении или генераторе. Нужна диагностика.
+
+##### Можно ли отремонтировать кабель аппликатора?
+
+Проверяем кабель, разъёмы и контакты, затем определяем возможность ремонта или замены совместимой детали.
+
+##### Калибровка возможна для любого RF?
+
+Нет. Она зависит от конструкции, документации производителя и доступных методов регулировки и измерения.
+
+##### Сколько стоит сервис?
+
+Стоимость начинается от 600 zł. Детали и дополнительные работы оцениваем после диагностики.
+
+##### Когда диагностика бесплатна?
+
+При заказе ремонта или технического обслуживания. Выезд оплачивается отдельно.
+
+##### Вы работаете за пределами Варшавы?
+
+Принимаем заявки по всей Польше. Условия и стоимость выезда согласовываем индивидуально.
+
+##### Что указать в заявке?
+
+Модель, симптомы, код ошибки и город. Полезны фотографии повреждённого кабеля или разъёма.
+
+#### Заказать сервис
+
+Выезд специалиста оплачивается отдельно. [+48 790 402 597](tel:+48790402597) · [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)
+
+#### Услуги сервиса
+
+- [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+- [Ремонт блоков питания и электроники лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
 ### Сервис и ремонт оборудования IPL
 
 Источник HTML: [Сервис и ремонт оборудования IPL](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
@@ -1685,6 +1863,185 @@ Laser Tech Service выполняет профессиональную диаг�
 
 - [CO₂-лазер не реагирует на педаль: симптом — ещё не диагноз](https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/)
 
+### Сервис оборудования для криотерапии и криолиполиза
+
+Источник HTML: [Сервис оборудования для криотерапии и криолиполиза](https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/)
+
+Язык: Русский
+
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/)
+
+> Диагностика охлаждения, вакуумных систем, аппликаторов и электроники оборудования для криотерапии и криолиполиза. Объём ремонта определяем по конструкции аппарата.
+
+Диагностика охлаждения, вакуумных систем, аппликаторов и электроники оборудования для криотерапии и криолиполиза. Объём ремонта определяем по конструкции аппарата.
+
+от 1 200 zł
+
+**Диагностика бесплатно при заказе ремонта или технического обслуживания.**
+
+Выезд специалиста оплачивается отдельно.
+
+[Заказать сервис](https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/#diagnostic-form)[Позвонить](tel:+48790402597)
+
+#### Что входит в сервис
+
+##### Ремонт систем охлаждения
+
+Проверяем контуры охлаждения, насосы, теплообменники или компрессоры — в зависимости от типа системы. Заменяем неисправные детали, контролируем герметичность и охлаждение. Возможность вмешательства в холодильный контур оцениваем отдельно.
+
+##### Ремонт вакуумной системы
+
+В вакуумных моделях диагностируем насосы, клапаны и датчики давления. Проверяем шланги, уплотнения и герметичность аппликаторов. Заменяем повреждённые шланги и уплотнения, восстанавливаем герметичность аппликаторов.
+
+##### Восстановление криоманипул и аппликаторов
+
+Проверяем охлаждающие пластины, датчики температуры, электрические и жидкостные соединения. Заменяем неисправные термоэлектрические элементы и уплотнения, если они предусмотрены конструкцией. Ремонт криоманипулы может включать восстановление соединений и замену температурных датчиков.
+
+##### Ремонт электроники и контроль температуры
+
+Диагностика плат, датчиков и электронных компонентов. Проверка температурных режимов и срабатывания защит после ремонта. Восстанавливаем неисправные компоненты управляющей электроники.
+
+#### Когда нужна диагностика
+
+Причину неисправности определяем по результатам проверки конкретного аппарата.
+
+##### Нет охлаждения
+
+Аппликатор не достигает нужной температуры или охлаждает неравномерно.
+
+##### Нет вакуума
+
+Вакуумный аппликатор не удерживает разрежение.
+
+##### Температурные ошибки
+
+Аппарат сообщает об ошибке датчика, перегревается или отключается.
+
+##### Утечка жидкости
+
+При нарушении герметичности нужно установить место и причину утечки.
+
+#### Как проходит ремонт
+
+1. ### Заявка
+
+Опишите неисправность, укажите модель аппарата и город.
+2. ### Диагностика
+
+Проверяем узлы, связанные с симптомами, и устанавливаем причину.
+3. ### Согласование
+
+Обсуждаем объём работ, доступность деталей и стоимость до ремонта.
+4. ### Ремонт и проверка
+
+Выполняем согласованные работы и проверяем работу затронутых узлов.
+
+#### Стоимость и условия
+
+##### Сервис оборудования для криотерапии и криолиполиза
+
+**от 1 200 zł**
+
+Окончательную стоимость согласовываем после диагностики.
+
+##### Диагностика при ремонте или обслуживании
+
+**0 zł**
+
+Диагностика бесплатно при заказе ремонта или технического обслуживания.
+
+##### Выезд специалиста
+
+Оплачивается отдельно
+
+Стартовая цена не определяет стоимость каждого ремонта. Детали и дополнительные работы оцениваем после диагностики.
+
+[Прайс и условия сервиса](https://lasertechservice.pl/ru/uslugi/cennik/)
+
+#### Технический подход к ремонту
+
+##### Поиск причины
+
+Проверяем связанные системы, чтобы не ограничиваться заменой повреждённой детали.
+
+##### С учётом модели
+
+Подбираем совместимые компоненты и методы проверки по конструкции оборудования.
+
+##### Понятный объём работ
+
+Обсуждаем обнаруженные неисправности и согласовываем ремонт до его выполнения.
+
+#### Оборудование
+
+![Аппарат Cryo-Vacuum с аппликаторами — иллюстрация оборудования.](https://lasertechservice.pl/img/urzadzenie-cryo-vacuum.webp)
+
+Аппарат Cryo-Vacuum с аппликаторами — иллюстрация оборудования.
+
+#### Связанные услуги и материалы
+
+- [Диагностика диодных лазеров — отдельная услуга](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
+- [Ремонт блоков питания и электроники](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
+
+- [Восстановление головок и манипул](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
+- [Ремонт систем охлаждения — каталог услуг](https://lasertechservice.pl/ru/uslugi/)
+
+- [Техническое обслуживание — прайс и условия](https://lasertechservice.pl/ru/uslugi/cennik/)
+
+- [Beauty Planet 3D Contour — технологии и сервис](https://lasertechservice.pl/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/)
+
+#### Частые вопросы
+
+##### У криотерапии и криолиполиза одинаковые системы?
+
+Нет, конструкции могут отличаться. Проверку подбираем под конкретный аппарат и его аппликаторы.
+
+##### В каждом аппарате есть вакуумный насос?
+
+Нет. Диагностика вакуумной системы относится только к моделям, в которых она предусмотрена.
+
+##### Вы заменяете элементы Пельтье?
+
+Если аппликатор использует термоэлектрические элементы, диагностируем их и определяем возможность замены совместимыми деталями.
+
+##### Вы ремонтируете любой холодильный контур?
+
+Возможность ремонта оцениваем после определения конструкции и доступности деталей. Не обещаем ремонт любого типа контура.
+
+##### Почему возникает ошибка температуры?
+
+Причиной может быть датчик, соединение, управление или неисправность охлаждения. Сам код ошибки не подтверждает причину.
+
+##### Сколько стоит сервис?
+
+Стоимость начинается от 1 200 zł. Точный объём, детали и дополнительные работы оцениваем после диагностики.
+
+##### Диагностика и выезд бесплатны?
+
+Диагностика бесплатна при заказе ремонта или технического обслуживания. Выезд оплачивается отдельно.
+
+##### Как сообщить о неисправности?
+
+Укажите модель, город, симптомы и сообщения об ошибках. Уточните, с каким аппликатором связана проблема.
+
+#### Заказать сервис
+
+Выезд специалиста оплачивается отдельно. [+48 790 402 597](tel:+48790402597) · [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)
+
+#### Услуги сервиса
+
+- [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+- [Ремонт блоков питания и электроники лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
+#### Связанные статьи
+
+- [Beauty Planet 3D Contour — что умеет, как работает и стоит ли иметь его в салоне?](https://lasertechservice.pl/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/)
+
 ### Восстановление головок и манипул лазерных аппаратов
 
 Источник HTML: [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
@@ -1928,6 +2285,199 @@ Laser Tech Service выполняет профессиональную диаг�
 - [Почему сгорают диодные модули в лазерах для эпиляции: причины, симптомы и последствия](https://lasertechservice.pl/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/)
 - [Сервис головки диодного лазера — почему герметичность и чистая оптика так важны?](https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/)
 
+### Замена и калибровка лазерных диодов
+
+Источник HTML: [Замена и калибровка лазерных диодов](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/)
+
+Язык: Русский
+
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/)
+
+> Диагностика диодных модулей, замена совместимых диодов и стеков, измерение оптической мощности. Проверка охлаждения и калибровка в пределах возможностей модели.
+
+Диагностика диодных модулей, замена совместимых диодов и стеков, измерение оптической мощности. Проверка охлаждения и калибровка в пределах возможностей модели.
+
+от 800 zł
+
+Начальная цена сервиса; новый модуль и объём калибровки оцениваются индивидуально.
+
+**Диагностика бесплатно при заказе ремонта или технического обслуживания.**
+
+Выезд специалиста оплачивается отдельно.
+
+[Заказать сервис](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/#diagnostic-form)[Позвонить](tel:+48790402597)
+
+#### Что входит в сервис
+
+##### Диагностика лазерных диодных модулей
+
+Проверяем снижение мощности, состояние модуля и электрические параметры. Определяем, связан ли дефект с диодом и нужна ли его замена.
+
+##### Замена диодных модулей и стеков
+
+Демонтируем неисправный модуль, подбираем совместимый диод или стек, проверяем механические и электрические соединения. Доступность подходящего компонента подтверждаем для модели. Устанавливаем новый совместимый компонент.
+
+##### Восстановление охлаждения диодного модуля
+
+Проверяем отвод тепла, термоинтерфейс, если он предусмотрен, и герметичность жидкостного контура. Контролируем рабочую температуру после ремонта. При необходимости обновляем предусмотренный конструкцией термоинтерфейс.
+
+##### Калибровка и измерение выходной мощности
+
+Измеряем фактическую оптическую мощность подходящим прибором, сравниваем с настройками и выполняем поддерживаемую регулировку. Значение на экране не является измерением оптической мощности; восстановление параметров требует подтверждения измерениями. После замены проводим контрольное тестирование.
+
+#### Когда нужна диагностика
+
+Причину неисправности определяем по результатам проверки конкретного аппарата.
+
+##### Снижение эффекта или мощности
+
+Слабый эффект эпиляции, отсутствие излучения или низкая оптическая мощность требуют диагностики.
+
+##### Нестабильная работа
+
+Модуль работает неравномерно или аппарат выдаёт ошибки.
+
+##### Перегрев
+
+Нарушение теплоотвода может влиять на работу диода.
+
+##### Поломка после утечки
+
+После перегрева или нарушения герметичности нужно проверить модуль и причину повреждения.
+
+#### Как проходит ремонт
+
+1. ### Заявка
+
+Опишите неисправность, укажите модель аппарата и город.
+2. ### Диагностика
+
+Проверяем узлы, связанные с симптомами, и устанавливаем причину.
+3. ### Согласование
+
+Обсуждаем объём работ, доступность деталей и стоимость до ремонта.
+4. ### Ремонт и проверка
+
+Выполняем согласованные работы и проверяем работу затронутых узлов.
+
+#### Стоимость и условия
+
+##### Замена и калибровка лазерных диодов
+
+**от 800 zł**
+
+Окончательную стоимость согласовываем после диагностики.
+
+##### Диагностика при ремонте или обслуживании
+
+**0 zł**
+
+Диагностика бесплатно при заказе ремонта или технического обслуживания.
+
+##### Выезд специалиста
+
+Оплачивается отдельно
+
+От 800 zł за начальную сервисную услугу. Работа по замене диода по прайсу: 1 200 zł. Новый модуль, дополнительные компоненты и объём калибровки оцениваем индивидуально; они не включены автоматически в стартовую цену.
+
+[Прайс и условия сервиса](https://lasertechservice.pl/ru/uslugi/cennik/)
+
+#### Технический подход к ремонту
+
+##### Поиск причины
+
+Проверяем связанные системы, чтобы не ограничиваться заменой повреждённой детали.
+
+##### С учётом модели
+
+Подбираем совместимые компоненты и методы проверки по конструкции оборудования.
+
+##### Понятный объём работ
+
+Обсуждаем обнаруженные неисправности и согласовываем ремонт до его выполнения.
+
+#### Пример замены диодного модуля
+
+![Замена модуля после залития — Познань](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp)
+
+##### Замена модуля после залития — Познань
+
+**Симптом:** Повреждение диодного модуля после попадания жидкости.
+
+**Причина:** Неправильно установленное уплотнение привело к потере герметичности и залитию модуля.
+
+**Результат:** Заменены модуль и уплотнение, восстановлена герметичность узла.
+
+[Полное описание →](https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
+
+#### Связанные услуги и материалы
+
+- [Диагностика диодных лазеров — отдельная услуга](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
+- [Ремонт блоков питания и электроники](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
+
+- [Восстановление головок и манипул](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
+- [Ремонт систем охлаждения — каталог услуг](https://lasertechservice.pl/ru/uslugi/)
+
+- [Техническое обслуживание — прайс и условия](https://lasertechservice.pl/ru/uslugi/cennik/)
+
+- [Признаки неисправности диода](https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/)
+
+#### Частые вопросы
+
+##### Слабый эффект эпиляции означает, что нужно менять диод?
+
+Не всегда. Требуются диагностика модуля, управления и охлаждения, а также измерение оптического выхода.
+
+##### Любой диод подходит к моему аппарату?
+
+Нет. Важны оптическая, электрическая и механическая совместимость, а также охлаждение. Доступность подтверждаем индивидуально.
+
+##### В 800 zł входит новый модуль?
+
+Нет. Это начальная цена сервисной услуги. В прайсе работа по замене диода стоит 1 200 zł; новый модуль, дополнительные детали и объём калибровки оцениваются индивидуально.
+
+##### Показание на экране подтверждает мощность лазера?
+
+Нет. Фактическую оптическую мощность проверяют подходящим измерительным прибором. Настройка на экране не заменяет измерение.
+
+##### После замены выполняется калибровка?
+
+Проводим измерения и регулировку в пределах возможностей модели. Возможность и объём калибровки подтверждаем до начала работ.
+
+##### Зачем проверять охлаждение?
+
+Перегрев или утечка могут повредить модуль. Замена без устранения причины увеличивает риск повторной неисправности.
+
+##### Вы гарантируете заводскую мощность?
+
+Не заявляем о восстановлении параметров без измерений. Результат оцениваем для конкретного аппарата после согласованных работ.
+
+##### Как оплачиваются диагностика и выезд?
+
+Диагностика бесплатна при заказе ремонта или технического обслуживания. Выезд оплачивается отдельно.
+
+#### Заказать сервис
+
+Выезд специалиста оплачивается отдельно. [+48 790 402 597](tel:+48790402597) · [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)
+
+#### Услуги сервиса
+
+- [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+- [Ремонт блоков питания и электроники лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
+#### Связанные работы
+
+- [Замена диодного модуля лазера после залития — Познань](https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
+
+#### Связанные статьи
+
+- [5 признаков, что диод в лазере для эпиляции требует проверки или замены](https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/)
+
 ### Profesjonalny serwis urządzeń laserowych i kosmetologicznych
 
 Źródło HTML: [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
@@ -1950,7 +2500,7 @@ Naprawiamy urządzenia wykorzystywane w salonach beauty, klinikach kosmetologicz
 
 - [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
-- Wymiana i kalibracja diod laserowych
+- [Wymiana i kalibracja diod laserowych](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/)
 
 - [Regeneracja głowic i manipulatorów](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
 
@@ -1968,11 +2518,11 @@ Naprawiamy urządzenia wykorzystywane w salonach beauty, klinikach kosmetologicz
 
 - Serwis laserów pikosekundowych
 
-- Naprawa urządzeń RF
+- [Naprawa urządzeń RF](https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/)
 
 - Naprawa urządzeń LPG
 
-- Serwis urządzeń do krioterapii
+- [Serwis urządzeń do krioterapii](https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/)
 
 - Czyszczenie i konserwacja urządzeń kosmetologicznych
 
@@ -2096,10 +2646,13 @@ lok. 320
 
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 - [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+- [Wymiana i kalibracja diod laserowych](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/)
 - [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
 - [Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
 - [Serwis i naprawa urządzeń IPL](https://lasertechservice.pl/uslugi/serwis-ipl/)
 - [Serwis i naprawa laserów CO₂](https://lasertechservice.pl/uslugi/serwis-laserow-co2/)
+- [Serwis i naprawa urządzeń RF](https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/)
+- [Serwis urządzeń do krioterapii i kriolipolizy](https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/)
 
 #### Powiązane realizacje
 
@@ -2509,6 +3062,185 @@ Dojazd specjalisty płatny osobno — również przy zleceniu naprawy. [+48 790 
 - [Wymiana modułu diodowego lasera po zalaniu – Poznań](https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
 - [Serwis głowicy lasera diodowego – czyszczenie i przywrócenie szczelności](https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/)
 - [Wymiana wentylatorów chłodzenia lasera i konserwacja urządzenia — Wrocław](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/)
+
+### Serwis i naprawa urządzeń RF
+
+Źródło HTML: [Serwis i naprawa urządzeń RF](https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/)
+
+Język: Polski
+
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/)
+
+> Diagnostyka generatorów RF, elektroniki i głowic. Naprawa urządzeń RF oraz mechanizmów mikroigłowych zależnie od modelu — serwis na terenie Polski.
+
+Diagnostyka generatorów RF, elektroniki i głowic. Naprawa urządzeń RF oraz mechanizmów mikroigłowych zależnie od modelu — serwis na terenie Polski.
+
+od 600 zł
+
+**Diagnostyka bezpłatna przy zleceniu naprawy lub obsługi technicznej.**
+
+Dojazd specjalisty płatny osobno.
+
+[Zamów serwis](https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/#diagnostic-form)[Zadzwoń](tel:+48790402597)
+
+#### Zakres prac serwisowych
+
+##### Naprawa generatorów RF i elektroniki sterującej
+
+Diagnostyka generatora, elementów mocy i sterowania. Naprawa płyt oraz kontrola działania po wykonanych pracach.
+
+##### Naprawa głowic, manipulatorów i aplikatorów RF
+
+Kontrola przewodów, złączy i styków. Wymiana uszkodzonych połączeń oraz kompatybilnych części głowicy.
+
+##### Naprawa mechanizmów mikroigłowych RF
+
+W modelach mikroigłowych sprawdzamy wysuw igieł, napędy, czujniki i elektronikę sterującą. Po naprawie testujemy mechanizm. Naprawiamy sterowanie mechanizmem mikroigłowym.
+
+##### Kontrola parametrów i kalibracja RF
+
+Sprawdzamy stabilność generatora i wykonujemy pomiary wyjścia odpowiednim przyrządem. Regulację lub kalibrację wykonujemy, jeśli przewiduje ją producent danego modelu. Diagnozujemy odchylenia parametrów radiofrekwencji.
+
+#### Kiedy potrzebna jest diagnostyka
+
+Przyczynę usterki ustalamy na podstawie kontroli konkretnego urządzenia.
+
+##### Brak energii RF
+
+Głowica nie grzeje lub generator pracuje niestabilnie.
+
+##### Błędy i wyłączenia
+
+Aparat zgłasza błąd lub wyłącza się podczas pracy.
+
+##### Uszkodzone połączenia
+
+Przewód lub złącze głowicy jest uszkodzone.
+
+##### Igły nie wysuwają się
+
+Problem dotyczy mechanizmu w urządzeniu mikroigłowym.
+
+#### Jak przebiega naprawa
+
+1. ### Zgłoszenie
+
+Opisz objawy, podaj model urządzenia i miejscowość.
+2. ### Diagnostyka
+
+Sprawdzamy podzespoły związane z objawami i ustalamy przyczynę.
+3. ### Uzgodnienie
+
+Przed naprawą uzgadniamy zakres, dostępność części i koszt.
+4. ### Naprawa i kontrola
+
+Wykonujemy uzgodnione prace oraz sprawdzamy działanie naprawianych podzespołów.
+
+#### Cena i warunki
+
+##### Serwis i naprawa urządzeń RF
+
+**od 600 zł**
+
+Ostateczny koszt uzgadniamy po diagnostyce.
+
+##### Diagnostyka przy naprawie lub obsłudze
+
+**0 zł**
+
+Diagnostyka bezpłatna przy zleceniu naprawy lub obsługi technicznej.
+
+##### Dojazd specjalisty
+
+Płatny osobno
+
+Cena początkowa nie określa kosztu każdej naprawy. Części oraz dodatkowe prace wyceniamy po diagnostyce.
+
+[Cennik i warunki serwisu](https://lasertechservice.pl/uslugi/cennik/)
+
+#### Techniczne podejście do naprawy
+
+##### Ustalenie przyczyny
+
+Sprawdzamy powiązane układy, aby nie ograniczać się do wymiany uszkodzonej części.
+
+##### Z uwzględnieniem modelu
+
+Dobieramy kompatybilne podzespoły i metody kontroli do konstrukcji urządzenia.
+
+##### Jasny zakres prac
+
+Omawiamy wykryte usterki i uzgadniamy naprawę przed jej wykonaniem.
+
+#### Urządzenie
+
+![Głowica RF Alma Accent: udokumentowana naprawa układu chłodzenia.](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/alma-accent-glowica-rf-uklad-chlodzenia.webp)
+
+Głowica RF Alma Accent: udokumentowana naprawa układu chłodzenia.
+
+[Opis naprawy Alma Accent](https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/)
+
+#### Powiązane usługi i materiały
+
+- [Diagnostyka laserów diodowych — odrębna usługa](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
+- [Naprawa zasilaczy i elektroniki](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
+
+- [Regeneracja głowic i manipulatorów](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+- [Naprawa układów chłodzenia — katalog usług](https://lasertechservice.pl/uslugi/)
+
+- [Przeglądy i obsługa techniczna — cennik i warunki](https://lasertechservice.pl/uslugi/cennik/)
+
+#### Najczęstsze pytania
+
+##### Czy naprawiacie RF mikroigłowe?
+
+Tak, zakres diagnostyki może obejmować mechanizm wysuwu igieł, napędy, czujniki i sterowanie. Możliwość naprawy potwierdzamy dla modelu.
+
+##### Czy brak grzania oznacza uszkodzony generator?
+
+Nie zawsze. Przyczyna może leżeć w głowicy, połączeniach, sterowaniu lub generatorze. Potrzebna jest diagnostyka.
+
+##### Czy można naprawić przewód aplikatora?
+
+Sprawdzamy przewód, złącza i styki, a następnie określamy możliwość naprawy lub wymiany kompatybilnej części.
+
+##### Czy kalibracja jest możliwa w każdym RF?
+
+Nie. Zależy od konstrukcji, dokumentacji producenta oraz dostępnych metod regulacji i pomiaru.
+
+##### Ile kosztuje serwis?
+
+Cena zaczyna się od 600 zł. Koszt części i dodatkowych prac ustalamy po diagnostyce.
+
+##### Kiedy diagnostyka jest bezpłatna?
+
+Przy zleceniu naprawy lub obsługi technicznej. Dojazd jest rozliczany osobno.
+
+##### Czy serwisujecie urządzenia poza Warszawą?
+
+Obsługujemy zgłoszenia z całej Polski. Warunki i koszt dojazdu uzgadniamy indywidualnie.
+
+##### Co podać w zgłoszeniu?
+
+Model urządzenia, opis objawów, wyświetlany błąd i miejscowość. Pomocne są zdjęcia uszkodzonego przewodu lub złącza.
+
+#### Zamów serwis
+
+Dojazd specjalisty płatny osobno. [+48 790 402 597](tel:+48790402597) · [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)
+
+#### Usługi serwisowe
+
+- [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+- [Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+#### Powiązane realizacje
+
+- [Naprawa Alma Accent – wymiana przewodu układu chłodzenia głowicy RF](https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/)
 
 ### Naprawa zasilaczy i elektroniki urządzeń laserowych
 
@@ -3384,6 +4116,378 @@ Dojazd płatny osobno. Kalibracja według cennika: 1 600 zł — nie jest automa
 
 - [Laser CO₂ nie reaguje na pedał? Objaw to jeszcze nie diagnoza](https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/)
 
+### Serwis urządzeń do krioterapii i kriolipolizy
+
+Źródło HTML: [Serwis urządzeń do krioterapii i kriolipolizy](https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/)
+
+Język: Polski
+
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/)
+
+> Diagnostyka chłodzenia, układów próżniowych, aplikatorów i elektroniki urządzeń do krioterapii i kriolipolizy. Zakres naprawy dopasowujemy do konstrukcji aparatu.
+
+Diagnostyka chłodzenia, układów próżniowych, aplikatorów i elektroniki urządzeń do krioterapii i kriolipolizy. Zakres naprawy dopasowujemy do konstrukcji aparatu.
+
+od 1 200 zł
+
+**Diagnostyka bezpłatna przy zleceniu naprawy lub obsługi technicznej.**
+
+Dojazd specjalisty płatny osobno.
+
+[Zamów serwis](https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/#diagnostic-form)[Zadzwoń](tel:+48790402597)
+
+#### Zakres prac serwisowych
+
+##### Naprawa układów chłodzenia
+
+Sprawdzamy obiegi chłodzenia, pompy, wymienniki lub sprężarki — zależnie od zastosowanego układu. Wymieniamy uszkodzone elementy i kontrolujemy szczelność oraz chłodzenie. Możliwość ingerencji w obieg chłodniczy oceniamy indywidualnie.
+
+##### Naprawa układów podciśnienia
+
+W modelach próżniowych diagnozujemy pompy, zawory i czujniki ciśnienia. Sprawdzamy węże, uszczelnienia i szczelność aplikatorów. Wymieniamy uszkodzone węże i uszczelnienia, przywracamy szczelność aplikatorów.
+
+##### Regeneracja głowic i aplikatorów krioterapeutycznych
+
+Kontrolujemy płyty chłodzące, czujniki temperatury oraz połączenia elektryczne i cieczowe. Wymieniamy uszkodzone elementy termoelektryczne i uszczelnienia, jeśli występują w danej konstrukcji. Naprawa głowicy kriolipolizy może obejmować odtworzenie połączeń i wymianę czujników temperatury.
+
+##### Naprawa elektroniki i kontrola temperatury
+
+Diagnostyka płyt, czujników i elementów elektronicznych. Sprawdzenie trybów temperatury i reakcji zabezpieczeń po naprawie. Naprawiamy uszkodzone komponenty elektroniki sterującej.
+
+#### Kiedy potrzebna jest diagnostyka
+
+Przyczynę usterki ustalamy na podstawie kontroli konkretnego urządzenia.
+
+##### Brak lub nierówne chłodzenie
+
+Aplikator nie osiąga wymaganej temperatury albo chłodzi nierównomiernie.
+
+##### Brak podciśnienia
+
+W modelu próżniowym aplikator nie utrzymuje podciśnienia.
+
+##### Błędy temperatury
+
+Aparat zgłasza usterkę czujnika, przegrzewa się lub wyłącza.
+
+##### Wyciek płynu
+
+Widoczna nieszczelność wymaga ustalenia miejsca i przyczyny wycieku.
+
+#### Jak przebiega naprawa
+
+1. ### Zgłoszenie
+
+Opisz objawy, podaj model urządzenia i miejscowość.
+2. ### Diagnostyka
+
+Sprawdzamy podzespoły związane z objawami i ustalamy przyczynę.
+3. ### Uzgodnienie
+
+Przed naprawą uzgadniamy zakres, dostępność części i koszt.
+4. ### Naprawa i kontrola
+
+Wykonujemy uzgodnione prace oraz sprawdzamy działanie naprawianych podzespołów.
+
+#### Cena i warunki
+
+##### Serwis urządzeń do krioterapii i kriolipolizy
+
+**od 1 200 zł**
+
+Ostateczny koszt uzgadniamy po diagnostyce.
+
+##### Diagnostyka przy naprawie lub obsłudze
+
+**0 zł**
+
+Diagnostyka bezpłatna przy zleceniu naprawy lub obsługi technicznej.
+
+##### Dojazd specjalisty
+
+Płatny osobno
+
+Cena początkowa nie określa kosztu każdej naprawy. Części oraz dodatkowe prace wyceniamy po diagnostyce.
+
+[Cennik i warunki serwisu](https://lasertechservice.pl/uslugi/cennik/)
+
+#### Techniczne podejście do naprawy
+
+##### Ustalenie przyczyny
+
+Sprawdzamy powiązane układy, aby nie ograniczać się do wymiany uszkodzonej części.
+
+##### Z uwzględnieniem modelu
+
+Dobieramy kompatybilne podzespoły i metody kontroli do konstrukcji urządzenia.
+
+##### Jasny zakres prac
+
+Omawiamy wykryte usterki i uzgadniamy naprawę przed jej wykonaniem.
+
+#### Urządzenie
+
+![Urządzenie Cryo-Vacuum z aplikatorami — ilustracja sprzętu.](https://lasertechservice.pl/img/urzadzenie-cryo-vacuum.webp)
+
+Urządzenie Cryo-Vacuum z aplikatorami — ilustracja sprzętu.
+
+#### Powiązane usługi i materiały
+
+- [Diagnostyka laserów diodowych — odrębna usługa](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
+- [Naprawa zasilaczy i elektroniki](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
+
+- [Regeneracja głowic i manipulatorów](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+- [Naprawa układów chłodzenia — katalog usług](https://lasertechservice.pl/uslugi/)
+
+- [Przeglądy i obsługa techniczna — cennik i warunki](https://lasertechservice.pl/uslugi/cennik/)
+
+- [Beauty Planet 3D Contour — technologie i serwis](https://lasertechservice.pl/blog/beauty-planet-3d-contour-mozliwosci-serwis/)
+
+#### Najczęstsze pytania
+
+##### Czy krioterapia i kriolipoliza mają takie same układy?
+
+Nie. Konstrukcje mogą się różnić. Zakres kontroli dobieramy do konkretnego urządzenia i jego aplikatorów.
+
+##### Czy każde urządzenie ma pompę próżniową?
+
+Nie. Diagnostyka podciśnienia dotyczy wyłącznie modeli wyposażonych w układ próżniowy.
+
+##### Czy wymieniacie elementy Peltiera?
+
+Jeśli dany aplikator wykorzystuje elementy termoelektryczne, diagnozujemy je i ustalamy możliwość wymiany na kompatybilne części.
+
+##### Czy naprawiacie każdy obieg chłodniczy?
+
+Możliwość naprawy oceniamy po identyfikacji konstrukcji i dostępności części. Nie deklarujemy naprawy każdego typu obiegu.
+
+##### Co może powodować błąd temperatury?
+
+Przyczyną może być czujnik, połączenie, sterowanie lub usterka chłodzenia. Sam komunikat nie wskazuje pewnej przyczyny.
+
+##### Ile kosztuje serwis?
+
+Cena zaczyna się od 1 200 zł. Dokładny zakres, części i dodatkowe prace wyceniamy po diagnostyce.
+
+##### Czy diagnostyka i dojazd są bezpłatne?
+
+Diagnostyka jest bezpłatna przy zleceniu naprawy lub obsługi technicznej. Dojazd jest płatny osobno.
+
+##### Jak zgłosić awarię?
+
+Podaj model, miejscowość, objawy i komunikaty błędów. Wskaż, którego aplikatora dotyczy problem.
+
+#### Zamów serwis
+
+Dojazd specjalisty płatny osobno. [+48 790 402 597](tel:+48790402597) · [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)
+
+#### Usługi serwisowe
+
+- [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+- [Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+#### Powiązane artykuły
+
+- [Beauty Planet 3D Contour – co potrafi, jak działa i czy warto mieć go w gabinecie?](https://lasertechservice.pl/blog/beauty-planet-3d-contour-mozliwosci-serwis/)
+
+### Wymiana i kalibracja diod laserowych
+
+Źródło HTML: [Wymiana i kalibracja diod laserowych](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/)
+
+Język: Polski
+
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/)
+
+> Diagnostyka modułów diodowych, wymiana kompatybilnych diod i stosów oraz pomiary mocy optycznej. Kontrola chłodzenia i kalibracja w zakresie przewidzianym dla modelu.
+
+Diagnostyka modułów diodowych, wymiana kompatybilnych diod i stosów oraz pomiary mocy optycznej. Kontrola chłodzenia i kalibracja w zakresie przewidzianym dla modelu.
+
+od 800 zł
+
+Cena początkowa serwisu; nowy moduł i zakres kalibracji wyceniane indywidualnie.
+
+**Diagnostyka bezpłatna przy zleceniu naprawy lub obsługi technicznej.**
+
+Dojazd specjalisty płatny osobno.
+
+[Zamów serwis](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/#diagnostic-form)[Zadzwoń](tel:+48790402597)
+
+#### Zakres prac serwisowych
+
+##### Diagnostyka modułów diodowych
+
+Sprawdzamy spadek mocy, stan modułu oraz parametry elektryczne. Ustalamy, czy przyczyną problemu jest dioda i czy konieczna jest jej wymiana.
+
+##### Wymiana modułów i stosów diodowych
+
+Demontujemy uszkodzony moduł, dobieramy kompatybilną diodę lub stos i sprawdzamy połączenia mechaniczne oraz elektryczne. Dostępność odpowiedniego komponentu potwierdzamy dla modelu. Montujemy nowy kompatybilny komponent.
+
+##### Regeneracja chłodzenia modułu diodowego
+
+Kontrolujemy odprowadzanie ciepła, interfejs termiczny — jeśli występuje — i szczelność obiegu cieczy. Sprawdzamy temperaturę pracy po naprawie. W razie potrzeby odnawiamy przewidziany konstrukcją interfejs termiczny.
+
+##### Kalibracja i pomiar mocy wyjściowej
+
+Mierzymy rzeczywistą moc optyczną odpowiednim przyrządem, porównujemy wynik z nastawami i wykonujemy wspieraną przez urządzenie regulację. Wartość na ekranie nie jest pomiarem mocy optycznej; przywrócenie parametrów wymaga potwierdzenia pomiarami. Po wymianie wykonujemy test kontrolny.
+
+#### Kiedy potrzebna jest diagnostyka
+
+Przyczynę usterki ustalamy na podstawie kontroli konkretnego urządzenia.
+
+##### Spadek efektu lub mocy
+
+Słabszy efekt depilacji, brak emisji albo niska moc optyczna wymagają diagnostyki.
+
+##### Niestabilna praca
+
+Moduł działa nieregularnie lub aparat zgłasza błędy.
+
+##### Przegrzewanie
+
+Problemy z odprowadzaniem ciepła mogą wpływać na działanie diody.
+
+##### Awaria po wycieku
+
+Po przegrzaniu lub nieszczelności trzeba zbadać moduł i przyczynę uszkodzenia.
+
+#### Jak przebiega naprawa
+
+1. ### Zgłoszenie
+
+Opisz objawy, podaj model urządzenia i miejscowość.
+2. ### Diagnostyka
+
+Sprawdzamy podzespoły związane z objawami i ustalamy przyczynę.
+3. ### Uzgodnienie
+
+Przed naprawą uzgadniamy zakres, dostępność części i koszt.
+4. ### Naprawa i kontrola
+
+Wykonujemy uzgodnione prace oraz sprawdzamy działanie naprawianych podzespołów.
+
+#### Cena i warunki
+
+##### Wymiana i kalibracja diod laserowych
+
+**od 800 zł**
+
+Ostateczny koszt uzgadniamy po diagnostyce.
+
+##### Diagnostyka przy naprawie lub obsłudze
+
+**0 zł**
+
+Diagnostyka bezpłatna przy zleceniu naprawy lub obsługi technicznej.
+
+##### Dojazd specjalisty
+
+Płatny osobno
+
+Od 800 zł za początkową usługę serwisową. Praca przy wymianie diody według cennika: 1 200 zł. Nowy moduł, dodatkowe komponenty i zakres kalibracji wyceniamy indywidualnie; nie są automatycznie wliczone w cenę początkową.
+
+[Cennik i warunki serwisu](https://lasertechservice.pl/uslugi/cennik/)
+
+#### Techniczne podejście do naprawy
+
+##### Ustalenie przyczyny
+
+Sprawdzamy powiązane układy, aby nie ograniczać się do wymiany uszkodzonej części.
+
+##### Z uwzględnieniem modelu
+
+Dobieramy kompatybilne podzespoły i metody kontroli do konstrukcji urządzenia.
+
+##### Jasny zakres prac
+
+Omawiamy wykryte usterki i uzgadniamy naprawę przed jej wykonaniem.
+
+#### Przykład wymiany modułu diodowego
+
+![Wymiana modułu po zalaniu — Poznań](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp)
+
+##### Wymiana modułu po zalaniu — Poznań
+
+**Objaw:** Uszkodzony moduł diodowy po przedostaniu się cieczy.
+
+**Przyczyna:** Nieprawidłowo osadzona uszczelka spowodowała utratę szczelności i zalanie modułu.
+
+**Rezultat:** Wymieniono moduł i uszczelkę, przywracając prawidłowe uszczelnienie.
+
+[Pełna realizacja →](https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
+
+#### Powiązane usługi i materiały
+
+- [Diagnostyka laserów diodowych — odrębna usługa](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
+- [Naprawa zasilaczy i elektroniki](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
+
+- [Regeneracja głowic i manipulatorów](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+- [Naprawa układów chłodzenia — katalog usług](https://lasertechservice.pl/uslugi/)
+
+- [Przeglądy i obsługa techniczna — cennik i warunki](https://lasertechservice.pl/uslugi/cennik/)
+
+- [Objawy usterki diody](https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/)
+
+#### Najczęstsze pytania
+
+##### Czy słabszy efekt depilacji oznacza konieczność wymiany diody?
+
+Nie zawsze. Potrzebna jest diagnostyka modułu, sterowania i chłodzenia oraz pomiar wyjścia optycznego.
+
+##### Czy każda dioda pasuje do mojego aparatu?
+
+Nie. Dobór zależy od zgodności optycznej, elektrycznej, mechanicznej i układu chłodzenia. Dostępność potwierdzamy indywidualnie.
+
+##### Czy 800 zł obejmuje nowy moduł?
+
+Nie. To cena początkowa usługi serwisowej. Cennik podaje 1 200 zł za pracę przy wymianie diody; nowy moduł, dodatkowe części i zakres kalibracji są wyceniane indywidualnie.
+
+##### Czy wskazanie na ekranie potwierdza moc lasera?
+
+Nie. Rzeczywistą moc optyczną sprawdza się odpowiednim przyrządem pomiarowym. Nastawa na ekranie nie zastępuje pomiaru.
+
+##### Czy po wymianie wykonujecie kalibrację?
+
+Wykonujemy pomiary i regulację w zakresie wspieranym przez dany model. Możliwość oraz zakres kalibracji potwierdzamy przed pracami.
+
+##### Dlaczego sprawdzacie chłodzenie?
+
+Przegrzewanie lub wyciek mogą uszkodzić moduł. Sama wymiana bez usunięcia przyczyny zwiększa ryzyko ponownej awarii.
+
+##### Czy gwarantujecie fabryczną moc?
+
+Nie deklarujemy przywrócenia parametrów bez pomiarów. Wynik oceniamy dla konkretnego urządzenia po wykonaniu uzgodnionych prac.
+
+##### Jak rozliczana jest diagnostyka i dojazd?
+
+Diagnostyka jest bezpłatna przy zamówieniu naprawy lub obsługi technicznej. Dojazd rozliczamy osobno.
+
+#### Zamów serwis
+
+Dojazd specjalisty płatny osobno. [+48 790 402 597](tel:+48790402597) · [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)
+
+#### Usługi serwisowe
+
+- [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+- [Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+#### Powiązane realizacje
+
+- [Wymiana modułu diodowego lasera po zalaniu – Poznań](https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
+
+#### Powiązane artykuły
+
+- [5 oznak, że dioda w laserze do depilacji wymaga sprawdzenia lub wymiany](https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/)
+
 ## Equipment
 
 
@@ -3420,6 +4524,12 @@ Dojazd płatny osobno. Kalibracja według cennika: 1 600 zł — nie jest automa
 ### Русский
 
 - Диагностика диодных лазеров — отдельная услуга
+
+[HTML](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/)
+
+### Русский
+
+- Диагностика диодных лазеров — отдельная услуга
 - Проверка подержанного оборудования: различия тестов лазера и IPL
 
 [HTML](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
@@ -3432,10 +4542,23 @@ Dojazd płatny osobno. Kalibracja według cennika: 1 600 zł — nie jest automa
 
 ### Русский
 
+- Диагностика диодных лазеров — отдельная услуга
+
+[HTML](https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/)
+
+### Русский
+
 - Причины повреждений диодных модулей
 - Диагностика диодных лазеров
 
 [HTML](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
+### Русский
+
+- Диагностика диодных лазеров — отдельная услуга
+- Признаки неисправности диода
+
+[HTML](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/)
 
 ### Polski
 
@@ -3463,6 +4586,12 @@ Dojazd płatny osobno. Kalibracja według cennika: 1 600 zł — nie jest automa
 
 ### Polski
 
+- Diagnostyka laserów diodowych — odrębna usługa
+
+[HTML](https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/)
+
+### Polski
+
 - Diagnostyka laserów diodowych
 
 [HTML](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
@@ -3486,6 +4615,19 @@ Dojazd płatny osobno. Kalibracja według cennika: 1 600 zł — nie jest automa
 - Diagnostyka laserów diodowych — odrębna usługa
 
 [HTML](https://lasertechservice.pl/uslugi/serwis-laserow-co2/)
+
+### Polski
+
+- Diagnostyka laserów diodowych — odrębna usługa
+
+[HTML](https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/)
+
+### Polski
+
+- Diagnostyka laserów diodowych — odrębna usługa
+- Objawy usterki diody
+
+[HTML](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/)
 
 ## Repair Cases
 
@@ -15888,7 +17030,10 @@ lok. 320
 - [Polski: Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/) — [Русский](https://lasertechservice.pl/ru/uslugi/)
 - [Polski: Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/) — [Русский](https://lasertechservice.pl/ru/uslugi/cennik/)
 - [Polski: Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/) — [Русский](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+- [Polski: Serwis i naprawa urządzeń RF](https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/) — [Русский](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/)
 - [Polski: Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/) — [Русский](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
 - [Polski: Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/) — [Русский](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
 - [Polski: Serwis i naprawa urządzeń IPL](https://lasertechservice.pl/uslugi/serwis-ipl/) — [Русский](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
 - [Polski: Serwis i naprawa laserów CO₂](https://lasertechservice.pl/uslugi/serwis-laserow-co2/) — [Русский](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/)
+- [Polski: Serwis urządzeń do krioterapii i kriolipolizy](https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/) — [Русский](https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/)
+- [Polski: Wymiana i kalibracja diod laserowych](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/) — [Русский](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/)

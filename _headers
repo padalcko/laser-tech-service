@@ -501,6 +501,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/uslugi/remont-oborudovaniya-rf/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /ru/uslugi/servis-ipl/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -511,10 +516,20 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /ru/uslugi/vosstanovlenie-golovok-i-manipul/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /uslugi/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -530,6 +545,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/uslugi/naprawa-urzadzen-rf/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /uslugi/naprawa-zasilaczy-i-elektroniki/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -550,6 +570,16 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/uslugi/serwis-laserow-co2/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/uslugi/serwis-urzadzen-do-krioterapii/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /llms.txt
   Content-Type: text/plain; charset=utf-8

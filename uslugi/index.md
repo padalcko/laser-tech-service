@@ -20,7 +20,7 @@ Naprawiamy urządzenia wykorzystywane w salonach beauty, klinikach kosmetologicz
 
 - [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
-- Wymiana i kalibracja diod laserowych
+- [Wymiana i kalibracja diod laserowych](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/)
 
 - [Regeneracja głowic i manipulatorów](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
 
@@ -38,11 +38,11 @@ Naprawiamy urządzenia wykorzystywane w salonach beauty, klinikach kosmetologicz
 
 - Serwis laserów pikosekundowych
 
-- Naprawa urządzeń RF
+- [Naprawa urządzeń RF](https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/)
 
 - Naprawa urządzeń LPG
 
-- Serwis urządzeń do krioterapii
+- [Serwis urządzeń do krioterapii](https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/)
 
 - Czyszczenie i konserwacja urządzeń kosmetologicznych
 
@@ -166,10 +166,13 @@ lok. 320
 
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
 - [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+- [Wymiana i kalibracja diod laserowych](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/)
 - [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
 - [Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
 - [Serwis i naprawa urządzeń IPL](https://lasertechservice.pl/uslugi/serwis-ipl/)
 - [Serwis i naprawa laserów CO₂](https://lasertechservice.pl/uslugi/serwis-laserow-co2/)
+- [Serwis i naprawa urządzeń RF](https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/)
+- [Serwis urządzeń do krioterapii i kriolipolizy](https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/)
 
 ## Powiązane realizacje
 

@@ -20,7 +20,7 @@
 
 - [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 
-- Замена и калибровка лазерных диодов
+- [Замена и калибровка лазерных диодов](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/)
 
 - [Восстановление головок и манипул](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
 
@@ -38,11 +38,11 @@
 
 - Сервис пикосекундных лазеров
 
-- Ремонт оборудования RF
+- [Ремонт оборудования RF](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/)
 
 - Ремонт оборудования LPG
 
-- Сервис оборудования для криотерапии
+- [Сервис оборудования для криотерапии](https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/)
 
 - Чистка и техническое обслуживание косметологического оборудования
 
@@ -166,10 +166,13 @@ lok. 320
 
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
 - [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+- [Замена и калибровка лазерных диодов](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/)
 - [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
 - [Ремонт блоков питания и электроники лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
 - [Сервис и ремонт оборудования IPL](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
 - [Сервис и ремонт лазеров CO₂](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/)
+- [Ремонт и сервис RF-оборудования](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/)
+- [Сервис оборудования для криотерапии и криолиполиза](https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/)
 
 ## Связанные работы
 

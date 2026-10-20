@@ -12,8 +12,8 @@ stale = []
 for service in config.values():
     for lang, route in service['pages'].items():
         cards = []
-        columns = max(1, min(4, len(service["cases"])))
-        image_sizes = f"(min-width: 1200px) {1120 // columns}px, (min-width: 1024px) {90 // columns}vw, (min-width: 650px) 45vw, 90vw"
+        # Match the compact Alma card even when a section contains just one case.
+        image_sizes = "(min-width: 1200px) 280px, (min-width: 1024px) 22vw, (min-width: 650px) 45vw, 90vw"
         labels = ['Objaw', 'Przyczyna', 'Rezultat', 'Pełna realizacja'] if lang == 'pl' else ['Симптом', 'Причина', 'Результат', 'Полное описание']
         for case in service['cases']:
             content = case['content'][lang]
@@ -28,7 +28,7 @@ for service in config.values():
             cards.append(card)
         path = ROOT / route.strip('/') / 'index.html'
         source = path.read_text()
-        block = f'<!-- BEGIN SERVICE CASES -->\n<div class="service-cases-grid" style="--case-columns: {columns}">\n' + '\n'.join(cards) + '\n</div>\n<!-- END SERVICE CASES -->'
+        block = '<!-- BEGIN SERVICE CASES -->\n<div class="service-cases-grid">\n' + '\n'.join(cards) + '\n</div>\n<!-- END SERVICE CASES -->'
         updated, count = re.subn(r'<!-- BEGIN SERVICE CASES -->.*?<!-- END SERVICE CASES -->', lambda _: block, source, flags=re.S)
         assert count == 1, path
         # Keep machine-readable case relationships aligned with the visible cards.

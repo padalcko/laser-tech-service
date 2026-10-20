@@ -261,5 +261,39 @@
         }
       }
     ]
+  },
+  "laser-diode-service": {
+    "pages": {
+      "pl": "/uslugi/wymiana-i-kalibracja-diod-laserowych/",
+      "ru": "/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/"
+    },
+    "cases": [
+      {
+        "pages": {
+          "pl": "/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+          "ru": "/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/"
+        },
+        "image": {
+          "src": "/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp",
+          "srcset": "/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan-480w.webp 480w, /img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan-768w.webp 768w, /img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp 1122w",
+          "width": "1122",
+          "height": "1402"
+        },
+        "content": {
+          "pl": {
+            "title": "Wymiana modułu po zalaniu — Poznań",
+            "symptom": "Uszkodzony moduł diodowy po przedostaniu się cieczy.",
+            "cause": "Nieprawidłowo osadzona uszczelka spowodowała utratę szczelności i zalanie modułu.",
+            "result": "Wymieniono moduł i uszczelkę, przywracając prawidłowe uszczelnienie."
+          },
+          "ru": {
+            "title": "Замена модуля после залития — Познань",
+            "symptom": "Повреждение диодного модуля после попадания жидкости.",
+            "cause": "Неправильно установленное уплотнение привело к потере герметичности и залитию модуля.",
+            "result": "Заменены модуль и уплотнение, восстановлена герметичность узла."
+          }
+        }
+      }
+    ]
   }
 }
