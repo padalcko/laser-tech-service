@@ -1,0 +1,2053 @@
+{
+  "schema_version": "1.0",
+  "catalog_type": "business_content_catalog",
+  "business": {
+    "name": "Laser Tech Service",
+    "url": "https://lasertechservice.pl/",
+    "telephone": "+48 790 402 597",
+    "email": "contact@lasertechservice.pl",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Marsz. Józefa Piłsudskiego 74 lok. 320",
+      "addressLocality": "Wrocław",
+      "postalCode": "50-020",
+      "addressCountry": "PL"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Poland"
+    },
+    "sameAs": [
+      "https://www.instagram.com/lasertech.service/",
+      "https://www.facebook.com/share/1CPgxschrT/?mibextid=wwXIfr",
+      "https://t.me/lasertechservice"
+    ],
+    "description": "Profesjonalny serwis i naprawa laserów kosmetycznych oraz urządzeń kosmetologicznych. Wymiana diod, regeneracja głowic, naprawa elektroniki i układów chłodzenia. Wrocław i cała Polska.",
+    "source_url": "https://lasertechservice.pl/",
+    "main_city": "Wrocław"
+  },
+  "languages": [
+    "pl",
+    "ru"
+  ],
+  "services": [
+    {
+      "id": "service:uslugi:diagnostyka-laserow-diodowych",
+      "equipment_category": "diode_laser",
+      "primary_url": "https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/",
+      "localizations": {
+        "pl": {
+          "name": "Diagnostyka laserów diodowych",
+          "description": "Diagnostyka aparatu i głowicy lasera diodowego od 600 zł. Pisemny wniosek techniczny. Bezpłatna przy zleceniu naprawy w Laser Tech Service; dojazd osobno.",
+          "url": "https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/",
+          "starting_price": {
+            "amount": 600,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "od 600 zł",
+            "conditions": [
+              "Dojazd specjalisty płatny osobno — również przy zleceniu naprawy."
+            ],
+            "source_url": "https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/"
+          },
+          "available_work": [
+            "Diagnostyka urządzenia laserowego",
+            "Diagnostyka głowicy laserowej",
+            "Identyfikacja przyczyny usterki",
+            "Zalecenia i propozycja naprawy"
+          ]
+        },
+        "ru": {
+          "name": "Диагностика диодных лазеров",
+          "description": "Диагностика аппарата и манипулы диодного лазера от 600 zł. Письменное техническое заключение. Бесплатно при заказе ремонта в Laser Tech Service; выезд отдельно.",
+          "url": "https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/",
+          "starting_price": {
+            "amount": 600,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "от 600 zł",
+            "conditions": [
+              "Выезд специалиста оплачивается отдельно — в том числе при заказе ремонта."
+            ],
+            "source_url": "https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/"
+          },
+          "available_work": [
+            "Диагностика лазерного аппарата",
+            "Диагностика манипулы",
+            "Выявление причины неисправности",
+            "Рекомендации и предложение по ремонту"
+          ]
+        }
+      }
+    },
+    {
+      "id": "service:uslugi:naprawa-urzadzen-rf",
+      "equipment_category": "RF",
+      "primary_url": "https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/",
+      "localizations": {
+        "pl": {
+          "name": "Serwis i naprawa urządzeń RF",
+          "description": "Diagnostyka generatorów RF, elektroniki i głowic. Naprawa urządzeń RF oraz mechanizmów mikroigłowych zależnie od modelu — serwis na terenie Polski.",
+          "url": "https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/",
+          "starting_price": {
+            "amount": 600,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "od 600 zł",
+            "conditions": [
+              "Dojazd specjalisty płatny osobno."
+            ],
+            "source_url": "https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/"
+          },
+          "available_work": [
+            "Naprawa generatorów RF i elektroniki sterującej",
+            "Naprawa głowic, manipulatorów i aplikatorów RF",
+            "Naprawa mechanizmów mikroigłowych RF",
+            "Kontrola parametrów i kalibracja RF"
+          ]
+        },
+        "ru": {
+          "name": "Ремонт и сервис RF-оборудования",
+          "description": "Диагностика генераторов RF, электроники и манипул. Ремонт RF-аппаратов и микроигольчатых механизмов с учётом модели — сервис по всей Польше.",
+          "url": "https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/",
+          "starting_price": {
+            "amount": 600,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "от 600 zł",
+            "conditions": [
+              "Выезд специалиста оплачивается отдельно."
+            ],
+            "source_url": "https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/"
+          },
+          "available_work": [
+            "Ремонт RF-генераторов и управляющей электроники",
+            "Ремонт RF-манипул и аппликаторов",
+            "Ремонт механизмов микроигольчатого RF",
+            "Проверка параметров и калибровка RF"
+          ]
+        }
+      }
+    },
+    {
+      "id": "service:uslugi:naprawa-zasilaczy-i-elektroniki",
+      "equipment_category": "electronics",
+      "primary_url": "https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/",
+      "localizations": {
+        "pl": {
+          "name": "Naprawa zasilaczy i elektroniki urządzeń laserowych",
+          "description": "Diagnostyka, naprawa i wymiana zasilaczy oraz naprawa połączeń elektrycznych laserów. Od 600 zł. Diagnostyka bezpłatna przy naprawie; dojazd i części osobno.",
+          "url": "https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/",
+          "starting_price": {
+            "amount": 600,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "od 600 zł",
+            "conditions": [
+              "Dojazd specjalisty i koszty transportu płatne osobno — również przy zleceniu naprawy."
+            ],
+            "source_url": "https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/"
+          },
+          "available_work": [
+            "Wymiana zasilaczy",
+            "Instalacja elektryczna, wiązki i złącza",
+            "Naprawa zasilaczy na poziomie komponentów",
+            "Ocena możliwości naprawy i przywrócenie sprawności"
+          ]
+        },
+        "ru": {
+          "name": "Ремонт блоков питания и электроники лазерных аппаратов",
+          "description": "Диагностика, ремонт и замена блоков питания, восстановление электропроводки лазеров. От 600 zł. Диагностика при ремонте бесплатна; выезд и детали отдельно.",
+          "url": "https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/",
+          "starting_price": {
+            "amount": 600,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "от 600 zł",
+            "conditions": [
+              "Выезд специалиста и транспортные расходы оплачиваются отдельно — в том числе при заказе ремонта."
+            ],
+            "source_url": "https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/"
+          },
+          "available_work": [
+            "Замена блоков питания",
+            "Электропроводка, кабельные жгуты и разъёмы",
+            "Компонентный ремонт блоков питания",
+            "Оценка ремонтопригодности и восстановление"
+          ]
+        }
+      }
+    },
+    {
+      "id": "service:uslugi:regeneracja-glowic-i-manipulatorow",
+      "equipment_category": "handpieces",
+      "primary_url": "https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/",
+      "localizations": {
+        "pl": {
+          "name": "Regeneracja głowic i manipulatorów laserowych",
+          "description": "Naprawa głowic i manipulatorów laserowych od 800 zł. Diody, chłodzenie, uszczelnienia. Diagnostyka bezpłatna przy zleceniu naprawy; dojazd osobno.",
+          "url": "https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/",
+          "starting_price": {
+            "amount": 800,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "od 800 zł",
+            "conditions": [
+              "Dojazd specjalisty i transport płatne osobno."
+            ],
+            "source_url": "https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/"
+          },
+          "available_work": [
+            "Wymiana diody laserowej",
+            "Wymiana elementu chłodzącego",
+            "Wymiana pasty termoprzewodzącej",
+            "Wymiana uszczelnień i komponentów",
+            "Czyszczenie i uszczelnianie"
+          ]
+        },
+        "ru": {
+          "name": "Восстановление головок и манипул лазерных аппаратов",
+          "description": "Ремонт головок и манипул лазерных аппаратов от 800 zł. Диоды, охлаждение, уплотнения. Диагностика бесплатно при заказе ремонта; выезд отдельно.",
+          "url": "https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/",
+          "starting_price": {
+            "amount": 800,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "от 800 zł",
+            "conditions": [
+              "Выезд специалиста и транспорт оплачиваются отдельно."
+            ],
+            "source_url": "https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/"
+          },
+          "available_work": [
+            "Замена лазерного диода",
+            "Замена охлаждающего элемента",
+            "Замена термопасты",
+            "Замена уплотнений и компонентов",
+            "Очистка и герметизация"
+          ]
+        }
+      }
+    },
+    {
+      "id": "service:uslugi:serwis-ipl",
+      "equipment_category": "IPL",
+      "primary_url": "https://lasertechservice.pl/uslugi/serwis-ipl/",
+      "localizations": {
+        "pl": {
+          "name": "Serwis i naprawa urządzeń IPL",
+          "description": "Serwis urządzeń IPL od 800 zł: lampy ksenonowe, optyka i chłodzenie. Diagnostyka bezpłatna przy naprawie lub obsłudze; dojazd i części wyceniane osobno.",
+          "url": "https://lasertechservice.pl/uslugi/serwis-ipl/",
+          "starting_price": {
+            "amount": 800,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "od 800 zł",
+            "conditions": [
+              "Dojazd specjalisty płatny osobno. Części i dodatkowe prace wyceniamy indywidualnie."
+            ],
+            "source_url": "https://lasertechservice.pl/uslugi/serwis-ipl/"
+          },
+          "available_work": [
+            "Wymiana ksenonowych lamp błyskowych IPL",
+            "Czyszczenie i wymiana filtrów optycznych oraz elementów światłowodu",
+            "Diagnostyka i naprawa układu chłodzenia IPL",
+            "Kontrola energii impulsów i kalibracja urządzenia IPL"
+          ]
+        },
+        "ru": {
+          "name": "Сервис и ремонт оборудования IPL",
+          "description": "Сервис IPL от 800 zł: ксеноновые лампы, оптика и охлаждение. Диагностика бесплатна при ремонте или обслуживании; выезд и детали рассчитываются отдельно.",
+          "url": "https://lasertechservice.pl/ru/uslugi/servis-ipl/",
+          "starting_price": {
+            "amount": 800,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "от 800 zł",
+            "conditions": [
+              "Выезд специалиста оплачивается отдельно. Детали и дополнительные работы оцениваются индивидуально."
+            ],
+            "source_url": "https://lasertechservice.pl/ru/uslugi/servis-ipl/"
+          },
+          "available_work": [
+            "Замена ксеноновых импульсных ламп IPL",
+            "Очистка и замена оптических фильтров и световодов",
+            "Диагностика и ремонт системы охлаждения IPL",
+            "Контроль энергии импульсов и калибровка оборудования IPL"
+          ]
+        }
+      }
+    },
+    {
+      "id": "service:uslugi:serwis-laserow-co2",
+      "equipment_category": "CO2",
+      "primary_url": "https://lasertechservice.pl/uslugi/serwis-laserow-co2/",
+      "localizations": {
+        "pl": {
+          "name": "Serwis i naprawa laserów CO₂",
+          "description": "Naprawa laserów CO₂ od 1 200 zł: źródło, optyka, skaner i chłodzenie. Diagnostyka przy naprawie bezpłatna. Kalibracja 1 600 zł, części i dojazd osobno.",
+          "url": "https://lasertechservice.pl/uslugi/serwis-laserow-co2/",
+          "starting_price": {
+            "amount": 1200,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "od 1 200 zł",
+            "conditions": [
+              "Dojazd płatny osobno. Kalibracja według cennika: 1 600 zł — nie jest automatycznie wliczona w naprawę od 1 200 zł."
+            ],
+            "source_url": "https://lasertechservice.pl/uslugi/serwis-laserow-co2/"
+          },
+          "available_work": [
+            "Diagnostyka i naprawa źródła lasera CO₂",
+            "Serwis i justowanie układu optycznego",
+            "Diagnostyka i kalibracja skanera frakcyjnego CO₂",
+            "Kontrola chłodzenia i parametrów pracy lasera CO₂"
+          ]
+        },
+        "ru": {
+          "name": "Сервис и ремонт лазеров CO₂",
+          "description": "Ремонт CO₂-лазеров от 1 200 zł: источник, оптика, сканер и охлаждение. Диагностика при ремонте бесплатна. Калибровка 1 600 zł, детали и выезд отдельно.",
+          "url": "https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/",
+          "starting_price": {
+            "amount": 1200,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "от 1 200 zł",
+            "conditions": [
+              "Выезд оплачивается отдельно. Калибровка по прайсу: 1 600 zł — она не включена автоматически в ремонт от 1 200 zł."
+            ],
+            "source_url": "https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/"
+          },
+          "available_work": [
+            "Диагностика и ремонт лазерного источника CO₂",
+            "Обслуживание и юстировка оптической системы",
+            "Диагностика и калибровка фракционного сканера CO₂",
+            "Проверка охлаждения и рабочих параметров лазера CO₂"
+          ]
+        }
+      }
+    },
+    {
+      "id": "service:uslugi:serwis-urzadzen-do-krioterapii",
+      "equipment_category": "cryotherapy",
+      "primary_url": "https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/",
+      "localizations": {
+        "pl": {
+          "name": "Serwis urządzeń do krioterapii i kriolipolizy",
+          "description": "Diagnostyka chłodzenia, układów próżniowych, aplikatorów i elektroniki urządzeń do krioterapii i kriolipolizy. Zakres naprawy dopasowujemy do konstrukcji aparatu.",
+          "url": "https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/",
+          "starting_price": {
+            "amount": 1200,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "od 1 200 zł",
+            "conditions": [
+              "Dojazd specjalisty płatny osobno."
+            ],
+            "source_url": "https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/"
+          },
+          "available_work": [
+            "Naprawa układów chłodzenia",
+            "Naprawa układów podciśnienia",
+            "Regeneracja głowic i aplikatorów krioterapeutycznych",
+            "Naprawa elektroniki i kontrola temperatury"
+          ]
+        },
+        "ru": {
+          "name": "Сервис оборудования для криотерапии и криолиполиза",
+          "description": "Диагностика охлаждения, вакуумных систем, аппликаторов и электроники оборудования для криотерапии и криолиполиза. Объём ремонта определяем по конструкции аппарата.",
+          "url": "https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/",
+          "starting_price": {
+            "amount": 1200,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "от 1 200 zł",
+            "conditions": [
+              "Выезд специалиста оплачивается отдельно."
+            ],
+            "source_url": "https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/"
+          },
+          "available_work": [
+            "Ремонт систем охлаждения",
+            "Ремонт вакуумной системы",
+            "Восстановление криоманипул и аппликаторов",
+            "Ремонт электроники и контроль температуры"
+          ]
+        }
+      }
+    },
+    {
+      "id": "service:uslugi:wymiana-i-kalibracja-diod-laserowych",
+      "equipment_category": "diode_laser",
+      "primary_url": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/",
+      "localizations": {
+        "pl": {
+          "name": "Wymiana i kalibracja diod laserowych",
+          "description": "Diagnostyka modułów diodowych, wymiana kompatybilnych diod i stosów oraz pomiary mocy optycznej. Kontrola chłodzenia i kalibracja w zakresie przewidzianym dla modelu.",
+          "url": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/",
+          "starting_price": {
+            "amount": 800,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "od 800 zł",
+            "conditions": [
+              "Cena początkowa serwisu; nowy moduł i zakres kalibracji wyceniane indywidualnie.",
+              "Dojazd specjalisty płatny osobno."
+            ],
+            "source_url": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/"
+          },
+          "available_work": [
+            "Diagnostyka modułów diodowych",
+            "Wymiana modułów i stosów diodowych",
+            "Regeneracja chłodzenia modułu diodowego",
+            "Kalibracja i pomiar mocy wyjściowej"
+          ]
+        },
+        "ru": {
+          "name": "Замена и калибровка лазерных диодов",
+          "description": "Диагностика диодных модулей, замена совместимых диодов и стеков, измерение оптической мощности. Проверка охлаждения и калибровка в пределах возможностей модели.",
+          "url": "https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/",
+          "starting_price": {
+            "amount": 800,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "от 800 zł",
+            "conditions": [
+              "Начальная цена сервиса; новый модуль и объём калибровки оцениваются индивидуально.",
+              "Выезд специалиста оплачивается отдельно."
+            ],
+            "source_url": "https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/"
+          },
+          "available_work": [
+            "Диагностика лазерных диодных модулей",
+            "Замена диодных модулей и стеков",
+            "Восстановление охлаждения диодного модуля",
+            "Калибровка и измерение выходной мощности"
+          ]
+        }
+      }
+    }
+  ],
+  "articles": [
+    {
+      "id": "article:blog:3000-nain-laser-historia-konstrukcja-serwis",
+      "title": "3000 NAIN — poznajcie dinozaura wśród laserów",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/3000-nain-laser-historia-konstrukcja-serwis/",
+      "description": "3000 NAIN z bliska: historia modelu, technologia Nd:YAG Q-Switched, duża obudowa i znaczenie naprawy elektroniki. Co wiemy, a czego nie potwierdzono?",
+      "topics": [
+        "Technologia i serwis laserów"
+      ],
+      "datePublished": "2026-09-19",
+      "dateModified": "2026-09-19",
+      "related_services": []
+    },
+    {
+      "id": "article:blog:5-oznak-wymiany-diody-w-laserze",
+      "title": "5 oznak, że dioda w laserze do depilacji wymaga sprawdzenia lub wymiany",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/",
+      "description": "Poznaj pięć oznak, które mogą wskazywać na zużycie lub uszkodzenie diody w laserze do depilacji. Dowiedz się, dlaczego szybka diagnostyka może zapobiec poważniejszym problemom z urządzeniem.",
+      "topics": [
+        "Serwis laserów diodowych"
+      ],
+      "datePublished": "2026-09-10",
+      "dateModified": "2026-09-10",
+      "related_services": []
+    },
+    {
+      "id": "article:blog:beauty-planet-3d-contour-mozliwosci-serwis",
+      "title": "Beauty Planet 3D Contour – co potrafi, jak działa i czy warto mieć go w gabinecie?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/beauty-planet-3d-contour-mozliwosci-serwis/",
+      "description": "Opis możliwości urządzenia Beauty Planet 3D Contour, technologii 5 w 1, znaczenia dla gabinetu oraz rzeczywistego przypadku naprawy systemu vacuum i RF.",
+      "topics": [
+        "Urządzenia kosmetologiczne"
+      ],
+      "datePublished": "2026-09-14",
+      "dateModified": "2026-09-14",
+      "related_services": []
+    },
+    {
+      "id": "article:blog:czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie",
+      "title": "Dlaczego regularne czyszczenie układu chłodzenia lasera jest tak ważne? Kurz, awarie wentylatorów i ryzyko przegrzania",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/",
+      "description": "Jak kurz ogranicza chłodzenie lasera? Przyczyny awarii, dobór wentylatorów według przepływu i ciśnienia, objawy przegrzania oraz zasady konserwacji.",
+      "topics": [
+        "Eksploatacja i serwis"
+      ],
+      "dateModified": "2026-10-12",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych"
+      ]
+    },
+    {
+      "id": "article:blog:dlaczego-maly-przewod-powoduje-duze-problemy",
+      "title": "Dlaczego mały przewód powoduje duże problemy?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/dlaczego-maly-przewod-powoduje-duze-problemy/",
+      "description": "Aparat się włącza, ale manipuła nie działa? Wyjaśniamy, jak wewnętrzne uszkodzenie przewodu zatrzymuje funkcję urządzenia, na przykładzie Beauty Planet 3D Contour.",
+      "topics": [
+        "Diagnostyka i naprawa urządzeń"
+      ],
+      "datePublished": "2026-09-30",
+      "dateModified": "2026-09-30",
+      "related_services": []
+    },
+    {
+      "id": "article:blog:dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze",
+      "title": "Dlaczego nie warto samodzielnie wymieniać uszczelek w urządzeniu laserowym?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/",
+      "description": "Źle założona uszczelka doprowadziła do zalania diody w laserze w Poznaniu. Wyjaśniamy ryzyko, koszty i objawy wymagające wyłączenia urządzenia.",
+      "topics": [
+        "Serwis laserów"
+      ],
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "related_services": []
+    },
+    {
+      "id": "article:blog:dlaczego-pala-sie-moduly-diodowe-w-laserach",
+      "title": "Dlaczego palą się moduły diodowe w laserach do depilacji? Przyczyny, objawy i konsekwencje",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/",
+      "description": "Dlaczego moduły diodowe w laserach do depilacji ulegają uszkodzeniu? Przyczyny, objawy, koszty awarii oraz znaczenie diagnostyki i regularnego serwisu.",
+      "topics": [
+        "Serwis laserów diodowych"
+      ],
+      "datePublished": "2026-09-15",
+      "dateModified": "2026-09-15",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych"
+      ]
+    },
+    {
+      "id": "article:blog:dlaczego-warto-korzystac-z-profesjonalnego-serwisu",
+      "title": "Dlaczego warto korzystać z profesjonalnego serwisu urządzeń kosmetycznych?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/",
+      "description": "Dlaczego profesjonalny serwis urządzeń kosmetycznych ma znaczenie? Gwarancja, szybki dojazd, dokumentacja napraw, historia serwisowa i większa wartość urządzenia.",
+      "topics": [
+        "Serwis urządzeń"
+      ],
+      "datePublished": "2026-09-08",
+      "dateModified": "2026-09-08",
+      "related_services": []
+    },
+    {
+      "id": "article:blog:hifu-co-to-jest-jak-dziala-zastosowanie-serwis",
+      "title": "HIFU – co to jest, jak działa i do czego służy urządzenie HIFU?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/",
+      "description": "Wyjaśnienie zasady działania technologii HIFU, głębokości ogniskowania, zastosowania urządzeń w kosmetologii, ich budowy oraz znaczenia diagnostyki i serwisu.",
+      "topics": [
+        "Technologie kosmetologiczne"
+      ],
+      "datePublished": "2026-09-14",
+      "dateModified": "2026-09-14",
+      "related_services": []
+    },
+    {
+      "id": "article:blog:jak-kupic-uzywany-laser-do-depilacji",
+      "title": "Jak prawidłowo kupić używany laser kosmetyczny i nie stracić pieniędzy?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/",
+      "description": "Planujesz zakup używanego lasera do depilacji? Sprawdź stan diody, historię serwisową i koszty napraw. Porady Laser Tech Service i oferty LTS Market.",
+      "topics": [
+        "Zakup i diagnostyka"
+      ],
+      "dateModified": "2026-10-12",
+      "related_services": []
+    },
+    {
+      "id": "article:blog:laser-co2-nie-reaguje-na-pedal-diagnostyka",
+      "title": "Laser CO₂ nie reaguje na pedał? Objaw to jeszcze nie diagnoza",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/",
+      "description": "Brak reakcji lasera CO₂ na pedał nie musi oznaczać awarii pedału. Przypadek z Poznania pokazuje, dlaczego najpierw szukamy przerwy w obwodzie.",
+      "topics": [
+        "Diagnostyka i naprawa"
+      ],
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-06",
+      "related_services": []
+    },
+    {
+      "id": "article:blog:laser-tech-service-zlota-firma-2026",
+      "title": "Laser Tech Service z nagrodą Złota Firma 2026",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/laser-tech-service-zlota-firma-2026/",
+      "description": "Laser Tech Service otrzymał nagrodę Złota Firma 2026. Dziękujemy za zaufanie do naszego serwisu laserów i urządzeń kosmetycznych we Wrocławiu i całej Polsce.",
+      "topics": [
+        "Z życia serwisu"
+      ],
+      "datePublished": "2026-10-02",
+      "dateModified": "2026-10-02",
+      "related_services": []
+    },
+    {
+      "id": "article:blog:lightsheer-desire-chlodzenie-niezawodnosc",
+      "title": "Lumenis LightSheer DESIRE po 10 latach – dlaczego laser za 200 000 zł nadal może pracować niezawodnie?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/lightsheer-desire-chlodzenie-niezawodnosc/",
+      "description": "LightSheer DESIRE, technologia HIT i ChillTip: jak chłodzenie, osady oraz uszczelnienia wpływają na niezawodność? Wnioski z naprawy w Oleśnicy.",
+      "topics": [
+        "Serwis i konserwacja"
+      ],
+      "dateModified": "2026-10-14",
+      "related_services": []
+    },
+    {
+      "id": "article:blog:modul-peltiera-chlodzenie-glowicy-lasera",
+      "title": "Moduł Peltiera w głowicy lasera – jak działa chłodzenie i dlaczego przestaje działać?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/",
+      "description": "Jak działa moduł Peltiera w głowicy lasera? Objawy usterek, rola termopasty, odprowadzanie ciepła i znaczenie diagnostyki przed wymianą TEC.",
+      "topics": [
+        "Chłodzenie i serwis"
+      ],
+      "datePublished": "2026-10-15",
+      "dateModified": "2026-10-15",
+      "related_services": []
+    },
+    {
+      "id": "article:blog:pharaon-1470-historia-technologia-lasera",
+      "title": "Pharaon 1470 — historia urządzenia i światło, które pochłania woda",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/pharaon-1470-historia-technologia-lasera/",
+      "description": "Pharaon 1470, LSO Medical i OSYRIS: historia oznaczeń, znaczenie długości fali 1470 nm oraz jej zastosowanie w medycynie, na podstawie źródeł i badań.",
+      "topics": [
+        "Technologia laserowa"
+      ],
+      "datePublished": "2026-09-30",
+      "dateModified": "2026-09-30",
+      "related_services": []
+    },
+    {
+      "id": "article:blog:planowy-przeglad-lasera-diodowego-dlaczego-to-wazne",
+      "title": "Planowy przegląd lasera diodowego – dlaczego jest ważny i co obejmuje?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/",
+      "description": "Wyjaśniamy, dlaczego regularna obsługa lasera diodowego ma znaczenie oraz jakie elementy mogą być kontrolowane podczas planowego przeglądu.",
+      "topics": [
+        "Serwis laserów diodowych"
+      ],
+      "datePublished": "2026-09-12",
+      "dateModified": "2026-09-12",
+      "related_services": []
+    },
+    {
+      "id": "article:blog:podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag",
+      "title": "Jeden aparat, dwie awarie: jak nieprawidłowe podłączenie głowic prowadzi do przegrzewania i dlaczego laser Nd:YAG wymaga kalibracji",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/",
+      "description": "Dlaczego podłączenie głowic wpływa na chłodzenie? Moduł Peltiera, objawy przegrzewania i kalibracja Nd:YAG po wymianie elementu laserowego.",
+      "topics": [
+        "Diagnostyka i naprawa"
+      ],
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow"
+      ]
+    },
+    {
+      "id": "article:blog:serwis-glowicy-lasera-diodowego-szczelnosc-optyka",
+      "title": "Serwis głowicy lasera diodowego – dlaczego szczelność i czysta optyka są tak ważne?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/",
+      "description": "Rzeczywisty przypadek serwisowy nieszczelnej głowicy lasera diodowego. Wyjaśniamy, dlaczego zabrudzenie optyki może prowadzić do spadku skuteczności zabiegów i uszkodzenia podzespołów.",
+      "topics": [
+        "Serwis laserów diodowych"
+      ],
+      "datePublished": "2026-09-11",
+      "dateModified": "2026-09-11",
+      "related_services": []
+    },
+    {
+      "id": "article:blog:uszkodzony-przewod-manipulatora",
+      "title": "Mały przewód, duży problem. Dlaczego połączenie manipulatora z urządzeniem jest tak ważne?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/",
+      "description": "Jak uszkodzony przewód lub złącze wpływa na pracę manipuły? Objawy, przyczyny, pielęgnacja kabla i przykład naprawy aparatu RSL w Warszawie.",
+      "topics": [
+        "Eksploatacja i serwis"
+      ],
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09",
+      "related_services": []
+    },
+    {
+      "id": "article:blog:uzywany-laser-diodowy-z-historia-serwisowa",
+      "title": "Używany laser diodowy – dlaczego warto kupować urządzenie z historią serwisową?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/",
+      "description": "Dlaczego przy zakupie używanego lasera diodowego warto znać jego historię serwisową, stan techniczny i mieć dostęp do późniejszego wsparcia technicznego.",
+      "topics": [
+        "Zakup urządzenia"
+      ],
+      "datePublished": "2026-09-09",
+      "dateModified": "2026-09-09",
+      "related_services": []
+    },
+    {
+      "id": "article:blog:wymiana-wody-w-laserze-do-depilacji",
+      "title": "Woda w laserze do depilacji – dlaczego jej wymiana i regularny serwis są tak ważne?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/",
+      "description": "Dlaczego chłodzenie lasera wymaga regularnej obsługi? Jakość wody, obieg, ryzyko przegrzania i terminy wymiany zgodne z dokumentacją urządzenia.",
+      "topics": [
+        "Eksploatacja i serwis"
+      ],
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09",
+      "related_services": []
+    },
+    {
+      "id": "article:ru:blog:3000-nain-lazer-istoriya-konstrukciya-servis",
+      "title": "3000 NAIN — знакомьтесь, динозавр среди лазеров",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/3000-nain-lazer-istoriya-konstrukciya-servis/",
+      "description": "Знакомимся с 3000 NAIN: история модели, Nd:YAG Q-Switched, устройство корпуса и ремонт электроники. Подтверждённые сведения и наблюдения сервисной команды.",
+      "topics": [
+        "Технологии и сервис лазеров"
+      ],
+      "datePublished": "2026-09-19",
+      "dateModified": "2026-09-19",
+      "related_services": []
+    },
+    {
+      "id": "article:ru:blog:5-priznakov-zameny-dioda-v-lazere",
+      "title": "5 признаков, что диод в лазере для эпиляции требует проверки или замены",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/",
+      "description": "Пять признаков, которые могут указывать на износ или неисправность диода в лазере для эпиляции. Почему важно провести диагностику до появления серьёзной неисправности.",
+      "topics": [
+        "Сервис диодных лазеров"
+      ],
+      "datePublished": "2026-09-10",
+      "dateModified": "2026-09-10",
+      "related_services": []
+    },
+    {
+      "id": "article:ru:blog:beauty-planet-3d-contour-vozmozhnosti-servis",
+      "title": "Beauty Planet 3D Contour — что умеет, как работает и стоит ли иметь его в салоне?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/",
+      "description": "Обзор возможностей Beauty Planet 3D Contour, технологий 5 в 1, значения аппарата для косметологического бизнеса и реального случая ремонта vacuum и RF.",
+      "topics": [
+        "Косметологическое оборудование"
+      ],
+      "datePublished": "2026-09-14",
+      "dateModified": "2026-09-14",
+      "related_services": []
+    },
+    {
+      "id": "article:ru:blog:co2-lazer-ne-reagiruet-na-pedal-diagnostika",
+      "title": "CO₂-лазер не реагирует на педаль: симптом — ещё не диагноз",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/",
+      "description": "Почему исправная педаль может казаться сломанной? Разбираем поиск обрыва провода манипулы на примере срочного ремонта CO₂-аппарата в Познани.",
+      "topics": [
+        "Диагностика и ремонт"
+      ],
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-06",
+      "related_services": []
+    },
+    {
+      "id": "article:ru:blog:hifu-chto-eto-kak-rabotaet-primenenie-servis",
+      "title": "HIFU — что это, как работает и для чего нужен аппарат HIFU?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/",
+      "description": "Объяснение принципа работы технологии HIFU, глубины фокусировки, применения аппаратов в косметологии, их конструкции и значения диагностики и сервиса.",
+      "topics": [
+        "Косметологические технологии"
+      ],
+      "datePublished": "2026-09-14",
+      "dateModified": "2026-09-14",
+      "related_services": []
+    },
+    {
+      "id": "article:ru:blog:kak-kupit-bu-lazer-dlya-epilyacii",
+      "title": "Как правильно купить б/у лазерный аппарат для салона красоты и не потерять деньги?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/",
+      "description": "Покупаете б/у лазер в Польше? Узнайте, как проверить диод, охлаждение и историю ремонта, сравнить расходы и заказать диагностику в Laser Tech Service.",
+      "topics": [
+        "Покупка и диагностика"
+      ],
+      "dateModified": "2026-10-12",
+      "related_services": []
+    },
+    {
+      "id": "article:ru:blog:laser-tech-service-zlota-firma-2026",
+      "title": "Laser Tech Service получил награду Złota Firma 2026",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/laser-tech-service-zlota-firma-2026/",
+      "description": "Laser Tech Service получил награду Złota Firma 2026. Спасибо за доверие к нашему сервису лазеров и косметологического оборудования во Вроцлаве и по всей Польше.",
+      "topics": [
+        "Жизнь сервиса"
+      ],
+      "datePublished": "2026-10-02",
+      "dateModified": "2026-10-02",
+      "related_services": []
+    },
+    {
+      "id": "article:ru:blog:lightsheer-desire-ohlazhdenie-nadezhnost",
+      "title": "Lumenis LightSheer DESIRE спустя 10 лет: почему лазер за 200 000 zł может продолжать работать?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/",
+      "description": "Как работают HIT и ChillTip в LightSheer DESIRE? Охлаждение, отложения, уплотнения и обслуживание на примере ремонта аппарата в Олеснице.",
+      "topics": [
+        "Сервис и обслуживание"
+      ],
+      "dateModified": "2026-10-14",
+      "related_services": []
+    },
+    {
+      "id": "article:ru:blog:modul-pelte-ohlazhdenie-manipuly-lazera",
+      "title": "Модуль Пельтье в лазерной манипуле: как работает охлаждение и почему оно выходит из строя",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/",
+      "description": "Как работает модуль Пельтье в лазерной манипуле: симптомы неисправностей, роль термопасты, отвод тепла и диагностика перед заменой TEC.",
+      "topics": [
+        "Охлаждение и сервис"
+      ],
+      "datePublished": "2026-10-15",
+      "dateModified": "2026-10-15",
+      "related_services": []
+    },
+    {
+      "id": "article:ru:blog:obsluzhivanie-manipuly-lazera-germetichnost-optika",
+      "title": "Сервис головки диодного лазера — почему герметичность и чистая оптика так важны?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/",
+      "description": "Реальный случай ремонта негерметичной головки диодного лазера. Объясняем, как загрязнение оптики может влиять на эффективность процедур и состояние оборудования.",
+      "topics": [
+        "Сервис диодных лазеров"
+      ],
+      "datePublished": "2026-09-11",
+      "dateModified": "2026-09-11",
+      "related_services": []
+    },
+    {
+      "id": "article:ru:blog:ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev",
+      "title": "Почему необходимо регулярно очищать систему охлаждения лазера: пыль, поломки вентиляторов и риск перегрева",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/",
+      "description": "Как пыль мешает охлаждению лазера? Причины поломок, подбор вентиляторов по расходу и давлению, признаки перегрева и правила технического обслуживания.",
+      "topics": [
+        "Эксплуатация и сервис"
+      ],
+      "dateModified": "2026-10-12",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych"
+      ]
+    },
+    {
+      "id": "article:ru:blog:pharaon-1470-istoriya-lazernoy-tehnologii",
+      "title": "Pharaon 1470 — история аппарата и свет, который поглощает вода",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/",
+      "description": "Pharaon 1470, LSO Medical и OSYRIS: история обозначений, особенности излучения 1470 нм и применение технологии в медицине по данным производителя и исследований.",
+      "topics": [
+        "Лазерные технологии"
+      ],
+      "datePublished": "2026-09-30",
+      "dateModified": "2026-09-30",
+      "related_services": []
+    },
+    {
+      "id": "article:ru:blog:planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno",
+      "title": "Плановое обслуживание диодного лазера — почему это важно и что оно включает?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/",
+      "description": "Рассказываем, почему регулярное обслуживание диодного лазера имеет значение и какие элементы могут проверяться во время планового сервиса.",
+      "topics": [
+        "Сервис диодных лазеров"
+      ],
+      "datePublished": "2026-09-12",
+      "dateModified": "2026-09-12",
+      "related_services": []
+    },
+    {
+      "id": "article:ru:blog:pochemu-malenkiy-kabel-sozdayot-bolshie-problemy",
+      "title": "Почему маленький кабель создаёт большие проблемы",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/pochemu-malenkiy-kabel-sozdayot-bolshie-problemy/",
+      "description": "Аппарат включается, но манипула не работает? Объясняем, почему внутреннее повреждение кабеля отключает отдельную функцию, на примере Beauty Planet 3D Contour.",
+      "topics": [
+        "Диагностика и ремонт оборудования"
+      ],
+      "datePublished": "2026-09-30",
+      "dateModified": "2026-09-30",
+      "related_services": []
+    },
+    {
+      "id": "article:ru:blog:pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere",
+      "title": "Почему не стоит самостоятельно менять уплотнительные прокладки в лазерном аппарате",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/",
+      "description": "Неправильно установленная прокладка привела к залитию диода лазера в Познани. Разбираем риски, расходы и признаки, при которых аппарат нужно выключить.",
+      "topics": [
+        "Сервис лазеров"
+      ],
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "related_services": []
+    },
+    {
+      "id": "article:ru:blog:pochemu-sgorayut-diodnye-moduli-v-lazerah",
+      "title": "Почему сгорают диодные модули в лазерах для эпиляции: причины, симптомы и последствия",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/",
+      "description": "Почему выходят из строя диодные модули в лазерах для эпиляции? Причины, симптомы, последствия, стоимость простоя и значение своевременной диагностики.",
+      "topics": [
+        "Сервис диодных лазеров"
+      ],
+      "datePublished": "2026-09-15",
+      "dateModified": "2026-09-15",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych"
+      ]
+    },
+    {
+      "id": "article:ru:blog:pochemu-stoit-polzovatsya-professionalnym-servisom",
+      "title": "Почему стоит пользоваться профессиональным сервисом косметологического оборудования?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/",
+      "description": "Гарантия, быстрый выезд, документация ремонта, сервисная история и сохранение стоимости косметологического оборудования.",
+      "topics": [
+        "Сервис оборудования"
+      ],
+      "datePublished": "2026-09-08",
+      "dateModified": "2026-09-08",
+      "related_services": []
+    },
+    {
+      "id": "article:ru:blog:pochemu-vazhno-pokupat-lazer-s-istoriey-servisa",
+      "title": "Подержанный диодный лазер — почему важно покупать устройство с историей обслуживания?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/",
+      "description": "Почему при покупке подержанного диодного лазера важно знать историю его обслуживания, техническое состояние и иметь дальнейшую сервисную поддержку.",
+      "topics": [
+        "Покупка оборудования"
+      ],
+      "datePublished": "2026-09-09",
+      "dateModified": "2026-09-09",
+      "related_services": []
+    },
+    {
+      "id": "article:ru:blog:podklyuchenie-manipul-peregrev-kalibrovka-nd-yag",
+      "title": "Один аппарат, две поломки: как неправильное подключение манипул приводит к перегреву и почему ND:YAG требует калибровки",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/",
+      "description": "Как подключение манипул влияет на охлаждение? Элемент Пельтье, признаки перегрева и калибровка ND:YAG после замены лазерного элемента.",
+      "topics": [
+        "Диагностика и ремонт"
+      ],
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow"
+      ]
+    },
+    {
+      "id": "article:ru:blog:povrezhdennyj-kabel-manipuly",
+      "title": "Маленький кабель — большая проблема. Почему соединение манипулы с аппаратом так важно?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/",
+      "description": "Как кабель и разъём влияют на работу манипулы: признаки неисправности, причины повреждений, уход и пример ремонта RSL-аппарата в Варшаве.",
+      "topics": [
+        "Эксплуатация и сервис"
+      ],
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09",
+      "related_services": []
+    },
+    {
+      "id": "article:ru:blog:zamena-vody-v-lazere-dlya-epilyacii",
+      "title": "Вода в лазере для эпиляции: почему её необходимо менять и вовремя проводить обслуживание?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/",
+      "description": "Зачем обслуживать охлаждение лазера: качество воды, циркуляция, риск перегрева и сроки замены по документации конкретного аппарата.",
+      "topics": [
+        "Эксплуатация и сервис"
+      ],
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09",
+      "related_services": []
+    }
+  ],
+  "case_studies": [
+    {
+      "id": "case:realizacje:beauty-planet-3d-contour-naprawa-przewodu-wroclaw",
+      "title": "Beauty Planet 3D Contour — wymiana przewodu zasilającego manipułę we Wrocławiu",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/",
+      "description": "Brak vacuum w manipule Beauty Planet 3D Contour w studio Tiamo we Wrocławiu. Diagnostyka, wymiana uszkodzonego przewodu zasilającego i test podciśnienia.",
+      "city": "Wrocław",
+      "equipment_type": "Beauty Planet 3D Contour",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Beauty Planet 3D Contour"
+      },
+      "fault": [
+        "Zlecenie dotyczyło Beauty Planet 3D Contour ze studio Tiamo we Wrocławiu. Sam aparat się uruchamiał, jednak w manipule nie działał vacuum. Z punktu widzenia obsługi wyglądało to tak, jakby urządzenie było gotowe, a mimo to nie wykonywało jednej ze swoich funkcji.",
+        "To objaw, który łatwo skojarzyć z awarią pompy, modułu podciśnienia albo samej manipuły. Żaden z tych wniosków nie wynika jednak automatycznie z braku vacuum. Najpierw trzeba ustalić, dlaczego dany układ nie pracuje.",
+        "Wyślij nam nazwę i model urządzenia, zdjęcia oraz krótki opis problemu. Na tej podstawie ustalimy dalszy sposób działania."
+      ],
+      "performed_work": [
+        "Po ustaleniu miejsca usterki rozebraliśmy potrzebne elementy, uzyskaliśmy dostęp do trasy kablowej i wyjęliśmy uszkodzony przewód. Następnie wymieniliśmy przewód zasilający, sprawdziliśmy połączenia i złożyliśmy urządzenie.",
+        "Niewielki element nie oznacza naprawy sprowadzającej się do podłączenia kabla widocznego na zewnątrz. Przewód był ukryty wewnątrz zespołu, dlatego istotną częścią pracy były dostęp do niego, prawidłowe odtworzenie połączeń oraz ponowny montaż.",
+        "Zakres serwisu obejmował diagnostykę aparatu, sprawdzenie obwodu, lokalizację usterki, demontaż, usunięcie uszkodzonego przewodu, wymianę, kontrolę połączeń, montaż i końcowy test vacuum."
+      ],
+      "result": [
+        "Po wymianie przewodu i złożeniu urządzenia przetestowaliśmy system podciśnienia. Sprawdziliśmy pracę vacuum w manipule — funkcja ponownie działała po naprawie.",
+        "Samo uruchomienie aparatu nie byłoby wystarczającym potwierdzeniem: przed serwisem również się włączał. Dlatego końcowa kontrola dotyczyła właśnie funkcji, z którą zgłoszono problem."
+      ]
+    },
+    {
+      "id": "case:realizacje:naprawa-3000-nain-bloku-zasilania",
+      "title": "3000 NAIN — diagnostyka i naprawa bloku zasilania",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/naprawa-3000-nain-bloku-zasilania/",
+      "description": "Diagnostyka i naprawa bloku zasilania 3000 NAIN. Zobacz demontaż, pracę przy elektronice, ponowny montaż oraz uruchomienie aparatu na zdjęciach i filmach.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "3000 NAIN"
+      },
+      "fault": [
+        "Wyślij nam nazwę i model urządzenia, zdjęcia oraz krótki opis problemu. Na tej podstawie ustalimy dalszy sposób działania."
+      ],
+      "performed_work": [
+        "Naprawa laserów obejmuje również elektronikę zasilającą. W tej realizacji prace dotyczyły bloku zasilania urządzenia. Wymontowany blok poddaliśmy diagnostyce, a następnie naprawie. Wymieniliśmy niezbędne niesprawne elementy i sprawdziliśmy elektronikę. To praca wewnątrz istniejącego podzespołu, nie opis wymiany całego urządzenia.",
+        "Na fotografii widać pracę lutownicą przy elektronice. Nie podajemy listy konkretnych wymienionych części ani wyników pomiarów — dokumentacja tej realizacji nie zawiera takich danych. Pewny jest zakres: naprawiony został blok zasilania 3000 NAIN."
+      ],
+      "result": []
+    },
+    {
+      "id": "case:realizacje:naprawa-alma-accent-gorlitz",
+      "title": "Naprawa Alma Accent – wymiana przewodu układu chłodzenia głowicy RF",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/",
+      "description": "Realizacja serwisowa urządzenia Alma Accent w Görlitz. Uszkodzony w trzech miejscach przewód doprowadzający wodę do głowicy RF został wymieniony, a obieg chłodzenia przywrócony.",
+      "city": "Görlitz, Niemcy",
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "Alma Accent",
+        "description": "Profesjonalne urządzenie wykorzystujące technologię RF."
+      },
+      "fault": [
+        "Laser Tech Service wykonał serwis urządzenia Alma Accent bezpośrednio u klienta w Görlitz w Niemczech.",
+        "Podczas diagnostyki skupiliśmy się na głowicy RF oraz elementach układu doprowadzającego wodę.",
+        "Po rozebraniu manipulatora stwierdziliśmy uszkodzenie przewodu odpowiedzialnego za doprowadzanie wody do głowicy. Przewód był przerwany lub uszkodzony w trzech miejscach."
+      ],
+      "performed_work": [
+        "Materiał z realizacji pokazuje serwis głowicy RF urządzenia Alma Accent oraz prace wykonane przy układzie chłodzenia.",
+        "Uszkodzony w trzech miejscach przewód został wymieniony, a obieg wody przywrócony.",
+        "Laser Tech Service wykonuje diagnostykę i serwis profesjonalnych urządzeń kosmetologicznych oraz systemów wykorzystujących technologie RF.",
+        "Obsługujemy klientów we Wrocławiu, na terenie całej Polski oraz realizujemy wybrane zlecenia zagraniczne, w tym w Görlitz.",
+        "Zobacz również inne realizacje serwisowe Laser Tech Service."
+      ],
+      "result": []
+    },
+    {
+      "id": "case:realizacje:naprawa-beauty-planet-3d-contour-wroclaw",
+      "title": "Naprawa Beauty Planet 3D Contour – vacuum i RF",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/",
+      "description": "Realizacja serwisowa Beauty Planet 3D Contour we Wrocławiu. Diagnostyka i naprawa manipuły, w której nie działały vacuum oraz RF.",
+      "city": "Wrocław",
+      "equipment_type": "Beauty Planet 3D Contour",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Beauty Planet 3D Contour",
+        "description": "Wielofunkcyjne urządzenie kosmetologiczne do zabiegów modelowania sylwetki wykorzystujące między innymi vacuum, RF, kriolipolizę i lipolaser."
+      },
+      "fault": [
+        "Podczas diagnostyki sprawdziliśmy pracę manipuły oraz funkcje powiązane z jej zasilaniem.",
+        "Ustaliliśmy, że do manipuły nie dochodziło prawidłowo zasilanie. W konsekwencji nie działało podciśnienie oraz funkcja RF.",
+        "brak prawidłowego zasilania manipuły",
+        "brak działania systemu vacuum",
+        "brak działania funkcji RF",
+        "konieczność kontroli połączeń elektrycznych manipuły",
+        "Wyślij nam nazwę i model urządzenia, zdjęcia oraz krótki opis problemu. Na tej podstawie ustalimy dalszy sposób działania."
+      ],
+      "performed_work": [
+        "Przywrócenie prawidłowej pracy manipuły oraz jej funkcji."
+      ],
+      "result": []
+    },
+    {
+      "id": "case:realizacje:naprawa-lumenis-lightsheer-desire-olesnica",
+      "title": "Naprawa Lumenis LightSheer DESIRE w Oleśnicy – wyciek płynu i awaria układu chłodzenia",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/",
+      "description": "Wyjazdowy serwis Lumenis LightSheer DESIRE w Oleśnicy: zabrudzony filtr i zawór zwrotny, nieszczelne O-ring, czyszczenie oraz przywrócenie chłodzenia.",
+      "city": null,
+      "equipment_type": "Lumenis LightSheer DESIRE",
+      "equipment": null,
+      "fault": [],
+      "performed_work": [],
+      "result": [
+        "Po oczyszczeniu podzespołów, przywróceniu szczelności, wymianie cieczy i obsłudze technicznej sprawdziliśmy działanie urządzenia. Niesprawność układu chłodzenia została usunięta, a LightSheer DESIRE wrócił do stanu roboczego."
+      ]
+    },
+    {
+      "id": "case:realizacje:naprawa-multipolar-rf-lublin",
+      "title": "Naprawa urządzenia Multipolar RF w Lublinie",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/",
+      "description": "Wyjazdowy serwis urządzenia kosmetologicznego Multipolar RF w Lublinie. Naprawa układu podciśnienia, pompy oraz uszkodzonego połączenia RF.",
+      "city": "Lublin",
+      "equipment_type": "Multipolar RF",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Multipolar RF"
+      },
+      "fault": [
+        "Opisz usterkę, podaj nazwę urządzenia i wyślij nam zdjęcia lub film. Sprawdzimy, w jaki sposób możemy pomóc."
+      ],
+      "performed_work": [
+        "Po zlokalizowaniu miejsca nieszczelności wykonaliśmy naprawę uszkodzonego elementu pompy oraz jego ponowne uszczelnienie.",
+        "Następnie cały układ został oczyszczony i ponownie sprawdzony.",
+        "Usunięcie nieszczelności pozwoliło przywrócić prawidłowe wytwarzanie podciśnienia i poprawić pracę głowicy zasysającej.",
+        "Zlokalizowaliśmy nieszczelność w uszkodzonym elemencie pompy i wykonaliśmy jego naprawę oraz uszczelnienie.",
+        "Naprawiliśmy uszkodzony styk oraz połączenie złącza odpowiedzialnego za pracę elementu RF."
+      ],
+      "result": []
+    },
+    {
+      "id": "case:realizacje:naprawa-nubway-nbw-vsiii-wroclaw",
+      "title": "Naprawa NUBWAY NBW-VSIII – serwis RF i układu podciśnienia",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/",
+      "description": "Realizacja serwisowa urządzenia NUBWAY NBW-VSIII 5D w studiu rehabilitacji we Wrocławiu. Wymiana przewodów, naprawa układu podciśnienia, naprawa elementu RF oraz czyszczenie urządzenia.",
+      "city": "Wrocław",
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "NUBWAY NBW-VSIII 5D",
+        "description": "Urządzenie kosmetologiczne wykorzystujące technologię RF oraz układ podciśnienia."
+      },
+      "fault": [
+        "Wyślij nam nazwę i model urządzenia, zdjęcia oraz krótki opis problemu. Na tej podstawie ustalimy dalszy sposób działania."
+      ],
+      "performed_work": [
+        "Drugim istotnym elementem realizacji była diagnostyka części systemu RF odpowiedzialnej za funkcję nagrzewania.",
+        "Po zlokalizowaniu problemu wykonaliśmy naprawę elementu odpowiedzialnego za prawidłową pracę funkcji grzania.",
+        "Po zakończeniu prac element został ponownie sprawdzony, a urządzenie poddane kontroli działania."
+      ],
+      "result": []
+    },
+    {
+      "id": "case:realizacje:naprawa-rsl-masaz-warszawa",
+      "title": "Pilna naprawa urządzenia do masażu RSL w Warszawie – naprawa przewodu i wymiana złącza",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/",
+      "description": "Pilna naprawa urządzenia do masażu RSL w Warszawie. Naprawa przewodu manipulatora i wymiana złącza przez Laser Tech Service.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": null,
+      "fault": [
+        "Wyślij nam nazwę i model urządzenia, zdjęcia oraz krótki opis problemu. Na tej podstawie ustalimy dalszy sposób działania."
+      ],
+      "performed_work": [],
+      "result": []
+    },
+    {
+      "id": "case:realizacje:pilna-naprawa-lasera-co2-poznan",
+      "title": "Pilna naprawa lasera CO₂ w Poznaniu — serwis u klienta",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/",
+      "description": "Pilny wyjazd do studia medycyny estetycznej w Poznaniu. Sprawny pedał, przerwany przewód manipuły: diagnostyka, wymiana przewodu i serwis lasera CO₂.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": null,
+      "fault": [
+        "Wyślij nam nazwę i model urządzenia, zdjęcia oraz krótki opis problemu. Na tej podstawie ustalimy dalszy sposób działania."
+      ],
+      "performed_work": [
+        "Uszkodzony przewód został w całości wymieniony. Odtworzyliśmy połączenie elektryczne, prawidłowo ułożyliśmy okablowanie i złożyliśmy manipułę oraz elementy rozebrane do diagnostyki.",
+        "Następnie ponownie sprawdziliśmy system i jego reakcję na sterowanie. Po naprawie aparat CO₂ znów prawidłowo reagował na pedał. Sprawny pedał pozostał w urządzeniu."
+      ],
+      "result": [
+        "Po znalezieniu przerwy, wymianie przewodu, złożeniu, ponownych testach i obsłudze technicznej urządzenie było w pełni gotowe do dalszej pracy w studiu. Przywróciliśmy prawidłową reakcję na pedał, usuwając rzeczywistą przyczynę awarii."
+      ]
+    },
+    {
+      "id": "case:realizacje:przeglad-estelase-power-p808l",
+      "title": "Przegląd lasera ESTELASE POWER P-808L — wymiana filtra i wody",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/",
+      "description": "Planowy przegląd ESTELASE POWER P-808L: przedmuch, wymiana filtra i wody oraz sprawdzenie urządzenia.",
+      "city": null,
+      "equipment_type": "ESTELASE POWER",
+      "equipment": {
+        "@type": "Thing",
+        "name": "ESTELASE POWER P-808L"
+      },
+      "fault": [],
+      "performed_work": [],
+      "result": []
+    },
+    {
+      "id": "case:realizacje:przeglad-serwis-pharaon-1470-wroclaw",
+      "title": "Przegląd i serwis Pharaon 1470 — Wrocław",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+      "description": "Pharaon 1470 w klinice Denica we Wrocławiu: diagnostyka, czyszczenie wnętrza, planowy przegląd i wpis do dokumentacji serwisowej urządzenia.",
+      "city": null,
+      "equipment_type": "Pharaon 1470 · LSO Medical",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Pharaon 1470"
+      },
+      "fault": [
+        "Wyślij nam nazwę i model urządzenia, zdjęcia oraz krótki opis problemu. Na tej podstawie ustalimy dalszy sposób działania."
+      ],
+      "performed_work": [],
+      "result": []
+    },
+    {
+      "id": "case:realizacje:przeglad-techniczny-lasera-do-depilacji",
+      "title": "Serwis lasera do depilacji – przegląd techniczny urządzenia",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+      "description": "Serwis lasera do depilacji. Przegląd techniczny i znaczenie regularnej konserwacji urządzeń laserowych. Laser Tech Service.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": null,
+      "fault": [
+        "Wyślij nam nazwę i model urządzenia, zdjęcia oraz krótki opis problemu. Na tej podstawie ustalimy dalszy sposób działania."
+      ],
+      "performed_work": [],
+      "result": []
+    },
+    {
+      "id": "case:realizacje:serwis-cavi-shape-advanced-wroclaw",
+      "title": "Serwis Cavi Shape Advanced – naprawa RF, podczerwieni i ultradźwięków",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/",
+      "description": "Realizacja serwisowa Cavi Shape Advanced we Wrocławiu. Naprawa głowic RF, światła podczerwonego, ultradźwięków, połączeń oraz płyty głównej.",
+      "city": "Wrocław",
+      "equipment_type": "Cavi Shape Advanced",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Cavi Shape Advanced",
+        "description": "Profesjonalne urządzenie kosmetologiczne wykorzystujące technologie RF, światło podczerwone oraz ultradźwięki."
+      },
+      "fault": [
+        "Wyślij nam nazwę i model urządzenia, zdjęcia oraz krótki opis problemu. Na tej podstawie ustalimy dalszy sposób działania."
+      ],
+      "performed_work": [],
+      "result": []
+    },
+    {
+      "id": "case:realizacje:serwis-glowicy-lasera-diodowego-poznan",
+      "title": "Serwis głowicy lasera diodowego – czyszczenie i przywrócenie szczelności",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+      "description": "Realizacja serwisowa głowicy lasera diodowego w Poznaniu. Rozszczelnienie manipulatora doprowadziło do przedostawania się zabrudzeń do wnętrza głowicy. Wykonano demontaż, czyszczenie, kontrolę elementów oraz przywrócenie szczelności.",
+      "city": "Poznań",
+      "equipment_type": "Laser diodowy",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Serwis głowicy lasera diodowego",
+        "description": "Serwis manipulatora profesjonalnego lasera diodowego do depilacji."
+      },
+      "fault": [
+        "Wyślij nam nazwę i model urządzenia, zdjęcia głowicy oraz krótki opis problemu. Na tej podstawie ustalimy dalszy sposób działania."
+      ],
+      "performed_work": [],
+      "result": []
+    },
+    {
+      "id": "case:realizacje:serwis-gme-exsys-308",
+      "title": "GME ExSys 308 — kontrola serwisowa i test działania",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/serwis-gme-exsys-308/",
+      "description": "Kontrola GME ExSys 308 w Laser Tech Service: test aparatu i manipuły, zdjęcia oraz film. Poznaj system EPL z lampą ekscymerową UVB 308 nm.",
+      "city": null,
+      "equipment_type": "GME ExSys 308",
+      "equipment": {
+        "@type": "Thing",
+        "name": "GME ExSys 308"
+      },
+      "fault": [
+        "Wyślij nam nazwę i model urządzenia, zdjęcia oraz krótki opis problemu. Na tej podstawie ustalimy dalszy sposób działania."
+      ],
+      "performed_work": [],
+      "result": [
+        "W ramach tej realizacji przeprowadziliśmy kontrolę działania GME ExSys 308. Na zdjęciach widać aktywny ekran urządzenia i pracującą manipułę; film dokumentuje test po serwisie. Taki zapis pozwala pokazać konkretny etap pracy z aparatem.",
+        "Obraz z testu nie zastępuje protokołu pomiarowego. W tej relacji nie podajemy wartości zmierzonej energii ani oceny skuteczności terapii — przedstawiamy udokumentowane sprawdzenie działania systemu."
+      ]
+    },
+    {
+      "id": "case:realizacje:serwis-hifu-kimed-k1-w1601-gorlitz",
+      "title": "Serwis HIFU KIMED K1-W1601 – naprawa głowicy i obsługa techniczna",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/",
+      "description": "Realizacja serwisowa urządzenia HIFU KIMED K1-W1601 w Görlitz w Niemczech. Naprawa niedziałającej głowicy, czyszczenie układu wodnego, konserwacja oraz test sprawności.",
+      "city": "Görlitz, Niemcy",
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "KIMED K1-W1601",
+        "description": "Profesjonalne urządzenie HIFU stosowane w zabiegach kosmetologicznych."
+      },
+      "fault": [
+        "Wyślij nam nazwę i model urządzenia, zdjęcia oraz krótki opis problemu. Na tej podstawie ustalimy dalszy sposób działania."
+      ],
+      "performed_work": [
+        "Podczas realizacji usunęliśmy zgłoszoną usterkę oraz wykonaliśmy prace związane z bieżącym utrzymaniem urządzenia.",
+        "Naprawa niedziałającej głowicy HIFU oraz kontrola jej pracy.",
+        "Materiał z realizacji serwisowej urządzenia KIMED K1-W1601 wykonanej bezpośrednio u klienta w Görlitz.",
+        "Jednym z problemów była niedziałająca głowica HIFU, którą podczas tej realizacji naprawiliśmy."
+      ],
+      "result": []
+    },
+    {
+      "id": "case:realizacje:serwis-lasera-diodowego-wymiana-glowicy-wroclaw",
+      "title": "Serwis lasera diodowego – wymiana głowicy i obsługa techniczna",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/",
+      "description": "Realizacja serwisowa lasera diodowego do depilacji we Wrocławiu. Wymiana głowicy zabiegowej, czyszczenie urządzenia, obsługa techniczna oraz końcowy test sprawności.",
+      "city": "Wrocław",
+      "equipment_type": "Laser diodowy",
+      "equipment": {
+        "@type": "Service",
+        "name": "Serwis lasera diodowego do depilacji",
+        "provider": {
+          "@id": "https://lasertechservice.pl/#organization"
+        }
+      },
+      "fault": [
+        "Wyślij nam nazwę i model urządzenia, zdjęcia oraz krótki opis problemu. Na tej podstawie ustalimy dalszy sposób działania."
+      ],
+      "performed_work": [],
+      "result": []
+    },
+    {
+      "id": "case:realizacje:serwis-lasera-do-usuwania-tatuazu-wymiana-filtra",
+      "title": "Serwis lasera ND:YAG do usuwania tatuażu",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/",
+      "description": "Diagnostyka i techniczna obsługa lasera do usuwania tatuażu w Legnicy. Czyszczenie urządzenia, konserwacja układu chłodzenia oraz wymiana filtra.",
+      "city": "Legnica",
+      "equipment_type": "ML-ND YAG LASER A1",
+      "equipment": {
+        "@type": "Thing",
+        "name": "ML-ND YAG LASER A1"
+      },
+      "fault": [],
+      "performed_work": [],
+      "result": []
+    },
+    {
+      "id": "case:realizacje:wymiana-modulu-diodowego-lasera-po-zalaniu-poznan",
+      "title": "Wymiana modułu diodowego lasera po zalaniu – Poznań",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+      "description": "Naprawa lasera w Poznaniu: wymiana zalanego modułu diodowego i prawidłowy montaż uszczelki. Zdjęcia uszkodzeń i przyczyna kosztownej awarii.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": null,
+      "fault": [
+        "Do naprawy w Poznaniu trafił laser z uszkodzonym modułem diodowym. Awaria nastąpiła po samodzielnej wymianie przez właściciela uszczelki pomiędzy elementami węzła manipuły. To nie sama dioda była początkiem problemu.",
+        "Wyślij nam nazwę i model urządzenia, zdjęcia oraz krótki opis problemu. Na tej podstawie ustalimy dalszy sposób działania."
+      ],
+      "performed_work": [
+        "Zdemontowaliśmy stary, uszkodzony moduł diodowy i zamontowaliśmy nowy. Wymieniliśmy również uszczelkę i prawidłowo osadziliśmy ją w węźle, aby przywrócić jego szczelność. Naprawa laserów diodowych wymaga usunięcia zarówno uszkodzenia, jak i jego przyczyny."
+      ],
+      "result": [
+        "Uszkodzony moduł został zastąpiony nowym, a wadliwie założone uszczelnienie wymienione i prawidłowo zamontowane. Po takiej naprawie kontrola powinna obejmować działanie urządzenia, szczelność węzła, obieg chłodzenia i brak wycieków. Nie podajemy wyników pomiarów, których nie zawiera dokumentacja tego przypadku."
+      ]
+    },
+    {
+      "id": "case:realizacje:wymiana-modulu-peltiera-estetech-poznan",
+      "title": "Wymiana modułu Peltiera w głowicy lasera ESTETECH – naprawa chłodzenia w Poznaniu",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/",
+      "description": "Wyjazdowa naprawa ESTETECH w Poznaniu: wymiana modułu Peltiera, odnowienie termointerfejsu i przywrócenie chłodzenia manipuły. Zobacz przebieg prac.",
+      "city": null,
+      "equipment_type": "ESTETECH",
+      "equipment": null,
+      "fault": [
+        "Klient w Poznaniu zgłosił niesprawność kontaktowego chłodzenia manipuły lasera ESTETECH. Powierzchnia robocza przestała się odpowiednio chłodzić, co uniemożliwiało normalne użytkowanie głowicy. Kontaktowe chłodzenie pomaga kontrolować temperaturę skóry podczas procedury, zwiększa komfort i ogranicza ryzyko niepożądanego oddziaływania cieplnego."
+      ],
+      "performed_work": [],
+      "result": [
+        "Po wymianie niesprawnego modułu Peltiera i wykonaniu obsługi technicznej przywróciliśmy działanie chłodzenia. Aparat ESTETECH wrócił do pracy. Serwis wyjazdowy pozwolił wykonać naprawę w Poznaniu bez transportowania całego urządzenia do warsztatu."
+      ]
+    },
+    {
+      "id": "case:realizacje:wymiana-peltiera-naprawa-lasera-nd-yag",
+      "title": "Jeden aparat, dwie usterki — wymiana modułu Peltiera i naprawa lasera Nd:YAG",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/",
+      "description": "Dwie niezależne usterki jednego aparatu: wymiana modułu Peltiera, naprawa głowicy Nd:YAG i kalibracja. Przebieg prac Laser Tech Service.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": null,
+      "fault": [],
+      "performed_work": [],
+      "result": [
+        "Podczas jednego wyjazdu serwisowego specjaliści Laser Tech Service usunęli dwie usterki w różnych głowicach tego samego aparatu.",
+        "W głowicy do depilacji wymieniono moduł Peltiera, a w głowicy Nd:YAG — element laserowy, po czym wykonano kalibrację.",
+        "Dodatkowo wykryto błąd w eksploatacji urządzenia polegający na podłączaniu tylko jednej głowicy zamiast dwóch."
+      ]
+    },
+    {
+      "id": "case:realizacje:wymiana-wentylatorow-chlodzenia-lasera-wroclaw",
+      "title": "Wymiana wentylatorów chłodzenia lasera i konserwacja urządzenia — Wrocław",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/",
+      "description": "Serwis aparatu laserowego we Wrocławiu: diagnostyka niesprawnych wentylatorów, wymiana, usunięcie kurzu i przywrócenie działania chłodzenia.",
+      "city": null,
+      "equipment_type": "Aparat laserowy do zabiegów estetycznych",
+      "equipment": null,
+      "fault": [
+        "Niewystarczające chłodzenie"
+      ],
+      "performed_work": [],
+      "result": []
+    },
+    {
+      "id": "case:ru:realizacje:beauty-planet-3d-contour-naprawa-przewodu-wroclaw",
+      "title": "Beauty Planet 3D Contour — замена кабеля питания манипулы во Вроцлаве",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/",
+      "description": "В манипуле Beauty Planet 3D Contour в studio Tiamo во Вроцлаве не работал вакуум. Диагностика цепи, замена повреждённого кабеля питания и проверка после ремонта.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "Beauty Planet 3D Contour"
+      },
+      "fault": [
+        "В Laser Tech Service поступило задание на ремонт Beauty Planet 3D Contour из studio Tiamo во Вроцлаве. Аппарат запускался, но вакуум в манипуле не работал. Для пользователя ситуация выглядела противоречиво: система включена, однако одна из её функций недоступна.",
+        "Такой симптом легко принять за неисправность насоса, вакуумного модуля или самой манипулы. Но отсутствие вакуума ещё не подтверждает ни одну из этих причин. Сначала необходимо определить, что мешает конкретному узлу работать.",
+        "Отправьте название и модель аппарата, фотографии и краткое описание проблемы. На этой основе определим дальнейшие действия."
+      ],
+      "performed_work": [
+        "После локализации неисправности разобрали необходимые элементы, получили доступ к кабельной трассе и извлекли повреждённый кабель. Затем заменили кабель питания, проверили соединения и собрали оборудование.",
+        "Небольшая деталь не означает, что ремонт сводится к подключению провода, лежащего на поверхности. Кабель находился внутри узла, поэтому важной частью работы стали доступ к нему, восстановление соединений и последующая сборка.",
+        "Работы включали диагностику аппарата, проверку цепи, локализацию повреждения, разборку, извлечение кабеля, его замену, контроль соединений, сборку и заключительный тест вакуумной системы."
+      ],
+      "result": [
+        "После замены кабеля и сборки протестировали вакуумную систему. Проверка подтвердила работу вакуума в манипуле после ремонта.",
+        "Одного включения аппарата было бы недостаточно: он включался и до обращения в сервис. Поэтому заключительная проверка касалась именно той функции, с которой возникла проблема."
+      ]
+    },
+    {
+      "id": "case:ru:realizacje:naprawa-3000-nain-bloku-zasilania",
+      "title": "3000 NAIN — диагностика и ремонт блока питания",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/naprawa-3000-nain-bloku-zasilania/",
+      "description": "Диагностика и ремонт блока питания 3000 NAIN: разборка, работа с электроникой, установка блока и проверка аппарата. Фотографии и видео этапов ремонта.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "3000 NAIN"
+      },
+      "fault": [
+        "Отправьте название и модель аппарата, фотографии и краткое описание проблемы. На этой основе определим дальнейшие действия."
+      ],
+      "performed_work": [
+        "Ремонт лазеров включает также восстановление питающей электроники. В этой работе мы занимались блоком питания аппарата. Извлечённый блок прошёл диагностику и ремонт. Мы заменили необходимые неисправные элементы и проверили электронику. Речь идёт о восстановлении существующего узла, а не о замене всего аппарата.",
+        "На фотографии видна работа паяльником с электроникой. Перечень конкретных заменённых деталей и результаты измерений здесь не приводим: в документации этой работы таких данных нет. Подтверждённый объём работ — ремонт блока питания 3000 NAIN."
+      ],
+      "result": []
+    },
+    {
+      "id": "case:ru:realizacje:naprawa-alma-accent-gorlitz",
+      "title": "Ремонт Alma Accent — замена шланга системы охлаждения RF-манипулы",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/naprawa-alma-accent-gorlitz/",
+      "description": "Обслуживание Alma Accent в Гёрлице. Шланг подачи воды к RF-манипуле, повреждённый в трёх местах, заменён, циркуляция охлаждающей жидкости восстановлена.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "Alma Accent",
+        "description": "Профессиональный аппарат, использующий RF-технологию."
+      },
+      "fault": [
+        "Повреждённый шланг охлаждения"
+      ],
+      "performed_work": [
+        "Видеоматериал показывает обслуживание RF-манипулы Alma Accent и работы с системой охлаждения.",
+        "Шланг, повреждённый в трёх местах, заменён, циркуляция воды восстановлена.",
+        "Laser Tech Service выполняет диагностику и обслуживание профессионального косметологического оборудования и систем, использующих RF-технологии.",
+        "Обслуживаем клиентов во Вроцлаве и по всей Польше, а также выполняем отдельные зарубежные заказы, в том числе в Гёрлице.",
+        "Посмотрите также другие сервисные работы Laser Tech Service."
+      ],
+      "result": [
+        "Проверка соединений и правильной циркуляции охлаждающей жидкости."
+      ]
+    },
+    {
+      "id": "case:ru:realizacje:naprawa-beauty-planet-3d-contour-wroclaw",
+      "title": "Ремонт Beauty Planet 3D Contour — вакуум и RF",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/",
+      "description": "Обслуживание Beauty Planet 3D Contour во Вроцлаве. Диагностика и ремонт манипулы с неработающими вакуумом и RF.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "Beauty Planet 3D Contour",
+        "description": "Многофункциональный косметологический аппарат для коррекции фигуры с вакуумом, RF, криолиполизом и липолазером."
+      },
+      "fault": [
+        "Во время диагностики проверили работу манипулы и функции, связанные с её электропитанием.",
+        "Мы установили, что на манипулу не поступало надлежащее электропитание. В результате не работали вакуум и функция RF.",
+        "нарушение электропитания манипулы",
+        "отсутствие работы вакуумной системы",
+        "отсутствие работы функции RF",
+        "необходимость проверки электрических соединений манипулы",
+        "Отправьте название и модель аппарата, фотографии и краткое описание проблемы. На этой основе определим дальнейшие действия."
+      ],
+      "performed_work": [
+        "Обслуживание включало диагностику манипулы и восстановление нормальной работы её функций.",
+        "Восстановление нормальной работы манипулы и её функций."
+      ],
+      "result": []
+    },
+    {
+      "id": "case:ru:realizacje:naprawa-multipolar-rf-lublin",
+      "title": "Ремонт аппарата Multipolar RF в Люблине",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/naprawa-multipolar-rf-lublin/",
+      "description": "Выездное обслуживание косметологического аппарата Multipolar RF в Люблине. Ремонт вакуумной системы, насоса и повреждённого RF-соединения.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "Multipolar RF"
+      },
+      "fault": [
+        "Опишите неисправность, укажите название аппарата и отправьте фотографии или видео. Мы определим, чем можем помочь."
+      ],
+      "performed_work": [
+        "После обнаружения утечки отремонтировали повреждённый элемент насоса и восстановили его герметичность.",
+        "Затем всю систему очистили и повторно проверили.",
+        "Устранение утечки позволило восстановить нужный вакуум и улучшить работу всасывающей манипулы.",
+        "Обнаружили утечку в повреждённом элементе насоса, отремонтировали и герметизировали его.",
+        "Восстановили повреждённый контакт и соединение разъёма, отвечающего за работу RF-элемента."
+      ],
+      "result": []
+    },
+    {
+      "id": "case:ru:realizacje:naprawa-nubway-nbw-vsiii-wroclaw",
+      "title": "Ремонт NUBWAY NBW-VSIII — обслуживание RF и вакуумной системы",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/",
+      "description": "Обслуживание NUBWAY NBW-VSIII 5D в реабилитационной студии во Вроцлаве. Замена шлангов, ремонт вакуумной системы и RF-элемента, очистка аппарата.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "NUBWAY NBW-VSIII 5D",
+        "description": "Косметологический аппарат с RF-технологией и вакуумной системой."
+      },
+      "fault": [
+        "Отправьте название и модель аппарата, фотографии и краткое описание проблемы. На этой основе определим дальнейшие действия."
+      ],
+      "performed_work": [
+        "После диагностики приступили к обслуживанию нескольких независимых систем аппарата.",
+        "техническая диагностика аппарата",
+        "проверка вакуумной системы",
+        "замена шлангов всасывающей системы",
+        "проверка соединений шлангов",
+        "ремонт элемента, создающего вакуум",
+        "диагностика RF-элемента",
+        "ремонт RF-элемента, отвечающего за нагрев",
+        "очистка внутренней части аппарата",
+        "очистка элементов, требующих профилактики",
+        "проверка работы аппарата после обслуживания",
+        "Вторым важным этапом стала диагностика части RF-системы, отвечающей за нагрев.",
+        "После обнаружения причины отремонтировали элемент, обеспечивающий нормальную работу нагрева.",
+        "По завершении работ элемент повторно проверили, а аппарат протестировали."
+      ],
+      "result": []
+    },
+    {
+      "id": "case:ru:realizacje:naprawa-rsl-masaz-warszawa",
+      "title": "Срочный ремонт аппарата для RSL-массажа в Варшаве — ремонт кабеля и замена разъёма",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/",
+      "description": "Срочный ремонт аппарата для RSL-массажа в Варшаве: ремонт кабеля манипулы, замена разъёма и восстановление соединения. Laser Tech Service.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": null,
+      "fault": [
+        "Отправьте название и модель аппарата, фотографии и краткое описание проблемы. На этой основе определим дальнейшие действия."
+      ],
+      "performed_work": [],
+      "result": [
+        "В Варшаве мы отремонтировали кабель и заменили разъём аппарата для RSL-массажа, восстановив исправное соединение манипулы. Небольшие элементы проводки важны для ежедневной эксплуатации всего устройства.",
+        "В статье почему соединение манипулы с аппаратом так важно рассматриваем симптомы и уход за кабелем. Если нужен ремонт косметологического оборудования, опишите проблему и свяжитесь с Laser Tech Service."
+      ]
+    },
+    {
+      "id": "case:ru:realizacje:pilna-naprawa-lasera-co2-poznan",
+      "title": "Срочный ремонт CO₂-аппарата в Познани с выездом к клиенту",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/",
+      "description": "Срочный выезд в студию медицинской эстетики в Познани: исправная педаль, обрыв провода манипулы, замена, проверка и обслуживание CO₂-аппарата.",
+      "city": "Познань",
+      "equipment_type": null,
+      "equipment": null,
+      "fault": [
+        "Отправьте название и модель аппарата, фотографии и краткое описание проблемы. На этой основе определим дальнейшие действия."
+      ],
+      "performed_work": [],
+      "result": [
+        "После диагностики, полной замены повреждённого провода, сборки, повторного тестирования и обслуживания аппарат был полностью готов к работе в студии. Реакция на педаль восстановилась благодаря устранению реальной причины сбоя."
+      ]
+    },
+    {
+      "id": "case:ru:realizacje:przeglad-estelase-power-p808l",
+      "title": "Обслуживание лазера ESTELASE POWER P-808L — замена фильтра и воды",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/przeglad-estelase-power-p808l/",
+      "description": "Плановое обслуживание ESTELASE POWER P-808L: продувка, замена фильтра и воды, проверка аппарата.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "ESTELASE POWER P-808L"
+      },
+      "fault": [],
+      "performed_work": [],
+      "result": []
+    },
+    {
+      "id": "case:ru:realizacje:przeglad-serwis-pharaon-1470-wroclaw",
+      "title": "Pharaon 1470 — диагностика и обслуживание во Вроцлаве",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+      "description": "Плановое обслуживание Pharaon 1470 в клинике Denica во Вроцлаве: диагностика, очистка аппарата, проверка после работ и запись в сервисную документацию.",
+      "city": "Denica · Wrocław",
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "Pharaon 1470"
+      },
+      "fault": [
+        "Отправьте название и модель аппарата, фотографии и краткое описание проблемы. На этой основе определим дальнейшие действия."
+      ],
+      "performed_work": [],
+      "result": []
+    },
+    {
+      "id": "case:ru:realizacje:przeglad-techniczny-lasera-do-depilacji",
+      "title": "Сервис лазера для эпиляции — техническое обслуживание аппарата",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+      "description": "Техническое обслуживание лазера для эпиляции. Фотографии сервисных работ и значение регулярного ухода. Laser Tech Service.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": null,
+      "fault": [
+        "Отправьте название и модель аппарата, фотографии и краткое описание проблемы. На этой основе определим дальнейшие действия."
+      ],
+      "performed_work": [],
+      "result": [
+        "Реализация документирует обслуживание лазера для эпиляции. Регулярный сервис помогает планировать эксплуатацию оборудования и реагировать на изменения в его работе.",
+        "Прочитайте статью вода в лазере для эпиляции — замена и своевременное обслуживание об общих принципах ухода за охлаждением. По вопросам сервиса лазерного и косметологического оборудования свяжитесь с Laser Tech Service."
+      ]
+    },
+    {
+      "id": "case:ru:realizacje:remont-lumenis-lightsheer-desire-olesnica",
+      "title": "Ремонт Lumenis LightSheer DESIRE в Олеснице — утечка жидкости и неисправность системы охлаждения",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/",
+      "description": "Выездной ремонт Lumenis LightSheer DESIRE в Олеснице: загрязнение фильтра и обратного клапана, уплотнения O-ring и восстановление охлаждения.",
+      "city": "Олесница, Нижняя Силезия",
+      "equipment_type": null,
+      "equipment": null,
+      "fault": [],
+      "performed_work": [
+        "Выезд специалиста к клиенту в Олесницу.",
+        "Демонтаж защитных панелей для сервисного доступа.",
+        "Диагностика циркуляции и охлаждения.",
+        "Проверка соединения манипулы.",
+        "Выявление загрязнения фильтра и проблемы обратного клапана.",
+        "Очистка загрязнённых компонентов гидравлики.",
+        "Устранение проблемы с уплотнениями и восстановление герметичности.",
+        "Техническое обслуживание аппарата.",
+        "Замена охлаждающей жидкости.",
+        "Контроль работы после завершения обслуживания.",
+        "Этому ремонту не приписываются замена насоса в сборе, электронных плат или диодного модуля. Фотографии показывают доступ к внутренним узлам и последовательные этапы сервисных работ."
+      ],
+      "result": [
+        "После очистки компонентов, восстановления герметичности, замены жидкости и технического обслуживания проверили работу оборудования. Неисправность охлаждения устранена, LightSheer DESIRE возвращён в рабочее состояние."
+      ]
+    },
+    {
+      "id": "case:ru:realizacje:serwis-cavi-shape-advanced-wroclaw",
+      "title": "Обслуживание Cavi Shape Advanced — ремонт RF, инфракрасного излучения и ультразвука",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/",
+      "description": "Обслуживание Cavi Shape Advanced во Вроцлаве. Ремонт RF-манипул, инфракрасного излучения, ультразвука, соединений и основной платы.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "Cavi Shape Advanced",
+        "description": "Профессиональный косметологический аппарат с RF-технологией, инфракрасным излучением и ультразвуком."
+      },
+      "fault": [
+        "Отправьте название и модель аппарата, фотографии и краткое описание проблемы. На этой основе определим дальнейшие действия."
+      ],
+      "performed_work": [
+        "Ремонт включал электрические соединения и обслуживание электроники аппарата."
+      ],
+      "result": []
+    },
+    {
+      "id": "case:ru:realizacje:serwis-glowicy-lasera-diodowego-poznan",
+      "title": "Обслуживание манипулы диодного лазера — очистка и восстановление герметичности",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+      "description": "Обслуживание манипулы диодного лазера в Познани. Разгерметизация привела к попаданию загрязнений внутрь. Выполнены разборка, очистка, проверка элементов и восстановление герметичности.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "Обслуживание манипулы диодного лазера",
+        "description": "Обслуживание манипулы профессионального диодного лазера для эпиляции."
+      },
+      "fault": [
+        "Отправьте название и модель аппарата, фотографии манипулы и краткое описание проблемы. На этой основе определим дальнейшие действия."
+      ],
+      "performed_work": [
+        "Обслуживание включало разборку манипулы, проверку внутреннего состояния, удаление загрязнений и восстановление защиты корпуса."
+      ],
+      "result": []
+    },
+    {
+      "id": "case:ru:realizacje:serwis-gme-exsys-308",
+      "title": "GME ExSys 308 — сервисная проверка и тест аппарата",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/serwis-gme-exsys-308/",
+      "description": "Сервисная проверка GME ExSys 308 в Laser Tech Service: аппарат, манипула и видео теста. Как устроена система EPL с эксимерной лампой UVB 308 нм.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "GME ExSys 308"
+      },
+      "fault": [
+        "Отправьте название и модель аппарата, фотографии и краткое описание проблемы. На этой основе определим дальнейшие действия."
+      ],
+      "performed_work": [],
+      "result": [
+        "В этой реализации мы проверили работу GME ExSys 308. На фотографиях видны активный экран аппарата и работающая манипула, а на видео — тест после сервисных работ. Материалы фиксируют этот этап проверки оборудования.",
+        "Видеозапись не заменяет протокол измерений. Здесь мы не приводим значения измеренной энергии и не оцениваем результаты лечения: материал посвящён документированной проверке работы системы."
+      ]
+    },
+    {
+      "id": "case:ru:realizacje:serwis-hifu-kimed-k1-w1601-gorlitz",
+      "title": "Обслуживание HIFU KIMED K1-W1601 — ремонт манипулы и техническое обслуживание",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/",
+      "description": "Обслуживание HIFU KIMED K1-W1601 в Гёрлице, Германия. Ремонт неработающей манипулы, очистка водяного контура, профилактика и проверка работоспособности.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "KIMED K1-W1601",
+        "description": "Профессиональный HIFU-аппарат для косметологических процедур."
+      },
+      "fault": [
+        "Отправьте название и модель аппарата, фотографии и краткое описание проблемы. На этой основе определим дальнейшие действия."
+      ],
+      "performed_work": [
+        "Работы включали устранение неисправности манипулы и периодическое техническое обслуживание аппарата.",
+        "техническая диагностика HIFU-аппарата",
+        "проверка неработающей HIFU-манипулы",
+        "ремонт манипулы",
+        "проверка работы манипулы после ремонта",
+        "проверка внутренних элементов аппарата",
+        "проверка водяного контура",
+        "очистка резервуара водяного контура",
+        "удаление накопившихся загрязнений и осадка",
+        "проверка доступных элементов циркуляции воды",
+        "повторная сборка аппарата",
+        "итоговый тест работы аппарата",
+        "В ходе работ устранили заявленную неисправность и выполнили текущее обслуживание аппарата.",
+        "Ремонт неработающей HIFU-манипулы и проверка её работы.",
+        "Видео обслуживания KIMED K1-W1601 непосредственно у клиента в Гёрлице.",
+        "Одной из проблем была неработающая HIFU-манипула, которую мы отремонтировали."
+      ],
+      "result": [
+        "Повторный запуск аппарата и итоговая проверка правильности работы."
+      ]
+    },
+    {
+      "id": "case:ru:realizacje:serwis-lasera-diodowego-wymiana-glowicy-wroclaw",
+      "title": "Обслуживание диодного лазера — замена манипулы и техническое обслуживание",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/",
+      "description": "Обслуживание диодного лазера для эпиляции во Вроцлаве. Замена рабочей манипулы, очистка аппарата, техническое обслуживание и итоговая проверка работоспособности.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Service",
+        "name": "Обслуживание диодного лазера для эпиляции",
+        "provider": {
+          "@id": "https://lasertechservice.pl/#organization"
+        }
+      },
+      "fault": [
+        "Отправьте название и модель аппарата, фотографии и краткое описание проблемы. На этой основе определим дальнейшие действия."
+      ],
+      "performed_work": [
+        "В рамках одного заказа выполнили комплексное обслуживание аппарата.",
+        "технический осмотр диодного лазера",
+        "подготовка аппарата к сервисным работам",
+        "демонтаж прежней рабочей манипулы",
+        "замена манипулы диодного лазера",
+        "проверка соединений",
+        "проверка доступных элементов аппарата",
+        "очистка аппарата",
+        "удаление накопившихся загрязнений",
+        "повторная сборка аппарата",
+        "проверка работы манипулы",
+        "итоговая проверка работы аппарата"
+      ],
+      "result": []
+    },
+    {
+      "id": "case:ru:realizacje:serwis-lasera-do-usuwania-tatuazu-wymiana-filtra",
+      "title": "Обслуживание лазера ND:YAG для удаления татуировок",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/",
+      "description": "Диагностика и техническое обслуживание лазера для удаления татуировок в Легнице. Очистка аппарата, профилактика системы охлаждения и замена фильтра.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "ML-ND YAG LASER A1"
+      },
+      "fault": [],
+      "performed_work": [
+        "При диагностике и техническом обслуживании выполнили следующие операции:",
+        "технический осмотр аппарата",
+        "проверку общего состояния узлов",
+        "проверку системы охлаждения",
+        "очистку внутренней части аппарата и элементов, требующих профилактики",
+        "удаление накопившихся загрязнений",
+        "проверку состояния фильтра",
+        "демонтаж изношенного фильтра",
+        "установку нового фильтра",
+        "проверку элементов вентиляции и охлаждения",
+        "итоговую проверку аппарата после работ"
+      ],
+      "result": []
+    },
+    {
+      "id": "case:ru:realizacje:wymiana-modulu-diodowego-lasera-po-zalaniu-poznan",
+      "title": "Замена диодного модуля лазера после залития — Познань",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+      "description": "Ремонт лазера в Познани: замена залитого диодного модуля и правильная установка прокладки. Фотографии повреждений и причина дорогостоящей поломки.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": null,
+      "fault": [
+        "В Познани мы ремонтировали лазер с повреждённым диодным модулем. Поломке предшествовала самостоятельная замена владельцем прокладки между элементами узла манипулы. Исходной причиной оказалась не сама диодная сборка.",
+        "Отправьте название и модель аппарата, фотографии и краткое описание проблемы. На этой основе определим дальнейшие действия."
+      ],
+      "performed_work": [
+        "Мы демонтировали старый повреждённый диодный модуль и установили новый. Также заменили прокладку и правильно разместили её в узле для восстановления герметичности. Ремонт диодного лазера после залития требует устранения причины попадания жидкости."
+      ],
+      "result": [
+        "Повреждённый модуль заменён новым, а неправильно установленное уплотнение заменено и смонтировано корректно. После такого ремонта следует проверить работу аппарата, герметичность узла, циркуляцию охлаждения и отсутствие течей. Результаты измерений, которых нет в документации этого случая, мы не приводим."
+      ]
+    },
+    {
+      "id": "case:ru:realizacje:zamena-modulya-pelte-estetech-poznan",
+      "title": "Замена модуля Пельтье в манипуле лазера ESTETECH — ремонт системы охлаждения в Познани",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/",
+      "description": "Выездной ремонт ESTETECH в Познани: замена модуля Пельтье, обновление термоинтерфейса и восстановление охлаждения манипулы. Фотографии и ход работ.",
+      "city": "Познань, Польша",
+      "equipment_type": "ESTETECH",
+      "equipment": null,
+      "fault": [
+        "Клиент в Познани обратился с неисправностью контактного охлаждения манипулы лазерного аппарата ESTETECH. Рабочая поверхность перестала нормально охлаждаться, что исключало обычное использование манипулы. Контактное охлаждение помогает контролировать температуру кожи во время процедуры, повышает комфорт и уменьшает риск нежелательного теплового воздействия."
+      ],
+      "performed_work": [],
+      "result": [
+        "После замены неисправного модуля Пельтье и технического обслуживания система охлаждения вновь заработала. Лазерный аппарат ESTETECH вернули в эксплуатацию. Выездной сервис позволил выполнить ремонт в Познани без перевозки всего оборудования в мастерскую."
+      ]
+    },
+    {
+      "id": "case:ru:realizacje:zamena-pelte-remont-lazera-nd-yag",
+      "title": "Один аппарат — две неисправности: замена элемента Пельтье и ремонт лазера ND",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/",
+      "description": "Две независимые неисправности одного аппарата: замена элемента Пельтье, ремонт манипулы ND:YAG и калибровка. Работы Laser Tech Service.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": null,
+      "fault": [],
+      "performed_work": [],
+      "result": [
+        "В рамках одного сервисного выезда специалисты Laser Tech Service устранили две неисправности в разных манипулах одного аппарата.",
+        "В манипуле для эпиляции заменён элемент Пельтье, в манипуле ND — лазерный элемент с последующей калибровкой.",
+        "Дополнительно была выявлена ошибка эксплуатации оборудования, связанная с подключением только одной манипулы вместо двух."
+      ]
+    },
+    {
+      "id": "case:ru:realizacje:zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav",
+      "title": "Замена вентиляторов охлаждения лазерного аппарата и техническое обслуживание во Вроцлаве",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/",
+      "description": "Ремонт лазерного аппарата во Вроцлаве: диагностика неисправных вентиляторов, замена, очистка от пыли и восстановление работы системы охлаждения.",
+      "city": "Вроцлав, Польша",
+      "equipment_type": null,
+      "equipment": null,
+      "fault": [
+        "Недостаточное охлаждение"
+      ],
+      "performed_work": [],
+      "result": []
+    }
+  ],
+  "resources": {
+    "sitemap": "https://lasertechservice.pl/sitemap.xml",
+    "llms": "https://lasertechservice.pl/llms.txt",
+    "llms_full": "https://lasertechservice.pl/llms-full.txt",
+    "markdown": {
+      "https://lasertechservice.pl/": "https://lasertechservice.pl/index.md",
+      "https://lasertechservice.pl/blog/": "https://lasertechservice.pl/blog/index.md",
+      "https://lasertechservice.pl/blog/3000-nain-laser-historia-konstrukcja-serwis/": "https://lasertechservice.pl/blog/3000-nain-laser-historia-konstrukcja-serwis/index.md",
+      "https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/": "https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/index.md",
+      "https://lasertechservice.pl/blog/beauty-planet-3d-contour-mozliwosci-serwis/": "https://lasertechservice.pl/blog/beauty-planet-3d-contour-mozliwosci-serwis/index.md",
+      "https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/": "https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/index.md",
+      "https://lasertechservice.pl/blog/dlaczego-maly-przewod-powoduje-duze-problemy/": "https://lasertechservice.pl/blog/dlaczego-maly-przewod-powoduje-duze-problemy/index.md",
+      "https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/": "https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/index.md",
+      "https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/": "https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/index.md",
+      "https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/": "https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/index.md",
+      "https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/": "https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/index.md",
+      "https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/": "https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/index.md",
+      "https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/": "https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/index.md",
+      "https://lasertechservice.pl/blog/laser-tech-service-zlota-firma-2026/": "https://lasertechservice.pl/blog/laser-tech-service-zlota-firma-2026/index.md",
+      "https://lasertechservice.pl/blog/lightsheer-desire-chlodzenie-niezawodnosc/": "https://lasertechservice.pl/blog/lightsheer-desire-chlodzenie-niezawodnosc/index.md",
+      "https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/": "https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/index.md",
+      "https://lasertechservice.pl/blog/pharaon-1470-historia-technologia-lasera/": "https://lasertechservice.pl/blog/pharaon-1470-historia-technologia-lasera/index.md",
+      "https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/": "https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/index.md",
+      "https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/": "https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/index.md",
+      "https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/": "https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/index.md",
+      "https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/": "https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/index.md",
+      "https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/": "https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/index.md",
+      "https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/": "https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/index.md",
+      "https://lasertechservice.pl/kontakt/": "https://lasertechservice.pl/kontakt/index.md",
+      "https://lasertechservice.pl/partnerzy/": "https://lasertechservice.pl/partnerzy/index.md",
+      "https://lasertechservice.pl/realizacje/": "https://lasertechservice.pl/realizacje/index.md",
+      "https://lasertechservice.pl/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/": "https://lasertechservice.pl/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/index.md",
+      "https://lasertechservice.pl/realizacje/naprawa-3000-nain-bloku-zasilania/": "https://lasertechservice.pl/realizacje/naprawa-3000-nain-bloku-zasilania/index.md",
+      "https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/": "https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/index.md",
+      "https://lasertechservice.pl/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/": "https://lasertechservice.pl/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/index.md",
+      "https://lasertechservice.pl/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/": "https://lasertechservice.pl/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/index.md",
+      "https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/": "https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/index.md",
+      "https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/": "https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/index.md",
+      "https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/": "https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/index.md",
+      "https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/": "https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/index.md",
+      "https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/": "https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/index.md",
+      "https://lasertechservice.pl/realizacje/przeglad-serwis-pharaon-1470-wroclaw/": "https://lasertechservice.pl/realizacje/przeglad-serwis-pharaon-1470-wroclaw/index.md",
+      "https://lasertechservice.pl/realizacje/przeglad-techniczny-lasera-do-depilacji/": "https://lasertechservice.pl/realizacje/przeglad-techniczny-lasera-do-depilacji/index.md",
+      "https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/": "https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/index.md",
+      "https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/": "https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/index.md",
+      "https://lasertechservice.pl/realizacje/serwis-gme-exsys-308/": "https://lasertechservice.pl/realizacje/serwis-gme-exsys-308/index.md",
+      "https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/": "https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/index.md",
+      "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/": "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/index.md",
+      "https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/": "https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/index.md",
+      "https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/": "https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/index.md",
+      "https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/": "https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/index.md",
+      "https://lasertechservice.pl/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/": "https://lasertechservice.pl/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/index.md",
+      "https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/": "https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/index.md",
+      "https://lasertechservice.pl/ru/": "https://lasertechservice.pl/ru/index.md",
+      "https://lasertechservice.pl/ru/blog/": "https://lasertechservice.pl/ru/blog/index.md",
+      "https://lasertechservice.pl/ru/blog/3000-nain-lazer-istoriya-konstrukciya-servis/": "https://lasertechservice.pl/ru/blog/3000-nain-lazer-istoriya-konstrukciya-servis/index.md",
+      "https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/": "https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/index.md",
+      "https://lasertechservice.pl/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/": "https://lasertechservice.pl/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/index.md",
+      "https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/": "https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/index.md",
+      "https://lasertechservice.pl/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/": "https://lasertechservice.pl/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/index.md",
+      "https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/": "https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/index.md",
+      "https://lasertechservice.pl/ru/blog/laser-tech-service-zlota-firma-2026/": "https://lasertechservice.pl/ru/blog/laser-tech-service-zlota-firma-2026/index.md",
+      "https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/": "https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/index.md",
+      "https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/": "https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/index.md",
+      "https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/": "https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/index.md",
+      "https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/": "https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/index.md",
+      "https://lasertechservice.pl/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/": "https://lasertechservice.pl/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/index.md",
+      "https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/": "https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/index.md",
+      "https://lasertechservice.pl/ru/blog/pochemu-malenkiy-kabel-sozdayot-bolshie-problemy/": "https://lasertechservice.pl/ru/blog/pochemu-malenkiy-kabel-sozdayot-bolshie-problemy/index.md",
+      "https://lasertechservice.pl/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/": "https://lasertechservice.pl/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/index.md",
+      "https://lasertechservice.pl/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/": "https://lasertechservice.pl/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/index.md",
+      "https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/": "https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/index.md",
+      "https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/": "https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/index.md",
+      "https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/": "https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/index.md",
+      "https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/": "https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/index.md",
+      "https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/": "https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/index.md",
+      "https://lasertechservice.pl/ru/kontakt/": "https://lasertechservice.pl/ru/kontakt/index.md",
+      "https://lasertechservice.pl/ru/partnerzy/": "https://lasertechservice.pl/ru/partnerzy/index.md",
+      "https://lasertechservice.pl/ru/realizacje/": "https://lasertechservice.pl/ru/realizacje/index.md",
+      "https://lasertechservice.pl/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/": "https://lasertechservice.pl/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/index.md",
+      "https://lasertechservice.pl/ru/realizacje/naprawa-3000-nain-bloku-zasilania/": "https://lasertechservice.pl/ru/realizacje/naprawa-3000-nain-bloku-zasilania/index.md",
+      "https://lasertechservice.pl/ru/realizacje/naprawa-alma-accent-gorlitz/": "https://lasertechservice.pl/ru/realizacje/naprawa-alma-accent-gorlitz/index.md",
+      "https://lasertechservice.pl/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/": "https://lasertechservice.pl/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/index.md",
+      "https://lasertechservice.pl/ru/realizacje/naprawa-multipolar-rf-lublin/": "https://lasertechservice.pl/ru/realizacje/naprawa-multipolar-rf-lublin/index.md",
+      "https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/": "https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/index.md",
+      "https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/": "https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/index.md",
+      "https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/": "https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/index.md",
+      "https://lasertechservice.pl/ru/realizacje/przeglad-estelase-power-p808l/": "https://lasertechservice.pl/ru/realizacje/przeglad-estelase-power-p808l/index.md",
+      "https://lasertechservice.pl/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/": "https://lasertechservice.pl/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/index.md",
+      "https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/": "https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/index.md",
+      "https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/": "https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/index.md",
+      "https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/": "https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/index.md",
+      "https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/": "https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/index.md",
+      "https://lasertechservice.pl/ru/realizacje/serwis-gme-exsys-308/": "https://lasertechservice.pl/ru/realizacje/serwis-gme-exsys-308/index.md",
+      "https://lasertechservice.pl/ru/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/": "https://lasertechservice.pl/ru/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/index.md",
+      "https://lasertechservice.pl/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/": "https://lasertechservice.pl/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/index.md",
+      "https://lasertechservice.pl/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/": "https://lasertechservice.pl/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/index.md",
+      "https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/": "https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/index.md",
+      "https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/": "https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/index.md",
+      "https://lasertechservice.pl/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/": "https://lasertechservice.pl/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/index.md",
+      "https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/": "https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/index.md",
+      "https://lasertechservice.pl/ru/uslugi/": "https://lasertechservice.pl/ru/uslugi/index.md",
+      "https://lasertechservice.pl/ru/uslugi/cennik/": "https://lasertechservice.pl/ru/uslugi/cennik/index.md",
+      "https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/": "https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/index.md",
+      "https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/": "https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/index.md",
+      "https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/": "https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/index.md",
+      "https://lasertechservice.pl/ru/uslugi/servis-ipl/": "https://lasertechservice.pl/ru/uslugi/servis-ipl/index.md",
+      "https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/": "https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/index.md",
+      "https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/": "https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/index.md",
+      "https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/": "https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/index.md",
+      "https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/": "https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/index.md",
+      "https://lasertechservice.pl/uslugi/": "https://lasertechservice.pl/uslugi/index.md",
+      "https://lasertechservice.pl/uslugi/cennik/": "https://lasertechservice.pl/uslugi/cennik/index.md",
+      "https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/": "https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/index.md",
+      "https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/": "https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/index.md",
+      "https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/": "https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/index.md",
+      "https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/": "https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/index.md",
+      "https://lasertechservice.pl/uslugi/serwis-ipl/": "https://lasertechservice.pl/uslugi/serwis-ipl/index.md",
+      "https://lasertechservice.pl/uslugi/serwis-laserow-co2/": "https://lasertechservice.pl/uslugi/serwis-laserow-co2/index.md",
+      "https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/": "https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/index.md",
+      "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
+    }
+  },
+  "generated_at": "2026-10-20T11:22:34Z"
+}
