@@ -24,31 +24,31 @@
 
 - [Восстановление головок и манипул](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
 
-- Ремонт систем охлаждения
+- [Ремонт систем охлаждения](https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/)
 
 - [Ремонт блоков питания и электроники](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
 
-- Ремонт сенсорных экранов и панелей управления
+- [Ремонт сенсорных экранов и панелей управления](https://lasertechservice.pl/ru/uslugi/remont-sensornyh-ekranov/)
 
 - [Сервис оборудования IPL](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
 
-- Сервис лазеров ND:YAG
+- [Сервис лазеров ND:YAG](https://lasertechservice.pl/ru/uslugi/servis-lazerov-nd-yag/)
 
 - [Сервис лазеров CO2](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/)
 
-- Сервис пикосекундных лазеров
+- [Сервис пикосекундных лазеров](https://lasertechservice.pl/ru/uslugi/servis-pikosekundnyh-lazerov/)
 
 - [Ремонт оборудования RF](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/)
 
-- Ремонт оборудования LPG
+- [Ремонт оборудования LPG](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-lpg/)
 
 - [Сервис оборудования для криотерапии](https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/)
 
-- Чистка и техническое обслуживание косметологического оборудования
+- [Чистка и техническое обслуживание косметологического оборудования](https://lasertechservice.pl/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/)
 
 - Контроль и оптимизация мощности
 
-- Послегарантийное обслуживание
+- [Послегарантийное обслуживание](https://lasertechservice.pl/ru/uslugi/poslegarantiynoe-obsluzhivanie/)
 
 Не нашли своё оборудование в списке? Свяжитесь с нами. После получения модели устройства и описания неисправности мы подтвердим возможность ремонта.
 
@@ -168,11 +168,18 @@ lok. 320
 - [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 - [Замена и калибровка лазерных диодов](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/)
 - [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+- [Ремонт систем охлаждения лазерного оборудования](https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/)
 - [Ремонт блоков питания и электроники лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
+- [Ремонт сенсорных экранов и панелей управления](https://lasertechservice.pl/ru/uslugi/remont-sensornyh-ekranov/)
 - [Сервис и ремонт оборудования IPL](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
+- [Сервис и ремонт лазеров ND:YAG](https://lasertechservice.pl/ru/uslugi/servis-lazerov-nd-yag/)
 - [Сервис и ремонт лазеров CO₂](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/)
+- [Сервис и ремонт пикосекундных лазеров](https://lasertechservice.pl/ru/uslugi/servis-pikosekundnyh-lazerov/)
 - [Ремонт и сервис RF-оборудования](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/)
+- [Ремонт оборудования LPG и аппаратов для эндермологии](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-lpg/)
 - [Сервис оборудования для криотерапии и криолиполиза](https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/)
+- [Чистка и техническое обслуживание косметологического оборудования](https://lasertechservice.pl/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/)
+- [Послегарантийное обслуживание косметологического оборудования](https://lasertechservice.pl/ru/uslugi/poslegarantiynoe-obsluzhivanie/)
 
 ## Связанные работы
 

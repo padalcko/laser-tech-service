@@ -24,31 +24,31 @@ Naprawiamy urządzenia wykorzystywane w salonach beauty, klinikach kosmetologicz
 
 - [Regeneracja głowic i manipulatorów](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
 
-- Naprawa układów chłodzenia
+- [Naprawa układów chłodzenia](https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/)
 
 - [Naprawa zasilaczy i elektroniki](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
 
-- Naprawa ekranów dotykowych i paneli sterujących
+- [Naprawa ekranów dotykowych i paneli sterujących](https://lasertechservice.pl/uslugi/naprawa-ekranow-dotykowych/)
 
 - [Serwis urządzeń IPL](https://lasertechservice.pl/uslugi/serwis-ipl/)
 
-- Serwis laserów ND:YAG
+- [Serwis laserów ND:YAG](https://lasertechservice.pl/uslugi/serwis-laserow-nd-yag/)
 
 - [Serwis laserów CO2](https://lasertechservice.pl/uslugi/serwis-laserow-co2/)
 
-- Serwis laserów pikosekundowych
+- [Serwis laserów pikosekundowych](https://lasertechservice.pl/uslugi/serwis-laserow-pikosekundowych/)
 
 - [Naprawa urządzeń RF](https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/)
 
-- Naprawa urządzeń LPG
+- [Naprawa urządzeń LPG](https://lasertechservice.pl/uslugi/naprawa-urzadzen-lpg/)
 
 - [Serwis urządzeń do krioterapii](https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/)
 
-- Czyszczenie i konserwacja urządzeń kosmetologicznych
+- [Czyszczenie i konserwacja urządzeń kosmetologicznych](https://lasertechservice.pl/uslugi/konserwacja-urzadzen-kosmetologicznych/)
 
 - Kontrola i optymalizacja mocy
 
-- Serwis pogwarancyjny
+- [Serwis pogwarancyjny](https://lasertechservice.pl/uslugi/serwis-pogwarancyjny/)
 
 Nie widzisz swojego urządzenia na liście? Skontaktuj się z nami. Po otrzymaniu modelu urządzenia i opisu usterki potwierdzimy możliwość wykonania naprawy.
 
@@ -168,11 +168,18 @@ lok. 320
 - [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 - [Wymiana i kalibracja diod laserowych](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/)
 - [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+- [Naprawa układów chłodzenia urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/)
 - [Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
+- [Naprawa ekranów dotykowych i paneli sterowania](https://lasertechservice.pl/uslugi/naprawa-ekranow-dotykowych/)
 - [Serwis i naprawa urządzeń IPL](https://lasertechservice.pl/uslugi/serwis-ipl/)
+- [Serwis i naprawa laserów Nd:YAG](https://lasertechservice.pl/uslugi/serwis-laserow-nd-yag/)
 - [Serwis i naprawa laserów CO₂](https://lasertechservice.pl/uslugi/serwis-laserow-co2/)
+- [Serwis i naprawa laserów pikosekundowych](https://lasertechservice.pl/uslugi/serwis-laserow-pikosekundowych/)
 - [Serwis i naprawa urządzeń RF](https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/)
+- [Serwis i naprawa urządzeń LPG do endermologii](https://lasertechservice.pl/uslugi/naprawa-urzadzen-lpg/)
 - [Serwis urządzeń do krioterapii i kriolipolizy](https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/)
+- [Czyszczenie i konserwacja urządzeń kosmetologicznych](https://lasertechservice.pl/uslugi/konserwacja-urzadzen-kosmetologicznych/)
+- [Serwis pogwarancyjny urządzeń kosmetologicznych](https://lasertechservice.pl/uslugi/serwis-pogwarancyjny/)
 
 ## Powiązane realizacje
 

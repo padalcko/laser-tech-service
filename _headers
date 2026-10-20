@@ -496,15 +496,35 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/uslugi/poslegarantiynoe-obsluzhivanie/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/uslugi/poslegarantiynoe-obsluzhivanie/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /ru/uslugi/remont-blokov-pitaniya-i-elektroniki/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/uslugi/remont-oborudovaniya-lpg/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-lpg/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /ru/uslugi/remont-oborudovaniya-rf/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/uslugi/remont-sensornyh-ekranov/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/uslugi/remont-sensornyh-ekranov/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/uslugi/remont-sistem-ohlazhdeniya/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/uslugi/servis-ipl/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -516,10 +536,25 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/uslugi/servis-lazerov-nd-yag/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/uslugi/servis-lazerov-nd-yag/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /ru/uslugi/servis-oborudovaniya-dlya-krioterapii/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/uslugi/servis-pikosekundnyh-lazerov/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/uslugi/servis-pikosekundnyh-lazerov/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/uslugi/vosstanovlenie-golovok-i-manipul/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -546,6 +581,26 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/uslugi/konserwacja-urzadzen-kosmetologicznych/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/uslugi/konserwacja-urzadzen-kosmetologicznych/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/uslugi/naprawa-ekranow-dotykowych/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/uslugi/naprawa-ekranow-dotykowych/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/uslugi/naprawa-ukladow-chlodzenia/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/uslugi/naprawa-urzadzen-lpg/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/uslugi/naprawa-urzadzen-lpg/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /uslugi/naprawa-urzadzen-rf/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -570,6 +625,21 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/uslugi/serwis-laserow-co2/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/uslugi/serwis-laserow-nd-yag/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/uslugi/serwis-laserow-nd-yag/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/uslugi/serwis-laserow-pikosekundowych/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/uslugi/serwis-laserow-pikosekundowych/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/uslugi/serwis-pogwarancyjny/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/uslugi/serwis-pogwarancyjny/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /uslugi/serwis-urzadzen-do-krioterapii/index.md
   Content-Type: text/markdown; charset=utf-8

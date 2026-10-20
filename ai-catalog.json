@@ -81,6 +81,202 @@
       }
     },
     {
+      "id": "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+      "equipment_category": "cosmetic_equipment",
+      "primary_url": "https://lasertechservice.pl/uslugi/konserwacja-urzadzen-kosmetologicznych/",
+      "localizations": {
+        "pl": {
+          "name": "Czyszczenie i konserwacja urządzeń kosmetologicznych",
+          "description": "Planowa obsługa techniczna pozwala wcześniej zauważyć zanieczyszczenia, przegrzewanie i zużycie podzespołów. Dobieramy czyszczenie i kontrolę do budowy urządzenia oraz warunków jego eksploatacji.",
+          "url": "https://lasertechservice.pl/uslugi/konserwacja-urzadzen-kosmetologicznych/",
+          "starting_price": {
+            "amount": 1200,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "od 1 200 zł",
+            "conditions": [
+              "Dojazd specjalisty i koszty transportu są płatne osobno."
+            ],
+            "source_url": "https://lasertechservice.pl/uslugi/konserwacja-urzadzen-kosmetologicznych/"
+          },
+          "available_work": [
+            "Czyszczenie wnętrza urządzenia",
+            "Obsługa chłodzenia",
+            "Elektronika i mechanika",
+            "Kontrola parametrów pracy"
+          ]
+        },
+        "ru": {
+          "name": "Чистка и техническое обслуживание косметологического оборудования",
+          "description": "Регулярное ТО помогает своевременно выявлять загрязнения, перегрев и износ компонентов. Подбираем очистку и проверки с учётом конструкции аппарата и условий его эксплуатации.",
+          "url": "https://lasertechservice.pl/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/",
+          "starting_price": {
+            "amount": 1200,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "от 1 200 zł",
+            "conditions": [
+              "Выезд специалиста и транспортные расходы оплачиваются отдельно."
+            ],
+            "source_url": "https://lasertechservice.pl/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/"
+          },
+          "available_work": [
+            "Внутренняя очистка оборудования",
+            "Обслуживание охлаждения",
+            "Электроника и механические узлы",
+            "Контроль рабочих параметров"
+          ]
+        }
+      }
+    },
+    {
+      "id": "service:uslugi:naprawa-ekranow-dotykowych",
+      "equipment_category": "control_panels",
+      "primary_url": "https://lasertechservice.pl/uslugi/naprawa-ekranow-dotykowych/",
+      "localizations": {
+        "pl": {
+          "name": "Naprawa ekranów dotykowych i paneli sterowania",
+          "description": "Naprawa paneli sterujących urządzeń kosmetologicznych: diagnostyka dotyku, obrazu, zasilania i połączeń. Dobieramy kompatybilne elementy do konstrukcji konkretnego aparatu.",
+          "url": "https://lasertechservice.pl/uslugi/naprawa-ekranow-dotykowych/",
+          "starting_price": {
+            "amount": 600,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "od 600 zł",
+            "conditions": [
+              "Dojazd specjalisty i koszty transportu są płatne osobno."
+            ],
+            "source_url": "https://lasertechservice.pl/uslugi/naprawa-ekranow-dotykowych/"
+          },
+          "available_work": [
+            "Wymiana paneli dotykowych",
+            "Wymiana modułów wyświetlacza",
+            "Przewody, taśmy i złącza",
+            "Elektronika panelu sterowania"
+          ]
+        },
+        "ru": {
+          "name": "Ремонт сенсорных экранов и панелей управления",
+          "description": "Диагностика сенсора, изображения, питания и соединений панелей косметологического оборудования. Подбираем совместимые компоненты под конструкцию конкретного аппарата.",
+          "url": "https://lasertechservice.pl/ru/uslugi/remont-sensornyh-ekranov/",
+          "starting_price": {
+            "amount": 600,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "от 600 zł",
+            "conditions": [
+              "Выезд специалиста и транспортные расходы оплачиваются отдельно."
+            ],
+            "source_url": "https://lasertechservice.pl/ru/uslugi/remont-sensornyh-ekranov/"
+          },
+          "available_work": [
+            "Замена сенсорных панелей",
+            "Замена дисплейных модулей",
+            "Кабели, шлейфы и разъёмы",
+            "Электроника панели управления"
+          ]
+        }
+      }
+    },
+    {
+      "id": "service:uslugi:naprawa-ukladow-chlodzenia",
+      "equipment_category": "cooling_systems",
+      "primary_url": "https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/",
+      "localizations": {
+        "pl": {
+          "name": "Naprawa układów chłodzenia urządzeń laserowych",
+          "description": "Diagnostyka pomp, przepływu i szczelności układów chłodzenia laserów. Usuwamy przyczyny przegrzewania, naprawiamy połączenia i sprawdzamy działanie chłodzenia po wykonanych pracach.",
+          "url": "https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/",
+          "starting_price": {
+            "amount": 1000,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "od 1 000 zł",
+            "conditions": [
+              "Dojazd specjalisty i koszty transportu są płatne osobno."
+            ],
+            "source_url": "https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/"
+          },
+          "available_work": [
+            "Diagnostyka i naprawa pomp obiegowych",
+            "Usuwanie nieszczelności obiegu",
+            "Czyszczenie układu chłodzenia",
+            "Czujniki i komponenty chłodzenia"
+          ]
+        },
+        "ru": {
+          "name": "Ремонт систем охлаждения лазерного оборудования",
+          "description": "Диагностика насосов, циркуляции и герметичности охлаждения лазеров. Устраняем причины перегрева, восстанавливаем соединения и проверяем работу системы после ремонта.",
+          "url": "https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/",
+          "starting_price": {
+            "amount": 1000,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "от 1 000 zł",
+            "conditions": [
+              "Выезд специалиста и транспортные расходы оплачиваются отдельно."
+            ],
+            "source_url": "https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/"
+          },
+          "available_work": [
+            "Диагностика и ремонт циркуляционных насосов",
+            "Устранение протечек контура",
+            "Очистка системы охлаждения",
+            "Датчики и компоненты охлаждения"
+          ]
+        }
+      }
+    },
+    {
+      "id": "service:uslugi:naprawa-urzadzen-lpg",
+      "equipment_category": "LPG",
+      "primary_url": "https://lasertechservice.pl/uslugi/naprawa-urzadzen-lpg/",
+      "localizations": {
+        "pl": {
+          "name": "Serwis i naprawa urządzeń LPG do endermologii",
+          "description": "Diagnostyka mechanizmów rolkowych, podciśnienia i głowic urządzeń do endermologii. Ustalamy źródło hałasu, utraty podciśnienia lub problemów ze sterowaniem manipulatorem.",
+          "url": "https://lasertechservice.pl/uslugi/naprawa-urzadzen-lpg/",
+          "starting_price": {
+            "amount": 800,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "od 800 zł",
+            "conditions": [
+              "Dojazd specjalisty i koszty transportu są płatne osobno."
+            ],
+            "source_url": "https://lasertechservice.pl/uslugi/naprawa-urzadzen-lpg/"
+          },
+          "available_work": [
+            "Rolki i napędy",
+            "Układ podciśnienia",
+            "Regeneracja manipulatorów",
+            "Uszczelnienia i części eksploatacyjne"
+          ]
+        },
+        "ru": {
+          "name": "Ремонт оборудования LPG и аппаратов для эндермологии",
+          "description": "Диагностика роликовых механизмов, вакуума и манипул аппаратов для эндермологии. Определяем причину шума, потери вакуума или неисправности управления головкой.",
+          "url": "https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-lpg/",
+          "starting_price": {
+            "amount": 800,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "от 800 zł",
+            "conditions": [
+              "Выезд специалиста и транспортные расходы оплачиваются отдельно."
+            ],
+            "source_url": "https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-lpg/"
+          },
+          "available_work": [
+            "Ролики и приводы",
+            "Вакуумная система",
+            "Восстановление манипул",
+            "Уплотнения и изношенные детали"
+          ]
+        }
+      }
+    },
+    {
       "id": "service:uslugi:naprawa-urzadzen-rf",
       "equipment_category": "RF",
       "primary_url": "https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/",
@@ -323,6 +519,135 @@
             "Обслуживание и юстировка оптической системы",
             "Диагностика и калибровка фракционного сканера CO₂",
             "Проверка охлаждения и рабочих параметров лазера CO₂"
+          ]
+        }
+      }
+    },
+    {
+      "id": "service:uslugi:serwis-laserow-nd-yag",
+      "equipment_category": "Nd:YAG",
+      "primary_url": "https://lasertechservice.pl/uslugi/serwis-laserow-nd-yag/",
+      "localizations": {
+        "pl": {
+          "name": "Serwis i naprawa laserów Nd:YAG",
+          "description": "Diagnostyka źródła Nd:YAG, optyki, energii impulsów oraz układów zasilania i chłodzenia. Zakres serwisu dobieramy do konstrukcji i dokumentacji konkretnego lasera.",
+          "url": "https://lasertechservice.pl/uslugi/serwis-laserow-nd-yag/",
+          "starting_price": {
+            "amount": 800,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "od 800 zł",
+            "conditions": [
+              "Dojazd specjalisty i koszty transportu są płatne osobno."
+            ],
+            "source_url": "https://lasertechservice.pl/uslugi/serwis-laserow-nd-yag/"
+          },
+          "available_work": [
+            "Diagnostyka źródła laserowego",
+            "Obsługa układu optycznego",
+            "Kontrola energii i kalibracja",
+            "Elektronika i chłodzenie"
+          ]
+        },
+        "ru": {
+          "name": "Сервис и ремонт лазеров ND:YAG",
+          "description": "Диагностика источника Nd:YAG, оптики, энергии импульсов, питания и охлаждения. Подбираем объём сервиса по конструкции и технической документации конкретного лазера.",
+          "url": "https://lasertechservice.pl/ru/uslugi/servis-lazerov-nd-yag/",
+          "starting_price": {
+            "amount": 800,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "от 800 zł",
+            "conditions": [
+              "Выезд специалиста и транспортные расходы оплачиваются отдельно."
+            ],
+            "source_url": "https://lasertechservice.pl/ru/uslugi/servis-lazerov-nd-yag/"
+          },
+          "available_work": [
+            "Диагностика лазерного источника",
+            "Обслуживание оптической системы",
+            "Контроль энергии и калибровка",
+            "Электроника и охлаждение"
+          ]
+        }
+      }
+    },
+    {
+      "id": "service:uslugi:serwis-laserow-pikosekundowych",
+      "equipment_category": "picosecond_laser",
+      "primary_url": "https://lasertechservice.pl/uslugi/serwis-laserow-pikosekundowych/",
+      "localizations": {
+        "pl": {
+          "name": "Serwis i naprawa laserów pikosekundowych",
+          "description": "Ocena źródła, toru optycznego i stabilności energii laserów pikosekundowych. Sprawdzamy także zasilanie i chłodzenie; możliwość naprawy źródła potwierdzamy przed ustaleniem zakresu.",
+          "url": "https://lasertechservice.pl/uslugi/serwis-laserow-pikosekundowych/",
+          "starting_price": {
+            "amount": 1200,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "od 1 200 zł",
+            "conditions": [
+              "Dojazd specjalisty i koszty transportu są płatne osobno."
+            ],
+            "source_url": "https://lasertechservice.pl/uslugi/serwis-laserow-pikosekundowych/"
+          },
+          "available_work": [
+            "Diagnostyka źródła",
+            "Obsługa toru optycznego",
+            "Energia impulsów i kalibracja",
+            "Naprawa elektroniki i chłodzenia"
+          ]
+        },
+        "ru": {
+          "name": "Сервис и ремонт пикосекундных лазеров",
+          "description": "Оценка источника, оптического тракта и стабильности энергии пикосекундных лазеров. Проверяем питание и охлаждение; возможность ремонта источника подтверждаем до согласования работ.",
+          "url": "https://lasertechservice.pl/ru/uslugi/servis-pikosekundnyh-lazerov/",
+          "starting_price": {
+            "amount": 1200,
+            "currency": "PLN",
+            "type": "starting_from",
+            "source_text": "от 1 200 zł",
+            "conditions": [
+              "Выезд специалиста и транспортные расходы оплачиваются отдельно."
+            ],
+            "source_url": "https://lasertechservice.pl/ru/uslugi/servis-pikosekundnyh-lazerov/"
+          },
+          "available_work": [
+            "Диагностика источника",
+            "Обслуживание оптического тракта",
+            "Энергия импульсов и калибровка",
+            "Ремонт электроники и охлаждения"
+          ]
+        }
+      }
+    },
+    {
+      "id": "service:uslugi:serwis-pogwarancyjny",
+      "equipment_category": "cosmetic_equipment",
+      "primary_url": "https://lasertechservice.pl/uslugi/serwis-pogwarancyjny/",
+      "localizations": {
+        "pl": {
+          "name": "Serwis pogwarancyjny urządzeń kosmetologicznych",
+          "description": "Wsparcie techniczne, diagnostyka, naprawa i profilaktyka po zakończeniu gwarancji producenta lub sprzedawcy. Koniec gwarancji nie oznacza konieczności zakupu nowego aparatu: oceniamy stan i możliwość ekonomicznie uzasadnionej naprawy.",
+          "url": "https://lasertechservice.pl/uslugi/serwis-pogwarancyjny/",
+          "starting_price": null,
+          "available_work": [
+            "Diagnostyka po zakończeniu gwarancji",
+            "Naprawa elektroniki i mechaniki",
+            "Wymiana niesprawnych części",
+            "Obsługa profilaktyczna"
+          ]
+        },
+        "ru": {
+          "name": "Послегарантийное обслуживание косметологического оборудования",
+          "description": "Техническая поддержка, диагностика, ремонт и профилактика после окончания гарантии производителя или продавца. Завершение гарантии не означает необходимость покупать новый аппарат: оцениваем состояние и экономическую целесообразность ремонта.",
+          "url": "https://lasertechservice.pl/ru/uslugi/poslegarantiynoe-obsluzhivanie/",
+          "starting_price": null,
+          "available_work": [
+            "Диагностика после окончания гарантии",
+            "Ремонт электроники и механики",
+            "Замена неисправных деталей",
+            "Профилактическое обслуживание"
           ]
         }
       }
@@ -2030,24 +2355,38 @@
       "https://lasertechservice.pl/ru/uslugi/": "https://lasertechservice.pl/ru/uslugi/index.md",
       "https://lasertechservice.pl/ru/uslugi/cennik/": "https://lasertechservice.pl/ru/uslugi/cennik/index.md",
       "https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/": "https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/index.md",
+      "https://lasertechservice.pl/ru/uslugi/poslegarantiynoe-obsluzhivanie/": "https://lasertechservice.pl/ru/uslugi/poslegarantiynoe-obsluzhivanie/index.md",
       "https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/": "https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/index.md",
+      "https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-lpg/": "https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-lpg/index.md",
       "https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/": "https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/index.md",
+      "https://lasertechservice.pl/ru/uslugi/remont-sensornyh-ekranov/": "https://lasertechservice.pl/ru/uslugi/remont-sensornyh-ekranov/index.md",
+      "https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/": "https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/index.md",
       "https://lasertechservice.pl/ru/uslugi/servis-ipl/": "https://lasertechservice.pl/ru/uslugi/servis-ipl/index.md",
       "https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/": "https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/index.md",
+      "https://lasertechservice.pl/ru/uslugi/servis-lazerov-nd-yag/": "https://lasertechservice.pl/ru/uslugi/servis-lazerov-nd-yag/index.md",
       "https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/": "https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/index.md",
+      "https://lasertechservice.pl/ru/uslugi/servis-pikosekundnyh-lazerov/": "https://lasertechservice.pl/ru/uslugi/servis-pikosekundnyh-lazerov/index.md",
+      "https://lasertechservice.pl/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/": "https://lasertechservice.pl/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/index.md",
       "https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/": "https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/index.md",
       "https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/": "https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/index.md",
       "https://lasertechservice.pl/uslugi/": "https://lasertechservice.pl/uslugi/index.md",
       "https://lasertechservice.pl/uslugi/cennik/": "https://lasertechservice.pl/uslugi/cennik/index.md",
       "https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/": "https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/index.md",
+      "https://lasertechservice.pl/uslugi/konserwacja-urzadzen-kosmetologicznych/": "https://lasertechservice.pl/uslugi/konserwacja-urzadzen-kosmetologicznych/index.md",
+      "https://lasertechservice.pl/uslugi/naprawa-ekranow-dotykowych/": "https://lasertechservice.pl/uslugi/naprawa-ekranow-dotykowych/index.md",
+      "https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/": "https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/index.md",
+      "https://lasertechservice.pl/uslugi/naprawa-urzadzen-lpg/": "https://lasertechservice.pl/uslugi/naprawa-urzadzen-lpg/index.md",
       "https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/": "https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/index.md",
       "https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/": "https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/index.md",
       "https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/": "https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/index.md",
       "https://lasertechservice.pl/uslugi/serwis-ipl/": "https://lasertechservice.pl/uslugi/serwis-ipl/index.md",
       "https://lasertechservice.pl/uslugi/serwis-laserow-co2/": "https://lasertechservice.pl/uslugi/serwis-laserow-co2/index.md",
+      "https://lasertechservice.pl/uslugi/serwis-laserow-nd-yag/": "https://lasertechservice.pl/uslugi/serwis-laserow-nd-yag/index.md",
+      "https://lasertechservice.pl/uslugi/serwis-laserow-pikosekundowych/": "https://lasertechservice.pl/uslugi/serwis-laserow-pikosekundowych/index.md",
+      "https://lasertechservice.pl/uslugi/serwis-pogwarancyjny/": "https://lasertechservice.pl/uslugi/serwis-pogwarancyjny/index.md",
       "https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/": "https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/index.md",
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-10-20T11:22:34Z"
+  "generated_at": "2026-10-20T11:52:07Z"
 }

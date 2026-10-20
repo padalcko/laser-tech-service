@@ -295,5 +295,107 @@
         }
       }
     ]
+  },
+  "cooling-service": {
+    "pages": {
+      "pl": "/uslugi/naprawa-ukladow-chlodzenia/",
+      "ru": "/ru/uslugi/remont-sistem-ohlazhdeniya/"
+    },
+    "cases": [
+      {
+        "pages": {
+          "pl": "/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/",
+          "ru": "/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/"
+        },
+        "image": {
+          "src": "/img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw.webp",
+          "srcset": "/img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw-480w.webp 480w, /img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw-768w.webp 768w, /img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw.webp 941w",
+          "width": "941",
+          "height": "1672"
+        },
+        "content": {
+          "pl": {
+            "title": "Wymiana wentylatorów chłodzenia — Wrocław",
+            "symptom": "Niewystarczające chłodzenie aparatu laserowego.",
+            "cause": "Niesprawne wentylatory i znaczne zabrudzenie wnętrza.",
+            "result": "Wymieniono wentylatory, usunięto kurz i sprawdzono przywrócone działanie chłodzenia."
+          },
+          "ru": {
+            "title": "Замена вентиляторов охлаждения — Вроцлав",
+            "symptom": "Недостаточное охлаждение лазерного аппарата.",
+            "cause": "Неисправные вентиляторы и значительное загрязнение внутри корпуса.",
+            "result": "Заменены вентиляторы, удалена пыль, проверена восстановленная работа охлаждения."
+          }
+        }
+      }
+    ]
+  },
+  "postwarranty-service": {
+    "pages": {
+      "pl": "/uslugi/serwis-pogwarancyjny/",
+      "ru": "/ru/uslugi/poslegarantiynoe-obsluzhivanie/"
+    },
+    "cases": [
+      {
+        "pages": {
+          "pl": "/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+          "ru": "/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/"
+        },
+        "image": {
+          "src": "/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp",
+          "srcset": "/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan-480w.webp 480w, /img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan-768w.webp 768w, /img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp 1122w",
+          "width": "1122",
+          "height": "1402"
+        },
+        "content": {
+          "pl": {
+            "title": "Wymiana modułu po zalaniu — Poznań",
+            "symptom": "Uszkodzony moduł diodowy po przedostaniu się cieczy.",
+            "cause": "Nieprawidłowo osadzona uszczelka spowodowała utratę szczelności i zalanie modułu.",
+            "result": "Wymieniono moduł i uszczelkę, przywracając prawidłowe uszczelnienie."
+          },
+          "ru": {
+            "title": "Замена модуля после залития — Познань",
+            "symptom": "Повреждение диодного модуля после попадания жидкости.",
+            "cause": "Неправильно установленное уплотнение привело к потере герметичности и залитию модуля.",
+            "result": "Заменены модуль и уплотнение, восстановлена герметичность узла."
+          }
+        }
+      }
+    ]
+  },
+  "ndyag-service": {
+    "pages": {
+      "pl": "/uslugi/serwis-laserow-nd-yag/",
+      "ru": "/ru/uslugi/servis-lazerov-nd-yag/"
+    },
+    "cases": [
+      {
+        "pages": {
+          "pl": "/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/",
+          "ru": "/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/"
+        },
+        "image": {
+          "src": "/img/realizacje/peltier-nd-yag/serwis-manipuly-nd-yag.webp",
+          "srcset": "/img/realizacje/peltier-nd-yag/serwis-manipuly-nd-yag-480w.webp 480w, /img/realizacje/peltier-nd-yag/serwis-manipuly-nd-yag-768w.webp 768w, /img/realizacje/peltier-nd-yag/serwis-manipuly-nd-yag.webp 1152w",
+          "width": "1152",
+          "height": "2048"
+        },
+        "content": {
+          "pl": {
+            "title": "Dwie usterki aparatu — Peltier i Nd:YAG",
+            "symptom": "Dwie niezależne usterki manipulatorów jednego aparatu.",
+            "cause": "Uszkodzony element Peltiera i element laserowy głowicy Nd:YAG.",
+            "result": "Wymieniono uszkodzone komponenty i przeprowadzono kalibrację Nd:YAG."
+          },
+          "ru": {
+            "title": "Две неисправности аппарата — Пельтье и Nd:YAG",
+            "symptom": "Две независимые неисправности манипул одного аппарата.",
+            "cause": "Неисправный элемент Пельтье и лазерный элемент манипулы Nd:YAG.",
+            "result": "Повреждённые компоненты заменены, выполнена калибровка Nd:YAG."
+          }
+        }
+      }
+    ]
   }
 }

@@ -74,10 +74,14 @@ def field(values, labels):
 
 def category(text):
     # Controlled equipment labels, only explicit terminology in the service heading.
-    for regex, name in [(r'\bRF\b', 'RF'), (r'kri|кри', 'cryotherapy'),
+    for regex, name in [(r'\bNd:YAG\b', 'Nd:YAG'), (r'pikosekund|пикосекунд', 'picosecond_laser'),
+                        (r'\bLPG\b', 'LPG'), (r'ekran|экран', 'control_panels'),
+                        (r'chłodzeni|охлаждени', 'cooling_systems'),
+                        (r'\bRF\b', 'RF'), (r'kri|кри', 'cryotherapy'),
                         (r'CO[₂2]', 'CO2'), (r'\bIPL\b', 'IPL'),
                         (r'diod|диод', 'diode_laser'), (r'elektronik|электроник', 'electronics'),
-                        (r'głowic|головок|манипул', 'handpieces')]:
+                        (r'głowic|головок|манипул', 'handpieces'),
+                        (r'kosmetologiczn|косметологическ', 'cosmetic_equipment')]:
         if re.search(regex, text, re.I):
             return name
     return None
