@@ -128,7 +128,6 @@ Sitemap: 130 URL. Створено 14 відповідних Markdown-сторі
 - `llms.txt`
 - `ru/uslugi/index.html`
 - `ru/uslugi/index.md`
-- `scripts/__pycache__/build-ai-catalog.cpython-313.pyc`
 - `scripts/build-ai-catalog.py`
 - `scripts/service-cases.json`
 - `sitemap.xml`
