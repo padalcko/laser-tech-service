@@ -3,10 +3,15 @@
 .lazar-root *, .lazar-root *::before, .lazar-root *::after { box-sizing: border-box; }
 .lazar-root [hidden] { display: none !important; }
 .lazar-social-hidden { display: none !important; }
-.lazar-launcher { position: fixed; right: max(18px, env(safe-area-inset-right)); bottom: max(28px, env(safe-area-inset-bottom)); z-index: 1500; display: flex; align-items: center; justify-content: center; width: 58px; height: 58px; padding: 4px; border: 1px solid var(--gold); border-radius: 50%; background: var(--black); color: var(--gold-light); cursor: pointer; box-shadow: 0 0 20px #cbb26a33; isolation: isolate; }
-.lazar-launcher .lazar-avatar { width: 48px; height: 48px; flex-basis: 48px; }
-.lazar-launcher::before, .lazar-launcher::after { content: ''; position: absolute; inset: -6px; z-index: -1; border: 1px solid var(--gold); border-radius: 50%; opacity: .3; pointer-events: none; }
-.lazar-launcher::after { inset: -12px; opacity: .15; }
+/* The emblem and its caption are one persistent, keyboard-accessible button. */
+.lazar-launcher { position: fixed; right: max(12px, env(safe-area-inset-right)); bottom: max(18px, env(safe-area-inset-bottom)); z-index: 1500; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; width: 152px; height: 105px; padding: 0; border: 0; border-radius: 12px; background: transparent; color: var(--gold-light); cursor: pointer; isolation: isolate; }
+.lazar-launcher-emblem { position: relative; z-index: 1; display: grid; place-items: center; flex: 0 0 72px; width: 72px; height: 72px; border: 1px solid var(--gold); border-radius: 50%; background: var(--black); box-shadow: 0 0 16px #cbb26a44, inset 0 0 8px #cbb26a22; }
+.lazar-launcher .lazar-avatar { width: 64px; height: 64px; }
+.lazar-launcher-emblem::before { content: ''; position: absolute; inset: -5px; border: 1px solid #cbb26a55; border-radius: 50%; box-shadow: 0 0 12px #cbb26a22; pointer-events: none; }
+.lazar-launcher-emblem::after { content: ''; position: absolute; top: 8px; right: 8px; width: 5px; height: 5px; border-radius: 50%; background: #fff4c2; box-shadow: 0 0 6px 2px #eadc9d, 0 0 14px 4px #cbb26a66; pointer-events: none; }
+.lazar-launcher-label { display: flex; align-items: center; justify-content: center; flex: 0 0 40px; width: 100%; margin-top: -7px; padding: 10px 5px 6px; border: 1px solid var(--gold); border-radius: 9px; background: var(--black); color: var(--gold-light); font-family: var(--font-main, 'Montserrat', sans-serif); font-size: 12px; font-weight: 800; line-height: 1.2; letter-spacing: .35px; text-align: center; white-space: nowrap; text-shadow: 0 0 8px #cbb26a44; box-shadow: 0 4px 14px #0003; }
+.lazar-launcher:hover .lazar-launcher-emblem, .lazar-launcher:focus-visible .lazar-launcher-emblem { box-shadow: 0 0 24px #cbb26a88, inset 0 0 10px #cbb26a33; }
+.lazar-launcher:hover .lazar-launcher-label { border-color: var(--gold-light); }
 .lazar-avatar { display: block; width: 38px; height: 38px; flex: 0 0 38px; }
 .lazar-panel { --lazar-panel-height: min(500px, calc(var(--lazar-vh, 100dvh) - 112px - env(safe-area-inset-top) - env(safe-area-inset-bottom))); position: fixed; z-index: 1600; right: max(12px, env(safe-area-inset-right)); top: calc(var(--lazar-top, 0px) + var(--lazar-vh, 100dvh) - var(--lazar-panel-height) - 94px - env(safe-area-inset-bottom)); width: min(360px, calc(100% - 24px - env(safe-area-inset-left) - env(safe-area-inset-right))); height: var(--lazar-panel-height); display: flex; flex-direction: column; min-height: 0; border: 1px solid var(--gold-dark); border-radius: 16px; overflow: hidden; background: var(--black-deep); box-shadow: 0 16px 48px #0006; }
 .lazar-header { display: flex; align-items: center; gap: 10px; padding: 8px 10px; background: var(--black); border-bottom: 1px solid var(--gold-dark); flex: 0 0 auto; }
@@ -36,7 +41,10 @@
 .lazar-root :focus-visible { outline: 2px solid var(--gold-light); outline-offset: 2px; }
 .lazar-input:focus-visible { outline-offset: -3px; }
 @media (min-width: 651px) {
- .lazar-launcher { right: max(32px, env(safe-area-inset-right)); bottom: max(38px, env(safe-area-inset-bottom)); }
+ .lazar-launcher { right: max(24px, env(safe-area-inset-right)); bottom: max(24px, env(safe-area-inset-bottom)); width: 184px; height: 127px; }
+ .lazar-launcher-emblem { flex-basis: 88px; width: 88px; height: 88px; }
+ .lazar-launcher .lazar-avatar { width: 80px; height: 80px; }
+ .lazar-launcher-label { flex-basis: 46px; font-size: 14px; letter-spacing: .5px; }
  .lazar-panel { right: max(24px, env(safe-area-inset-right)); }
 }
 @media (max-height: 480px) {
@@ -59,7 +67,9 @@
 .lazar-root--compact .lazar-contacts { padding-top: 4px; padding-bottom: 4px; }
 
 @media (prefers-reduced-motion: no-preference) {
- .lazar-launcher::before, .lazar-launcher::after { animation: lazar-pulse 2.8s linear infinite; }
- .lazar-launcher::after { animation-delay: 1.4s; }
- @keyframes lazar-pulse { 0% { transform: scale(.85); opacity: 0; } 30% { opacity: .5; } 100% { transform: scale(1.2); opacity: 0; } }
+ .lazar-launcher-emblem::before { animation: lazar-glow 5s ease-in-out infinite; }
+ .lazar-launcher-emblem, .lazar-launcher-label { transition: box-shadow .25s ease, border-color .25s ease; }
+ .lazar-panel:not([hidden]) { animation: lazar-open .22s ease-out; }
+ @keyframes lazar-glow { 0%, 100% { opacity: .45; } 50% { opacity: 1; box-shadow: 0 0 20px #cbb26a55; } }
+ @keyframes lazar-open { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
 }

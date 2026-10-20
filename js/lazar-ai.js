@@ -10,7 +10,7 @@
   const language = document.documentElement.lang.toLowerCase().startsWith('ru') ? 'ru' : 'pl';
   const translations = {
     pl: {
-      open: 'Zapytaj Lazara', close: 'Zamknij czat', status: 'Asystent techniczny AI',
+      open: 'ZAPYTAJ ŁAZARA', close: 'Zamknij czat', status: 'Asystent techniczny AI',
       greeting: 'Dzień dobry! Jestem Lazar, asystent techniczny AI Laser Tech Service. Opisz problem z urządzeniem, a pomogę Ci ustalić możliwe przyczyny i kolejne kroki.',
       placeholder: 'Opisz problem…', input: 'Wiadomość do Lazara', send: 'Wyślij', retry: 'Spróbuj ponownie',
       call: 'Zadzwoń', form: 'Wyślij zgłoszenie', log: 'Rozmowa z Lazarem', user: 'Ty', waiting: 'Lazar przygotowuje odpowiedź…',
@@ -25,7 +25,7 @@
       onlineForm: 'Formularz wymaga połączenia z internetem.',
     },
     ru: {
-      open: 'Спросить Лазаря', close: 'Закрыть чат', status: 'Технический AI-консультант',
+      open: 'СПРОСИТЬ ЛАЗАРЯ', close: 'Закрыть чат', status: 'Технический AI-консультант',
       greeting: 'Здравствуйте! Я Лазар, технический AI-консультант Laser Tech Service. Опишите проблему с оборудованием, и я помогу разобраться в возможных причинах и дальнейших действиях.',
       placeholder: 'Опишите проблему…', input: 'Сообщение Лазарю', send: 'Отправить', retry: 'Попробовать снова',
       call: 'Позвонить', form: 'Оставить заявку', log: 'Разговор с Лазарем', user: 'Вы', waiting: 'Лазар готовит ответ…',
@@ -60,7 +60,9 @@
   };
   const button = (className, text) => { const node = make('button', className, text); node.type = 'button'; return node; };
   const root = make('div', 'lazar-root'); root.id = 'lazar-root';
-  const launcher = button('lazar-launcher'); launcher.append(avatar()); launcher.title = t.open;
+  const launcher = button('lazar-launcher');
+  const emblem = make('span', 'lazar-launcher-emblem'); emblem.append(avatar());
+  launcher.append(emblem, make('span', 'lazar-launcher-label', t.open)); launcher.title = t.open;
   launcher.setAttribute('aria-label', t.open); launcher.setAttribute('aria-expanded', 'false'); launcher.setAttribute('aria-controls', 'lazar-panel');
   const panel = make('section', 'lazar-panel'); panel.id = 'lazar-panel'; panel.hidden = true;
   panel.setAttribute('role', 'dialog'); panel.setAttribute('aria-modal', 'false'); panel.setAttribute('aria-labelledby', 'lazar-title');

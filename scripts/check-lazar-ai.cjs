@@ -33,6 +33,18 @@ const results = [];
  for (const width of [320,375,390,430,768,1024,1440]) for (const language of ['pl','ru']) {
   const x = await context(width, language); const {p,c} = x;
   assert.equal(await p.locator('.lazar-panel').isVisible(), false);
+  const label = language === 'ru' ? 'СПРОСИТЬ ЛАЗАРЯ' : 'ZAPYTAJ ŁAZARA';
+  assert.equal(await p.locator('.lazar-launcher-label').innerText(), label);
+  assert.equal(await p.locator('.lazar-launcher').getAttribute('aria-label'), label);
+  const launcherGeometry = await p.locator('.lazar-launcher').evaluate(e => {
+   const r = e.getBoundingClientRect(), label = e.querySelector('.lazar-launcher-label');
+   return {inside: r.left >= 0 && r.right <= innerWidth && r.bottom <= innerHeight,
+    readable: label.scrollWidth <= label.clientWidth, animation: getComputedStyle(e.querySelector('.lazar-launcher-emblem'), '::before').animationName};
+  });
+  assert(launcherGeometry.inside && launcherGeometry.readable);
+  assert.equal(launcherGeometry.animation, 'none');
+  if ([390,1440].includes(width)) await p.locator('.lazar-launcher').screenshot({path:`${out}/launcher-${language}-${width}.png`});
+
   assert.equal(x.requests.length, 0);
   assert.equal(await p.locator('.menu').isVisible(),false);
   assert(await p.locator('menu > .trigger').count());
@@ -86,6 +98,23 @@ const results = [];
   const keyboard=await p.evaluate(()=>{const input=document.querySelector('.lazar-input').getBoundingClientRect(),close=document.querySelector('.lazar-close').getBoundingClientRect();return {inputBottom:input.bottom,closeTop:close.top,panel:document.querySelector('.lazar-panel').getBoundingClientRect().toJSON(),classes:document.querySelector('.lazar-root').className};});assert(keyboard.inputBottom<=340&&keyboard.closeTop>=0,JSON.stringify(keyboard));
   results.push({language,fallbacks:'500/502/503/network/timeout/invalid/empty/object/null/literal/offline/long/three-errors',retry:'manual, no duplicate rows/parallel fetch',analytics:'6 events, no PII',keyboardSimulation:'PASS'});
   assert.deepEqual(x.errors,[]);await c.close();
+ }
+ // The entire launcher remains visible on home, services and articles after scrolling and closing.
+ for (const language of ['pl','ru']) {
+  const x = await context(390,language); const {p,c} = x;
+  const routes = language === 'ru' ? ['/ru/', '/ru/uslugi/remont-oborudovaniya-rf/', '/ru/blog/5-priznakov-zameny-dioda-v-lazere/'] : ['/', '/uslugi/naprawa-urzadzen-rf/', '/blog/5-oznak-wymiany-diody-w-laserze/'];
+  for (const route of routes) for (const width of [320,375,390,430,768,1440]) {
+   await p.setViewportSize({width,height:900}); await p.goto(base+route);
+   await p.locator('.lazar-launcher-label').waitFor();
+   await p.evaluate(()=>scrollTo(0,document.body.scrollHeight));
+   const box = await p.locator('.lazar-launcher').boundingBox(); assert(box.x>=0 && box.x+box.width<=width && box.y+box.height<=900);
+   await p.locator('.lazar-launcher').focus(); await p.keyboard.press('Enter');
+   assert(await p.locator('.lazar-panel').isVisible()); await p.keyboard.press('Escape');
+   assert(await p.locator('.lazar-launcher-label').isVisible());
+  }
+  await p.waitForTimeout(6000); assert(await p.locator('.lazar-launcher-label').isVisible());
+  assert.equal(x.requests.length,0); await c.close();
+  results.push({language,persistentLauncher:'home/service/blog, six widths, scrolling, keyboard, delayed visibility'});
  }
  // Storage denial must not prevent greeting or requests.
  const x=await context();await x.p.addInitScript(()=>{Storage.prototype.getItem=()=>{throw Error('denied')};Storage.prototype.setItem=()=>{throw Error('denied')};});await x.p.reload();await x.p.locator('.lazar-launcher').click();await x.p.locator('.lazar-input').fill('TEST-private');await x.p.locator('.lazar-send').click();await x.p.waitForFunction(()=>document.querySelectorAll('.lazar-message').length===3);assert.equal(x.requests.length,1);await x.c.close();
