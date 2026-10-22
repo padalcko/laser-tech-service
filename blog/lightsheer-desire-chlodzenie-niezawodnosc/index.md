@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/), [English](https://lasertechservice.pl/en/blog/lightsheer-desire-cooling-reliability/)
 
 > LightSheer DESIRE, technologia HIT i ChillTip: jak chłodzenie, osady oraz uszczelnienia wpływają na niezawodność? Wnioski z naprawy w Oleśnicy.
 

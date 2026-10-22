@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/), [English](https://lasertechservice.pl/en/case-studies/hifu-kimed-k1-w1601-service-gorlitz/)
 
 > Обслуживание HIFU KIMED K1-W1601 в Гёрлице. Ремонт неработающей HIFU-манипулы, очистка водяного контура, профилактика и проверка работоспособности.
 

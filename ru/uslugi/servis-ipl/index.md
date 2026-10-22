@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/serwis-ipl/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/serwis-ipl/), [English](https://lasertechservice.pl/en/services/ipl-equipment-service/)
 
 > Сервис IPL от 800 zł: ксеноновые лампы, оптика и охлаждение. Диагностика бесплатна при ремонте или обслуживании; выезд и детали рассчитываются отдельно.
 

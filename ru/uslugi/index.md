@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/), [English](https://lasertechservice.pl/en/services/)
 
 > Профессиональный сервис лазерного и косметологического оборудования. Ремонт диодных лазеров, IPL, ND:YAG, CO2, RF, LPG и оборудования для криотерапии. Вроцлав и вся Польша.
 

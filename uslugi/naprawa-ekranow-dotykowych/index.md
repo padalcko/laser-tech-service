@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/remont-sensornyh-ekranov/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/remont-sensornyh-ekranov/), [English](https://lasertechservice.pl/en/services/touchscreen-control-panel-repair/)
 
 > Naprawa paneli sterujących urządzeń kosmetologicznych: diagnostyka dotyku, obrazu, zasilania i połączeń. Dobieramy kompatybilne elementy do konstrukcji konkretnego aparatu.
 

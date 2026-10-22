@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/), [English](https://lasertechservice.pl/en/case-studies/beauty-planet-vacuum-rf-repair-wroclaw/)
 
 > Naprawa Beauty Planet 3D Contour we Wrocławiu. Diagnostyka manipuły, brak zasilania, niesprawny vacuum i RF. Przywrócenie działania podciśnienia i radiofrekwencji.
 

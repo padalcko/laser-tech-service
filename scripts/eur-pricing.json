@@ -1,0 +1,14 @@
+{
+  "nbp": {
+    "source": "https://api.nbp.pl/api/exchangerates/rates/a/eur/?format=json",
+    "table": "A",
+    "code": "EUR",
+    "rate": "4.3685",
+    "effective_date": "2026-10-22",
+    "table_number": "206/A/NBP/2026"
+  },
+  "markup": "0.20",
+  "generated_date": "2026-10-22",
+  "rounding": "ROUND_CEILING whole EUR",
+  "travel_policy": "Round the per-kilometre tariff first, then multiply; user approved EUR 1/km and EUR 100 for 100 km."
+}

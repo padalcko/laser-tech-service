@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/), [English](https://lasertechservice.pl/en/case-studies/)
 
 > Zobacz realizacje serwisu laserów i urządzeń kosmetologicznych: naprawy, przeglądy, wymiana głowic i filtrów. Zdjęcia oraz filmy z wykonanych prac.
 

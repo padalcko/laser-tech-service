@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/), [English](https://lasertechservice.pl/en/case-studies/nd-yag-tattoo-removal-laser-filter-service/)
 
 > Диагностика и обслуживание лазера ML-ND YAG LASER A1 для удаления татуировок в Легнице. Очистка аппарата, профилактика системы охлаждения и замена фильтра.
 

@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/), [English](https://lasertechservice.pl/en/blog/diode-laser-handpiece-seals-optics/)
 
 > Негерметичная головка диодного лазера может привести к загрязнению оптики, снижению эффективности процедур и повреждению диодного модуля. Реальный случай ремонта.
 

@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/), [English](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
 
 > Diagnostyka aparatu i głowicy lasera diodowego od 600 zł. Pisemny wniosek techniczny. Bezpłatna przy zleceniu naprawy w Laser Tech Service; dojazd osobno.
 

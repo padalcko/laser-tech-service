@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/), [English](https://lasertechservice.pl/en/case-studies/hifu-kimed-k1-w1601-service-gorlitz/)
 
 > Serwis HIFU KIMED K1-W1601 w Görlitz. Naprawa niedziałającej głowicy HIFU, czyszczenie układu wodnego, konserwacja i test sprawności.
 

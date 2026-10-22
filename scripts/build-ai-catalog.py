@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from decimal import Decimal
 """Generate the custom AI catalog from sitemap-listed canonical HTML (stdlib only)."""
 import argparse
 import datetime as dt
@@ -74,14 +75,14 @@ def field(values, labels):
 
 def category(text):
     # Controlled equipment labels, only explicit terminology in the service heading.
-    for regex, name in [(r'\bNd:YAG\b', 'Nd:YAG'), (r'pikosekund|пикосекунд', 'picosecond_laser'),
-                        (r'\bLPG\b', 'LPG'), (r'ekran|экран', 'control_panels'),
-                        (r'chłodzeni|охлаждени', 'cooling_systems'),
-                        (r'\bRF\b', 'RF'), (r'kri|кри', 'cryotherapy'),
+    for regex, name in [(r'\bNd:YAG\b', 'Nd:YAG'), (r'pikosekund|пикосекунд|picosecond', 'picosecond_laser'),
+                        (r'\bLPG\b', 'LPG'), (r'ekran|экран|touchscreen|control panel', 'control_panels'),
+                        (r'chłodzeni|охлаждени|cooling', 'cooling_systems'),
+                        (r'\bRF\b', 'RF'), (r'kri|кри|cryo', 'cryotherapy'),
                         (r'CO[₂2]', 'CO2'), (r'\bIPL\b', 'IPL'),
-                        (r'diod|диод', 'diode_laser'), (r'elektronik|электроник', 'electronics'),
-                        (r'głowic|головок|манипул', 'handpieces'),
-                        (r'kosmetologiczn|косметологическ', 'cosmetic_equipment')]:
+                        (r'diod|диод', 'diode_laser'), (r'elektronik|электроник|electronics|power suppl', 'electronics'),
+                        (r'głowic|головок|манипул|handpiece', 'handpieces'),
+                        (r'kosmetologiczn|косметологическ|aesthetic|cosmetic', 'cosmetic_equipment')]:
         if re.search(regex, text, re.I):
             return name
     return None
@@ -91,13 +92,20 @@ def price(page):
     values = [n.text() for n in body_nodes(page) if n.has('service-price')]
     if len(values) != 1:
         return None
-    match = re.fullmatch(r'(?:od|от)\s+([\d\s]+(?:[.,]\d{1,2})?)\s*(?:zł|PLN)', values[0], re.I)
-    if not match:
-        return None
-    amount = float(re.sub(r'\s+', '', match[1]).replace(',', '.'))
+    currency = 'PLN'
+    match = re.fullmatch(r'(?:od|от|from)\s+([\d\s]+(?:[.,]\d{1,2})?)\s*(?:zł|PLN)', values[0], re.I)
+    if match:
+        amount = Decimal(re.sub(r'\s+', '', match[1]).replace(',', '.'))
+    else:
+        # British English uses the currency before the amount and commas for thousands.
+        match = re.fullmatch(r'from\s+(PLN|EUR)\s+(\d{1,3}(?:,\d{3})+|\d+)(?:\.(\d{1,2}))?', values[0], re.I)
+        if not match:
+            return None
+        currency = match[1]
+        amount = Decimal(match[2].replace(',', '') + ('.' + match[3] if match[3] else ''))
     # Preserve nearby qualifications: starting amount is not a complete repair quote.
     hero = next(n for n in body_nodes(page) if n.tag == 'header')
-    return {'amount': int(amount) if amount.is_integer() else amount, 'currency': 'PLN',
+    return {'amount': int(amount) if amount == amount.to_integral_value() else float(amount), 'currency': currency,
             'type': 'starting_from', 'source_text': values[0],
             'conditions': [n.text() for n in hero.all('p') if n.has('price-note')],
             'source_url': page['canonical']}
@@ -117,15 +125,15 @@ def build(pages):
             continue
         pair = {p['lang']: p}
         for lang, alt in p['alternates'].items():
-            if lang in ('pl', 'ru') and alt in service_pages and service_pages[alt]['lang'] == lang and service_pages[alt]['alternates'].get(p['lang']) == url:
+            if lang in p['languages'] and alt in service_pages and service_pages[alt]['lang'] == lang and service_pages[alt]['alternates'].get(p['lang']) == url:
                 pair[lang] = service_pages[alt]
         primary = pair.get('pl', p)['canonical']
         sid = identifier('service', primary)
-        record = {'id': sid, 'equipment_category': category(p['title']), 'primary_url': primary, 'localizations': {}}
+        record = {'id': sid, 'equipment_category': category(pair.get('pl', p)['title']), 'primary_url': primary, 'localizations': {}}
         for lang, peer in sorted(pair.items()):
             seen.add(peer['canonical']); service_ids[peer['canonical']] = sid
             service = schema(peer, {'Service'})
-            scope = next((n for n in body_nodes(peer) if n.tag == 'section' and any(x.tag == 'h2' and re.match(r'^(?:Co obejmuje|Zakres|Что входит)', x.text(), re.I) for x in n.all())), None)
+            scope = next((n for n in body_nodes(peer) if n.tag == 'section' and any(x.tag == 'h2' and re.match(r'^(?:Co obejmuje|Zakres|Что входит|What (?:is included|we do|does|do)|Service scope|CO₂ laser service scope)', x.text(), re.I) for x in n.all())), None)
             record['localizations'][lang] = {'name': peer['title'], 'description': service.get('description', peer['meta'].get('description', '')),
                 'url': peer['canonical'], 'starting_price': price(peer),
                 'available_work': [n.text() for n in scope.all('h3')] if scope else []}
@@ -150,19 +158,19 @@ def build(pages):
         else:
             info = facts(p)
             about = meta.get('about', {})
-            record.update(city=field(info, ['miasto', 'lokalizacja', 'город', 'место']),
-                          equipment_type=field(info, ['urządzenie', 'typ urządzenia', 'оборудование', 'тип оборудования']),
+            record.update(city=field(info, ['miasto', 'lokalizacja', 'город', 'место', 'city', 'location']),
+                          equipment_type=field(info, ['urządzenie', 'typ urządzenia', 'оборудование', 'тип оборудования', 'equipment', 'equipment type', 'device']),
                           equipment=about if about else None,
-                          fault=headings_content(p, r'^(?:Problem|Objaw|Usterka|Неисправност|Проблем|Симптом)'),
-                          performed_work=headings_content(p, r'^(?:Naprawa|Wykonane prace|Zakres (?:prac|naprawy)|Ремонт|Выполненные работы|Что (?:сделали|было сделано))'),
-                          result=headings_content(p, r'^(?:Rezultat|Efekt|Wynik|Результат|Итог)'))
+                          fault=headings_content(p, r'^(?:Problem|Objaw|Usterka|Неисправност|Проблем|Симптом|Fault|Symptom)'),
+                          performed_work=headings_content(p, r'^(?:Naprawa|Wykonane prace|Zakres (?:prac|naprawy)|Repair|Work performed|Ремонт|Выполненные работы|Что (?:сделали|было сделано))'),
+                          result=headings_content(p, r'^(?:Result|Outcome|Rezultat|Efekt|Wynik|Результат|Итог)'))
             if not record['fault']:
-                fault = field(info, ['problem', 'usterka', 'проблема', 'неисправность'])
+                fault = field(info, ['problem', 'usterka', 'проблема', 'неисправность', 'fault', 'symptom'])
                 record['fault'] = [fault] if fault else []
             cases.append(record)
     resources = {'sitemap': BASE + '/sitemap.xml', 'llms': BASE + '/llms.txt', 'llms_full': BASE + '/llms-full.txt',
                  'markdown': {p['canonical']: p['md'] for p in pages}}
-    return {'schema_version': '1.0', 'catalog_type': 'business_content_catalog', 'business': business, 'languages': ['pl', 'ru'],
+    return {'schema_version': '1.0', 'catalog_type': 'business_content_catalog', 'business': business, 'languages': [lang for lang in homepage['languages'] if any(p['lang'] == lang for p in pages)],
             'services': sorted(services, key=lambda x:x['id']), 'articles': sorted(articles, key=lambda x:x['id']),
             'case_studies': sorted(cases, key=lambda x:x['id']), 'resources': resources}
 

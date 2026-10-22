@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/), [English](https://lasertechservice.pl/en/blog/handpiece-connections-overheating-nd-yag-calibration/)
 
 > Dlaczego podłączenie głowic wpływa na chłodzenie? Moduł Peltiera, objawy przegrzewania i kalibracja Nd:YAG po wymianie elementu laserowego.
 

@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-lpg/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-lpg/), [English](https://lasertechservice.pl/en/services/lpg-endermology-equipment-repair/)
 
 > Diagnostyka mechanizmów rolkowych, podciśnienia i głowic urządzeń do endermologii. Ustalamy źródło hałasu, utraty podciśnienia lub problemów ze sterowaniem manipulatorem.
 

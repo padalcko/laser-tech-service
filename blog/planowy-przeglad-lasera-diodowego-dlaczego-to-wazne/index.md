@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/), [English](https://lasertechservice.pl/en/blog/scheduled-diode-laser-maintenance/)
 
 > Dlaczego warto wykonywać planowy przegląd lasera diodowego? Wyjaśniamy znaczenie czyszczenia, kontroli układu chłodzenia, filtra, wody i sprawdzenia urządzenia po serwisie.
 

@@ -1,13 +1,16 @@
 (() => {
   const gallery = document.querySelector('main');
   if (!gallery || typeof HTMLDialogElement === 'undefined') return;
-  const ru = document.documentElement.lang === 'ru';
+  // HTML lang is authoritative; normalize regional tags. Unknown/missing values use PL.
+  const locale = document.documentElement.lang.trim().toLowerCase().split('-')[0];
+  const language = ['pl', 'ru', 'en'].includes(locale) ? locale : 'pl';
+  const text = {pl: ['Podgląd zdjęcia', 'Zamknij ×'], ru: ['Просмотр фотографии', 'Закрыть ×'], en: ['Photo preview', 'Close ×']}[language];
   const dialog = document.createElement('dialog');
   dialog.className = 'case-photo-dialog';
-  dialog.setAttribute('aria-label', ru ? 'Просмотр фотографии' : 'Podgląd zdjęcia');
+  dialog.setAttribute('aria-label', text[0]);
   const close = document.createElement('button');
   close.type = 'button';
-  close.textContent = ru ? 'Закрыть ×' : 'Zamknij ×';
+  close.textContent = text[1];
   const image = document.createElement('img');
   const caption = document.createElement('p');
   dialog.append(close, image, caption);

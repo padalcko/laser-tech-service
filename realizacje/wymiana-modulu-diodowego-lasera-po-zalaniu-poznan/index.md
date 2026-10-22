@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/), [English](https://lasertechservice.pl/en/case-studies/flood-damaged-diode-module-replacement-poznan/)
 
 > Naprawa lasera w Poznaniu: wymiana zalanego modułu diodowego i prawidłowy montaż uszczelki. Zdjęcia uszkodzeń i przyczyna kosztownej awarii.
 

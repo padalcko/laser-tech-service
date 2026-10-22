@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/), [English](https://lasertechservice.pl/en/case-studies/urgent-co2-laser-repair-poznan/)
 
 > Pilny wyjazd do studia medycyny estetycznej w Poznaniu. Sprawny pedał, przerwany przewód manipuły: diagnostyka, wymiana przewodu i serwis lasera CO₂.
 

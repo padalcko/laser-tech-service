@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/partnerzy/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/partnerzy/), [English](https://lasertechservice.pl/en/partners/)
 
 > Партнёры Laser Tech Service — салоны, косметологические кабинеты и специалисты, чью работу и оборудование мы знаем и рекомендуем нашим клиентам.
 

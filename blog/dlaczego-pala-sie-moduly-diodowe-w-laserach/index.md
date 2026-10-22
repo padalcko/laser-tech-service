@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/), [English](https://lasertechservice.pl/en/blog/why-laser-diode-modules-fail/)
 
 > Dlaczego moduły diodowe w laserach do depilacji ulegają uszkodzeniu? Przyczyny, objawy, koszty awarii oraz znaczenie diagnostyki i regularnego serwisu.
 

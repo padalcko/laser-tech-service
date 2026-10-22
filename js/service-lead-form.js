@@ -3,7 +3,7 @@
    SERVICE LEAD FORM
    ---------------------------------------------------------
    Obsługa formularzy leadowych:
-   - PL / RU
+   - PL / RU / EN
    - walidacja
    - wysyłka do n8n
    - komunikaty success / error
@@ -37,6 +37,14 @@ document.addEventListener("DOMContentLoaded", () => {
   ======================================================= */
 
   const translations = {
+    en: {
+      sending: "Sending…", submit: "Send a service request",
+      success: "Thank you. We have received your service request and will contact you.",
+      error: "The form could not be sent. Please try again or contact us by phone.",
+      required: "Please fill in this field.", invalid: "Please enter a valid value.",
+      consentRequired: "Please agree to the processing of your data to send this request.",
+      consent: "I agree to the processing of my personal data by Laser Tech Service for the purpose of handling my service request.",
+    },
     pl: {
       sending: "Wysyłanie...",
       success:
@@ -57,13 +65,9 @@ document.addEventListener("DOMContentLoaded", () => {
      HELPERS
   ======================================================= */
 
-  const getLanguage = (form) => {
-    const languageInput = form.querySelector('input[name="language"]');
-
-    const language = languageInput?.value?.trim().toLowerCase();
-
-    return translations[language] ? language : "pl";
-  };
+  // HTML lang is authoritative; normalize regional tags. Unknown/missing values use PL.
+  const locale = document.documentElement.lang.trim().toLowerCase().split('-')[0];
+  const language = ['pl', 'ru', 'en'].includes(locale) ? locale : 'pl';
 
   const getFormValue = (formData, fieldName) => {
     const value = formData.get(fieldName);
@@ -142,11 +146,25 @@ document.addEventListener("DOMContentLoaded", () => {
       return;
     }
 
-    const language = getLanguage(form);
-
-    const text = translations[language] || translations.pl;
+    const text = translations[language];
 
     const message = createMessageElement(form);
+
+    if (language === 'en') {
+      submitButton.textContent = text.submit;
+      const consent = form.querySelector('.consent span');
+      if (consent) consent.textContent = text.consent;
+      form.addEventListener('invalid', event => {
+        const field = event.target;
+        field.setCustomValidity('');
+        field.setCustomValidity(field.validity.valueMissing
+          ? (field.name === 'consent' ? text.consentRequired : text.required) : text.invalid);
+      }, true);
+      for (const type of ['input', 'change']) form.addEventListener(type, event => {
+        if (typeof event.target.setCustomValidity === 'function') event.target.setCustomValidity('');
+      });
+      form.addEventListener('reset', () => form.querySelectorAll('input, textarea, select').forEach(field => field.setCustomValidity('')));
+    }
 
     const defaultButtonText = submitButton.textContent.trim();
 
@@ -197,7 +215,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         deviceName: getFormValue(formData, "deviceName"),
 
-        language: getFormValue(formData, "language") || language,
+        language,
 
         source: getFormValue(formData, "source") || "website",
 

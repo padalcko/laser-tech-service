@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/), [English](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
 
 > Ремонт головок и манипул лазерных аппаратов от 800 zł. Диоды, охлаждение, уплотнения. Диагностика бесплатно при заказе ремонта; выезд отдельно.
 

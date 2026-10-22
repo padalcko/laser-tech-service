@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/poslegarantiynoe-obsluzhivanie/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/poslegarantiynoe-obsluzhivanie/), [English](https://lasertechservice.pl/en/services/post-warranty-equipment-service/)
 
 > Wsparcie techniczne, diagnostyka, naprawa i profilaktyka po zakończeniu gwarancji producenta lub sprzedawcy. Koniec gwarancji nie oznacza konieczności zakupu nowego aparatu: oceniamy stan i możliwość ekonomicznie uzasadnionej naprawy.
 

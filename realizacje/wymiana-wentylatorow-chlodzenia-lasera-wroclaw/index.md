@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/), [English](https://lasertechservice.pl/en/case-studies/laser-cooling-fan-replacement-wroclaw/)
 
 > Serwis aparatu laserowego we Wrocławiu: diagnostyka niesprawnych wentylatorów, wymiana, usunięcie kurzu i przywrócenie działania chłodzenia.
 

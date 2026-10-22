@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/kontakt/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/kontakt/), [English](https://lasertechservice.pl/en/contact/)
 
 > Skontaktuj się z Laser Tech Service. Serwis urządzeń laserowych i kosmetologicznych we Wrocławiu. Telefon, WhatsApp, e-mail i adres serwisu.
 

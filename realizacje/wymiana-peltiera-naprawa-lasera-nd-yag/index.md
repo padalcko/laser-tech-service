@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/), [English](https://lasertechservice.pl/en/case-studies/peltier-replacement-nd-yag-laser-repair/)
 
 > Dwie niezależne usterki jednego aparatu: wymiana modułu Peltiera, naprawa głowicy Nd:YAG i kalibracja. Przebieg prac Laser Tech Service.
 

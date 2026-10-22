@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/), [English](https://lasertechservice.pl/en/services/power-supply-electronics-repair/)
 
 > Diagnostyka, naprawa i wymiana zasilaczy oraz naprawa połączeń elektrycznych laserów. Od 600 zł. Diagnostyka bezpłatna przy naprawie; dojazd i części osobno.
 

@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/), [English](https://lasertechservice.pl/en/blog/damaged-handpiece-cable/)
 
 > Jak uszkodzony przewód lub złącze wpływa na pracę manipuły? Objawy, przyczyny, pielęgnacja kabla i przykład naprawy aparatu RSL w Warszawie.
 

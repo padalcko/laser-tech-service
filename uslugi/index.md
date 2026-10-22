@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/), [English](https://lasertechservice.pl/en/services/)
 
 > Profesjonalny serwis urządzeń laserowych i kosmetologicznych. Naprawa laserów diodowych, IPL, ND:YAG, CO2, urządzeń RF, LPG i krioterapii. Wrocław i cała Polska.
 

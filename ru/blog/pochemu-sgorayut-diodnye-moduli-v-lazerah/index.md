@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/), [English](https://lasertechservice.pl/en/blog/why-laser-diode-modules-fail/)
 
 > Почему выходят из строя диодные модули в лазерах для эпиляции? Причины, симптомы, последствия, стоимость простоя и роль своевременной диагностики.
 

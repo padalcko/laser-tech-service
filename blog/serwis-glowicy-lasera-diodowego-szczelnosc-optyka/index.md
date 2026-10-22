@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/), [English](https://lasertechservice.pl/en/blog/diode-laser-handpiece-seals-optics/)
 
 > Nieszczelna głowica lasera może powodować zabrudzenie optyki, spadek skuteczności zabiegów i ryzyko uszkodzenia modułu diodowego. Zobacz rzeczywisty przypadek serwisowy.
 

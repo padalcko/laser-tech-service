@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/), [English](https://lasertechservice.pl/en/blog/laser-cooling-system-cleaning-overheating/)
 
 > Как пыль мешает охлаждению лазера? Причины поломок, подбор вентиляторов по расходу и давлению, признаки перегрева и правила технического обслуживания.
 

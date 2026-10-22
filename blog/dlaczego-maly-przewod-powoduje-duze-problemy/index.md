@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/pochemu-malenkiy-kabel-sozdayot-bolshie-problemy/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/pochemu-malenkiy-kabel-sozdayot-bolshie-problemy/), [English](https://lasertechservice.pl/en/blog/why-a-small-cable-causes-big-problems/)
 
 > Aparat się włącza, ale manipuła nie działa? Wyjaśniamy, jak wewnętrzne uszkodzenie przewodu zatrzymuje funkcję urządzenia, na przykładzie Beauty Planet 3D Contour.
 

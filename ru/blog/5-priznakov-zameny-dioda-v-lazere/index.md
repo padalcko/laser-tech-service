@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/), [English](https://lasertechservice.pl/en/blog/five-signs-laser-diode-needs-inspection/)
 
 > 5 признаков, которые могут указывать на износ или неисправность диода в лазере для эпиляции. Когда нужна диагностика и когда действительно требуется замена диода.
 

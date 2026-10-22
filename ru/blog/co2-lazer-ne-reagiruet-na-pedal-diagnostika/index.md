@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/), [English](https://lasertechservice.pl/en/blog/co2-laser-not-responding-to-foot-pedal/)
 
 > Почему исправная педаль может казаться сломанной? Разбираем поиск обрыва провода манипулы на примере срочного ремонта CO₂-аппарата в Познани.
 

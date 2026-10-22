@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/), [English](https://lasertechservice.pl/en/)
 
 > Profesjonalny serwis i naprawa laserów kosmetycznych, medycznych oraz CO2 w Polsce. Szybka diagnostyka i usuwanie awarii. Sprawdź naszą ofertę!
 

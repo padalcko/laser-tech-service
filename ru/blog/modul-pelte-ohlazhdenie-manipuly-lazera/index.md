@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/), [English](https://lasertechservice.pl/en/blog/peltier-module-laser-handpiece-cooling/)
 
 > Как работает модуль Пельтье в лазерной манипуле: симптомы неисправностей, роль термопасты, отвод тепла и диагностика перед заменой TEC.
 

@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/), [English](https://lasertechservice.pl/en/blog/how-to-buy-a-used-hair-removal-laser/)
 
 > Покупаете б/у лазер в Польше? Узнайте, как проверить диод, охлаждение и историю ремонта, сравнить расходы и заказать диагностику в Laser Tech Service.
 

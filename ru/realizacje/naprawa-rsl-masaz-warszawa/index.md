@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/), [English](https://lasertechservice.pl/en/case-studies/rsl-massage-device-repair-warsaw/)
 
 > Срочный ремонт аппарата для RSL-массажа в Варшаве: ремонт кабеля манипулы, замена разъёма и восстановление соединения. Laser Tech Service.
 

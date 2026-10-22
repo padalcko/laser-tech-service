@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/), [English](https://lasertechservice.pl/en/blog/professional-aesthetic-equipment-service/)
 
 > Dlaczego profesjonalny serwis urządzeń kosmetycznych ma znaczenie? Gwarancja, szybki dojazd, dokumentacja napraw, historia serwisowa i większa wartość urządzenia.
 

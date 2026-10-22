@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/serwis-gme-exsys-308/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/serwis-gme-exsys-308/), [English](https://lasertechservice.pl/en/case-studies/gme-exsys-308-service-inspection/)
 
 > Сервисная проверка GME ExSys 308 в Laser Tech Service: аппарат, манипула и видео теста. Как устроена система EPL с эксимерной лампой UVB 308 нм.
 

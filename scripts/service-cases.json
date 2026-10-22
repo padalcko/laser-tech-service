@@ -28,6 +28,12 @@
             "symptom": "Повреждение диодного модуля после попадания жидкости.",
             "cause": "Неправильно установленное уплотнение привело к потере герметичности и залитию модуля.",
             "result": "Заменены модуль и уплотнение, восстановлена герметичность узла."
+          },
+          "en": {
+            "title": "Module replacement after liquid ingress — Poznań",
+            "symptom": "A damaged laser diode module following liquid ingress.",
+            "cause": "An incorrectly seated seal caused a loss of watertightness and liquid ingress into the module.",
+            "result": "The module and seal were replaced, restoring the assembly's seal."
           }
         }
       },
@@ -53,6 +59,12 @@
             "symptom": "Негерметичная головка и загрязнения внутри манипулы.",
             "cause": "Нарушение герметичности корпуса позволило пыли проникнуть внутрь, в том числе в область оптики.",
             "result": "Очищены внутренние элементы и оптика, восстановлена герметичность головки."
+          },
+          "en": {
+            "title": "Diode laser handpiece service — Poznań",
+            "symptom": "A leaking handpiece with contamination inside.",
+            "cause": "Loss of housing integrity allowed dust to enter, including the optical area.",
+            "result": "The interior and optics were cleaned and the handpiece was resealed."
           }
         }
       },
@@ -79,10 +91,19 @@
             "symptom": "Недостаточное охлаждение лазерного аппарата.",
             "cause": "Неисправные вентиляторы и значительное загрязнение внутри корпуса.",
             "result": "Заменены вентиляторы, удалена пыль, проверена восстановленная работа охлаждения."
+          },
+          "en": {
+            "title": "Cooling fan replacement — Wrocław",
+            "symptom": "Insufficient cooling of a laser device.",
+            "cause": "Faulty fans and substantial dust inside the device.",
+            "result": "The fans were replaced, dust removed and restored cooling operation checked."
           }
         }
       }
-    ]
+    ],
+    "case_language_fallbacks": {
+      "en": "pl"
+    }
   },
   "laser-handpiece-regeneration": {
     "pages": {
@@ -113,6 +134,12 @@
             "symptom": "Повреждение диодного модуля после попадания жидкости.",
             "cause": "Неправильно установленное уплотнение привело к потере герметичности и залитию модуля.",
             "result": "Заменены модуль и уплотнение, восстановлена герметичность узла."
+          },
+          "en": {
+            "title": "Module replacement after liquid ingress — Poznań",
+            "symptom": "A damaged laser diode module following liquid ingress.",
+            "cause": "An incorrectly seated seal caused a loss of watertightness and liquid ingress into the module.",
+            "result": "The module and seal were replaced, restoring the assembly's seal."
           }
         }
       },
@@ -138,6 +165,12 @@
             "symptom": "Негерметичная головка и загрязнения внутри манипулы.",
             "cause": "Нарушение герметичности корпуса позволило пыли проникнуть внутрь, в том числе в область оптики.",
             "result": "Очищены внутренние элементы и оптика, восстановлена герметичность головки."
+          },
+          "en": {
+            "title": "Diode laser handpiece service — Poznań",
+            "symptom": "A leaking handpiece with contamination inside.",
+            "cause": "Loss of housing integrity allowed dust to enter, including the optical area.",
+            "result": "The interior and optics were cleaned and the handpiece was resealed."
           }
         }
       },
@@ -164,10 +197,19 @@
             "symptom": "Рабочая поверхность головки не охлаждалась должным образом.",
             "cause": "Диагностика выявила неисправность модуля Пельтье.",
             "result": "Заменён модуль, обновлён термоинтерфейс и проверено восстановленное охлаждение."
+          },
+          "en": {
+            "title": "ESTETECH cooling repair — Poznań",
+            "symptom": "The handpiece surface was not cooling correctly.",
+            "cause": "Diagnostics identified a faulty Peltier module.",
+            "result": "The module was replaced, the thermal interface renewed and restored cooling checked."
           }
         }
       }
-    ]
+    ],
+    "case_language_fallbacks": {
+      "en": "pl"
+    }
   },
   "power-supply-electronics-repair": {
     "pages": {
@@ -197,6 +239,12 @@
             "symptom": "Проблема питания аппарата, требовавшая диагностики.",
             "cause": "Диагностика указала на блок питания; перечень неисправных компонентов не приводится.",
             "result": "Отремонтирована электроника блока, выполнены обратный монтаж, запуск и проверка аппарата."
+          },
+          "en": {
+            "title": "3000 NAIN — power supply unit repair",
+            "symptom": "A device power problem requiring diagnostics.",
+            "cause": "Diagnostics identified the power supply unit; no list of faulty components was provided.",
+            "result": "The unit's electronics were repaired, the unit refitted and the device started and checked."
           }
         }
       },
@@ -223,10 +271,19 @@
             "symptom": "Повреждённое соединение манипулы с косметологическим аппаратом.",
             "cause": "Повреждение провода и разъёма манипулы.",
             "result": "Отремонтирован кабель и заменён разъём, восстановлено исправное соединение."
+          },
+          "en": {
+            "title": "RSL — cable repair and connector replacement",
+            "symptom": "A damaged connection between the handpiece and aesthetic device.",
+            "cause": "Damage to the handpiece cable and connector.",
+            "result": "The cable was repaired and the connector replaced, restoring a working connection."
           }
         }
       }
-    ]
+    ],
+    "case_language_fallbacks": {
+      "en": "pl"
+    }
   },
   "co2-laser-service": {
     "pages": {
@@ -257,10 +314,19 @@
             "symptom": "Аппарат неправильно реагировал на нажатие педали.",
             "cause": "Внутренний обрыв провода манипулы; педаль была исправна.",
             "result": "Повреждённый провод заменён, восстановленная реакция на управление проверена."
+          },
+          "en": {
+            "title": "CO₂ in Poznań — handpiece cable diagnostics",
+            "symptom": "The device did not respond correctly when the pedal was pressed.",
+            "cause": "An internal break in the handpiece cable; the pedal was functioning correctly.",
+            "result": "The damaged cable was replaced and restored control response checked."
           }
         }
       }
-    ]
+    ],
+    "case_language_fallbacks": {
+      "en": "pl"
+    }
   },
   "laser-diode-service": {
     "pages": {
@@ -291,10 +357,19 @@
             "symptom": "Повреждение диодного модуля после попадания жидкости.",
             "cause": "Неправильно установленное уплотнение привело к потере герметичности и залитию модуля.",
             "result": "Заменены модуль и уплотнение, восстановлена герметичность узла."
+          },
+          "en": {
+            "title": "Module replacement after liquid ingress — Poznań",
+            "symptom": "A damaged laser diode module following liquid ingress.",
+            "cause": "An incorrectly seated seal caused a loss of watertightness and liquid ingress into the module.",
+            "result": "The module and seal were replaced, restoring the assembly's seal."
           }
         }
       }
-    ]
+    ],
+    "case_language_fallbacks": {
+      "en": "pl"
+    }
   },
   "cooling-service": {
     "pages": {
@@ -325,10 +400,19 @@
             "symptom": "Недостаточное охлаждение лазерного аппарата.",
             "cause": "Неисправные вентиляторы и значительное загрязнение внутри корпуса.",
             "result": "Заменены вентиляторы, удалена пыль, проверена восстановленная работа охлаждения."
+          },
+          "en": {
+            "title": "Cooling fan replacement — Wrocław",
+            "symptom": "Insufficient cooling of a laser device.",
+            "cause": "Faulty fans and substantial dust inside the device.",
+            "result": "The fans were replaced, dust removed and restored cooling operation checked."
           }
         }
       }
-    ]
+    ],
+    "case_language_fallbacks": {
+      "en": "pl"
+    }
   },
   "postwarranty-service": {
     "pages": {
@@ -359,10 +443,19 @@
             "symptom": "Повреждение диодного модуля после попадания жидкости.",
             "cause": "Неправильно установленное уплотнение привело к потере герметичности и залитию модуля.",
             "result": "Заменены модуль и уплотнение, восстановлена герметичность узла."
+          },
+          "en": {
+            "title": "Module replacement after liquid ingress — Poznań",
+            "symptom": "A damaged laser diode module following liquid ingress.",
+            "cause": "An incorrectly seated seal caused a loss of watertightness and liquid ingress into the module.",
+            "result": "The module and seal were replaced, restoring the assembly's seal."
           }
         }
       }
-    ]
+    ],
+    "case_language_fallbacks": {
+      "en": "pl"
+    }
   },
   "ndyag-service": {
     "pages": {
@@ -393,9 +486,18 @@
             "symptom": "Две независимые неисправности манипул одного аппарата.",
             "cause": "Неисправный элемент Пельтье и лазерный элемент манипулы Nd:YAG.",
             "result": "Повреждённые компоненты заменены, выполнена калибровка Nd:YAG."
+          },
+          "en": {
+            "title": "Two faults in one device — Peltier and Nd:YAG",
+            "symptom": "Two independent handpiece faults in one device.",
+            "cause": "A damaged Peltier element and Nd:YAG handpiece laser element.",
+            "result": "The damaged components were replaced and the Nd:YAG laser calibrated."
           }
         }
       }
-    ]
+    ],
+    "case_language_fallbacks": {
+      "en": "pl"
+    }
   }
 }

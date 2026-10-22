@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/cennik/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/cennik/), [English](https://lasertechservice.pl/en/pricing/)
 
 > Sprawdź ceny diagnostyki, naprawy i konserwacji laserów oraz urządzeń kosmetologicznych. Serwis we Wrocławiu i dojazd do klientów w całej Polsce.
 

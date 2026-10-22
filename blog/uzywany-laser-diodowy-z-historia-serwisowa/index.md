@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/), [English](https://lasertechservice.pl/en/blog/used-diode-laser-service-history/)
 
 > Kupujesz używany laser diodowy? Sprawdź, dlaczego historia serwisowa, dokumentacja urządzenia i późniejsze wsparcie techniczne są ważniejsze niż sama niska cena.
 

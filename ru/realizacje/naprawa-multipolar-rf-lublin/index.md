@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/), [English](https://lasertechservice.pl/en/case-studies/multipolar-rf-repair-lublin/)
 
 > Ремонт Multipolar RF в Люблине. Устранение слабого вакуума, ремонт насоса и повреждённого RF-разъёма.
 

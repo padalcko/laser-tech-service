@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/), [English](https://lasertechservice.pl/en/case-studies/laser-cooling-fan-replacement-wroclaw/)
 
 > Ремонт лазерного аппарата во Вроцлаве: диагностика неисправных вентиляторов, замена, очистка от пыли и восстановление работы системы охлаждения.
 

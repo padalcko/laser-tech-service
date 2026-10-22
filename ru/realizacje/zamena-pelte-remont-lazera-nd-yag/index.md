@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/), [English](https://lasertechservice.pl/en/case-studies/peltier-replacement-nd-yag-laser-repair/)
 
 > Две независимые неисправности одного аппарата: замена элемента Пельтье, ремонт манипулы ND:YAG и калибровка. Работы Laser Tech Service.
 

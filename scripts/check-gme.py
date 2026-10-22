@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Pre-commit GME audit against HEAD; run from repo root with Pillow installed."""
+from site_locales import expected_alternates
 from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import urlsplit,unquote
@@ -43,7 +44,7 @@ for p,parser in parsers.items():
  alternates={a.get('hreflang'):a.get('href') for t,a in tags if t=='link' and a.get('rel')=='alternate' and a.get('hreflang')}
  if rel!='404.html':
   if [a.get('href') for t,a in tags if t=='link' and a.get('rel')=='canonical']!=[own]:issues['canonical'].append(rel)
-  if alternates.get('ru' if rel.startswith('ru/') else 'pl')!=own or alternates.get('x-default')!=alternates.get('pl'):issues['hreflang'].append(rel)
+  if alternates!=expected_alternates(own):issues['hreflang'].append(rel)
   for lang,u in alternates.items():
    q=resolve(u,p)
    if not q or q[0] not in parsers:issues['hreflang'].append((rel,u));continue
@@ -102,7 +103,7 @@ for p,parser in parsers.items():
   iframes=[a for t,a in tags if t=='iframe' and 'youtube' in a.get('src','')];assert len(iframes)==1 and iframes[0]['title'] and iframes[0]['loading']=='lazy'
   assert meta['og:title']==meta['twitter:title']==title and meta['og:description']==meta['twitter:description']==meta['description'] and meta['og:url']==own
   assert len(parser.ids)==len(set(parser.ids))
-  assert {a['hreflang']:B+a['href'] for t,a in tags if t=='a' and 'language-switcher__link' in a.get('class','')}=={k:alternates[k] for k in ['pl','ru']}
+  assert {a['hreflang']:B+a['href'] for t,a in tags if t=='a' and 'language-switcher__link' in a.get('class','')}=={k:v for k,v in alternates.items() if k != 'x-default'}
   template=R/('ru/' if lang=='ru' else '')/'realizacje/przeglad-serwis-pharaon-1470-wroclaw/index.html';old=template.read_text()
   for pattern in [r'<footer class="footer">.*?</footer>',r'<nav class="nav".*?</nav>',r'<div class="menu">.*?</menu>']:
    x=re.search(pattern,text,re.S)[0];y=re.search(pattern,old,re.S)[0].replace('przeglad-serwis-pharaon-1470-wroclaw',slug);assert x==y,(rel,pattern)

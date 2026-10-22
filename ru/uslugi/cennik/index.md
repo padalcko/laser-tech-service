@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/cennik/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/cennik/), [English](https://lasertechservice.pl/en/pricing/)
 
 > Прайс-лист на диагностику, ремонт и техническое обслуживание лазеров и косметологического оборудования. Сервис во Вроцлаве и выезд по Польше.
 

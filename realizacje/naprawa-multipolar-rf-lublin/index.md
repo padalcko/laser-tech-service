@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/naprawa-multipolar-rf-lublin/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/naprawa-multipolar-rf-lublin/), [English](https://lasertechservice.pl/en/case-studies/multipolar-rf-repair-lublin/)
 
 > Naprawa urządzenia Multipolar RF w Lublinie. Usunięcie problemu ze słabym podciśnieniem, naprawa pompy oraz uszkodzonego złącza RF.
 

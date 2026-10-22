@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/), [English](https://lasertechservice.pl/en/services/cryotherapy-cryolipolysis-equipment-service/)
 
 > Диагностика охлаждения, вакуумных систем, аппликаторов и электроники оборудования для криотерапии и криолиполиза. Объём ремонта определяем по конструкции аппарата.
 

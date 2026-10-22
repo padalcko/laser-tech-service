@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/beauty-planet-3d-contour-mozliwosci-serwis/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/beauty-planet-3d-contour-mozliwosci-serwis/), [English](https://lasertechservice.pl/en/blog/beauty-planet-3d-contour-features-service/)
 
 > Beauty Planet 3D Contour — что умеет аппарат 5 в 1, какие технологии объединяет, чем полезен для салона и что делать при неисправности vacuum или RF.
 

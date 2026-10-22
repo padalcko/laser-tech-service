@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/), [English](https://lasertechservice.pl/en/services/laser-cooling-system-repair/)
 
 > Diagnostyka pomp, przepływu i szczelności układów chłodzenia laserów. Usuwamy przyczyny przegrzewania, naprawiamy połączenia i sprawdzamy działanie chłodzenia po wykonanych pracach.
 

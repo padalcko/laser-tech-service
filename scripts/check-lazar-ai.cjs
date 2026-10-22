@@ -7,6 +7,15 @@ const base = process.env.LAZAR_TEST_BASE || 'http://127.0.0.1:8788';
 const out = process.env.LAZAR_TEST_OUT || '/tmp/lts-lazar';
 fs.mkdirSync(out, { recursive: true });
 const results = [];
+const registry = JSON.parse(fs.readFileSync(require('path').join(__dirname, 'site-locales.json'), 'utf8'));
+const home = registry.pages.find(p => p.type === 'home');
+const languages = Object.keys(home.routes).filter(lang => home.routes[lang].status === 'published');
+function routeFor(type, language) {
+ const page = registry.pages.find(p => p.type === type && p.routes[language]?.status === 'published');
+ assert(page, `Missing published ${type} route for ${language}`);
+ return page.routes[language].url;
+}
+const launcherLabels = {pl: 'ZAPYTAJ ŁAZARA', ru: 'СПРОСИТЬ ЛАЗАРЯ', en: 'ASK LAZAR'};
 (async () => {
  const browser = await chromium.launch({ headless: true, executablePath: process.env.CHROME_PATH || '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' });
  async function context(width = 390, language = 'pl', timeout = false) {
@@ -23,17 +32,21 @@ const results = [];
     return r.fulfill({ status: 200, contentType: 'application/json', body });
    }
    if (timeout && u === base + '/js/lazar-ai.js') return r.fulfill({ contentType: 'application/javascript', body: fs.readFileSync('js/lazar-ai.js','utf8').replace('timeoutMs: 28000', 'timeoutMs: 250') });
+   if (language === 'en' && u.startsWith(base + '/') && r.request().resourceType() === 'document') {
+    const response = await r.fetch();
+    return r.fulfill({response, body: (await response.text()).replace('data-lazar-enabled="false"', 'data-lazar-enabled="true"')});
+   }
    return u.startsWith(base) ? r.continue() : r.abort();
   });
   const p = await c.newPage(); const errors = []; p.on('pageerror', e => errors.push(e.message));
-  await p.goto(base + (language === 'ru' ? '/ru/' : '/'));
+  await p.goto(base + routeFor('home', language));
   await p.locator('.lazar-launcher').waitFor();
   return { c, p, requests, errors, mode: value => mode = value };
  }
- for (const width of [320,375,390,430,768,1024,1440]) for (const language of ['pl','ru']) {
+ for (const width of [320,375,390,430,768,1024,1440]) for (const language of languages) {
   const x = await context(width, language); const {p,c} = x;
   assert.equal(await p.locator('.lazar-panel').isVisible(), false);
-  const label = language === 'ru' ? 'СПРОСИТЬ ЛАЗАРЯ' : 'ZAPYTAJ ŁAZARA';
+  const label = launcherLabels[language];
   assert.equal(await p.locator('.lazar-launcher-label').innerText(), label);
   assert.equal(await p.locator('.lazar-launcher').getAttribute('aria-label'), label);
   const launcherGeometry = await p.locator('.lazar-launcher').evaluate(e => {
@@ -55,7 +68,7 @@ const results = [];
   await p.locator('.lazar-header img').evaluate(e=>e.decode());
   const geometry=await p.evaluate(()=>{const a=document.querySelector('.lazar-panel').getBoundingClientRect();return {left:a.left,right:a.right,bottom:a.bottom,width:innerWidth,height:innerHeight,overflow:document.documentElement.scrollWidth>innerWidth};});
   assert(geometry.left>=0 && geometry.right<=width && geometry.bottom<=900 && !geometry.overflow);
-  assert.equal(await p.locator('.lazar-contacts a').nth(1).getAttribute('href'),(language==='ru'?'/ru':'')+'/kontakt/#contactid');
+  assert.equal(await p.locator('.lazar-contacts a').nth(1).getAttribute('href'),routeFor('contact', language)+(language === 'en' ? '' : '#contactid'));
   await p.keyboard.press('Escape'); assert.equal(await p.locator('.lazar-panel').isVisible(),false);
   assert(await p.locator('.lazar-launcher').evaluate(e=>e===document.activeElement));
   await p.locator('.lazar-launcher').click(); assert.equal(await p.locator('.lazar-message').count(),1);
@@ -63,7 +76,7 @@ const results = [];
   await p.locator('.lazar-close').click(); assert.equal(await p.locator('.lazar-panel').isVisible(),false);
   assert.deepEqual(x.errors,[]); results.push({language,width,layout:'PASS'}); await c.close();
  }
- for (const language of ['pl','ru']) {
+ for (const language of languages) {
   const x=await context(390,language,true);const {p,c}=x;
   await p.locator('.lazar-launcher').click();
   await p.locator('.lazar-input').fill('x'.repeat(2001));await p.locator('.lazar-send').click();assert.equal(x.requests.length,0);
@@ -100,9 +113,9 @@ const results = [];
   assert.deepEqual(x.errors,[]);await c.close();
  }
  // The entire launcher remains visible on home, services and articles after scrolling and closing.
- for (const language of ['pl','ru']) {
+ for (const language of languages) {
   const x = await context(390,language); const {p,c} = x;
-  const routes = language === 'ru' ? ['/ru/', '/ru/uslugi/remont-oborudovaniya-rf/', '/ru/blog/5-priznakov-zameny-dioda-v-lazere/'] : ['/', '/uslugi/naprawa-urzadzen-rf/', '/blog/5-oznak-wymiany-diody-w-laserze/'];
+  const routes = (language === 'en' ? ['home', 'services', 'contact'] : ['home', 'service-detail', 'article']).map(type => routeFor(type, language));
   for (const route of routes) for (const width of [320,375,390,430,768,1440]) {
    await p.setViewportSize({width,height:900}); await p.goto(base+route);
    await p.locator('.lazar-launcher-label').waitFor();

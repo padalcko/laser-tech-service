@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/), [English](https://lasertechservice.pl/en/blog/handpiece-connections-overheating-nd-yag-calibration/)
 
 > Как подключение манипул влияет на охлаждение? Элемент Пельтье, признаки перегрева и калибровка ND:YAG после замены лазерного элемента.
 

@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/), [English](https://lasertechservice.pl/en/services/cryotherapy-cryolipolysis-equipment-service/)
 
 > Diagnostyka chłodzenia, układów próżniowych, aplikatorów i elektroniki urządzeń do krioterapii i kriolipolizy. Zakres naprawy dopasowujemy do konstrukcji aparatu.
 

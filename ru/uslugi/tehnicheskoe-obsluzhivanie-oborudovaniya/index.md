@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/konserwacja-urzadzen-kosmetologicznych/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/konserwacja-urzadzen-kosmetologicznych/), [English](https://lasertechservice.pl/en/services/aesthetic-equipment-maintenance/)
 
 > Регулярное ТО помогает своевременно выявлять загрязнения, перегрев и износ компонентов. Подбираем очистку и проверки с учётом конструкции аппарата и условий его эксплуатации.
 

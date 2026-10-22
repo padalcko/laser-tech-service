@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/), [English](https://lasertechservice.pl/en/blog/professional-aesthetic-equipment-service/)
 
 > Почему профессиональный сервис косметологического оборудования имеет значение: гарантия, быстрый выезд, документация ремонта, сервисная история и сохранение стоимости оборудования.
 

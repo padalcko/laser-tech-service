@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/), [English](https://lasertechservice.pl/en/case-studies/cavi-shape-advanced-service-wroclaw/)
 
 > Serwis Cavi Shape Advanced we Wrocławiu. Naprawa trzech głowic RF, światła podczerwonego i ultradźwięków. Czyszczenie styków, naprawa połączeń i płyty głównej.
 

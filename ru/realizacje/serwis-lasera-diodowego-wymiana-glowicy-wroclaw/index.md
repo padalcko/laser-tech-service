@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/), [English](https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-replacement-wroclaw/)
 
 > Обслуживание диодного лазера во Вроцлаве. Замена рабочей манипулы, очистка аппарата, техническое обслуживание и итоговая проверка работоспособности.
 

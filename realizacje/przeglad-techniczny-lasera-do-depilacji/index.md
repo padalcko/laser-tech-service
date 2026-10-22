@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/), [English](https://lasertechservice.pl/en/case-studies/hair-removal-laser-maintenance/)
 
 > Serwis lasera do depilacji. Przegląd techniczny i znaczenie regularnej konserwacji urządzeń laserowych. Laser Tech Service.
 

@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/), [English](https://lasertechservice.pl/en/case-studies/)
 
 > Примеры обслуживания лазеров и косметологического оборудования: ремонт, профилактика, замена манипул и фильтров. Фото и видео выполненных работ.
 

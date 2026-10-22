@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/), [English](https://lasertechservice.pl/en/)
 
 > Laser Tech Service – профессиональный ремонт диодных лазеров и косметологического оборудования. Замена диодов, ремонт головок, охлаждения и электроники. Вроцлав и вся Польша.
 

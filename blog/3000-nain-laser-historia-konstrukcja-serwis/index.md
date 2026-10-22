@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/3000-nain-lazer-istoriya-konstrukciya-servis/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/3000-nain-lazer-istoriya-konstrukciya-servis/), [English](https://lasertechservice.pl/en/blog/3000-nain-laser-history-design-service/)
 
 > 3000 NAIN z bliska: historia modelu, technologia Nd:YAG Q-Switched, duża obudowa i znaczenie naprawy elektroniki. Co wiemy, a czego nie potwierdzono?
 

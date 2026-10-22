@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/przeglad-techniczny-lasera-do-depilacji/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/przeglad-techniczny-lasera-do-depilacji/), [English](https://lasertechservice.pl/en/case-studies/hair-removal-laser-maintenance/)
 
 > Техническое обслуживание лазера для эпиляции. Фотографии сервисных работ и значение регулярного ухода. Laser Tech Service.
 

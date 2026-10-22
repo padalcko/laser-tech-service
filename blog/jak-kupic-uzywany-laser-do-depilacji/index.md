@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/), [English](https://lasertechservice.pl/en/blog/how-to-buy-a-used-hair-removal-laser/)
 
 > Planujesz zakup używanego lasera do depilacji? Sprawdź stan diody, historię serwisową i koszty napraw. Porady Laser Tech Service i oferty LTS Market.
 

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """RSL and laser maintenance content audit. Requires Pillow; run from repo root."""
+from site_locales import expected_alternates
 import json,re,subprocess,collections,xml.etree.ElementTree as ET
 from pathlib import Path
 from html.parser import HTMLParser
@@ -54,9 +55,9 @@ for rel in new:
  assert [a['lang'] for tag,a in pa.tags if tag=='html']==[lang]
  assert [a['href'] for tag,a in pa.tags if tag=='link' and a.get('rel')=='canonical']==[own]
  al={a['hreflang']:a['href'] for tag,a in pa.tags if tag=='link' and a.get('hreflang')}
- assert set(al)=={'pl','ru','x-default'} and al[lang]==own and al['x-default']==al['pl']
+ assert al==expected_alternates(own)
  switch={a.get('hreflang'):BASE+a['href'] for tag,a in pa.tags if tag=='a' and 'language-switcher__link' in a.get('class','')}
- assert switch=={k:al[k] for k in ('pl','ru')}
+ assert switch=={k:v for k,v in al.items() if k != 'x-default'}
  assert {x.get('hreflang'):x.get('href') for x in urls[own].findall('x:link',ns)}==al
  for u in al.values():
   peer=parsers[resolve(u,p)[0]]

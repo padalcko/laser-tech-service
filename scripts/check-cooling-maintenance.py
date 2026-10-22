@@ -1,3 +1,4 @@
+from site_locales import expected_alternates
 from pathlib import Path
 from urllib.parse import urlsplit
 from urllib.robotparser import RobotFileParser
@@ -68,10 +69,10 @@ for kind, routes in [('case', CASES), ('article', ARTICLES)]:
         links = list(tree.all('link'))
         assert [node.attrs['href'] for node in links if node.attrs.get('rel') == 'canonical'] == [canonical], route
         alternates = {node.attrs['hreflang']: node.attrs['href'] for node in links if 'hreflang' in node.attrs}
-        expected = {'pl': BASE + routes['pl'], 'ru': BASE + routes['ru'], 'x-default': BASE + routes['pl']}
+        expected = expected_alternates(canonical)
         assert alternates == expected, route
         switcher = next(node for node in tree.all('div') if node.has('language-switcher'))
-        assert {node.attrs.get('hreflang'): node.attrs['href'] for node in switcher.all('a')} == routes, route
+        assert {node.attrs.get('hreflang'): node.attrs['href'] for node in switcher.all('a')} == {lang: url.removeprefix(BASE) for lang, url in expected.items() if lang != 'x-default'}, route
         entries = [entry for entry in SITEMAP.findall('s:url', NAMESPACES) if entry.find('s:loc', NAMESPACES).text == canonical]
         assert len(entries) == 1, route
         assert {node.attrib['hreflang']: node.attrib['href'] for node in entries[0].findall('x:link', NAMESPACES)} == expected, route

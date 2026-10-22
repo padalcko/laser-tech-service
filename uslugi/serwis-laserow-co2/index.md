@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/), [English](https://lasertechservice.pl/en/services/co2-laser-service/)
 
 > Naprawa laserów CO₂ od 1 200 zł: źródło, optyka, skaner i chłodzenie. Diagnostyka przy naprawie bezpłatna. Kalibracja 1 600 zł, części i dojazd osobno.
 

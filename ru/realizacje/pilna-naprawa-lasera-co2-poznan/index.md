@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/), [English](https://lasertechservice.pl/en/case-studies/urgent-co2-laser-repair-poznan/)
 
 > Срочный выезд в студию медицинской эстетики в Познани: исправная педаль, обрыв провода манипулы, замена, проверка и обслуживание CO₂-аппарата.
 

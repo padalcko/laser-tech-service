@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/naprawa-3000-nain-bloku-zasilania/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/naprawa-3000-nain-bloku-zasilania/), [English](https://lasertechservice.pl/en/case-studies/3000-nain-power-supply-repair/)
 
 > Diagnostyka i naprawa bloku zasilania 3000 NAIN. Zobacz demontaż, pracę przy elektronice, ponowny montaż oraz uruchomienie aparatu na zdjęciach i filmach.
 

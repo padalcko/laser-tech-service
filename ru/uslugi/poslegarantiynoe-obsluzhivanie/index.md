@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/serwis-pogwarancyjny/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/serwis-pogwarancyjny/), [English](https://lasertechservice.pl/en/services/post-warranty-equipment-service/)
 
 > Техническая поддержка, диагностика, ремонт и профилактика после окончания гарантии производителя или продавца. Завершение гарантии не означает необходимость покупать новый аппарат: оцениваем состояние и экономическую целесообразность ремонта.
 

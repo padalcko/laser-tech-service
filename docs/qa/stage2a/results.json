@@ -1,0 +1,274 @@
+[
+  {
+    "lang": "pl",
+    "width": 320,
+    "type": "home",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 320,
+    "type": "service-detail",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 320,
+    "type": "article",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 320,
+    "type": "case-study",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 320,
+    "type": "pricing",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 320,
+    "type": "contact",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 320,
+    "type": "partners",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 390,
+    "type": "home",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 390,
+    "type": "service-detail",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 390,
+    "type": "article",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 390,
+    "type": "case-study",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 390,
+    "type": "pricing",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 390,
+    "type": "contact",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 390,
+    "type": "partners",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 1440,
+    "type": "home",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 1440,
+    "type": "service-detail",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 1440,
+    "type": "article",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 1440,
+    "type": "case-study",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 1440,
+    "type": "pricing",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 1440,
+    "type": "contact",
+    "result": "PASS"
+  },
+  {
+    "lang": "pl",
+    "width": 1440,
+    "type": "partners",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 320,
+    "type": "home",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 320,
+    "type": "service-detail",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 320,
+    "type": "article",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 320,
+    "type": "case-study",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 320,
+    "type": "pricing",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 320,
+    "type": "contact",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 320,
+    "type": "partners",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 390,
+    "type": "home",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 390,
+    "type": "service-detail",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 390,
+    "type": "article",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 390,
+    "type": "case-study",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 390,
+    "type": "pricing",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 390,
+    "type": "contact",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 390,
+    "type": "partners",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 1440,
+    "type": "home",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 1440,
+    "type": "service-detail",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 1440,
+    "type": "article",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 1440,
+    "type": "case-study",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 1440,
+    "type": "pricing",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 1440,
+    "type": "contact",
+    "result": "PASS"
+  },
+  {
+    "lang": "ru",
+    "width": 1440,
+    "type": "partners",
+    "result": "PASS"
+  },
+  {
+    "locale": "pl",
+    "runtime": "PASS"
+  },
+  {
+    "locale": "ru",
+    "runtime": "PASS"
+  },
+  {
+    "locale": "en",
+    "runtime": "PASS"
+  },
+  {
+    "locale": "en-GB",
+    "runtime": "PASS"
+  },
+  {
+    "locale": "xx",
+    "runtime": "PASS"
+  }
+]

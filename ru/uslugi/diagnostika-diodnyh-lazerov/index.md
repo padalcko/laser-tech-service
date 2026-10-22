@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/), [English](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
 
 > Диагностика аппарата и манипулы диодного лазера от 600 zł. Письменное техническое заключение. Бесплатно при заказе ремонта в Laser Tech Service; выезд отдельно.
 

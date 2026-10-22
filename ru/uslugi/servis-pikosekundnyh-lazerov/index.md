@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/serwis-laserow-pikosekundowych/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/serwis-laserow-pikosekundowych/), [English](https://lasertechservice.pl/en/services/picosecond-laser-service/)
 
 > Оценка источника, оптического тракта и стабильности энергии пикосекундных лазеров. Проверяем питание и охлаждение; возможность ремонта источника подтверждаем до согласования работ.
 

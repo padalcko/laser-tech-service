@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Pre-commit Pharaon content/image audit against HEAD. Requires Pillow; run from repo root."""
+from site_locales import expected_alternates
 import json,re,subprocess,collections,xml.etree.ElementTree as ET
 from pathlib import Path
 from html.parser import HTMLParser
@@ -56,10 +57,10 @@ for rel in new:
  assert len(re.findall(r'<h1\b',t))==1,rel
  assert [d['lang'] for tag,d in parser.tags if tag=='html']==['ru' if ru else 'pl']
  canon=[d['href'] for tag,d in parser.tags if tag=='link' and d.get('rel')=='canonical'];assert canon==[own],(rel,canon)
- alternates={d['hreflang']:d['href'] for tag,d in parser.tags if tag=='link' and d.get('rel')=='alternate' and d.get('hreflang')};assert set(alternates)=={'pl','ru','x-default'};assert alternates['x-default']==alternates['pl'];assert alternates['ru' if ru else 'pl']==own
+ alternates={d['hreflang']:d['href'] for tag,d in parser.tags if tag=='link' and d.get('rel')=='alternate' and d.get('hreflang')};assert alternates==expected_alternates(own)
  for lang,url in alternates.items():
   target=resolve(url,p)[0];peer=parsers[target];peeralt={d['hreflang']:d['href'] for tag,d in peer.tags if tag=='link' and d.get('rel')=='alternate' and d.get('hreflang')};assert peeralt==alternates
- switch={d.get('hreflang'):BASE+d['href'] for tag,d in parser.tags if tag=='a' and 'language-switcher__link' in d.get('class','')};assert switch=={k:alternates[k] for k in ['pl','ru']}
+ switch={d.get('hreflang'):BASE+d['href'] for tag,d in parser.tags if tag=='a' and 'language-switcher__link' in d.get('class','')};assert switch=={k:v for k,v in alternates.items() if k != 'x-default'}
  schemas=[json.loads(s) for s in re.findall(r'<script type="application/ld\+json">(.*?)</script>',t,re.S)];assert [s['@type'] for s in schemas]==['Article','BreadcrumbList']
  article,crumb=schemas;assert article['mainEntityOfPage']['@id']==own;assert article['datePublished']=='2026-09-30';assert article['dateModified']=='2026-09-30';assert crumb['itemListElement'][-1]['item']==own
  if kind=='blog':assert article['author']['name']=='Oleksandr Padalko' and 'article-signature">Oleksandr Padalko' in t
@@ -108,7 +109,7 @@ for p,parser in parsers.items():
  if rel!='404.html':
   if canon!=[own]:issues['canonical'].append((rel,canon))
   if own not in entries:issues['sitemap_missing'].append(rel)
-  if alt.get('ru' if ru else 'pl')!=own or alt.get('x-default')!=alt.get('pl'):issues['hreflang'].append((rel,alt))
+  if alt!=expected_alternates(own):issues['hreflang'].append((rel,alt))
   for lang,url in alt.items():
    peer=resolve(url,p)[0]
    pa={a.get('hreflang'):a.get('href') for tag,a in parsers[peer].tags if tag=='link' and a.get('rel')=='alternate' and a.get('hreflang')}

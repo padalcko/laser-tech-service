@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/), [English](https://lasertechservice.pl/en/case-studies/beauty-planet-handpiece-cable-replacement-wroclaw/)
 
 > Brak vacuum w manipule Beauty Planet 3D Contour w studio Tiamo we Wrocławiu. Diagnostyka, wymiana uszkodzonego przewodu zasilającego i test podciśnienia.
 

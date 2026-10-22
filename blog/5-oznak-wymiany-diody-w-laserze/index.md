@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/), [English](https://lasertechservice.pl/en/blog/five-signs-laser-diode-needs-inspection/)
 
 > Poznaj 5 oznak, które mogą wskazywać na zużycie lub uszkodzenie diody w laserze do depilacji. Sprawdź, kiedy potrzebna jest diagnostyka i wymiana diody laserowej.
 

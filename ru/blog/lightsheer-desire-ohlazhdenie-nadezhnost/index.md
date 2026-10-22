@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/lightsheer-desire-chlodzenie-niezawodnosc/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/lightsheer-desire-chlodzenie-niezawodnosc/), [English](https://lasertechservice.pl/en/blog/lightsheer-desire-cooling-reliability/)
 
 > Как работают HIT и ChillTip в LightSheer DESIRE? Охлаждение, отложения, уплотнения и обслуживание на примере ремонта аппарата в Олеснице.
 

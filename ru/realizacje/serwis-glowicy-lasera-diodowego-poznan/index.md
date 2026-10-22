@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/), [English](https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-service-poznan/)
 
 > Обслуживание манипулы диодного лазера в Познани. Удаление загрязнений после разгерметизации, очистка оптики и внутренней части, восстановление герметичности.
 

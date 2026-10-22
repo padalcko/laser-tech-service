@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/serwis-laserow-co2/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/serwis-laserow-co2/), [English](https://lasertechservice.pl/en/services/co2-laser-service/)
 
 > Ремонт CO₂-лазеров от 1 200 zł: источник, оптика, сканер и охлаждение. Диагностика при ремонте бесплатна. Калибровка 1 600 zł, детали и выезд отдельно.
 

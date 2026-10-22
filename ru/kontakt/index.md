@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/kontakt/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/kontakt/), [English](https://lasertechservice.pl/en/contact/)
 
 > Свяжитесь с Laser Tech Service. Профессиональный сервис лазерного и косметологического оборудования во Вроцлаве. Телефон, WhatsApp, e-mail и адрес сервиса.
 

@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/), [English](https://lasertechservice.pl/en/blog/hair-removal-laser-cooling-water-maintenance/)
 
 > Зачем обслуживать охлаждение лазера: качество воды, циркуляция, риск перегрева и сроки замены по документации конкретного аппарата.
 

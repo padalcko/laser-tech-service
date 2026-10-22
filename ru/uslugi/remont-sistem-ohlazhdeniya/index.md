@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/), [English](https://lasertechservice.pl/en/services/laser-cooling-system-repair/)
 
 > Диагностика насосов, циркуляции и герметичности охлаждения лазеров. Устраняем причины перегрева, восстанавливаем соединения и проверяем работу системы после ремонта.
 

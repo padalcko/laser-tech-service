@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/), [English](https://lasertechservice.pl/en/blog/hair-removal-laser-cooling-water-maintenance/)
 
 > Dlaczego chłodzenie lasera wymaga regularnej obsługi? Jakość wody, obieg, ryzyko przegrzania i terminy wymiany zgodne z dokumentacją urządzenia.
 

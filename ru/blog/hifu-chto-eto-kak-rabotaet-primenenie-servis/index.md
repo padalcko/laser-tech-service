@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/), [English](https://lasertechservice.pl/en/blog/hifu-technology-applications-service/)
 
 > HIFU — что это и как работает? Объясняем принцип сфокусированного ультразвука, глубины 1,5, 3,0 и 4,5 мм, назначение HIFU, устройство аппаратов и их сервис.
 

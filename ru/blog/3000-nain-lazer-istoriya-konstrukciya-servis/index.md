@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/3000-nain-laser-historia-konstrukcja-serwis/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/3000-nain-laser-historia-konstrukcja-serwis/), [English](https://lasertechservice.pl/en/blog/3000-nain-laser-history-design-service/)
 
 > Знакомимся с 3000 NAIN: история модели, Nd:YAG Q-Switched, устройство корпуса и ремонт электроники. Подтверждённые сведения и наблюдения сервисной команды.
 

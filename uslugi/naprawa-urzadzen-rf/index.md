@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/), [English](https://lasertechservice.pl/en/services/rf-equipment-repair/)
 
 > Diagnostyka generatorów RF, elektroniki i głowic. Naprawa urządzeń RF oraz mechanizmów mikroigłowych zależnie od modelu — serwis na terenie Polski.
 

@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/), [English](https://lasertechservice.pl/en/blog/used-diode-laser-service-history/)
 
 > Покупаете подержанный диодный лазер? Объясняем, почему история обслуживания, техническое состояние и дальнейшая сервисная поддержка важнее одной только низкой цены.
 

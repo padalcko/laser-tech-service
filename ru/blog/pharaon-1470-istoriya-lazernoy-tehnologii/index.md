@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/pharaon-1470-historia-technologia-lasera/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/pharaon-1470-historia-technologia-lasera/), [English](https://lasertechservice.pl/en/blog/pharaon-1470-laser-history-technology/)
 
 > Pharaon 1470, LSO Medical и OSYRIS: история обозначений, особенности излучения 1470 нм и применение технологии в медицине по данным производителя и исследований.
 

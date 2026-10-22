@@ -1,4 +1,4 @@
-/* Lazar AI: one shared PL/RU client. No conversation content is persisted or logged. */
+/* Lazar AI: one shared PL/RU/EN client. No conversation content is persisted or logged. */
 (() => {
   'use strict';
   if (document.getElementById('lazar-root')) return;
@@ -7,8 +7,27 @@
     timeoutMs: 28000,
     maxMessageLength: 2000,
   });
-  const language = document.documentElement.lang.toLowerCase().startsWith('ru') ? 'ru' : 'pl';
+  // HTML lang is authoritative; normalize regional tags. Unknown/missing values use PL.
+  const locale = document.documentElement.lang.trim().toLowerCase().split('-')[0];
+  const language = ['pl', 'ru', 'en'].includes(locale) ? locale : 'pl';
+  // EN backend has not been approved. Keep the public chat hidden until explicitly released.
+  if (language === 'en' && document.documentElement.dataset.lazarEnabled !== 'true') return;
   const translations = {
+    en: {
+      open: 'ASK LAZAR', close: 'Close chat', status: 'AI technical assistant',
+      greeting: 'Hello! I am Lazar, the AI technical assistant at Laser Tech Service. Describe the problem with your equipment and I will help you identify possible causes and next steps.',
+      placeholder: 'Describe the problem…', input: 'Message to Lazar', send: 'Send', retry: 'Try again',
+      call: 'Call us', form: 'Send a service request', log: 'Conversation with Lazar', user: 'You', waiting: 'Lazar is preparing a reply…',
+      unavailable: 'Sorry, I am temporarily unavailable. You can call Laser Tech Service or send a service request using the form. Our specialists will help you with the problem.',
+      timeout: 'The reply is taking longer than usual. Sorry for the inconvenience. Try again or contact our service team directly.',
+      invalid: 'Sorry, I could not prepare a reply. Please ask again or contact our service team.',
+      offline: 'You appear to be offline. Check your internet connection and try again.',
+      long: 'Your message is too long. Shorten the description and try again.',
+      empty: 'Describe the problem before sending a message.',
+      repeated: 'I am experiencing temporary technical problems. For faster help, contact Laser Tech Service directly.',
+      retryNote: 'The previous request may still be processing. Retrying will send it again.',
+      onlineForm: 'The form requires an internet connection.',
+    },
     pl: {
       open: 'ZAPYTAJ ŁAZARA', close: 'Zamknij czat', status: 'Asystent techniczny AI',
       greeting: 'Dzień dobry! Jestem Lazar, asystent techniczny AI Laser Tech Service. Opisz problem z urządzeniem, a pomogę Ci ustalić możliwe przyczyny i kolejne kroki.',
@@ -77,7 +96,7 @@
   const makeContacts = () => {
     const contacts = make('div', 'lazar-contacts');
     const call = make('a', 'lazar-action', t.call); call.href = 'tel:+48790402597';
-    const contact = make('a', 'lazar-action', t.form); contact.href = (language === 'ru' ? '/ru' : '') + '/kontakt/#contactid';
+    const contact = make('a', 'lazar-action', t.form); contact.href = {pl: '/kontakt/#contactid', ru: '/ru/kontakt/#contactid', en: '/en/contact/'}[language];
     call.addEventListener('click', () => track('lazar_call_click'));
     contact.addEventListener('click', () => track('lazar_form_click'));
     contacts.append(call, contact);
@@ -104,8 +123,8 @@
   const replyText = text => {
     const lines = text.trim().split('\n');
     let end = lines.length, found = false;
-    const target = /(?:\+?48[\s-]*790[\s-]*402[\s-]*597|https:\/\/lasertechservice\.pl\/(?:ru\/)?(?:kontakt\/)?#contactid|https:\/\/lasertechservice\.pl\/(?:ru\/)?kontakt\/?)/i;
-    const label = /^(?:\*\*)?(?:Позвонить|Телефон|Оставить заявку|Заявка|Зателефонувати|Залишити заявку|Zadzwoń|Telefon|Wyślij zgłoszenie|Zgłoszenie)(?:\*\*)?\s*:?(?:\*\*)?\s*$/i;
+    const target = /(?:\+?48[\s-]*790[\s-]*402[\s-]*597|https:\/\/lasertechservice\.pl\/(?:(?:ru\/)?(?:kontakt\/)?|en\/contact\/)#contactid|https:\/\/lasertechservice\.pl\/(?:(?:ru\/)?kontakt|en\/contact)\/?)/i;
+    const label = /^(?:\*\*)?(?:Call us|Call|Phone|Send a service request|Service request|Позвонить|Телефон|Оставить заявку|Заявка|Зателефонувати|Залишити заявку|Zadzwoń|Telefon|Wyślij zgłoszenie|Zgłoszenie)(?:\*\*)?\s*:?(?:\*\*)?\s*$/i;
     while (end > 0) {
       const line = lines[end - 1].trim();
       if (!line || label.test(line)) { end--; continue; }

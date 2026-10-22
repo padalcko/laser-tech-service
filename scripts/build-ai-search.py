@@ -5,6 +5,7 @@ Run normally to regenerate, or --check to detect stale files without writing.
 HTML and sitemap are the source of truth. No network, history, or runtime dependencies.
 """
 from pathlib import Path
+import site_locales
 from html.parser import HTMLParser
 from urllib.parse import urljoin, urlsplit, quote
 import argparse, collections, hashlib, json, re, xml.etree.ElementTree as ET
@@ -64,9 +65,13 @@ def absolute(value, canonical):
     return quote(urljoin(canonical, value), safe=':/?#&=%+@,;~!$\'*-._')
 
 def discover():
+    registry = site_locales.load(ROOT / 'scripts/site-locales.json')
+    routes = site_locales.index(registry)
     sitemap = ET.parse(ROOT / 'sitemap.xml')
     urls = [e.text for e in sitemap.findall('s:url/s:loc', NS)]
     assert len(urls) == len(set(urls)), 'Duplicate sitemap URLs'
+    expected = {BASE + url for url, (_, _, status) in routes.items() if status == 'published'}
+    assert set(urls) == expected, 'Sitemap and published registry routes differ'
     pages = []
     for url in sorted(urls):
         assert url.startswith(BASE + '/') and url.endswith('/'), url
@@ -80,14 +85,18 @@ def discover():
         canonical = [n.attrs.get('href') for n in tags if n.tag == 'link' and n.attrs.get('rel') == 'canonical']
         assert canonical == [url], (path, canonical)
         lang = next(n.attrs['lang'] for n in tags if n.tag == 'html')
-        assert lang in ('pl', 'ru'), path
+        group, registered_lang, status = routes[urlsplit(url).path]
+        assert lang == registered_lang and status == 'published', path
+        expected_alternates = site_locales.alternates(group, BASE)
+        actual_alternates = [n for n in tags if n.tag == 'link' and n.attrs.get('hreflang')]
+        assert len(actual_alternates) == len(expected_alternates), path
+        assert {n.attrs['hreflang']: n.attrs['href'] for n in actual_alternates} == expected_alternates, path
         h1s = [n for n in tags if n.tag == 'h1']; assert len(h1s) == 1, path
-        cleanpath = urlsplit(url).path.removeprefix('/ru')
-        kind = ('case' if re.fullmatch('/realizacje/[^/]+/', cleanpath) else
-                'article' if re.fullmatch('/blog/[^/]+/', cleanpath) else
-                'service' if cleanpath.startswith('/uslugi/') else 'other')
+        kind = {'case-study': 'case', 'article': 'article', 'services': 'service',
+                'service-detail': 'service', 'pricing': 'service'}.get(group['type'], 'other')
         pages.append(dict(path=path, source=source, tree=tree, tags=tags, meta=meta,
-                          canonical=url, lang=lang, title=h1s[0].text(), kind=kind,
+                          canonical=url, lang=lang, page_type=group['type'], group_id=group['id'],
+                          route_group=group, languages=registry['languages'], title=h1s[0].text(), kind=kind,
                           md=url+'index.md', alternates={n.attrs['hreflang']:n.attrs['href']
                           for n in tags if n.tag=='link' and n.attrs.get('hreflang')},
                           schemas=[json.loads(m) for m in SCHEMA_RE.findall(source)]))
@@ -123,7 +132,7 @@ def render(node, page, seen_images):
         if not href or href.startswith(('javascript:', '#')) and href == '#': return body
         label = re.sub(r'\s+', ' ', body).strip()
         if node.has('partner-card'):
-            link_label = 'Strona partnera' if page['lang'] == 'pl' else 'Страница партнёра'
+            link_label = {'pl': 'Strona partnera', 'ru': 'Страница партнёра', 'en': 'Partner website'}[page['lang']]
             return body + '\n\n[' + link_label + '](' + absolute(href, page['canonical']) + ')\n\n'
         # Linked photographs already carry their own evidence URL.
         if not label or '![' in label: return body
@@ -175,24 +184,25 @@ def relationships(page, pages):
 
 def markdown(page, pages):
     ru = page['lang'] == 'ru'
-    source_label, language_label = ('Источник HTML','Язык') if ru else ('Źródło HTML','Język')
+    en = page['lang'] == 'en'
+    source_label, language_label = ('HTML source','Language') if en else (('Источник HTML','Язык') if ru else ('Źródło HTML','Język'))
     title=page['title']; out='# '+title+'\n\n'
-    out+=f'{source_label}: [{title}]({page["canonical"]})\n\n{language_label}: '+('Русский' if ru else 'Polski')+'\n\n'
-    peers=[f'[{"Polski" if l=="pl" else "Русский"}]({u})' for l,u in page['alternates'].items() if l in ('pl','ru') and l!=page['lang']]
-    if peers: out+=('Версия на другом языке: ' if ru else 'Inna wersja językowa: ')+', '.join(peers)+'\n\n'
+    out+=f'{source_label}: [{title}]({page["canonical"]})\n\n{language_label}: '+page['languages'][page['lang']]+'\n\n'
+    peers=[f'[{page["languages"][l]}]({u})' for l,u in page['alternates'].items() if l in page['languages'] and l!=page['lang']]
+    if peers: out+=('Other language version: ' if en else 'Версия на другом языке: ' if ru else 'Inna wersja językowa: ')+', '.join(peers)+'\n\n'
     out+='> '+page['meta'].get('description','')+'\n\n'
     for schema in page['schemas']:
         if schema.get('@type') in ('Article','BlogPosting'):
             author=schema.get('author',{})
             if isinstance(author,dict) and author.get('name'):
-                out+=('Автор: ' if ru else 'Autor: ')+author['name']+'\n\n'
+                out+=('Author: ' if en else 'Автор: ' if ru else 'Autor: ')+author['name']+'\n\n'
             if schema.get('datePublished'):
-                out+=('Дата публикации: ' if ru else 'Data publikacji: ')+schema['datePublished']+'\n\n'
+                out+=('Publication date: ' if en else 'Дата публикации: ' if ru else 'Data publikacji: ')+schema['datePublished']+'\n\n'
     out+=clean(''.join(render(n,page,set()) for n in content_roots(page)))+'\n'
     # Explicit relationships are drawn solely from existing page links.
-    labels={'case':('Связанные работы' if ru else 'Powiązane realizacje'),
-            'article':('Связанные статьи' if ru else 'Powiązane artykuły'),
-            'service':('Услуги сервиса' if ru else 'Usługi serwisowe')}
+    labels={'case':('Related repairs' if en else 'Связанные работы' if ru else 'Powiązane realizacje'),
+            'article':('Related articles' if en else 'Связанные статьи' if ru else 'Powiązane artykuły'),
+            'service':('Service offerings' if en else 'Услуги сервиса' if ru else 'Usługi serwisowe')}
     for kind, peers in relationships(page,pages).items():
         out+='\n## '+labels[kind]+'\n\n'+''.join('- ['+p['title']+']('+p['canonical']+')\n' for p in peers)
     # Preserve actual video sources even when decorative iframe wrappers were excluded.
@@ -201,7 +211,7 @@ def markdown(page, pages):
         if n.tag=='iframe' and 'youtube.com/embed/' in n.attrs.get('src',''):
             pair=(n.attrs.get('title','Video'),n.attrs['src'])
             if pair not in videos: videos.append(pair)
-    if videos:out+='\n## '+('Видео' if ru else 'Wideo')+'\n\n'+''.join('- ['+t+']('+u+')\n' for t,u in videos)
+    if videos:out+='\n## '+('Video' if en else 'Видео' if ru else 'Wideo')+'\n\n'+''.join('- ['+t+']('+u+')\n' for t,u in videos)
     return clean(out)+'\n'
 
 def integration(source, md):
@@ -233,12 +243,12 @@ The website is published in Polish and Russian. HTML pages are the canonical sou
     out+=item('/uslugi/','Diagnostics, diode replacement, handpieces, cooling, power supplies, electronics and preventive maintenance; Wrocław and Poland.',True)
     out+=item('/ru/uslugi/','Russian representation of the services page.',True)
     for p in pages:
-        if p['kind']=='service' and urlsplit(p['canonical']).path not in ['/uslugi/','/ru/uslugi/']:
+        if p['kind']=='service' and p['page_type']!='services':
             description = p['meta']['description']
             target = p['md']
-            if urlsplit(p['canonical']).path.endswith('/uslugi/cennik/'):
+            if p['page_type']=='pricing':
                 target = p['canonical']
-                description = ('Orientacyjne ceny diagnostyki, naprawy i konserwacji. Koszt części może być rozliczany osobno; końcowa wycena po diagnostyce.' if p['lang'] == 'pl' else 'Ориентировочные цены диагностики, ремонта и обслуживания. Запчасти могут рассчитываться отдельно; окончательная стоимость после диагностики.')
+                description = (p['meta']['description'] if p['lang']=='en' else 'Orientacyjne ceny diagnostyki, naprawy i konserwacji. Koszt części może być rozliczany osobno; końcowa wycena po diagnostyce.' if p['lang'] == 'pl' else 'Ориентировочные цены диагностики, ремонта и обслуживания. Запчасти могут рассчитываться отдельно; окончательная стоимость после диагностики.')
             out+=f'- [{p["title"]}]({target}): {description}\n'
     out+='\n## Repair Cases\n\n'
     out+=item('/realizacje/','Polish catalogue; each case has a Markdown version. Russian translations are linked where available.',True)
@@ -256,16 +266,24 @@ The website is published in Polish and Russian. HTML pages are the canonical sou
     out+='\n## Important Resources\n\n- [Expanded site text]('+BASE+'/llms-full.txt): Company, services, equipment, cases, articles, locations, partners, contact and language map.\n- [XML sitemap]('+BASE+'/sitemap.xml): Canonical HTML pages and language equivalents.\n- [Crawler rules]('+BASE+'/robots.txt): Access rules; independent from this resource map.\n'
     out+='\n## Optional\n\n'
     for path,desc in [('/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/','Diode module replacement after coolant ingress in Poznań.'),('/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/','Seal replacement risks and the related water-damage case.'),('/realizacje/naprawa-3000-nain-bloku-zasilania/','Power-supply repair with links to the recorded videos.')]:out+=item(path,desc,True)
+    extra = [p for p in pages if p['lang'] not in ('pl', 'ru')]
+    if extra:
+        out = out.replace('published in Polish and Russian.', 'published in ' + ', '.join(dict.fromkeys(p['languages'][p['lang']] for p in pages)) + '.')
+        out += '\n## Additional published language pages\n\n'
+        for p in extra:
+            if p['kind'] == 'service' and p['page_type'] != 'services':
+                continue  # Already included in Services above.
+            out += f'- [{p["title"]}]({p["md"]}): {p["meta"].get("description", "")}\n'
     return out
 
 def full_text(pages, representations):
     out='# Laser Tech Service — expanded site text\n\nCanonical HTML remains the source of truth. Page content below retains its Polish or Russian language.\n'
-    sections=[('Company',lambda p:urlsplit(p['canonical']).path in ['/','/ru/']),
+    sections=[('Company',lambda p:p['page_type']=='home'),
               ('Services',lambda p:p['kind']=='service'),
               ('Repair Cases',lambda p:p['kind']=='case'),
               ('Knowledge Articles',lambda p:p['kind']=='article'),
-              ('Partners',lambda p:'/partnerzy/' in p['canonical']),
-              ('Contact',lambda p:'/kontakt/' in p['canonical'])]
+              ('Partners',lambda p:p['page_type']=='partners'),
+              ('Contact',lambda p:p['page_type']=='contact')]
     for heading,predicate in sections:
         out+='\n## '+heading+'\n'
         for p in pages:
@@ -279,7 +297,7 @@ def full_text(pages, representations):
             for p in pages:
                 if p['kind']=='service':
                     lists=[n for n in p['tags'] if n.tag=='li' and any(word in n.text().lower() for word in ['diod','диод','ipl','yag','co2','rf','lpg','krio','крио','pikosek','пикосек'])]
-                    out+='\n### '+('Polski' if p['lang']=='pl' else 'Русский')+'\n\n'+''.join('- '+n.text()+'\n' for n in lists)
+                    out+='\n### '+p['languages'][p['lang']]+'\n\n'+''.join('- '+n.text()+'\n' for n in lists)
                     out+='\n[HTML]('+p['canonical']+')\n'
     out+='\n## Locations\n\n'
     for p in pages:
@@ -294,11 +312,19 @@ def full_text(pages, representations):
     for p in pages:
         if p['lang']=='pl':
             out+='- [Polski: '+p['title']+']('+p['canonical']+')'
-            if p['alternates'].get('ru'):
-                out+=' — [Русский]('+p['alternates']['ru']+')'
+            if any(l != 'pl' and l in p['languages'] for l in p['alternates']):
+                for lang, url in p['alternates'].items():
+                    if lang != 'pl' and lang in p['languages']:
+                        out+=' — ['+p['languages'][lang]+']('+url+')'
             else:
                 out+=' — Polish only'
             out+='\n'
+    extra = [p for p in pages if p['lang'] not in ('pl', 'ru')]
+    if extra:
+        out = out.replace('its Polish or Russian language.', 'its original published language.')
+        for p in extra:
+            if 'pl' not in p['alternates']:
+                out += '- [' + p['languages'][p['lang']] + ': ' + p['title'] + '](' + p['canonical'] + ')\n'
     return out
 
 def outputs(pages):

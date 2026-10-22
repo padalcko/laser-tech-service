@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/naprawa-ekranow-dotykowych/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/naprawa-ekranow-dotykowych/), [English](https://lasertechservice.pl/en/services/touchscreen-control-panel-repair/)
 
 > Диагностика сенсора, изображения, питания и соединений панелей косметологического оборудования. Подбираем совместимые компоненты под конструкцию конкретного аппарата.
 

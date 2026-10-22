@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/), [English](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
 
 > Naprawa głowic i manipulatorów laserowych od 800 zł. Diody, chłodzenie, uszczelnienia. Diagnostyka bezpłatna przy zleceniu naprawy; dojazd osobno.
 

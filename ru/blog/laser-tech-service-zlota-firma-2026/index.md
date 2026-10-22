@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/laser-tech-service-zlota-firma-2026/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/laser-tech-service-zlota-firma-2026/), [English](https://lasertechservice.pl/en/blog/laser-tech-service-zlota-firma-2026/)
 
 > Laser Tech Service получил награду Złota Firma 2026. Спасибо за доверие к нашему сервису лазеров и косметологического оборудования во Вроцлаве и по всей Польше.
 

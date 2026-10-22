@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/), [English](https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-replacement-wroclaw/)
 
 > Serwis lasera diodowego we Wrocławiu. Wymiana głowicy zabiegowej, czyszczenie urządzenia, obsługa techniczna i końcowy test sprawności.
 

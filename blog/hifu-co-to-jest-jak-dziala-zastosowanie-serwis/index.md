@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/), [English](https://lasertechservice.pl/en/blog/hifu-technology-applications-service/)
 
 > HIFU – co to jest i jak działa? Wyjaśniamy zasadę działania skoncentrowanych ultradźwięków, głębokości 1,5, 3,0 i 4,5 mm, zastosowanie HIFU, budowę urządzeń oraz ich serwis.
 

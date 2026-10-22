@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/), [English](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-repair-wroclaw/)
 
 > Ремонт NUBWAY NBW-VSIII 5D во Вроцлаве. Замена шлангов вакуумной системы, ремонт RF-элемента, вакуумной системы и очистка аппарата.
 

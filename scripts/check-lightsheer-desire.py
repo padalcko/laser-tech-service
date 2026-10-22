@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Verify the bilingual LightSheer repair and technical guide, including assets."""
+from site_locales import expected_alternates
 import importlib.util
 import json
 import math
@@ -29,8 +30,7 @@ for (kind, lang), route in ROUTES.items():
     assert '{{' not in page['source']
     counterpart = ROUTES[kind, 'ru' if lang == 'pl' else 'pl']
     assert any(n.attrs.get('href') == counterpart for n in tree.all('a')), 'Language switcher'
-    expected_alt = {l: ai.BASE + ROUTES[kind, l] for l in ('pl', 'ru')}
-    expected_alt['x-default'] = expected_alt['pl']
+    expected_alt = expected_alternates(ai.BASE + route)
     assert page['alternates'] == expected_alt
     linked = ROUTES['blog' if kind == 'case' else 'case', lang]
     assert any(n.attrs.get('href') == linked for n in main.all('a'))

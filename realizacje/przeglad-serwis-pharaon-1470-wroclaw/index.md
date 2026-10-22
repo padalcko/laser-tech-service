@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/), [English](https://lasertechservice.pl/en/case-studies/pharaon-1470-maintenance-wroclaw/)
 
 > Pharaon 1470 w klinice Denica we Wrocławiu: diagnostyka, czyszczenie wnętrza, planowy przegląd i wpis do dokumentacji serwisowej urządzenia.
 

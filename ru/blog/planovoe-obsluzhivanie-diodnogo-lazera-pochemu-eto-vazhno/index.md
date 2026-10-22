@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/), [English](https://lasertechservice.pl/en/blog/scheduled-diode-laser-maintenance/)
 
 > Почему важно выполнять плановое обслуживание диодного лазера? Рассказываем о чистке, системе охлаждения, фильтре, воде и проверке аппарата после сервиса.
 

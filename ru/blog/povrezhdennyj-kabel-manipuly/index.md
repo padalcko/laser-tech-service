@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/), [English](https://lasertechservice.pl/en/blog/damaged-handpiece-cable/)
 
 > Как кабель и разъём влияют на работу манипулы: признаки неисправности, причины повреждений, уход и пример ремонта RSL-аппарата в Варшаве.
 

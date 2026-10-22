@@ -30,11 +30,12 @@ document.addEventListener("DOMContentLoaded", () => {
     return;
   }
 
-  const isRussian = document.documentElement.lang === "ru";
-
-  const openLabel = isRussian ? "Открыть меню" : "Otwórz menu";
-
-  const closeLabel = isRussian ? "Закрыть меню" : "Zamknij menu";
+  // HTML lang is authoritative; normalize regional tags. Unknown/missing values use PL.
+  const locale = document.documentElement.lang.trim().toLowerCase().split('-')[0];
+  const language = ['pl', 'ru', 'en'].includes(locale) ? locale : 'pl';
+  const labels = {pl: ['Otwórz menu', 'Zamknij menu'], ru: ['Открыть меню', 'Закрыть меню'], en: ['Open menu', 'Close menu']};
+  const [openLabel, closeLabel] = labels[language];
+  toggle.setAttribute("aria-label", openLabel);
 
   function openMenu() {
     nav.classList.add("nav--open");
@@ -131,6 +132,33 @@ document.addEventListener("DOMContentLoaded", () => {
     if (window.innerWidth > 760) {
       closeMenu();
     }
+  });
+});
+
+/* Native disclosure works without JS; enhance keyboard and dismissal behavior. */
+document.addEventListener('DOMContentLoaded', () => {
+  document.querySelectorAll('.language-switcher__dropdown').forEach(dropdown => {
+    const toggle = dropdown.querySelector('summary');
+    const links = [...dropdown.querySelectorAll('a')];
+    const syncExpanded = () => toggle.setAttribute('aria-expanded', String(dropdown.open));
+    syncExpanded();
+    dropdown.addEventListener('toggle', syncExpanded);
+    const close = (focus = false) => { dropdown.open = false; if (focus) toggle.focus(); };
+    dropdown.addEventListener('keydown', event => {
+      if (event.key === 'Escape' && dropdown.open) {
+        event.preventDefault(); event.stopPropagation(); close(true);
+      } else if (['ArrowDown', 'ArrowUp', 'Home', 'End'].includes(event.key)) {
+        event.preventDefault(); dropdown.open = true;
+        const index = links.indexOf(document.activeElement);
+        const next = event.key === 'Home' ? 0 : event.key === 'End' ? links.length - 1
+          : event.key === 'ArrowDown' ? (index + 1) % links.length : (index < 0 ? links.length - 1 : (index - 1 + links.length) % links.length);
+        links[next]?.focus();
+      }
+    });
+    dropdown.addEventListener('focusout', event => { if (!dropdown.contains(event.relatedTarget)) close(); });
+    links.forEach(link => link.addEventListener('click', () => close()));
+    document.addEventListener('click', event => { if (!dropdown.contains(event.target)) close(); });
+    document.querySelector('.nav-toggle')?.addEventListener('click', () => close());
   });
 });
 

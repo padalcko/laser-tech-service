@@ -83,15 +83,13 @@ for page in pages:
     path=page['path'];tags=page['tags'];own=page['canonical'];lang=page['lang'];mdpath=path.with_suffix('.md');md=mdpath.read_text()
     counts['markdown_resources']+=1;counts[page['kind']+'_markdown']+=1
     alt={n.attrs['hreflang']:n.attrs.get('href') for n in tags if n.tag=='link' and n.attrs.get('hreflang')}
-    # Polish-only cases have no translated alternate; paired pages stay reciprocal.
-    monolingual_case = page['kind']=='case' and lang=='pl' and not alt
-    if not monolingual_case and (set(alt)!=set(['pl','ru','x-default']) or alt.get(lang)!=own or alt.get('x-default')!=alt.get('pl')):problem('hreflang_problems',own)
+    if alt != ai.site_locales.alternates(page['route_group'], B):problem('hreflang_problems',own)
     for u in alt.values():
         if u not in lookup or lookup[u]['alternates']!=alt:problem('hreflang_problems',[own,u])
     links=[n.attrs.get('href') for n in tags if n.tag=='link' and n.attrs.get('rel')=='alternate' and n.attrs.get('type')=='text/markdown']
     if links!=[page['md']]:problem('html_integration',own)
     if not md.startswith('# '+page['title']+'\n') or own not in md:problem('source_consistency',own)
-    if ('Język: Polski' if lang=='pl' else 'Язык: Русский') not in md:problem('language_consistency',own)
+    if {'pl':'Język: Polski', 'ru':'Язык: Русский', 'en':'Language: English'}[lang] not in md:problem('language_consistency',own)
     # Compare retained paragraphs/headings/lists independently of the renderer.
     plain=re.sub(r'!?\[([^\]]*)\]\([^)]*\)',r'\1',md);normalized=norm(plain)
     for node in page['tags']:

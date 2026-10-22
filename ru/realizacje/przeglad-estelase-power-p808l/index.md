@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/), [English](https://lasertechservice.pl/en/case-studies/estelase-power-p808l-maintenance/)
 
 > Плановое обслуживание ESTELASE POWER P-808L: продувка, замена фильтра и воды, проверка аппарата. Фото и видео работ Laser Tech Service.
 

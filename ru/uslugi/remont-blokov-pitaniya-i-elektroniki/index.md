@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/), [English](https://lasertechservice.pl/en/services/power-supply-electronics-repair/)
 
 > Диагностика, ремонт и замена блоков питания, восстановление электропроводки лазеров. От 600 zł. Диагностика при ремонте бесплатна; выезд и детали отдельно.
 

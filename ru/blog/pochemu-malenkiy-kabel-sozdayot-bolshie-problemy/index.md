@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/dlaczego-maly-przewod-powoduje-duze-problemy/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/dlaczego-maly-przewod-powoduje-duze-problemy/), [English](https://lasertechservice.pl/en/blog/why-a-small-cable-causes-big-problems/)
 
 > Аппарат включается, но манипула не работает? Объясняем, почему внутреннее повреждение кабеля отключает отдельную функцию, на примере Beauty Planet 3D Contour.
 

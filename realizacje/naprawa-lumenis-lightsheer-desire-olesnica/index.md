@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/), [English](https://lasertechservice.pl/en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/)
 
 > Wyjazdowy serwis Lumenis LightSheer DESIRE w Oleśnicy: zabrudzony filtr i zawór zwrotny, nieszczelne O-ring, czyszczenie oraz przywrócenie chłodzenia.
 

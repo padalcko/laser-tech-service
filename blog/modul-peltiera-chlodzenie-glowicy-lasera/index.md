@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/), [English](https://lasertechservice.pl/en/blog/peltier-module-laser-handpiece-cooling/)
 
 > Jak działa moduł Peltiera w głowicy lasera? Objawy usterek, rola termopasty, odprowadzanie ciepła i znaczenie diagnostyki przed wymianą TEC.
 

@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/), [English](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-repair-wroclaw/)
 
 > Naprawa NUBWAY NBW-VSIII 5D we Wrocławiu. Wymiana przewodów układu podciśnienia, naprawa elementu RF, układu próżniowego oraz czyszczenie urządzenia.
 

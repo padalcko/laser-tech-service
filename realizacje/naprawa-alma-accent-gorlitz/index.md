@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/naprawa-alma-accent-gorlitz/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/naprawa-alma-accent-gorlitz/), [English](https://lasertechservice.pl/en/case-studies/alma-accent-cooling-hose-repair-gorlitz/)
 
 > Naprawa urządzenia Alma Accent w Görlitz. Wymiana uszkodzonego w trzech miejscach przewodu doprowadzającego wodę do głowicy RF i przywrócenie prawidłowego obiegu chłodzenia.
 

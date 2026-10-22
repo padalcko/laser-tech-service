@@ -1,0 +1,1307 @@
+{
+  "pages": {
+    "en/services/index.html": [
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 12,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 12,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 8,
+          "endpoint": 2
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 12,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 12,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 5,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 5,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 12,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 5,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 5,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 10,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 5,
+          "endpoint": 1
+        }
+      ]
+    ],
+    "en/pricing/index.html": [
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 2,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 3,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 4,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 5,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 5,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 7,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 8,
+          "endpoint": 1
+        },
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 8,
+          "endpoint": 2
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 9,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 10,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 5,
+          "endpoint": 1
+        },
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 11,
+          "endpoint": 2
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 12,
+          "endpoint": 1
+        },
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 12,
+          "endpoint": 2
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 5,
+          "endpoint": 1
+        },
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 10,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 2,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 2,
+          "endpoint": 1,
+          "multiplier": "100"
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 2,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 5,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/cennik/index.html",
+          "token": 2,
+          "endpoint": 1
+        }
+      ]
+    ],
+    "en/services/diode-laser-diagnostics/index.html": [
+      [
+        {
+          "file": "uslugi/diagnostyka-laserow-diodowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/diagnostyka-laserow-diodowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/diagnostyka-laserow-diodowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/diagnostyka-laserow-diodowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/diagnostyka-laserow-diodowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/diagnostyka-laserow-diodowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/diagnostyka-laserow-diodowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/diagnostyka-laserow-diodowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/diagnostyka-laserow-diodowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/diagnostyka-laserow-diodowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/diagnostyka-laserow-diodowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/diagnostyka-laserow-diodowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/diagnostyka-laserow-diodowych/index.html",
+          "token": 9,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/diagnostyka-laserow-diodowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/diagnostyka-laserow-diodowych/index.html",
+          "token": 11,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/diagnostyka-laserow-diodowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/diagnostyka-laserow-diodowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/diagnostyka-laserow-diodowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/diagnostyka-laserow-diodowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ]
+    ],
+    "en/services/aesthetic-equipment-maintenance/index.html": [
+      [
+        {
+          "file": "uslugi/konserwacja-urzadzen-kosmetologicznych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/konserwacja-urzadzen-kosmetologicznych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/konserwacja-urzadzen-kosmetologicznych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/konserwacja-urzadzen-kosmetologicznych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ]
+    ],
+    "en/services/touchscreen-control-panel-repair/index.html": [
+      [
+        {
+          "file": "uslugi/naprawa-ekranow-dotykowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-ekranow-dotykowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-ekranow-dotykowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-ekranow-dotykowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-ekranow-dotykowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-ekranow-dotykowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ]
+    ],
+    "en/services/laser-cooling-system-repair/index.html": [
+      [
+        {
+          "file": "uslugi/naprawa-ukladow-chlodzenia/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-ukladow-chlodzenia/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-ukladow-chlodzenia/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-ukladow-chlodzenia/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ]
+    ],
+    "en/services/lpg-endermology-equipment-repair/index.html": [
+      [
+        {
+          "file": "uslugi/naprawa-urzadzen-lpg/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-urzadzen-lpg/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-urzadzen-lpg/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-urzadzen-lpg/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ]
+    ],
+    "en/services/rf-equipment-repair/index.html": [
+      [
+        {
+          "file": "uslugi/naprawa-urzadzen-rf/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-urzadzen-rf/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-urzadzen-rf/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-urzadzen-rf/index.html",
+          "token": 2,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-urzadzen-rf/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ]
+    ],
+    "en/services/power-supply-electronics-repair/index.html": [
+      [
+        {
+          "file": "uslugi/naprawa-zasilaczy-i-elektroniki/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-zasilaczy-i-elektroniki/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-zasilaczy-i-elektroniki/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-zasilaczy-i-elektroniki/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-zasilaczy-i-elektroniki/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-zasilaczy-i-elektroniki/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-zasilaczy-i-elektroniki/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-zasilaczy-i-elektroniki/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-zasilaczy-i-elektroniki/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-zasilaczy-i-elektroniki/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-zasilaczy-i-elektroniki/index.html",
+          "token": 9,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-zasilaczy-i-elektroniki/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/naprawa-zasilaczy-i-elektroniki/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ]
+    ],
+    "en/services/laser-handpiece-repair/index.html": [
+      [
+        {
+          "file": "uslugi/regeneracja-glowic-i-manipulatorow/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/regeneracja-glowic-i-manipulatorow/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/regeneracja-glowic-i-manipulatorow/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/regeneracja-glowic-i-manipulatorow/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/regeneracja-glowic-i-manipulatorow/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/regeneracja-glowic-i-manipulatorow/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/regeneracja-glowic-i-manipulatorow/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/regeneracja-glowic-i-manipulatorow/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/regeneracja-glowic-i-manipulatorow/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/regeneracja-glowic-i-manipulatorow/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/regeneracja-glowic-i-manipulatorow/index.html",
+          "token": 9,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/regeneracja-glowic-i-manipulatorow/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/regeneracja-glowic-i-manipulatorow/index.html",
+          "token": 11,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/regeneracja-glowic-i-manipulatorow/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ]
+    ],
+    "en/services/ipl-equipment-service/index.html": [
+      [
+        {
+          "file": "uslugi/serwis-ipl/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-ipl/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-ipl/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-ipl/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-ipl/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-ipl/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-ipl/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-ipl/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-ipl/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-ipl/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-ipl/index.html",
+          "token": 9,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-ipl/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-ipl/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-ipl/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ]
+    ],
+    "en/services/co2-laser-service/index.html": [
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 2,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 2,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 2,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 2,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 0,
+          "endpoint": 1
+        },
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 18,
+          "endpoint": 2
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 2,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 2,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 2,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 15,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 2,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 0,
+          "endpoint": 1
+        },
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 18,
+          "endpoint": 2
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 18,
+          "endpoint": 2
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 2,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 0,
+          "endpoint": 1
+        },
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 18,
+          "endpoint": 2
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 2,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 2,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 2,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-co2/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ]
+    ],
+    "en/services/nd-yag-laser-service/index.html": [
+      [
+        {
+          "file": "uslugi/serwis-laserow-nd-yag/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-nd-yag/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-nd-yag/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-nd-yag/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ]
+    ],
+    "en/services/picosecond-laser-service/index.html": [
+      [
+        {
+          "file": "uslugi/serwis-laserow-pikosekundowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-pikosekundowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-pikosekundowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-laserow-pikosekundowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ]
+    ],
+    "en/services/cryotherapy-cryolipolysis-equipment-service/index.html": [
+      [
+        {
+          "file": "uslugi/serwis-urzadzen-do-krioterapii/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-urzadzen-do-krioterapii/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-urzadzen-do-krioterapii/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-urzadzen-do-krioterapii/index.html",
+          "token": 2,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/serwis-urzadzen-do-krioterapii/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ]
+    ],
+    "en/services/laser-diode-replacement-calibration/index.html": [
+      [
+        {
+          "file": "uslugi/wymiana-i-kalibracja-diod-laserowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/wymiana-i-kalibracja-diod-laserowych/index.html",
+          "token": 4,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/wymiana-i-kalibracja-diod-laserowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/wymiana-i-kalibracja-diod-laserowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/wymiana-i-kalibracja-diod-laserowych/index.html",
+          "token": 2,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/wymiana-i-kalibracja-diod-laserowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/wymiana-i-kalibracja-diod-laserowych/index.html",
+          "token": 4,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/wymiana-i-kalibracja-diod-laserowych/index.html",
+          "token": 0,
+          "endpoint": 1
+        }
+      ],
+      [
+        {
+          "file": "uslugi/wymiana-i-kalibracja-diod-laserowych/index.html",
+          "token": 4,
+          "endpoint": 1
+        }
+      ]
+    ]
+  },
+  "travel_tariff": {
+    "file": "uslugi/cennik/index.html",
+    "token": 2,
+    "endpoint": 1
+  },
+  "historical_pages": [
+    "en/blog/how-to-buy-a-used-hair-removal-laser/index.html",
+    "en/blog/lightsheer-desire-cooling-reliability/index.html",
+    "en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/index.html"
+  ]
+}

@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/servis-ipl/), [English](https://lasertechservice.pl/en/services/ipl-equipment-service/)
 
 > Serwis urządzeń IPL od 800 zł: lampy ksenonowe, optyka i chłodzenie. Diagnostyka bezpłatna przy naprawie lub obsłudze; dojazd i części wyceniane osobno.
 

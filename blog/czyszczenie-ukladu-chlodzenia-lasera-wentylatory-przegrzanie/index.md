@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/), [English](https://lasertechservice.pl/en/blog/laser-cooling-system-cleaning-overheating/)
 
 > Jak kurz ogranicza chłodzenie lasera? Przyczyny awarii, dobór wentylatorów według przepływu i ciśnienia, objawy przegrzania oraz zasady konserwacji.
 

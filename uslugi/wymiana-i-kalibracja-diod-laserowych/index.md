@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/), [English](https://lasertechservice.pl/en/services/laser-diode-replacement-calibration/)
 
 > Diagnostyka modułów diodowych, wymiana kompatybilnych diod i stosów oraz pomiary mocy optycznej. Kontrola chłodzenia i kalibracja w zakresie przewidzianym dla modelu.
 

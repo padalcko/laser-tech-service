@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/), [English](https://lasertechservice.pl/en/services/laser-diode-replacement-calibration/)
 
 > Диагностика диодных модулей, замена совместимых диодов и стеков, измерение оптической мощности. Проверка охлаждения и калибровка в пределах возможностей модели.
 

@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/serwis-laserow-nd-yag/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/serwis-laserow-nd-yag/), [English](https://lasertechservice.pl/en/services/nd-yag-laser-service/)
 
 > Диагностика источника Nd:YAG, оптики, энергии импульсов, питания и охлаждения. Подбираем объём сервиса по конструкции и технической документации конкретного лазера.
 

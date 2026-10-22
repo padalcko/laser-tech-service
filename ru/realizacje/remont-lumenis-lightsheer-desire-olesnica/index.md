@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/), [English](https://lasertechservice.pl/en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/)
 
 > Выездной ремонт Lumenis LightSheer DESIRE в Олеснице: загрязнение фильтра и обратного клапана, уплотнения O-ring и восстановление охлаждения.
 

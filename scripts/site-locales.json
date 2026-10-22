@@ -1,0 +1,1279 @@
+{
+  "schema_version": 1,
+  "base_url": "https://lasertechservice.pl",
+  "languages": {
+    "pl": "Polski",
+    "ru": "Русский",
+    "en": "English"
+  },
+  "pages": [
+    {
+      "id": "home",
+      "type": "home",
+      "x_default": "/",
+      "routes": {
+        "pl": {
+          "url": "/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog",
+      "type": "blog",
+      "x_default": "/blog/",
+      "routes": {
+        "pl": {
+          "url": "/blog/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:3000-nain-laser-historia-konstrukcja-serwis",
+      "type": "article",
+      "x_default": "/blog/3000-nain-laser-historia-konstrukcja-serwis/",
+      "routes": {
+        "pl": {
+          "url": "/blog/3000-nain-laser-historia-konstrukcja-serwis/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/3000-nain-lazer-istoriya-konstrukciya-servis/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/3000-nain-laser-history-design-service/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:5-oznak-wymiany-diody-w-laserze",
+      "type": "article",
+      "x_default": "/blog/5-oznak-wymiany-diody-w-laserze/",
+      "routes": {
+        "pl": {
+          "url": "/blog/5-oznak-wymiany-diody-w-laserze/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/5-priznakov-zameny-dioda-v-lazere/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/five-signs-laser-diode-needs-inspection/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:beauty-planet-3d-contour-mozliwosci-serwis",
+      "type": "article",
+      "x_default": "/blog/beauty-planet-3d-contour-mozliwosci-serwis/",
+      "routes": {
+        "pl": {
+          "url": "/blog/beauty-planet-3d-contour-mozliwosci-serwis/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/beauty-planet-3d-contour-features-service/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie",
+      "type": "article",
+      "x_default": "/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/",
+      "routes": {
+        "pl": {
+          "url": "/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/laser-cooling-system-cleaning-overheating/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:dlaczego-maly-przewod-powoduje-duze-problemy",
+      "type": "article",
+      "x_default": "/blog/dlaczego-maly-przewod-powoduje-duze-problemy/",
+      "routes": {
+        "pl": {
+          "url": "/blog/dlaczego-maly-przewod-powoduje-duze-problemy/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/pochemu-malenkiy-kabel-sozdayot-bolshie-problemy/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/why-a-small-cable-causes-big-problems/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze",
+      "type": "article",
+      "x_default": "/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/",
+      "routes": {
+        "pl": {
+          "url": "/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/risks-of-replacing-laser-seals-yourself/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:dlaczego-pala-sie-moduly-diodowe-w-laserach",
+      "type": "article",
+      "x_default": "/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/",
+      "routes": {
+        "pl": {
+          "url": "/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/why-laser-diode-modules-fail/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:dlaczego-warto-korzystac-z-profesjonalnego-serwisu",
+      "type": "article",
+      "x_default": "/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/",
+      "routes": {
+        "pl": {
+          "url": "/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/professional-aesthetic-equipment-service/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:hifu-co-to-jest-jak-dziala-zastosowanie-serwis",
+      "type": "article",
+      "x_default": "/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/",
+      "routes": {
+        "pl": {
+          "url": "/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/hifu-technology-applications-service/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:jak-kupic-uzywany-laser-do-depilacji",
+      "type": "article",
+      "x_default": "/blog/jak-kupic-uzywany-laser-do-depilacji/",
+      "routes": {
+        "pl": {
+          "url": "/blog/jak-kupic-uzywany-laser-do-depilacji/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/how-to-buy-a-used-hair-removal-laser/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:laser-co2-nie-reaguje-na-pedal-diagnostyka",
+      "type": "article",
+      "x_default": "/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/",
+      "routes": {
+        "pl": {
+          "url": "/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/co2-laser-not-responding-to-foot-pedal/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:laser-tech-service-zlota-firma-2026",
+      "type": "article",
+      "x_default": "/blog/laser-tech-service-zlota-firma-2026/",
+      "routes": {
+        "pl": {
+          "url": "/blog/laser-tech-service-zlota-firma-2026/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/laser-tech-service-zlota-firma-2026/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/laser-tech-service-zlota-firma-2026/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:lightsheer-desire-chlodzenie-niezawodnosc",
+      "type": "article",
+      "x_default": "/blog/lightsheer-desire-chlodzenie-niezawodnosc/",
+      "routes": {
+        "pl": {
+          "url": "/blog/lightsheer-desire-chlodzenie-niezawodnosc/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/lightsheer-desire-cooling-reliability/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:modul-peltiera-chlodzenie-glowicy-lasera",
+      "type": "article",
+      "x_default": "/blog/modul-peltiera-chlodzenie-glowicy-lasera/",
+      "routes": {
+        "pl": {
+          "url": "/blog/modul-peltiera-chlodzenie-glowicy-lasera/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/peltier-module-laser-handpiece-cooling/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:pharaon-1470-historia-technologia-lasera",
+      "type": "article",
+      "x_default": "/blog/pharaon-1470-historia-technologia-lasera/",
+      "routes": {
+        "pl": {
+          "url": "/blog/pharaon-1470-historia-technologia-lasera/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/pharaon-1470-laser-history-technology/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:planowy-przeglad-lasera-diodowego-dlaczego-to-wazne",
+      "type": "article",
+      "x_default": "/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/",
+      "routes": {
+        "pl": {
+          "url": "/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/scheduled-diode-laser-maintenance/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag",
+      "type": "article",
+      "x_default": "/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/",
+      "routes": {
+        "pl": {
+          "url": "/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/handpiece-connections-overheating-nd-yag-calibration/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:serwis-glowicy-lasera-diodowego-szczelnosc-optyka",
+      "type": "article",
+      "x_default": "/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/",
+      "routes": {
+        "pl": {
+          "url": "/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/diode-laser-handpiece-seals-optics/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:uszkodzony-przewod-manipulatora",
+      "type": "article",
+      "x_default": "/blog/uszkodzony-przewod-manipulatora/",
+      "routes": {
+        "pl": {
+          "url": "/blog/uszkodzony-przewod-manipulatora/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/povrezhdennyj-kabel-manipuly/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/damaged-handpiece-cable/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:uzywany-laser-diodowy-z-historia-serwisowa",
+      "type": "article",
+      "x_default": "/blog/uzywany-laser-diodowy-z-historia-serwisowa/",
+      "routes": {
+        "pl": {
+          "url": "/blog/uzywany-laser-diodowy-z-historia-serwisowa/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/used-diode-laser-service-history/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:wymiana-wody-w-laserze-do-depilacji",
+      "type": "article",
+      "x_default": "/blog/wymiana-wody-w-laserze-do-depilacji/",
+      "routes": {
+        "pl": {
+          "url": "/blog/wymiana-wody-w-laserze-do-depilacji/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/hair-removal-laser-cooling-water-maintenance/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "kontakt",
+      "type": "contact",
+      "x_default": "/kontakt/",
+      "routes": {
+        "pl": {
+          "url": "/kontakt/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/kontakt/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/contact/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "partnerzy",
+      "type": "partners",
+      "x_default": "/partnerzy/",
+      "routes": {
+        "pl": {
+          "url": "/partnerzy/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/partnerzy/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/partners/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje",
+      "type": "case-studies",
+      "x_default": "/realizacje/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:beauty-planet-3d-contour-naprawa-przewodu-wroclaw",
+      "type": "case-study",
+      "x_default": "/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/beauty-planet-handpiece-cable-replacement-wroclaw/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:naprawa-3000-nain-bloku-zasilania",
+      "type": "case-study",
+      "x_default": "/realizacje/naprawa-3000-nain-bloku-zasilania/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/naprawa-3000-nain-bloku-zasilania/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/naprawa-3000-nain-bloku-zasilania/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/3000-nain-power-supply-repair/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:naprawa-alma-accent-gorlitz",
+      "type": "case-study",
+      "x_default": "/realizacje/naprawa-alma-accent-gorlitz/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/naprawa-alma-accent-gorlitz/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/naprawa-alma-accent-gorlitz/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/alma-accent-cooling-hose-repair-gorlitz/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:naprawa-beauty-planet-3d-contour-wroclaw",
+      "type": "case-study",
+      "x_default": "/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/beauty-planet-vacuum-rf-repair-wroclaw/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:naprawa-lumenis-lightsheer-desire-olesnica",
+      "type": "case-study",
+      "x_default": "/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:naprawa-multipolar-rf-lublin",
+      "type": "case-study",
+      "x_default": "/realizacje/naprawa-multipolar-rf-lublin/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/naprawa-multipolar-rf-lublin/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/naprawa-multipolar-rf-lublin/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/multipolar-rf-repair-lublin/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:naprawa-nubway-nbw-vsiii-wroclaw",
+      "type": "case-study",
+      "x_default": "/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/nubway-nbw-vsiii-repair-wroclaw/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:naprawa-rsl-masaz-warszawa",
+      "type": "case-study",
+      "x_default": "/realizacje/naprawa-rsl-masaz-warszawa/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/naprawa-rsl-masaz-warszawa/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/naprawa-rsl-masaz-warszawa/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/rsl-massage-device-repair-warsaw/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:pilna-naprawa-lasera-co2-poznan",
+      "type": "case-study",
+      "x_default": "/realizacje/pilna-naprawa-lasera-co2-poznan/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/pilna-naprawa-lasera-co2-poznan/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/pilna-naprawa-lasera-co2-poznan/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/urgent-co2-laser-repair-poznan/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:przeglad-estelase-power-p808l",
+      "type": "case-study",
+      "x_default": "/realizacje/przeglad-estelase-power-p808l/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/przeglad-estelase-power-p808l/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/przeglad-estelase-power-p808l/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/estelase-power-p808l-maintenance/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:przeglad-serwis-pharaon-1470-wroclaw",
+      "type": "case-study",
+      "x_default": "/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/pharaon-1470-maintenance-wroclaw/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:przeglad-techniczny-lasera-do-depilacji",
+      "type": "case-study",
+      "x_default": "/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/hair-removal-laser-maintenance/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:serwis-cavi-shape-advanced-wroclaw",
+      "type": "case-study",
+      "x_default": "/realizacje/serwis-cavi-shape-advanced-wroclaw/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/serwis-cavi-shape-advanced-wroclaw/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/cavi-shape-advanced-service-wroclaw/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:serwis-glowicy-lasera-diodowego-poznan",
+      "type": "case-study",
+      "x_default": "/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/diode-laser-handpiece-service-poznan/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:serwis-gme-exsys-308",
+      "type": "case-study",
+      "x_default": "/realizacje/serwis-gme-exsys-308/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/serwis-gme-exsys-308/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/serwis-gme-exsys-308/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/gme-exsys-308-service-inspection/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:serwis-hifu-kimed-k1-w1601-gorlitz",
+      "type": "case-study",
+      "x_default": "/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/hifu-kimed-k1-w1601-service-gorlitz/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:serwis-lasera-diodowego-wymiana-glowicy-wroclaw",
+      "type": "case-study",
+      "x_default": "/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/diode-laser-handpiece-replacement-wroclaw/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:serwis-lasera-do-usuwania-tatuazu-wymiana-filtra",
+      "type": "case-study",
+      "x_default": "/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/nd-yag-tattoo-removal-laser-filter-service/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:wymiana-modulu-diodowego-lasera-po-zalaniu-poznan",
+      "type": "case-study",
+      "x_default": "/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/flood-damaged-diode-module-replacement-poznan/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:wymiana-modulu-peltiera-estetech-poznan",
+      "type": "case-study",
+      "x_default": "/realizacje/wymiana-modulu-peltiera-estetech-poznan/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/wymiana-modulu-peltiera-estetech-poznan/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/zamena-modulya-pelte-estetech-poznan/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/estetech-peltier-module-replacement-poznan/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:wymiana-peltiera-naprawa-lasera-nd-yag",
+      "type": "case-study",
+      "x_default": "/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/peltier-replacement-nd-yag-laser-repair/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:wymiana-wentylatorow-chlodzenia-lasera-wroclaw",
+      "type": "case-study",
+      "x_default": "/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/laser-cooling-fan-replacement-wroclaw/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "uslugi",
+      "type": "services",
+      "x_default": "/uslugi/",
+      "routes": {
+        "pl": {
+          "url": "/uslugi/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/uslugi/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/services/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "uslugi:cennik",
+      "type": "pricing",
+      "x_default": "/uslugi/cennik/",
+      "routes": {
+        "pl": {
+          "url": "/uslugi/cennik/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/uslugi/cennik/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/pricing/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "uslugi:diagnostyka-laserow-diodowych",
+      "type": "service-detail",
+      "x_default": "/uslugi/diagnostyka-laserow-diodowych/",
+      "routes": {
+        "pl": {
+          "url": "/uslugi/diagnostyka-laserow-diodowych/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/uslugi/diagnostika-diodnyh-lazerov/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/services/diode-laser-diagnostics/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "uslugi:konserwacja-urzadzen-kosmetologicznych",
+      "type": "service-detail",
+      "x_default": "/uslugi/konserwacja-urzadzen-kosmetologicznych/",
+      "routes": {
+        "pl": {
+          "url": "/uslugi/konserwacja-urzadzen-kosmetologicznych/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/services/aesthetic-equipment-maintenance/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "uslugi:naprawa-ekranow-dotykowych",
+      "type": "service-detail",
+      "x_default": "/uslugi/naprawa-ekranow-dotykowych/",
+      "routes": {
+        "pl": {
+          "url": "/uslugi/naprawa-ekranow-dotykowych/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/uslugi/remont-sensornyh-ekranov/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/services/touchscreen-control-panel-repair/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "uslugi:naprawa-ukladow-chlodzenia",
+      "type": "service-detail",
+      "x_default": "/uslugi/naprawa-ukladow-chlodzenia/",
+      "routes": {
+        "pl": {
+          "url": "/uslugi/naprawa-ukladow-chlodzenia/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/uslugi/remont-sistem-ohlazhdeniya/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/services/laser-cooling-system-repair/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "uslugi:naprawa-urzadzen-lpg",
+      "type": "service-detail",
+      "x_default": "/uslugi/naprawa-urzadzen-lpg/",
+      "routes": {
+        "pl": {
+          "url": "/uslugi/naprawa-urzadzen-lpg/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/uslugi/remont-oborudovaniya-lpg/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/services/lpg-endermology-equipment-repair/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "uslugi:naprawa-urzadzen-rf",
+      "type": "service-detail",
+      "x_default": "/uslugi/naprawa-urzadzen-rf/",
+      "routes": {
+        "pl": {
+          "url": "/uslugi/naprawa-urzadzen-rf/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/uslugi/remont-oborudovaniya-rf/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/services/rf-equipment-repair/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "uslugi:naprawa-zasilaczy-i-elektroniki",
+      "type": "service-detail",
+      "x_default": "/uslugi/naprawa-zasilaczy-i-elektroniki/",
+      "routes": {
+        "pl": {
+          "url": "/uslugi/naprawa-zasilaczy-i-elektroniki/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/services/power-supply-electronics-repair/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "uslugi:regeneracja-glowic-i-manipulatorow",
+      "type": "service-detail",
+      "x_default": "/uslugi/regeneracja-glowic-i-manipulatorow/",
+      "routes": {
+        "pl": {
+          "url": "/uslugi/regeneracja-glowic-i-manipulatorow/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/uslugi/vosstanovlenie-golovok-i-manipul/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/services/laser-handpiece-repair/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "uslugi:serwis-ipl",
+      "type": "service-detail",
+      "x_default": "/uslugi/serwis-ipl/",
+      "routes": {
+        "pl": {
+          "url": "/uslugi/serwis-ipl/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/uslugi/servis-ipl/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/services/ipl-equipment-service/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "uslugi:serwis-laserow-co2",
+      "type": "service-detail",
+      "x_default": "/uslugi/serwis-laserow-co2/",
+      "routes": {
+        "pl": {
+          "url": "/uslugi/serwis-laserow-co2/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/uslugi/servis-lazerov-co2/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/services/co2-laser-service/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "uslugi:serwis-laserow-nd-yag",
+      "type": "service-detail",
+      "x_default": "/uslugi/serwis-laserow-nd-yag/",
+      "routes": {
+        "pl": {
+          "url": "/uslugi/serwis-laserow-nd-yag/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/uslugi/servis-lazerov-nd-yag/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/services/nd-yag-laser-service/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "uslugi:serwis-laserow-pikosekundowych",
+      "type": "service-detail",
+      "x_default": "/uslugi/serwis-laserow-pikosekundowych/",
+      "routes": {
+        "pl": {
+          "url": "/uslugi/serwis-laserow-pikosekundowych/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/uslugi/servis-pikosekundnyh-lazerov/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/services/picosecond-laser-service/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "uslugi:serwis-pogwarancyjny",
+      "type": "service-detail",
+      "x_default": "/uslugi/serwis-pogwarancyjny/",
+      "routes": {
+        "pl": {
+          "url": "/uslugi/serwis-pogwarancyjny/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/uslugi/poslegarantiynoe-obsluzhivanie/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/services/post-warranty-equipment-service/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "uslugi:serwis-urzadzen-do-krioterapii",
+      "type": "service-detail",
+      "x_default": "/uslugi/serwis-urzadzen-do-krioterapii/",
+      "routes": {
+        "pl": {
+          "url": "/uslugi/serwis-urzadzen-do-krioterapii/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/services/cryotherapy-cryolipolysis-equipment-service/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "uslugi:wymiana-i-kalibracja-diod-laserowych",
+      "type": "service-detail",
+      "x_default": "/uslugi/wymiana-i-kalibracja-diod-laserowych/",
+      "routes": {
+        "pl": {
+          "url": "/uslugi/wymiana-i-kalibracja-diod-laserowych/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/services/laser-diode-replacement-calibration/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "international-service",
+      "type": "services",
+      "x_default": null,
+      "routes": {
+        "en": {
+          "url": "/en/international-service/",
+          "status": "planned"
+        }
+      }
+    },
+    {
+      "id": "international-service:on-site-repair",
+      "type": "service-detail",
+      "x_default": null,
+      "routes": {
+        "en": {
+          "url": "/en/international-service/on-site-repair/",
+          "status": "planned"
+        }
+      }
+    },
+    {
+      "id": "international-service:ship-in-repair-poland",
+      "type": "service-detail",
+      "x_default": null,
+      "routes": {
+        "en": {
+          "url": "/en/international-service/ship-in-repair-poland/",
+          "status": "planned"
+        }
+      }
+    }
+  ]
+}

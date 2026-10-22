@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/naprawa-urzadzen-lpg/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/naprawa-urzadzen-lpg/), [English](https://lasertechservice.pl/en/services/lpg-endermology-equipment-repair/)
 
 > Диагностика роликовых механизмов, вакуума и манипул аппаратов для эндермологии. Определяем причину шума, потери вакуума или неисправности управления головкой.
 

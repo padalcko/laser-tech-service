@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/), [English](https://lasertechservice.pl/en/case-studies/cavi-shape-advanced-service-wroclaw/)
 
 > Обслуживание Cavi Shape Advanced во Вроцлаве. Ремонт трёх RF-манипул, инфракрасного излучения и ультразвука. Очистка контактов, ремонт соединений и основной платы.
 

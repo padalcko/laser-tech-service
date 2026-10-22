@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/), [English](https://lasertechservice.pl/en/case-studies/estetech-peltier-module-replacement-poznan/)
 
 > Выездной ремонт ESTETECH в Познани: замена модуля Пельтье, обновление термоинтерфейса и восстановление охлаждения манипулы. Фотографии и ход работ.
 

@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/), [English](https://lasertechservice.pl/en/blog/risks-of-replacing-laser-seals-yourself/)
 
 > Неправильно установленная прокладка привела к залитию диода лазера в Познани. Разбираем риски, расходы и признаки, при которых аппарат нужно выключить.
 

@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/blog/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/), [English](https://lasertechservice.pl/en/blog/)
 
 > Блог Laser Tech Service о ремонте, обслуживании и диагностике лазерного и косметологического оборудования. Практические советы для владельцев салонов и кабинетов.
 

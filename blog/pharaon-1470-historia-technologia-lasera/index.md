@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/), [English](https://lasertechservice.pl/en/blog/pharaon-1470-laser-history-technology/)
 
 > Pharaon 1470, LSO Medical i OSYRIS: historia oznaczeń, znaczenie długości fali 1470 nm oraz jej zastosowanie w medycynie, na podstawie źródeł i badań.
 

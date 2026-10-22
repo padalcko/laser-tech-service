@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/), [English](https://lasertechservice.pl/en/case-studies/rsl-massage-device-repair-warsaw/)
 
 > Pilna naprawa urządzenia do masażu RSL w Warszawie. Naprawa przewodu manipulatora i wymiana złącza przez Laser Tech Service.
 

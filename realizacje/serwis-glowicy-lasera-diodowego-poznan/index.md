@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/), [English](https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-service-poznan/)
 
 > Serwis głowicy lasera diodowego w Poznaniu. Usunięcie zabrudzeń po rozszczelnieniu manipulatora, czyszczenie optyki i wnętrza głowicy oraz przywrócenie szczelności.
 

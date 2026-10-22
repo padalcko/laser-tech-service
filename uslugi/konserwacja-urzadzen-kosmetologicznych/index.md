@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/), [English](https://lasertechservice.pl/en/services/aesthetic-equipment-maintenance/)
 
 > Planowa obsługa techniczna pozwala wcześniej zauważyć zanieczyszczenia, przegrzewanie i zużycie podzespołów. Dobieramy czyszczenie i kontrolę do budowy urządzenia oraz warunków jego eksploatacji.
 

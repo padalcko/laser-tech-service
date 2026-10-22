@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Validate the bilingual used-laser buying guide and its integration."""
+from site_locales import expected_alternates
 import importlib.util
 import json
 import math
@@ -43,8 +44,7 @@ for lang, route in ROUTES.items():
     assert post['mainEntityOfPage']['@id'] == ai.BASE + route
     assert post['author']['@id'] == ai.ORG
     assert post['dateModified'] == '2026-10-12'
-    expected = {key: ai.BASE + value for key, value in ROUTES.items()}
-    expected['x-default'] = expected['pl']
+    expected = expected_alternates(ai.BASE + route)
     assert {n.attrs['hreflang']: n.attrs['href'] for n in tree.all('link') if 'hreflang' in n.attrs} == expected
     assert [n.attrs['href'] for n in tree.all('link') if n.attrs.get('rel') == 'canonical'] == [ai.BASE + route]
     images = list(main.all('img'))

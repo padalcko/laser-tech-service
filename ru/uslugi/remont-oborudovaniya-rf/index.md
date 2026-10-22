@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/), [English](https://lasertechservice.pl/en/services/rf-equipment-repair/)
 
 > Диагностика генераторов RF, электроники и манипул. Ремонт RF-аппаратов и микроигольчатых механизмов с учётом модели — сервис по всей Польше.
 

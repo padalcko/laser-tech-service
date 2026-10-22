@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/), [English](https://lasertechservice.pl/en/case-studies/beauty-planet-vacuum-rf-repair-wroclaw/)
 
 > Ремонт Beauty Planet 3D Contour во Вроцлаве. Диагностика манипулы, нарушение электропитания, неработающие вакуум и RF. Восстановление вакуумной и радиочастотной функций.
 

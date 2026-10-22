@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/), [English](https://lasertechservice.pl/en/case-studies/flood-damaged-diode-module-replacement-poznan/)
 
 > Ремонт лазера в Познани: замена залитого диодного модуля и правильная установка прокладки. Фотографии повреждений и причина дорогостоящей поломки.
 

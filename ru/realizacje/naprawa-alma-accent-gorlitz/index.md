@@ -4,7 +4,7 @@
 
 Язык: Русский
 
-Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/)
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/), [English](https://lasertechservice.pl/en/case-studies/alma-accent-cooling-hose-repair-gorlitz/)
 
 > Ремонт Alma Accent в Гёрлице. Замена повреждённого в трёх местах шланга подачи воды к RF-манипуле и восстановление нормальной циркуляции охлаждающей жидкости.
 

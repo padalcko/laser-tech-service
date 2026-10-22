@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/), [English](https://lasertechservice.pl/en/case-studies/estetech-peltier-module-replacement-poznan/)
 
 > Wyjazdowa naprawa ESTETECH w Poznaniu: wymiana modułu Peltiera, odnowienie termointerfejsu i przywrócenie chłodzenia manipuły. Zobacz przebieg prac.
 

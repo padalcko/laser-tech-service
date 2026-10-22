@@ -4,7 +4,7 @@
 
 Język: Polski
 
-Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/servis-pikosekundnyh-lazerov/)
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/uslugi/servis-pikosekundnyh-lazerov/), [English](https://lasertechservice.pl/en/services/picosecond-laser-service/)
 
 > Ocena źródła, toru optycznego i stabilności energii laserów pikosekundowych. Sprawdzamy także zasilanie i chłodzenie; możliwość naprawy źródła potwierdzamy przed ustaleniem zakresu.
 
