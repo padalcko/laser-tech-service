@@ -1,7 +1,7 @@
 /* Every published lead form: mock only, no external traffic. */
 const {chromium}=require(process.env.PLAYWRIGHT_MODULE||'playwright');
 const fs=require('fs'),path=require('path'),assert=require('assert').strict;
-const root=path.resolve(__dirname,'..'),base=process.env.LTS_TEST_BASE||'http://127.0.0.1:8788',out=process.env.LTS_TEST_OUT||'docs/qa/final-v1';fs.mkdirSync(out,{recursive:true});
+const root=path.resolve(__dirname,'..'),base=process.env.LTS_TEST_BASE||'http://127.0.0.1:8788',out=process.env.LTS_TEST_OUT||'/tmp/lts-final-v1';fs.mkdirSync(out,{recursive:true});
 const registry=JSON.parse(fs.readFileSync(path.join(__dirname,'site-locales.json')));
 const routes=registry.pages.flatMap(g=>Object.entries(g.routes).filter(([,r])=>r.status==='published').map(([language,r])=>({url:r.url,language}))).filter(r=>fs.readFileSync(path.join(root,r.url,'index.html'),'utf8').includes('<form'));
 (async()=>{

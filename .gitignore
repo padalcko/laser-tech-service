@@ -1,3 +1,6 @@
 .DS_Store
 __pycache__/
 *.py[cod]
+
+# Generated local QA evidence is not website content.
+/docs/qa/

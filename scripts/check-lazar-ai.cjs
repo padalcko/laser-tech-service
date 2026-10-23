@@ -15,7 +15,7 @@ function routeFor(type, language) {
  assert(page, `Missing published ${type} route for ${language}`);
  return page.routes[language].url;
 }
-const launcherLabels = {pl: 'ZAPYTAJ ŁAZARA', ru: 'СПРОСИТЬ ЛАЗАРЯ', en: 'ASK LAZAR'};
+const launcherLabels = {pl: 'Zapytaj Łazarza', ru: 'Спросить Лазаря', en: 'Ask Lazar'};
 (async () => {
  const browser = await chromium.launch({ headless: true, executablePath: process.env.CHROME_PATH || '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' });
  async function context(width = 390, language = 'pl', timeout = false) {
@@ -43,7 +43,7 @@ const launcherLabels = {pl: 'ZAPYTAJ ŁAZARA', ru: 'СПРОСИТЬ ЛАЗАР�
   await p.locator('.lazar-launcher').waitFor();
   return { c, p, requests, errors, mode: value => mode = value };
  }
- for (const width of [320,375,390,430,768,1024,1440]) for (const language of languages) {
+ for (const width of [320,375,390,430,768,1024,1440,1920]) for (const language of languages) {
   const x = await context(width, language); const {p,c} = x;
   assert.equal(await p.locator('.lazar-panel').isVisible(), false);
   const label = launcherLabels[language];
@@ -83,7 +83,7 @@ const launcherLabels = {pl: 'ZAPYTAJ ŁAZARA', ru: 'СПРОСИТЬ ЛАЗАР�
   await p.locator('.lazar-input').fill('   ');await p.locator('.lazar-send').click();assert.equal(x.requests.length,0);
   const submit=async(text)=>{await p.locator('.lazar-input').fill(text);await p.locator('.lazar-send').click();};
   const finished=()=>p.waitForFunction(()=>document.querySelector('.lazar-form').getAttribute('aria-busy')==='false');
-  for(const mode of ['500','502','503','invalid','empty','object','null','literal','network','timeout']) {
+  for(const mode of ['400','500','502','503','invalid','empty','object','null','literal','network','timeout']) {
    x.mode(mode);await submit('TEST-'+mode);await finished();assert(await p.locator('.lazar-retry').isVisible());
    assert.equal(await p.locator('.lazar-input').inputValue(),'TEST-'+mode);
    assert.equal(await p.locator('.lazar-message').last().locator('.lazar-contacts a:visible').count(),2);

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Update only the language component from published registry peers; --check is read-only."""
 import argparse
+import json
 import re
 from html import escape
 import site_locales as locales
@@ -46,6 +47,18 @@ def main():
             stale.append(str(path.relative_to(locales.ROOT)))
             if not args.check:
                 path.write_text(updated)
+    # The shared chat uses the same published contact routes as navigation.
+    contact = next(g for g in registry['pages'] if g['type'] == 'contact')
+    routes = dict(locales.published(contact))
+    client = locales.ROOT / 'js/lazar-ai.js'
+    source = client.read_text()
+    block = '// BEGIN LAZAR CONTACT ROUTES\n  const contactRoutes = ' + json.dumps(routes, ensure_ascii=False) + ';\n  // END LAZAR CONTACT ROUTES'
+    updated, count = re.subn(r'// BEGIN LAZAR CONTACT ROUTES.*?// END LAZAR CONTACT ROUTES', lambda _: block, source, flags=re.S)
+    assert count == 1, 'Expected one generated Lazar contact-route block'
+    if source != updated:
+        stale.append('js/lazar-ai.js')
+        if not args.check:
+            client.write_text(updated)
     print(f'Language components: {len(targets)}; ' + ('stale' if args.check else 'updated') + f': {len(stale)}')
     if args.check and stale:
         raise SystemExit(1)

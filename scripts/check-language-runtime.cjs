@@ -30,7 +30,7 @@ const results = [];
    if(!u.startsWith(base+'/'))return r.abort();
    if(locale && r.request().resourceType()==='document'){
     const response=await r.fetch();
-    return r.fulfill({response,body:(await response.text()).replace(/<html lang="[^"]+"/,`<html data-lazar-enabled="true" lang="${locale}"`)});
+    return r.fulfill({response,body:(await response.text()).replace(/ data-lazar-enabled="[^"]*"/g,'').replace(/<html lang="[^"]+"/,`<html data-lazar-enabled="true" lang="${locale}"`)});
    }
    return r.continue();
   });
@@ -72,17 +72,17 @@ const results = [];
  await nojs.p.locator('.language-switcher [hreflang=ru]').click();await nojs.p.waitForURL(base+'/ru/');await nojs.c.close();
  for(const locale of ['pl','ru','en','en-GB','xx']){
   const lang=locale.startsWith('en')?'en':locale==='ru'?'ru':'pl';const x=await setup(locale);const {p}=x;
-  await p.goto(base+'/uslugi/diagnostyka-laserow-diodowych/');
+  await p.goto(base+registry.pages.find(g=>g.id==='uslugi:diagnostyka-laserow-diodowych').routes[lang].url);
   await p.locator('.nav-toggle').click();await p.keyboard.press('Escape');
   assert.equal(await p.locator('.nav-toggle').getAttribute('aria-label'),{pl:'Otwórz menu',ru:'Открыть меню',en:'Open menu'}[lang]);
-  await p.locator('.lazar-launcher').waitFor();assert.equal(await p.locator('.lazar-launcher-label').innerText(),{pl:'ZAPYTAJ ŁAZARA',ru:'СПРОСИТЬ ЛАЗАРЯ',en:'ASK LAZAR'}[lang]);
+  await p.locator('.lazar-launcher').waitFor();assert.equal(await p.locator('.lazar-launcher-label').innerText(),{pl:'Zapytaj Łazarza',ru:'Спросить Лазаря',en:'Ask Lazar'}[lang]);
   await p.locator('.lazar-launcher').click();
   assert.equal(await p.locator('.lazar-contacts a').nth(1).getAttribute('href'),{pl:'/kontakt/#contactid',ru:'/ru/kontakt/#contactid',en:'/en/contact/'}[lang]);
   for(const mode of ['500','invalid','empty','network','success']){
    x.setMode(mode);await p.locator('.lazar-input').fill('TEST runtime');await p.locator('.lazar-send').click();
    await p.waitForFunction(()=>document.querySelector('.lazar-form').getAttribute('aria-busy')==='false');
    assert.equal(x.requests.at(-1).body.language,lang);
-   if(lang==='en'&&mode!=='success')assert.match(await p.locator('.lazar-message').last().innerText(),/Sorry|temporary technical/);
+   if(lang==='en'&&mode!=='success')assert.match(await p.locator('.lazar-message').last().innerText(),/temporarily unavailable|taking longer|couldn.t process|temporary technical/);
   }
   const ids=x.requests.map(r=>r.body.session_id);assert(ids.every(id=>id===ids[0]));
   await p.keyboard.press('Escape');

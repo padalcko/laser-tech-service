@@ -73,3 +73,10 @@
  @keyframes lazar-glow { 0%, 100% { opacity: .45; } 50% { opacity: 1; box-shadow: 0 0 20px #cbb26a55; } }
  @keyframes lazar-open { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
 }
+
+/* Shared V2 controls and system notices: identical for all locales. */
+.lazar-title { font-size: 14px; line-height: 1.35; min-height: 57px; margin: 0; }
+.lazar-quick { display: grid; gap: 6px; margin-bottom: 12px; }
+.lazar-quick-question { width: 100%; text-align: left; justify-content: flex-start; }
+.lazar-message--system .lazar-bubble { background: var(--black-soft); color: var(--gold-light); border: 1px solid var(--gold-dark); }
+.lazar-bubble strong { color: inherit; }

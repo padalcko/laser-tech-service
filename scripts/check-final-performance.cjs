@@ -1,7 +1,7 @@
 /* Local observations only; no field CWV or INP claims. */
 const {chromium}=require(process.env.PLAYWRIGHT_MODULE||'playwright');const fs=require('fs'),path=require('path');
 (async()=>{
- const base=process.env.LTS_TEST_BASE||'http://127.0.0.1:8788',out=process.env.LTS_TEST_OUT||'docs/qa/final-v1';fs.mkdirSync(out,{recursive:true});
+ const base=process.env.LTS_TEST_BASE||'http://127.0.0.1:8788',out=process.env.LTS_TEST_OUT||'/tmp/lts-final-v1';fs.mkdirSync(out,{recursive:true});
  const b=await chromium.launch({channel:'chrome',headless:true}),results=[];
  for(const route of ['/','/ru/','/en/','/en/pricing/','/en/partners/','/en/services/','/en/services/diode-laser-diagnostics/'])for(const width of [390,1440]){
   const c=await b.newContext({viewport:{width,height:900},reducedMotion:'reduce'});await c.route('**/*',r=>r.request().url().startsWith(base+'/')?r.continue():r.abort());

@@ -25,7 +25,7 @@ const out=process.env.LTS_TEST_OUT||'/tmp/lts-stage3a';fs.mkdirSync(out,{recursi
  const selected=['diode-laser-diagnostics','touchscreen-control-panel-repair','co2-laser-service'];
  for(const g of groups)for(const width of [320,390,1440]){
   const route=g.routes.en.url,slug=route.split('/')[3];await p.setViewportSize({width,height:900});await p.goto(base+route);
-  await p.waitForTimeout(100);assert.equal(await p.locator('.lazar-root').count(),0);
+  await p.waitForTimeout(100);assert.equal(await p.locator('.lazar-root').getAttribute('data-sending-enabled'),'false');
   assert.equal(await p.locator('h1').count(),1);assert.equal(await p.locator('html').getAttribute('lang'),'en');
   const dropdown=p.locator('.language-switcher__dropdown');await dropdown.locator('summary').click();
   assert.deepEqual(await dropdown.locator('a').evaluateAll(es=>es.map(e=>e.hreflang)),['pl','ru','en']);
@@ -75,5 +75,5 @@ const out=process.env.LTS_TEST_OUT||'/tmp/lts-stage3a';fs.mkdirSync(out,{recursi
   results.push({route,width,layout:'PASS',chat:'hidden'});
  }
  assert.deepEqual(errors,[]);await browser.close();fs.writeFileSync(path.join(out,'results.json'),JSON.stringify(results,null,2));
- console.log('PASS: 195 HTTP pages, 45 layouts, 15 mock forms, PL/RU/EN round trips, keyboard, images, hidden chat');
+ console.log('PASS: 195 HTTP pages, 45 layouts, 15 mock forms, PL/RU/EN round trips, keyboard, images, gated EN sending');
 })().catch(e=>{console.error(e);process.exit(1)});

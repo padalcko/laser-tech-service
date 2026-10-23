@@ -13,7 +13,7 @@ const shots=new Set(['/en/blog/','/en/case-studies/','/en/blog/hifu-technology-a
  for(const g of groups)assert.equal((await c.request.get(base+g.routes.en.url)).status(),200);
  for(const width of [320,390,1440])for(const g of groups){
   const route=g.routes.en.url;await p.setViewportSize({width,height:900});await p.goto(base+route);
-  assert.equal(await p.locator('.lazar-root').count(),0);
+  assert.equal(await p.locator('.lazar-root').getAttribute('data-sending-enabled'),'false');
   const dropdown=p.locator('.language-switcher__dropdown');await dropdown.locator('summary').click();
   assert.deepEqual(await dropdown.locator('a').evaluateAll(es=>es.map(e=>e.hreflang)),['pl','ru','en']);
   await p.keyboard.press('ArrowDown');assert.equal(await p.locator(':focus').getAttribute('hreflang'),'pl');

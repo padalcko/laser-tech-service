@@ -4,7 +4,7 @@ const fs=require('fs'),path=require('path'),assert=require('assert').strict;
 const registry=JSON.parse(fs.readFileSync(path.join(__dirname,'site-locales.json')));
 const routes=registry.pages.flatMap(g=>Object.entries(g.routes).filter(([,r])=>r.status==='published').map(([language,r])=>({url:r.url,language,type:g.type})));
 routes.push({url:'/404.html',language:'pl',type:'404'});
-const base=process.env.LTS_TEST_BASE||'http://127.0.0.1:8788',out=process.env.LTS_TEST_OUT||'docs/qa/final-v1';fs.mkdirSync(out,{recursive:true});
+const base=process.env.LTS_TEST_BASE||'http://127.0.0.1:8788',out=process.env.LTS_TEST_OUT||'/tmp/lts-final-v1';fs.mkdirSync(out,{recursive:true});
 const selected=new Set(['/en/','/en/pricing/','/en/partners/','/en/services/','/en/services/diode-laser-diagnostics/','/en/services/co2-laser-service/','/en/services/laser-handpiece-repair/','/','/ru/','/404.html']);
 (async()=>{
  const b=await chromium.launch({channel:'chrome',headless:true});const c=await b.newContext({reducedMotion:'reduce'});const errors=[],issues=[],results=[];
@@ -21,7 +21,7 @@ const selected=new Set(['/en/','/en/pricing/','/en/partners/','/en/services/','/
    for(const faq of await p.locator('.faq__question').all()){
     await faq.focus();await p.keyboard.press('Enter');assert.equal(await faq.getAttribute('aria-expanded'),'true');await faq.click();assert.equal(await faq.getAttribute('aria-expanded'),'false');
    }
-   if(route.language==='en')assert.equal(await p.locator('.lazar-root').count(),0);
+   if(route.language==='en')assert.equal(await p.locator('.lazar-root').getAttribute('data-sending-enabled'),'false');
    for(const width of [320,390,768,1024,1440,1920]){
     await p.setViewportSize({width,height:900});await p.evaluate(()=>scrollTo(0,0));await p.waitForTimeout(30);
     const overflow=await p.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1);
