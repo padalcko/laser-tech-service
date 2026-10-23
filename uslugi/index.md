@@ -52,7 +52,7 @@ Naprawiamy urządzenia wykorzystywane w salonach beauty, klinikach kosmetologicz
 
 Nie widzisz swojego urządzenia na liście? Skontaktuj się z nami. Po otrzymaniu modelu urządzenia i opisu usterki potwierdzimy możliwość wykonania naprawy.
 
-###### LASER TECH SERVICE
+LASER TECH SERVICE
 
 ### Naprawiamy urządzenia, zamiast od razu wymieniać je na nowe
 

@@ -1,0 +1,5888 @@
+{
+  "routes": 196,
+  "layouts": [
+    {
+      "route": "/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/3000-nain-laser-historia-konstrukcja-serwis/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/3000-nain-laser-historia-konstrukcja-serwis/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/3000-nain-laser-historia-konstrukcja-serwis/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/3000-nain-laser-historia-konstrukcja-serwis/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/3000-nain-laser-historia-konstrukcja-serwis/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/3000-nain-laser-historia-konstrukcja-serwis/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/3000-nain-lazer-istoriya-konstrukciya-servis/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/3000-nain-lazer-istoriya-konstrukciya-servis/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/3000-nain-lazer-istoriya-konstrukciya-servis/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/3000-nain-lazer-istoriya-konstrukciya-servis/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/3000-nain-lazer-istoriya-konstrukciya-servis/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/3000-nain-lazer-istoriya-konstrukciya-servis/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/3000-nain-laser-history-design-service/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/3000-nain-laser-history-design-service/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/3000-nain-laser-history-design-service/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/3000-nain-laser-history-design-service/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/3000-nain-laser-history-design-service/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/3000-nain-laser-history-design-service/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/5-oznak-wymiany-diody-w-laserze/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/5-oznak-wymiany-diody-w-laserze/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/5-oznak-wymiany-diody-w-laserze/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/5-oznak-wymiany-diody-w-laserze/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/5-oznak-wymiany-diody-w-laserze/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/5-oznak-wymiany-diody-w-laserze/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/5-priznakov-zameny-dioda-v-lazere/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/5-priznakov-zameny-dioda-v-lazere/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/5-priznakov-zameny-dioda-v-lazere/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/5-priznakov-zameny-dioda-v-lazere/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/5-priznakov-zameny-dioda-v-lazere/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/5-priznakov-zameny-dioda-v-lazere/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/five-signs-laser-diode-needs-inspection/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/five-signs-laser-diode-needs-inspection/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/five-signs-laser-diode-needs-inspection/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/five-signs-laser-diode-needs-inspection/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/five-signs-laser-diode-needs-inspection/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/five-signs-laser-diode-needs-inspection/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/beauty-planet-3d-contour-mozliwosci-serwis/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/beauty-planet-3d-contour-mozliwosci-serwis/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/beauty-planet-3d-contour-mozliwosci-serwis/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/beauty-planet-3d-contour-mozliwosci-serwis/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/beauty-planet-3d-contour-mozliwosci-serwis/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/beauty-planet-3d-contour-mozliwosci-serwis/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/beauty-planet-3d-contour-features-service/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/beauty-planet-3d-contour-features-service/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/beauty-planet-3d-contour-features-service/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/beauty-planet-3d-contour-features-service/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/beauty-planet-3d-contour-features-service/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/beauty-planet-3d-contour-features-service/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/laser-cooling-system-cleaning-overheating/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/laser-cooling-system-cleaning-overheating/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/laser-cooling-system-cleaning-overheating/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/laser-cooling-system-cleaning-overheating/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/laser-cooling-system-cleaning-overheating/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/laser-cooling-system-cleaning-overheating/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-maly-przewod-powoduje-duze-problemy/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-maly-przewod-powoduje-duze-problemy/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-maly-przewod-powoduje-duze-problemy/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-maly-przewod-powoduje-duze-problemy/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-maly-przewod-powoduje-duze-problemy/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-maly-przewod-powoduje-duze-problemy/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-malenkiy-kabel-sozdayot-bolshie-problemy/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-malenkiy-kabel-sozdayot-bolshie-problemy/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-malenkiy-kabel-sozdayot-bolshie-problemy/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-malenkiy-kabel-sozdayot-bolshie-problemy/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-malenkiy-kabel-sozdayot-bolshie-problemy/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-malenkiy-kabel-sozdayot-bolshie-problemy/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/why-a-small-cable-causes-big-problems/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/why-a-small-cable-causes-big-problems/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/why-a-small-cable-causes-big-problems/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/why-a-small-cable-causes-big-problems/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/why-a-small-cable-causes-big-problems/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/why-a-small-cable-causes-big-problems/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/risks-of-replacing-laser-seals-yourself/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/risks-of-replacing-laser-seals-yourself/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/risks-of-replacing-laser-seals-yourself/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/risks-of-replacing-laser-seals-yourself/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/risks-of-replacing-laser-seals-yourself/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/risks-of-replacing-laser-seals-yourself/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/why-laser-diode-modules-fail/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/why-laser-diode-modules-fail/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/why-laser-diode-modules-fail/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/why-laser-diode-modules-fail/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/why-laser-diode-modules-fail/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/why-laser-diode-modules-fail/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/professional-aesthetic-equipment-service/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/professional-aesthetic-equipment-service/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/professional-aesthetic-equipment-service/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/professional-aesthetic-equipment-service/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/professional-aesthetic-equipment-service/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/professional-aesthetic-equipment-service/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/hifu-technology-applications-service/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/hifu-technology-applications-service/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/hifu-technology-applications-service/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/hifu-technology-applications-service/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/hifu-technology-applications-service/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/hifu-technology-applications-service/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/jak-kupic-uzywany-laser-do-depilacji/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/jak-kupic-uzywany-laser-do-depilacji/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/jak-kupic-uzywany-laser-do-depilacji/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/jak-kupic-uzywany-laser-do-depilacji/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/jak-kupic-uzywany-laser-do-depilacji/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/jak-kupic-uzywany-laser-do-depilacji/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/how-to-buy-a-used-hair-removal-laser/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/how-to-buy-a-used-hair-removal-laser/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/how-to-buy-a-used-hair-removal-laser/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/how-to-buy-a-used-hair-removal-laser/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/how-to-buy-a-used-hair-removal-laser/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/how-to-buy-a-used-hair-removal-laser/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/co2-laser-not-responding-to-foot-pedal/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/co2-laser-not-responding-to-foot-pedal/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/co2-laser-not-responding-to-foot-pedal/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/co2-laser-not-responding-to-foot-pedal/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/co2-laser-not-responding-to-foot-pedal/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/co2-laser-not-responding-to-foot-pedal/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/laser-tech-service-zlota-firma-2026/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/laser-tech-service-zlota-firma-2026/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/laser-tech-service-zlota-firma-2026/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/laser-tech-service-zlota-firma-2026/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/laser-tech-service-zlota-firma-2026/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/laser-tech-service-zlota-firma-2026/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/laser-tech-service-zlota-firma-2026/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/laser-tech-service-zlota-firma-2026/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/laser-tech-service-zlota-firma-2026/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/laser-tech-service-zlota-firma-2026/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/laser-tech-service-zlota-firma-2026/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/laser-tech-service-zlota-firma-2026/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/laser-tech-service-zlota-firma-2026/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/laser-tech-service-zlota-firma-2026/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/laser-tech-service-zlota-firma-2026/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/laser-tech-service-zlota-firma-2026/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/laser-tech-service-zlota-firma-2026/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/laser-tech-service-zlota-firma-2026/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/lightsheer-desire-chlodzenie-niezawodnosc/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/lightsheer-desire-chlodzenie-niezawodnosc/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/lightsheer-desire-chlodzenie-niezawodnosc/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/lightsheer-desire-chlodzenie-niezawodnosc/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/lightsheer-desire-chlodzenie-niezawodnosc/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/lightsheer-desire-chlodzenie-niezawodnosc/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/lightsheer-desire-cooling-reliability/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/lightsheer-desire-cooling-reliability/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/lightsheer-desire-cooling-reliability/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/lightsheer-desire-cooling-reliability/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/lightsheer-desire-cooling-reliability/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/lightsheer-desire-cooling-reliability/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/modul-peltiera-chlodzenie-glowicy-lasera/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/modul-peltiera-chlodzenie-glowicy-lasera/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/modul-peltiera-chlodzenie-glowicy-lasera/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/modul-peltiera-chlodzenie-glowicy-lasera/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/modul-peltiera-chlodzenie-glowicy-lasera/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/modul-peltiera-chlodzenie-glowicy-lasera/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/peltier-module-laser-handpiece-cooling/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/peltier-module-laser-handpiece-cooling/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/peltier-module-laser-handpiece-cooling/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/peltier-module-laser-handpiece-cooling/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/peltier-module-laser-handpiece-cooling/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/peltier-module-laser-handpiece-cooling/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/pharaon-1470-historia-technologia-lasera/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/pharaon-1470-historia-technologia-lasera/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/pharaon-1470-historia-technologia-lasera/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/pharaon-1470-historia-technologia-lasera/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/pharaon-1470-historia-technologia-lasera/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/pharaon-1470-historia-technologia-lasera/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/pharaon-1470-laser-history-technology/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/pharaon-1470-laser-history-technology/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/pharaon-1470-laser-history-technology/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/pharaon-1470-laser-history-technology/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/pharaon-1470-laser-history-technology/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/pharaon-1470-laser-history-technology/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/scheduled-diode-laser-maintenance/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/scheduled-diode-laser-maintenance/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/scheduled-diode-laser-maintenance/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/scheduled-diode-laser-maintenance/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/scheduled-diode-laser-maintenance/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/scheduled-diode-laser-maintenance/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/handpiece-connections-overheating-nd-yag-calibration/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/handpiece-connections-overheating-nd-yag-calibration/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/handpiece-connections-overheating-nd-yag-calibration/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/handpiece-connections-overheating-nd-yag-calibration/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/handpiece-connections-overheating-nd-yag-calibration/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/handpiece-connections-overheating-nd-yag-calibration/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/diode-laser-handpiece-seals-optics/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/diode-laser-handpiece-seals-optics/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/diode-laser-handpiece-seals-optics/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/diode-laser-handpiece-seals-optics/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/diode-laser-handpiece-seals-optics/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/diode-laser-handpiece-seals-optics/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/uszkodzony-przewod-manipulatora/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/uszkodzony-przewod-manipulatora/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/uszkodzony-przewod-manipulatora/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/uszkodzony-przewod-manipulatora/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/uszkodzony-przewod-manipulatora/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/uszkodzony-przewod-manipulatora/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/povrezhdennyj-kabel-manipuly/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/povrezhdennyj-kabel-manipuly/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/povrezhdennyj-kabel-manipuly/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/povrezhdennyj-kabel-manipuly/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/povrezhdennyj-kabel-manipuly/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/povrezhdennyj-kabel-manipuly/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/damaged-handpiece-cable/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/damaged-handpiece-cable/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/damaged-handpiece-cable/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/damaged-handpiece-cable/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/damaged-handpiece-cable/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/damaged-handpiece-cable/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/uzywany-laser-diodowy-z-historia-serwisowa/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/uzywany-laser-diodowy-z-historia-serwisowa/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/uzywany-laser-diodowy-z-historia-serwisowa/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/uzywany-laser-diodowy-z-historia-serwisowa/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/uzywany-laser-diodowy-z-historia-serwisowa/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/uzywany-laser-diodowy-z-historia-serwisowa/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/used-diode-laser-service-history/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/used-diode-laser-service-history/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/used-diode-laser-service-history/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/used-diode-laser-service-history/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/used-diode-laser-service-history/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/used-diode-laser-service-history/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/blog/wymiana-wody-w-laserze-do-depilacji/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/blog/wymiana-wody-w-laserze-do-depilacji/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/blog/wymiana-wody-w-laserze-do-depilacji/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/blog/wymiana-wody-w-laserze-do-depilacji/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/blog/wymiana-wody-w-laserze-do-depilacji/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/blog/wymiana-wody-w-laserze-do-depilacji/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/hair-removal-laser-cooling-water-maintenance/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/hair-removal-laser-cooling-water-maintenance/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/hair-removal-laser-cooling-water-maintenance/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/hair-removal-laser-cooling-water-maintenance/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/hair-removal-laser-cooling-water-maintenance/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/blog/hair-removal-laser-cooling-water-maintenance/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/kontakt/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/kontakt/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/kontakt/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/kontakt/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/kontakt/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/kontakt/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/kontakt/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/kontakt/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/kontakt/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/kontakt/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/kontakt/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/kontakt/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/contact/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/contact/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/contact/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/contact/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/contact/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/contact/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/partnerzy/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/partnerzy/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/partnerzy/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/partnerzy/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/partnerzy/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/partnerzy/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/partnerzy/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/partnerzy/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/partnerzy/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/partnerzy/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/partnerzy/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/partnerzy/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/partners/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/partners/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/partners/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/partners/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/partners/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/partners/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/beauty-planet-handpiece-cable-replacement-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/beauty-planet-handpiece-cable-replacement-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/beauty-planet-handpiece-cable-replacement-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/beauty-planet-handpiece-cable-replacement-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/beauty-planet-handpiece-cable-replacement-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/beauty-planet-handpiece-cable-replacement-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-3000-nain-bloku-zasilania/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-3000-nain-bloku-zasilania/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-3000-nain-bloku-zasilania/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-3000-nain-bloku-zasilania/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-3000-nain-bloku-zasilania/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-3000-nain-bloku-zasilania/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-3000-nain-bloku-zasilania/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-3000-nain-bloku-zasilania/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-3000-nain-bloku-zasilania/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-3000-nain-bloku-zasilania/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-3000-nain-bloku-zasilania/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-3000-nain-bloku-zasilania/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/3000-nain-power-supply-repair/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/3000-nain-power-supply-repair/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/3000-nain-power-supply-repair/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/3000-nain-power-supply-repair/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/3000-nain-power-supply-repair/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/3000-nain-power-supply-repair/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-alma-accent-gorlitz/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-alma-accent-gorlitz/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-alma-accent-gorlitz/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-alma-accent-gorlitz/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-alma-accent-gorlitz/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-alma-accent-gorlitz/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-alma-accent-gorlitz/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-alma-accent-gorlitz/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-alma-accent-gorlitz/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-alma-accent-gorlitz/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-alma-accent-gorlitz/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-alma-accent-gorlitz/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/alma-accent-cooling-hose-repair-gorlitz/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/alma-accent-cooling-hose-repair-gorlitz/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/alma-accent-cooling-hose-repair-gorlitz/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/alma-accent-cooling-hose-repair-gorlitz/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/alma-accent-cooling-hose-repair-gorlitz/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/alma-accent-cooling-hose-repair-gorlitz/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/beauty-planet-vacuum-rf-repair-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/beauty-planet-vacuum-rf-repair-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/beauty-planet-vacuum-rf-repair-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/beauty-planet-vacuum-rf-repair-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/beauty-planet-vacuum-rf-repair-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/beauty-planet-vacuum-rf-repair-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-multipolar-rf-lublin/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-multipolar-rf-lublin/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-multipolar-rf-lublin/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-multipolar-rf-lublin/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-multipolar-rf-lublin/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-multipolar-rf-lublin/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-multipolar-rf-lublin/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-multipolar-rf-lublin/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-multipolar-rf-lublin/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-multipolar-rf-lublin/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-multipolar-rf-lublin/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-multipolar-rf-lublin/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/multipolar-rf-repair-lublin/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/multipolar-rf-repair-lublin/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/multipolar-rf-repair-lublin/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/multipolar-rf-repair-lublin/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/multipolar-rf-repair-lublin/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/multipolar-rf-repair-lublin/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/nubway-nbw-vsiii-repair-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/nubway-nbw-vsiii-repair-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/nubway-nbw-vsiii-repair-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/nubway-nbw-vsiii-repair-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/nubway-nbw-vsiii-repair-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/nubway-nbw-vsiii-repair-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-rsl-masaz-warszawa/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-rsl-masaz-warszawa/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-rsl-masaz-warszawa/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-rsl-masaz-warszawa/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-rsl-masaz-warszawa/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/naprawa-rsl-masaz-warszawa/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-rsl-masaz-warszawa/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-rsl-masaz-warszawa/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-rsl-masaz-warszawa/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-rsl-masaz-warszawa/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-rsl-masaz-warszawa/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/naprawa-rsl-masaz-warszawa/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/rsl-massage-device-repair-warsaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/rsl-massage-device-repair-warsaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/rsl-massage-device-repair-warsaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/rsl-massage-device-repair-warsaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/rsl-massage-device-repair-warsaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/rsl-massage-device-repair-warsaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/pilna-naprawa-lasera-co2-poznan/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/pilna-naprawa-lasera-co2-poznan/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/pilna-naprawa-lasera-co2-poznan/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/pilna-naprawa-lasera-co2-poznan/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/pilna-naprawa-lasera-co2-poznan/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/pilna-naprawa-lasera-co2-poznan/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/pilna-naprawa-lasera-co2-poznan/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/pilna-naprawa-lasera-co2-poznan/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/pilna-naprawa-lasera-co2-poznan/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/pilna-naprawa-lasera-co2-poznan/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/pilna-naprawa-lasera-co2-poznan/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/pilna-naprawa-lasera-co2-poznan/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/urgent-co2-laser-repair-poznan/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/urgent-co2-laser-repair-poznan/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/urgent-co2-laser-repair-poznan/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/urgent-co2-laser-repair-poznan/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/urgent-co2-laser-repair-poznan/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/urgent-co2-laser-repair-poznan/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/przeglad-estelase-power-p808l/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/przeglad-estelase-power-p808l/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/przeglad-estelase-power-p808l/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/przeglad-estelase-power-p808l/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/przeglad-estelase-power-p808l/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/przeglad-estelase-power-p808l/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/przeglad-estelase-power-p808l/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/przeglad-estelase-power-p808l/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/przeglad-estelase-power-p808l/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/przeglad-estelase-power-p808l/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/przeglad-estelase-power-p808l/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/przeglad-estelase-power-p808l/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/estelase-power-p808l-maintenance/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/estelase-power-p808l-maintenance/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/estelase-power-p808l-maintenance/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/estelase-power-p808l-maintenance/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/estelase-power-p808l-maintenance/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/estelase-power-p808l-maintenance/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/pharaon-1470-maintenance-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/pharaon-1470-maintenance-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/pharaon-1470-maintenance-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/pharaon-1470-maintenance-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/pharaon-1470-maintenance-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/pharaon-1470-maintenance-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/hair-removal-laser-maintenance/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/hair-removal-laser-maintenance/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/hair-removal-laser-maintenance/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/hair-removal-laser-maintenance/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/hair-removal-laser-maintenance/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/hair-removal-laser-maintenance/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-cavi-shape-advanced-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-cavi-shape-advanced-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-cavi-shape-advanced-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-cavi-shape-advanced-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-cavi-shape-advanced-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-cavi-shape-advanced-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/cavi-shape-advanced-service-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/cavi-shape-advanced-service-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/cavi-shape-advanced-service-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/cavi-shape-advanced-service-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/cavi-shape-advanced-service-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/cavi-shape-advanced-service-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/diode-laser-handpiece-service-poznan/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/diode-laser-handpiece-service-poznan/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/diode-laser-handpiece-service-poznan/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/diode-laser-handpiece-service-poznan/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/diode-laser-handpiece-service-poznan/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/diode-laser-handpiece-service-poznan/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-gme-exsys-308/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-gme-exsys-308/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-gme-exsys-308/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-gme-exsys-308/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-gme-exsys-308/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-gme-exsys-308/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-gme-exsys-308/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-gme-exsys-308/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-gme-exsys-308/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-gme-exsys-308/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-gme-exsys-308/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-gme-exsys-308/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/gme-exsys-308-service-inspection/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/gme-exsys-308-service-inspection/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/gme-exsys-308-service-inspection/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/gme-exsys-308-service-inspection/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/gme-exsys-308-service-inspection/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/gme-exsys-308-service-inspection/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/hifu-kimed-k1-w1601-service-gorlitz/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/hifu-kimed-k1-w1601-service-gorlitz/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/hifu-kimed-k1-w1601-service-gorlitz/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/hifu-kimed-k1-w1601-service-gorlitz/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/hifu-kimed-k1-w1601-service-gorlitz/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/hifu-kimed-k1-w1601-service-gorlitz/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/diode-laser-handpiece-replacement-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/diode-laser-handpiece-replacement-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/diode-laser-handpiece-replacement-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/diode-laser-handpiece-replacement-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/diode-laser-handpiece-replacement-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/diode-laser-handpiece-replacement-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/nd-yag-tattoo-removal-laser-filter-service/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/nd-yag-tattoo-removal-laser-filter-service/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/nd-yag-tattoo-removal-laser-filter-service/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/nd-yag-tattoo-removal-laser-filter-service/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/nd-yag-tattoo-removal-laser-filter-service/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/nd-yag-tattoo-removal-laser-filter-service/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/flood-damaged-diode-module-replacement-poznan/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/flood-damaged-diode-module-replacement-poznan/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/flood-damaged-diode-module-replacement-poznan/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/flood-damaged-diode-module-replacement-poznan/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/flood-damaged-diode-module-replacement-poznan/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/flood-damaged-diode-module-replacement-poznan/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-modulu-peltiera-estetech-poznan/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-modulu-peltiera-estetech-poznan/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-modulu-peltiera-estetech-poznan/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-modulu-peltiera-estetech-poznan/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-modulu-peltiera-estetech-poznan/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-modulu-peltiera-estetech-poznan/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/zamena-modulya-pelte-estetech-poznan/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/zamena-modulya-pelte-estetech-poznan/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/zamena-modulya-pelte-estetech-poznan/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/zamena-modulya-pelte-estetech-poznan/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/zamena-modulya-pelte-estetech-poznan/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/zamena-modulya-pelte-estetech-poznan/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/estetech-peltier-module-replacement-poznan/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/estetech-peltier-module-replacement-poznan/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/estetech-peltier-module-replacement-poznan/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/estetech-peltier-module-replacement-poznan/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/estetech-peltier-module-replacement-poznan/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/estetech-peltier-module-replacement-poznan/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/peltier-replacement-nd-yag-laser-repair/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/peltier-replacement-nd-yag-laser-repair/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/peltier-replacement-nd-yag-laser-repair/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/peltier-replacement-nd-yag-laser-repair/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/peltier-replacement-nd-yag-laser-repair/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/peltier-replacement-nd-yag-laser-repair/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/laser-cooling-fan-replacement-wroclaw/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/laser-cooling-fan-replacement-wroclaw/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/laser-cooling-fan-replacement-wroclaw/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/laser-cooling-fan-replacement-wroclaw/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/laser-cooling-fan-replacement-wroclaw/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/case-studies/laser-cooling-fan-replacement-wroclaw/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/cennik/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/cennik/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/cennik/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/cennik/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/cennik/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/cennik/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/cennik/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/cennik/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/cennik/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/cennik/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/cennik/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/cennik/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/pricing/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/pricing/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/pricing/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/pricing/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/pricing/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/pricing/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/diagnostyka-laserow-diodowych/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/diagnostyka-laserow-diodowych/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/diagnostyka-laserow-diodowych/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/diagnostyka-laserow-diodowych/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/diagnostyka-laserow-diodowych/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/diagnostyka-laserow-diodowych/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/diagnostika-diodnyh-lazerov/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/diagnostika-diodnyh-lazerov/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/diagnostika-diodnyh-lazerov/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/diagnostika-diodnyh-lazerov/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/diagnostika-diodnyh-lazerov/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/diagnostika-diodnyh-lazerov/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/diode-laser-diagnostics/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/diode-laser-diagnostics/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/diode-laser-diagnostics/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/diode-laser-diagnostics/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/diode-laser-diagnostics/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/diode-laser-diagnostics/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/konserwacja-urzadzen-kosmetologicznych/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/konserwacja-urzadzen-kosmetologicznych/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/konserwacja-urzadzen-kosmetologicznych/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/konserwacja-urzadzen-kosmetologicznych/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/konserwacja-urzadzen-kosmetologicznych/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/konserwacja-urzadzen-kosmetologicznych/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/aesthetic-equipment-maintenance/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/aesthetic-equipment-maintenance/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/aesthetic-equipment-maintenance/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/aesthetic-equipment-maintenance/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/aesthetic-equipment-maintenance/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/aesthetic-equipment-maintenance/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-ekranow-dotykowych/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-ekranow-dotykowych/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-ekranow-dotykowych/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-ekranow-dotykowych/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-ekranow-dotykowych/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-ekranow-dotykowych/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-sensornyh-ekranov/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-sensornyh-ekranov/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-sensornyh-ekranov/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-sensornyh-ekranov/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-sensornyh-ekranov/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-sensornyh-ekranov/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/touchscreen-control-panel-repair/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/touchscreen-control-panel-repair/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/touchscreen-control-panel-repair/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/touchscreen-control-panel-repair/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/touchscreen-control-panel-repair/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/touchscreen-control-panel-repair/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-ukladow-chlodzenia/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-ukladow-chlodzenia/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-ukladow-chlodzenia/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-ukladow-chlodzenia/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-ukladow-chlodzenia/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-ukladow-chlodzenia/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-sistem-ohlazhdeniya/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-sistem-ohlazhdeniya/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-sistem-ohlazhdeniya/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-sistem-ohlazhdeniya/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-sistem-ohlazhdeniya/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-sistem-ohlazhdeniya/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/laser-cooling-system-repair/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/laser-cooling-system-repair/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/laser-cooling-system-repair/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/laser-cooling-system-repair/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/laser-cooling-system-repair/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/laser-cooling-system-repair/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-urzadzen-lpg/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-urzadzen-lpg/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-urzadzen-lpg/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-urzadzen-lpg/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-urzadzen-lpg/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-urzadzen-lpg/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-oborudovaniya-lpg/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-oborudovaniya-lpg/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-oborudovaniya-lpg/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-oborudovaniya-lpg/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-oborudovaniya-lpg/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-oborudovaniya-lpg/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/lpg-endermology-equipment-repair/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/lpg-endermology-equipment-repair/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/lpg-endermology-equipment-repair/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/lpg-endermology-equipment-repair/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/lpg-endermology-equipment-repair/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/lpg-endermology-equipment-repair/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-urzadzen-rf/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-urzadzen-rf/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-urzadzen-rf/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-urzadzen-rf/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-urzadzen-rf/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-urzadzen-rf/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-oborudovaniya-rf/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-oborudovaniya-rf/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-oborudovaniya-rf/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-oborudovaniya-rf/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-oborudovaniya-rf/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-oborudovaniya-rf/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/rf-equipment-repair/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/rf-equipment-repair/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/rf-equipment-repair/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/rf-equipment-repair/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/rf-equipment-repair/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/rf-equipment-repair/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-zasilaczy-i-elektroniki/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-zasilaczy-i-elektroniki/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-zasilaczy-i-elektroniki/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-zasilaczy-i-elektroniki/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-zasilaczy-i-elektroniki/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/naprawa-zasilaczy-i-elektroniki/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/power-supply-electronics-repair/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/power-supply-electronics-repair/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/power-supply-electronics-repair/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/power-supply-electronics-repair/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/power-supply-electronics-repair/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/power-supply-electronics-repair/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/regeneracja-glowic-i-manipulatorow/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/regeneracja-glowic-i-manipulatorow/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/regeneracja-glowic-i-manipulatorow/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/regeneracja-glowic-i-manipulatorow/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/regeneracja-glowic-i-manipulatorow/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/regeneracja-glowic-i-manipulatorow/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/vosstanovlenie-golovok-i-manipul/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/vosstanovlenie-golovok-i-manipul/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/vosstanovlenie-golovok-i-manipul/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/vosstanovlenie-golovok-i-manipul/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/vosstanovlenie-golovok-i-manipul/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/vosstanovlenie-golovok-i-manipul/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/laser-handpiece-repair/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/laser-handpiece-repair/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/laser-handpiece-repair/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/laser-handpiece-repair/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/laser-handpiece-repair/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/laser-handpiece-repair/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-ipl/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-ipl/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-ipl/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-ipl/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-ipl/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-ipl/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-ipl/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-ipl/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-ipl/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-ipl/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-ipl/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-ipl/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/ipl-equipment-service/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/ipl-equipment-service/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/ipl-equipment-service/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/ipl-equipment-service/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/ipl-equipment-service/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/ipl-equipment-service/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-laserow-co2/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-laserow-co2/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-laserow-co2/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-laserow-co2/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-laserow-co2/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-laserow-co2/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-co2/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-co2/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-co2/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-co2/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-co2/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-co2/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/co2-laser-service/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/co2-laser-service/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/co2-laser-service/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/co2-laser-service/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/co2-laser-service/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/co2-laser-service/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-laserow-nd-yag/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-laserow-nd-yag/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-laserow-nd-yag/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-laserow-nd-yag/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-laserow-nd-yag/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-laserow-nd-yag/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-nd-yag/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-nd-yag/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-nd-yag/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-nd-yag/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-nd-yag/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-nd-yag/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/nd-yag-laser-service/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/nd-yag-laser-service/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/nd-yag-laser-service/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/nd-yag-laser-service/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/nd-yag-laser-service/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/nd-yag-laser-service/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-laserow-pikosekundowych/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-laserow-pikosekundowych/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-laserow-pikosekundowych/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-laserow-pikosekundowych/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-laserow-pikosekundowych/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-laserow-pikosekundowych/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-pikosekundnyh-lazerov/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-pikosekundnyh-lazerov/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-pikosekundnyh-lazerov/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-pikosekundnyh-lazerov/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-pikosekundnyh-lazerov/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-pikosekundnyh-lazerov/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/picosecond-laser-service/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/picosecond-laser-service/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/picosecond-laser-service/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/picosecond-laser-service/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/picosecond-laser-service/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/picosecond-laser-service/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-pogwarancyjny/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-pogwarancyjny/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-pogwarancyjny/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-pogwarancyjny/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-pogwarancyjny/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-pogwarancyjny/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/poslegarantiynoe-obsluzhivanie/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/poslegarantiynoe-obsluzhivanie/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/poslegarantiynoe-obsluzhivanie/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/poslegarantiynoe-obsluzhivanie/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/poslegarantiynoe-obsluzhivanie/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/poslegarantiynoe-obsluzhivanie/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/post-warranty-equipment-service/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/post-warranty-equipment-service/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/post-warranty-equipment-service/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/post-warranty-equipment-service/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/post-warranty-equipment-service/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/post-warranty-equipment-service/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-urzadzen-do-krioterapii/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-urzadzen-do-krioterapii/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-urzadzen-do-krioterapii/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-urzadzen-do-krioterapii/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-urzadzen-do-krioterapii/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/serwis-urzadzen-do-krioterapii/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/cryotherapy-cryolipolysis-equipment-service/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/cryotherapy-cryolipolysis-equipment-service/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/cryotherapy-cryolipolysis-equipment-service/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/cryotherapy-cryolipolysis-equipment-service/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/cryotherapy-cryolipolysis-equipment-service/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/cryotherapy-cryolipolysis-equipment-service/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/wymiana-i-kalibracja-diod-laserowych/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/wymiana-i-kalibracja-diod-laserowych/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/wymiana-i-kalibracja-diod-laserowych/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/wymiana-i-kalibracja-diod-laserowych/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/wymiana-i-kalibracja-diod-laserowych/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/uslugi/wymiana-i-kalibracja-diod-laserowych/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/laser-diode-replacement-calibration/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/laser-diode-replacement-calibration/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/laser-diode-replacement-calibration/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/laser-diode-replacement-calibration/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/laser-diode-replacement-calibration/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/en/services/laser-diode-replacement-calibration/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/404.html",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/404.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/404.html",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/404.html",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/404.html",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/404.html",
+      "width": 1920,
+      "overflow": false
+    }
+  ],
+  "issues": [],
+  "errors": [],
+  "externalRequests": "blocked"
+}

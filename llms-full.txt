@@ -36,7 +36,7 @@ Wyślij zdjęcie lub opis problemu. Przeprowadzimy wstępną analizę i zapropon
 
 [Wyślij zgłoszenie serwisowe](https://lasertechservice.pl/#contactid)
 
-###### Laser Tech Service
+Laser Tech Service
 
 ##### Przywracamy pełną sprawność Twojego urządzenia
 
@@ -269,7 +269,7 @@ Send us a photograph or a description of the problem. We will assess it initiall
 
 [Send a service request](https://lasertechservice.pl/en/#contactid)
 
-###### Laser Tech Service
+Laser Tech Service
 
 ##### Restoring your equipment to working order
 
@@ -502,7 +502,7 @@ Unit 320
 
 [Отправить заявку в сервис](https://lasertechservice.pl/ru/#contactid)
 
-###### Laser Tech Service
+Laser Tech Service
 
 ##### Восстанавливаем полную работоспособность вашего оборудования
 
@@ -922,7 +922,7 @@ Language: English
 
 Other language version: [Polski](https://lasertechservice.pl/uslugi/), [Русский](https://lasertechservice.pl/ru/uslugi/)
 
-> Explore 15 laser and aesthetic equipment services, from diode laser diagnostics and handpiece repair to cooling systems, IPL and Nd:YAG. Indicative prices in PLN.
+> Explore 15 laser and aesthetic equipment services, from diode laser diagnostics and handpiece repair to cooling systems, IPL and Nd:YAG. Indicative prices in EUR.
 
 Diagnostics, repair, refurbishment and maintenance for lasers and equipment used in beauty treatments and aesthetic medicine. Wrocław and across Poland.
 
@@ -970,7 +970,7 @@ These are starting prices for servicing, not the cost of a complete replacement 
 
 Cannot see your equipment on the list? Contact us with the model and a description of the fault so we can confirm whether we can repair it.
 
-###### LASER TECH SERVICE
+LASER TECH SERVICE
 
 ##### Repairing equipment instead of immediately replacing it
 
@@ -3113,7 +3113,7 @@ Language: English
 
 Other language version: [Polski](https://lasertechservice.pl/uslugi/serwis-pogwarancyjny/), [Русский](https://lasertechservice.pl/ru/uslugi/poslegarantiynoe-obsluzhivanie/)
 
-> Technical support, diagnostics, repair and preventive maintenance after the manufacturer's or seller's warranty expires. The end of a warranty does not mean a new device is needed: we assess condition and the feasibility of an economically justified repair.
+> Post-warranty laser and aesthetic equipment servicing. Diagnostics, repair options and parts availability assessed for your model. Individual quotation; travel charged separately.
 
 Technical support, diagnostics, repair and preventive maintenance after the manufacturer's or seller's warranty expires. The end of a warranty does not mean a new device is needed: we assess condition and the feasibility of an economically justified repair.
 
@@ -3895,7 +3895,7 @@ Diagnostics are free when you commission repair or maintenance from Laser Tech S
 
 Не нашли своё оборудование в списке? Свяжитесь с нами. После получения модели устройства и описания неисправности мы подтвердим возможность ремонта.
 
-###### LASER TECH SERVICE
+LASER TECH SERVICE
 
 ##### Восстанавливаем оборудование, когда ремонт экономически оправдан
 
@@ -7031,7 +7031,7 @@ Naprawiamy urządzenia wykorzystywane w salonach beauty, klinikach kosmetologicz
 
 Nie widzisz swojego urządzenia na liście? Skontaktuj się z nami. Po otrzymaniu modelu urządzenia i opisu usterki potwierdzimy możliwość wykonania naprawy.
 
-###### LASER TECH SERVICE
+LASER TECH SERVICE
 
 ##### Naprawiamy urządzenia, zamiast od razu wymieniać je na nowe
 
@@ -28748,22 +28748,22 @@ Other language version: [Polski](https://lasertechservice.pl/kontakt/), [Рус�
 
 Contact us by phone, WhatsApp or email. We serve clients in Wrocław and across Poland.
 
-##### Location
+#### Location
 
 50-020 Wrocław
 
 Poland
 
-##### Address
+#### Address
 
 Marsz. Józefa Piłsudskiego 74
 Unit 320
 
-##### Phone / WhatsApp
+#### Phone / WhatsApp
 
 [+48 790 402 597](tel:+48790402597) [Message us on WhatsApp](https://wa.me/48790402597)
 
-##### Email
+#### Email
 
 [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)  We reply as soon as possible
 
@@ -28807,22 +28807,22 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/kontakt/)
 
 Skontaktuj się z nami telefonicznie, przez WhatsApp lub e-mail. Obsługujemy klientów we Wrocławiu oraz na terenie całej Polski.
 
-##### Lokalizacja
+#### Lokalizacja
 
 50-020 Wrocław
 
 Polska
 
-##### Adres
+#### Adres
 
 Marsz. Józefa Piłsudskiego 74
 lok. 320
 
-##### Telefon / WhatsApp
+#### Telefon / WhatsApp
 
 [+48 790 402 597](tel:+48790402597) [Napisz przez WhatsApp](https://wa.me/48790402597)
 
-##### E-mail
+#### E-mail
 
 [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)  Odpowiadamy możliwie najszybciej
 
@@ -28866,22 +28866,22 @@ Po zakończeniu naprawy urządzenie jest przekazywane klientowi wraz z informacj
 
 Свяжитесь с нами по телефону, через WhatsApp или e-mail. Работаем с клиентами во Вроцлаве и по всей территории Польши.
 
-##### Местоположение
+#### Местоположение
 
 50-020 Wrocław
 
 Польша
 
-##### Адрес
+#### Адрес
 
 Marsz. Józefa Piłsudskiego 74
 lok. 320
 
-##### Телефон / WhatsApp
+#### Телефон / WhatsApp
 
 [+48 790 402 597](tel:+48790402597) [Написать в WhatsApp](https://wa.me/48790402597)
 
-##### E-mail
+#### E-mail
 
 [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)  Отвечаем в ближайшее возможное время
 

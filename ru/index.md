@@ -30,7 +30,7 @@
 
 [Отправить заявку в сервис](https://lasertechservice.pl/ru/#contactid)
 
-###### Laser Tech Service
+Laser Tech Service
 
 ### Восстанавливаем полную работоспособность вашего оборудования
 

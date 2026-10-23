@@ -10,22 +10,22 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/kontakt/)
 
 Skontaktuj się z nami telefonicznie, przez WhatsApp lub e-mail. Obsługujemy klientów we Wrocławiu oraz na terenie całej Polski.
 
-### Lokalizacja
+## Lokalizacja
 
 50-020 Wrocław
 
 Polska
 
-### Adres
+## Adres
 
 Marsz. Józefa Piłsudskiego 74
 lok. 320
 
-### Telefon / WhatsApp
+## Telefon / WhatsApp
 
 [+48 790 402 597](tel:+48790402597) [Napisz przez WhatsApp](https://wa.me/48790402597)
 
-### E-mail
+## E-mail
 
 [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)  Odpowiadamy możliwie najszybciej
 

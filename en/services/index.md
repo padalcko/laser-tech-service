@@ -6,7 +6,7 @@ Language: English
 
 Other language version: [Polski](https://lasertechservice.pl/uslugi/), [Русский](https://lasertechservice.pl/ru/uslugi/)
 
-> Explore 15 laser and aesthetic equipment services, from diode laser diagnostics and handpiece repair to cooling systems, IPL and Nd:YAG. Indicative prices in PLN.
+> Explore 15 laser and aesthetic equipment services, from diode laser diagnostics and handpiece repair to cooling systems, IPL and Nd:YAG. Indicative prices in EUR.
 
 Diagnostics, repair, refurbishment and maintenance for lasers and equipment used in beauty treatments and aesthetic medicine. Wrocław and across Poland.
 
@@ -54,7 +54,7 @@ These are starting prices for servicing, not the cost of a complete replacement 
 
 Cannot see your equipment on the list? Contact us with the model and a description of the fault so we can confirm whether we can repair it.
 
-###### LASER TECH SERVICE
+LASER TECH SERVICE
 
 ### Repairing equipment instead of immediately replacing it
 

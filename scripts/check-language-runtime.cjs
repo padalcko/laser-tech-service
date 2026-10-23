@@ -13,6 +13,8 @@ const results = [];
  const browser = await chromium.launch({channel:'chrome', headless:true});
  async function setup(locale, width=390, js=true) {
   const c=await browser.newContext({viewport:{width,height:900},javaScriptEnabled:js,reducedMotion:'reduce'});
+  // Network failure cases are mocked explicitly; do not inherit host offline state.
+  await c.addInitScript(() => Object.defineProperty(navigator, 'onLine', {get: () => true}));
   const errors=[], requests=[];let mode='success';
   await c.route('**/*',async r=>{
    const u=r.request().url();
@@ -100,8 +102,8 @@ const results = [];
    if(lang==='en')assert.match(await form.locator('.article-service-form__message').innerText(),mode==='success'?/Thank you/:/could not be sent/);
   }
   if(lang==='en'){
-   await p.goto(base+'/uslugi/cennik/');await p.locator('#travel-km').fill('-1');assert.match(await p.locator('#travel-error').innerText(),/Enter a number/);
-   await p.locator('#travel-km').fill('100');assert.match(await p.locator('#travel-result').innerText(),/140/);
+   await p.goto(base+'/en/pricing/');await p.locator('#travel-km').fill('-1');assert.match(await p.locator('#travel-error').innerText(),/Enter a number/);
+   await p.locator('#travel-km').fill('100');assert.match(await p.locator('#travel-result').innerText(),/100/);
    await p.goto(base+'/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/');
    assert.equal(await p.locator('.case-photo-dialog').getAttribute('aria-label'),'Photo preview');
    assert.equal(await p.locator('.case-photo-dialog button').innerText(),'Close ×');

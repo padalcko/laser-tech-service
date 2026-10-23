@@ -30,7 +30,7 @@ Send us a photograph or a description of the problem. We will assess it initiall
 
 [Send a service request](https://lasertechservice.pl/en/#contactid)
 
-###### Laser Tech Service
+Laser Tech Service
 
 ### Restoring your equipment to working order
 

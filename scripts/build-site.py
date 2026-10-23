@@ -8,5 +8,5 @@ os.environ['PYTHONDONTWRITEBYTECODE'] = '1'
 
 ROOT = Path(__file__).resolve().parents[1]
 for script in ('check-site-locales.py', 'build-eur-prices.py', 'build-language-switcher.py', 'check-language-switcher.py', 'build-service-cases.py', 'build-ai-search.py', 'build-ai-catalog.py',
-               'check-ai-search.py', 'check-geo-seo.py'):
+               'check-ai-search.py', 'check-geo-seo.py', 'check-eur-prices.py'):
     subprocess.run([sys.executable, str(ROOT / 'scripts' / script)], cwd=ROOT, check=True)

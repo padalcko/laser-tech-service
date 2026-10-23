@@ -10,22 +10,22 @@ Other language version: [Polski](https://lasertechservice.pl/kontakt/), [Рус�
 
 Contact us by phone, WhatsApp or email. We serve clients in Wrocław and across Poland.
 
-### Location
+## Location
 
 50-020 Wrocław
 
 Poland
 
-### Address
+## Address
 
 Marsz. Józefa Piłsudskiego 74
 Unit 320
 
-### Phone / WhatsApp
+## Phone / WhatsApp
 
 [+48 790 402 597](tel:+48790402597) [Message us on WhatsApp](https://wa.me/48790402597)
 
-### Email
+## Email
 
 [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)  We reply as soon as possible
 

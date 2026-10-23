@@ -459,6 +459,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let position = 0;
 
   const speed = 0.3;
+  const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
 
   let isDragging = false;
 
@@ -471,6 +472,7 @@ document.addEventListener("DOMContentLoaded", () => {
   ----------------------------------------- */
 
   function animateCarousel() {
+    if (reducedMotion.matches) return;
     if (!isDragging) {
       position -= speed;
 
@@ -485,6 +487,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   animateCarousel();
+  reducedMotion.addEventListener("change", () => { if (!reducedMotion.matches) animateCarousel(); });
 
   /* -----------------------------------------
      MOUSE DRAG

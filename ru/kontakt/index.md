@@ -10,22 +10,22 @@
 
 Свяжитесь с нами по телефону, через WhatsApp или e-mail. Работаем с клиентами во Вроцлаве и по всей территории Польши.
 
-### Местоположение
+## Местоположение
 
 50-020 Wrocław
 
 Польша
 
-### Адрес
+## Адрес
 
 Marsz. Józefa Piłsudskiego 74
 lok. 320
 
-### Телефон / WhatsApp
+## Телефон / WhatsApp
 
 [+48 790 402 597](tel:+48790402597) [Написать в WhatsApp](https://wa.me/48790402597)
 
-### E-mail
+## E-mail
 
 [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)  Отвечаем в ближайшее возможное время
 

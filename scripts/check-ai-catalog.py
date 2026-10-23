@@ -70,10 +70,11 @@ assert set(expected['languages']) == {p['lang'] for p in pages}
 # Currency-first English prices must preserve thousands and reject malformed amounts.
 price_page = copy.deepcopy(en)
 price_node = next(n for n in c.body_nodes(price_page) if n.has('service-price'))
-for label, amount in [('from PLN 1,200', 1200), ('from PLN 800', 800), ('from PLN 1,200.50', 1200.5), ('from PLN 1,20', None)]:
+for label, amount in [('from PLN 1,200', 1200), ('from PLN 800', 800), ('from PLN 1,200.50', 1200.5), ('from PLN 1,20', None), ('from EUR 330', 330), ('from EUR 1,200', 1200), ('from EUR 1,20', None)]:
     price_node.children = []; price_node.data = label
     parsed = c.price(price_page)
     assert (parsed['amount'] if parsed else None) == amount, label
+    if parsed: assert parsed['currency'] == ('EUR' if 'EUR' in label else 'PLN')
 
 # Invalid price provenance and duplicate IDs must fail validation.
 for corrupt in ('price', 'id'):

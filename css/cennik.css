@@ -55,3 +55,7 @@
     .price-email .contact-card__primary { font-size: 14px; }
     .price-page .contact-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
 }
+
+/* Small supplementary price text needs normal-text contrast on white cards. */
+.price-page .price-amount span { color: var(--text); }
+.price-maintenance .price-amount span { color: var(--gold-light); }

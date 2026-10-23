@@ -1291,7 +1291,7 @@ menu>.trigger:hover {
 }
 
 
-.page-section-ptb h6 {
+.page-section-ptb .section-kicker {
     margin: 0 0 15px;
 
     font-size: 15px;
@@ -2207,7 +2207,7 @@ button.btn {
 }
 
 
-.faq__item h3 {
+.faq__item h3, .faq__item .faq__label {
     margin: 0;
 
     font-size: 18px;
@@ -2709,7 +2709,8 @@ button.btn {
 }
 
 
-.contact-card__content h3 {
+.contact-card__content h3,
+.contact-card__content .contact-card__heading {
     margin:
         0 0 10px;
 
@@ -3892,7 +3893,7 @@ button.btn {
     }
 
 
-    .faq__item h3 {
+    .faq__item h3, .faq__item .faq__label {
         font-size: 15px;
     }
 
@@ -4262,4 +4263,12 @@ button.btn {
 @media (max-width: 650px) {
     .contact-card__content { min-width: 0; }
     .contact-card .contact-card__primary[href^="mailto:"] { font-size: clamp(12px, 3.3vw, 16px); }
+}
+
+/* Approved accessibility correction: readable text on existing light sections.
+   Dark panels, gold controls, icons and decorative borders retain their colours. */
+.section:not(.page-section-ptb) :is(.title-1, .title-3, strong, .section-eyebrow):not(.page-section-ptb *, .contact *, .faq__item *, .pdf-download *, .price-maintenance *, .partner-card *),
+.process__info .process__info-number,
+.service-case strong {
+    color: var(--text);
 }

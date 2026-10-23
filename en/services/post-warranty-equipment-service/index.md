@@ -6,7 +6,7 @@ Language: English
 
 Other language version: [Polski](https://lasertechservice.pl/uslugi/serwis-pogwarancyjny/), [Русский](https://lasertechservice.pl/ru/uslugi/poslegarantiynoe-obsluzhivanie/)
 
-> Technical support, diagnostics, repair and preventive maintenance after the manufacturer's or seller's warranty expires. The end of a warranty does not mean a new device is needed: we assess condition and the feasibility of an economically justified repair.
+> Post-warranty laser and aesthetic equipment servicing. Diagnostics, repair options and parts availability assessed for your model. Individual quotation; travel charged separately.
 
 Technical support, diagnostics, repair and preventive maintenance after the manufacturer's or seller's warranty expires. The end of a warranty does not mean a new device is needed: we assess condition and the feasibility of an economically justified repair.
 

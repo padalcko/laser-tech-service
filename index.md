@@ -30,7 +30,7 @@ Wyślij zdjęcie lub opis problemu. Przeprowadzimy wstępną analizę i zapropon
 
 [Wyślij zgłoszenie serwisowe](https://lasertechservice.pl/#contactid)
 
-###### Laser Tech Service
+Laser Tech Service
 
 ### Przywracamy pełną sprawność Twojego urządzenia
 

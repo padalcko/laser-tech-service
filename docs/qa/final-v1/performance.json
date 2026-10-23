@@ -1,0 +1,117 @@
+{
+  "note": "Local Chrome, external scripts blocked, reduced motion; 1 second observation. Not field CWV, not INP or a Lighthouse score. Contrast samples exclude image, gradient and pseudo-element backgrounds; these need visual review.",
+  "results": [
+    {
+      "route": "/",
+      "width": 390,
+      "lcp": 536,
+      "cls": 0.0006394962804685026,
+      "resources": 35,
+      "contrastSamplesBelowThreshold": []
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "lcp": 316,
+      "cls": 0.0006477730624142662,
+      "resources": 37,
+      "contrastSamplesBelowThreshold": []
+    },
+    {
+      "route": "/ru/",
+      "width": 390,
+      "lcp": 268,
+      "cls": 0,
+      "resources": 35,
+      "contrastSamplesBelowThreshold": []
+    },
+    {
+      "route": "/ru/",
+      "width": 1440,
+      "lcp": 248,
+      "cls": 0.0003792866941015089,
+      "resources": 37,
+      "contrastSamplesBelowThreshold": []
+    },
+    {
+      "route": "/en/",
+      "width": 390,
+      "lcp": 236,
+      "cls": 0,
+      "resources": 34,
+      "contrastSamplesBelowThreshold": []
+    },
+    {
+      "route": "/en/",
+      "width": 1440,
+      "lcp": 272,
+      "cls": 0.0003558813443072702,
+      "resources": 36,
+      "contrastSamplesBelowThreshold": []
+    },
+    {
+      "route": "/en/pricing/",
+      "width": 390,
+      "lcp": 360,
+      "cls": 0,
+      "resources": 27,
+      "contrastSamplesBelowThreshold": []
+    },
+    {
+      "route": "/en/pricing/",
+      "width": 1440,
+      "lcp": 360,
+      "cls": 0.00035708161865569273,
+      "resources": 27,
+      "contrastSamplesBelowThreshold": []
+    },
+    {
+      "route": "/en/partners/",
+      "width": 390,
+      "lcp": 204,
+      "cls": 0,
+      "resources": 27,
+      "contrastSamplesBelowThreshold": []
+    },
+    {
+      "route": "/en/partners/",
+      "width": 1440,
+      "lcp": 204,
+      "cls": 0.00035708161865569273,
+      "resources": 28,
+      "contrastSamplesBelowThreshold": []
+    },
+    {
+      "route": "/en/services/",
+      "width": 390,
+      "lcp": 224,
+      "cls": 0,
+      "resources": 26,
+      "contrastSamplesBelowThreshold": []
+    },
+    {
+      "route": "/en/services/",
+      "width": 1440,
+      "lcp": 288,
+      "cls": 0.0003558813443072702,
+      "resources": 26,
+      "contrastSamplesBelowThreshold": []
+    },
+    {
+      "route": "/en/services/diode-laser-diagnostics/",
+      "width": 390,
+      "lcp": 288,
+      "cls": 0,
+      "resources": 31,
+      "contrastSamplesBelowThreshold": []
+    },
+    {
+      "route": "/en/services/diode-laser-diagnostics/",
+      "width": 1440,
+      "lcp": 252,
+      "cls": 0.0003558813443072702,
+      "resources": 31,
+      "contrastSamplesBelowThreshold": []
+    }
+  ]
+}
