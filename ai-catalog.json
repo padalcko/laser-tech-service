@@ -1300,6 +1300,22 @@
       "related_services": []
     },
     {
+      "id": "article:blog:spalona-dioda-laserowa-naprawa-glowicy",
+      "title": "Spalona dioda laserowa — czy trzeba wymieniać całą głowicę?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/",
+      "description": "Czy spalona dioda oznacza konieczność zakupu nowej głowicy? Poznaj rzeczywisty przypadek wymiany diody i możliwości naprawy manipuły w Laser Tech Service.",
+      "topics": [
+        "Naprawa głowic laserowych"
+      ],
+      "dateModified": "2026-10-26",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow",
+        "service:uslugi:wymiana-i-kalibracja-diod-laserowych"
+      ]
+    },
+    {
       "id": "article:blog:uszkodzony-przewod-manipulatora",
       "title": "Mały przewód, duży problem. Dlaczego połączenie manipulatora z urządzeniem jest tak ważne?",
       "language": "pl",
@@ -1363,6 +1379,22 @@
       "datePublished": "2026-09-14",
       "dateModified": "2026-09-14",
       "related_services": []
+    },
+    {
+      "id": "article:en:blog:burned-out-laser-diode-handpiece-repair",
+      "title": "Burned-Out Laser Diode: Do You Need to Replace the Entire Handpiece?",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/burned-out-laser-diode-handpiece-repair/",
+      "description": "Does a burned-out laser diode mean you need a new handpiece? Explore a real diode replacement, the repair outcome and what to consider before replacement.",
+      "topics": [
+        "Laser handpiece repair"
+      ],
+      "dateModified": "2026-10-26",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow",
+        "service:uslugi:wymiana-i-kalibracja-diod-laserowych"
+      ]
     },
     {
       "id": "article:en:blog:co2-laser-not-responding-to-foot-pedal",
@@ -1876,6 +1908,22 @@
       "related_services": []
     },
     {
+      "id": "article:ru:blog:sgorel-lazernyy-diod-remont-manipuly",
+      "title": "Сгорел лазерный диод: обязательно ли покупать новую манипулу?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/",
+      "description": "Нужна ли новая манипула, если сгорел лазерный диод? Реальный случай замены диода, результат ремонта и выбор между ремонтом и заменой манипулы.",
+      "topics": [
+        "Ремонт лазерных манипул"
+      ],
+      "dateModified": "2026-10-26",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow",
+        "service:uslugi:wymiana-i-kalibracja-diod-laserowych"
+      ]
+    },
+    {
       "id": "article:ru:blog:zamena-vody-v-lazere-dlya-epilyacii",
       "title": "Вода в лазере для эпиляции: почему её необходимо менять и вовремя проводить обслуживание?",
       "language": "ru",
@@ -1971,6 +2019,25 @@
         "Restoring correct handpiece operation and its functions."
       ],
       "result": []
+    },
+    {
+      "id": "case:en:case-studies:burned-out-laser-diode-replacement",
+      "title": "Burned-Out Laser Diode Replacement — Laser Handpiece Repair",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/case-studies/burned-out-laser-diode-replacement/",
+      "description": "Laser Tech Service replaced a burned-out diode: the handpiece was disassembled, the failed diode removed and a working replacement installed. It works again.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": null,
+      "fault": [
+        "Burned-out laser diode."
+      ],
+      "performed_work": [
+        "Our technician disassembled the handpiece, removed the failed laser diode and installed a working replacement."
+      ],
+      "result": [
+        "Following the diode replacement, the laser handpiece was operational again."
+      ]
     },
     {
       "id": "case:en:case-studies:cavi-shape-advanced-service-wroclaw",
@@ -2722,6 +2789,25 @@
       ]
     },
     {
+      "id": "case:realizacje:wymiana-spalonej-diody-laserowej",
+      "title": "Wymiana spalonej diody laserowej — naprawa głowicy lasera",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/wymiana-spalonej-diody-laserowej/",
+      "description": "Wymiana spalonej diody laserowej w Laser Tech Service: rozmontowanie głowicy, demontaż uszkodzonego elementu i montaż sprawnej diody. Głowica ponownie działa.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": null,
+      "fault": [
+        "Spalona dioda laserowa."
+      ],
+      "performed_work": [
+        "Specjalista Laser Tech Service rozmontował głowicę, zdemontował spalony element i zamontował sprawną diodę laserową."
+      ],
+      "result": [
+        "Po wymianie diody głowica odzyskała sprawność i ponownie działa."
+      ]
+    },
+    {
       "id": "case:realizacje:wymiana-wentylatorow-chlodzenia-lasera-wroclaw",
       "title": "Wymiana wentylatorów chłodzenia lasera i konserwacja urządzenia — Wrocław",
       "language": "pl",
@@ -3229,6 +3315,25 @@
       ]
     },
     {
+      "id": "case:ru:realizacje:zamena-sgorevshego-lazernogo-dioda",
+      "title": "Замена сгоревшего лазерного диода — ремонт манипулы",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/zamena-sgorevshego-lazernogo-dioda/",
+      "description": "Замена сгоревшего лазерного диода в Laser Tech Service: разборка манипулы, демонтаж неисправного элемента и установка исправного. Манипула снова работает.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": null,
+      "fault": [
+        "Сгорел лазерный диод."
+      ],
+      "performed_work": [
+        "Специалист Laser Tech Service разобрал корпус манипулы, демонтировал сгоревший диод и установил исправный."
+      ],
+      "result": [
+        "После замены диода работоспособность манипулы была восстановлена."
+      ]
+    },
+    {
       "id": "case:ru:realizacje:zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav",
       "title": "Замена вентиляторов охлаждения лазерного аппарата и техническое обслуживание во Вроцлаве",
       "language": "ru",
@@ -3269,6 +3374,7 @@
       "https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/": "https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/index.md",
       "https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/": "https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/index.md",
       "https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/": "https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/index.md",
+      "https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/": "https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/index.md",
       "https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/": "https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/index.md",
       "https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/": "https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/index.md",
       "https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/": "https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/index.md",
@@ -3276,6 +3382,7 @@
       "https://lasertechservice.pl/en/blog/": "https://lasertechservice.pl/en/blog/index.md",
       "https://lasertechservice.pl/en/blog/3000-nain-laser-history-design-service/": "https://lasertechservice.pl/en/blog/3000-nain-laser-history-design-service/index.md",
       "https://lasertechservice.pl/en/blog/beauty-planet-3d-contour-features-service/": "https://lasertechservice.pl/en/blog/beauty-planet-3d-contour-features-service/index.md",
+      "https://lasertechservice.pl/en/blog/burned-out-laser-diode-handpiece-repair/": "https://lasertechservice.pl/en/blog/burned-out-laser-diode-handpiece-repair/index.md",
       "https://lasertechservice.pl/en/blog/co2-laser-not-responding-to-foot-pedal/": "https://lasertechservice.pl/en/blog/co2-laser-not-responding-to-foot-pedal/index.md",
       "https://lasertechservice.pl/en/blog/damaged-handpiece-cable/": "https://lasertechservice.pl/en/blog/damaged-handpiece-cable/index.md",
       "https://lasertechservice.pl/en/blog/diode-laser-handpiece-seals-optics/": "https://lasertechservice.pl/en/blog/diode-laser-handpiece-seals-optics/index.md",
@@ -3300,6 +3407,7 @@
       "https://lasertechservice.pl/en/case-studies/alma-accent-cooling-hose-repair-gorlitz/": "https://lasertechservice.pl/en/case-studies/alma-accent-cooling-hose-repair-gorlitz/index.md",
       "https://lasertechservice.pl/en/case-studies/beauty-planet-handpiece-cable-replacement-wroclaw/": "https://lasertechservice.pl/en/case-studies/beauty-planet-handpiece-cable-replacement-wroclaw/index.md",
       "https://lasertechservice.pl/en/case-studies/beauty-planet-vacuum-rf-repair-wroclaw/": "https://lasertechservice.pl/en/case-studies/beauty-planet-vacuum-rf-repair-wroclaw/index.md",
+      "https://lasertechservice.pl/en/case-studies/burned-out-laser-diode-replacement/": "https://lasertechservice.pl/en/case-studies/burned-out-laser-diode-replacement/index.md",
       "https://lasertechservice.pl/en/case-studies/cavi-shape-advanced-service-wroclaw/": "https://lasertechservice.pl/en/case-studies/cavi-shape-advanced-service-wroclaw/index.md",
       "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-replacement-wroclaw/": "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-replacement-wroclaw/index.md",
       "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-service-poznan/": "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-service-poznan/index.md",
@@ -3361,6 +3469,7 @@
       "https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/": "https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/index.md",
       "https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/": "https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/index.md",
       "https://lasertechservice.pl/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/": "https://lasertechservice.pl/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/index.md",
+      "https://lasertechservice.pl/realizacje/wymiana-spalonej-diody-laserowej/": "https://lasertechservice.pl/realizacje/wymiana-spalonej-diody-laserowej/index.md",
       "https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/": "https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/index.md",
       "https://lasertechservice.pl/ru/": "https://lasertechservice.pl/ru/index.md",
       "https://lasertechservice.pl/ru/blog/": "https://lasertechservice.pl/ru/blog/index.md",
@@ -3384,6 +3493,7 @@
       "https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/": "https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/index.md",
       "https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/": "https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/index.md",
       "https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/": "https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/index.md",
+      "https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/": "https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/index.md",
       "https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/": "https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/index.md",
       "https://lasertechservice.pl/ru/kontakt/": "https://lasertechservice.pl/ru/kontakt/index.md",
       "https://lasertechservice.pl/ru/partnerzy/": "https://lasertechservice.pl/ru/partnerzy/index.md",
@@ -3409,6 +3519,7 @@
       "https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/": "https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/index.md",
       "https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/": "https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/index.md",
       "https://lasertechservice.pl/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/": "https://lasertechservice.pl/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/index.md",
+      "https://lasertechservice.pl/ru/realizacje/zamena-sgorevshego-lazernogo-dioda/": "https://lasertechservice.pl/ru/realizacje/zamena-sgorevshego-lazernogo-dioda/index.md",
       "https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/": "https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/index.md",
       "https://lasertechservice.pl/ru/uslugi/": "https://lasertechservice.pl/ru/uslugi/index.md",
       "https://lasertechservice.pl/ru/uslugi/cennik/": "https://lasertechservice.pl/ru/uslugi/cennik/index.md",
@@ -3446,5 +3557,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-10-23T12:35:17Z"
+  "generated_at": "2026-10-26T16:12:54Z"
 }

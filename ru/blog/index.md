@@ -10,6 +10,12 @@
 
 Пишем о том, с чем сталкиваемся каждый день: ремонте лазеров, диагностике неисправностей, обслуживании косметологического оборудования и обычных проблемах, которые возникают у владельцев салонов и кабинетов.
 
+Ремонт лазерных манипул26 октября 2026
+
+## [Сгорел лазерный диод: обязательно ли покупать новую манипулу?](https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/)
+
+Нужна ли новая манипула, если сгорел лазерный диод? Реальный случай замены диода, результат ремонта и выбор между ремонтом и заменой манипулы.
+
 Диагностика и ремонт
 
 ## [Один аппарат, две поломки: как неправильное подключение манипул приводит к перегреву и почему ND:YAG требует калибровки](https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/)
@@ -143,6 +149,7 @@ Pharaon 1470, LSO Medical и OSYRIS: история обозначений, ос
 
 ## Связанные статьи
 
+- [Сгорел лазерный диод: обязательно ли покупать новую манипулу?](https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/)
 - [Один аппарат, две поломки: как неправильное подключение манипул приводит к перегреву и почему ND:YAG требует калибровки](https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/)
 - [Модуль Пельтье в лазерной манипуле: как работает охлаждение и почему оно выходит из строя](https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/)
 - [Lumenis LightSheer DESIRE спустя 10 лет: почему лазер за 200 000 zł может продолжать работать?](https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/)

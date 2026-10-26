@@ -1274,6 +1274,54 @@
           "status": "planned"
         }
       }
+    },
+    {
+      "id": "realizacje:wymiana-spalonej-diody-laserowej",
+      "type": "case-study",
+      "x_default": "/realizacje/wymiana-spalonej-diody-laserowej/",
+      "hreflang": {
+        "pl": "pl-PL",
+        "ru": "ru-RU",
+        "en": "en"
+      },
+      "routes": {
+        "pl": {
+          "url": "/realizacje/wymiana-spalonej-diody-laserowej/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/zamena-sgorevshego-lazernogo-dioda/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/burned-out-laser-diode-replacement/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:spalona-dioda-laserowa-naprawa-glowicy",
+      "type": "article",
+      "x_default": "/blog/spalona-dioda-laserowa-naprawa-glowicy/",
+      "hreflang": {
+        "pl": "pl-PL",
+        "ru": "ru-RU",
+        "en": "en"
+      },
+      "routes": {
+        "pl": {
+          "url": "/blog/spalona-dioda-laserowa-naprawa-glowicy/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/sgorel-lazernyy-diod-remont-manipuly/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/burned-out-laser-diode-handpiece-repair/",
+          "status": "published"
+        }
+      }
     }
   ]
 }

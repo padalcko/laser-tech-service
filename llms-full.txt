@@ -10937,6 +10937,62 @@ In a separate job for Tiamo studio in Wrocław, a power cable caused the loss of
 
 - [Beauty Planet 3D Contour — handpiece power cable replacement in Wrocław](https://lasertechservice.pl/en/case-studies/beauty-planet-handpiece-cable-replacement-wroclaw/)
 
+### Burned-Out Laser Diode Replacement — Laser Handpiece Repair
+
+HTML source: [Burned-Out Laser Diode Replacement — Laser Handpiece Repair](https://lasertechservice.pl/en/case-studies/burned-out-laser-diode-replacement/)
+
+Language: English
+
+Other language version: [Polski](https://lasertechservice.pl/realizacje/wymiana-spalonej-diody-laserowej/), [Русский](https://lasertechservice.pl/ru/realizacje/zamena-sgorevshego-lazernogo-dioda/)
+
+> Laser Tech Service replaced a burned-out diode: the handpiece was disassembled, the failed diode removed and a working replacement installed. It works again.
+
+A laser handpiece with a burned-out laser diode was brought to Laser Tech Service for repair. The damaged diode had caused the handpiece to stop working.
+
+![Separate laser diode module beside the open handpiece](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/wymiana-spalonej-diody-laserowej.webp)
+
+- Problem: Burned-out laser diode.
+
+- Repair: Handpiece disassembly and replacement of the damaged laser diode.
+
+- Result: The laser handpiece is working again.
+
+#### Repair
+
+Our technician disassembled the handpiece, removed the failed laser diode and installed a working replacement.
+
+![Laser Tech Service technician working on an open laser handpiece](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
+
+![Disassembled laser handpiece and removed module on the workbench](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/naprawa-glowicy-laserowej-wymiana-diody.webp)
+
+![Internal components and wiring of the open laser handpiece](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/regeneracja-laserow-naprawa-manipuly.webp)
+
+#### Result
+
+Following the diode replacement, the laser handpiece was operational again.
+
+#### Related services and reading
+
+- [Laser diode replacement and calibration](https://lasertechservice.pl/en/services/laser-diode-replacement-calibration/)
+
+- [Laser handpiece repair](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
+
+- [Diode laser diagnostics](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
+
+[Burned-Out Laser Diode: Do You Need to Replace the Entire Handpiece?](https://lasertechservice.pl/en/blog/burned-out-laser-diode-handpiece-repair/)
+
+#### Service offerings
+
+- [Professional laser and aesthetic equipment servicing](https://lasertechservice.pl/en/services/)
+- [Service pricing](https://lasertechservice.pl/en/pricing/)
+- [Laser diode replacement and calibration](https://lasertechservice.pl/en/services/laser-diode-replacement-calibration/)
+- [Laser handpiece and applicator refurbishment](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
+- [Diode laser diagnostics](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
+
+#### Related articles
+
+- [Burned-Out Laser Diode: Do You Need to Replace the Entire Handpiece?](https://lasertechservice.pl/en/blog/burned-out-laser-diode-handpiece-repair/)
+
 ### Cavi Shape Advanced servicing — RF, infrared and ultrasound repair
 
 HTML source: [Cavi Shape Advanced servicing — RF, infrared and ultrasound repair](https://lasertechservice.pl/en/case-studies/cavi-shape-advanced-service-wroclaw/)
@@ -15591,6 +15647,62 @@ Wymiana niesprawnej części bez usunięcia przyczyny jej uszkodzenia stwarza ry
 - [Jeden aparat, dwie awarie: jak nieprawidłowe podłączenie głowic prowadzi do przegrzewania i dlaczego laser Nd:YAG wymaga kalibracji](https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/)
 - [Planowy przegląd lasera diodowego – dlaczego jest ważny i co obejmuje?](https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/)
 
+### Wymiana spalonej diody laserowej — naprawa głowicy lasera
+
+Źródło HTML: [Wymiana spalonej diody laserowej — naprawa głowicy lasera](https://lasertechservice.pl/realizacje/wymiana-spalonej-diody-laserowej/)
+
+Język: Polski
+
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/zamena-sgorevshego-lazernogo-dioda/), [English](https://lasertechservice.pl/en/case-studies/burned-out-laser-diode-replacement/)
+
+> Wymiana spalonej diody laserowej w Laser Tech Service: rozmontowanie głowicy, demontaż uszkodzonego elementu i montaż sprawnej diody. Głowica ponownie działa.
+
+Do serwisu Laser Tech Service trafiła głowica laserowa z uszkodzoną diodą. Dioda uległa spaleniu, przez co głowica przestała działać.
+
+![Oddzielny moduł diody laserowej obok otwartej manipuły](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/wymiana-spalonej-diody-laserowej.webp)
+
+- Problem: Spalona dioda laserowa.
+
+- Wykonane prace: Demontaż głowicy i wymiana uszkodzonej diody.
+
+- Rezultat: Głowica laserowa ponownie działa.
+
+#### Wykonane prace
+
+Specjalista Laser Tech Service rozmontował głowicę, zdemontował spalony element i zamontował sprawną diodę laserową.
+
+![Specjalista Laser Tech Service przy rozebranej manipule laserowej](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
+
+![Rozebrana głowica laserowa i wyjęty moduł na stole](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/naprawa-glowicy-laserowej-wymiana-diody.webp)
+
+![Wewnętrzne komponenty i przewody otwartej manipuły laserowej](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/regeneracja-laserow-naprawa-manipuly.webp)
+
+#### Rezultat
+
+Po wymianie diody głowica odzyskała sprawność i ponownie działa.
+
+#### Powiązane usługi i materiały
+
+- [Wymiana i kalibracja diod laserowych](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/)
+
+- [Naprawa głowic i manipulatorów](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
+[Spalona dioda laserowa — czy trzeba wymieniać całą głowicę?](https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/)
+
+#### Usługi serwisowe
+
+- [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Wymiana i kalibracja diod laserowych](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/)
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
+#### Powiązane artykuły
+
+- [Spalona dioda laserowa — czy trzeba wymieniać całą głowicę?](https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/)
+
 ### Wymiana wentylatorów chłodzenia lasera i konserwacja urządzenia — Wrocław
 
 Źródło HTML: [Wymiana wentylatorów chłodzenia lasera i konserwacja urządzenia — Wrocław](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/)
@@ -18198,6 +18310,62 @@ ESTETECH
 
 - [Один аппарат, две поломки: как неправильное подключение манипул приводит к перегреву и почему ND:YAG требует калибровки](https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/)
 - [Плановое обслуживание диодного лазера — почему это важно и что оно включает?](https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/)
+
+### Замена сгоревшего лазерного диода — ремонт манипулы
+
+Источник HTML: [Замена сгоревшего лазерного диода — ремонт манипулы](https://lasertechservice.pl/ru/realizacje/zamena-sgorevshego-lazernogo-dioda/)
+
+Язык: Русский
+
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/wymiana-spalonej-diody-laserowej/), [English](https://lasertechservice.pl/en/case-studies/burned-out-laser-diode-replacement/)
+
+> Замена сгоревшего лазерного диода в Laser Tech Service: разборка манипулы, демонтаж неисправного элемента и установка исправного. Манипула снова работает.
+
+В сервис Laser Tech Service поступила лазерная манипула, в которой сгорел лазерный диод. Из-за неисправности диода манипула перестала работать.
+
+![Отдельный модуль лазерного диода рядом с открытой манипулой](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/wymiana-spalonej-diody-laserowej.webp)
+
+- Проблема: Сгорел лазерный диод.
+
+- Выполненные работы: Разборка манипулы и замена неисправного диода.
+
+- Результат: Манипула снова работает.
+
+#### Выполненные работы
+
+Специалист Laser Tech Service разобрал корпус манипулы, демонтировал сгоревший диод и установил исправный.
+
+![Специалист Laser Tech Service работает с разобранной лазерной манипулой](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
+
+![Разобранная лазерная головка и снятый модуль на столе](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/naprawa-glowicy-laserowej-wymiana-diody.webp)
+
+![Внутренние компоненты и провода открытой лазерной манипулы](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/regeneracja-laserow-naprawa-manipuly.webp)
+
+#### Результат
+
+После замены диода работоспособность манипулы была восстановлена.
+
+#### Связанные услуги и материалы
+
+- [Замена и калибровка лазерных диодов](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/)
+
+- [Ремонт головок и манипул](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
+[Сгорел лазерный диод: обязательно ли покупать новую манипулу?](https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/)
+
+#### Услуги сервиса
+
+- [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Замена и калибровка лазерных диодов](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/)
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
+#### Связанные статьи
+
+- [Сгорел лазерный диод: обязательно ли покупать новую манипулу?](https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/)
 
 ### Замена вентиляторов охлаждения лазерного аппарата и техническое обслуживание во Вроцлаве
 
@@ -21278,6 +21446,84 @@ Częstotliwość zależy od konkretnego modelu, intensywności użytkowania oraz
 
 - [5 oznak, że dioda w laserze do depilacji wymaga sprawdzenia lub wymiany](https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/)
 
+### Spalona dioda laserowa — czy trzeba wymieniać całą głowicę?
+
+Źródło HTML: [Spalona dioda laserowa — czy trzeba wymieniać całą głowicę?](https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/)
+
+Język: Polski
+
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/), [English](https://lasertechservice.pl/en/blog/burned-out-laser-diode-handpiece-repair/)
+
+> Czy spalona dioda oznacza konieczność zakupu nowej głowicy? Poznaj rzeczywisty przypadek wymiany diody i możliwości naprawy manipuły w Laser Tech Service.
+
+Czy spalona dioda oznacza konieczność zakupu nowej głowicy? Poznaj rzeczywisty przypadek wymiany diody i możliwości naprawy manipuły w Laser Tech Service.
+
+#### Spalona dioda laserowa — rzeczywisty przypadek
+
+Do serwisu Laser Tech Service trafiła głowica laserowa z uszkodzoną diodą. Dioda uległa spaleniu, przez co głowica przestała działać.
+
+Ten przypadek dotyczy konkretnej usterki: spalonej diody. Nie określono przyczyny jej uszkodzenia. Opis naprawy nie daje podstaw do przypisywania problemu chłodzeniu, elektronice ani sposobowi eksploatacji. Zdjęcia dokumentują manipułę i pracę specjalisty; nie służą do identyfikowania modelu urządzenia.
+
+![Oddzielny moduł diody laserowej obok otwartej manipuły](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/wymiana-spalonej-diody-laserowej.webp)
+
+Oddzielny moduł diody laserowej obok otwartej manipuły
+
+#### Jak przebiega wymiana diody laserowej?
+
+Specjalista Laser Tech Service rozmontował głowicę, zdemontował spalony element i zamontował sprawną diodę laserową.
+
+Prace obejmowały dostęp do elementu wewnątrz obudowy, usunięcie niesprawnej diody i zamontowanie sprawnego komponentu. Tak wyglądała [wymiana diody laserowej](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/) w tej realizacji. To opis wykonanych czynności, a nie uniwersalna instrukcja demontażu: konstrukcja i dostęp serwisowy zależą od konkretnej głowicy.
+
+![Specjalista Laser Tech Service przy rozebranej manipule laserowej](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
+
+Specjalista Laser Tech Service przy rozebranej manipule laserowej
+
+#### Rezultat naprawy głowicy laserowej
+
+Po wymianie diody głowica odzyskała sprawność i ponownie działa.
+
+W tym przypadku naprawa głowicy laserowej pozwoliła przywrócić jej działanie bez wymiany całej manipuły. Nie podajemy wartości mocy, parametrów kalibracji ani wyników pomiarów, ponieważ takie dane nie stanowią części dokumentacji tej realizacji. Potwierdzony rezultat to ponowne działanie głowicy.
+
+Dokumentację fotograficzną znajdziesz w [realizacji wymiany spalonej diody laserowej](https://lasertechservice.pl/realizacje/wymiana-spalonej-diody-laserowej/).
+
+#### Naprawa laserów czy zakup nowej głowicy?
+
+Uszkodzenie pojedynczego elementu nie musi oznaczać konieczności zastąpienia całego zespołu. Jeżeli zakres usterki pozwala na wymianę komponentu, naprawa manipuły laserowej może być rozwiązaniem wartym rozważenia. W opisanej pracy właśnie wymiana diody przywróciła sprawność głowicy.
+
+Decyzja o naprawie lub zakupie nowej głowicy wymaga porównania zakresu prac, dostępności odpowiedniego elementu i wyceny dla konkretnego urządzenia. Bez takiego porównania nie można obiecać oszczędności ani podać uniwersalnej opłacalności. Wynik jednej realizacji nie oznacza, że każdą głowicę można naprawić w ten sam sposób.
+
+#### Regeneracja laserów i naprawa głowic
+
+Regeneracja laserów i naprawa głowic mogą obejmować wymianę uszkodzonych komponentów. Zakres powinien wynikać ze stanu urządzenia, a nie z samej nazwy usługi. W tej realizacji wymieniono spalony laserowy element; nie opisujemy jej jako kompleksowej regeneracji wszystkich podzespołów.
+
+Serwis laserów diodowych wymaga rozróżnienia zgłoszonego objawu od ustalonej usterki. Jeżeli w innym aparacie głowica przestaje działać, nie można na tej podstawie automatycznie uznać, że również spaliła się dioda. Punkt wyjścia stanowi ocena konkretnego przypadku.
+
+#### Serwis laserów — Laser Tech Service
+
+Laser Tech Service oferuje serwis laserów, naprawę głowic oraz wymianę diod laserowych. Prześlij opis objawów, oznaczenie urządzenia i zdjęcia manipuły, aby omówić możliwy zakres obsługi. Naprawa laserów jest ustalana indywidualnie, na podstawie zgłoszenia i stanu sprzętu.
+
+#### Powiązane usługi i materiały
+
+- [Wymiana i kalibracja diod laserowych](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/)
+
+- [Naprawa głowic i manipulatorów](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
+[Wymiana spalonej diody laserowej — naprawa głowicy lasera](https://lasertechservice.pl/realizacje/wymiana-spalonej-diody-laserowej/)
+
+#### Usługi serwisowe
+
+- [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Wymiana i kalibracja diod laserowych](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/)
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
+#### Powiązane realizacje
+
+- [Wymiana spalonej diody laserowej — naprawa głowicy lasera](https://lasertechservice.pl/realizacje/wymiana-spalonej-diody-laserowej/)
+
 ### Mały przewód, duży problem. Dlaczego połączenie manipulatora z urządzeniem jest tak ważne?
 
 Źródło HTML: [Mały przewód, duży problem. Dlaczego połączenie manipulatora z urządzeniem jest tak ważne?](https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/)
@@ -22016,6 +22262,84 @@ Sometimes the best first step is **calling a technician to diagnose the problem 
 #### Related repairs
 
 - [Beauty Planet 3D Contour repair — vacuum and RF](https://lasertechservice.pl/en/case-studies/beauty-planet-vacuum-rf-repair-wroclaw/)
+
+### Burned-Out Laser Diode: Do You Need to Replace the Entire Handpiece?
+
+HTML source: [Burned-Out Laser Diode: Do You Need to Replace the Entire Handpiece?](https://lasertechservice.pl/en/blog/burned-out-laser-diode-handpiece-repair/)
+
+Language: English
+
+Other language version: [Polski](https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/), [Русский](https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/)
+
+> Does a burned-out laser diode mean you need a new handpiece? Explore a real diode replacement, the repair outcome and what to consider before replacement.
+
+Does a burned-out laser diode mean you need a new handpiece? Explore a real diode replacement, the repair outcome and what to consider before replacement.
+
+#### Burned-Out Laser Diode — A Real Repair Case
+
+A laser handpiece with a burned-out laser diode was brought to Laser Tech Service for repair. The damaged diode had caused the handpiece to stop working.
+
+The confirmed fault in this case was a burned-out diode. The repair information does not establish why it failed, so it would be inaccurate to attribute the damage to cooling, electronics or operating conditions. The photographs document the handpiece and the technician’s work; they do not establish the make or model of the equipment.
+
+![Separate laser diode module beside the open handpiece](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/wymiana-spalonej-diody-laserowej.webp)
+
+Separate laser diode module beside the open handpiece
+
+#### How the Laser Diode Was Replaced
+
+Our technician disassembled the handpiece, removed the failed laser diode and installed a working replacement.
+
+The work involved opening the handpiece to access the component, removing the failed diode and installing a working one. This is the documented sequence for this [laser diode replacement](https://lasertechservice.pl/en/services/laser-diode-replacement-calibration/). It is a repair account, not a disassembly guide: component access and the construction of a handpiece depend on the equipment involved.
+
+![Laser Tech Service technician working on an open laser handpiece](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
+
+Laser Tech Service technician working on an open laser handpiece
+
+#### Laser Handpiece Repair — The Result
+
+Following the diode replacement, the laser handpiece was operational again.
+
+Replacing the diode restored operation without replacing the entire handpiece. No output readings, calibration settings or additional test results are included in the supplied repair record. The confirmed outcome is that the handpiece was working again after the faulty diode had been replaced.
+
+See the [burned-out laser diode replacement case study](https://lasertechservice.pl/en/case-studies/burned-out-laser-diode-replacement/) for the repair photographs.
+
+#### Laser Handpiece Repair vs. Replacement
+
+A failed component does not necessarily make the whole assembly unusable beyond repair. Where the condition of the handpiece permits a component replacement, laser handpiece repair can be an option to consider. In this case, replacing the diode restored operation.
+
+Choosing between repair and a replacement handpiece requires a comparison of the proposed work, availability of a suitable component and the quote for the specific equipment. There is no basis for promising a fixed saving without that comparison. A successful repair of one handpiece does not establish that the same approach is appropriate for every model.
+
+#### Laser Equipment Repair and Refurbishment
+
+Laser equipment repair and laser refurbishment can include replacing damaged components. The scope depends on the condition of the equipment; the service label alone does not describe what was done. This job involved replacement of a burned-out diode and should not be described as a complete refurbishment of every assembly.
+
+In cosmetic laser repair, a report that a handpiece has stopped working is a starting point for assessment. It does not by itself identify a failed diode. A different handpiece needs its own assessment, even when the reported symptom resembles the one in this case.
+
+#### Professional Laser Servicing in Poland
+
+Laser Tech Service provides laser servicing, handpiece repair and diode replacement. If you are looking for a laser repair service in Poland, send the equipment identification, a description of the fault and photographs of the handpiece. The next steps and proposed laser repair work can then be discussed for that equipment.
+
+#### Related services and reading
+
+- [Laser diode replacement and calibration](https://lasertechservice.pl/en/services/laser-diode-replacement-calibration/)
+
+- [Laser handpiece repair](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
+
+- [Diode laser diagnostics](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
+
+[Burned-Out Laser Diode Replacement — Laser Handpiece Repair](https://lasertechservice.pl/en/case-studies/burned-out-laser-diode-replacement/)
+
+#### Service offerings
+
+- [Professional laser and aesthetic equipment servicing](https://lasertechservice.pl/en/services/)
+- [Service pricing](https://lasertechservice.pl/en/pricing/)
+- [Laser diode replacement and calibration](https://lasertechservice.pl/en/services/laser-diode-replacement-calibration/)
+- [Laser handpiece and applicator refurbishment](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
+- [Diode laser diagnostics](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
+
+#### Related repairs
+
+- [Burned-Out Laser Diode Replacement — Laser Handpiece Repair](https://lasertechservice.pl/en/case-studies/burned-out-laser-diode-replacement/)
 
 ### CO₂ laser not responding to the foot pedal? A symptom is not yet a diagnosis
 
@@ -28402,6 +28726,84 @@ Laser Tech Service выполняет диагностику, ремонт, за
 
 - [CO₂-лазер не реагирует на педаль: симптом — ещё не диагноз](https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/)
 
+### Сгорел лазерный диод: обязательно ли покупать новую манипулу?
+
+Источник HTML: [Сгорел лазерный диод: обязательно ли покупать новую манипулу?](https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/)
+
+Язык: Русский
+
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/), [English](https://lasertechservice.pl/en/blog/burned-out-laser-diode-handpiece-repair/)
+
+> Нужна ли новая манипула, если сгорел лазерный диод? Реальный случай замены диода, результат ремонта и выбор между ремонтом и заменой манипулы.
+
+Нужна ли новая манипула, если сгорел лазерный диод? Реальный случай замены диода, результат ремонта и выбор между ремонтом и заменой манипулы.
+
+#### Сгоревший лазерный диод — реальный случай из сервиса
+
+В сервис Laser Tech Service поступила лазерная манипула, в которой сгорел лазерный диод. Из-за неисправности диода манипула перестала работать.
+
+В этом случае известна конкретная неисправность: сгоревший диод. Причина его повреждения не установлена в предоставленном описании. Поэтому связывать отказ с охлаждением, электроникой или эксплуатацией нельзя. Фотографии показывают манипулу и работу специалиста, но не подтверждают модель аппарата.
+
+![Отдельный модуль лазерного диода рядом с открытой манипулой](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/wymiana-spalonej-diody-laserowej.webp)
+
+Отдельный модуль лазерного диода рядом с открытой манипулой
+
+#### Как выполнялась замена лазерного диода
+
+Специалист Laser Tech Service разобрал корпус манипулы, демонтировал сгоревший диод и установил исправный.
+
+Последовательность работ включала доступ к компоненту внутри корпуса, демонтаж неисправного элемента и установку исправного. Именно так выполнялась [замена лазерного диода](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/) в этой манипуле. Это описание выполненного ремонта, а не универсальная инструкция: устройство корпуса и доступ к компонентам зависят от конкретной головки.
+
+![Специалист Laser Tech Service работает с разобранной лазерной манипулой](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
+
+Специалист Laser Tech Service работает с разобранной лазерной манипулой
+
+#### Результат ремонта
+
+После замены диода работоспособность манипулы была восстановлена.
+
+Ремонт лазерной манипулы позволил восстановить её работу без покупки целой головки. Значения мощности, параметры калибровки и результаты измерений в документации этого случая не указаны. Подтверждённый результат — манипула снова работает после замены неисправного диода.
+
+Фотографии этой работы собраны в [описании замены сгоревшего лазерного диода](https://lasertechservice.pl/ru/realizacje/zamena-sgorevshego-lazernogo-dioda/).
+
+#### Ремонт манипулы или покупка новой?
+
+Отказ отдельного компонента не всегда требует замены всего узла. Если состояние манипулы допускает замену неисправного элемента, такой ремонт можно рассматривать как один из вариантов. В описанном случае замены диода оказалось достаточно для восстановления работы.
+
+Выбор требует оценки объёма работ, доступности подходящего компонента и стоимости ремонта конкретной манипулы. Без расчётов нельзя обещать экономию или утверждать, что ремонт всегда выгоднее. Успешная замена в одной головке не гарантирует такого же решения для другого аппарата.
+
+#### Восстановление лазерных манипул
+
+Восстановление лазерной головки может включать замену повреждённых компонентов. Название услуги само по себе не определяет объём вмешательства: его устанавливают по состоянию оборудования. В этой работе заменили сгоревший диод; оснований называть её полным восстановлением всех узлов нет.
+
+Для другого устройства тот же внешний симптом ещё не означает тот же дефект. Если манипула не работает, сначала необходимо установить неисправность конкретного аппарата. Нельзя переносить диагноз с этой реализации на любую другую головку.
+
+#### Ремонт лазеров в Польше — Laser Tech Service
+
+Laser Tech Service — сервис лазерного оборудования в Польше, выполняющий ремонт лазеров, манипул и замену лазерных диодов. Сообщите обозначение аппарата, опишите симптомы и приложите фотографии манипулы. Это позволит обсудить дальнейшее обращение и возможный объём работ для вашего оборудования.
+
+#### Связанные услуги и материалы
+
+- [Замена и калибровка лазерных диодов](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/)
+
+- [Ремонт головок и манипул](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
+[Замена сгоревшего лазерного диода — ремонт манипулы](https://lasertechservice.pl/ru/realizacje/zamena-sgorevshego-lazernogo-dioda/)
+
+#### Услуги сервиса
+
+- [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Замена и калибровка лазерных диодов](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/)
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
+#### Связанные работы
+
+- [Замена сгоревшего лазерного диода — ремонт манипулы](https://lasertechservice.pl/ru/realizacje/zamena-sgorevshego-lazernogo-dioda/)
+
 ### Вода в лазере для эпиляции: почему её необходимо менять и вовремя проводить обслуживание?
 
 Источник HTML: [Вода в лазере для эпиляции: почему её необходимо менять и вовремя проводить обслуживание?](https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/)
@@ -28990,6 +29392,7 @@ lok. 320
 - [Polski: Planowy przegląd lasera diodowego – dlaczego jest ważny i co obejmuje?](https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/) — [Русский](https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/) — [English](https://lasertechservice.pl/en/blog/scheduled-diode-laser-maintenance/)
 - [Polski: Jeden aparat, dwie awarie: jak nieprawidłowe podłączenie głowic prowadzi do przegrzewania i dlaczego laser Nd:YAG wymaga kalibracji](https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/) — [Русский](https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/) — [English](https://lasertechservice.pl/en/blog/handpiece-connections-overheating-nd-yag-calibration/)
 - [Polski: Serwis głowicy lasera diodowego – dlaczego szczelność i czysta optyka są tak ważne?](https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/) — [Русский](https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/) — [English](https://lasertechservice.pl/en/blog/diode-laser-handpiece-seals-optics/)
+- [Polski: Spalona dioda laserowa — czy trzeba wymieniać całą głowicę?](https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/) — [Русский](https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/) — [English](https://lasertechservice.pl/en/blog/burned-out-laser-diode-handpiece-repair/)
 - [Polski: Mały przewód, duży problem. Dlaczego połączenie manipulatora z urządzeniem jest tak ważne?](https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/) — [Русский](https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/) — [English](https://lasertechservice.pl/en/blog/damaged-handpiece-cable/)
 - [Polski: Używany laser diodowy – dlaczego warto kupować urządzenie z historią serwisową?](https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/) — [Русский](https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/) — [English](https://lasertechservice.pl/en/blog/used-diode-laser-service-history/)
 - [Polski: Woda w laserze do depilacji – dlaczego jej wymiana i regularny serwis są tak ważne?](https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/) — [Русский](https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/) — [English](https://lasertechservice.pl/en/blog/hair-removal-laser-cooling-water-maintenance/)
@@ -29017,6 +29420,7 @@ lok. 320
 - [Polski: Wymiana modułu diodowego lasera po zalaniu – Poznań](https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/) — [Русский](https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/) — [English](https://lasertechservice.pl/en/case-studies/flood-damaged-diode-module-replacement-poznan/)
 - [Polski: Wymiana modułu Peltiera w głowicy lasera ESTETECH – naprawa chłodzenia w Poznaniu](https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/) — [Русский](https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/) — [English](https://lasertechservice.pl/en/case-studies/estetech-peltier-module-replacement-poznan/)
 - [Polski: Jeden aparat, dwie usterki — wymiana modułu Peltiera i naprawa lasera Nd:YAG](https://lasertechservice.pl/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/) — [Русский](https://lasertechservice.pl/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/) — [English](https://lasertechservice.pl/en/case-studies/peltier-replacement-nd-yag-laser-repair/)
+- [Polski: Wymiana spalonej diody laserowej — naprawa głowicy lasera](https://lasertechservice.pl/realizacje/wymiana-spalonej-diody-laserowej/) — [Русский](https://lasertechservice.pl/ru/realizacje/zamena-sgorevshego-lazernogo-dioda/) — [English](https://lasertechservice.pl/en/case-studies/burned-out-laser-diode-replacement/)
 - [Polski: Wymiana wentylatorów chłodzenia lasera i konserwacja urządzenia — Wrocław](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/) — [Русский](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/) — [English](https://lasertechservice.pl/en/case-studies/laser-cooling-fan-replacement-wroclaw/)
 - [Polski: Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/) — [Русский](https://lasertechservice.pl/ru/uslugi/) — [English](https://lasertechservice.pl/en/services/)
 - [Polski: Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/) — [Русский](https://lasertechservice.pl/ru/uslugi/cennik/) — [English](https://lasertechservice.pl/en/pricing/)

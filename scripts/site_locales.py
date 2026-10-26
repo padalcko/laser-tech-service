@@ -43,7 +43,8 @@ def index(data):
 
 
 def alternates(group, base):
-    result = {lang: base + url for lang, url in published(group).items()}
+    tags = group.get('hreflang', {})
+    result = {tags.get(lang, lang): base + url for lang, url in published(group).items()}
     if group['x_default'] is not None:
         result['x-default'] = base + group['x_default']
     return result

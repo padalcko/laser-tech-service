@@ -16,6 +16,16 @@
 
 Каждое устройство требует индивидуальной диагностики. Ниже представлены отдельные примеры нашей работы.
 
+![Специалист Laser Tech Service работает с разобранной лазерной манипулой](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
+
+Ремонт лазерных манипул
+
+## [Замена сгоревшего лазерного диода — ремонт манипулы](https://lasertechservice.pl/ru/realizacje/zamena-sgorevshego-lazernogo-dioda/)
+
+Замена сгоревшего лазерного диода в Laser Tech Service: разборка манипулы, демонтаж неисправного элемента и установка исправного. Манипула снова работает.
+
+[Посмотреть работу](https://lasertechservice.pl/ru/realizacje/zamena-sgorevshego-lazernogo-dioda/)
+
 ![Специалист в футболке Laser Tech Service работает с разобранной манипулой Nd:YAG](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/specjalista-laser-tech-service-naprawa-nd-yag.webp)
 
 Диагностика и ремонт
@@ -283,6 +293,7 @@ RF Вакуум Диагностика Ремонт
 
 ## Связанные работы
 
+- [Замена сгоревшего лазерного диода — ремонт манипулы](https://lasertechservice.pl/ru/realizacje/zamena-sgorevshego-lazernogo-dioda/)
 - [Один аппарат — две неисправности: замена элемента Пельтье и ремонт лазера ND](https://lasertechservice.pl/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/)
 - [Замена модуля Пельтье в манипуле лазера ESTETECH — ремонт системы охлаждения в Познани](https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/)
 - [Ремонт Lumenis LightSheer DESIRE в Олеснице — утечка жидкости и неисправность системы охлаждения](https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/)

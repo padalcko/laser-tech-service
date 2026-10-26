@@ -16,6 +16,16 @@ Pokazujemy rzeczywiste realizacje serwisowe: zakres zlecenia, wykonane prace ora
 
 Każde urządzenie wymaga indywidualnej diagnostyki. Poniżej prezentujemy wybrane realizacje naszego serwisu.
 
+![Specjalista Laser Tech Service przy rozebranej manipule laserowej](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
+
+Naprawa głowic laserowych
+
+## [Wymiana spalonej diody laserowej — naprawa głowicy lasera](https://lasertechservice.pl/realizacje/wymiana-spalonej-diody-laserowej/)
+
+Wymiana spalonej diody laserowej w Laser Tech Service: rozmontowanie głowicy, demontaż uszkodzonego elementu i montaż sprawnej diody. Głowica ponownie działa.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/wymiana-spalonej-diody-laserowej/)
+
 ![Specjalista w koszulce Laser Tech Service podczas pracy przy rozebranej głowicy Nd:YAG](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/specjalista-laser-tech-service-naprawa-nd-yag.webp)
 
 Diagnostyka i naprawa
@@ -283,6 +293,7 @@ Serwisujemy lasery diodowe, urządzenia ND:YAG, IPL, CO2 oraz inne urządzenia w
 
 ## Powiązane realizacje
 
+- [Wymiana spalonej diody laserowej — naprawa głowicy lasera](https://lasertechservice.pl/realizacje/wymiana-spalonej-diody-laserowej/)
 - [Jeden aparat, dwie usterki — wymiana modułu Peltiera i naprawa lasera Nd:YAG](https://lasertechservice.pl/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/)
 - [Wymiana modułu Peltiera w głowicy lasera ESTETECH – naprawa chłodzenia w Poznaniu](https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/)
 - [Naprawa Lumenis LightSheer DESIRE w Oleśnicy – wyciek płynu i awaria układu chłodzenia](https://lasertechservice.pl/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/)

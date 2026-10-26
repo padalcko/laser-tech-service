@@ -188,7 +188,7 @@ def markdown(page, pages):
     source_label, language_label = ('HTML source','Language') if en else (('Источник HTML','Язык') if ru else ('Źródło HTML','Język'))
     title=page['title']; out='# '+title+'\n\n'
     out+=f'{source_label}: [{title}]({page["canonical"]})\n\n{language_label}: '+page['languages'][page['lang']]+'\n\n'
-    peers=[f'[{page["languages"][l]}]({u})' for l,u in page['alternates'].items() if l in page['languages'] and l!=page['lang']]
+    peers=[f'[{page["languages"][l]}]({BASE + u})' for l,u in site_locales.published(page['route_group']).items() if l!=page['lang']]
     if peers: out+=('Other language version: ' if en else 'Версия на другом языке: ' if ru else 'Inna wersja językowa: ')+', '.join(peers)+'\n\n'
     out+='> '+page['meta'].get('description','')+'\n\n'
     for schema in page['schemas']:
@@ -312,8 +312,10 @@ def full_text(pages, representations):
     for p in pages:
         if p['lang']=='pl':
             out+='- [Polski: '+p['title']+']('+p['canonical']+')'
-            if any(l != 'pl' and l in p['languages'] for l in p['alternates']):
-                for lang, url in p['alternates'].items():
+            language_routes = site_locales.published(p['route_group'])
+            if any(l != 'pl' for l in language_routes):
+                for lang, route in language_routes.items():
+                    url = BASE + route
                     if lang != 'pl' and lang in p['languages']:
                         out+=' — ['+p['languages'][lang]+']('+url+')'
             else:
@@ -323,7 +325,7 @@ def full_text(pages, representations):
     if extra:
         out = out.replace('its Polish or Russian language.', 'its original published language.')
         for p in extra:
-            if 'pl' not in p['alternates']:
+            if 'pl' not in site_locales.published(p['route_group']):
                 out += '- [' + p['languages'][p['lang']] + ': ' + p['title'] + '](' + p['canonical'] + ')\n'
     return out
 

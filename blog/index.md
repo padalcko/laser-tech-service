@@ -10,6 +10,12 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/), [
 
 Praktyczna wiedza o serwisie, diagnostyce, naprawach i eksploatacji urządzeń laserowych oraz kosmetycznych.
 
+Naprawa głowic laserowych26 października 2026
+
+## [Spalona dioda laserowa — czy trzeba wymieniać całą głowicę?](https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/)
+
+Czy spalona dioda oznacza konieczność zakupu nowej głowicy? Poznaj rzeczywisty przypadek wymiany diody i możliwości naprawy manipuły w Laser Tech Service.
+
 Diagnostyka i naprawa
 
 ## [Jeden aparat, dwie awarie: jak nieprawidłowe podłączenie głowic prowadzi do przegrzewania i dlaczego laser Nd:YAG wymaga kalibracji](https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/)
@@ -143,6 +149,7 @@ Gwarancja, dokumentacja wykonanych prac, historia serwisowa, możliwość szybki
 
 ## Powiązane artykuły
 
+- [Spalona dioda laserowa — czy trzeba wymieniać całą głowicę?](https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/)
 - [Jeden aparat, dwie awarie: jak nieprawidłowe podłączenie głowic prowadzi do przegrzewania i dlaczego laser Nd:YAG wymaga kalibracji](https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/)
 - [Moduł Peltiera w głowicy lasera – jak działa chłodzenie i dlaczego przestaje działać?](https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/)
 - [Lumenis LightSheer DESIRE po 10 latach – dlaczego laser za 200 000 zł nadal może pracować niezawodnie?](https://lasertechservice.pl/blog/lightsheer-desire-chlodzenie-niezawodnosc/)

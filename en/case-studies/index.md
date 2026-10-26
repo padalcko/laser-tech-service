@@ -16,6 +16,16 @@ Actual service work: the job scope, completed repairs and photographic and video
 
 Every device needs individual diagnostics. Explore selected examples of our service work below.
 
+![Laser Tech Service technician working on an open laser handpiece](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
+
+Laser handpiece repair
+
+## [Burned-Out Laser Diode Replacement — Laser Handpiece Repair](https://lasertechservice.pl/en/case-studies/burned-out-laser-diode-replacement/)
+
+Laser Tech Service replaced a burned-out diode: the handpiece was disassembled, the failed diode removed and a working replacement installed. It works again.
+
+[View case study](https://lasertechservice.pl/en/case-studies/burned-out-laser-diode-replacement/)
+
 ![Specialist wearing a Laser Tech Service shirt working on a dismantled Nd:YAG handpiece](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/specjalista-laser-tech-service-naprawa-nd-yag.webp)
 
 Diagnostics and repair
@@ -283,6 +293,7 @@ We service diode lasers, Nd:YAG, IPL, CO₂ and other equipment used in aestheti
 
 ## Related repairs
 
+- [Burned-Out Laser Diode Replacement — Laser Handpiece Repair](https://lasertechservice.pl/en/case-studies/burned-out-laser-diode-replacement/)
 - [One device, two faults — Peltier module replacement and Nd:YAG laser repair](https://lasertechservice.pl/en/case-studies/peltier-replacement-nd-yag-laser-repair/)
 - [ESTETECH laser handpiece Peltier module replacement – cooling repair in Poznań](https://lasertechservice.pl/en/case-studies/estetech-peltier-module-replacement-poznan/)
 - [Lumenis LightSheer DESIRE repair in Oleśnica — coolant leak and cooling system failure](https://lasertechservice.pl/en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/)

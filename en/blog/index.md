@@ -10,6 +10,12 @@ Other language version: [Polski](https://lasertechservice.pl/blog/), [Русск
 
 Practical knowledge about servicing, diagnostics, repairs and operation of laser and aesthetic equipment.
 
+Laser handpiece repair26 October 2026
+
+## [Burned-Out Laser Diode: Do You Need to Replace the Entire Handpiece?](https://lasertechservice.pl/en/blog/burned-out-laser-diode-handpiece-repair/)
+
+Does a burned-out laser diode mean you need a new handpiece? Explore a real diode replacement, the repair outcome and what to consider before replacement.
+
 Diagnostics and repair
 
 ## [One device, two faults: how incorrect handpiece connections cause overheating and why an Nd:YAG laser needs calibration](https://lasertechservice.pl/en/blog/handpiece-connections-overheating-nd-yag-calibration/)
@@ -143,6 +149,7 @@ Warranty, work documentation, service history, prompt on-site visits and respons
 
 ## Related articles
 
+- [Burned-Out Laser Diode: Do You Need to Replace the Entire Handpiece?](https://lasertechservice.pl/en/blog/burned-out-laser-diode-handpiece-repair/)
 - [One device, two faults: how incorrect handpiece connections cause overheating and why an Nd:YAG laser needs calibration](https://lasertechservice.pl/en/blog/handpiece-connections-overheating-nd-yag-calibration/)
 - [The Peltier module in a laser handpiece – how does cooling work and why does it fail?](https://lasertechservice.pl/en/blog/peltier-module-laser-handpiece-cooling/)
 - [Lumenis LightSheer DESIRE after 10 years – why can a PLN 200,000 laser still operate reliably?](https://lasertechservice.pl/en/blog/lightsheer-desire-cooling-reliability/)
