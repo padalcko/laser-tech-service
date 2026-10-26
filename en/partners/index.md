@@ -68,6 +68,19 @@ Laser Tech Service partner
 
 [Partner website](https://www.instagram.com/cuprum_beauty_lab/)
 
+![LUMINE logo — Beauty Studio & Tatuażu in Wrocław](https://lasertechservice.pl/img/partnerzy/lumine-beauty-studio-wroclaw-logo.webp)
+
+## LUMINE — Beauty Studio & Tatuażu
+
+Beauty studio offering eyebrow styling, permanent makeup, tattoos and waxing.
+
++38 099 074 90 91
+Wrocław, Poland
+
+Laser Tech Service partner
+
+[Partner website](https://www.instagram.com/nataliiem_/)
+
 ## Service offerings
 
 - [Professional laser and aesthetic equipment servicing](https://lasertechservice.pl/en/services/)

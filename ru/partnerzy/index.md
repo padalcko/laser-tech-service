@@ -68,6 +68,19 @@ ul. Grodzka 4, Любин
 
 [Страница партнёра](https://www.instagram.com/cuprum_beauty_lab/)
 
+![Логотип LUMINE — Beauty Studio & Tatuażu во Вроцлаве](https://lasertechservice.pl/img/partnerzy/lumine-beauty-studio-wroclaw-logo.webp)
+
+## LUMINE — Beauty Studio & Tatuażu
+
+Студия красоты, специализирующаяся на оформлении бровей, перманентном макияже, татуировках и восковой депиляции.
+
++38 099 074 90 91
+Вроцлав, Польша
+
+Партнёр Laser Tech Service
+
+[Страница партнёра](https://www.instagram.com/nataliiem_/)
+
 ## Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
