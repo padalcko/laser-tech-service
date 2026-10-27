@@ -16,6 +16,16 @@ Actual service work: the job scope, completed repairs and photographic and video
 
 Every device needs individual diagnostics. Explore selected examples of our service work below.
 
+![Lumenis LightSheer DESIRE screen showing ET BP over temperature](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-desire-cooling-error.webp)
+
+WrocławCooling and servicing
+
+## [Lumenis LightSheer DESIRE Cooling System Repair – Tubing Replacement and Coolant Circulation Restoration](https://lasertechservice.pl/en/case-studies/lightsheer-desire-cooling-tubing-repair-wroclaw/)
+
+Lumenis LightSheer DESIRE service in Wrocław: ET BP over temperature, contaminated tubing and coolant replacement, and restored circulation.
+
+[View case study](https://lasertechservice.pl/en/case-studies/lightsheer-desire-cooling-tubing-repair-wroclaw/)
+
 ![Laser Tech Service technician working on an open laser handpiece](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
 
 Laser handpiece repair
@@ -293,6 +303,7 @@ We service diode lasers, Nd:YAG, IPL, CO₂ and other equipment used in aestheti
 
 ## Related repairs
 
+- [Lumenis LightSheer DESIRE Cooling System Repair – Tubing Replacement and Coolant Circulation Restoration](https://lasertechservice.pl/en/case-studies/lightsheer-desire-cooling-tubing-repair-wroclaw/)
 - [Burned-Out Laser Diode Replacement — Laser Handpiece Repair](https://lasertechservice.pl/en/case-studies/burned-out-laser-diode-replacement/)
 - [One device, two faults — Peltier module replacement and Nd:YAG laser repair](https://lasertechservice.pl/en/case-studies/peltier-replacement-nd-yag-laser-repair/)
 - [ESTETECH laser handpiece Peltier module replacement – cooling repair in Poznań](https://lasertechservice.pl/en/case-studies/estetech-peltier-module-replacement-poznan/)

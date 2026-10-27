@@ -84,25 +84,25 @@ Diagnosis and replacement of faulty cooling components.
 
 We specialise in **diode laser repair.** We work with aesthetic clinics, beauty salons and aesthetic medicine practices.
 
-- Diode laser diagnostics and repair
+- [Diode laser diagnostics and repair](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
 
-- Laser handpiece refurbishment
+- [Laser handpiece refurbishment](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
 
-- Diode replacement and calibration
+- [Diode replacement and calibration](https://lasertechservice.pl/en/services/laser-diode-replacement-calibration/)
 
-- Cooling system repair
+- [Cooling system repair](https://lasertechservice.pl/en/services/laser-cooling-system-repair/)
 
-- Cleaning and maintenance
+- [Cleaning and maintenance](https://lasertechservice.pl/en/services/aesthetic-equipment-maintenance/)
 
-- Power supply and electronics repair
+- [Power supply and electronics repair](https://lasertechservice.pl/en/services/power-supply-electronics-repair/)
 
-- Touchscreen and sensor repair
+- [Touchscreen and sensor repair](https://lasertechservice.pl/en/services/touchscreen-control-panel-repair/)
 
-- Equipment output optimisation
+- [Equipment output optimisation](https://lasertechservice.pl/en/services/laser-diode-replacement-calibration/)
 
-- Cable and consumable component replacement
+- [Cable and consumable component replacement](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
 
-- Post-warranty servicing
+- [Post-warranty servicing](https://lasertechservice.pl/en/services/post-warranty-equipment-service/)
 
 **We service equipment from many manufacturers.** We offer on-site visits and a warranty on the work carried out.
 
@@ -167,41 +167,7 @@ You receive a warranty on the work carried out. We also provide technical suppor
 
 If you notice any of the following symptoms, contact our service team before continuing to use the equipment.
 
-Laser overheating
-
-Handpiece not cooling
-
-Laser switches off during operation
-
-No pulses
-
-Rollers not turning
-
-Nd:YAG overheating
-
-Nd:YAG — no pulses
-
-Hydrogen facial device not working
-
-RF — needles not extending
-
-Cryomassage not cooling
-
-IPL — no pulses
-
-IPL overheating
-
-IPL will not switch on
-
-LPG — no vacuum
-
-CO₂ will not switch on
-
-CO₂ overheating
-
-CO₂ — no pulses
-
-[Call: +48 790 402 597](tel:+48790402597)
+[Laser overheating](https://lasertechservice.pl/en/services/laser-cooling-system-repair/) [Handpiece not cooling](https://lasertechservice.pl/en/services/laser-handpiece-repair/) [Laser switches off during operation](https://lasertechservice.pl/en/services/power-supply-electronics-repair/) [No pulses](https://lasertechservice.pl/en/services/diode-laser-diagnostics/) [Rollers not turning](https://lasertechservice.pl/en/services/lpg-endermology-equipment-repair/) [Nd:YAG overheating](https://lasertechservice.pl/en/services/nd-yag-laser-service/) [Nd:YAG — no pulses](https://lasertechservice.pl/en/services/nd-yag-laser-service/) [Hydrogen facial device not working](https://lasertechservice.pl/en/services/) [RF — needles not extending](https://lasertechservice.pl/en/services/rf-equipment-repair/) [Cryomassage not cooling](https://lasertechservice.pl/en/services/cryotherapy-cryolipolysis-equipment-service/) [IPL — no pulses](https://lasertechservice.pl/en/services/ipl-equipment-service/) [IPL overheating](https://lasertechservice.pl/en/services/ipl-equipment-service/) [IPL will not switch on](https://lasertechservice.pl/en/services/ipl-equipment-service/) [LPG — no vacuum](https://lasertechservice.pl/en/services/lpg-endermology-equipment-repair/) [CO₂ will not switch on](https://lasertechservice.pl/en/services/co2-laser-service/) [CO₂ overheating](https://lasertechservice.pl/en/services/co2-laser-service/) [CO₂ — no pulses](https://lasertechservice.pl/en/services/co2-laser-service/) [Call: +48 790 402 597](tel:+48790402597)
 
 ## Contact
 
@@ -230,3 +196,17 @@ Unit 320
 
 - [Professional laser and aesthetic equipment servicing](https://lasertechservice.pl/en/services/)
 - [Service pricing](https://lasertechservice.pl/en/pricing/)
+- [Diode laser diagnostics](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
+- [Laser handpiece and applicator refurbishment](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
+- [Laser diode replacement and calibration](https://lasertechservice.pl/en/services/laser-diode-replacement-calibration/)
+- [Laser equipment cooling system repair](https://lasertechservice.pl/en/services/laser-cooling-system-repair/)
+- [Aesthetic equipment cleaning and maintenance](https://lasertechservice.pl/en/services/aesthetic-equipment-maintenance/)
+- [Laser power supply and electronics repair](https://lasertechservice.pl/en/services/power-supply-electronics-repair/)
+- [Touchscreen and control panel repair](https://lasertechservice.pl/en/services/touchscreen-control-panel-repair/)
+- [Post-warranty aesthetic equipment servicing](https://lasertechservice.pl/en/services/post-warranty-equipment-service/)
+- [LPG endermology equipment servicing and repair](https://lasertechservice.pl/en/services/lpg-endermology-equipment-repair/)
+- [Nd:YAG laser servicing and repair](https://lasertechservice.pl/en/services/nd-yag-laser-service/)
+- [RF equipment servicing and repair](https://lasertechservice.pl/en/services/rf-equipment-repair/)
+- [Cryotherapy and cryolipolysis equipment servicing](https://lasertechservice.pl/en/services/cryotherapy-cryolipolysis-equipment-service/)
+- [IPL equipment servicing and repair](https://lasertechservice.pl/en/services/ipl-equipment-service/)
+- [CO₂ laser servicing and repair](https://lasertechservice.pl/en/services/co2-laser-service/)

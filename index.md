@@ -84,25 +84,25 @@ Diagnostyka i wymiana uszkodzonych elementów chłodzenia.
 
 Specjalizujemy się w **naprawie laserów diodowych.** Obsługujemy kliniki kosmetologiczne, salony beauty oraz gabinety medycyny estetycznej.
 
-- Diagnostyka i naprawa laserów diodowych
+- [Diagnostyka i naprawa laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 
-- Regeneracja głowic laserowych
+- [Regeneracja głowic laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
 
-- Wymiana i kalibracja diod
+- [Wymiana i kalibracja diod](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/)
 
-- Naprawa układów chłodzenia
+- [Naprawa układów chłodzenia](https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/)
 
-- Czyszczenie i konserwacja
+- [Czyszczenie i konserwacja](https://lasertechservice.pl/uslugi/konserwacja-urzadzen-kosmetologicznych/)
 
-- Naprawa zasilania i elektroniki
+- [Naprawa zasilania i elektroniki](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
 
-- Naprawa ekranów dotykowych i czujników
+- [Naprawa ekranów dotykowych i czujników](https://lasertechservice.pl/uslugi/naprawa-ekranow-dotykowych/)
 
-- Optymalizacja mocy urządzenia
+- [Optymalizacja mocy urządzenia](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/)
 
-- Wymiana przewodów i elementów eksploatacyjnych
+- [Wymiana przewodów i elementów eksploatacyjnych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
 
-- Serwis pogwarancyjny
+- [Serwis pogwarancyjny](https://lasertechservice.pl/uslugi/serwis-pogwarancyjny/)
 
 **Serwisujemy urządzenia wielu producentów.** Oferujemy dojazd do klienta oraz gwarancję na wykonane usługi.
 
@@ -167,41 +167,7 @@ Na wykonaną usługę otrzymujesz gwarancję. Po naprawie zapewniamy również w
 
 Jeśli zauważysz którykolwiek z poniższych objawów, skontaktuj się z serwisem przed dalszą pracą urządzenia.
 
-Laser przegrzewa się
-
-Głowica nie chłodzi
-
-Laser wyłącza się podczas pracy
-
-Brak impulsów
-
-Rolki nie obracają się
-
-ND:YAG przegrzewa się
-
-ND:YAG – brak impulsów
-
-Oczyszczanie wodorowe nie działa
-
-RF – igły nie wysuwają się
-
-Kriomasaż nie chłodzi
-
-IPL – brak impulsów
-
-IPL przegrzewa się
-
-IPL nie włącza się
-
-LPG – brak podciśnienia
-
-CO2 nie włącza się
-
-CO2 przegrzewa się
-
-CO2 – brak impulsów
-
-[Zadzwoń: +48 790 402 597](tel:+48790402597)
+[Laser przegrzewa się](https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/) [Głowica nie chłodzi](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/) [Laser wyłącza się podczas pracy](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/) [Brak impulsów](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/) [Rolki nie obracają się](https://lasertechservice.pl/uslugi/naprawa-urzadzen-lpg/) [ND:YAG przegrzewa się](https://lasertechservice.pl/uslugi/serwis-laserow-nd-yag/) [ND:YAG – brak impulsów](https://lasertechservice.pl/uslugi/serwis-laserow-nd-yag/) [Oczyszczanie wodorowe nie działa](https://lasertechservice.pl/uslugi/) [RF – igły nie wysuwają się](https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/) [Kriomasaż nie chłodzi](https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/) [IPL – brak impulsów](https://lasertechservice.pl/uslugi/serwis-ipl/) [IPL przegrzewa się](https://lasertechservice.pl/uslugi/serwis-ipl/) [IPL nie włącza się](https://lasertechservice.pl/uslugi/serwis-ipl/) [LPG – brak podciśnienia](https://lasertechservice.pl/uslugi/naprawa-urzadzen-lpg/) [CO2 nie włącza się](https://lasertechservice.pl/uslugi/serwis-laserow-co2/) [CO2 przegrzewa się](https://lasertechservice.pl/uslugi/serwis-laserow-co2/) [CO2 – brak impulsów](https://lasertechservice.pl/uslugi/serwis-laserow-co2/) [Zadzwoń: +48 790 402 597](tel:+48790402597)
 
 ## Kontakt
 
@@ -230,3 +196,17 @@ lok. 320
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+- [Wymiana i kalibracja diod laserowych](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/)
+- [Naprawa układów chłodzenia urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/)
+- [Czyszczenie i konserwacja urządzeń kosmetologicznych](https://lasertechservice.pl/uslugi/konserwacja-urzadzen-kosmetologicznych/)
+- [Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
+- [Naprawa ekranów dotykowych i paneli sterowania](https://lasertechservice.pl/uslugi/naprawa-ekranow-dotykowych/)
+- [Serwis pogwarancyjny urządzeń kosmetologicznych](https://lasertechservice.pl/uslugi/serwis-pogwarancyjny/)
+- [Serwis i naprawa urządzeń LPG do endermologii](https://lasertechservice.pl/uslugi/naprawa-urzadzen-lpg/)
+- [Serwis i naprawa laserów Nd:YAG](https://lasertechservice.pl/uslugi/serwis-laserow-nd-yag/)
+- [Serwis i naprawa urządzeń RF](https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/)
+- [Serwis urządzeń do krioterapii i kriolipolizy](https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/)
+- [Serwis i naprawa urządzeń IPL](https://lasertechservice.pl/uslugi/serwis-ipl/)
+- [Serwis i naprawa laserów CO₂](https://lasertechservice.pl/uslugi/serwis-laserow-co2/)

@@ -10,6 +10,12 @@ Other language version: [Polski](https://lasertechservice.pl/blog/), [Русск
 
 Practical knowledge about servicing, diagnostics, repairs and operation of laser and aesthetic equipment.
 
+Cooling and servicing27 October 2026
+
+## [Laser Unused for a Year? How Long Downtime Can Lead to Expensive Cooling System Repairs](https://lasertechservice.pl/en/blog/laser-unused-for-a-year-cooling-system/)
+
+Long laser downtime calls for cooling checks. Learn how deposits and poor circulation affect equipment and why replacing cooling tubing takes time.
+
 Laser handpiece repair26 October 2026
 
 ## [Burned-Out Laser Diode: Do You Need to Replace the Entire Handpiece?](https://lasertechservice.pl/en/blog/burned-out-laser-diode-handpiece-repair/)
@@ -149,6 +155,7 @@ Warranty, work documentation, service history, prompt on-site visits and respons
 
 ## Related articles
 
+- [Laser Unused for a Year? How Long Downtime Can Lead to Expensive Cooling System Repairs](https://lasertechservice.pl/en/blog/laser-unused-for-a-year-cooling-system/)
 - [Burned-Out Laser Diode: Do You Need to Replace the Entire Handpiece?](https://lasertechservice.pl/en/blog/burned-out-laser-diode-handpiece-repair/)
 - [One device, two faults: how incorrect handpiece connections cause overheating and why an Nd:YAG laser needs calibration](https://lasertechservice.pl/en/blog/handpiece-connections-overheating-nd-yag-calibration/)
 - [The Peltier module in a laser handpiece – how does cooling work and why does it fail?](https://lasertechservice.pl/en/blog/peltier-module-laser-handpiece-cooling/)

@@ -10,6 +10,12 @@
 
 Пишем о том, с чем сталкиваемся каждый день: ремонте лазеров, диагностике неисправностей, обслуживании косметологического оборудования и обычных проблемах, которые возникают у владельцев салонов и кабинетов.
 
+Охлаждение и сервис27 октября 2026
+
+## [Лазер простаивал целый год? Почему длительный простой может привести к дорогому ремонту системы охлаждения](https://lasertechservice.pl/ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/)
+
+Почему лазеру нужен контроль охлаждения во время простоя? Отложения, нарушение циркуляции и трудоёмкая замена трубок на примере LightSheer DESIRE.
+
 Ремонт лазерных манипул26 октября 2026
 
 ## [Сгорел лазерный диод: обязательно ли покупать новую манипулу?](https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/)
@@ -149,6 +155,7 @@ Pharaon 1470, LSO Medical и OSYRIS: история обозначений, ос
 
 ## Связанные статьи
 
+- [Лазер простаивал целый год? Почему длительный простой может привести к дорогому ремонту системы охлаждения](https://lasertechservice.pl/ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/)
 - [Сгорел лазерный диод: обязательно ли покупать новую манипулу?](https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/)
 - [Один аппарат, две поломки: как неправильное подключение манипул приводит к перегреву и почему ND:YAG требует калибровки](https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/)
 - [Модуль Пельтье в лазерной манипуле: как работает охлаждение и почему оно выходит из строя](https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/)

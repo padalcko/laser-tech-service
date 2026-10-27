@@ -1322,6 +1322,44 @@
           "status": "published"
         }
       }
+    },
+    {
+      "id": "realizacje:naprawa-chlodzenia-lightsheer-desire-wroclaw",
+      "type": "case-study",
+      "x_default": "/realizacje/naprawa-chlodzenia-lightsheer-desire-wroclaw/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/naprawa-chlodzenia-lightsheer-desire-wroclaw/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/lightsheer-desire-cooling-tubing-repair-wroclaw/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:laser-po-roku-przestoju-uklad-chlodzenia",
+      "type": "article",
+      "x_default": "/blog/laser-po-roku-przestoju-uklad-chlodzenia/",
+      "routes": {
+        "pl": {
+          "url": "/blog/laser-po-roku-przestoju-uklad-chlodzenia/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/laser-unused-for-a-year-cooling-system/",
+          "status": "published"
+        }
+      }
     }
   ]
 }

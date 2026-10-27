@@ -16,6 +16,16 @@ Pokazujemy rzeczywiste realizacje serwisowe: zakres zlecenia, wykonane prace ora
 
 Każde urządzenie wymaga indywidualnej diagnostyki. Poniżej prezentujemy wybrane realizacje naszego serwisu.
 
+![Ekran Lumenis LightSheer DESIRE z ostrzeżeniem ET BP over temperature](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-desire-cooling-error.webp)
+
+WrocławChłodzenie i serwis
+
+## [Naprawa układu chłodzenia Lumenis LightSheer DESIRE – wymiana przewodów i przywrócenie cyrkulacji](https://lasertechservice.pl/realizacje/naprawa-chlodzenia-lightsheer-desire-wroclaw/)
+
+Serwis Lumenis LightSheer DESIRE we Wrocławiu: ET BP over temperature, wymiana zabrudzonych przewodów i płynu oraz przywrócenie cyrkulacji.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/naprawa-chlodzenia-lightsheer-desire-wroclaw/)
+
 ![Specjalista Laser Tech Service przy rozebranej manipule laserowej](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
 
 Naprawa głowic laserowych
@@ -293,6 +303,7 @@ Serwisujemy lasery diodowe, urządzenia ND:YAG, IPL, CO2 oraz inne urządzenia w
 
 ## Powiązane realizacje
 
+- [Naprawa układu chłodzenia Lumenis LightSheer DESIRE – wymiana przewodów i przywrócenie cyrkulacji](https://lasertechservice.pl/realizacje/naprawa-chlodzenia-lightsheer-desire-wroclaw/)
 - [Wymiana spalonej diody laserowej — naprawa głowicy lasera](https://lasertechservice.pl/realizacje/wymiana-spalonej-diody-laserowej/)
 - [Jeden aparat, dwie usterki — wymiana modułu Peltiera i naprawa lasera Nd:YAG](https://lasertechservice.pl/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/)
 - [Wymiana modułu Peltiera w głowicy lasera ESTETECH – naprawa chłodzenia w Poznaniu](https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/)

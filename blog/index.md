@@ -10,6 +10,12 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/), [
 
 Praktyczna wiedza o serwisie, diagnostyce, naprawach i eksploatacji urządzeń laserowych oraz kosmetycznych.
 
+Chłodzenie i serwis27 października 2026
+
+## [Laser nie pracował przez rok? Dlaczego długi przestój może doprowadzić do kosztownej naprawy układu chłodzenia](https://lasertechservice.pl/blog/laser-po-roku-przestoju-uklad-chlodzenia/)
+
+Długi przestój lasera wymaga kontroli chłodzenia. Dowiedz się, jak osady i słaby przepływ wpływają na aparat oraz dlaczego wymiana przewodów jest pracochłonna.
+
 Naprawa głowic laserowych26 października 2026
 
 ## [Spalona dioda laserowa — czy trzeba wymieniać całą głowicę?](https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/)
@@ -149,6 +155,7 @@ Gwarancja, dokumentacja wykonanych prac, historia serwisowa, możliwość szybki
 
 ## Powiązane artykuły
 
+- [Laser nie pracował przez rok? Dlaczego długi przestój może doprowadzić do kosztownej naprawy układu chłodzenia](https://lasertechservice.pl/blog/laser-po-roku-przestoju-uklad-chlodzenia/)
 - [Spalona dioda laserowa — czy trzeba wymieniać całą głowicę?](https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/)
 - [Jeden aparat, dwie awarie: jak nieprawidłowe podłączenie głowic prowadzi do przegrzewania i dlaczego laser Nd:YAG wymaga kalibracji](https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/)
 - [Moduł Peltiera w głowicy lasera – jak działa chłodzenie i dlaczego przestaje działać?](https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/)

@@ -1209,6 +1209,21 @@
       "related_services": []
     },
     {
+      "id": "article:blog:laser-po-roku-przestoju-uklad-chlodzenia",
+      "title": "Laser nie pracował przez rok? Dlaczego długi przestój może doprowadzić do kosztownej naprawy układu chłodzenia",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/laser-po-roku-przestoju-uklad-chlodzenia/",
+      "description": "Długi przestój lasera wymaga kontroli chłodzenia. Dowiedz się, jak osady i słaby przepływ wpływają na aparat oraz dlaczego wymiana przewodów jest pracochłonna.",
+      "topics": [
+        "Chłodzenie i serwis"
+      ],
+      "datePublished": "2026-10-27",
+      "dateModified": "2026-10-27",
+      "related_services": [
+        "service:uslugi:naprawa-ukladow-chlodzenia"
+      ]
+    },
+    {
       "id": "article:blog:laser-tech-service-zlota-firma-2026",
       "title": "Laser Tech Service z nagrodą Złota Firma 2026",
       "language": "pl",
@@ -1528,6 +1543,21 @@
       "related_services": []
     },
     {
+      "id": "article:en:blog:laser-unused-for-a-year-cooling-system",
+      "title": "Laser Unused for a Year? How Long Downtime Can Lead to Expensive Cooling System Repairs",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/laser-unused-for-a-year-cooling-system/",
+      "description": "Long laser downtime calls for cooling checks. Learn how deposits and poor circulation affect equipment and why replacing cooling tubing takes time.",
+      "topics": [
+        "Cooling and servicing"
+      ],
+      "datePublished": "2026-10-27",
+      "dateModified": "2026-10-27",
+      "related_services": [
+        "service:uslugi:naprawa-ukladow-chlodzenia"
+      ]
+    },
+    {
       "id": "article:en:blog:lightsheer-desire-cooling-reliability",
       "title": "Lumenis LightSheer DESIRE after 10 years – why can a PLN 200,000 laser still operate reliably?",
       "language": "en",
@@ -1734,6 +1764,21 @@
       "datePublished": "2026-10-02",
       "dateModified": "2026-10-02",
       "related_services": []
+    },
+    {
+      "id": "article:ru:blog:lazer-posle-goda-prostoya-sistema-ohlazhdeniya",
+      "title": "Лазер простаивал целый год? Почему длительный простой может привести к дорогому ремонту системы охлаждения",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/",
+      "description": "Почему лазеру нужен контроль охлаждения во время простоя? Отложения, нарушение циркуляции и трудоёмкая замена трубок на примере LightSheer DESIRE.",
+      "topics": [
+        "Охлаждение и сервис"
+      ],
+      "datePublished": "2026-10-27",
+      "dateModified": "2026-10-27",
+      "related_services": [
+        "service:uslugi:naprawa-ukladow-chlodzenia"
+      ]
     },
     {
       "id": "article:ru:blog:lightsheer-desire-ohlazhdenie-nadezhnost",
@@ -2217,6 +2262,39 @@
       "result": []
     },
     {
+      "id": "case:en:case-studies:lightsheer-desire-cooling-tubing-repair-wroclaw",
+      "title": "Lumenis LightSheer DESIRE Cooling System Repair – Tubing Replacement and Coolant Circulation Restoration",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/case-studies/lightsheer-desire-cooling-tubing-repair-wroclaw/",
+      "description": "Lumenis LightSheer DESIRE service in Wrocław: ET BP over temperature, contaminated tubing and coolant replacement, and restored circulation.",
+      "city": "Wrocław",
+      "equipment_type": "Lumenis LightSheer DESIRE",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Lumenis LightSheer DESIRE"
+      },
+      "fault": [
+        "Diagnostics revealed insufficient coolant, contaminated and yellowed tubing, and mineral deposits inside the tubes. Normal circulation was disrupted and heat removal from working components was insufficient. We did not determine the precise chemical composition of the deposits.",
+        "When a laser does not cool its handpiece and displays a warning, the entire circuit needs assessment. The message alone does not identify a single component for replacement. In this case, inspection confirmed cooling system contamination and a circulation problem."
+      ],
+      "performed_work": [
+        "Removed the housing panels.",
+        "Diagnosed the cooling system.",
+        "Checked tubing and connections.",
+        "Removed the old tubing.",
+        "Replaced all cooling tubes included in the scope of this repair.",
+        "Cleaned dust from internal components.",
+        "Replaced the coolant.",
+        "Checked coolant circulation.",
+        "Checked cooling system operation.",
+        "Reassembled the device and checked its operation."
+      ],
+      "result": [
+        "Replacing the tubing and coolant restored circulation. The cooling system operates normally, and the device passed its checks and returned to use. The client was pleased with the result and became a regular Laser Tech Service customer.",
+        "Laser servicing, refurbishment and repairs are selected according to the actual condition of the equipment. This Lumenis LightSheer repair concerned the cooling circuit rather than diode module refurbishment. Our diode laser service began by identifying the cause of the symptoms."
+      ]
+    },
+    {
       "id": "case:en:case-studies:lumenis-lightsheer-desire-cooling-repair-olesnica",
       "title": "Lumenis LightSheer DESIRE repair in Oleśnica — coolant leak and cooling system failure",
       "language": "en",
@@ -2467,6 +2545,39 @@
         "Przywrócenie prawidłowej pracy manipuły oraz jej funkcji."
       ],
       "result": []
+    },
+    {
+      "id": "case:realizacje:naprawa-chlodzenia-lightsheer-desire-wroclaw",
+      "title": "Naprawa układu chłodzenia Lumenis LightSheer DESIRE – wymiana przewodów i przywrócenie cyrkulacji",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/naprawa-chlodzenia-lightsheer-desire-wroclaw/",
+      "description": "Serwis Lumenis LightSheer DESIRE we Wrocławiu: ET BP over temperature, wymiana zabrudzonych przewodów i płynu oraz przywrócenie cyrkulacji.",
+      "city": "Wrocław",
+      "equipment_type": "Lumenis LightSheer DESIRE",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Lumenis LightSheer DESIRE"
+      },
+      "fault": [
+        "Podczas diagnostyki stwierdziliśmy zbyt małą ilość płynu chłodzącego, zabrudzone i pożółkłe przewody oraz osady mineralne wewnątrz rurek. Cyrkulacja była zaburzona, a odprowadzanie ciepła od pracujących podzespołów — niewystarczające. Nie określaliśmy dokładnego składu chemicznego osadów.",
+        "Gdy laser nie chłodzi głowicy i wyświetla ostrzeżenie, potrzebna jest diagnostyka całego obiegu. Sam komunikat nie wskazuje jednoznacznie części wymagającej wymiany. W tym przypadku oględziny potwierdziły zanieczyszczenia układu chłodzenia i problem z przepływem."
+      ],
+      "performed_work": [
+        "Demontaż paneli obudowy.",
+        "Diagnostyka układu chłodzenia.",
+        "Sprawdzenie przewodów i połączeń.",
+        "Demontaż starych przewodów.",
+        "Wymiana wszystkich przewodów chłodzenia objętych tym remontem.",
+        "Oczyszczenie wewnętrznych komponentów z kurzu.",
+        "Wymiana płynu chłodzącego.",
+        "Sprawdzenie cyrkulacji płynu.",
+        "Kontrola działania układu chłodzenia.",
+        "Złożenie aparatu i sprawdzenie jego działania."
+      ],
+      "result": [
+        "Po wymianie przewodów i płynu przywróciliśmy cyrkulację. Układ chłodzenia działa prawidłowo, aparat przeszedł sprawdzenie i wrócił do eksploatacji. Klient był zadowolony z wyniku i został stałym klientem Laser Tech Service.",
+        "Serwis laserów, regeneracja laserów i naprawa laserów to usługi dobierane do rzeczywistego stanu urządzenia. W tym przypadku naprawa Lumenis LightSheer dotyczyła układu chłodzenia, a nie regeneracji modułu diodowego. Nasz serwis laserów diodowych rozpoczął pracę od ustalenia przyczyny objawów."
+      ]
     },
     {
       "id": "case:realizacje:naprawa-lumenis-lightsheer-desire-olesnica",
@@ -3098,6 +3209,39 @@
       ]
     },
     {
+      "id": "case:ru:realizacje:remont-ohlazhdeniya-lightsheer-desire-vrotslav",
+      "title": "Ремонт системы охлаждения Lumenis LightSheer DESIRE — замена трубок и восстановление циркуляции",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/",
+      "description": "Сервис Lumenis LightSheer DESIRE во Вроцлаве: ET BP over temperature, замена загрязнённых трубок и жидкости, восстановление циркуляции.",
+      "city": "Вроцлав",
+      "equipment_type": "Lumenis LightSheer DESIRE",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Lumenis LightSheer DESIRE"
+      },
+      "fault": [
+        "При диагностике обнаружили недостаточное количество охлаждающей жидкости, загрязнённые и пожелтевшие трубки, а также минеральные отложения внутри них. Нормальная циркуляция была нарушена, тепло от рабочих компонентов отводилось недостаточно. Точный химический состав отложений не определяли.",
+        "Если лазер не охлаждает манипулу и выдаёт предупреждение, необходимо проверить весь контур. Само сообщение не указывает однозначно, какую деталь следует заменить. В этом случае осмотр подтвердил загрязнение системы охлаждения и проблему с циркуляцией."
+      ],
+      "performed_work": [
+        "Демонтаж корпусных панелей.",
+        "Диагностика системы охлаждения.",
+        "Проверка трубок и соединений.",
+        "Демонтаж старых трубок.",
+        "Замена всех трубок охлаждения, предусмотренных этим ремонтом.",
+        "Очистка внутренних компонентов от пыли.",
+        "Замена охлаждающей жидкости.",
+        "Проверка циркуляции жидкости.",
+        "Контроль работы системы охлаждения.",
+        "Сборка и проверка работоспособности аппарата."
+      ],
+      "result": [
+        "После замены трубок и жидкости циркуляция восстановлена. Система охлаждения работает нормально, аппарат прошёл проверку и вернулся в эксплуатацию. Клиент остался доволен результатом и стал постоянным клиентом Laser Tech Service.",
+        "Сервис, восстановление и ремонт лазеров подбираются по фактическому состоянию оборудования. В данном случае ремонт Lumenis LightSheer касался охлаждения, а не восстановления диодного модуля. Сервис диодных лазеров начался с определения причины неисправности."
+      ]
+    },
+    {
       "id": "case:ru:realizacje:serwis-cavi-shape-advanced-wroclaw",
       "title": "Обслуживание Cavi Shape Advanced — ремонт RF, инфракрасного излучения и ультразвука",
       "language": "ru",
@@ -3367,6 +3511,7 @@
       "https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/": "https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/index.md",
       "https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/": "https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/index.md",
       "https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/": "https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/index.md",
+      "https://lasertechservice.pl/blog/laser-po-roku-przestoju-uklad-chlodzenia/": "https://lasertechservice.pl/blog/laser-po-roku-przestoju-uklad-chlodzenia/index.md",
       "https://lasertechservice.pl/blog/laser-tech-service-zlota-firma-2026/": "https://lasertechservice.pl/blog/laser-tech-service-zlota-firma-2026/index.md",
       "https://lasertechservice.pl/blog/lightsheer-desire-chlodzenie-niezawodnosc/": "https://lasertechservice.pl/blog/lightsheer-desire-chlodzenie-niezawodnosc/index.md",
       "https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/": "https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/index.md",
@@ -3393,6 +3538,7 @@
       "https://lasertechservice.pl/en/blog/how-to-buy-a-used-hair-removal-laser/": "https://lasertechservice.pl/en/blog/how-to-buy-a-used-hair-removal-laser/index.md",
       "https://lasertechservice.pl/en/blog/laser-cooling-system-cleaning-overheating/": "https://lasertechservice.pl/en/blog/laser-cooling-system-cleaning-overheating/index.md",
       "https://lasertechservice.pl/en/blog/laser-tech-service-zlota-firma-2026/": "https://lasertechservice.pl/en/blog/laser-tech-service-zlota-firma-2026/index.md",
+      "https://lasertechservice.pl/en/blog/laser-unused-for-a-year-cooling-system/": "https://lasertechservice.pl/en/blog/laser-unused-for-a-year-cooling-system/index.md",
       "https://lasertechservice.pl/en/blog/lightsheer-desire-cooling-reliability/": "https://lasertechservice.pl/en/blog/lightsheer-desire-cooling-reliability/index.md",
       "https://lasertechservice.pl/en/blog/peltier-module-laser-handpiece-cooling/": "https://lasertechservice.pl/en/blog/peltier-module-laser-handpiece-cooling/index.md",
       "https://lasertechservice.pl/en/blog/pharaon-1470-laser-history-technology/": "https://lasertechservice.pl/en/blog/pharaon-1470-laser-history-technology/index.md",
@@ -3418,6 +3564,7 @@
       "https://lasertechservice.pl/en/case-studies/hair-removal-laser-maintenance/": "https://lasertechservice.pl/en/case-studies/hair-removal-laser-maintenance/index.md",
       "https://lasertechservice.pl/en/case-studies/hifu-kimed-k1-w1601-service-gorlitz/": "https://lasertechservice.pl/en/case-studies/hifu-kimed-k1-w1601-service-gorlitz/index.md",
       "https://lasertechservice.pl/en/case-studies/laser-cooling-fan-replacement-wroclaw/": "https://lasertechservice.pl/en/case-studies/laser-cooling-fan-replacement-wroclaw/index.md",
+      "https://lasertechservice.pl/en/case-studies/lightsheer-desire-cooling-tubing-repair-wroclaw/": "https://lasertechservice.pl/en/case-studies/lightsheer-desire-cooling-tubing-repair-wroclaw/index.md",
       "https://lasertechservice.pl/en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/": "https://lasertechservice.pl/en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/index.md",
       "https://lasertechservice.pl/en/case-studies/multipolar-rf-repair-lublin/": "https://lasertechservice.pl/en/case-studies/multipolar-rf-repair-lublin/index.md",
       "https://lasertechservice.pl/en/case-studies/nd-yag-tattoo-removal-laser-filter-service/": "https://lasertechservice.pl/en/case-studies/nd-yag-tattoo-removal-laser-filter-service/index.md",
@@ -3452,6 +3599,7 @@
       "https://lasertechservice.pl/realizacje/naprawa-3000-nain-bloku-zasilania/": "https://lasertechservice.pl/realizacje/naprawa-3000-nain-bloku-zasilania/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/": "https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/": "https://lasertechservice.pl/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/index.md",
+      "https://lasertechservice.pl/realizacje/naprawa-chlodzenia-lightsheer-desire-wroclaw/": "https://lasertechservice.pl/realizacje/naprawa-chlodzenia-lightsheer-desire-wroclaw/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/": "https://lasertechservice.pl/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/": "https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/": "https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/index.md",
@@ -3480,6 +3628,7 @@
       "https://lasertechservice.pl/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/": "https://lasertechservice.pl/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/index.md",
       "https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/": "https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/index.md",
       "https://lasertechservice.pl/ru/blog/laser-tech-service-zlota-firma-2026/": "https://lasertechservice.pl/ru/blog/laser-tech-service-zlota-firma-2026/index.md",
+      "https://lasertechservice.pl/ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/": "https://lasertechservice.pl/ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/index.md",
       "https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/": "https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/index.md",
       "https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/": "https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/index.md",
       "https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/": "https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/index.md",
@@ -3510,6 +3659,7 @@
       "https://lasertechservice.pl/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/": "https://lasertechservice.pl/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/index.md",
       "https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/": "https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/index.md",
       "https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/": "https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/index.md",
+      "https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/": "https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/index.md",
       "https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/": "https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/index.md",
       "https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/": "https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/index.md",
       "https://lasertechservice.pl/ru/realizacje/serwis-gme-exsys-308/": "https://lasertechservice.pl/ru/realizacje/serwis-gme-exsys-308/index.md",
@@ -3557,5 +3707,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-10-26T16:12:54Z"
+  "generated_at": "2026-10-27T08:24:30Z"
 }

@@ -1599,6 +1599,15 @@ menu>.trigger:hover {
 }
 
 
+/* Keep the existing service rows while making the entire row a link. */
+.row__item-list--linked li { padding: 0; }
+.row__item-list--linked li > a { display: block; padding: 14px 18px 14px 42px; }
+.row__item-list--linked li::before { pointer-events: none; }
+.row__item-list--linked a:focus-visible,
+a.faq-card:focus-visible { outline: 2px solid var(--gold-dark); outline-offset: 3px; }
+a.faq-card { cursor: pointer; }
+
+
 .row__item-list li::before {
     content: '✓';
 

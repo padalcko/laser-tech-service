@@ -16,6 +16,16 @@
 
 Каждое устройство требует индивидуальной диагностики. Ниже представлены отдельные примеры нашей работы.
 
+![Экран Lumenis LightSheer DESIRE с предупреждением ET BP over temperature](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-desire-cooling-error.webp)
+
+WrocławОхлаждение и сервис
+
+## [Ремонт системы охлаждения Lumenis LightSheer DESIRE — замена трубок и восстановление циркуляции](https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/)
+
+Сервис Lumenis LightSheer DESIRE во Вроцлаве: ET BP over temperature, замена загрязнённых трубок и жидкости, восстановление циркуляции.
+
+[Посмотреть реализацию](https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/)
+
 ![Специалист Laser Tech Service работает с разобранной лазерной манипулой](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
 
 Ремонт лазерных манипул
@@ -293,6 +303,7 @@ RF Вакуум Диагностика Ремонт
 
 ## Связанные работы
 
+- [Ремонт системы охлаждения Lumenis LightSheer DESIRE — замена трубок и восстановление циркуляции](https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/)
 - [Замена сгоревшего лазерного диода — ремонт манипулы](https://lasertechservice.pl/ru/realizacje/zamena-sgorevshego-lazernogo-dioda/)
 - [Один аппарат — две неисправности: замена элемента Пельтье и ремонт лазера ND](https://lasertechservice.pl/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/)
 - [Замена модуля Пельтье в манипуле лазера ESTETECH — ремонт системы охлаждения в Познани](https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/)

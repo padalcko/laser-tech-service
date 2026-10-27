@@ -84,25 +84,25 @@ Laser Tech Service
 
 Работаем с оборудованием косметологических клиник, салонов красоты и кабинетов эстетической медицины.
 
-- Диагностика и ремонт диодных лазеров
+- [Диагностика и ремонт диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 
-- Восстановление лазерных головок
+- [Восстановление лазерных головок](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
 
-- Замена и калибровка диодов
+- [Замена и калибровка диодов](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/)
 
-- Ремонт систем охлаждения
+- [Ремонт систем охлаждения](https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/)
 
-- Чистка и профилактика оборудования
+- [Чистка и профилактика оборудования](https://lasertechservice.pl/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/)
 
-- Ремонт блоков питания и электроники
+- [Ремонт блоков питания и электроники](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
 
-- Ремонт сенсорных экранов и датчиков
+- [Ремонт сенсорных экранов и датчиков](https://lasertechservice.pl/ru/uslugi/remont-sensornyh-ekranov/)
 
-- Оптимизация мощности оборудования
+- [Оптимизация мощности оборудования](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/)
 
-- Замена проводов и расходных элементов
+- [Замена проводов и расходных элементов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
 
-- Послегарантийный сервис
+- [Послегарантийный сервис](https://lasertechservice.pl/ru/uslugi/poslegarantiynoe-obsluzhivanie/)
 
 **Обслуживаем оборудование разных производителей.** Возможен выезд к клиенту. На выполненные работы предоставляется гарантия.
 
@@ -167,41 +167,7 @@ Laser Tech Service
 
 Если вы заметили один из этих признаков, рекомендуем ограничить использование оборудования и обратиться в сервис.
 
-Лазер перегревается
-
-Головка не охлаждается
-
-Лазер отключается во время работы
-
-Нет импульсов
-
-Ролики не вращаются
-
-ND:YAG перегревается
-
-ND:YAG — нет импульсов
-
-Водородная очистка не работает
-
-RF — иглы не выходят
-
-Криомассаж не охлаждает
-
-IPL — нет импульсов
-
-IPL перегревается
-
-IPL не включается
-
-LPG — нет вакуума
-
-CO2 не включается
-
-CO2 перегревается
-
-CO2 — нет импульсов
-
-[Позвонить: +48 790 402 597](tel:+48790402597)
+[Лазер перегревается](https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/) [Головка не охлаждается](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/) [Лазер отключается во время работы](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/) [Нет импульсов](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/) [Ролики не вращаются](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-lpg/) [ND:YAG перегревается](https://lasertechservice.pl/ru/uslugi/servis-lazerov-nd-yag/) [ND:YAG — нет импульсов](https://lasertechservice.pl/ru/uslugi/servis-lazerov-nd-yag/) [Водородная очистка не работает](https://lasertechservice.pl/ru/uslugi/) [RF — иглы не выходят](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/) [Криомассаж не охлаждает](https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/) [IPL — нет импульсов](https://lasertechservice.pl/ru/uslugi/servis-ipl/) [IPL перегревается](https://lasertechservice.pl/ru/uslugi/servis-ipl/) [IPL не включается](https://lasertechservice.pl/ru/uslugi/servis-ipl/) [LPG — нет вакуума](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-lpg/) [CO2 не включается](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/) [CO2 перегревается](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/) [CO2 — нет импульсов](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/) [Позвонить: +48 790 402 597](tel:+48790402597)
 
 ## Контакты
 
@@ -230,3 +196,17 @@ lok. 320
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+- [Замена и калибровка лазерных диодов](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/)
+- [Ремонт систем охлаждения лазерного оборудования](https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/)
+- [Чистка и техническое обслуживание косметологического оборудования](https://lasertechservice.pl/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/)
+- [Ремонт блоков питания и электроники лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
+- [Ремонт сенсорных экранов и панелей управления](https://lasertechservice.pl/ru/uslugi/remont-sensornyh-ekranov/)
+- [Послегарантийное обслуживание косметологического оборудования](https://lasertechservice.pl/ru/uslugi/poslegarantiynoe-obsluzhivanie/)
+- [Ремонт оборудования LPG и аппаратов для эндермологии](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-lpg/)
+- [Сервис и ремонт лазеров ND:YAG](https://lasertechservice.pl/ru/uslugi/servis-lazerov-nd-yag/)
+- [Ремонт и сервис RF-оборудования](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/)
+- [Сервис оборудования для криотерапии и криолиполиза](https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/)
+- [Сервис и ремонт оборудования IPL](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
+- [Сервис и ремонт лазеров CO₂](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/)
