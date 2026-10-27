@@ -1279,6 +1279,23 @@
       "related_services": []
     },
     {
+      "id": "article:blog:lasery-dinozaury-wiek-stan-techniczny",
+      "title": "Lasery dinozaury – dlaczego wiek urządzenia ma znaczenie dla skuteczności zabiegów?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/lasery-dinozaury-wiek-stan-techniczny/",
+      "description": "Ładny ekran nie potwierdza sprawności lasera. Starzenie diod, chłodzenie, pomiary i pytania, które warto zadać salonowi przed depilacją.",
+      "topics": [
+        "Stan techniczny i serwis"
+      ],
+      "datePublished": "2026-10-27",
+      "dateModified": "2026-10-27",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:wymiana-i-kalibracja-diod-laserowych"
+      ]
+    },
+    {
       "id": "article:blog:lightsheer-desire-chlodzenie-niezawodnosc",
       "title": "Lumenis LightSheer DESIRE po 10 latach – dlaczego laser za 200 000 zł nadal może pracować niezawodnie?",
       "language": "pl",
@@ -1478,6 +1495,23 @@
       "datePublished": "2026-10-09",
       "dateModified": "2026-10-09",
       "related_services": []
+    },
+    {
+      "id": "article:en:blog:dinosaur-lasers-age-technical-condition",
+      "title": "Dinosaur Lasers: Why Equipment Age Matters for Treatment Effectiveness",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/dinosaur-lasers-age-technical-condition/",
+      "description": "A working screen is not proof of laser performance. Diode wear, cooling, measurements and the questions to ask before booking hair removal.",
+      "topics": [
+        "Equipment condition and servicing"
+      ],
+      "datePublished": "2026-10-27",
+      "dateModified": "2026-10-27",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:wymiana-i-kalibracja-diod-laserowych"
+      ]
     },
     {
       "id": "article:en:blog:diode-laser-handpiece-seals-optics",
@@ -1820,6 +1854,23 @@
       "dateModified": "2026-10-27",
       "related_services": [
         "service:uslugi:naprawa-ukladow-chlodzenia"
+      ]
+    },
+    {
+      "id": "article:ru:blog:lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie",
+      "title": "Лазеры-динозавры: почему возраст оборудования влияет на эффективность процедур?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/",
+      "description": "Рабочий экран не доказывает исправность лазера. Износ диодов, охлаждение, измерения и вопросы, которые стоит задать салону перед эпиляцией.",
+      "topics": [
+        "Техническое состояние и сервис"
+      ],
+      "datePublished": "2026-10-27",
+      "dateModified": "2026-10-27",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:wymiana-i-kalibracja-diod-laserowych"
       ]
     },
     {
@@ -2469,6 +2520,35 @@
       "result": []
     },
     {
+      "id": "case:en:case-studies:sapphire-coolant-replacement-maintenance",
+      "title": "Sapphire Laser Service — Coolant Replacement and Equipment Maintenance",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/case-studies/sapphire-coolant-replacement-maintenance/",
+      "description": "Sapphire maintenance in Legnica: old coolant remnants removed, circuit refilled, equipment cleaned, started and checked for operation.",
+      "city": "Legnica",
+      "equipment_type": "Sapphire",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Sapphire"
+      },
+      "fault": [
+        "Inspection during the service visit revealed insufficient fluid in the cooling circuit. This was the confirmed condition before maintenance. The reported work did not establish the reason for the fluid loss, so we do not attribute it to a leak or damage to a specific component.",
+        "The Sapphire nameplate shows 31.05.2018. This is not the date of this service visit. The nameplate alone does not establish current technical condition or treatment effectiveness."
+      ],
+      "performed_work": [
+        "Specialist visit to the client in Legnica and inspection of the Sapphire.",
+        "Identification of insufficient coolant.",
+        "Removal of the remaining old fluid.",
+        "Refilling the circuit with new coolant.",
+        "Cleaning the device.",
+        "Starting the device and checking its operation."
+      ],
+      "result": [
+        "After coolant replacement and cleaning, the device was started and its operation checked. The device works.",
+        "This result confirms an operational check after maintenance. It does not replace an emission measurement report or assess clinical effectiveness. The photographs document a service visit, not a study of treatment outcomes."
+      ]
+    },
+    {
       "id": "case:en:case-studies:urgent-co2-laser-repair-poznan",
       "title": "Urgent CO₂ laser repair in Poznań — on-site service",
       "language": "en",
@@ -2888,6 +2968,35 @@
       "result": []
     },
     {
+      "id": "case:realizacje:serwis-lasera-sapphire-wymiana-plynu",
+      "title": "Serwis lasera Sapphire – wymiana płynu chłodzącego i konserwacja urządzenia",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/serwis-lasera-sapphire-wymiana-plynu/",
+      "description": "Serwis Sapphire w Legnicy: usunięcie resztek starego płynu, napełnienie układu, oczyszczenie aparatu oraz uruchomienie i sprawdzenie działania.",
+      "city": "Legnica",
+      "equipment_type": "Sapphire",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Sapphire"
+      },
+      "fault": [
+        "Oględziny podczas wizyty serwisowej wykazały brak wymaganej ilości płynu w układzie chłodzenia. To potwierdzony stan zastany przy obsłudze. Nie ustalono w przekazanym opisie przyczyny ubytku, dlatego nie przypisujemy go nieszczelności ani uszkodzeniu konkretnego podzespołu.",
+        "Na tabliczce Sapphire widnieje data 31.05.2018. Nie jest to data tej wizyty serwisowej. Sama tabliczka nie określa obecnego stanu technicznego ani skuteczności zabiegów."
+      ],
+      "performed_work": [
+        "Wizyta specjalisty u klienta w Legnicy i oględziny aparatu Sapphire.",
+        "Stwierdzenie niedostatecznej ilości płynu chłodzącego.",
+        "Usunięcie pozostałości starego płynu.",
+        "Napełnienie układu nowym płynem chłodzącym.",
+        "Oczyszczenie aparatu.",
+        "Uruchomienie urządzenia i sprawdzenie jego działania."
+      ],
+      "result": [
+        "Po wymianie płynu i oczyszczeniu aparat uruchomiono i sprawdzono jego pracę. Urządzenie działa.",
+        "Ten wynik potwierdza sprawdzenie działania po obsłudze. Nie zastępuje raportu z pomiarów promieniowania i nie stanowi oceny skuteczności klinicznej. Zdjęcia dokumentują wizytę serwisową, a nie badanie efektów zabiegów."
+      ]
+    },
+    {
       "id": "case:realizacje:wymiana-modulu-diodowego-lasera-po-zalaniu-poznan",
       "title": "Wymiana modułu diodowego lasera po zalaniu – Poznań",
       "language": "pl",
@@ -3284,6 +3393,35 @@
       ]
     },
     {
+      "id": "case:ru:realizacje:servis-lasera-sapphire-zamena-zhidkosti",
+      "title": "Сервис лазера Sapphire — замена охлаждающей жидкости и обслуживание аппарата",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/",
+      "description": "Обслуживание Sapphire в Легнице: удаление остатков старой жидкости, заполнение контура, очистка аппарата, запуск и проверка работы.",
+      "city": "Легница",
+      "equipment_type": "Sapphire",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Sapphire"
+      },
+      "fault": [
+        "При осмотре во время сервисного визита обнаружено недостаточное количество жидкости в системе охлаждения. Это подтверждённое состояние аппарата перед обслуживанием. Причина потери жидкости в описании работ не установлена, поэтому мы не связываем её с утечкой или повреждением конкретного узла.",
+        "На табличке Sapphire указана дата 31.05.2018. Это не дата данного сервисного визита. Сама табличка не определяет текущее техническое состояние или эффективность процедур."
+      ],
+      "performed_work": [
+        "Выезд специалиста к клиенту в Легнице и осмотр Sapphire.",
+        "Обнаружение недостаточного количества охлаждающей жидкости.",
+        "Удаление остатков старой жидкости.",
+        "Заполнение контура новой охлаждающей жидкостью.",
+        "Очистка аппарата.",
+        "Запуск устройства и проверка его работы."
+      ],
+      "result": [
+        "После замены жидкости и очистки аппарат запустили и проверили его работу. Устройство работает.",
+        "Этот результат подтверждает проверку работы после обслуживания. Он не заменяет протокол измерения излучения и не является оценкой клинической эффективности. Фотографии документируют сервисный визит, а не исследование результатов процедур."
+      ]
+    },
+    {
       "id": "case:ru:realizacje:serwis-cavi-shape-advanced-wroclaw",
       "title": "Обслуживание Cavi Shape Advanced — ремонт RF, инфракрасного излучения и ультразвука",
       "language": "ru",
@@ -3555,6 +3693,7 @@
       "https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/": "https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/index.md",
       "https://lasertechservice.pl/blog/laser-po-roku-przestoju-uklad-chlodzenia/": "https://lasertechservice.pl/blog/laser-po-roku-przestoju-uklad-chlodzenia/index.md",
       "https://lasertechservice.pl/blog/laser-tech-service-zlota-firma-2026/": "https://lasertechservice.pl/blog/laser-tech-service-zlota-firma-2026/index.md",
+      "https://lasertechservice.pl/blog/lasery-dinozaury-wiek-stan-techniczny/": "https://lasertechservice.pl/blog/lasery-dinozaury-wiek-stan-techniczny/index.md",
       "https://lasertechservice.pl/blog/lightsheer-desire-chlodzenie-niezawodnosc/": "https://lasertechservice.pl/blog/lightsheer-desire-chlodzenie-niezawodnosc/index.md",
       "https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/": "https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/index.md",
       "https://lasertechservice.pl/blog/pharaon-1470-historia-technologia-lasera/": "https://lasertechservice.pl/blog/pharaon-1470-historia-technologia-lasera/index.md",
@@ -3572,6 +3711,7 @@
       "https://lasertechservice.pl/en/blog/burned-out-laser-diode-handpiece-repair/": "https://lasertechservice.pl/en/blog/burned-out-laser-diode-handpiece-repair/index.md",
       "https://lasertechservice.pl/en/blog/co2-laser-not-responding-to-foot-pedal/": "https://lasertechservice.pl/en/blog/co2-laser-not-responding-to-foot-pedal/index.md",
       "https://lasertechservice.pl/en/blog/damaged-handpiece-cable/": "https://lasertechservice.pl/en/blog/damaged-handpiece-cable/index.md",
+      "https://lasertechservice.pl/en/blog/dinosaur-lasers-age-technical-condition/": "https://lasertechservice.pl/en/blog/dinosaur-lasers-age-technical-condition/index.md",
       "https://lasertechservice.pl/en/blog/diode-laser-handpiece-seals-optics/": "https://lasertechservice.pl/en/blog/diode-laser-handpiece-seals-optics/index.md",
       "https://lasertechservice.pl/en/blog/five-signs-laser-diode-needs-inspection/": "https://lasertechservice.pl/en/blog/five-signs-laser-diode-needs-inspection/index.md",
       "https://lasertechservice.pl/en/blog/hair-removal-laser-cooling-water-maintenance/": "https://lasertechservice.pl/en/blog/hair-removal-laser-cooling-water-maintenance/index.md",
@@ -3614,6 +3754,7 @@
       "https://lasertechservice.pl/en/case-studies/peltier-replacement-nd-yag-laser-repair/": "https://lasertechservice.pl/en/case-studies/peltier-replacement-nd-yag-laser-repair/index.md",
       "https://lasertechservice.pl/en/case-studies/pharaon-1470-maintenance-wroclaw/": "https://lasertechservice.pl/en/case-studies/pharaon-1470-maintenance-wroclaw/index.md",
       "https://lasertechservice.pl/en/case-studies/rsl-massage-device-repair-warsaw/": "https://lasertechservice.pl/en/case-studies/rsl-massage-device-repair-warsaw/index.md",
+      "https://lasertechservice.pl/en/case-studies/sapphire-coolant-replacement-maintenance/": "https://lasertechservice.pl/en/case-studies/sapphire-coolant-replacement-maintenance/index.md",
       "https://lasertechservice.pl/en/case-studies/urgent-co2-laser-repair-poznan/": "https://lasertechservice.pl/en/case-studies/urgent-co2-laser-repair-poznan/index.md",
       "https://lasertechservice.pl/en/contact/": "https://lasertechservice.pl/en/contact/index.md",
       "https://lasertechservice.pl/en/partners/": "https://lasertechservice.pl/en/partners/index.md",
@@ -3657,6 +3798,7 @@
       "https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/": "https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/index.md",
       "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/": "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/index.md",
       "https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/": "https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/index.md",
+      "https://lasertechservice.pl/realizacje/serwis-lasera-sapphire-wymiana-plynu/": "https://lasertechservice.pl/realizacje/serwis-lasera-sapphire-wymiana-plynu/index.md",
       "https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/": "https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/index.md",
       "https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/": "https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/index.md",
       "https://lasertechservice.pl/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/": "https://lasertechservice.pl/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/index.md",
@@ -3672,6 +3814,7 @@
       "https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/": "https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/index.md",
       "https://lasertechservice.pl/ru/blog/laser-tech-service-zlota-firma-2026/": "https://lasertechservice.pl/ru/blog/laser-tech-service-zlota-firma-2026/index.md",
       "https://lasertechservice.pl/ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/": "https://lasertechservice.pl/ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/index.md",
+      "https://lasertechservice.pl/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/": "https://lasertechservice.pl/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/index.md",
       "https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/": "https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/index.md",
       "https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/": "https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/index.md",
       "https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/": "https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/index.md",
@@ -3703,6 +3846,7 @@
       "https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/": "https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/index.md",
       "https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/": "https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/index.md",
       "https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/": "https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/index.md",
+      "https://lasertechservice.pl/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/": "https://lasertechservice.pl/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/index.md",
       "https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/": "https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/index.md",
       "https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/": "https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/index.md",
       "https://lasertechservice.pl/ru/realizacje/serwis-gme-exsys-308/": "https://lasertechservice.pl/ru/realizacje/serwis-gme-exsys-308/index.md",
@@ -3752,5 +3896,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-10-27T09:35:39Z"
+  "generated_at": "2026-10-27T14:54:12Z"
 }

@@ -1,0 +1,306 @@
+{
+  "reviewed": 11,
+  "selected": [
+    {
+      "source": "IMG_7595.heic",
+      "source_size": [
+        3213,
+        5712
+      ],
+      "adjustments": {
+        "brightness": 1.06,
+        "contrast": 1.02,
+        "sharpness": 1.06,
+        "white_balance": "unchanged"
+      },
+      "files": [
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-serwis-lasera-480w.webp",
+          "width": 480,
+          "height": 853,
+          "bytes": 43062
+        },
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-serwis-lasera-768w.webp",
+          "width": 768,
+          "height": 1365,
+          "bytes": 88416
+        },
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-serwis-lasera.webp",
+          "width": 1280,
+          "height": 2276,
+          "bytes": 200572
+        }
+      ]
+    },
+    {
+      "source": "IMG_7596.heic",
+      "source_size": [
+        3213,
+        5712
+      ],
+      "adjustments": {
+        "brightness": 1.02,
+        "contrast": 1.02,
+        "sharpness": 1.06,
+        "white_balance": "unchanged"
+      },
+      "files": [
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-tabliczka-znamionowa-480w.webp",
+          "width": 480,
+          "height": 853,
+          "bytes": 24638
+        },
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-tabliczka-znamionowa-768w.webp",
+          "width": 768,
+          "height": 1365,
+          "bytes": 72182
+        },
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-tabliczka-znamionowa.webp",
+          "width": 1152,
+          "height": 2048,
+          "bytes": 172044
+        }
+      ]
+    },
+    {
+      "source": "IMG_7597.heic",
+      "source_size": [
+        3213,
+        5712
+      ],
+      "adjustments": {
+        "brightness": 1.02,
+        "contrast": 1.02,
+        "sharpness": 1.06,
+        "white_balance": "unchanged"
+      },
+      "files": [
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-demontaz-obudowy-480w.webp",
+          "width": 480,
+          "height": 853,
+          "bytes": 44430
+        },
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-demontaz-obudowy-768w.webp",
+          "width": 768,
+          "height": 1365,
+          "bytes": 93436
+        },
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-demontaz-obudowy.webp",
+          "width": 1152,
+          "height": 2048,
+          "bytes": 184574
+        }
+      ]
+    },
+    {
+      "source": "IMG_7599.heic",
+      "source_size": [
+        3213,
+        5712
+      ],
+      "adjustments": {
+        "brightness": 1.02,
+        "contrast": 1.02,
+        "sharpness": 1.06,
+        "white_balance": "unchanged"
+      },
+      "files": [
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-wewnetrzne-podzespoly-480w.webp",
+          "width": 480,
+          "height": 853,
+          "bytes": 84416
+        },
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-wewnetrzne-podzespoly-768w.webp",
+          "width": 768,
+          "height": 1365,
+          "bytes": 181108
+        },
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-wewnetrzne-podzespoly.webp",
+          "width": 1152,
+          "height": 2048,
+          "bytes": 364246
+        }
+      ]
+    },
+    {
+      "source": "IMG_7600.heic",
+      "source_size": [
+        2268,
+        4032
+      ],
+      "adjustments": {
+        "brightness": 1.02,
+        "contrast": 1.02,
+        "sharpness": 1.06,
+        "white_balance": "unchanged"
+      },
+      "files": [
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-uklad-chlodzenia-480w.webp",
+          "width": 480,
+          "height": 853,
+          "bytes": 76204
+        },
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-uklad-chlodzenia-768w.webp",
+          "width": 768,
+          "height": 1365,
+          "bytes": 162956
+        },
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-uklad-chlodzenia.webp",
+          "width": 1152,
+          "height": 2048,
+          "bytes": 310260
+        }
+      ]
+    },
+    {
+      "source": "IMG_7601.heic",
+      "source_size": [
+        2268,
+        4032
+      ],
+      "adjustments": {
+        "brightness": 1.02,
+        "contrast": 1.02,
+        "sharpness": 1.06,
+        "white_balance": "unchanged"
+      },
+      "files": [
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-element-obiegu-chlodzenia-480w.webp",
+          "width": 480,
+          "height": 853,
+          "bytes": 54160
+        },
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-element-obiegu-chlodzenia-768w.webp",
+          "width": 768,
+          "height": 1365,
+          "bytes": 106640
+        },
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-element-obiegu-chlodzenia.webp",
+          "width": 1152,
+          "height": 2048,
+          "bytes": 186020
+        }
+      ]
+    },
+    {
+      "source": "IMG_7602.heic",
+      "source_size": [
+        3213,
+        5712
+      ],
+      "adjustments": {
+        "brightness": 1.02,
+        "contrast": 1.02,
+        "sharpness": 1.06,
+        "white_balance": "unchanged"
+      },
+      "files": [
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-wymiana-plynu-chlodzacego-480w.webp",
+          "width": 480,
+          "height": 853,
+          "bytes": 69194
+        },
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-wymiana-plynu-chlodzacego-768w.webp",
+          "width": 768,
+          "height": 1365,
+          "bytes": 146678
+        },
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-wymiana-plynu-chlodzacego.webp",
+          "width": 1152,
+          "height": 2048,
+          "bytes": 287350
+        }
+      ]
+    },
+    {
+      "source": "IMG_7604.heic",
+      "source_size": [
+        2268,
+        4032
+      ],
+      "adjustments": {
+        "brightness": 1.02,
+        "contrast": 1.02,
+        "sharpness": 1.06,
+        "white_balance": "unchanged"
+      },
+      "files": [
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-obsluga-ukladu-chlodzenia-480w.webp",
+          "width": 480,
+          "height": 853,
+          "bytes": 94054
+        },
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-obsluga-ukladu-chlodzenia-768w.webp",
+          "width": 768,
+          "height": 1365,
+          "bytes": 197760
+        },
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-obsluga-ukladu-chlodzenia.webp",
+          "width": 1152,
+          "height": 2048,
+          "bytes": 374764
+        }
+      ]
+    },
+    {
+      "source": "IMG_7606.heic",
+      "source_size": [
+        3213,
+        5712
+      ],
+      "adjustments": {
+        "brightness": 1.06,
+        "contrast": 1.02,
+        "sharpness": 1.06,
+        "white_balance": "unchanged"
+      },
+      "files": [
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-kontrola-po-serwisie-480w.webp",
+          "width": 480,
+          "height": 853,
+          "bytes": 61354
+        },
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-kontrola-po-serwisie-768w.webp",
+          "width": 768,
+          "height": 1365,
+          "bytes": 144724
+        },
+        {
+          "path": "/img/realizacje/sapphire-serwis/sapphire-kontrola-po-serwisie.webp",
+          "width": 1152,
+          "height": 2048,
+          "bytes": 300248
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "IMG_7598.heic": "Similar housing-access view; IMG_7597 shows the stage clearly.",
+    "IMG_7607.heic": "Similar post-service view; IMG_7606 provides a clearer composition."
+  }
+}

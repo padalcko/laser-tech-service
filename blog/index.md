@@ -10,6 +10,12 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/), [
 
 Praktyczna wiedza o serwisie, diagnostyce, naprawach i eksploatacji urządzeń laserowych oraz kosmetycznych.
 
+Stan techniczny i serwis27 października 2026
+
+## [Lasery dinozaury – dlaczego wiek urządzenia ma znaczenie dla skuteczności zabiegów?](https://lasertechservice.pl/blog/lasery-dinozaury-wiek-stan-techniczny/)
+
+Ładny ekran nie potwierdza sprawności lasera. Starzenie diod, chłodzenie, pomiary i pytania, które warto zadać salonowi przed depilacją.
+
 Chłodzenie i serwis27 października 2026
 
 ## [Laser nie pracował przez rok? Dlaczego długi przestój może doprowadzić do kosztownej naprawy układu chłodzenia](https://lasertechservice.pl/blog/laser-po-roku-przestoju-uklad-chlodzenia/)
@@ -156,6 +162,7 @@ Gwarancja, dokumentacja wykonanych prac, historia serwisowa, możliwość szybki
 
 ## Powiązane artykuły
 
+- [Lasery dinozaury – dlaczego wiek urządzenia ma znaczenie dla skuteczności zabiegów?](https://lasertechservice.pl/blog/lasery-dinozaury-wiek-stan-techniczny/)
 - [Laser nie pracował przez rok? Dlaczego długi przestój może doprowadzić do kosztownej naprawy układu chłodzenia](https://lasertechservice.pl/blog/laser-po-roku-przestoju-uklad-chlodzenia/)
 - [Spalona dioda laserowa — czy trzeba wymieniać całą głowicę?](https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/)
 - [Jeden aparat, dwie awarie: jak nieprawidłowe podłączenie głowic prowadzi do przegrzewania i dlaczego laser Nd:YAG wymaga kalibracji](https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/)

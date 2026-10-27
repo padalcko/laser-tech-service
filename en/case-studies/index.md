@@ -16,6 +16,16 @@ Actual service work: the job scope, completed repairs and photographic and video
 
 Every device needs individual diagnostics. Explore selected examples of our service work below.
 
+![Sapphire laser before service work](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-serwis-lasera.webp)
+
+LegnicaServicing and maintenance
+
+## [Sapphire Laser Service — Coolant Replacement and Equipment Maintenance](https://lasertechservice.pl/en/case-studies/sapphire-coolant-replacement-maintenance/)
+
+Sapphire maintenance in Legnica: old coolant remnants removed, circuit refilled, equipment cleaned, started and checked for operation.
+
+[View case study](https://lasertechservice.pl/en/case-studies/sapphire-coolant-replacement-maintenance/)
+
 ![Lumenis LightSheer DESIRE screen showing ET BP over temperature](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-desire-cooling-error.webp)
 
 WrocławCooling and servicing
@@ -304,6 +314,7 @@ We service diode lasers, Nd:YAG, IPL, CO₂ and other equipment used in aestheti
 
 ## Related repairs
 
+- [Sapphire Laser Service — Coolant Replacement and Equipment Maintenance](https://lasertechservice.pl/en/case-studies/sapphire-coolant-replacement-maintenance/)
 - [Lumenis LightSheer DESIRE Cooling System Repair – Tubing Replacement and Coolant Circulation Restoration](https://lasertechservice.pl/en/case-studies/lightsheer-desire-cooling-tubing-repair-wroclaw/)
 - [Burned-Out Laser Diode Replacement — Laser Handpiece Repair](https://lasertechservice.pl/en/case-studies/burned-out-laser-diode-replacement/)
 - [One device, two faults — Peltier module replacement and Nd:YAG laser repair](https://lasertechservice.pl/en/case-studies/peltier-replacement-nd-yag-laser-repair/)

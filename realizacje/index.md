@@ -16,6 +16,16 @@ Pokazujemy rzeczywiste realizacje serwisowe: zakres zlecenia, wykonane prace ora
 
 Każde urządzenie wymaga indywidualnej diagnostyki. Poniżej prezentujemy wybrane realizacje naszego serwisu.
 
+![Laser Sapphire przed obsługą serwisową](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-serwis-lasera.webp)
+
+LegnicaSerwis i konserwacja
+
+## [Serwis lasera Sapphire – wymiana płynu chłodzącego i konserwacja urządzenia](https://lasertechservice.pl/realizacje/serwis-lasera-sapphire-wymiana-plynu/)
+
+Serwis Sapphire w Legnicy: usunięcie resztek starego płynu, napełnienie układu, oczyszczenie aparatu oraz uruchomienie i sprawdzenie działania.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/serwis-lasera-sapphire-wymiana-plynu/)
+
 ![Ekran Lumenis LightSheer DESIRE z ostrzeżeniem ET BP over temperature](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-desire-cooling-error.webp)
 
 WrocławChłodzenie i serwis
@@ -304,6 +314,7 @@ Serwisujemy lasery diodowe, urządzenia ND:YAG, IPL, CO2 oraz inne urządzenia w
 
 ## Powiązane realizacje
 
+- [Serwis lasera Sapphire – wymiana płynu chłodzącego i konserwacja urządzenia](https://lasertechservice.pl/realizacje/serwis-lasera-sapphire-wymiana-plynu/)
 - [Naprawa układu chłodzenia Lumenis LightSheer DESIRE – wymiana przewodów i przywrócenie cyrkulacji](https://lasertechservice.pl/realizacje/naprawa-chlodzenia-lightsheer-desire-wroclaw/)
 - [Wymiana spalonej diody laserowej — naprawa głowicy lasera](https://lasertechservice.pl/realizacje/wymiana-spalonej-diody-laserowej/)
 - [Jeden aparat, dwie usterki — wymiana modułu Peltiera i naprawa lasera Nd:YAG](https://lasertechservice.pl/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/)

@@ -10,6 +10,12 @@ Other language version: [Polski](https://lasertechservice.pl/blog/), [Русск
 
 Practical knowledge about servicing, diagnostics, repairs and operation of laser and aesthetic equipment.
 
+Equipment condition and servicing27 October 2026
+
+## [Dinosaur Lasers: Why Equipment Age Matters for Treatment Effectiveness](https://lasertechservice.pl/en/blog/dinosaur-lasers-age-technical-condition/)
+
+A working screen is not proof of laser performance. Diode wear, cooling, measurements and the questions to ask before booking hair removal.
+
 Cooling and servicing27 October 2026
 
 ## [Laser Unused for a Year? How Long Downtime Can Lead to Expensive Cooling System Repairs](https://lasertechservice.pl/en/blog/laser-unused-for-a-year-cooling-system/)
@@ -156,6 +162,7 @@ Warranty, work documentation, service history, prompt on-site visits and respons
 
 ## Related articles
 
+- [Dinosaur Lasers: Why Equipment Age Matters for Treatment Effectiveness](https://lasertechservice.pl/en/blog/dinosaur-lasers-age-technical-condition/)
 - [Laser Unused for a Year? How Long Downtime Can Lead to Expensive Cooling System Repairs](https://lasertechservice.pl/en/blog/laser-unused-for-a-year-cooling-system/)
 - [Burned-Out Laser Diode: Do You Need to Replace the Entire Handpiece?](https://lasertechservice.pl/en/blog/burned-out-laser-diode-handpiece-repair/)
 - [One device, two faults: how incorrect handpiece connections cause overheating and why an Nd:YAG laser needs calibration](https://lasertechservice.pl/en/blog/handpiece-connections-overheating-nd-yag-calibration/)

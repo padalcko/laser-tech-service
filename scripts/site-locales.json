@@ -1379,6 +1379,44 @@
           "status": "published"
         }
       }
+    },
+    {
+      "id": "realizacje:serwis-lasera-sapphire-wymiana-plynu",
+      "type": "case-study",
+      "x_default": "/realizacje/serwis-lasera-sapphire-wymiana-plynu/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/serwis-lasera-sapphire-wymiana-plynu/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/sapphire-coolant-replacement-maintenance/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:lasery-dinozaury-wiek-stan-techniczny",
+      "type": "article",
+      "x_default": "/blog/lasery-dinozaury-wiek-stan-techniczny/",
+      "routes": {
+        "pl": {
+          "url": "/blog/lasery-dinozaury-wiek-stan-techniczny/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/dinosaur-lasers-age-technical-condition/",
+          "status": "published"
+        }
+      }
     }
   ]
 }

@@ -16,6 +16,16 @@
 
 Каждое устройство требует индивидуальной диагностики. Ниже представлены отдельные примеры нашей работы.
 
+![Лазер Sapphire перед сервисным обслуживанием](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-serwis-lasera.webp)
+
+ЛегницаСервис и обслуживание
+
+## [Сервис лазера Sapphire — замена охлаждающей жидкости и обслуживание аппарата](https://lasertechservice.pl/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/)
+
+Обслуживание Sapphire в Легнице: удаление остатков старой жидкости, заполнение контура, очистка аппарата, запуск и проверка работы.
+
+[Посмотреть реализацию](https://lasertechservice.pl/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/)
+
 ![Экран Lumenis LightSheer DESIRE с предупреждением ET BP over temperature](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-desire-cooling-error.webp)
 
 WrocławОхлаждение и сервис
@@ -304,6 +314,7 @@ RF Вакуум Диагностика Ремонт
 
 ## Связанные работы
 
+- [Сервис лазера Sapphire — замена охлаждающей жидкости и обслуживание аппарата](https://lasertechservice.pl/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/)
 - [Ремонт системы охлаждения Lumenis LightSheer DESIRE — замена трубок и восстановление циркуляции](https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/)
 - [Замена сгоревшего лазерного диода — ремонт манипулы](https://lasertechservice.pl/ru/realizacje/zamena-sgorevshego-lazernogo-dioda/)
 - [Один аппарат — две неисправности: замена элемента Пельтье и ремонт лазера ND](https://lasertechservice.pl/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/)
