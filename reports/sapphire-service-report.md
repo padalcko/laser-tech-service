@@ -1,17 +1,19 @@
 # Sapphire і «Лазери-динозаври» — звіт
 
-Дата підготовки: 27.10.2026. Створено одну реалізацію PL і три повноцінні версії статті PL/RU/EN. З мого боку commit, push і deploy не виконувалися. Публічні URL нижче підготовлені в репозиторії; їхня доступність на production не перевірена.
+Дата підготовки: 27.10.2026. Створено повноцінні версії реалізації та статті PL/RU/EN. За уточненням користувача до початкової PL-реалізації додано RU й EN. З мого боку commit, push і deploy не виконувалися. Публічні URL нижче підготовлені в репозиторії; їхня доступність на production не перевірена.
 
 ## Маршрути
 
 | Матеріал | Локальний URL | Підготовлений публічний URL |
 |---|---|---|
 | Реалізація PL | http://127.0.0.1:8791/realizacje/serwis-lasera-sapphire-wymiana-plynu/ | https://lasertechservice.pl/realizacje/serwis-lasera-sapphire-wymiana-plynu/ |
+| Реалізація RU | http://127.0.0.1:8791/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/ | https://lasertechservice.pl/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/ |
+| Реалізація EN | http://127.0.0.1:8791/en/case-studies/sapphire-coolant-replacement-maintenance/ | https://lasertechservice.pl/en/case-studies/sapphire-coolant-replacement-maintenance/ |
 | Блог PL | http://127.0.0.1:8791/blog/lasery-dinozaury-wiek-stan-techniczny/ | https://lasertechservice.pl/blog/lasery-dinozaury-wiek-stan-techniczny/ |
 | Блог RU | http://127.0.0.1:8791/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/ | https://lasertechservice.pl/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/ |
 | Блог EN | http://127.0.0.1:8791/en/blog/dinosaur-lasers-age-technical-condition/ | https://lasertechservice.pl/en/blog/dinosaur-lasers-age-technical-condition/ |
 
-Реалізація має лише PL та x-default. Перемикач показує тільки польську версію. У RU/EN-каталоги реалізацій її не додано. Стаття має повні взаємні PL/RU/EN/x-default; посилання RU/EN на польський кейс явно позначені як польська реалізація.
+Реалізація та стаття мають взаємні PL/RU/EN/x-default. Перемикач кожної сторінки відкриває той самий матеріал іншою мовою. Картки додано першими в усі три каталоги реалізацій і блогу; кейси та статті посилаються один на одного відповідною мовою.
 
 ## Факти та контент
 
@@ -56,8 +58,8 @@
 
 ## Інтеграція та SEO
 
-- Чотири картки: PL-реалізації та PL/RU/EN-блог.
-- Взаємні посилання між кейсом і польською статтею; RU/EN посилаються на польський кейс із позначкою мови. Посилання на діагностику, охолодження та заміну/калібрування діодів ведуть на відповідну мову.
+- Шість карток: PL/RU/EN-реалізації та PL/RU/EN-блог.
+- Взаємні посилання між кейсом і статтею відповідною мовою PL/RU/EN. Посилання на діагностику, охолодження та заміну/калібрування діодів ведуть на відповідну мову.
 - Унікальні title/description/H1, логічні H2, canonical без .html, OG/Twitter, Article/BlogPosting і BreadcrumbList. FAQ не створювався, FAQPage відсутній.
 - `datePublished`/`dateModified` — 2026-10-27, дата підготовленого матеріалу, не ремонту. Перед пізнішою публікацією дату публікації слід узгодити з фактичним днем.
 - Оновлено site-locales.json, sitemap.xml, ai-catalog.json, llms.txt, llms-full.txt, Markdown та _headers штатною збіркою.
@@ -67,13 +69,13 @@
 ## Перевірки
 
 - `python3 scripts/build-site.py` — PASS: штатна збірка та загальні перевірки.
-- `python3 scripts/check-sapphire.py` — PASS: PL-only кейс, три повні статті, SEO, дата таблички, 27 файлів, чотири картки, посилання та аналітика.
+- `python3 scripts/check-sapphire.py` — PASS: три локалізовані кейси та статті, SEO, дата таблички, 27 файлів, шість карток, посилання та аналітика.
 - `python3 scripts/check-b2b.py` і `build-service-menu.py --check` — PASS після додавання нових сторінок.
 - `build-ai-search.py --check` та `build-ai-catalog.py --check` — актуальні результати.
-- Загальні SEO/AI-перевірки — 214 canonical сторінок, 72 статті, 73 реалізації; issues порожній.
+- Загальні SEO/AI-перевірки — 216 canonical сторінок, 72 статті, 75 реалізацій; issues порожній.
 - Pillow підтвердив розміри всіх WebP й відсутність EXIF/XMP.
-- Chrome/Playwright (`scripts/check-sapphire.cjs`): чотири сторінки × 320/375/390/768/1024/1440 px = 24 перевірки; без горизонтального скролу й JS-помилок.
-- Фото завантажуються; галерея і Escape, мовний перемикач, Lazar, компактні зображення статей, переходи з чотирьох карток — PASS. У RU/EN-каталогах немає дубліката кейсу.
+- Chrome/Playwright (`scripts/check-sapphire.cjs`): шість сторінок × 320/375/390/768/1024/1440 px = 36 перевірок; без горизонтального скролу й JS-помилок.
+- Фото завантажуються; галерея і Escape, мовний перемикач, Lazar, компактні зображення статей, переходи з шести карток — PASS. Кожен каталог містить одну картку Sapphire відповідною мовою.
 - Мобільні знімки переглянуто. Дані браузерної перевірки: `/tmp/lts-sapphire/browser-results.json`, PNG в тій самій папці.
 - Footer, основна навігація та всі non-schema скрипти нових сторінок збігаються з мовними еталонами.
 - `git diff --check` — PASS.
@@ -81,6 +83,11 @@
 Невиправлених помилок у проведених перевірках немає. Зовнішні запити браузерних тестів блокувалися. Live-деплой, індексація, реальна аналітика, доставка форм, Lighthouse/CWV та всі зовнішні посилання у production не перевірялися.
 
 ## Створені файли
+
+- `ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/index.html`
+- `ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/index.md`
+- `en/case-studies/sapphire-coolant-replacement-maintenance/index.html`
+- `en/case-studies/sapphire-coolant-replacement-maintenance/index.md`
 
 - `blog/lasery-dinozaury-wiek-stan-techniczny/index.html`
 - `blog/lasery-dinozaury-wiek-stan-techniczny/index.md`
@@ -123,6 +130,11 @@
 - `scripts/check-sapphire.py`
 
 ## Змінені файли Sapphire
+
+- `ru/realizacje/index.html`
+- `ru/realizacje/index.md`
+- `en/case-studies/index.html`
+- `en/case-studies/index.md`
 
 - `realizacje/index.html`
 - `realizacje/index.md`

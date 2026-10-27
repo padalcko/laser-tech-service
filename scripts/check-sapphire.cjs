@@ -21,9 +21,8 @@ if([390,1440].includes(width)){for(const im of await p.locator('main img').all()
 }
 console.log('PASS',r.url);
 }
-for(const url of ['/realizacje/','/blog/','/ru/blog/','/en/blog/']){
-await p.setViewportSize({width:320,height:900});assert.equal((await p.goto(base+url)).status(),200);assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));const card=p.locator(url==='/realizacje/'?'.realizacja-card':'.blog-card').first();assert.equal(await card.locator('img').count(),url==='/realizacje/'?1:0);const target=await card.locator('a').first().getAttribute('href');assert(target.includes('sapphire')||target.includes('dino'));await card.locator('a').first().click();await p.waitForURL(base+target);
+for(const url of ['/realizacje/','/ru/realizacje/','/en/case-studies/','/blog/','/ru/blog/','/en/blog/']){
+await p.setViewportSize({width:320,height:900});assert.equal((await p.goto(base+url)).status(),200);assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));const card=p.locator(!url.includes('/blog/')?'.realizacja-card':'.blog-card').first();assert.equal(await card.locator('img').count(),!url.includes('/blog/')?1:0);const target=await card.locator('a').first().getAttribute('href');assert(target.includes('sapphire')||target.includes('dino'));await card.locator('a').first().click();await p.waitForURL(base+target);
 }
-for(const url of ['/ru/realizacje/','/en/case-studies/']){await p.goto(base+url);assert.equal(await p.locator('main a[href*="serwis-lasera-sapphire"]').count(),0);}
-assert.deepEqual(errors,[]);await b.close();fs.writeFileSync(path.join(out,'browser-results.json'),JSON.stringify({results,errors,catalogueChecks:6,externalRequests:'blocked'},null,2));console.log('PASS: 24 layouts, photos, galleries, localized switches, compact article images, four new cards and PL-only case');
+assert.deepEqual(errors,[]);await b.close();fs.writeFileSync(path.join(out,'browser-results.json'),JSON.stringify({results,errors,catalogueChecks:6,externalRequests:'blocked'},null,2));console.log('PASS: 36 layouts, photos, galleries, localized switches, compact article images, six new cards and three-language case');
 })().catch(e=>{console.error(e);process.exit(1)});
