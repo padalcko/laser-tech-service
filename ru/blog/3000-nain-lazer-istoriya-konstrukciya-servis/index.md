@@ -96,6 +96,7 @@ Nd:YAG обозначает активную среду лазера, а Q-Switc
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Сервисное обслуживание сетей салонов красоты и косметологических клиник](https://lasertechservice.pl/ru/uslugi/servis-dlya-setey-salonov/)
 
 ## Связанные работы
 

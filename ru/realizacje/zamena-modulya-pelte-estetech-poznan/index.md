@@ -85,6 +85,7 @@ ESTETECH
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Сервисное обслуживание сетей салонов красоты и косметологических клиник](https://lasertechservice.pl/ru/uslugi/servis-dlya-setey-salonov/)
 - [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
 
 ## Связанные статьи

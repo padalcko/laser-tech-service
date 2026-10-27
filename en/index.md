@@ -196,6 +196,7 @@ Unit 320
 
 - [Professional laser and aesthetic equipment servicing](https://lasertechservice.pl/en/services/)
 - [Service pricing](https://lasertechservice.pl/en/pricing/)
+- [Technical Service for Beauty Salon Chains and Aesthetic Clinics](https://lasertechservice.pl/en/services/service-for-salon-chains/)
 - [Diode laser diagnostics](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
 - [Laser handpiece and applicator refurbishment](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
 - [Laser diode replacement and calibration](https://lasertechservice.pl/en/services/laser-diode-replacement-calibration/)

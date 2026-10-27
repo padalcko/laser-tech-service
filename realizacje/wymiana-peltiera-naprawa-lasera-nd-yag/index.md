@@ -116,6 +116,7 @@ Wymiana niesprawnej części bez usunięcia przyczyny jej uszkodzenia stwarza ry
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Serwis urządzeń kosmetycznych dla sieci salonów i klinik](https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/)
 - [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 - [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
 

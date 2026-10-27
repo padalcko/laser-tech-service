@@ -131,6 +131,7 @@ lok. 320
 ## Услуги сервиса
 
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Сервисное обслуживание сетей салонов красоты и косметологических клиник](https://lasertechservice.pl/ru/uslugi/servis-dlya-setey-salonov/)
 - [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 - [Замена и калибровка лазерных диодов](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/)
 - [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)

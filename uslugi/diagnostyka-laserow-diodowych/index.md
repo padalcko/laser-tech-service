@@ -178,6 +178,7 @@ Dojazd specjalisty płatny osobno — również przy zleceniu naprawy. [+48 790 
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Serwis urządzeń kosmetycznych dla sieci salonów i klinik](https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/)
 - [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
 - [Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
 

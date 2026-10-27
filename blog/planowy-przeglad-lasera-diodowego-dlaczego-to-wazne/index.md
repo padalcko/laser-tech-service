@@ -246,6 +246,7 @@ Częstotliwość zależy od konkretnego urządzenia, intensywności jego pracy o
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Serwis urządzeń kosmetycznych dla sieci salonów i klinik](https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/)
 
 ## Powiązane artykuły
 

@@ -82,6 +82,7 @@ Our diagnostics, cooling repairs and maintenance are described on the [laser and
 
 - [Professional laser and aesthetic equipment servicing](https://lasertechservice.pl/en/services/)
 - [Service pricing](https://lasertechservice.pl/en/pricing/)
+- [Technical Service for Beauty Salon Chains and Aesthetic Clinics](https://lasertechservice.pl/en/services/service-for-salon-chains/)
 - [Diode laser diagnostics](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
 
 ## Related articles

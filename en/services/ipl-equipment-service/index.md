@@ -174,6 +174,7 @@ Engineer travel is charged separately. Parts and additional work are quoted indi
 
 - [Professional laser and aesthetic equipment servicing](https://lasertechservice.pl/en/services/)
 - [Service pricing](https://lasertechservice.pl/en/pricing/)
+- [Technical Service for Beauty Salon Chains and Aesthetic Clinics](https://lasertechservice.pl/en/services/service-for-salon-chains/)
 - [Diode laser diagnostics](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
 - [Laser power supply and electronics repair](https://lasertechservice.pl/en/services/power-supply-electronics-repair/)
 - [Laser handpiece and applicator refurbishment](https://lasertechservice.pl/en/services/laser-handpiece-repair/)

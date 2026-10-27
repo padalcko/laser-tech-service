@@ -157,6 +157,7 @@
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Сервисное обслуживание сетей салонов красоты и косметологических клиник](https://lasertechservice.pl/ru/uslugi/servis-dlya-setey-salonov/)
 - [Чистка и техническое обслуживание косметологического оборудования](https://lasertechservice.pl/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/)
 - [Сервис и ремонт лазеров ND:YAG](https://lasertechservice.pl/ru/uslugi/servis-lazerov-nd-yag/)
 - [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)

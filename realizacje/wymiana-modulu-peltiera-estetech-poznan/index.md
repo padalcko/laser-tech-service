@@ -85,6 +85,7 @@ Wybierz zdjęcie, aby zobaczyć szczegóły.
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Serwis urządzeń kosmetycznych dla sieci salonów i klinik](https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/)
 - [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
 
 ## Powiązane artykuły

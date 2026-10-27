@@ -50,6 +50,7 @@ Read the article [water in a hair removal laser — replacement and regular serv
 
 - [Professional laser and aesthetic equipment servicing](https://lasertechservice.pl/en/services/)
 - [Service pricing](https://lasertechservice.pl/en/pricing/)
+- [Technical Service for Beauty Salon Chains and Aesthetic Clinics](https://lasertechservice.pl/en/services/service-for-salon-chains/)
 
 ## Related articles
 

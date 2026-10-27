@@ -143,6 +143,7 @@ Diagnostyka jest bezpłatna przy zleceniu naprawy lub obsługi przez specjalist�
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Serwis urządzeń kosmetycznych dla sieci salonów i klinik](https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/)
 - [Serwis pogwarancyjny urządzeń kosmetologicznych](https://lasertechservice.pl/uslugi/serwis-pogwarancyjny/)
 - [Czyszczenie i konserwacja urządzeń kosmetologicznych](https://lasertechservice.pl/uslugi/konserwacja-urzadzen-kosmetologicznych/)
 - [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)

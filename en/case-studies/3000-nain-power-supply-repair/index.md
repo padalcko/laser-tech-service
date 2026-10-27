@@ -108,6 +108,7 @@ Need diagnostics for your device? Explore our [aesthetic and laser equipment ser
 
 - [Professional laser and aesthetic equipment servicing](https://lasertechservice.pl/en/services/)
 - [Service pricing](https://lasertechservice.pl/en/pricing/)
+- [Technical Service for Beauty Salon Chains and Aesthetic Clinics](https://lasertechservice.pl/en/services/service-for-salon-chains/)
 - [Laser power supply and electronics repair](https://lasertechservice.pl/en/services/power-supply-electronics-repair/)
 
 ## Related articles

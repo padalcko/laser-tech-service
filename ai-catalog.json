@@ -596,6 +596,48 @@
       }
     },
     {
+      "id": "service:uslugi:serwis-dla-sieci-salonow",
+      "equipment_category": null,
+      "primary_url": "https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/",
+      "localizations": {
+        "en": {
+          "name": "Technical Service for Beauty Salon Chains and Aesthetic Clinics",
+          "description": "Technical service for beauty salons, aesthetic clinics and chains. Individually agreed rates, no subscription fees. Pay only for completed work.",
+          "url": "https://lasertechservice.pl/en/services/service-for-salon-chains/",
+          "starting_price": null,
+          "available_work": [
+            "Special Service Rates",
+            "One Technical Service Partner",
+            "Multi-Location Support",
+            "On-Site and Workshop Repairs",
+            "Transparent Billing",
+            "Long-Term Cooperation"
+          ]
+        },
+        "pl": {
+          "name": "Serwis urządzeń kosmetycznych dla sieci salonów i klinik",
+          "description": "Serwis urządzeń kosmetycznych dla salonów, klinik i sieci. Indywidualne ceny w ramach umowy, bez abonamentu. Płatność tylko za wykonane prace.",
+          "url": "https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/",
+          "starting_price": null,
+          "available_work": [
+            "Specjalne ceny serwisowe",
+            "Jeden partner serwisowy",
+            "Obsługa wielu lokalizacji",
+            "Naprawy na miejscu i w serwisie",
+            "Przejrzyste rozliczenia",
+            "Długoterminowa współpraca"
+          ]
+        },
+        "ru": {
+          "name": "Сервисное обслуживание сетей салонов красоты и косметологических клиник",
+          "description": "Сервис оборудования для салонов, клиник и сетей. Индивидуальные цены по договору, без абонентской платы. Оплата только выполненных работ.",
+          "url": "https://lasertechservice.pl/ru/uslugi/servis-dlya-setey-salonov/",
+          "starting_price": null,
+          "available_work": []
+        }
+      }
+    },
+    {
       "id": "service:uslugi:serwis-ipl",
       "equipment_category": "IPL",
       "primary_url": "https://lasertechservice.pl/uslugi/serwis-ipl/",
@@ -3591,6 +3633,7 @@
       "https://lasertechservice.pl/en/services/post-warranty-equipment-service/": "https://lasertechservice.pl/en/services/post-warranty-equipment-service/index.md",
       "https://lasertechservice.pl/en/services/power-supply-electronics-repair/": "https://lasertechservice.pl/en/services/power-supply-electronics-repair/index.md",
       "https://lasertechservice.pl/en/services/rf-equipment-repair/": "https://lasertechservice.pl/en/services/rf-equipment-repair/index.md",
+      "https://lasertechservice.pl/en/services/service-for-salon-chains/": "https://lasertechservice.pl/en/services/service-for-salon-chains/index.md",
       "https://lasertechservice.pl/en/services/touchscreen-control-panel-repair/": "https://lasertechservice.pl/en/services/touchscreen-control-panel-repair/index.md",
       "https://lasertechservice.pl/kontakt/": "https://lasertechservice.pl/kontakt/index.md",
       "https://lasertechservice.pl/partnerzy/": "https://lasertechservice.pl/partnerzy/index.md",
@@ -3680,6 +3723,7 @@
       "https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/": "https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/index.md",
       "https://lasertechservice.pl/ru/uslugi/remont-sensornyh-ekranov/": "https://lasertechservice.pl/ru/uslugi/remont-sensornyh-ekranov/index.md",
       "https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/": "https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/index.md",
+      "https://lasertechservice.pl/ru/uslugi/servis-dlya-setey-salonov/": "https://lasertechservice.pl/ru/uslugi/servis-dlya-setey-salonov/index.md",
       "https://lasertechservice.pl/ru/uslugi/servis-ipl/": "https://lasertechservice.pl/ru/uslugi/servis-ipl/index.md",
       "https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/": "https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/index.md",
       "https://lasertechservice.pl/ru/uslugi/servis-lazerov-nd-yag/": "https://lasertechservice.pl/ru/uslugi/servis-lazerov-nd-yag/index.md",
@@ -3698,6 +3742,7 @@
       "https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/": "https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/index.md",
       "https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/": "https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/index.md",
       "https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/": "https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/index.md",
+      "https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/": "https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/index.md",
       "https://lasertechservice.pl/uslugi/serwis-ipl/": "https://lasertechservice.pl/uslugi/serwis-ipl/index.md",
       "https://lasertechservice.pl/uslugi/serwis-laserow-co2/": "https://lasertechservice.pl/uslugi/serwis-laserow-co2/index.md",
       "https://lasertechservice.pl/uslugi/serwis-laserow-nd-yag/": "https://lasertechservice.pl/uslugi/serwis-laserow-nd-yag/index.md",
@@ -3707,5 +3752,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-10-27T08:24:30Z"
+  "generated_at": "2026-10-27T09:35:39Z"
 }

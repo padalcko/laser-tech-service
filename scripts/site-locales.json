@@ -1360,6 +1360,25 @@
           "status": "published"
         }
       }
+    },
+    {
+      "id": "uslugi:serwis-dla-sieci-salonow",
+      "type": "service-detail",
+      "x_default": "/uslugi/serwis-dla-sieci-salonow/",
+      "routes": {
+        "pl": {
+          "url": "/uslugi/serwis-dla-sieci-salonow/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/uslugi/servis-dlya-setey-salonov/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/services/service-for-salon-chains/",
+          "status": "published"
+        }
+      }
     }
   ]
 }

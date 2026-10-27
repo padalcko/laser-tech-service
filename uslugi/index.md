@@ -131,6 +131,7 @@ lok. 320
 ## Usługi serwisowe
 
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Serwis urządzeń kosmetycznych dla sieci salonów i klinik](https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/)
 - [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 - [Wymiana i kalibracja diod laserowych](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/)
 - [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)

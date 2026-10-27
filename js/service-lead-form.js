@@ -123,13 +123,13 @@ document.addEventListener("DOMContentLoaded", () => {
     message.classList.add("article-service-form__message--error");
   };
 
-  const sendAnalyticsEvent = (language, source) => {
+  const sendAnalyticsEvent = (language, source, isB2B) => {
     if (typeof window.gtag !== "function") {
       return;
     }
 
-    window.gtag("event", "service_lead_submit", {
-      form_name: "service_lead",
+    window.gtag("event", isB2B ? "b2b_lead_submit" : "service_lead_submit", {
+      form_name: isB2B ? "b2b_service_lead" : "service_lead",
       language,
       source,
     });
@@ -148,22 +148,43 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const text = translations[language];
 
+    const isB2B = form.hasAttribute('data-b2b-form');
+    const b2bText = {
+      pl: { required: 'Wypełnij to pole.', invalid: 'Podaj prawidłową wartość.', contact: 'Podaj prawidłowy telefon lub adres email.', consent: 'Wyraź zgodę na przetwarzanie danych, aby wysłać zapytanie.', count: 'Liczba salonów', message: 'Wiadomość' },
+      ru: { required: 'Заполните это поле.', invalid: 'Укажите корректное значение.', contact: 'Укажите корректный телефон или email.', consent: 'Подтвердите согласие на обработку данных для отправки заявки.', count: 'Количество салонов', message: 'Сообщение' },
+      en: { required: 'Please fill in this field.', invalid: 'Please enter a valid value.', contact: 'Enter a valid phone number or email address.', consent: 'Please agree to data processing to send your enquiry.', count: 'Number of salons', message: 'Message' },
+    }[language];
+
     const message = createMessageElement(form);
 
-    if (language === 'en') {
-      submitButton.textContent = text.submit;
+    if (language === 'en' || isB2B) {
+      if (!isB2B) submitButton.textContent = text.submit;
       const consent = form.querySelector('.consent span');
-      if (consent) consent.textContent = text.consent;
+      if (consent && !isB2B) consent.textContent = text.consent;
       form.addEventListener('invalid', event => {
         const field = event.target;
+        if (isB2B && field.name === 'phone' && field.validity.customError) return;
         field.setCustomValidity('');
         field.setCustomValidity(field.validity.valueMissing
-          ? (field.name === 'consent' ? text.consentRequired : text.required) : text.invalid);
+          ? (field.name === 'consent' ? (isB2B ? b2bText.consent : text.consentRequired) : (isB2B ? b2bText.required : text.required)) : (isB2B ? b2bText.invalid : text.invalid));
       }, true);
       for (const type of ['input', 'change']) form.addEventListener(type, event => {
         if (typeof event.target.setCustomValidity === 'function') event.target.setCustomValidity('');
       });
       form.addEventListener('reset', () => form.querySelectorAll('input, textarea, select').forEach(field => field.setCustomValidity('')));
+    }
+
+    const validateB2BContact = () => {
+      if (!isB2B) return;
+      const contact = form.elements.namedItem('phone');
+      const value = contact.value.trim();
+      const validEmail = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value);
+      const validPhone = /^[+\d\s().-]+$/.test(value) && value.replace(/\D/g, '').length >= 7 && value.replace(/\D/g, '').length <= 15;
+      contact.setCustomValidity(value && !validEmail && !validPhone ? b2bText.contact : '');
+    };
+    if (isB2B) {
+      form.elements.namedItem('phone').addEventListener('input', () => queueMicrotask(validateB2BContact));
+      form.elements.namedItem('phone').addEventListener('change', () => queueMicrotask(validateB2BContact));
     }
 
     const defaultButtonText = submitButton.textContent.trim();
@@ -189,6 +210,7 @@ document.addEventListener("DOMContentLoaded", () => {
            Native HTML validation
         ------------------------------------------------- */
 
+      validateB2BContact();
       if (!form.checkValidity()) {
         form.reportValidity();
         return;
@@ -225,6 +247,19 @@ document.addEventListener("DOMContentLoaded", () => {
       // Send additional fields only when the form provides them.
       for (const field of ["serviceType", "problemDescription"]) {
         if (formData.has(field)) payload[field] = getFormValue(formData, field);
+      }
+
+      // Keep the existing n8n payload: company -> salonName; phone/email -> phone;
+      // equipment -> deviceName; branch count and optional message -> description.
+      if (isB2B) {
+        const count = getFormValue(formData, 'salonCount');
+        if (!['1', '2-5', '6-10', '10+'].includes(count)) {
+          showError(message, text.error);
+          return;
+        }
+        payload.problemDescription = `${b2bText.count}: ${count}`;
+        const details = getFormValue(formData, 'problemDescription');
+        if (details) payload.problemDescription += `\n${b2bText.message}: ${details}`;
       }
 
       /* -------------------------------------------------
@@ -277,7 +312,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         showSuccess(message, text.success);
 
-        sendAnalyticsEvent(payload.language, payload.source);
+        sendAnalyticsEvent(payload.language, payload.source, isB2B);
       } catch (error) {
         /* -----------------------------------------------
              Error

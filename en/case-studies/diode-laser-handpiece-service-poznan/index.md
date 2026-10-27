@@ -152,6 +152,7 @@ Our service centre is in Wrocław, and we handle requests and on-site visits thr
 
 - [Professional laser and aesthetic equipment servicing](https://lasertechservice.pl/en/services/)
 - [Service pricing](https://lasertechservice.pl/en/pricing/)
+- [Technical Service for Beauty Salon Chains and Aesthetic Clinics](https://lasertechservice.pl/en/services/service-for-salon-chains/)
 - [Laser handpiece and applicator refurbishment](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
 - [Diode laser diagnostics](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
 

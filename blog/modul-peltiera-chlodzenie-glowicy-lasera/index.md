@@ -106,6 +106,7 @@ Naprawa laserów kosmetycznych i naprawa chłodzenia lasera mają zakres zależn
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Serwis urządzeń kosmetycznych dla sieci salonów i klinik](https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/)
 
 ## Powiązane realizacje
 

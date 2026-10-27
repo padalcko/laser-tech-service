@@ -88,6 +88,7 @@ Laser Tech Service provides laser servicing, refurbishment and repairs, with wor
 
 - [Professional laser and aesthetic equipment servicing](https://lasertechservice.pl/en/services/)
 - [Service pricing](https://lasertechservice.pl/en/pricing/)
+- [Technical Service for Beauty Salon Chains and Aesthetic Clinics](https://lasertechservice.pl/en/services/service-for-salon-chains/)
 - [Laser equipment cooling system repair](https://lasertechservice.pl/en/services/laser-cooling-system-repair/)
 
 ## Related repairs

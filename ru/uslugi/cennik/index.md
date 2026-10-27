@@ -203,6 +203,7 @@ lok. 320
 ## Услуги сервиса
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Сервисное обслуживание сетей салонов красоты и косметологических клиник](https://lasertechservice.pl/ru/uslugi/servis-dlya-setey-salonov/)
 - [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 - [Сервис и ремонт оборудования IPL](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
 - [Сервис и ремонт лазеров CO₂](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/)

@@ -157,6 +157,7 @@
 
 - [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
 - [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Сервисное обслуживание сетей салонов красоты и косметологических клиник](https://lasertechservice.pl/ru/uslugi/servis-dlya-setey-salonov/)
 - [Ремонт систем охлаждения лазерного оборудования](https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/)
 - [Сервис и ремонт пикосекундных лазеров](https://lasertechservice.pl/ru/uslugi/servis-pikosekundnyh-lazerov/)
 - [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)

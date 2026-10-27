@@ -174,6 +174,7 @@ Dojazd specjalisty płatny osobno. Części i dodatkowe prace wyceniamy indywidu
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Serwis urządzeń kosmetycznych dla sieci salonów i klinik](https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/)
 - [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 - [Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
 - [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)

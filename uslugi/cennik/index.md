@@ -203,6 +203,7 @@ lok. 320
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Serwis urządzeń kosmetycznych dla sieci salonów i klinik](https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/)
 - [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
 - [Serwis i naprawa urządzeń IPL](https://lasertechservice.pl/uslugi/serwis-ipl/)
 - [Serwis i naprawa laserów CO₂](https://lasertechservice.pl/uslugi/serwis-laserow-co2/)

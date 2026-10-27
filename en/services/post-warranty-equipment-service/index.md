@@ -157,6 +157,7 @@ Diagnostics are free when you commission repair or maintenance from Laser Tech S
 
 - [Professional laser and aesthetic equipment servicing](https://lasertechservice.pl/en/services/)
 - [Service pricing](https://lasertechservice.pl/en/pricing/)
+- [Technical Service for Beauty Salon Chains and Aesthetic Clinics](https://lasertechservice.pl/en/services/service-for-salon-chains/)
 - [Aesthetic equipment cleaning and maintenance](https://lasertechservice.pl/en/services/aesthetic-equipment-maintenance/)
 - [Touchscreen and control panel repair](https://lasertechservice.pl/en/services/touchscreen-control-panel-repair/)
 - [Diode laser diagnostics](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)

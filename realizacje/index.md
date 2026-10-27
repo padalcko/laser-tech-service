@@ -300,6 +300,7 @@ Serwisujemy lasery diodowe, urządzenia ND:YAG, IPL, CO2 oraz inne urządzenia w
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Serwis urządzeń kosmetycznych dla sieci salonów i klinik](https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/)
 
 ## Powiązane realizacje
 

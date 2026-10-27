@@ -466,6 +466,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/services/rf-equipment-repair/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/en/services/service-for-salon-chains/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/services/service-for-salon-chains/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /en/services/touchscreen-control-panel-repair/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -911,6 +916,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/uslugi/servis-dlya-setey-salonov/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/uslugi/servis-dlya-setey-salonov/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /ru/uslugi/servis-ipl/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -1000,6 +1010,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/uslugi/serwis-dla-sieci-salonow/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /uslugi/serwis-ipl/index.md
   Content-Type: text/markdown; charset=utf-8

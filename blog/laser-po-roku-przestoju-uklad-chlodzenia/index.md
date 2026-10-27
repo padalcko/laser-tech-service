@@ -88,6 +88,7 @@ Serwis laserów, regeneracja laserów i naprawa laserów w Laser Tech Service za
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
 - [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Serwis urządzeń kosmetycznych dla sieci salonów i klinik](https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/)
 - [Naprawa układów chłodzenia urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/)
 
 ## Powiązane realizacje
