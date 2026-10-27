@@ -72,41 +72,7 @@ LASER TECH SERVICE
 
 Jeśli zauważysz jeden z poniższych problemów, ogranicz dalszą pracę urządzenia i skontaktuj się z serwisem.
 
-Laser przegrzewa się
-
-Głowica nie chłodzi
-
-Urządzenie wyłącza się podczas pracy
-
-Brak impulsów
-
-Spadek mocy lasera
-
-ND:YAG przegrzewa się
-
-ND:YAG – brak impulsów
-
-IPL – brak impulsów
-
-IPL przegrzewa się
-
-IPL nie włącza się
-
-CO2 nie włącza się
-
-CO2 przegrzewa się
-
-LPG – brak podciśnienia
-
-Rolki nie obracają się
-
-RF – igły nie wysuwają się
-
-Kriomasaż nie chłodzi
-
-Błędy elektroniki
-
-[Zadzwoń: +48 790 402 597](tel:+48790402597)
+[Laser przegrzewa się](https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/) [Głowica nie chłodzi](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/) [Urządzenie wyłącza się podczas pracy](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/) [Brak impulsów](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/) [Spadek mocy lasera](https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/) [ND:YAG przegrzewa się](https://lasertechservice.pl/uslugi/serwis-laserow-nd-yag/) [ND:YAG – brak impulsów](https://lasertechservice.pl/uslugi/serwis-laserow-nd-yag/) [IPL – brak impulsów](https://lasertechservice.pl/uslugi/serwis-ipl/) [IPL przegrzewa się](https://lasertechservice.pl/uslugi/serwis-ipl/) [IPL nie włącza się](https://lasertechservice.pl/uslugi/serwis-ipl/) [CO2 nie włącza się](https://lasertechservice.pl/uslugi/serwis-laserow-co2/) [CO2 przegrzewa się](https://lasertechservice.pl/uslugi/serwis-laserow-co2/) [LPG – brak podciśnienia](https://lasertechservice.pl/uslugi/naprawa-urzadzen-lpg/) [Rolki nie obracają się](https://lasertechservice.pl/uslugi/naprawa-urzadzen-lpg/) [RF – igły nie wysuwają się](https://lasertechservice.pl/uslugi/naprawa-urzadzen-rf/) [Kriomasaż nie chłodzi](https://lasertechservice.pl/uslugi/serwis-urzadzen-do-krioterapii/) [Błędy elektroniki](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/) [Zadzwoń: +48 790 402 597](tel:+48790402597)
 
 ## Najczęściej zadawane pytania
 

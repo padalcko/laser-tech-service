@@ -74,41 +74,7 @@ LASER TECH SERVICE
 
 If you notice any of the following problems, limit further use and contact our service team.
 
-Laser overheating
-
-Handpiece not cooling
-
-Equipment switches off during operation
-
-No pulses
-
-Reduced laser output
-
-Nd:YAG overheating
-
-Nd:YAG — no pulses
-
-IPL — no pulses
-
-IPL overheating
-
-IPL will not switch on
-
-CO₂ will not switch on
-
-CO₂ overheating
-
-LPG — no vacuum
-
-Rollers not turning
-
-RF — needles not extending
-
-Cryomassage not cooling
-
-Electronic faults
-
-[Call: +48 790 402 597](tel:+48790402597)
+[Laser overheating](https://lasertechservice.pl/en/services/laser-cooling-system-repair/) [Handpiece not cooling](https://lasertechservice.pl/en/services/laser-handpiece-repair/) [Equipment switches off during operation](https://lasertechservice.pl/en/services/power-supply-electronics-repair/) [No pulses](https://lasertechservice.pl/en/services/diode-laser-diagnostics/) [Reduced laser output](https://lasertechservice.pl/en/services/laser-diode-replacement-calibration/) [Nd:YAG overheating](https://lasertechservice.pl/en/services/nd-yag-laser-service/) [Nd:YAG — no pulses](https://lasertechservice.pl/en/services/nd-yag-laser-service/) [IPL — no pulses](https://lasertechservice.pl/en/services/ipl-equipment-service/) [IPL overheating](https://lasertechservice.pl/en/services/ipl-equipment-service/) [IPL will not switch on](https://lasertechservice.pl/en/services/ipl-equipment-service/) [CO₂ will not switch on](https://lasertechservice.pl/en/services/co2-laser-service/) [CO₂ overheating](https://lasertechservice.pl/en/services/co2-laser-service/) [LPG — no vacuum](https://lasertechservice.pl/en/services/lpg-endermology-equipment-repair/) [Rollers not turning](https://lasertechservice.pl/en/services/lpg-endermology-equipment-repair/) [RF — needles not extending](https://lasertechservice.pl/en/services/rf-equipment-repair/) [Cryomassage not cooling](https://lasertechservice.pl/en/services/cryotherapy-cryolipolysis-equipment-service/) [Electronic faults](https://lasertechservice.pl/en/services/power-supply-electronics-repair/) [Call: +48 790 402 597](tel:+48790402597)
 
 ## Frequently asked questions
 

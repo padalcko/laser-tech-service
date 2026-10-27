@@ -72,41 +72,7 @@ LASER TECH SERVICE
 
 Если вы заметили одну из перечисленных проблем, рекомендуем ограничить использование оборудования и обратиться в сервис.
 
-Лазер перегревается
-
-Головка не охлаждается
-
-Оборудование отключается во время работы
-
-Нет импульсов
-
-Снижение мощности лазера
-
-ND:YAG перегревается
-
-ND:YAG — нет импульсов
-
-IPL — нет импульсов
-
-IPL перегревается
-
-IPL не включается
-
-CO2 не включается
-
-CO2 перегревается
-
-LPG — нет вакуума
-
-Ролики не вращаются
-
-RF — иглы не выходят
-
-Криомассаж не охлаждает
-
-Ошибки электроники
-
-[Позвонить: +48 790 402 597](tel:+48790402597)
+[Лазер перегревается](https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/) [Головка не охлаждается](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/) [Оборудование отключается во время работы](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/) [Нет импульсов](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/) [Снижение мощности лазера](https://lasertechservice.pl/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/) [ND:YAG перегревается](https://lasertechservice.pl/ru/uslugi/servis-lazerov-nd-yag/) [ND:YAG — нет импульсов](https://lasertechservice.pl/ru/uslugi/servis-lazerov-nd-yag/) [IPL — нет импульсов](https://lasertechservice.pl/ru/uslugi/servis-ipl/) [IPL перегревается](https://lasertechservice.pl/ru/uslugi/servis-ipl/) [IPL не включается](https://lasertechservice.pl/ru/uslugi/servis-ipl/) [CO2 не включается](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/) [CO2 перегревается](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/) [LPG — нет вакуума](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-lpg/) [Ролики не вращаются](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-lpg/) [RF — иглы не выходят](https://lasertechservice.pl/ru/uslugi/remont-oborudovaniya-rf/) [Криомассаж не охлаждает](https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/) [Ошибки электроники](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/) [Позвонить: +48 790 402 597](tel:+48790402597)
 
 ## Часто задаваемые вопросы
 
