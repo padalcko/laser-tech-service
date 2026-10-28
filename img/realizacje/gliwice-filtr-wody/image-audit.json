@@ -1,0 +1,83 @@
+[
+  {
+    "source": "IMG_8109.heic",
+    "source_size": [
+      3213,
+      5712
+    ],
+    "files": [
+      {
+        "path": "/img/realizacje/gliwice-filtr-wody/serwis-lasera-diodowego-gliwice-808nm-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 35858
+      },
+      {
+        "path": "/img/realizacje/gliwice-filtr-wody/serwis-lasera-diodowego-gliwice-808nm-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 65576
+      },
+      {
+        "path": "/img/realizacje/gliwice-filtr-wody/serwis-lasera-diodowego-gliwice-808nm.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 126782
+      }
+    ]
+  },
+  {
+    "source": "IMG_8110.heic",
+    "source_size": [
+      2268,
+      4032
+    ],
+    "files": [
+      {
+        "path": "/img/realizacje/gliwice-filtr-wody/wymiana-filtra-wody-laser-diodowy-gliwice-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 42550
+      },
+      {
+        "path": "/img/realizacje/gliwice-filtr-wody/wymiana-filtra-wody-laser-diodowy-gliwice-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 89034
+      },
+      {
+        "path": "/img/realizacje/gliwice-filtr-wody/wymiana-filtra-wody-laser-diodowy-gliwice.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 190050
+      }
+    ]
+  },
+  {
+    "source": "IMG_8111.heic",
+    "source_size": [
+      3213,
+      5712
+    ],
+    "files": [
+      {
+        "path": "/img/realizacje/gliwice-filtr-wody/uklad-chlodzenia-lasera-diodowego-gliwice-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 31374
+      },
+      {
+        "path": "/img/realizacje/gliwice-filtr-wody/uklad-chlodzenia-lasera-diodowego-gliwice-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 57656
+      },
+      {
+        "path": "/img/realizacje/gliwice-filtr-wody/uklad-chlodzenia-lasera-diodowego-gliwice.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 112202
+      }
+    ]
+  }
+]

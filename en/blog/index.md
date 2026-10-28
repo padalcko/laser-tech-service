@@ -10,6 +10,12 @@ Other language version: [Polski](https://lasertechservice.pl/blog/), [Русск
 
 Practical knowledge about servicing, diagnostics, repairs and operation of laser and aesthetic equipment.
 
+Cooling system28 October 2026
+
+## [Why Is Regular Water Filter Replacement Important in Diode Lasers?](https://lasertechservice.pl/en/blog/diode-laser-water-filter-replacement/)
+
+A cracked water filter fitting caused coolant loss and overheating in Gliwice. Learn why regular diode laser filter maintenance matters.
+
 Equipment condition and servicing27 October 2026
 
 ## [Dinosaur Lasers: Why Equipment Age Matters for Treatment Effectiveness](https://lasertechservice.pl/en/blog/dinosaur-lasers-age-technical-condition/)
@@ -162,6 +168,7 @@ Warranty, work documentation, service history, prompt on-site visits and respons
 
 ## Related articles
 
+- [Why Is Regular Water Filter Replacement Important in Diode Lasers?](https://lasertechservice.pl/en/blog/diode-laser-water-filter-replacement/)
 - [Dinosaur Lasers: Why Equipment Age Matters for Treatment Effectiveness](https://lasertechservice.pl/en/blog/dinosaur-lasers-age-technical-condition/)
 - [Laser Unused for a Year? How Long Downtime Can Lead to Expensive Cooling System Repairs](https://lasertechservice.pl/en/blog/laser-unused-for-a-year-cooling-system/)
 - [Burned-Out Laser Diode: Do You Need to Replace the Entire Handpiece?](https://lasertechservice.pl/en/blog/burned-out-laser-diode-handpiece-repair/)

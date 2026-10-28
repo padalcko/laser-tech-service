@@ -16,6 +16,16 @@ Pokazujemy rzeczywiste realizacje serwisowe: zakres zlecenia, wykonane prace ora
 
 Każde urządzenie wymaga indywidualnej diagnostyki. Poniżej prezentujemy wybrane realizacje naszego serwisu.
 
+![Serwis lasera diodowego 808 nm podczas pilnej interwencji w Gliwicach](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/serwis-lasera-diodowego-gliwice-808nm.webp)
+
+GliwicePilny serwis
+
+## [Przegrzewanie lasera diodowego w Gliwicach — pilna wymiana filtra wody](https://lasertechservice.pl/realizacje/przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra/)
+
+Pilny wyjazd serwisowy do Gliwic z powodu przegrzewania lasera diodowego. Przyczyną było pęknięte mocowanie przy filtrze wody, powodujące wyciek płynu chłodzącego. Wymieniliśmy filtr i uzupełniliśmy układ nowym płynem.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra/)
+
 ![Laser Sapphire przed obsługą serwisową](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-serwis-lasera.webp)
 
 LegnicaSerwis i konserwacja
@@ -314,6 +324,7 @@ Serwisujemy lasery diodowe, urządzenia ND:YAG, IPL, CO2 oraz inne urządzenia w
 
 ## Powiązane realizacje
 
+- [Przegrzewanie lasera diodowego w Gliwicach — pilna wymiana filtra wody](https://lasertechservice.pl/realizacje/przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra/)
 - [Serwis lasera Sapphire – wymiana płynu chłodzącego i konserwacja urządzenia](https://lasertechservice.pl/realizacje/serwis-lasera-sapphire-wymiana-plynu/)
 - [Naprawa układu chłodzenia Lumenis LightSheer DESIRE – wymiana przewodów i przywrócenie cyrkulacji](https://lasertechservice.pl/realizacje/naprawa-chlodzenia-lightsheer-desire-wroclaw/)
 - [Wymiana spalonej diody laserowej — naprawa głowicy lasera](https://lasertechservice.pl/realizacje/wymiana-spalonej-diody-laserowej/)

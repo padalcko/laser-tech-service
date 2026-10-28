@@ -1417,6 +1417,44 @@
           "status": "published"
         }
       }
+    },
+    {
+      "id": "realizacje:przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra",
+      "type": "case-study",
+      "x_default": "/realizacje/przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/diode-laser-overheating-gliwice-water-filter/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:filtr-wody-laser-diodowy-kiedy-wymieniac",
+      "type": "article",
+      "x_default": "/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/",
+      "routes": {
+        "pl": {
+          "url": "/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/diode-laser-water-filter-replacement/",
+          "status": "published"
+        }
+      }
     }
   ]
 }

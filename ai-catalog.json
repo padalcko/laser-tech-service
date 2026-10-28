@@ -1213,6 +1213,22 @@
       "related_services": []
     },
     {
+      "id": "article:blog:filtr-wody-laser-diodowy-kiedy-wymieniac",
+      "title": "Dlaczego warto regularnie wymieniać filtr wody w laserze diodowym?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/",
+      "description": "Dlaczego filtr wody w laserze diodowym może przeciekać? Poznaj przypadek z Gliwic i dowiedz się, jak zapobiegać przegrzewaniu lasera.",
+      "topics": [
+        "Układ chłodzenia"
+      ],
+      "datePublished": "2026-10-28",
+      "dateModified": "2026-10-28",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:naprawa-ukladow-chlodzenia"
+      ]
+    },
+    {
       "id": "article:blog:hifu-co-to-jest-jak-dziala-zastosowanie-serwis",
       "title": "HIFU – co to jest, jak działa i do czego służy urządzenie HIFU?",
       "language": "pl",
@@ -1527,6 +1543,22 @@
       "related_services": []
     },
     {
+      "id": "article:en:blog:diode-laser-water-filter-replacement",
+      "title": "Why Is Regular Water Filter Replacement Important in Diode Lasers?",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/diode-laser-water-filter-replacement/",
+      "description": "A cracked water filter fitting caused coolant loss and overheating in Gliwice. Learn why regular diode laser filter maintenance matters.",
+      "topics": [
+        "Cooling system"
+      ],
+      "datePublished": "2026-10-28",
+      "dateModified": "2026-10-28",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:naprawa-ukladow-chlodzenia"
+      ]
+    },
+    {
       "id": "article:en:blog:five-signs-laser-diode-needs-inspection",
       "title": "5 signs that a hair removal laser diode needs inspection or replacement",
       "language": "en",
@@ -1827,6 +1859,22 @@
       ],
       "dateModified": "2026-10-12",
       "related_services": []
+    },
+    {
+      "id": "article:ru:blog:kogda-menyat-vodyanoy-filtr-diodnogo-lazera",
+      "title": "Почему важно регулярно менять водяной фильтр в диодном лазере?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/",
+      "description": "Трещина возле фильтра, утечка охлаждающей жидкости и перегрев лазера. Реальный случай ремонта Laser Tech Service в Гливице.",
+      "topics": [
+        "Система охлаждения"
+      ],
+      "datePublished": "2026-10-28",
+      "dateModified": "2026-10-28",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:naprawa-ukladow-chlodzenia"
+      ]
     },
     {
       "id": "article:ru:blog:laser-tech-service-zlota-firma-2026",
@@ -2233,6 +2281,29 @@
       ],
       "performed_work": [],
       "result": []
+    },
+    {
+      "id": "case:en:case-studies:diode-laser-overheating-gliwice-water-filter",
+      "title": "Diode laser overheating in Gliwice — emergency water filter replacement",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/case-studies/diode-laser-overheating-gliwice-water-filter/",
+      "description": "Emergency diode laser service in Gliwice. A cracked water filter fitting caused a coolant leak and overheating. The filter and coolant were replaced.",
+      "city": "Gliwice",
+      "equipment_type": "808 nm diode laser",
+      "equipment": {
+        "@type": "Thing",
+        "name": "808 nm diode laser"
+      },
+      "fault": [
+        "We received an urgent request from Gliwice about an overheating diode laser used for hair removal. An on-site technician was needed."
+      ],
+      "performed_work": [
+        "During the emergency service visit, we replaced the damaged water filter and refilled the system with fresh coolant."
+      ],
+      "result": [
+        "The laser is working again. This failure highlights the importance of regularly checking filters and cooling system connections for leaks.",
+        "Laser Tech Service provides laser servicing, refurbishment and aesthetic laser repairs, including on-site visits."
+      ]
     },
     {
       "id": "case:en:case-studies:estelase-power-p808l-maintenance",
@@ -2848,6 +2919,29 @@
       "result": []
     },
     {
+      "id": "case:realizacje:przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra",
+      "title": "Przegrzewanie lasera diodowego w Gliwicach — pilna wymiana filtra wody",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra/",
+      "description": "Pilny serwis lasera diodowego w Gliwicach. Pęknięte mocowanie filtra, wyciek płynu i przegrzewanie. Wymiana filtra przez Laser Tech Service.",
+      "city": "Gliwice",
+      "equipment_type": "Laser diodowy 808 nm",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Laser diodowy 808 nm"
+      },
+      "fault": [
+        "Otrzymaliśmy pilne zgłoszenie z Gliwic dotyczące przegrzewającego się lasera diodowego do depilacji. Urządzenie wymagało szybkiej interwencji serwisowej."
+      ],
+      "performed_work": [
+        "W ramach pilnego serwisu wymieniliśmy uszkodzony filtr wody oraz napełniliśmy układ nowym płynem chłodzącym."
+      ],
+      "result": [
+        "Laser ponownie działa. Awaria pokazała, jak ważna jest regularna kontrola filtrów i szczelności układu chłodzenia.",
+        "Laser Tech Service wykonuje serwis laserów, regenerację laserów oraz naprawę laserów kosmetycznych, również podczas wyjazdów do klientów."
+      ]
+    },
+    {
       "id": "case:realizacje:serwis-cavi-shape-advanced-wroclaw",
       "title": "Serwis Cavi Shape Advanced – naprawa RF, podczerwieni i ultradźwięków",
       "language": "pl",
@@ -3261,6 +3355,29 @@
       "result": [
         "В Варшаве мы отремонтировали кабель и заменили разъём аппарата для RSL-массажа, восстановив исправное соединение манипулы. Небольшие элементы проводки важны для ежедневной эксплуатации всего устройства.",
         "В статье почему соединение манипулы с аппаратом так важно рассматриваем симптомы и уход за кабелем. Если нужен ремонт косметологического оборудования, опишите проблему и свяжитесь с Laser Tech Service."
+      ]
+    },
+    {
+      "id": "case:ru:realizacje:peregrev-diodnogo-lazera-glivitse-zamena-filtra",
+      "title": "Перегрев диодного лазера в Гливице — срочная замена водяного фильтра",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/",
+      "description": "Срочный ремонт диодного лазера в Гливице: треснувшее крепление фильтра, утечка жидкости и перегрев. Замена фильтра и охлаждающей жидкости.",
+      "city": "Гливице",
+      "equipment_type": "Диодный лазер 808 нм",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Диодный лазер 808 нм"
+      },
+      "fault": [
+        "Мы получили срочную заявку из Гливице: диодный лазер для эпиляции перегревался. Потребовался срочный выезд мастера к клиенту."
+      ],
+      "performed_work": [
+        "В рамках срочного ремонта мы заменили повреждённый водяной фильтр и залили в систему новую охлаждающую жидкость."
+      ],
+      "result": [
+        "Лазер снова работает. Этот случай показывает, насколько важна регулярная проверка фильтров и герметичности системы охлаждения.",
+        "Laser Tech Service выполняет обслуживание и ремонт косметологических лазеров, а также восстановление их узлов, в том числе с выездом к клиентам."
       ]
     },
     {
@@ -3688,6 +3805,7 @@
       "https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/": "https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/index.md",
       "https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/": "https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/index.md",
       "https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/": "https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/index.md",
+      "https://lasertechservice.pl/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/": "https://lasertechservice.pl/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/index.md",
       "https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/": "https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/index.md",
       "https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/": "https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/index.md",
       "https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/": "https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/index.md",
@@ -3713,6 +3831,7 @@
       "https://lasertechservice.pl/en/blog/damaged-handpiece-cable/": "https://lasertechservice.pl/en/blog/damaged-handpiece-cable/index.md",
       "https://lasertechservice.pl/en/blog/dinosaur-lasers-age-technical-condition/": "https://lasertechservice.pl/en/blog/dinosaur-lasers-age-technical-condition/index.md",
       "https://lasertechservice.pl/en/blog/diode-laser-handpiece-seals-optics/": "https://lasertechservice.pl/en/blog/diode-laser-handpiece-seals-optics/index.md",
+      "https://lasertechservice.pl/en/blog/diode-laser-water-filter-replacement/": "https://lasertechservice.pl/en/blog/diode-laser-water-filter-replacement/index.md",
       "https://lasertechservice.pl/en/blog/five-signs-laser-diode-needs-inspection/": "https://lasertechservice.pl/en/blog/five-signs-laser-diode-needs-inspection/index.md",
       "https://lasertechservice.pl/en/blog/hair-removal-laser-cooling-water-maintenance/": "https://lasertechservice.pl/en/blog/hair-removal-laser-cooling-water-maintenance/index.md",
       "https://lasertechservice.pl/en/blog/handpiece-connections-overheating-nd-yag-calibration/": "https://lasertechservice.pl/en/blog/handpiece-connections-overheating-nd-yag-calibration/index.md",
@@ -3739,6 +3858,7 @@
       "https://lasertechservice.pl/en/case-studies/cavi-shape-advanced-service-wroclaw/": "https://lasertechservice.pl/en/case-studies/cavi-shape-advanced-service-wroclaw/index.md",
       "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-replacement-wroclaw/": "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-replacement-wroclaw/index.md",
       "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-service-poznan/": "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-service-poznan/index.md",
+      "https://lasertechservice.pl/en/case-studies/diode-laser-overheating-gliwice-water-filter/": "https://lasertechservice.pl/en/case-studies/diode-laser-overheating-gliwice-water-filter/index.md",
       "https://lasertechservice.pl/en/case-studies/estelase-power-p808l-maintenance/": "https://lasertechservice.pl/en/case-studies/estelase-power-p808l-maintenance/index.md",
       "https://lasertechservice.pl/en/case-studies/estetech-peltier-module-replacement-poznan/": "https://lasertechservice.pl/en/case-studies/estetech-peltier-module-replacement-poznan/index.md",
       "https://lasertechservice.pl/en/case-studies/flood-damaged-diode-module-replacement-poznan/": "https://lasertechservice.pl/en/case-studies/flood-damaged-diode-module-replacement-poznan/index.md",
@@ -3792,6 +3912,7 @@
       "https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/": "https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/index.md",
       "https://lasertechservice.pl/realizacje/przeglad-serwis-pharaon-1470-wroclaw/": "https://lasertechservice.pl/realizacje/przeglad-serwis-pharaon-1470-wroclaw/index.md",
       "https://lasertechservice.pl/realizacje/przeglad-techniczny-lasera-do-depilacji/": "https://lasertechservice.pl/realizacje/przeglad-techniczny-lasera-do-depilacji/index.md",
+      "https://lasertechservice.pl/realizacje/przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra/": "https://lasertechservice.pl/realizacje/przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra/index.md",
       "https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/": "https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/index.md",
       "https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/": "https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/index.md",
       "https://lasertechservice.pl/realizacje/serwis-gme-exsys-308/": "https://lasertechservice.pl/realizacje/serwis-gme-exsys-308/index.md",
@@ -3812,6 +3933,7 @@
       "https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/": "https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/index.md",
       "https://lasertechservice.pl/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/": "https://lasertechservice.pl/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/index.md",
       "https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/": "https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/index.md",
+      "https://lasertechservice.pl/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/": "https://lasertechservice.pl/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/index.md",
       "https://lasertechservice.pl/ru/blog/laser-tech-service-zlota-firma-2026/": "https://lasertechservice.pl/ru/blog/laser-tech-service-zlota-firma-2026/index.md",
       "https://lasertechservice.pl/ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/": "https://lasertechservice.pl/ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/index.md",
       "https://lasertechservice.pl/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/": "https://lasertechservice.pl/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/index.md",
@@ -3840,6 +3962,7 @@
       "https://lasertechservice.pl/ru/realizacje/naprawa-multipolar-rf-lublin/": "https://lasertechservice.pl/ru/realizacje/naprawa-multipolar-rf-lublin/index.md",
       "https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/": "https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/index.md",
       "https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/": "https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/index.md",
+      "https://lasertechservice.pl/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/": "https://lasertechservice.pl/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/index.md",
       "https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/": "https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/index.md",
       "https://lasertechservice.pl/ru/realizacje/przeglad-estelase-power-p808l/": "https://lasertechservice.pl/ru/realizacje/przeglad-estelase-power-p808l/index.md",
       "https://lasertechservice.pl/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/": "https://lasertechservice.pl/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/index.md",
@@ -3896,5 +4019,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-10-27T14:54:12Z"
+  "generated_at": "2026-10-28T14:14:54Z"
 }

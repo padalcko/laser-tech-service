@@ -16,6 +16,16 @@ Actual service work: the job scope, completed repairs and photographic and video
 
 Every device needs individual diagnostics. Explore selected examples of our service work below.
 
+![Emergency diode laser 808 nm service in Gliwice](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/serwis-lasera-diodowego-gliwice-808nm.webp)
+
+GliwiceEmergency service
+
+## [Diode laser overheating in Gliwice — emergency water filter replacement](https://lasertechservice.pl/en/case-studies/diode-laser-overheating-gliwice-water-filter/)
+
+An urgent on-site visit to Gliwice for an overheating diode laser. A cracked fitting near the water filter was leaking coolant. We replaced the filter and refilled the system with fresh coolant.
+
+[View case study](https://lasertechservice.pl/en/case-studies/diode-laser-overheating-gliwice-water-filter/)
+
 ![Sapphire laser before service work](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-serwis-lasera.webp)
 
 LegnicaServicing and maintenance
@@ -314,6 +324,7 @@ We service diode lasers, Nd:YAG, IPL, CO₂ and other equipment used in aestheti
 
 ## Related repairs
 
+- [Diode laser overheating in Gliwice — emergency water filter replacement](https://lasertechservice.pl/en/case-studies/diode-laser-overheating-gliwice-water-filter/)
 - [Sapphire Laser Service — Coolant Replacement and Equipment Maintenance](https://lasertechservice.pl/en/case-studies/sapphire-coolant-replacement-maintenance/)
 - [Lumenis LightSheer DESIRE Cooling System Repair – Tubing Replacement and Coolant Circulation Restoration](https://lasertechservice.pl/en/case-studies/lightsheer-desire-cooling-tubing-repair-wroclaw/)
 - [Burned-Out Laser Diode Replacement — Laser Handpiece Repair](https://lasertechservice.pl/en/case-studies/burned-out-laser-diode-replacement/)

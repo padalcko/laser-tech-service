@@ -10,6 +10,12 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/), [
 
 Praktyczna wiedza o serwisie, diagnostyce, naprawach i eksploatacji urządzeń laserowych oraz kosmetycznych.
 
+Układ chłodzenia28 października 2026
+
+## [Dlaczego warto regularnie wymieniać filtr wody w laserze diodowym?](https://lasertechservice.pl/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/)
+
+Dlaczego filtr wody w laserze diodowym może przeciekać? Poznaj przypadek z Gliwic i dowiedz się, jak zapobiegać przegrzewaniu lasera.
+
 Stan techniczny i serwis27 października 2026
 
 ## [Lasery dinozaury – dlaczego wiek urządzenia ma znaczenie dla skuteczności zabiegów?](https://lasertechservice.pl/blog/lasery-dinozaury-wiek-stan-techniczny/)
@@ -162,6 +168,7 @@ Gwarancja, dokumentacja wykonanych prac, historia serwisowa, możliwość szybki
 
 ## Powiązane artykuły
 
+- [Dlaczego warto regularnie wymieniać filtr wody w laserze diodowym?](https://lasertechservice.pl/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/)
 - [Lasery dinozaury – dlaczego wiek urządzenia ma znaczenie dla skuteczności zabiegów?](https://lasertechservice.pl/blog/lasery-dinozaury-wiek-stan-techniczny/)
 - [Laser nie pracował przez rok? Dlaczego długi przestój może doprowadzić do kosztownej naprawy układu chłodzenia](https://lasertechservice.pl/blog/laser-po-roku-przestoju-uklad-chlodzenia/)
 - [Spalona dioda laserowa — czy trzeba wymieniać całą głowicę?](https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/)

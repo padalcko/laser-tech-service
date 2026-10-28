@@ -10,6 +10,12 @@
 
 Пишем о том, с чем сталкиваемся каждый день: ремонте лазеров, диагностике неисправностей, обслуживании косметологического оборудования и обычных проблемах, которые возникают у владельцев салонов и кабинетов.
 
+Система охлаждения28 октября 2026
+
+## [Почему важно регулярно менять водяной фильтр в диодном лазере?](https://lasertechservice.pl/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/)
+
+Трещина возле фильтра, утечка охлаждающей жидкости и перегрев лазера. Реальный случай ремонта Laser Tech Service в Гливице.
+
 Техническое состояние и сервис27 октября 2026
 
 ## [Лазеры-динозавры: почему возраст оборудования влияет на эффективность процедур?](https://lasertechservice.pl/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/)
@@ -162,6 +168,7 @@ Pharaon 1470, LSO Medical и OSYRIS: история обозначений, ос
 
 ## Связанные статьи
 
+- [Почему важно регулярно менять водяной фильтр в диодном лазере?](https://lasertechservice.pl/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/)
 - [Лазеры-динозавры: почему возраст оборудования влияет на эффективность процедур?](https://lasertechservice.pl/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/)
 - [Лазер простаивал целый год? Почему длительный простой может привести к дорогому ремонту системы охлаждения](https://lasertechservice.pl/ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/)
 - [Сгорел лазерный диод: обязательно ли покупать новую манипулу?](https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/)

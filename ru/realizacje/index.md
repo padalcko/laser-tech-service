@@ -16,6 +16,16 @@
 
 Каждое устройство требует индивидуальной диагностики. Ниже представлены отдельные примеры нашей работы.
 
+![Срочный ремонт диодного лазера 808 нм в Гливице](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/serwis-lasera-diodowego-gliwice-808nm.webp)
+
+ГливицеСрочный ремонт
+
+## [Перегрев диодного лазера в Гливице — срочная замена водяного фильтра](https://lasertechservice.pl/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/)
+
+Срочный выезд в Гливице из-за перегрева диодного лазера. Причиной стало треснувшее крепление возле водяного фильтра, через которое вытекала охлаждающая жидкость. Мы заменили фильтр и залили новую жидкость.
+
+[Посмотреть реализацию](https://lasertechservice.pl/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/)
+
 ![Лазер Sapphire перед сервисным обслуживанием](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-serwis-lasera.webp)
 
 ЛегницаСервис и обслуживание
@@ -314,6 +324,7 @@ RF Вакуум Диагностика Ремонт
 
 ## Связанные работы
 
+- [Перегрев диодного лазера в Гливице — срочная замена водяного фильтра](https://lasertechservice.pl/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/)
 - [Сервис лазера Sapphire — замена охлаждающей жидкости и обслуживание аппарата](https://lasertechservice.pl/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/)
 - [Ремонт системы охлаждения Lumenis LightSheer DESIRE — замена трубок и восстановление циркуляции](https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/)
 - [Замена сгоревшего лазерного диода — ремонт манипулы](https://lasertechservice.pl/ru/realizacje/zamena-sgorevshego-lazernogo-dioda/)
