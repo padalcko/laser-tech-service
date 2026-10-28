@@ -28,3 +28,22 @@ rendered = switcher.render(group, 'en', registry['languages'])
 assert 'English</a>' in rendered and f'href="{group["routes"]["en"]["url"]}"' in rendered
 assert '<span>EN</span>' in rendered and 'language-switcher__globe' in rendered and 'aria-current="page">English' in rendered
 print(f'PASS: {count} published dropdowns, EN publication gate and native language labels')
+
+# The error page has no alternate URLs: its three choices localize in place.
+import json
+import re
+error = (locales.ROOT / '404.html').read_text()
+component = switcher.PATTERN.findall(error)
+error_group = {'routes': {lang: {'url': '#', 'status': 'published'} for lang in registry['languages']}}
+assert component == [switcher.render(error_group, 'pl', registry['languages'])]
+assert 'data-error-localization' in error and 'src="/js/error-404.js"' in error
+assert 'name="robots" content="noindex, follow"' in error
+assert 'rel="canonical"' not in error
+assert '404.html' not in (locales.ROOT / 'sitemap.xml').read_text()
+data = json.loads(re.search(r'<script id="error-locales" type="application/json">(.*?)</script>', error, re.S)[1])
+for lang in registry['languages']:
+    assert data['text'][lang].keys() == data['text']['pl'].keys()
+    for source, target in data['routes'][lang].items():
+        group = next(g for g in registry['pages'] if g['routes'].get('pl', {}).get('url') == source)
+        assert group['routes'][lang] == {'url': target, 'status': 'published'}
+print('PASS: 404 local dropdown, dictionaries, registered destinations and noindex')

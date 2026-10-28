@@ -33,11 +33,7 @@ def main():
     registry = locales.load()
     targets = [(locales.ROOT / url.lstrip('/') / 'index.html', group, lang)
                for group in registry['pages'] for lang, url in locales.published(group).items()]
-    # 404 has no translation group: retain its existing home-language destinations.
-    home = next(g for g in registry['pages'] if g['type'] == 'home')
-    # 404 has no EN translation: do not present the EN home as a translated error page.
-    legacy_404 = {'routes': {lang: route for lang, route in home['routes'].items() if lang in ('pl', 'ru')}}
-    targets.append((locales.ROOT / '404.html', legacy_404, 'pl'))
+    # 404 owns its in-document PL/RU/EN switcher; it has no translated routes.
     stale = []
     for path, group, lang in targets:
         source = path.read_text()

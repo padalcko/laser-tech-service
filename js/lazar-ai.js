@@ -1,7 +1,13 @@
 /* Lazar AI: one shared PL/RU/EN client. No conversation content is persisted or logged. */
 (() => {
   'use strict';
+  const isErrorPage = document.body.hasAttribute('data-error-localization');
+  let cleanup = () => {};
+  function mount() {
   if (document.getElementById('lazar-root')) return;
+  const lifecycle = new AbortController();
+  let requestController;
+  cleanup = () => { lifecycle.abort(); requestController?.abort(); document.getElementById('lazar-root')?.remove(); };
   const config = Object.freeze({
     endpoint: 'https://n8n.raccoon-studio.com.ua/webhook/lazar-ai-chat',
     timeoutMs: 28000,
@@ -17,7 +23,7 @@
   // END LAZAR CONTACT ROUTES
   const routeLanguage = location.pathname.startsWith('/en/') ? 'en' : location.pathname.startsWith('/ru/') ? 'ru' : 'pl';
   // Keep EN visible, but fail closed for network sending until backend approval.
-  const sendingEnabled = language === routeLanguage && (language !== 'en' || config.enBackendApproved || document.documentElement.dataset.lazarEnabled === 'true');
+  const sendingEnabled = (isErrorPage || language === routeLanguage) && (language !== 'en' || config.enBackendApproved || document.documentElement.dataset.lazarEnabled === 'true');
   const translations = {
     en: {
       open: "Ask Lazar", close: 'Close chat', status: 'AI technical assistant',
@@ -196,9 +202,9 @@
     root.style.setProperty('--lazar-top', (vv ? vv.offsetTop : 0) + 'px');
     root.classList.toggle('lazar-root--compact', (vv ? vv.height : innerHeight) < 480);
   };
-  window.visualViewport?.addEventListener('resize', viewport);
-  window.visualViewport?.addEventListener('scroll', viewport);
-  window.addEventListener('resize', viewport); viewport();
+  window.visualViewport?.addEventListener('resize', viewport, { signal: lifecycle.signal });
+  window.visualViewport?.addEventListener('scroll', viewport, { signal: lifecycle.signal });
+  window.addEventListener('resize', viewport, { signal: lifecycle.signal }); viewport();
   launcher.addEventListener('click', () => {
     panel.hidden = false; launcher.hidden = true; launcher.setAttribute('aria-expanded', 'true');
     if (!greeted) { addMessage(t.greeting, 'assistant'); log.append(quick); greeted = true; }
@@ -207,7 +213,7 @@
   });
   const hide = (restoreFocus = true) => { panel.hidden = true; launcher.hidden = false; launcher.setAttribute('aria-expanded', 'false'); if (restoreFocus) launcher.focus({ preventScroll: true }); };
   close.addEventListener('click', () => hide());
-  document.addEventListener('keydown', e => { if (!panel.hidden && e.key === 'Escape') { e.preventDefault(); e.stopPropagation(); hide(); } });
+  document.addEventListener('keydown', e => { if (!panel.hidden && e.key === 'Escape') { e.preventDefault(); e.stopPropagation(); hide(); } }, { signal: lifecycle.signal });
   const busy = value => {
     pending = value; send.disabled = value; retry.disabled = value; input.readOnly = value;
     form.setAttribute('aria-busy', String(value));
@@ -237,6 +243,7 @@
     failed = { message }; input.value = ''; retry.hidden = true; feedback.textContent = t.waiting; busy(true);
     let timedOut = false;
     const controller = new AbortController();
+    requestController = controller;
     const timer = setTimeout(() => { timedOut = true; controller.abort(); }, config.timeoutMs);
     try {
       if (navigator.onLine === false) throw { category: 'offline' };
@@ -257,6 +264,7 @@
       quick.hidden = true;
       input.value = ''; failed = null; failures = 0; feedback.textContent = ''; retry.hidden = true;
     } catch (error) {
+      if (lifecycle.signal.aborted) return;
       const category = timedOut ? 'timeout' : navigator.onLine === false ? 'offline' : error.category || 'network';
       showFailure(category);
     } finally { clearTimeout(timer); busy(false); }
@@ -265,4 +273,7 @@
   retry.addEventListener('click', () => transmit(true));
   // Enter sends; Shift+Enter and IME composition retain normal multiline input.
   input.addEventListener('keydown', e => { if (e.key === 'Enter' && !e.shiftKey && !e.isComposing) { e.preventDefault(); transmit(false); } });
+  }
+  mount();
+  if (isErrorPage) document.addEventListener('error-language-change', () => { cleanup(); mount(); });
 })();
