@@ -1,0 +1,213 @@
+{
+  "pages": {
+    "pl": "partnerzy/index.html",
+    "ru": "ru/partnerzy/index.html",
+    "en": "en/partners/index.html"
+  },
+  "partners": [
+    {
+      "id": "annvi",
+      "priority": 50,
+      "url": "https://annvi.pl/",
+      "content": {
+        "pl": {
+          "title": "AnnVi",
+          "image_html": "<img src=\"/img/partnerzy/annvi-kosmetologia-podologia-wroclaw-logo.webp\"\n                  alt=\"Logo AnnVi — kosmetologia i podologia we Wrocławiu\" width=\"201\" height=\"127\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Gabinet kosmetologii i podologii.",
+            "+48 576 979 656<br />ul. Pochyła 23/1D, Wrocław"
+          ],
+          "badge": "Partner Laser Tech Service"
+        },
+        "ru": {
+          "title": "AnnVi",
+          "image_html": "<img src=\"/img/partnerzy/annvi-kosmetologia-podologia-wroclaw-logo.webp\"\n                  alt=\"Логотип AnnVi — косметология и подология во Вроцлаве\" width=\"201\" height=\"127\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Кабинет косметологии и подологии.",
+            "+48 576 979 656<br />ul. Pochyła 23/1D, Вроцлав"
+          ],
+          "badge": "Партнёр Laser Tech Service"
+        },
+        "en": {
+          "title": "AnnVi",
+          "image_html": "<img src=\"/img/partnerzy/annvi-kosmetologia-podologia-wroclaw-logo.webp\"\n                  alt=\"AnnVi logo — aesthetic treatments and podiatry in Wrocław\" width=\"201\" height=\"127\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Aesthetic treatments and podiatry clinic.",
+            "+48 576 979 656<br />ul. Pochyła 23/1D, Wrocław"
+          ],
+          "badge": "Laser Tech Service partner"
+        }
+      }
+    },
+    {
+      "id": "magia-kosmetyczna",
+      "priority": 40,
+      "url": "https://www.instagram.com/magiakosmetyczna/",
+      "content": {
+        "pl": {
+          "title": "Magia Kosmetyczna",
+          "image_html": "<img src=\"/img/partnerzy/magia-kosmetyczna-bydgoszcz-logo.webp\"\n                  alt=\"Logo Magia Kosmetyczna — salon kosmetyczny w Bydgoszczy\" width=\"100\" height=\"100\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Salon manicure, pedicure i depilacji.",
+            "+48 794 583 513<br />ul. Krasińskiego 19/1a, Bydgoszcz"
+          ],
+          "badge": "Partner Laser Tech Service"
+        },
+        "ru": {
+          "title": "Magia Kosmetyczna",
+          "image_html": "<img src=\"/img/partnerzy/magia-kosmetyczna-bydgoszcz-logo.webp\"\n                  alt=\"Логотип Magia Kosmetyczna — косметический салон в Быдгоще\" width=\"100\" height=\"100\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Салон маникюра, педикюра и депиляции.",
+            "+48 794 583 513<br />ul. Krasińskiego 19/1a, Быдгощ"
+          ],
+          "badge": "Партнёр Laser Tech Service"
+        },
+        "en": {
+          "title": "Magia Kosmetyczna",
+          "image_html": "<img src=\"/img/partnerzy/magia-kosmetyczna-bydgoszcz-logo.webp\"\n                  alt=\"Magia Kosmetyczna logo — beauty salon in Bydgoszcz\" width=\"100\" height=\"100\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Manicure, pedicure and hair removal salon.",
+            "+48 794 583 513<br />ul. Krasińskiego 19/1a, Bydgoszcz"
+          ],
+          "badge": "Laser Tech Service partner"
+        }
+      }
+    },
+    {
+      "id": "cuprum-laser-tech",
+      "priority": 30,
+      "url": "https://cuprumlasertech.com/",
+      "content": {
+        "pl": {
+          "title": "Cuprum Laser Tech",
+          "image_html": "<img src=\"/img/partnerzy/cuprum-laser-tech-laserowe-czyszczenie-logo.webp\"\n                  srcset=\"/img/partnerzy/cuprum-laser-tech-laserowe-czyszczenie-logo-201w.webp 201w, /img/partnerzy/cuprum-laser-tech-laserowe-czyszczenie-logo.webp 402w\" sizes=\"201px\"\n                  alt=\"Znak Cuprum Laser Tech z wizytówki — laserowe czyszczenie powierzchni\" width=\"402\" height=\"268\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Laserowe czyszczenie i renowacja powierzchni.",
+            "+48 889 894 894<br /><span class=\"partner-card__email\">biuro@cuprumlasertech.com</span>"
+          ],
+          "badge": "Partner Laser Tech Service"
+        },
+        "ru": {
+          "title": "Cuprum Laser Tech",
+          "image_html": "<img src=\"/img/partnerzy/cuprum-laser-tech-laserowe-czyszczenie-logo.webp\"\n                  srcset=\"/img/partnerzy/cuprum-laser-tech-laserowe-czyszczenie-logo-201w.webp 201w, /img/partnerzy/cuprum-laser-tech-laserowe-czyszczenie-logo.webp 402w\" sizes=\"201px\"\n                  alt=\"Знак Cuprum Laser Tech с визитки — лазерная очистка поверхностей\" width=\"402\" height=\"268\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Лазерная очистка и реставрация поверхностей.",
+            "+48 889 894 894<br /><span class=\"partner-card__email\">biuro@cuprumlasertech.com</span>"
+          ],
+          "badge": "Партнёр Laser Tech Service"
+        },
+        "en": {
+          "title": "Cuprum Laser Tech",
+          "image_html": "<img src=\"/img/partnerzy/cuprum-laser-tech-laserowe-czyszczenie-logo.webp\"\n                  srcset=\"/img/partnerzy/cuprum-laser-tech-laserowe-czyszczenie-logo-201w.webp 201w, /img/partnerzy/cuprum-laser-tech-laserowe-czyszczenie-logo.webp 402w\" sizes=\"201px\"\n                  alt=\"Cuprum Laser Tech mark from its business card — laser surface cleaning\" width=\"402\" height=\"268\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Laser cleaning and surface restoration.",
+            "+48 889 894 894<br /><span class=\"partner-card__email\">biuro@cuprumlasertech.com</span>"
+          ],
+          "badge": "Laser Tech Service partner"
+        }
+      }
+    },
+    {
+      "id": "cuprum-beauty-lab",
+      "priority": 20,
+      "url": "https://www.instagram.com/cuprum_beauty_lab/",
+      "content": {
+        "pl": {
+          "title": "Cuprum Beauty Lab",
+          "image_html": "<img src=\"/img/partnerzy/cuprum-beauty-lab-lubin-logo.webp\"\n                  srcset=\"/img/partnerzy/cuprum-beauty-lab-lubin-logo-201w.webp 201w, /img/partnerzy/cuprum-beauty-lab-lubin-logo.webp 402w\" sizes=\"201px\"\n                  alt=\"Nazwa Cuprum Beauty Lab z wizytówki — depilacja laserowa w Lubinie\" width=\"402\" height=\"196\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Gabinet depilacji laserem diodowym.",
+            "+48 661 977 526<br />ul. Grodzka 4, Lubin"
+          ],
+          "badge": "Partner Laser Tech Service"
+        },
+        "ru": {
+          "title": "Cuprum Beauty Lab",
+          "image_html": "<img src=\"/img/partnerzy/cuprum-beauty-lab-lubin-logo.webp\"\n                  srcset=\"/img/partnerzy/cuprum-beauty-lab-lubin-logo-201w.webp 201w, /img/partnerzy/cuprum-beauty-lab-lubin-logo.webp 402w\" sizes=\"201px\"\n                  alt=\"Название Cuprum Beauty Lab с визитки — лазерная эпиляция в Любине\" width=\"402\" height=\"196\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Кабинет эпиляции диодным лазером.",
+            "+48 661 977 526<br />ul. Grodzka 4, Любин"
+          ],
+          "badge": "Партнёр Laser Tech Service"
+        },
+        "en": {
+          "title": "Cuprum Beauty Lab",
+          "image_html": "<img src=\"/img/partnerzy/cuprum-beauty-lab-lubin-logo.webp\"\n                  srcset=\"/img/partnerzy/cuprum-beauty-lab-lubin-logo-201w.webp 201w, /img/partnerzy/cuprum-beauty-lab-lubin-logo.webp 402w\" sizes=\"201px\"\n                  alt=\"Cuprum Beauty Lab name from its business card — laser hair removal in Lubin\" width=\"402\" height=\"196\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Diode laser hair removal clinic.",
+            "+48 661 977 526<br />ul. Grodzka 4, Lubin"
+          ],
+          "badge": "Laser Tech Service partner"
+        }
+      }
+    },
+    {
+      "id": "lumine",
+      "priority": 10,
+      "url": "https://www.instagram.com/nataliiem_/",
+      "content": {
+        "pl": {
+          "title": "LUMINE — Beauty Studio & Tatuażu",
+          "image_html": "<img src=\"/img/partnerzy/lumine-beauty-studio-wroclaw-logo.webp\"\n                  srcset=\"/img/partnerzy/lumine-beauty-studio-wroclaw-logo-201w.webp 201w, /img/partnerzy/lumine-beauty-studio-wroclaw-logo.webp 402w\" sizes=\"201px\"\n                  alt=\"Logo LUMINE — Beauty Studio &amp; Tatuażu we Wrocławiu\" width=\"402\" height=\"230\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Profesjonalne studio beauty oferujące stylizację brwi, makijaż permanentny, tatuaże oraz depilację woskiem.",
+            "+38 099 074 90 91<br />Wrocław, Polska"
+          ],
+          "badge": "Partner Laser Tech Service"
+        },
+        "ru": {
+          "title": "LUMINE — Beauty Studio & Tatuażu",
+          "image_html": "<img src=\"/img/partnerzy/lumine-beauty-studio-wroclaw-logo.webp\"\n                  srcset=\"/img/partnerzy/lumine-beauty-studio-wroclaw-logo-201w.webp 201w, /img/partnerzy/lumine-beauty-studio-wroclaw-logo.webp 402w\" sizes=\"201px\"\n                  alt=\"Логотип LUMINE — Beauty Studio &amp; Tatuażu во Вроцлаве\" width=\"402\" height=\"230\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Студия красоты, специализирующаяся на оформлении бровей, перманентном макияже, татуировках и восковой депиляции.",
+            "+38 099 074 90 91<br />Вроцлав, Польша"
+          ],
+          "badge": "Партнёр Laser Tech Service"
+        },
+        "en": {
+          "title": "LUMINE — Beauty Studio & Tatuażu",
+          "image_html": "<img src=\"/img/partnerzy/lumine-beauty-studio-wroclaw-logo.webp\"\n                  srcset=\"/img/partnerzy/lumine-beauty-studio-wroclaw-logo-201w.webp 201w, /img/partnerzy/lumine-beauty-studio-wroclaw-logo.webp 402w\" sizes=\"201px\"\n                  alt=\"LUMINE logo — Beauty Studio &amp; Tatuażu in Wrocław\" width=\"402\" height=\"230\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Beauty studio offering eyebrow styling, permanent makeup, tattoos and waxing.",
+            "+38 099 074 90 91<br />Wrocław, Poland"
+          ],
+          "badge": "Laser Tech Service partner"
+        }
+      }
+    },
+    {
+      "id": "lts-market",
+      "priority": 60,
+      "url": "https://ltsmarket.pl/",
+      "content": {
+        "pl": {
+          "title": "LTS Market",
+          "image_html": "<img src=\"/img/partnerzy/lts-market-logo.webp\"\n                  srcset=\"/img/partnerzy/lts-market-logo-201w.webp 201w, /img/partnerzy/lts-market-logo.webp 402w\" sizes=\"201px\"\n                  alt=\"LTS Market – nowe i używane urządzenia kosmetologiczne\" width=\"402\" height=\"402\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Sprzedaż nowych i używanych urządzeń kosmetologicznych.",
+            "+48 575 254 431<br /><span class=\"partner-card__email\">sales@ltsmarket.pl</span>"
+          ],
+          "badge": "Partner Laser Tech Service"
+        },
+        "ru": {
+          "title": "LTS Market",
+          "image_html": "<img src=\"/img/partnerzy/lts-market-logo.webp\"\n                  srcset=\"/img/partnerzy/lts-market-logo-201w.webp 201w, /img/partnerzy/lts-market-logo.webp 402w\" sizes=\"201px\"\n                  alt=\"LTS Market – новое и подержанное косметологическое оборудование\" width=\"402\" height=\"402\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Продажа нового и подержанного косметологического оборудования.",
+            "+48 575 254 431<br /><span class=\"partner-card__email\">sales@ltsmarket.pl</span>"
+          ],
+          "badge": "Партнёр Laser Tech Service"
+        },
+        "en": {
+          "title": "LTS Market",
+          "image_html": "<img src=\"/img/partnerzy/lts-market-logo.webp\"\n                  srcset=\"/img/partnerzy/lts-market-logo-201w.webp 201w, /img/partnerzy/lts-market-logo.webp 402w\" sizes=\"201px\"\n                  alt=\"LTS Market – new and used aesthetic equipment\" width=\"402\" height=\"402\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Sales of new and used aesthetic equipment.",
+            "+48 575 254 431<br /><span class=\"partner-card__email\">sales@ltsmarket.pl</span>"
+          ],
+          "badge": "Laser Tech Service partner"
+        }
+      }
+    }
+  ]
+}

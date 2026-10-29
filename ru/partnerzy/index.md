@@ -16,6 +16,19 @@
 
 > Laser Tech Service рекомендует тех, чью работу и оборудование знает изнутри.
 
+![LTS Market – новое и подержанное косметологическое оборудование](https://lasertechservice.pl/img/partnerzy/lts-market-logo.webp)
+
+## LTS Market
+
+Продажа нового и подержанного косметологического оборудования.
+
++48 575 254 431
+sales@ltsmarket.pl
+
+Партнёр Laser Tech Service
+
+[Страница партнёра](https://ltsmarket.pl/)
+
 ![Логотип AnnVi — косметология и подология во Вроцлаве](https://lasertechservice.pl/img/partnerzy/annvi-kosmetologia-podologia-wroclaw-logo.webp)
 
 ## AnnVi

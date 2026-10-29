@@ -69,7 +69,7 @@
 .partners-grid {
     display: grid;
     grid-template-columns: minmax(0, 1fr);
-    grid-auto-rows: 1fr;
+    grid-auto-rows: auto;
     gap: 20px;
 }
 
@@ -157,6 +157,27 @@
     .partners-grid {
         grid-template-columns: repeat(2, minmax(0, 1fr));
         gap: 28px;
+    }
+
+    /* Share natural content heights only among cards in the same visual row. */
+    @supports (grid-template-rows: subgrid) {
+        .partner-card {
+            display: grid;
+            grid-row: span 5;
+            grid-template-rows: subgrid;
+            row-gap: 0;
+        }
+
+        .partner-card__content {
+            display: grid;
+            grid-row: span 4;
+            grid-template-rows: subgrid;
+            row-gap: 0;
+        }
+
+        .partner-card .partner-card__badge {
+            margin-top: 0;
+        }
     }
 }
 

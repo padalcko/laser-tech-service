@@ -16,6 +16,19 @@ Znamy urządzenia, na których pracują — dbamy o ich serwis i naprawy. Dzięk
 
 > Laser Tech Service poleca tych, których pracę i sprzęt zna od podszewki.
 
+![LTS Market – nowe i używane urządzenia kosmetologiczne](https://lasertechservice.pl/img/partnerzy/lts-market-logo.webp)
+
+## LTS Market
+
+Sprzedaż nowych i używanych urządzeń kosmetologicznych.
+
++48 575 254 431
+sales@ltsmarket.pl
+
+Partner Laser Tech Service
+
+[Strona partnera](https://ltsmarket.pl/)
+
 ![Logo AnnVi — kosmetologia i podologia we Wrocławiu](https://lasertechservice.pl/img/partnerzy/annvi-kosmetologia-podologia-wroclaw-logo.webp)
 
 ## AnnVi

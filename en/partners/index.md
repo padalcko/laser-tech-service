@@ -16,6 +16,19 @@ We know the equipment they use because we maintain and repair it. This gives us 
 
 > Laser Tech Service recommends businesses whose work and equipment we know first-hand.
 
+![LTS Market – new and used aesthetic equipment](https://lasertechservice.pl/img/partnerzy/lts-market-logo.webp)
+
+## LTS Market
+
+Sales of new and used aesthetic equipment.
+
++48 575 254 431
+sales@ltsmarket.pl
+
+Laser Tech Service partner
+
+[Partner website](https://ltsmarket.pl/)
+
 ![AnnVi logo — aesthetic treatments and podiatry in Wrocław](https://lasertechservice.pl/img/partnerzy/annvi-kosmetologia-podologia-wroclaw-logo.webp)
 
 ## AnnVi
