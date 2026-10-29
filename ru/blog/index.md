@@ -10,6 +10,12 @@
 
 Пишем о том, с чем сталкиваемся каждый день: ремонте лазеров, диагностике неисправностей, обслуживании косметологического оборудования и обычных проблемах, которые возникают у владельцев салонов и кабинетов.
 
+Электрические соединения29 октября 2026
+
+## [Почему слишком длинные провода могут вызывать перегрев лазерной манипулы?](https://lasertechservice.pl/ru/blog/peregrev-lazernoy-manipuly-dlinnye-provoda/)
+
+Как длина проводов влияет на перегрев лазерной головки, почему опасна самостоятельная пайка и как мы устранили проблему в Любине.
+
 Система охлаждения28 октября 2026
 
 ## [Почему важно регулярно менять водяной фильтр в диодном лазере?](https://lasertechservice.pl/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/)
@@ -168,6 +174,7 @@ Pharaon 1470, LSO Medical и OSYRIS: история обозначений, ос
 
 ## Связанные статьи
 
+- [Почему слишком длинные провода могут вызывать перегрев лазерной манипулы?](https://lasertechservice.pl/ru/blog/peregrev-lazernoy-manipuly-dlinnye-provoda/)
 - [Почему важно регулярно менять водяной фильтр в диодном лазере?](https://lasertechservice.pl/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/)
 - [Лазеры-динозавры: почему возраст оборудования влияет на эффективность процедур?](https://lasertechservice.pl/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/)
 - [Лазер простаивал целый год? Почему длительный простой может привести к дорогому ремонту системы охлаждения](https://lasertechservice.pl/ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/)

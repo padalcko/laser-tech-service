@@ -81,6 +81,12 @@ Partner Laser Tech Service
 
 [Strona partnera](https://www.instagram.com/nataliiem_/)
 
+## Sprawdzone urządzenia kosmetologiczne
+
+Szukasz używanego lasera do swojego salonu? W ofercie LTS Market znajdziesz również urządzenia po przeglądach technicznych wykonanych przez Laser Tech Service.
+
+[LTS Market – używane urządzenia kosmetologiczne](https://ltsmarket.pl/uzywane.html)
+
 ## Usługi serwisowe
 
 - [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)

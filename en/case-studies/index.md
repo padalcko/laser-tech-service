@@ -16,6 +16,16 @@ Actual service work: the job scope, completed repairs and photographic and video
 
 Every device needs individual diagnostics. Explore selected examples of our service work below.
 
+![Technician working on the wiring of an open laser handpiece](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/serwis-lasera-lubin-naprawa-manipuly.webp)
+
+LubinEmergency service
+
+## [Overheating Laser Handpiece Repair in Lubin — Diode Wiring Correction](https://lasertechservice.pl/en/case-studies/overheating-laser-handpiece-lubin-diode-wiring/)
+
+Laser Tech Service received a service request from Lubin, Poland, concerning an overheating laser hair removal handpiece.
+
+[View case study](https://lasertechservice.pl/en/case-studies/overheating-laser-handpiece-lubin-diode-wiring/)
+
 ![Emergency diode laser 808 nm service in Gliwice](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/serwis-lasera-diodowego-gliwice-808nm.webp)
 
 GliwiceEmergency service
@@ -324,6 +334,7 @@ We service diode lasers, Nd:YAG, IPL, CO₂ and other equipment used in aestheti
 
 ## Related repairs
 
+- [Overheating Laser Handpiece Repair in Lubin — Diode Wiring Correction](https://lasertechservice.pl/en/case-studies/overheating-laser-handpiece-lubin-diode-wiring/)
 - [Diode laser overheating in Gliwice — emergency water filter replacement](https://lasertechservice.pl/en/case-studies/diode-laser-overheating-gliwice-water-filter/)
 - [Sapphire Laser Service — Coolant Replacement and Equipment Maintenance](https://lasertechservice.pl/en/case-studies/sapphire-coolant-replacement-maintenance/)
 - [Lumenis LightSheer DESIRE Cooling System Repair – Tubing Replacement and Coolant Circulation Restoration](https://lasertechservice.pl/en/case-studies/lightsheer-desire-cooling-tubing-repair-wroclaw/)

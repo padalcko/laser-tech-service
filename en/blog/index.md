@@ -10,6 +10,12 @@ Other language version: [Polski](https://lasertechservice.pl/blog/), [Русск
 
 Practical knowledge about servicing, diagnostics, repairs and operation of laser and aesthetic equipment.
 
+Electrical connections29 October 2026
+
+## [Can Excessively Long Wires Cause a Laser Handpiece to Overheat?](https://lasertechservice.pl/en/blog/laser-handpiece-overheating-long-wires/)
+
+Can long wires cause laser handpiece overheating? Learn about electrical resistance, soldering risks and a real repair in Lubin.
+
 Cooling system28 October 2026
 
 ## [Why Is Regular Water Filter Replacement Important in Diode Lasers?](https://lasertechservice.pl/en/blog/diode-laser-water-filter-replacement/)
@@ -168,6 +174,7 @@ Warranty, work documentation, service history, prompt on-site visits and respons
 
 ## Related articles
 
+- [Can Excessively Long Wires Cause a Laser Handpiece to Overheat?](https://lasertechservice.pl/en/blog/laser-handpiece-overheating-long-wires/)
 - [Why Is Regular Water Filter Replacement Important in Diode Lasers?](https://lasertechservice.pl/en/blog/diode-laser-water-filter-replacement/)
 - [Dinosaur Lasers: Why Equipment Age Matters for Treatment Effectiveness](https://lasertechservice.pl/en/blog/dinosaur-lasers-age-technical-condition/)
 - [Laser Unused for a Year? How Long Downtime Can Lead to Expensive Cooling System Repairs](https://lasertechservice.pl/en/blog/laser-unused-for-a-year-cooling-system/)

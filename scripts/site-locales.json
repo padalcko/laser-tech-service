@@ -1455,6 +1455,44 @@
           "status": "published"
         }
       }
+    },
+    {
+      "id": "realizacje:przegrzewanie-glowicy-lasera-lubin-naprawa-przewodow",
+      "type": "case-study",
+      "x_default": "/realizacje/przegrzewanie-glowicy-lasera-lubin-naprawa-przewodow/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/przegrzewanie-glowicy-lasera-lubin-naprawa-przewodow/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/peregrev-lazernoy-manipuly-lyubin-remont-provodov/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/overheating-laser-handpiece-lubin-diode-wiring/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody",
+      "type": "article",
+      "x_default": "/blog/przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody/",
+      "routes": {
+        "pl": {
+          "url": "/blog/przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/peregrev-lazernoy-manipuly-dlinnye-provoda/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/laser-handpiece-overheating-long-wires/",
+          "status": "published"
+        }
+      }
     }
   ]
 }

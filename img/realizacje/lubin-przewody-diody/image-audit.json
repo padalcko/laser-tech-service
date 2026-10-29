@@ -1,0 +1,106 @@
+[
+  {
+    "source": "IMG_7808.heic",
+    "source_width": 3213,
+    "source_height": 5712,
+    "processing": "Full frame; mild neutral white balance, brightness 1.025, contrast 1.025, unsharp mask after resize; no generated or removed details; metadata removed.",
+    "files": [
+      {
+        "path": "/img/realizacje/lubin-przewody-diody/serwis-lasera-lubin-naprawa-manipuly-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 47996
+      },
+      {
+        "path": "/img/realizacje/lubin-przewody-diody/serwis-lasera-lubin-naprawa-manipuly-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 95686
+      },
+      {
+        "path": "/img/realizacje/lubin-przewody-diody/serwis-lasera-lubin-naprawa-manipuly.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 205202
+      }
+    ]
+  },
+  {
+    "source": "IMG_7809.heic",
+    "source_width": 2268,
+    "source_height": 4032,
+    "processing": "Full frame; mild neutral white balance, brightness 1.025, contrast 1.025, unsharp mask after resize; no generated or removed details; metadata removed.",
+    "files": [
+      {
+        "path": "/img/realizacje/lubin-przewody-diody/laser-diodowy-przewody-polaczenie-lubin-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 39908
+      },
+      {
+        "path": "/img/realizacje/lubin-przewody-diody/laser-diodowy-przewody-polaczenie-lubin-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 79944
+      },
+      {
+        "path": "/img/realizacje/lubin-przewody-diody/laser-diodowy-przewody-polaczenie-lubin.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 164258
+      }
+    ]
+  },
+  {
+    "source": "IMG_7810.heic",
+    "source_width": 3214,
+    "source_height": 5712,
+    "processing": "Full frame; mild neutral white balance, brightness 1.025, contrast 1.025, unsharp mask after resize; no generated or removed details; metadata removed.",
+    "files": [
+      {
+        "path": "/img/realizacje/lubin-przewody-diody/naprawa-polaczenia-diody-laserowej-lubin-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 61264
+      },
+      {
+        "path": "/img/realizacje/lubin-przewody-diody/naprawa-polaczenia-diody-laserowej-lubin-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 120088
+      },
+      {
+        "path": "/img/realizacje/lubin-przewody-diody/naprawa-polaczenia-diody-laserowej-lubin.webp",
+        "width": 1280,
+        "height": 2275,
+        "bytes": 228596
+      }
+    ]
+  },
+  {
+    "source": "IMG_7811.heic",
+    "source_width": 3213,
+    "source_height": 5712,
+    "processing": "Full frame; mild neutral white balance, brightness 1.025, contrast 1.025, unsharp mask after resize; no generated or removed details; metadata removed.",
+    "files": [
+      {
+        "path": "/img/realizacje/lubin-przewody-diody/naprawiona-manipula-lasera-lubin-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 29216
+      },
+      {
+        "path": "/img/realizacje/lubin-przewody-diody/naprawiona-manipula-lasera-lubin-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 49760
+      },
+      {
+        "path": "/img/realizacje/lubin-przewody-diody/naprawiona-manipula-lasera-lubin.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 93426
+      }
+    ]
+  }
+]

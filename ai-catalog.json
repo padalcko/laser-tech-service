@@ -1377,6 +1377,22 @@
       ]
     },
     {
+      "id": "article:blog:przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody",
+      "title": "Czy zbyt długie przewody mogą powodować przegrzewanie głowicy lasera?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody/",
+      "description": "Czy zbyt długie przewody mogą przegrzewać głowicę lasera? Poznaj przyczyny, ryzyko samodzielnej naprawy i przypadek serwisowy z Lubina.",
+      "topics": [
+        "Połączenia elektryczne"
+      ],
+      "datePublished": "2026-10-29",
+      "dateModified": "2026-10-29",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:naprawa-zasilaczy-i-elektroniki"
+      ]
+    },
+    {
       "id": "article:blog:serwis-glowicy-lasera-diodowego-szczelnosc-optyka",
       "title": "Serwis głowicy lasera diodowego – dlaczego szczelność i czysta optyka są tak ważne?",
       "language": "pl",
@@ -1635,6 +1651,22 @@
       "dateModified": "2026-10-12",
       "related_services": [
         "service:uslugi:diagnostyka-laserow-diodowych"
+      ]
+    },
+    {
+      "id": "article:en:blog:laser-handpiece-overheating-long-wires",
+      "title": "Can Excessively Long Wires Cause a Laser Handpiece to Overheat?",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/laser-handpiece-overheating-long-wires/",
+      "description": "Can long wires cause laser handpiece overheating? Learn about electrical resistance, soldering risks and a real repair in Lubin.",
+      "topics": [
+        "Electrical connections"
+      ],
+      "datePublished": "2026-10-29",
+      "dateModified": "2026-10-29",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:naprawa-zasilaczy-i-elektroniki"
       ]
     },
     {
@@ -1971,6 +2003,22 @@
       "dateModified": "2026-10-12",
       "related_services": [
         "service:uslugi:diagnostyka-laserow-diodowych"
+      ]
+    },
+    {
+      "id": "article:ru:blog:peregrev-lazernoy-manipuly-dlinnye-provoda",
+      "title": "Почему слишком длинные провода могут вызывать перегрев лазерной манипулы?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/peregrev-lazernoy-manipuly-dlinnye-provoda/",
+      "description": "Как длина проводов влияет на перегрев лазерной головки, почему опасна самостоятельная пайка и как мы устранили проблему в Любине.",
+      "topics": [
+        "Электрические соединения"
+      ],
+      "datePublished": "2026-10-29",
+      "dateModified": "2026-10-29",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:naprawa-zasilaczy-i-elektroniki"
       ]
     },
     {
@@ -2545,6 +2593,30 @@
       "result": []
     },
     {
+      "id": "case:en:case-studies:overheating-laser-handpiece-lubin-diode-wiring",
+      "title": "Overheating Laser Handpiece Repair in Lubin — Diode Wiring Correction",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/case-studies/overheating-laser-handpiece-lubin-diode-wiring/",
+      "description": "Laser handpiece repair in Lubin, Poland. Technicians shortened excessive wiring and reconnected the laser diode to resolve overheating.",
+      "city": "Lubin",
+      "equipment_type": "Laser hair removal device",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Laser hair removal device"
+      },
+      "fault": [
+        "Laser Tech Service received a service request from Lubin, Poland, concerning an overheating laser hair removal handpiece."
+      ],
+      "performed_work": [
+        "Our technicians shortened the wires and reconnected the laser diode correctly.",
+        "After reconnecting the diode, our technicians checked the handpiece operation."
+      ],
+      "result": [
+        "Following the repair, the handpiece stopped overheating and the device returned to normal operation.",
+        "Laser Tech Service provides professional laser servicing, maintenance and repairs throughout Poland."
+      ]
+    },
+    {
       "id": "case:en:case-studies:peltier-replacement-nd-yag-laser-repair",
       "title": "One device, two faults — Peltier module replacement and Nd:YAG laser repair",
       "language": "en",
@@ -2917,6 +2989,30 @@
       ],
       "performed_work": [],
       "result": []
+    },
+    {
+      "id": "case:realizacje:przegrzewanie-glowicy-lasera-lubin-naprawa-przewodow",
+      "title": "Przegrzewanie głowicy lasera w Lubinie — naprawa przewodów diody laserowej",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/przegrzewanie-glowicy-lasera-lubin-naprawa-przewodow/",
+      "description": "Serwis lasera w Lubinie. Skrócenie przewodów i ponowne podłączenie diody laserowej. Skuteczna naprawa przegrzewającej się głowicy.",
+      "city": "Lubin",
+      "equipment_type": "Laser do depilacji",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Laser do depilacji"
+      },
+      "fault": [
+        "Do Laser Tech Service zgłosił się klient z Lubina z problemem przegrzewającej się głowicy lasera do depilacji. Urządzenie wymagało interwencji technicznej."
+      ],
+      "performed_work": [
+        "Nasi specjaliści skrócili przewody, przygotowali połączenia i ponownie podłączyli diodę laserową.",
+        "Po ponownym podłączeniu sprawdziliśmy pracę manipuły."
+      ],
+      "result": [
+        "Po wykonaniu prac głowica lasera przestała się przegrzewać i urządzenie ponownie działa prawidłowo.",
+        "Laser Tech Service realizuje profesjonalny serwis laserów, naprawę laserów oraz regenerację laserów kosmetycznych na terenie Polski."
+      ]
     },
     {
       "id": "case:realizacje:przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra",
@@ -3381,6 +3477,30 @@
       ]
     },
     {
+      "id": "case:ru:realizacje:peregrev-lazernoy-manipuly-lyubin-remont-provodov",
+      "title": "Перегрев лазерной манипулы в Любине — ремонт подключения лазерного диода",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/peregrev-lazernoy-manipuly-lyubin-remont-provodov/",
+      "description": "Ремонт лазерной головки в Любине. Укорочены провода, восстановлено подключение лазерного диода, устранён перегрев.",
+      "city": "Любин",
+      "equipment_type": "Лазер для эпиляции",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Лазер для эпиляции"
+      },
+      "fault": [
+        "В Laser Tech Service поступила заявка из города Любин. Во время работы перегревалась головка лазера для эпиляции."
+      ],
+      "performed_work": [
+        "Мастера Laser Tech Service выехали к клиенту, укоротили провода и заново подключили лазерный диод.",
+        "После повторного подключения мастера проверили работу манипулы."
+      ],
+      "result": [
+        "После ремонта манипула перестала перегреваться. Аппарат снова работает нормально.",
+        "Laser Tech Service выполняет диагностику, обслуживание и ремонт лазерного оборудования с выездом к клиентам по Польше."
+      ]
+    },
+    {
       "id": "case:ru:realizacje:pilna-naprawa-lasera-co2-poznan",
       "title": "Срочный ремонт CO₂-аппарата в Познани с выездом к клиенту",
       "language": "ru",
@@ -3817,6 +3937,7 @@
       "https://lasertechservice.pl/blog/pharaon-1470-historia-technologia-lasera/": "https://lasertechservice.pl/blog/pharaon-1470-historia-technologia-lasera/index.md",
       "https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/": "https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/index.md",
       "https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/": "https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/index.md",
+      "https://lasertechservice.pl/blog/przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody/": "https://lasertechservice.pl/blog/przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody/index.md",
       "https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/": "https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/index.md",
       "https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/": "https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/index.md",
       "https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/": "https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/index.md",
@@ -3838,6 +3959,7 @@
       "https://lasertechservice.pl/en/blog/hifu-technology-applications-service/": "https://lasertechservice.pl/en/blog/hifu-technology-applications-service/index.md",
       "https://lasertechservice.pl/en/blog/how-to-buy-a-used-hair-removal-laser/": "https://lasertechservice.pl/en/blog/how-to-buy-a-used-hair-removal-laser/index.md",
       "https://lasertechservice.pl/en/blog/laser-cooling-system-cleaning-overheating/": "https://lasertechservice.pl/en/blog/laser-cooling-system-cleaning-overheating/index.md",
+      "https://lasertechservice.pl/en/blog/laser-handpiece-overheating-long-wires/": "https://lasertechservice.pl/en/blog/laser-handpiece-overheating-long-wires/index.md",
       "https://lasertechservice.pl/en/blog/laser-tech-service-zlota-firma-2026/": "https://lasertechservice.pl/en/blog/laser-tech-service-zlota-firma-2026/index.md",
       "https://lasertechservice.pl/en/blog/laser-unused-for-a-year-cooling-system/": "https://lasertechservice.pl/en/blog/laser-unused-for-a-year-cooling-system/index.md",
       "https://lasertechservice.pl/en/blog/lightsheer-desire-cooling-reliability/": "https://lasertechservice.pl/en/blog/lightsheer-desire-cooling-reliability/index.md",
@@ -3871,6 +3993,7 @@
       "https://lasertechservice.pl/en/case-studies/multipolar-rf-repair-lublin/": "https://lasertechservice.pl/en/case-studies/multipolar-rf-repair-lublin/index.md",
       "https://lasertechservice.pl/en/case-studies/nd-yag-tattoo-removal-laser-filter-service/": "https://lasertechservice.pl/en/case-studies/nd-yag-tattoo-removal-laser-filter-service/index.md",
       "https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-repair-wroclaw/": "https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-repair-wroclaw/index.md",
+      "https://lasertechservice.pl/en/case-studies/overheating-laser-handpiece-lubin-diode-wiring/": "https://lasertechservice.pl/en/case-studies/overheating-laser-handpiece-lubin-diode-wiring/index.md",
       "https://lasertechservice.pl/en/case-studies/peltier-replacement-nd-yag-laser-repair/": "https://lasertechservice.pl/en/case-studies/peltier-replacement-nd-yag-laser-repair/index.md",
       "https://lasertechservice.pl/en/case-studies/pharaon-1470-maintenance-wroclaw/": "https://lasertechservice.pl/en/case-studies/pharaon-1470-maintenance-wroclaw/index.md",
       "https://lasertechservice.pl/en/case-studies/rsl-massage-device-repair-warsaw/": "https://lasertechservice.pl/en/case-studies/rsl-massage-device-repair-warsaw/index.md",
@@ -3912,6 +4035,7 @@
       "https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/": "https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/index.md",
       "https://lasertechservice.pl/realizacje/przeglad-serwis-pharaon-1470-wroclaw/": "https://lasertechservice.pl/realizacje/przeglad-serwis-pharaon-1470-wroclaw/index.md",
       "https://lasertechservice.pl/realizacje/przeglad-techniczny-lasera-do-depilacji/": "https://lasertechservice.pl/realizacje/przeglad-techniczny-lasera-do-depilacji/index.md",
+      "https://lasertechservice.pl/realizacje/przegrzewanie-glowicy-lasera-lubin-naprawa-przewodow/": "https://lasertechservice.pl/realizacje/przegrzewanie-glowicy-lasera-lubin-naprawa-przewodow/index.md",
       "https://lasertechservice.pl/realizacje/przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra/": "https://lasertechservice.pl/realizacje/przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra/index.md",
       "https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/": "https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/index.md",
       "https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/": "https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/index.md",
@@ -3941,6 +4065,7 @@
       "https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/": "https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/index.md",
       "https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/": "https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/index.md",
       "https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/": "https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/index.md",
+      "https://lasertechservice.pl/ru/blog/peregrev-lazernoy-manipuly-dlinnye-provoda/": "https://lasertechservice.pl/ru/blog/peregrev-lazernoy-manipuly-dlinnye-provoda/index.md",
       "https://lasertechservice.pl/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/": "https://lasertechservice.pl/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/index.md",
       "https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/": "https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/index.md",
       "https://lasertechservice.pl/ru/blog/pochemu-malenkiy-kabel-sozdayot-bolshie-problemy/": "https://lasertechservice.pl/ru/blog/pochemu-malenkiy-kabel-sozdayot-bolshie-problemy/index.md",
@@ -3963,6 +4088,7 @@
       "https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/": "https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/index.md",
       "https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/": "https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/index.md",
       "https://lasertechservice.pl/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/": "https://lasertechservice.pl/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/index.md",
+      "https://lasertechservice.pl/ru/realizacje/peregrev-lazernoy-manipuly-lyubin-remont-provodov/": "https://lasertechservice.pl/ru/realizacje/peregrev-lazernoy-manipuly-lyubin-remont-provodov/index.md",
       "https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/": "https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/index.md",
       "https://lasertechservice.pl/ru/realizacje/przeglad-estelase-power-p808l/": "https://lasertechservice.pl/ru/realizacje/przeglad-estelase-power-p808l/index.md",
       "https://lasertechservice.pl/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/": "https://lasertechservice.pl/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/index.md",
@@ -4019,5 +4145,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-10-28T14:14:54Z"
+  "generated_at": "2026-10-29T09:58:30Z"
 }

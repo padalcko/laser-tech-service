@@ -81,6 +81,12 @@ Laser Tech Service partner
 
 [Partner website](https://www.instagram.com/nataliiem_/)
 
+## Professionally serviced used aesthetic equipment
+
+Looking for a used aesthetic laser? Explore selected pre-owned devices available through LTS Market, including equipment serviced by Laser Tech Service.
+
+[LTS Market – Used Aesthetic Equipment](https://ltsmarket.pl/en/uzywane.html)
+
 ## Service offerings
 
 - [Professional laser and aesthetic equipment servicing](https://lasertechservice.pl/en/services/)

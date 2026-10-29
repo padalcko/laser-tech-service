@@ -16,6 +16,16 @@
 
 Каждое устройство требует индивидуальной диагностики. Ниже представлены отдельные примеры нашей работы.
 
+![Мастер работает с проводами открытой лазерной манипулы](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/serwis-lasera-lubin-naprawa-manipuly.webp)
+
+ЛюбинСрочный ремонт
+
+## [Перегрев лазерной манипулы в Любине — ремонт подключения лазерного диода](https://lasertechservice.pl/ru/realizacje/peregrev-lazernoy-manipuly-lyubin-remont-provodov/)
+
+В Laser Tech Service поступила заявка из города Любин. Во время работы перегревалась головка лазера для эпиляции.
+
+[Посмотреть реализацию](https://lasertechservice.pl/ru/realizacje/peregrev-lazernoy-manipuly-lyubin-remont-provodov/)
+
 ![Срочный ремонт диодного лазера 808 нм в Гливице](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/serwis-lasera-diodowego-gliwice-808nm.webp)
 
 ГливицеСрочный ремонт
@@ -324,6 +334,7 @@ RF Вакуум Диагностика Ремонт
 
 ## Связанные работы
 
+- [Перегрев лазерной манипулы в Любине — ремонт подключения лазерного диода](https://lasertechservice.pl/ru/realizacje/peregrev-lazernoy-manipuly-lyubin-remont-provodov/)
 - [Перегрев диодного лазера в Гливице — срочная замена водяного фильтра](https://lasertechservice.pl/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/)
 - [Сервис лазера Sapphire — замена охлаждающей жидкости и обслуживание аппарата](https://lasertechservice.pl/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/)
 - [Ремонт системы охлаждения Lumenis LightSheer DESIRE — замена трубок и восстановление циркуляции](https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/)
