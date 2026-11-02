@@ -208,6 +208,40 @@
           "badge": "Laser Tech Service partner"
         }
       }
+    },
+    {
+      "id": "pro-beauty-esen",
+      "priority": 70,
+      "url": "https://www.instagram.com/pro_beauty.esen_/",
+      "content": {
+        "pl": {
+          "title": "Pro Beauty Esen",
+          "image_html": "<img src=\"/img/partnerzy/pro-beauty-esen-instagram.webp\" alt=\"Zdjęcie profilowe Pro Beauty Esen z Instagramu\" width=\"100\" height=\"100\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Depilacja laserowa, manicure, pedicure oraz stylizacja brwi i rzęs.",
+            "Svatoplukova 42, Prostějov"
+          ],
+          "badge": "Partner Laser Tech Service"
+        },
+        "ru": {
+          "title": "Pro Beauty Esen",
+          "image_html": "<img src=\"/img/partnerzy/pro-beauty-esen-instagram.webp\" alt=\"Фото профиля Pro Beauty Esen из Instagram\" width=\"100\" height=\"100\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Лазерная эпиляция, маникюр, педикюр, оформление бровей и ресниц.",
+            "Svatoplukova 42, Prostějov"
+          ],
+          "badge": "Партнёр Laser Tech Service"
+        },
+        "en": {
+          "title": "Pro Beauty Esen",
+          "image_html": "<img src=\"/img/partnerzy/pro-beauty-esen-instagram.webp\" alt=\"Pro Beauty Esen Instagram profile picture\" width=\"100\" height=\"100\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Laser hair removal, manicures, pedicures, and brow and lash styling.",
+            "Svatoplukova 42, Prostějov"
+          ],
+          "badge": "Laser Tech Service partner"
+        }
+      }
     }
   ]
 }

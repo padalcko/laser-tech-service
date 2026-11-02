@@ -13,13 +13,13 @@ spec.loader.exec_module(builder)
 data = builder.load()
 assert not builder.build(check=True)
 ordered = sorted(data['partners'], key=lambda p: p['priority'], reverse=True)
-assert [p['id'] for p in ordered] == ['lts-market', 'annvi', 'magia-kosmetyczna', 'cuprum-laser-tech', 'cuprum-beauty-lab', 'lumine']
+assert [p['id'] for p in ordered] == ['pro-beauty-esen', 'lts-market', 'annvi', 'magia-kosmetyczna', 'cuprum-laser-tech', 'cuprum-beauty-lab', 'lumine']
 for lang, filename in data['pages'].items():
     source = (ROOT / filename).read_text()
     cards = re.findall(r'<a class="partner-card".*?</a>', source, re.S)
     assert len(cards) == len(ordered)
     assert cards == [builder.render(p, lang).lstrip() for p in ordered]
-    first = cards[0]
+    first = cards[1]
     assert 'href="https://ltsmarket.pl/"' in first
     assert 'target="_blank" rel="noopener noreferrer"' in first
     assert 'nofollow' not in first and 'ltsmarket.eu' not in first
@@ -35,9 +35,15 @@ for lang, filename in data['pages'].items():
         json.loads(schema)
     # Compare the existing cards and all non-grid HTML against the baseline commit.
     previous = subprocess.check_output(['git', 'show', 'HEAD:' + filename], cwd=ROOT, text=True)
-    if 'href="https://ltsmarket.pl/"' not in '\n'.join(re.findall(r'<a class="partner-card".*?</a>', previous, re.S)):
-        assert re.findall(r'<a class="partner-card".*?</a>', previous, re.S) == cards[1:]
-        assert builder.BLOCK.sub('GRID', previous) == builder.BLOCK.sub('GRID', source)
+    previous_cards = re.findall(r'<a class="partner-card".*?</a>', previous, re.S)
+    current_existing = [card for card in cards if 'https://www.instagram.com/pro_beauty.esen_/' not in card]
+    baseline_existing = [card for card in previous_cards if 'https://www.instagram.com/pro_beauty.esen_/' not in card]
+    assert baseline_existing == current_existing
+    assert builder.BLOCK.sub('GRID', previous) == builder.BLOCK.sub('GRID', source)
+    assert 'href="https://www.instagram.com/pro_beauty.esen_/"' in cards[0]
+    assert 'target="_blank" rel="noopener noreferrer"' in cards[0]
+    assert 'Svatoplukova 42, Prostějov' in cards[0]
+    assert 'pro-beauty-esen-instagram.webp' in cards[0]
 # Changing priority must be detected in every locale without writing any HTML.
 snapshots = {p: (ROOT / p).read_bytes() for p in data['pages'].values()}
 original_load = builder.load
@@ -48,4 +54,4 @@ assert set(builder.build(check=True)) == set(data['pages'].values())
 builder.load = original_load
 assert all((ROOT / p).read_bytes() == raw for p, raw in snapshots.items())
 assert not builder.build(check=True)
-print('PASS: three localized pages, priority mutation/read-only checks, six cards each, official links, contacts, WebP, schema and preserved existing markup')
+print('PASS: three localized pages, priority mutation/read-only checks, seven cards each, official links, contacts, WebP, schema and preserved existing markup')

@@ -1200,6 +1200,23 @@
       ]
     },
     {
+      "id": "article:blog:dlaczego-przewody-chlodzenia-glowicy-przeciekaja",
+      "title": "Dlaczego przewody chłodzenia w głowicy lasera pękają i zaczynają przeciekać?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/",
+      "description": "Dlaczego rurki chłodzenia tracą szczelność, kiedy wymienić osłonę i co zrobić przy wycieku? Wyjaśnienie na przykładzie naprawy dla klienta z Pragi.",
+      "topics": [
+        "Układ chłodzenia"
+      ],
+      "datePublished": "2026-11-02",
+      "dateModified": "2026-11-02",
+      "related_services": [
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow",
+        "service:uslugi:serwis-pogwarancyjny"
+      ]
+    },
+    {
       "id": "article:blog:dlaczego-warto-korzystac-z-profesjonalnego-serwisu",
       "title": "Dlaczego warto korzystać z profesjonalnego serwisu urządzeń kosmetycznych?",
       "language": "pl",
@@ -1833,6 +1850,23 @@
       "related_services": []
     },
     {
+      "id": "article:en:blog:why-handpiece-cooling-tubes-leak",
+      "title": "Why Do Cooling Tubes Inside Laser Handpieces Deteriorate and Leak?",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/why-handpiece-cooling-tubes-leak/",
+      "description": "Why cooling tubes deteriorate, why replacing the sleeve alone may not help, and what to do about a leak. A repair example from Laser Tech Service.",
+      "topics": [
+        "Cooling system"
+      ],
+      "datePublished": "2026-11-02",
+      "dateModified": "2026-11-02",
+      "related_services": [
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow",
+        "service:uslugi:serwis-pogwarancyjny"
+      ]
+    },
+    {
       "id": "article:en:blog:why-laser-diode-modules-fail",
       "title": "Why do diode modules fail in hair removal lasers? Causes, symptoms and consequences",
       "language": "en",
@@ -2104,6 +2138,23 @@
       "datePublished": "2026-10-05",
       "dateModified": "2026-10-05",
       "related_services": []
+    },
+    {
+      "id": "article:ru:blog:pochemu-protekayut-trubki-ohlazhdeniya-manipuly",
+      "title": "Почему стареют и протекают трубки охлаждения внутри лазерной манипулы?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/",
+      "description": "Почему стареют трубки охлаждения, достаточно ли заменить гофру и что делать при утечке? Объясняем на примере ремонта для клиента из Праги.",
+      "topics": [
+        "Система охлаждения"
+      ],
+      "datePublished": "2026-11-02",
+      "dateModified": "2026-11-02",
+      "related_services": [
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow",
+        "service:uslugi:serwis-pogwarancyjny"
+      ]
     },
     {
       "id": "article:ru:blog:pochemu-sgorayut-diodnye-moduli-v-lazerah",
@@ -2515,6 +2566,28 @@
       "fault": [],
       "performed_work": [],
       "result": []
+    },
+    {
+      "id": "case:en:case-studies:handpiece-cooling-leak-repair-prague-customer",
+      "title": "Laser Handpiece Cooling Leak Repair — Customer from Prague",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/case-studies/handpiece-cooling-leak-repair-prague-customer/",
+      "description": "A Prague customer brought a device with a coolant leak. We replaced tubes and the sleeve, reassembled the handpiece and serviced it. Six-month work warranty.",
+      "city": "Customer from Prague, Czech Republic",
+      "equipment_type": "Cooling system",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Cooling tube and protective sleeve replacement"
+      },
+      "fault": [],
+      "performed_work": [
+        "We replaced the damaged cooling tubes, installed a new protective sleeve, and carefully reassembled the handpiece and treatment head to restore a secure fit.",
+        "The device also received internal dust cleaning, general maintenance, and fresh coolant."
+      ],
+      "result": [
+        "After servicing, the equipment was checked and confirmed to be operational, with the leak resolved.",
+        "Laser Tech Service provides a six-month warranty on the completed repair work."
+      ]
     },
     {
       "id": "case:en:case-studies:hifu-kimed-k1-w1601-service-gorlitz",
@@ -3017,6 +3090,30 @@
       ],
       "performed_work": [],
       "result": []
+    },
+    {
+      "id": "case:realizacje:naprawa-wycieku-chlodzenia-glowicy-klient-praga",
+      "title": "Naprawa wycieku chłodziwa z głowicy lasera kosmetycznego — klient z Pragi",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/",
+      "description": "Klient z Pragi przywiózł aparat z wyciekiem. Wymieniliśmy przewody chłodzenia i osłonę, złożyliśmy głowicę i wykonaliśmy przegląd. Gwarancja 6 miesięcy.",
+      "city": "Klient z Pragi, Czechy",
+      "equipment_type": "Aparat kosmetologiczny",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Wymiana przewodów i osłony głowicy"
+      },
+      "fault": [
+        "Problemem był wyciek cieczy chłodzącej z karbowanej osłony przewodu głowicy. Klient poprosił również o ponowne, stabilne złożenie poluzowanej głowicy, wymianę zużytej osłony oraz kompleksowy przegląd techniczny urządzenia."
+      ],
+      "performed_work": [
+        "W ramach naprawy wymieniliśmy przewody chłodzące i osłonę karbowaną, ponownie złożyliśmy głowicę oraz ustabilizowaliśmy jej konstrukcję. Następnie oczyściliśmy wnętrze urządzenia z nagromadzonego kurzu, wykonaliśmy przegląd techniczny i wymieniliśmy płyn chłodzący.",
+        "Po zakończeniu prac urządzenie zostało sprawdzone. Wyciek został usunięty, a laser działa prawidłowo."
+      ],
+      "result": [
+        "To kolejny przykład pokazujący, że profesjonalny serwis laserów, regeneracja laserów i naprawa laserów pozwalają przywrócić sprawność urządzenia bez konieczności wymiany całego sprzętu.",
+        "Na wykonane prace udzielamy 6 miesięcy gwarancji."
+      ]
     },
     {
       "id": "case:realizacje:pilna-naprawa-lasera-co2-poznan",
@@ -3757,6 +3854,28 @@
       ]
     },
     {
+      "id": "case:ru:realizacje:remont-protechki-ohlazhdeniya-manipuly-klient-praga",
+      "title": "Ремонт протечки охлаждения лазерной манипулы — клиент из Праги",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/",
+      "description": "Клиент из Праги привёз аппарат с протечкой. Заменили трубки и гофру, собрали манипулу, провели обслуживание. Гарантия на работы 6 месяцев.",
+      "city": "Клиент из Праги, Чехия",
+      "equipment_type": "Система охлаждения",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Замена трубок и гофры манипулы"
+      },
+      "fault": [],
+      "performed_work": [
+        "Наши специалисты заменили повреждённые трубки, установили новую защитную гофру, заново собрали манипулу и головку, устранив люфт конструкции.",
+        "Дополнительно аппарат очистили от скопившейся внутри пыли, провели техническое обслуживание и заменили охлаждающую жидкость."
+      ],
+      "result": [
+        "После завершения ремонта оборудование проверили. Утечка устранена, аппарат работает исправно.",
+        "На выполненные работы Laser Tech Service предоставляет гарантию 6 месяцев."
+      ]
+    },
+    {
       "id": "case:ru:realizacje:servis-lasera-sapphire-zamena-zhidkosti",
       "title": "Сервис лазера Sapphire — замена охлаждающей жидкости и обслуживание аппарата",
       "language": "ru",
@@ -4051,6 +4170,7 @@
       "https://lasertechservice.pl/blog/dlaczego-maly-przewod-powoduje-duze-problemy/": "https://lasertechservice.pl/blog/dlaczego-maly-przewod-powoduje-duze-problemy/index.md",
       "https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/": "https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/index.md",
       "https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/": "https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/index.md",
+      "https://lasertechservice.pl/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/": "https://lasertechservice.pl/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/index.md",
       "https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/": "https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/index.md",
       "https://lasertechservice.pl/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/": "https://lasertechservice.pl/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/index.md",
       "https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/": "https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/index.md",
@@ -4099,6 +4219,7 @@
       "https://lasertechservice.pl/en/blog/scheduled-diode-laser-maintenance/": "https://lasertechservice.pl/en/blog/scheduled-diode-laser-maintenance/index.md",
       "https://lasertechservice.pl/en/blog/used-diode-laser-service-history/": "https://lasertechservice.pl/en/blog/used-diode-laser-service-history/index.md",
       "https://lasertechservice.pl/en/blog/why-a-small-cable-causes-big-problems/": "https://lasertechservice.pl/en/blog/why-a-small-cable-causes-big-problems/index.md",
+      "https://lasertechservice.pl/en/blog/why-handpiece-cooling-tubes-leak/": "https://lasertechservice.pl/en/blog/why-handpiece-cooling-tubes-leak/index.md",
       "https://lasertechservice.pl/en/blog/why-laser-diode-modules-fail/": "https://lasertechservice.pl/en/blog/why-laser-diode-modules-fail/index.md",
       "https://lasertechservice.pl/en/case-studies/": "https://lasertechservice.pl/en/case-studies/index.md",
       "https://lasertechservice.pl/en/case-studies/3000-nain-power-supply-repair/": "https://lasertechservice.pl/en/case-studies/3000-nain-power-supply-repair/index.md",
@@ -4116,6 +4237,7 @@
       "https://lasertechservice.pl/en/case-studies/flood-damaged-diode-module-replacement-poznan/": "https://lasertechservice.pl/en/case-studies/flood-damaged-diode-module-replacement-poznan/index.md",
       "https://lasertechservice.pl/en/case-studies/gme-exsys-308-service-inspection/": "https://lasertechservice.pl/en/case-studies/gme-exsys-308-service-inspection/index.md",
       "https://lasertechservice.pl/en/case-studies/hair-removal-laser-maintenance/": "https://lasertechservice.pl/en/case-studies/hair-removal-laser-maintenance/index.md",
+      "https://lasertechservice.pl/en/case-studies/handpiece-cooling-leak-repair-prague-customer/": "https://lasertechservice.pl/en/case-studies/handpiece-cooling-leak-repair-prague-customer/index.md",
       "https://lasertechservice.pl/en/case-studies/hifu-kimed-k1-w1601-service-gorlitz/": "https://lasertechservice.pl/en/case-studies/hifu-kimed-k1-w1601-service-gorlitz/index.md",
       "https://lasertechservice.pl/en/case-studies/laser-cooling-fan-replacement-wroclaw/": "https://lasertechservice.pl/en/case-studies/laser-cooling-fan-replacement-wroclaw/index.md",
       "https://lasertechservice.pl/en/case-studies/lightsheer-desire-cooling-tubing-repair-wroclaw/": "https://lasertechservice.pl/en/case-studies/lightsheer-desire-cooling-tubing-repair-wroclaw/index.md",
@@ -4162,6 +4284,7 @@
       "https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/": "https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/": "https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/": "https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/index.md",
+      "https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/": "https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/index.md",
       "https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/": "https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/index.md",
       "https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/": "https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/index.md",
       "https://lasertechservice.pl/realizacje/przeglad-serwis-pharaon-1470-wroclaw/": "https://lasertechservice.pl/realizacje/przeglad-serwis-pharaon-1470-wroclaw/index.md",
@@ -4201,6 +4324,7 @@
       "https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/": "https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/index.md",
       "https://lasertechservice.pl/ru/blog/pochemu-malenkiy-kabel-sozdayot-bolshie-problemy/": "https://lasertechservice.pl/ru/blog/pochemu-malenkiy-kabel-sozdayot-bolshie-problemy/index.md",
       "https://lasertechservice.pl/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/": "https://lasertechservice.pl/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/index.md",
+      "https://lasertechservice.pl/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/": "https://lasertechservice.pl/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/index.md",
       "https://lasertechservice.pl/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/": "https://lasertechservice.pl/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/index.md",
       "https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/": "https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/index.md",
       "https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/": "https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/index.md",
@@ -4228,6 +4352,7 @@
       "https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/": "https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/index.md",
       "https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/": "https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/index.md",
       "https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/": "https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/index.md",
+      "https://lasertechservice.pl/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/": "https://lasertechservice.pl/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/index.md",
       "https://lasertechservice.pl/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/": "https://lasertechservice.pl/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/index.md",
       "https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/": "https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/index.md",
       "https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/": "https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/index.md",
@@ -4278,5 +4403,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-11-02T09:12:09Z"
+  "generated_at": "2026-11-02T14:10:40Z"
 }

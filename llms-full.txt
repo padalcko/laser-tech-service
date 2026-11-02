@@ -12414,6 +12414,99 @@ Read the article [water in a hair removal laser — replacement and regular serv
 
 - [Water in a hair removal laser – why are replacement and regular servicing so important?](https://lasertechservice.pl/en/blog/hair-removal-laser-cooling-water-maintenance/)
 
+### Laser Handpiece Cooling Leak Repair — Customer from Prague
+
+HTML source: [Laser Handpiece Cooling Leak Repair — Customer from Prague](https://lasertechservice.pl/en/case-studies/handpiece-cooling-leak-repair-prague-customer/)
+
+Language: English
+
+Other language version: [Polski](https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/), [Русский](https://lasertechservice.pl/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/)
+
+> A Prague customer brought a device with a coolant leak. We replaced tubes and the sleeve, reassembled the handpiece and serviced it. Six-month work warranty.
+
+Publication date: 2026-11-02
+
+Cosmetic device
+
+A new customer from Prague brought a cosmetic laser device to Laser Tech Service after discovering a coolant leak in the handpiece hose assembly.
+
+![Device with display and emergency stop button](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/laser-kosmetyczny-panel-sterowania.webp)
+
+- City: Customer from Prague, Czech Republic
+
+- Equipment: Cooling system
+
+- Work performed: Cooling tube and protective sleeve replacement
+
+#### Customer report
+
+The customer also requested reassembly of the loose handpiece and treatment head, replacement of the worn corrugated protective sleeve, and a complete maintenance service.
+
+#### Diagnosis
+
+During inspection, our technicians discovered that the flexible cooling tubes inside the protective sleeve had deteriorated and lost their integrity. Material ageing and repeated bending during normal operation were considered possible contributing factors.
+
+#### Repair and maintenance
+
+We replaced the damaged cooling tubes, installed a new protective sleeve, and carefully reassembled the handpiece and treatment head to restore a secure fit.
+
+The device also received internal dust cleaning, general maintenance, and fresh coolant.
+
+#### Outcome and warranty
+
+After servicing, the equipment was checked and confirmed to be operational, with the leak resolved.
+
+Laser Tech Service provides a six-month warranty on the completed repair work.
+
+#### Service photographs
+
+![Side of the handpiece casing with hose assembly](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/manipula-laserowa-obudowa-boczna.webp)
+
+![Cracks in the corrugated protective sleeve](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/uszkodzona-oslona-przewodu-manipuly.webp)
+
+![Open handpiece with module and wiring](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/otwarta-manipula-laserowa-modul-i-przewody.webp)
+
+![Transparent tubes and metal module inside the handpiece](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/wnetrze-manipuly-laserowej-modul-optyczny.webp)
+
+![Handpiece connector with wiring and cooling tubes](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/zlacze-manipuly-przewody-i-weze-chlodzenia.webp)
+
+![Closed handpiece casing with service label](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/manipula-laserowa-oznaczenie-serwisowe.webp)
+
+![Inspection of electrical connections inside the device](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/serwis-laserow-kontrola-polaczen-elektrycznych.webp)
+
+![Device interior with power supply and wiring](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/wnetrze-lasera-zasilacz-i-okablowanie.webp)
+
+![Device with touchscreen on and handpiece](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/laser-kosmetyczny-uruchomiony-panel-dotykowy.webp)
+
+#### Related services and articles
+
+[Related case: E808 pump repair in Prague](https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/)
+
+- [Cooling system repair](https://lasertechservice.pl/en/services/laser-cooling-system-repair/)
+
+- [Handpiece and head refurbishment](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
+
+- [Post-warranty servicing](https://lasertechservice.pl/en/services/post-warranty-equipment-service/)
+
+[Why Do Cooling Tubes Inside Laser Handpieces Deteriorate and Leak?](https://lasertechservice.pl/en/blog/why-handpiece-cooling-tubes-leak/)
+
+#### Service offerings
+
+- [Professional laser and aesthetic equipment servicing](https://lasertechservice.pl/en/services/)
+- [Service pricing](https://lasertechservice.pl/en/pricing/)
+- [Technical Service for Beauty Salon Chains and Aesthetic Clinics](https://lasertechservice.pl/en/services/service-for-salon-chains/)
+- [Laser equipment cooling system repair](https://lasertechservice.pl/en/services/laser-cooling-system-repair/)
+- [Laser handpiece and applicator refurbishment](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
+- [Post-warranty aesthetic equipment servicing](https://lasertechservice.pl/en/services/post-warranty-equipment-service/)
+
+#### Related repairs
+
+- [Laser Cooling Pump Repair — Unique Light System E808 in Prague](https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/)
+
+#### Related articles
+
+- [Why Do Cooling Tubes Inside Laser Handpieces Deteriorate and Leak?](https://lasertechservice.pl/en/blog/why-handpiece-cooling-tubes-leak/)
+
 ### HIFU KIMED K1-W1601 servicing — handpiece repair and maintenance
 
 HTML source: [HIFU KIMED K1-W1601 servicing — handpiece repair and maintenance](https://lasertechservice.pl/en/case-studies/hifu-kimed-k1-w1601-service-gorlitz/)
@@ -15018,6 +15111,99 @@ W poradniku [dlaczego połączenie manipulatora z urządzeniem jest tak ważne](
 #### Powiązane artykuły
 
 - [Mały przewód, duży problem. Dlaczego połączenie manipulatora z urządzeniem jest tak ważne?](https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/)
+
+### Naprawa wycieku chłodziwa z głowicy lasera kosmetycznego — klient z Pragi
+
+Źródło HTML: [Naprawa wycieku chłodziwa z głowicy lasera kosmetycznego — klient z Pragi](https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/)
+
+Język: Polski
+
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/), [English](https://lasertechservice.pl/en/case-studies/handpiece-cooling-leak-repair-prague-customer/)
+
+> Klient z Pragi przywiózł aparat z wyciekiem. Wymieniliśmy przewody chłodzenia i osłonę, złożyliśmy głowicę i wykonaliśmy przegląd. Gwarancja 6 miesięcy.
+
+Data publikacji: 2026-11-02
+
+Aparat kosmetologiczny
+
+Do Laser Tech Service trafił nowy klient z Pragi, który przywiózł do naszego serwisu laser kosmetyczny z uszkodzoną głowicą zabiegową.
+
+![Aparat z ekranem i przyciskiem awaryjnym](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/laser-kosmetyczny-panel-sterowania.webp)
+
+- Miasto: Klient z Pragi, Czechy
+
+- Urządzenie: Aparat kosmetologiczny
+
+- Zakres: Wymiana przewodów i osłony głowicy
+
+#### Objawy i zgłoszenie
+
+Problemem był wyciek cieczy chłodzącej z karbowanej osłony przewodu głowicy. Klient poprosił również o ponowne, stabilne złożenie poluzowanej głowicy, wymianę zużytej osłony oraz kompleksowy przegląd techniczny urządzenia.
+
+#### Diagnoza
+
+Po rozebraniu głowicy okazało się, że elastyczne przewody układu chłodzenia znajdujące się wewnątrz osłony były zużyte i utraciły szczelność. Jedną z prawdopodobnych przyczyn była degradacja materiału związana z wiekiem oraz wielokrotnym zginaniem przewodu podczas pracy.
+
+#### Naprawa i przegląd
+
+W ramach naprawy wymieniliśmy przewody chłodzące i osłonę karbowaną, ponownie złożyliśmy głowicę oraz ustabilizowaliśmy jej konstrukcję. Następnie oczyściliśmy wnętrze urządzenia z nagromadzonego kurzu, wykonaliśmy przegląd techniczny i wymieniliśmy płyn chłodzący.
+
+Po zakończeniu prac urządzenie zostało sprawdzone. Wyciek został usunięty, a laser działa prawidłowo.
+
+#### Rezultat i gwarancja
+
+To kolejny przykład pokazujący, że profesjonalny serwis laserów, regeneracja laserów i naprawa laserów pozwalają przywrócić sprawność urządzenia bez konieczności wymiany całego sprzętu.
+
+Na wykonane prace udzielamy 6 miesięcy gwarancji.
+
+#### Zdjęcia z serwisu
+
+![Boczna obudowa manipuły z przewodem](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/manipula-laserowa-obudowa-boczna.webp)
+
+![Pęknięcia karbowanej osłony przewodu](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/uszkodzona-oslona-przewodu-manipuly.webp)
+
+![Otwarta manipuła z modułem i przewodami](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/otwarta-manipula-laserowa-modul-i-przewody.webp)
+
+![Przezroczyste rurki i metalowy moduł wewnątrz manipuły](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/wnetrze-manipuly-laserowej-modul-optyczny.webp)
+
+![Złącze manipuły z kablami i rurkami chłodzenia](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/zlacze-manipuly-przewody-i-weze-chlodzenia.webp)
+
+![Zamknięta obudowa głowicy z oznaczeniem serwisowym](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/manipula-laserowa-oznaczenie-serwisowe.webp)
+
+![Kontrola połączeń elektrycznych wewnątrz aparatu](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/serwis-laserow-kontrola-polaczen-elektrycznych.webp)
+
+![Wnętrze aparatu z zasilaczem i okablowaniem](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/wnetrze-lasera-zasilacz-i-okablowanie.webp)
+
+![Aparat z włączonym panelem dotykowym i manipułą](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/laser-kosmetyczny-uruchomiony-panel-dotykowy.webp)
+
+#### Powiązane usługi i materiały
+
+[Zobacz także: naprawa pompy E808 w Pradze](https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/)
+
+- [Naprawa układów chłodzenia](https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/)
+
+- [Regeneracja głowic i manipulatorów](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+- [Serwis pogwarancyjny](https://lasertechservice.pl/uslugi/serwis-pogwarancyjny/)
+
+[Dlaczego przewody chłodzenia w głowicy lasera pękają i zaczynają przeciekać?](https://lasertechservice.pl/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/)
+
+#### Usługi serwisowe
+
+- [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Serwis urządzeń kosmetycznych dla sieci salonów i klinik](https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/)
+- [Naprawa układów chłodzenia urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/)
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+- [Serwis pogwarancyjny urządzeń kosmetologicznych](https://lasertechservice.pl/uslugi/serwis-pogwarancyjny/)
+
+#### Powiązane realizacje
+
+- [Naprawa pompy chłodzenia lasera Unique Light System E808 w Pradze](https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/)
+
+#### Powiązane artykuły
+
+- [Dlaczego przewody chłodzenia w głowicy lasera pękają i zaczynają przeciekać?](https://lasertechservice.pl/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/)
 
 ### Pilna naprawa lasera CO₂ w Poznaniu — serwis u klienta
 
@@ -18602,6 +18788,99 @@ Unique Light System E808
 
 - [В лазере есть вода, но охлаждение не работает. Почему останавливается циркуляционная помпа?](https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/)
 
+### Ремонт протечки охлаждения лазерной манипулы — клиент из Праги
+
+Источник HTML: [Ремонт протечки охлаждения лазерной манипулы — клиент из Праги](https://lasertechservice.pl/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/)
+
+Язык: Русский
+
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/), [English](https://lasertechservice.pl/en/case-studies/handpiece-cooling-leak-repair-prague-customer/)
+
+> Клиент из Праги привёз аппарат с протечкой. Заменили трубки и гофру, собрали манипулу, провели обслуживание. Гарантия на работы 6 месяцев.
+
+Дата публикации: 2026-11-02
+
+Косметологический аппарат
+
+В Laser Tech Service обратился новый клиент из Праги, который привёз в наш сервис косметологический лазер с неисправной манипулой.
+
+![Аппарат с экраном и аварийной кнопкой](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/laser-kosmetyczny-panel-sterowania.webp)
+
+- Город: Клиент из Праги, Чехия
+
+- Оборудование: Система охлаждения
+
+- Работы: Замена трубок и гофры манипулы
+
+#### Обращение клиента
+
+Проблема заключалась в утечке охлаждающей жидкости из гофрированного защитного рукава. Кроме того, клиент попросил повторно собрать расшатанную манипулу и её головку, заменить старую гофру и провести полное техническое обслуживание аппарата.
+
+#### Диагностика
+
+После разборки выяснилось, что гибкие трубки системы охлаждения внутри гофры износились и потеряли герметичность. Вероятной причиной стало старение материала и многократные изгибы рукава во время эксплуатации.
+
+#### Ремонт и обслуживание
+
+Наши специалисты заменили повреждённые трубки, установили новую защитную гофру, заново собрали манипулу и головку, устранив люфт конструкции.
+
+Дополнительно аппарат очистили от скопившейся внутри пыли, провели техническое обслуживание и заменили охлаждающую жидкость.
+
+#### Результат и гарантия
+
+После завершения ремонта оборудование проверили. Утечка устранена, аппарат работает исправно.
+
+На выполненные работы Laser Tech Service предоставляет гарантию 6 месяцев.
+
+#### Фотографии обслуживания
+
+![Боковая часть корпуса манипулы с рукавом](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/manipula-laserowa-obudowa-boczna.webp)
+
+![Трещины гофрированной оболочки рукава](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/uszkodzona-oslona-przewodu-manipuly.webp)
+
+![Открытая манипула с модулем и проводами](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/otwarta-manipula-laserowa-modul-i-przewody.webp)
+
+![Прозрачные трубки и металлический модуль внутри манипулы](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/wnetrze-manipuly-laserowej-modul-optyczny.webp)
+
+![Разъём манипулы с проводами и трубками охлаждения](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/zlacze-manipuly-przewody-i-weze-chlodzenia.webp)
+
+![Закрытый корпус головки с сервисной наклейкой](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/manipula-laserowa-oznaczenie-serwisowe.webp)
+
+![Осмотр электрических соединений внутри аппарата](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/serwis-laserow-kontrola-polaczen-elektrycznych.webp)
+
+![Внутренняя часть аппарата с блоком питания и проводкой](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/wnetrze-lasera-zasilacz-i-okablowanie.webp)
+
+![Аппарат с включённым сенсорным экраном и манипулой](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/laser-kosmetyczny-uruchomiony-panel-dotykowy.webp)
+
+#### Связанные услуги и материалы
+
+[Также: ремонт помпы E808 в Праге](https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/)
+
+- [Ремонт систем охлаждения](https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/)
+
+- [Восстановление головок и манипул](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
+- [Послегарантийное обслуживание](https://lasertechservice.pl/ru/uslugi/poslegarantiynoe-obsluzhivanie/)
+
+[Почему стареют и протекают трубки охлаждения внутри лазерной манипулы?](https://lasertechservice.pl/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/)
+
+#### Услуги сервиса
+
+- [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Сервисное обслуживание сетей салонов красоты и косметологических клиник](https://lasertechservice.pl/ru/uslugi/servis-dlya-setey-salonov/)
+- [Ремонт систем охлаждения лазерного оборудования](https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/)
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+- [Послегарантийное обслуживание косметологического оборудования](https://lasertechservice.pl/ru/uslugi/poslegarantiynoe-obsluzhivanie/)
+
+#### Связанные работы
+
+- [Ремонт помпы охлаждения лазера Unique Light System E808 в Праге](https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/)
+
+#### Связанные статьи
+
+- [Почему стареют и протекают трубки охлаждения внутри лазерной манипулы?](https://lasertechservice.pl/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/)
+
 ### Сервис лазера Sapphire — замена охлаждающей жидкости и обслуживание аппарата
 
 Источник HTML: [Сервис лазера Sapphire — замена охлаждающей жидкости и обслуживание аппарата](https://lasertechservice.pl/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/)
@@ -21212,6 +21491,106 @@ Diagnostyka bezpłatna przy zleceniu naprawy. Dojazd specjalisty płatny osobno 
 
 - [5 oznak, że dioda w laserze do depilacji wymaga sprawdzenia lub wymiany](https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/)
 - [Planowy przegląd lasera diodowego – dlaczego jest ważny i co obejmuje?](https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/)
+
+### Dlaczego przewody chłodzenia w głowicy lasera pękają i zaczynają przeciekać?
+
+Źródło HTML: [Dlaczego przewody chłodzenia w głowicy lasera pękają i zaczynają przeciekać?](https://lasertechservice.pl/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/)
+
+Język: Polski
+
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/), [English](https://lasertechservice.pl/en/blog/why-handpiece-cooling-tubes-leak/)
+
+> Dlaczego rurki chłodzenia tracą szczelność, kiedy wymienić osłonę i co zrobić przy wycieku? Wyjaśnienie na przykładzie naprawy dla klienta z Pragi.
+
+Data publikacji: 2026-11-02
+
+W wielu laserach kosmetycznych głowica zabiegowa jest połączona z urządzeniem elastycznym przewodem. W jego wnętrzu znajdują się przewody elektryczne, przewody chłodzenia i inne elementy niezbędne do prawidłowej pracy urządzenia.
+
+![Pęknięcia karbowanej osłony przewodu](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/uszkodzona-oslona-przewodu-manipuly.webp)
+
+Pęknięcia karbowanej osłony przewodu.
+
+#### Dlaczego przewody tracą szczelność?
+
+Podczas codziennych zabiegów operator wielokrotnie podnosi, obraca i odkłada głowicę. Oznacza to, że znajdujące się wewnątrz rurki chłodzące są regularnie zginane.
+
+Z biegiem lat materiał przewodów może tracić elastyczność. Powtarzające się naprężenia, starzenie tworzywa i warunki eksploatacji mogą prowadzić do mikropęknięć, rozszczelnienia połączeń i wycieku płynu chłodzącego.
+
+![Przezroczyste rurki i metalowy moduł wewnątrz manipuły](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/wnetrze-manipuly-laserowej-modul-optyczny.webp)
+
+Przezroczyste rurki i metalowy moduł wewnątrz manipuły.
+
+#### Dlaczego wyciek jest niebezpieczny?
+
+Układ chłodzenia odpowiada za odprowadzanie ciepła z elementów głowicy laserowej. Utrata płynu może ograniczyć przepływ cieczy i pogorszyć skuteczność chłodzenia.
+
+W konsekwencji może dojść do przegrzewania elementów urządzenia, przerw w pracy, a nawet uszkodzenia kosztownych podzespołów.
+
+Dodatkowym zagrożeniem jest kontakt wyciekającej cieczy z przewodami i połączeniami elektrycznymi.
+
+![Złącze manipuły z kablami i rurkami chłodzenia](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/zlacze-manipuly-przewody-i-weze-chlodzenia.webp)
+
+Złącze manipuły z kablami i rurkami chłodzenia.
+
+#### Czy wystarczy wymienić samą osłonę?
+
+Nie zawsze. Karbowana osłona chroni elementy znajdujące się wewnątrz przewodu, ale nie odpowiada za szczelność obiegu chłodzenia.
+
+Jeśli uszkodzone są wewnętrzne rurki, założenie nowej osłony nie rozwiąże problemu. Konieczna jest kontrola przewodów i ich wymiana, jeśli utraciły szczelność.
+
+![Wnętrze aparatu z zasilaczem i okablowaniem](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/wnetrze-lasera-zasilacz-i-okablowanie.webp)
+
+Wnętrze aparatu z zasilaczem i okablowaniem.
+
+#### Przykład z naszego serwisu
+
+Niedawno do Laser Tech Service trafił klient z Pragi. Z przewodu głowicy jego lasera kosmetycznego wyciekała ciecz chłodząca.
+
+Po rozebraniu głowicy stwierdziliśmy zużycie elastycznych przewodów chłodzenia. Wymieniliśmy je na nowe, zamontowaliśmy nową osłonę karbowaną i ponownie złożyliśmy głowicę.
+
+Przy okazji wykonaliśmy przegląd techniczny, oczyściliśmy wnętrze urządzenia z kurzu i wymieniliśmy płyn chłodzący.
+
+Po naprawie laser wrócił do sprawności.
+
+![Aparat z włączonym panelem dotykowym i manipułą](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/laser-kosmetyczny-uruchomiony-panel-dotykowy.webp)
+
+Aparat z włączonym panelem dotykowym i manipułą.
+
+#### Jak zapobiegać podobnym awariom?
+
+Przede wszystkim warto regularnie kontrolować stan przewodu głowicy, zwracać uwagę na ślady wilgoci oraz unikać nadmiernego skręcania i ostrego zginania przewodu.
+
+Nie należy ignorować nawet niewielkiego wycieku. Jeżeli pojawi się wilgoć, należy przerwać użytkowanie urządzenia i zlecić jego kontrolę wykwalifikowanemu serwisowi.
+
+Profesjonalny serwis laserów, regeneracja laserów oraz naprawa laserów to nie tylko usuwanie istniejących usterek, lecz także profilaktyka pozwalająca ograniczyć ryzyko poważniejszych awarii.
+
+Laser Tech Service zajmuje się diagnostyką, naprawą i konserwacją urządzeń laserowych. Na wykonane prace udzielamy 6 miesięcy gwarancji.
+
+#### Powiązane usługi i materiały
+
+[Zobacz także: naprawa pompy E808 w Pradze](https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/)
+
+- [Naprawa układów chłodzenia](https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/)
+
+- [Regeneracja głowic i manipulatorów](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+- [Serwis pogwarancyjny](https://lasertechservice.pl/uslugi/serwis-pogwarancyjny/)
+
+[Naprawa wycieku chłodziwa z głowicy lasera kosmetycznego — klient z Pragi](https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/)
+
+#### Usługi serwisowe
+
+- [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Serwis urządzeń kosmetycznych dla sieci salonów i klinik](https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/)
+- [Naprawa układów chłodzenia urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/)
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+- [Serwis pogwarancyjny urządzeń kosmetologicznych](https://lasertechservice.pl/uslugi/serwis-pogwarancyjny/)
+
+#### Powiązane realizacje
+
+- [Naprawa pompy chłodzenia lasera Unique Light System E808 w Pradze](https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/)
+- [Naprawa wycieku chłodziwa z głowicy lasera kosmetycznego — klient z Pragi](https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/)
 
 ### Dlaczego warto korzystać z profesjonalnego serwisu urządzeń kosmetycznych?
 
@@ -27741,6 +28120,106 @@ If your device behaves similarly, describe the symptoms and model when [contacti
 
 - [Beauty Planet 3D Contour — handpiece power cable replacement in Wrocław](https://lasertechservice.pl/en/case-studies/beauty-planet-handpiece-cable-replacement-wroclaw/)
 
+### Why Do Cooling Tubes Inside Laser Handpieces Deteriorate and Leak?
+
+HTML source: [Why Do Cooling Tubes Inside Laser Handpieces Deteriorate and Leak?](https://lasertechservice.pl/en/blog/why-handpiece-cooling-tubes-leak/)
+
+Language: English
+
+Other language version: [Polski](https://lasertechservice.pl/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/), [Русский](https://lasertechservice.pl/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/)
+
+> Why cooling tubes deteriorate, why replacing the sleeve alone may not help, and what to do about a leak. A repair example from Laser Tech Service.
+
+Publication date: 2026-11-02
+
+Cosmetic laser handpieces are commonly connected to the main device through a flexible hose assembly containing electrical wiring, coolant tubes, and other components.
+
+![Cracks in the corrugated protective sleeve](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/uszkodzona-oslona-przewodu-manipuly.webp)
+
+Cracks in the corrugated protective sleeve.
+
+#### Why do cooling tubes lose their integrity?
+
+During everyday treatments, the handpiece is repeatedly moved, rotated, and repositioned. This creates recurring mechanical stress on the internal tubing.
+
+Over time, flexible tubing may lose elasticity. Material ageing, repeated bending, and operating conditions can contribute to cracks, leaks, and weakened connections.
+
+![Transparent tubes and metal module inside the handpiece](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/wnetrze-manipuly-laserowej-modul-optyczny.webp)
+
+Transparent tubes and metal module inside the handpiece.
+
+#### Why are coolant leaks dangerous?
+
+The cooling system removes heat from critical laser components. When coolant escapes, circulation and cooling performance may deteriorate.
+
+Continued operation can result in overheating, interrupted treatments, and expensive component damage.
+
+Leaking liquid near electrical connections creates an additional safety concern.
+
+![Handpiece connector with wiring and cooling tubes](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/zlacze-manipuly-przewody-i-weze-chlodzenia.webp)
+
+Handpiece connector with wiring and cooling tubes.
+
+#### Is replacing the protective sleeve enough?
+
+Not necessarily. The corrugated outer sleeve protects the internal assembly from mechanical damage, but it does not seal the coolant circuit.
+
+If the internal tubes have deteriorated, the damaged components must be repaired or replaced.
+
+![Device interior with power supply and wiring](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/wnetrze-lasera-zasilacz-i-okablowanie.webp)
+
+Device interior with power supply and wiring.
+
+#### A real repair at Laser Tech Service
+
+A customer from Prague recently brought us a cosmetic laser with coolant leaking from the handpiece hose assembly.
+
+Our inspection revealed worn internal cooling tubes that had lost their integrity.
+
+We replaced the tubing, fitted a new protective sleeve, and reassembled the handpiece and treatment head to eliminate looseness.
+
+We also cleaned accumulated dust from inside the device, performed maintenance, and replaced the coolant.
+
+After servicing, the laser was operational again.
+
+![Device with touchscreen on and handpiece](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/laser-kosmetyczny-uruchomiony-panel-dotykowy.webp)
+
+Device with touchscreen on and handpiece.
+
+#### How can similar failures be prevented?
+
+Inspect the handpiece hose regularly, avoid excessive twisting and sharp bends, and watch for moisture or coolant leaks.
+
+If a leak appears, stop using the equipment and arrange professional inspection.
+
+Laser Tech Service provides cosmetic laser diagnostics, maintenance, and repair, with a six-month warranty on completed work.
+
+#### Related services and articles
+
+[Related case: E808 pump repair in Prague](https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/)
+
+- [Cooling system repair](https://lasertechservice.pl/en/services/laser-cooling-system-repair/)
+
+- [Handpiece and head refurbishment](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
+
+- [Post-warranty servicing](https://lasertechservice.pl/en/services/post-warranty-equipment-service/)
+
+[Laser Handpiece Cooling Leak Repair — Customer from Prague](https://lasertechservice.pl/en/case-studies/handpiece-cooling-leak-repair-prague-customer/)
+
+#### Service offerings
+
+- [Professional laser and aesthetic equipment servicing](https://lasertechservice.pl/en/services/)
+- [Service pricing](https://lasertechservice.pl/en/pricing/)
+- [Technical Service for Beauty Salon Chains and Aesthetic Clinics](https://lasertechservice.pl/en/services/service-for-salon-chains/)
+- [Laser equipment cooling system repair](https://lasertechservice.pl/en/services/laser-cooling-system-repair/)
+- [Laser handpiece and applicator refurbishment](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
+- [Post-warranty aesthetic equipment servicing](https://lasertechservice.pl/en/services/post-warranty-equipment-service/)
+
+#### Related repairs
+
+- [Laser Cooling Pump Repair — Unique Light System E808 in Prague](https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/)
+- [Laser Handpiece Cooling Leak Repair — Customer from Prague](https://lasertechservice.pl/en/case-studies/handpiece-cooling-leak-repair-prague-customer/)
+
 ### Why do diode modules fail in hair removal lasers? Causes, symptoms and consequences
 
 HTML source: [Why do diode modules fail in hair removal lasers? Causes, symptoms and consequences](https://lasertechservice.pl/en/blog/why-laser-diode-modules-fail/)
@@ -30799,6 +31278,104 @@ Laser Tech Service занимается диагностикой, ремонто
 
 - [Замена диодного модуля лазера после залития — Познань](https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/)
 
+### Почему стареют и протекают трубки охлаждения внутри лазерной манипулы?
+
+Источник HTML: [Почему стареют и протекают трубки охлаждения внутри лазерной манипулы?](https://lasertechservice.pl/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/)
+
+Язык: Русский
+
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/), [English](https://lasertechservice.pl/en/blog/why-handpiece-cooling-tubes-leak/)
+
+> Почему стареют трубки охлаждения, достаточно ли заменить гофру и что делать при утечке? Объясняем на примере ремонта для клиента из Праги.
+
+Дата публикации: 2026-11-02
+
+В большинстве косметологических лазеров манипула соединяется с аппаратом гибким рукавом. Внутри него проходят электрические кабели, трубки охлаждения и другие необходимые элементы.
+
+![Трещины гофрированной оболочки рукава](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/uszkodzona-oslona-przewodu-manipuly.webp)
+
+Трещины гофрированной оболочки рукава.
+
+#### Почему трубки теряют герметичность?
+
+Во время процедур мастер постоянно перемещает манипулу, поворачивает её и меняет положение. При этом внутренние трубки регулярно изгибаются.
+
+Со временем материал трубок может терять эластичность. Старение пластика, многократные изгибы и условия эксплуатации постепенно увеличивают вероятность появления трещин и нарушения герметичности.
+
+![Прозрачные трубки и металлический модуль внутри манипулы](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/wnetrze-manipuly-laserowej-modul-optyczny.webp)
+
+Прозрачные трубки и металлический модуль внутри манипулы.
+
+#### Чем опасна утечка охлаждающей жидкости?
+
+Система охлаждения отводит тепло от рабочих компонентов лазерной головки. Если жидкость вытекает, циркуляция может ухудшиться, а температура компонентов — повыситься.
+
+Продолжение эксплуатации в таком состоянии способно привести к перегреву и дорогостоящему ремонту.
+
+Дополнительная опасность возникает, когда жидкость попадает на электрические соединения.
+
+![Разъём манипулы с проводами и трубками охлаждения](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/zlacze-manipuly-przewody-i-weze-chlodzenia.webp)
+
+Разъём манипулы с проводами и трубками охлаждения.
+
+#### Почему недостаточно заменить гофру?
+
+Гофра — это защитная оболочка. Она предохраняет внутренние компоненты от механических воздействий, но сама по себе не обеспечивает герметичность системы охлаждения.
+
+Если повреждены трубки внутри, необходимо устранить именно эту неисправность.
+
+![Внутренняя часть аппарата с блоком питания и проводкой](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/wnetrze-lasera-zasilacz-i-okablowanie.webp)
+
+Внутренняя часть аппарата с блоком питания и проводкой.
+
+#### Реальный пример из Laser Tech Service
+
+Недавно к нам приехал новый клиент из Праги. Из гофры манипулы его косметологического лазера вытекала охлаждающая жидкость.
+
+При разборке выяснилось, что внутренние гибкие трубки были изношены и потеряли герметичность.
+
+Мы заменили трубки и гофру, заново собрали манипулу и головку, устранили люфт конструкции. Дополнительно очистили аппарат от пыли, провели техническое обслуживание и заменили охлаждающую жидкость.
+
+После ремонта аппарат снова работает исправно.
+
+![Аппарат с включённым сенсорным экраном и манипулой](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/laser-kosmetyczny-uruchomiony-panel-dotykowy.webp)
+
+Аппарат с включённым сенсорным экраном и манипулой.
+
+#### Как избежать подобных проблем?
+
+Регулярно осматривайте рукав манипулы, не допускайте сильных перегибов и перекручивания, следите за появлением влаги и состоянием системы охлаждения.
+
+Если обнаружена утечка, прекратите использование аппарата и обратитесь в профессиональный сервис.
+
+Laser Tech Service выполняет диагностику, обслуживание и ремонт косметологических лазеров. На выполненные работы предоставляется гарантия 6 месяцев.
+
+#### Связанные услуги и материалы
+
+[Также: ремонт помпы E808 в Праге](https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/)
+
+- [Ремонт систем охлаждения](https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/)
+
+- [Восстановление головок и манипул](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
+- [Послегарантийное обслуживание](https://lasertechservice.pl/ru/uslugi/poslegarantiynoe-obsluzhivanie/)
+
+[Ремонт протечки охлаждения лазерной манипулы — клиент из Праги](https://lasertechservice.pl/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/)
+
+#### Услуги сервиса
+
+- [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Сервисное обслуживание сетей салонов красоты и косметологических клиник](https://lasertechservice.pl/ru/uslugi/servis-dlya-setey-salonov/)
+- [Ремонт систем охлаждения лазерного оборудования](https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/)
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+- [Послегарантийное обслуживание косметологического оборудования](https://lasertechservice.pl/ru/uslugi/poslegarantiynoe-obsluzhivanie/)
+
+#### Связанные работы
+
+- [Ремонт помпы охлаждения лазера Unique Light System E808 в Праге](https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/)
+- [Ремонт протечки охлаждения лазерной манипулы — клиент из Праги](https://lasertechservice.pl/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/)
+
 ### Почему сгорают диодные модули в лазерах для эпиляции: причины, симптомы и последствия
 
 Источник HTML: [Почему сгорают диодные модули в лазерах для эпиляции: причины, симптомы и последствия](https://lasertechservice.pl/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/)
@@ -32024,6 +32601,18 @@ We know the equipment they use because we maintain and repair it. This gives us 
 
 > Laser Tech Service recommends businesses whose work and equipment we know first-hand.
 
+![Pro Beauty Esen Instagram profile picture](https://lasertechservice.pl/img/partnerzy/pro-beauty-esen-instagram.webp)
+
+#### Pro Beauty Esen
+
+Laser hair removal, manicures, pedicures, and brow and lash styling.
+
+Svatoplukova 42, Prostějov
+
+Laser Tech Service partner
+
+[Partner website](https://www.instagram.com/pro_beauty.esen_/)
+
 ![LTS Market – new and used aesthetic equipment](https://lasertechservice.pl/img/partnerzy/lts-market-logo.webp)
 
 #### LTS Market
@@ -32132,6 +32721,18 @@ Znamy urządzenia, na których pracują — dbamy o ich serwis i naprawy. Dzięk
 
 > Laser Tech Service poleca tych, których pracę i sprzęt zna od podszewki.
 
+![Zdjęcie profilowe Pro Beauty Esen z Instagramu](https://lasertechservice.pl/img/partnerzy/pro-beauty-esen-instagram.webp)
+
+#### Pro Beauty Esen
+
+Depilacja laserowa, manicure, pedicure oraz stylizacja brwi i rzęs.
+
+Svatoplukova 42, Prostějov
+
+Partner Laser Tech Service
+
+[Strona partnera](https://www.instagram.com/pro_beauty.esen_/)
+
 ![LTS Market – nowe i używane urządzenia kosmetologiczne](https://lasertechservice.pl/img/partnerzy/lts-market-logo.webp)
 
 #### LTS Market
@@ -32239,6 +32840,18 @@ Szukasz używanego lasera do swojego salonu? W ofercie LTS Market znajdziesz ró
 Мы знаем оборудование, на котором они работают, обслуживаем и ремонтируем его, а поэтому хорошо понимаем, в каком техническом состоянии оно находится и насколько серьёзно его владельцы относятся к качеству и безопасности процедур.
 
 > Laser Tech Service рекомендует тех, чью работу и оборудование знает изнутри.
+
+![Фото профиля Pro Beauty Esen из Instagram](https://lasertechservice.pl/img/partnerzy/pro-beauty-esen-instagram.webp)
+
+#### Pro Beauty Esen
+
+Лазерная эпиляция, маникюр, педикюр, оформление бровей и ресниц.
+
+Svatoplukova 42, Prostějov
+
+Партнёр Laser Tech Service
+
+[Страница партнёра](https://www.instagram.com/pro_beauty.esen_/)
 
 ![LTS Market – новое и подержанное косметологическое оборудование](https://lasertechservice.pl/img/partnerzy/lts-market-logo.webp)
 
@@ -32521,6 +33134,7 @@ lok. 320
 - [Naprawa urządzenia Multipolar RF w Lublinie](https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/): Lokalizacja Lublin
 - [Naprawa NUBWAY NBW-VSIII – serwis RF i układu podciśnienia](https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/): Lokalizacja Wrocław
 - [Naprawa pompy chłodzenia lasera Unique Light System E808 w Pradze](https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/): MiastoPraga, Czechy
+- [Naprawa wycieku chłodziwa z głowicy lasera kosmetycznego — klient z Pragi](https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/): MiastoKlient z Pragi, Czechy
 - [Przegląd i serwis Pharaon 1470 — Wrocław](https://lasertechservice.pl/realizacje/przeglad-serwis-pharaon-1470-wroclaw/): Przegląd i serwis Pharaon 1470 — Wrocław
 - [Przegrzewanie głowicy lasera w Lubinie — naprawa przewodów diody laserowej](https://lasertechservice.pl/realizacje/przegrzewanie-glowicy-lasera-lubin-naprawa-przewodow/): MiastoLubin
 - [Przegrzewanie lasera diodowego w Gliwicach — pilna wymiana filtra wody](https://lasertechservice.pl/realizacje/przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra/): MiastoGliwice
@@ -32544,6 +33158,7 @@ lok. 320
 - [Polski: Dlaczego mały przewód powoduje duże problemy?](https://lasertechservice.pl/blog/dlaczego-maly-przewod-powoduje-duze-problemy/) — [Русский](https://lasertechservice.pl/ru/blog/pochemu-malenkiy-kabel-sozdayot-bolshie-problemy/) — [English](https://lasertechservice.pl/en/blog/why-a-small-cable-causes-big-problems/)
 - [Polski: Dlaczego nie warto samodzielnie wymieniać uszczelek w urządzeniu laserowym?](https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/) — [Русский](https://lasertechservice.pl/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/) — [English](https://lasertechservice.pl/en/blog/risks-of-replacing-laser-seals-yourself/)
 - [Polski: Dlaczego palą się moduły diodowe w laserach do depilacji? Przyczyny, objawy i konsekwencje](https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/) — [Русский](https://lasertechservice.pl/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/) — [English](https://lasertechservice.pl/en/blog/why-laser-diode-modules-fail/)
+- [Polski: Dlaczego przewody chłodzenia w głowicy lasera pękają i zaczynają przeciekać?](https://lasertechservice.pl/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/) — [Русский](https://lasertechservice.pl/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/) — [English](https://lasertechservice.pl/en/blog/why-handpiece-cooling-tubes-leak/)
 - [Polski: Dlaczego warto korzystać z profesjonalnego serwisu urządzeń kosmetycznych?](https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/) — [Русский](https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/) — [English](https://lasertechservice.pl/en/blog/professional-aesthetic-equipment-service/)
 - [Polski: Dlaczego warto regularnie wymieniać filtr wody w laserze diodowym?](https://lasertechservice.pl/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/) — [Русский](https://lasertechservice.pl/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/) — [English](https://lasertechservice.pl/en/blog/diode-laser-water-filter-replacement/)
 - [Polski: HIFU – co to jest, jak działa i do czego służy urządzenie HIFU?](https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/) — [Русский](https://lasertechservice.pl/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/) — [English](https://lasertechservice.pl/en/blog/hifu-technology-applications-service/)
@@ -32577,6 +33192,7 @@ lok. 320
 - [Polski: Naprawa NUBWAY NBW-VSIII – serwis RF i układu podciśnienia](https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/) — [Русский](https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/) — [English](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-repair-wroclaw/)
 - [Polski: Naprawa pompy chłodzenia lasera Unique Light System E808 w Pradze](https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/) — [Русский](https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/) — [English](https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/)
 - [Polski: Pilna naprawa urządzenia do masażu RSL w Warszawie – naprawa przewodu i wymiana złącza](https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/) — [Русский](https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/) — [English](https://lasertechservice.pl/en/case-studies/rsl-massage-device-repair-warsaw/)
+- [Polski: Naprawa wycieku chłodziwa z głowicy lasera kosmetycznego — klient z Pragi](https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/) — [Русский](https://lasertechservice.pl/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/) — [English](https://lasertechservice.pl/en/case-studies/handpiece-cooling-leak-repair-prague-customer/)
 - [Polski: Pilna naprawa lasera CO₂ w Poznaniu — serwis u klienta](https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/) — [Русский](https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/) — [English](https://lasertechservice.pl/en/case-studies/urgent-co2-laser-repair-poznan/)
 - [Polski: Przegląd lasera ESTELASE POWER P-808L — wymiana filtra i wody](https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/) — [Русский](https://lasertechservice.pl/ru/realizacje/przeglad-estelase-power-p808l/) — [English](https://lasertechservice.pl/en/case-studies/estelase-power-p808l-maintenance/)
 - [Polski: Przegląd i serwis Pharaon 1470 — Wrocław](https://lasertechservice.pl/realizacje/przeglad-serwis-pharaon-1470-wroclaw/) — [Русский](https://lasertechservice.pl/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/) — [English](https://lasertechservice.pl/en/case-studies/pharaon-1470-maintenance-wroclaw/)

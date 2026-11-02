@@ -12,6 +12,12 @@
 
 Система охлаждения2 ноября 2026
 
+## [Почему стареют и протекают трубки охлаждения внутри лазерной манипулы?](https://lasertechservice.pl/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/)
+
+Почему стареют трубки охлаждения, достаточно ли заменить гофру и что делать при утечке? Объясняем на примере ремонта для клиента из Праги.
+
+Система охлаждения2 ноября 2026
+
 ## [В лазере есть вода, но охлаждение не работает. Почему останавливается циркуляционная помпа?](https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/)
 
 Почему наличие жидкости не гарантирует охлаждение лазера? Ошибка Water flow error, щётки двигателя и ремонт помпы на примере E808 в Праге.
@@ -180,6 +186,7 @@ Pharaon 1470, LSO Medical и OSYRIS: история обозначений, ос
 
 ## Связанные статьи
 
+- [Почему стареют и протекают трубки охлаждения внутри лазерной манипулы?](https://lasertechservice.pl/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/)
 - [В лазере есть вода, но охлаждение не работает. Почему останавливается циркуляционная помпа?](https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/)
 - [Почему слишком длинные провода могут вызывать перегрев лазерной манипулы?](https://lasertechservice.pl/ru/blog/peregrev-lazernoy-manipuly-dlinnye-provoda/)
 - [Почему важно регулярно менять водяной фильтр в диодном лазере?](https://lasertechservice.pl/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/)

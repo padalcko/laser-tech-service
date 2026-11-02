@@ -16,6 +16,16 @@
 
 Каждое устройство требует индивидуальной диагностики. Ниже представлены отдельные примеры нашей работы.
 
+![Аппарат с экраном и аварийной кнопкой](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/laser-kosmetyczny-panel-sterowania.webp)
+
+Клиент из Праги, ЧехияУстранение протечки
+
+## [Ремонт протечки охлаждения лазерной манипулы — клиент из Праги](https://lasertechservice.pl/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/)
+
+В Laser Tech Service обратился новый клиент из Праги, который привёз в наш сервис косметологический лазер с неисправной манипулой.
+
+[Посмотреть реализацию](https://lasertechservice.pl/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/)
+
 ![Мастер рядом с аппаратом Unique Light System E808 в Праге](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/serwis-unique-light-system-e808-praga.webp)
 
 Прага, ЧехияРемонт помпы
@@ -344,6 +354,7 @@ RF Вакуум Диагностика Ремонт
 
 ## Связанные работы
 
+- [Ремонт протечки охлаждения лазерной манипулы — клиент из Праги](https://lasertechservice.pl/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/)
 - [Ремонт помпы охлаждения лазера Unique Light System E808 в Праге](https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/)
 - [Перегрев лазерной манипулы в Любине — ремонт подключения лазерного диода](https://lasertechservice.pl/ru/realizacje/peregrev-lazernoy-manipuly-lyubin-remont-provodov/)
 - [Перегрев диодного лазера в Гливице — срочная замена водяного фильтра](https://lasertechservice.pl/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/)

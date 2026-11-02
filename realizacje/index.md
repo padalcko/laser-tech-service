@@ -16,6 +16,16 @@ Pokazujemy rzeczywiste realizacje serwisowe: zakres zlecenia, wykonane prace ora
 
 Każde urządzenie wymaga indywidualnej diagnostyki. Poniżej prezentujemy wybrane realizacje naszego serwisu.
 
+![Aparat z ekranem i przyciskiem awaryjnym](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/laser-kosmetyczny-panel-sterowania.webp)
+
+Klient z Pragi, CzechyNaprawa wycieku
+
+## [Naprawa wycieku chłodziwa z głowicy lasera kosmetycznego — klient z Pragi](https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/)
+
+Do Laser Tech Service trafił nowy klient z Pragi, który przywiózł do naszego serwisu laser kosmetyczny z uszkodzoną głowicą zabiegową.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/)
+
 ![Technik obok aparatu Unique Light System E808 w Pradze](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/serwis-unique-light-system-e808-praga.webp)
 
 Praga, CzechyNaprawa pompy
@@ -344,6 +354,7 @@ Serwisujemy lasery diodowe, urządzenia ND:YAG, IPL, CO2 oraz inne urządzenia w
 
 ## Powiązane realizacje
 
+- [Naprawa wycieku chłodziwa z głowicy lasera kosmetycznego — klient z Pragi](https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/)
 - [Naprawa pompy chłodzenia lasera Unique Light System E808 w Pradze](https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/)
 - [Przegrzewanie głowicy lasera w Lubinie — naprawa przewodów diody laserowej](https://lasertechservice.pl/realizacje/przegrzewanie-glowicy-lasera-lubin-naprawa-przewodow/)
 - [Przegrzewanie lasera diodowego w Gliwicach — pilna wymiana filtra wody](https://lasertechservice.pl/realizacje/przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra/)

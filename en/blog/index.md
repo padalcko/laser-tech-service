@@ -12,6 +12,12 @@ Practical knowledge about servicing, diagnostics, repairs and operation of laser
 
 Cooling system2 November 2026
 
+## [Why Do Cooling Tubes Inside Laser Handpieces Deteriorate and Leak?](https://lasertechservice.pl/en/blog/why-handpiece-cooling-tubes-leak/)
+
+Why cooling tubes deteriorate, why replacing the sleeve alone may not help, and what to do about a leak. A repair example from Laser Tech Service.
+
+Cooling system2 November 2026
+
 ## [Water in the Laser but No Cooling: Why the Circulation Pump Stops Working](https://lasertechservice.pl/en/blog/laser-water-flow-error-circulation-pump/)
 
 Coolant is present but the laser has no flow. Learn how pump brushes can fail, what Water flow error means and when pump repair may be worthwhile.
@@ -180,6 +186,7 @@ Warranty, work documentation, service history, prompt on-site visits and respons
 
 ## Related articles
 
+- [Why Do Cooling Tubes Inside Laser Handpieces Deteriorate and Leak?](https://lasertechservice.pl/en/blog/why-handpiece-cooling-tubes-leak/)
 - [Water in the Laser but No Cooling: Why the Circulation Pump Stops Working](https://lasertechservice.pl/en/blog/laser-water-flow-error-circulation-pump/)
 - [Can Excessively Long Wires Cause a Laser Handpiece to Overheat?](https://lasertechservice.pl/en/blog/laser-handpiece-overheating-long-wires/)
 - [Why Is Regular Water Filter Replacement Important in Diode Lasers?](https://lasertechservice.pl/en/blog/diode-laser-water-filter-replacement/)

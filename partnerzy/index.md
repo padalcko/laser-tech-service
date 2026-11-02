@@ -16,6 +16,18 @@ Znamy urządzenia, na których pracują — dbamy o ich serwis i naprawy. Dzięk
 
 > Laser Tech Service poleca tych, których pracę i sprzęt zna od podszewki.
 
+![Zdjęcie profilowe Pro Beauty Esen z Instagramu](https://lasertechservice.pl/img/partnerzy/pro-beauty-esen-instagram.webp)
+
+## Pro Beauty Esen
+
+Depilacja laserowa, manicure, pedicure oraz stylizacja brwi i rzęs.
+
+Svatoplukova 42, Prostějov
+
+Partner Laser Tech Service
+
+[Strona partnera](https://www.instagram.com/pro_beauty.esen_/)
+
 ![LTS Market – nowe i używane urządzenia kosmetologiczne](https://lasertechservice.pl/img/partnerzy/lts-market-logo.webp)
 
 ## LTS Market

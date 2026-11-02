@@ -1531,6 +1531,44 @@
           "status": "published"
         }
       }
+    },
+    {
+      "id": "realizacje:naprawa-wycieku-chlodzenia-glowicy-klient-praga",
+      "type": "case-study",
+      "x_default": "/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/handpiece-cooling-leak-repair-prague-customer/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:dlaczego-przewody-chlodzenia-glowicy-przeciekaja",
+      "type": "article",
+      "x_default": "/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/",
+      "routes": {
+        "pl": {
+          "url": "/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/why-handpiece-cooling-tubes-leak/",
+          "status": "published"
+        }
+      }
     }
   ]
 }

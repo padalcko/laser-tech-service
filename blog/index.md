@@ -12,6 +12,12 @@ Praktyczna wiedza o serwisie, diagnostyce, naprawach i eksploatacji urządzeń l
 
 Układ chłodzenia2 listopada 2026
 
+## [Dlaczego przewody chłodzenia w głowicy lasera pękają i zaczynają przeciekać?](https://lasertechservice.pl/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/)
+
+Dlaczego rurki chłodzenia tracą szczelność, kiedy wymienić osłonę i co zrobić przy wycieku? Wyjaśnienie na przykładzie naprawy dla klienta z Pragi.
+
+Układ chłodzenia2 listopada 2026
+
 ## [Woda w laserze jest, ale chłodzenie nie działa. Dlaczego pompa obiegowa może się zatrzymać?](https://lasertechservice.pl/blog/water-flow-error-laser-pompa-obiegowa/)
 
 Płyn jest w laserze, ale nie ma obiegu? Wyjaśniamy Water flow error, rolę szczotek silnika i kiedy warto naprawić pompę zamiast ją wymieniać.
@@ -180,6 +186,7 @@ Gwarancja, dokumentacja wykonanych prac, historia serwisowa, możliwość szybki
 
 ## Powiązane artykuły
 
+- [Dlaczego przewody chłodzenia w głowicy lasera pękają i zaczynają przeciekać?](https://lasertechservice.pl/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/)
 - [Woda w laserze jest, ale chłodzenie nie działa. Dlaczego pompa obiegowa może się zatrzymać?](https://lasertechservice.pl/blog/water-flow-error-laser-pompa-obiegowa/)
 - [Czy zbyt długie przewody mogą powodować przegrzewanie głowicy lasera?](https://lasertechservice.pl/blog/przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody/)
 - [Dlaczego warto regularnie wymieniać filtr wody w laserze diodowym?](https://lasertechservice.pl/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/)

@@ -16,6 +16,18 @@ We know the equipment they use because we maintain and repair it. This gives us 
 
 > Laser Tech Service recommends businesses whose work and equipment we know first-hand.
 
+![Pro Beauty Esen Instagram profile picture](https://lasertechservice.pl/img/partnerzy/pro-beauty-esen-instagram.webp)
+
+## Pro Beauty Esen
+
+Laser hair removal, manicures, pedicures, and brow and lash styling.
+
+Svatoplukova 42, Prostějov
+
+Laser Tech Service partner
+
+[Partner website](https://www.instagram.com/pro_beauty.esen_/)
+
 ![LTS Market – new and used aesthetic equipment](https://lasertechservice.pl/img/partnerzy/lts-market-logo.webp)
 
 ## LTS Market

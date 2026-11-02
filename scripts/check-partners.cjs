@@ -3,8 +3,8 @@ const {chromium}=require(process.env.PLAYWRIGHT_MODULE||'playwright');
 const fs=require('fs'),path=require('path'),assert=require('assert').strict;
 const data=JSON.parse(fs.readFileSync(path.join(__dirname,'partners.json')));
 const ordered=[...data.partners].sort((a,b)=>b.priority-a.priority);
-const base=process.env.LTS_TEST_BASE||'http://127.0.0.1:8794';
-const out=process.env.LTS_TEST_OUT||'/tmp/lts-partner-market';
+const base=process.env.LTS_TEST_BASE||'http://127.0.0.1:8799';
+const out=process.env.LTS_TEST_OUT||'/tmp/lts-esen';
 (async()=>{
  const browser=await chromium.launch({channel:'chrome',headless:true});
  const ctx=await browser.newContext({reducedMotion:'reduce'});
@@ -15,9 +15,10 @@ const out=process.env.LTS_TEST_OUT||'/tmp/lts-partner-market';
   const url='/'+file.replace('index.html','');
   assert.equal((await page.goto(base+url)).status(),200);
   assert.equal(await page.locator('h1').count(),1);
-  const cards=page.locator('.partner-card');assert.equal(await cards.count(),6);
+  const cards=page.locator('.partner-card');assert.equal(await cards.count(),7);
   assert.deepEqual(await cards.locator('h2').allTextContents(),ordered.map(p=>p.content[lang].title));
-  assert.equal(await cards.first().getAttribute('href'),'https://ltsmarket.pl/');
+  await cards.first().focus();assert(await cards.first().evaluate(e=>e===document.activeElement));
+  assert.equal(await cards.first().getAttribute('href'),'https://www.instagram.com/pro_beauty.esen_/');
   assert.equal(await cards.first().locator('img').getAttribute('alt'),ordered[0].content[lang].image_html.match(/alt="([^"]+)"/)[1]);
   await page.locator('.lazar-launcher').click();await page.locator('#lazar-panel').waitFor({state:'visible'});
   await page.locator('.lazar-close').click();await page.locator('#lazar-panel').waitFor({state:'hidden'});
@@ -38,7 +39,7 @@ const out=process.env.LTS_TEST_OUT||'/tmp/lts-partner-market';
    }
    assert(await cards.evaluateAll(nodes=>nodes.every(e=>Array.from(e.querySelectorAll('p,h2')).every(n=>n.scrollWidth<=n.clientWidth+1&&n.scrollHeight<=n.clientHeight+1))));
    await page.evaluate(()=>scrollTo(0,0));await page.screenshot({path:path.join(out,lang+'-'+width+'.png'),fullPage:true});
-   results.push({lang,width,overflow:false,cards:6});
+   results.push({lang,width,overflow:false,cards:7});
   }
   for(const [other,target] of Object.entries(data.pages)){
    if(other===lang)continue;

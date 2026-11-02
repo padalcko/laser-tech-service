@@ -16,6 +16,18 @@
 
 > Laser Tech Service рекомендует тех, чью работу и оборудование знает изнутри.
 
+![Фото профиля Pro Beauty Esen из Instagram](https://lasertechservice.pl/img/partnerzy/pro-beauty-esen-instagram.webp)
+
+## Pro Beauty Esen
+
+Лазерная эпиляция, маникюр, педикюр, оформление бровей и ресниц.
+
+Svatoplukova 42, Prostějov
+
+Партнёр Laser Tech Service
+
+[Страница партнёра](https://www.instagram.com/pro_beauty.esen_/)
+
 ![LTS Market – новое и подержанное косметологическое оборудование](https://lasertechservice.pl/img/partnerzy/lts-market-logo.webp)
 
 ## LTS Market
