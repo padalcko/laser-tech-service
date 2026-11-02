@@ -8,7 +8,7 @@ const p=await c.newPage(),errors=[],results=[];p.on('pageerror',e=>errors.push(e
 for(const g of groups)for(const [lang,r] of Object.entries(g.routes)){
 const kind=g.type==='case-study'?'case':'blog';await p.setViewportSize({width:390,height:900});assert.equal((await p.goto(base+r.url)).status(),200);await p.locator('.lazar-launcher').waitFor({state:'visible'});
 assert.equal(await p.locator('.lazar-launcher').getAttribute('aria-label'),{pl:'Zapytaj Łazarza',ru:'Спросить Лазаря',en:'Ask Lazar'}[lang]);
-await p.locator('.lazar-launcher').click();await p.locator('#lazar-panel').waitFor({state:'visible'});assert((await p.locator('.lazar-input').getAttribute('aria-label')).length>0);assert.equal(await p.locator('#lazar-root').getAttribute('data-sending-enabled'),lang==='en'?'false':'true');await p.locator('.lazar-close').click();await p.locator('#lazar-panel').waitFor({state:'hidden'});
+await p.locator('.lazar-launcher').click();await p.locator('#lazar-panel').waitFor({state:'visible'});assert((await p.locator('.lazar-input').getAttribute('aria-label')).length>0);assert.equal(await p.locator('#lazar-root').getAttribute('data-sending-enabled'),'true');await p.locator('.lazar-close').click();await p.locator('#lazar-panel').waitFor({state:'hidden'});
 assert.equal(await p.locator('h1').count(),1);assert.equal(await p.locator('main img').count(),4);
 for(const im of await p.locator('main img').all()){await im.evaluate(async e=>{e.scrollIntoView({block:'center'});await e.decode()});assert(await im.evaluate(e=>e.naturalWidth>0));}
 if(kind==='case'){

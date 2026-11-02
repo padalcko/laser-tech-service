@@ -27,19 +27,15 @@ const routes=registry.pages.flatMap(g=>Object.entries(g.routes).filter(([,r])=>r
  const live=await setup();
  for(const r of routes){
   await live.p.goto(base+r.url);assert.equal(await live.p.locator('.lazar-root').count(),1);
-  assert.equal(await live.p.locator('.lazar-root').getAttribute('data-sending-enabled'),String(r.lang!=='en'));
+  assert.equal(await live.p.locator('.lazar-root').getAttribute('data-sending-enabled'),'true');
   await live.p.locator('.lazar-launcher').click();assert.equal(await live.p.locator('.lazar-quick-question').count(),3);
   assert.equal(await live.p.locator('.lazar-contacts a').nth(1).getAttribute('href'),contact.routes[r.lang].url+(r.lang==='en'?'':'#contactid'));
-  if(r.lang==='en'){
-   await live.p.locator('.lazar-quick-question').first().click();const draft=await live.p.locator('.lazar-input').inputValue();
-   await live.p.locator('.lazar-send').click();await live.p.locator('.lazar-retry').click();assert.equal(await live.p.locator('.lazar-input').inputValue(),draft);
-   assert.equal(await live.p.locator('.lazar-message--system').count(),1);assert.equal(await live.p.locator('.lazar-message--user').count(),0);
-  }
+
  }
- assert.equal(live.requests.length,0);assert.deepEqual(live.errors,[]);results.push({allPublished:routes.length,visible:true,enProductionSending:'blocked',requests:0});await live.c.close();console.log('PASS all published routes and EN gate');
+ assert.equal(live.requests.length,0);assert.deepEqual(live.errors,[]);results.push({allPublished:routes.length,visible:true,enProductionSending:'enabled',requests:0});await live.c.close();console.log('PASS all published routes with sending enabled');
  const geometry={};
  for(const width of [320,390,768,1024,1440,1920])for(const lang of ['pl','ru','en']){
-  const x=await setup(true,width),{p}=x;await p.goto(base+home.routes[lang].url);
+  const x=await setup(false,width),{p}=x;await p.goto(base+home.routes[lang].url);
   if([390,1440].includes(width))await p.screenshot({path:path.join(out,`${lang}-${width}-closed.png`)});
   await p.locator('.lazar-launcher').focus();await p.keyboard.press('Enter');
   const panel=await p.locator('.lazar-panel').boundingBox();const size=[panel.width,panel.height];
@@ -71,6 +67,6 @@ const routes=registry.pages.flatMap(g=>Object.entries(g.routes).filter(([,r])=>r
  }
  assert.equal(ids.pl,'legacy-session-1234567890');assert.equal(new Set(Object.values(ids)).size,3);assert.deepEqual(x.errors,[]);await x.c.close();results.push({sessionIsolation:'PASS',legacyAdoption:'PASS'});
  const mismatch=await setup(true,390,true);await mismatch.p.goto(base+'/en/');await mismatch.p.locator('.lazar-launcher').click();await mismatch.p.locator('.lazar-input').fill('TEST');await mismatch.p.locator('.lazar-send').click();assert.equal(mismatch.requests.length,0);assert.equal(await mismatch.p.locator('.lazar-root').getAttribute('data-sending-enabled'),'false');await mismatch.c.close();
- const gated=await setup();for(const width of [390,1440]){await gated.p.setViewportSize({width,height:900});await gated.p.goto(base+'/en/');await gated.p.locator('.lazar-launcher').click();await gated.p.screenshot({path:path.join(out,`en-${width}-production-fallback.png`)});}assert.equal(gated.requests.length,0);await gated.c.close();
- await browser.close();fs.writeFileSync(path.join(out,'v2-results.json'),JSON.stringify(results,null,2));console.log('PASS',routes.length,'published routes; 18 layouts; quick questions; EN gate; language sessions; mismatch gate');
+ const gated=await setup();for(const width of [390,1440]){await gated.p.setViewportSize({width,height:900});await gated.p.goto(base+'/en/');await gated.p.locator('.lazar-launcher').click();await gated.p.screenshot({path:path.join(out,`en-${width}-enabled.png`)});}assert.equal(gated.requests.length,0);await gated.c.close();
+ await browser.close();fs.writeFileSync(path.join(out,'v2-results.json'),JSON.stringify(results,null,2));console.log('PASS',routes.length,'published routes; 18 layouts; quick questions; EN sending; language sessions; mismatch gate');
 })().catch(e=>{console.error(e);process.exit(1)});

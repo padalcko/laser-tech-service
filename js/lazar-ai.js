@@ -11,7 +11,7 @@
   const config = Object.freeze({
     endpoint: 'https://n8n.raccoon-studio.com.ua/webhook/lazar-ai-chat',
     timeoutMs: 28000,
-    enBackendApproved: false,
+    enBackendApproved: true,
     maxMessageLength: 2000,
   });
   // HTML lang is authoritative; normalize regional tags. Unknown/missing values use PL.
@@ -22,7 +22,7 @@
   const contactRoutes = {"pl": "/kontakt/", "ru": "/ru/kontakt/", "en": "/en/contact/"};
   // END LAZAR CONTACT ROUTES
   const routeLanguage = location.pathname.startsWith('/en/') ? 'en' : location.pathname.startsWith('/ru/') ? 'ru' : 'pl';
-  // Keep EN visible, but fail closed for network sending until backend approval.
+  // EN sending is enabled alongside PL/RU; retain the route-language consistency check.
   const sendingEnabled = (isErrorPage || language === routeLanguage) && (language !== 'en' || config.enBackendApproved || document.documentElement.dataset.lazarEnabled === 'true');
   const translations = {
     en: {
