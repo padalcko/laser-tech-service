@@ -9,6 +9,27 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preload" as="image" href="/img/urzadzenia-laserowe-w-gabinecie.webp" fetchpriority="high" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;1,700&amp;display=swap" />
+
+    <!-- Start non-rendering tags after the first content paint, never before it. -->
+    <script>
+      window.ltsAfterFirstPaint = function (start) {
+        if (window.PerformanceObserver && (PerformanceObserver.supportedEntryTypes || []).includes('paint')) {
+          var observer = new PerformanceObserver(function (list) {
+            if (list.getEntries().some(function (entry) { return entry.name === 'first-contentful-paint'; })) {
+              observer.disconnect();
+              start();
+            }
+          });
+          observer.observe({ type: 'paint', buffered: true });
+        } else {
+          requestAnimationFrame(function () { requestAnimationFrame(start); });
+        }
+      };
+    </script>
 
     <meta name="robots" content="index, follow" />
 
@@ -115,15 +136,6 @@
       rel="alternate"
       hreflang="x-default"
       href="https://lasertechservice.pl/"
-    />
-
-    <!-- =====================================================
-         07. PHONE INPUT LIBRARY
-    ====================================================== -->
-
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.19/css/intlTelInput.min.css"
     />
 
     <!-- =====================================================
@@ -237,10 +249,14 @@
          11. GOOGLE ANALYTICS
     ====================================================== -->
 
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-6QFRWP5RX5"
-    ></script>
+    <script>
+      window.ltsAfterFirstPaint(function () {
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = "https://www.googletagmanager.com/gtag/js?id=G-6QFRWP5RX5";
+        document.head.appendChild(script);
+      });
+    </script>
 
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -258,6 +274,7 @@
     ====================================================== -->
 
     <script>
+      window.ltsAfterFirstPaint(function () {
       (function (w, d, s, l, i) {
         w[l] = w[l] || [];
 
@@ -276,6 +293,7 @@
 
         f.parentNode.insertBefore(j, f);
       })(window, document, "script", "dataLayer", "GTM-PT7BMHKW");
+      });
     </script>
 
     <!-- =====================================================
@@ -283,6 +301,7 @@
     ====================================================== -->
 
     <script>
+      window.ltsAfterFirstPaint(function () {
       (function (w, d, s, l, i) {
         w[l] = w[l] || [];
 
@@ -301,16 +320,21 @@
 
         f.parentNode.insertBefore(j, f);
       })(window, document, "script", "dataLayer", "GTM-MF33VG4R");
+      });
     </script>
 
     <!-- =====================================================
          13. GOOGLE ADS
     ====================================================== -->
 
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=AW-17614450660"
-    ></script>
+    <script>
+      window.ltsAfterFirstPaint(function () {
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = "https://www.googletagmanager.com/gtag/js?id=AW-17614450660";
+        document.head.appendChild(script);
+      });
+    </script>
 
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -322,7 +346,6 @@
       gtag("js", new Date());
       gtag("config", "AW-17614450660");
     </script>
-    <link rel="preload" as="image" href="/img/urzadzenia-laserowe-w-gabinecie.webp" fetchpriority="high" />
       <link rel="alternate" hreflang="en" href="https://lasertechservice.pl/en/" />
     <meta property="og:locale:alternate" content="en_GB" />
 <!-- AI resources: generated -->
@@ -1552,11 +1575,9 @@
          18. JAVASCRIPT
     ====================================================== -->
 
-    <script src="https://cdn.jsdelivr.net/npm/jarallax@1.12.1/dist/jarallax.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/jarallax@1.12.1/dist/jarallax.min.js"></script>
 
-    <script src="https://cdn.jsdelivr.net/npm/jarallax@1.12.1/dist/jarallax-video.min.js"></script>
-
-    <script src="/js/main.js"></script>
-    <script src="/js/service-lead-form.js"></script>
+    <script defer src="/js/main.js"></script>
+    <script defer src="/js/service-lead-form.js"></script>
   </body>
 </html>

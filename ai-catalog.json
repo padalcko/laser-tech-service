@@ -1448,6 +1448,22 @@
       "related_services": []
     },
     {
+      "id": "article:blog:water-flow-error-laser-pompa-obiegowa",
+      "title": "Woda w laserze jest, ale chłodzenie nie działa. Dlaczego pompa obiegowa może się zatrzymać?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/water-flow-error-laser-pompa-obiegowa/",
+      "description": "Płyn jest w laserze, ale nie ma obiegu? Wyjaśniamy Water flow error, rolę szczotek silnika i kiedy warto naprawić pompę zamiast ją wymieniać.",
+      "topics": [
+        "Układ chłodzenia"
+      ],
+      "datePublished": "2026-11-02",
+      "dateModified": "2026-11-02",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:naprawa-ukladow-chlodzenia"
+      ]
+    },
+    {
       "id": "article:blog:wymiana-wody-w-laserze-do-depilacji",
       "title": "Woda w laserze do depilacji – dlaczego jej wymiana i regularny serwis są tak ważne?",
       "language": "pl",
@@ -1694,6 +1710,22 @@
       "datePublished": "2026-10-27",
       "dateModified": "2026-10-27",
       "related_services": [
+        "service:uslugi:naprawa-ukladow-chlodzenia"
+      ]
+    },
+    {
+      "id": "article:en:blog:laser-water-flow-error-circulation-pump",
+      "title": "Water in the Laser but No Cooling: Why the Circulation Pump Stops Working",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/laser-water-flow-error-circulation-pump/",
+      "description": "Coolant is present but the laser has no flow. Learn how pump brushes can fail, what Water flow error means and when pump repair may be worthwhile.",
+      "topics": [
+        "Cooling system"
+      ],
+      "datePublished": "2026-11-02",
+      "dateModified": "2026-11-02",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
         "service:uslugi:naprawa-ukladow-chlodzenia"
       ]
     },
@@ -2158,6 +2190,22 @@
       ]
     },
     {
+      "id": "article:ru:blog:water-flow-error-lazer-cirkulyacionnaya-pompa",
+      "title": "В лазере есть вода, но охлаждение не работает. Почему останавливается циркуляционная помпа?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/",
+      "description": "Почему наличие жидкости не гарантирует охлаждение лазера? Ошибка Water flow error, щётки двигателя и ремонт помпы на примере E808 в Праге.",
+      "topics": [
+        "Система охлаждения"
+      ],
+      "datePublished": "2026-11-02",
+      "dateModified": "2026-11-02",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:naprawa-ukladow-chlodzenia"
+      ]
+    },
+    {
       "id": "article:ru:blog:zamena-vody-v-lazere-dlya-epilyacii",
       "title": "Вода в лазере для эпиляции: почему её необходимо менять и вовремя проводить обслуживание?",
       "language": "ru",
@@ -2352,6 +2400,35 @@
         "The laser is working again. This failure highlights the importance of regularly checking filters and cooling system connections for leaks.",
         "Laser Tech Service provides laser servicing, refurbishment and aesthetic laser repairs, including on-site visits."
       ]
+    },
+    {
+      "id": "case:en:case-studies:e808-laser-cooling-pump-repair-prague",
+      "title": "Laser Cooling Pump Repair — Unique Light System E808 in Prague",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/",
+      "description": "Unique Light System E808 cooling pump repair in Prague. Replacing carbon brushes and cleaning the commutator restored circulation without a new pump.",
+      "city": "Prague, Czech Republic",
+      "equipment_type": "Unique Light System E808",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Unique Light System E808"
+      },
+      "fault": [
+        "The Unique Light System E808 contained coolant, but the cooling system was not working. Its display showed “Water flow error”. The service request concerned a laser hair removal device with a liquid cooling system."
+      ],
+      "performed_work": [
+        "Diagnosed the cooling system.",
+        "Removed the circulation pump.",
+        "Disassembled the electric motor.",
+        "Replaced the damaged carbon brushes.",
+        "Cleaned the commutator and internal components.",
+        "Reassembled the motor and pump.",
+        "Installed the repaired pump.",
+        "Filled the cooling system with coolant.",
+        "Started the device and checked its operation.",
+        "Repairing the pump restored coolant circulation and the device is working again. Reusing the repaired assembly saved the customer the expense of buying a new pump."
+      ],
+      "result": []
     },
     {
       "id": "case:en:case-studies:estelase-power-p808l-maintenance",
@@ -2905,6 +2982,26 @@
         "Po zakończeniu prac element został ponownie sprawdzony, a urządzenie poddane kontroli działania."
       ],
       "result": []
+    },
+    {
+      "id": "case:realizacje:naprawa-pompy-lasera-e808-praga",
+      "title": "Naprawa pompy chłodzenia lasera Unique Light System E808 w Pradze",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/",
+      "description": "Naprawa pompy chłodzenia Unique Light System E808 w Pradze. Wymiana szczotek węglowych i czyszczenie kolektora przywróciły obieg bez zakupu nowej pompy.",
+      "city": "Praga, Czechy",
+      "equipment_type": "Unique Light System E808",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Unique Light System E808"
+      },
+      "fault": [
+        "W urządzeniu Unique Light System E808 znajdowała się ciecz chłodząca, ale chłodzenie nie działało. Na ekranie pojawiał się komunikat „Water flow error”. Zgłoszenie dotyczyło aparatu do depilacji z cieczowym układem chłodzenia."
+      ],
+      "performed_work": [],
+      "result": [
+        "Po naprawie pompy przywrócono cyrkulację płynu chłodzącego i aparat ponownie działa. Wykorzystanie naprawionego zespołu zamiast zakupu nowej pompy pozwoliło klientowi zaoszczędzić pieniądze."
+      ]
     },
     {
       "id": "case:realizacje:naprawa-rsl-masaz-warszawa",
@@ -3630,6 +3727,36 @@
       ]
     },
     {
+      "id": "case:ru:realizacje:remont-pompy-lazera-e808-praga",
+      "title": "Ремонт помпы охлаждения лазера Unique Light System E808 в Праге",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/",
+      "description": "Восстановление помпы Unique Light System E808 в Праге: замена угольных щёток и очистка коллектора вернули циркуляцию без покупки нового узла.",
+      "city": "Прага, Чехия",
+      "equipment_type": "Unique Light System E808",
+      "equipment": {
+        "@type": "Thing",
+        "name": "Unique Light System E808"
+      },
+      "fault": [
+        "В системе Unique Light System E808 была охлаждающая жидкость, но охлаждение не работало. На экране появлялось сообщение «Water flow error». Клиент обратился по поводу лазерного аппарата для эпиляции с жидкостной системой охлаждения."
+      ],
+      "performed_work": [
+        "Диагностика системы охлаждения.",
+        "Демонтаж циркуляционной помпы.",
+        "Разборка электродвигателя.",
+        "Замена повреждённых угольных щёток.",
+        "Очистка коллектора и внутренних элементов.",
+        "Сборка электродвигателя и помпы.",
+        "Установка отремонтированной помпы.",
+        "Заполнение системы охлаждающей жидкостью.",
+        "Запуск и проверка работы аппарата."
+      ],
+      "result": [
+        "После восстановления помпы циркуляция охлаждающей жидкости возобновилась, аппарат снова работает. Ремонт имеющегося узла позволил клиенту сэкономить на покупке новой помпы."
+      ]
+    },
+    {
       "id": "case:ru:realizacje:servis-lasera-sapphire-zamena-zhidkosti",
       "title": "Сервис лазера Sapphire — замена охлаждающей жидкости и обслуживание аппарата",
       "language": "ru",
@@ -3942,6 +4069,7 @@
       "https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/": "https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/index.md",
       "https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/": "https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/index.md",
       "https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/": "https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/index.md",
+      "https://lasertechservice.pl/blog/water-flow-error-laser-pompa-obiegowa/": "https://lasertechservice.pl/blog/water-flow-error-laser-pompa-obiegowa/index.md",
       "https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/": "https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/index.md",
       "https://lasertechservice.pl/en/": "https://lasertechservice.pl/en/index.md",
       "https://lasertechservice.pl/en/blog/": "https://lasertechservice.pl/en/blog/index.md",
@@ -3962,6 +4090,7 @@
       "https://lasertechservice.pl/en/blog/laser-handpiece-overheating-long-wires/": "https://lasertechservice.pl/en/blog/laser-handpiece-overheating-long-wires/index.md",
       "https://lasertechservice.pl/en/blog/laser-tech-service-zlota-firma-2026/": "https://lasertechservice.pl/en/blog/laser-tech-service-zlota-firma-2026/index.md",
       "https://lasertechservice.pl/en/blog/laser-unused-for-a-year-cooling-system/": "https://lasertechservice.pl/en/blog/laser-unused-for-a-year-cooling-system/index.md",
+      "https://lasertechservice.pl/en/blog/laser-water-flow-error-circulation-pump/": "https://lasertechservice.pl/en/blog/laser-water-flow-error-circulation-pump/index.md",
       "https://lasertechservice.pl/en/blog/lightsheer-desire-cooling-reliability/": "https://lasertechservice.pl/en/blog/lightsheer-desire-cooling-reliability/index.md",
       "https://lasertechservice.pl/en/blog/peltier-module-laser-handpiece-cooling/": "https://lasertechservice.pl/en/blog/peltier-module-laser-handpiece-cooling/index.md",
       "https://lasertechservice.pl/en/blog/pharaon-1470-laser-history-technology/": "https://lasertechservice.pl/en/blog/pharaon-1470-laser-history-technology/index.md",
@@ -3981,6 +4110,7 @@
       "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-replacement-wroclaw/": "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-replacement-wroclaw/index.md",
       "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-service-poznan/": "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-service-poznan/index.md",
       "https://lasertechservice.pl/en/case-studies/diode-laser-overheating-gliwice-water-filter/": "https://lasertechservice.pl/en/case-studies/diode-laser-overheating-gliwice-water-filter/index.md",
+      "https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/": "https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/index.md",
       "https://lasertechservice.pl/en/case-studies/estelase-power-p808l-maintenance/": "https://lasertechservice.pl/en/case-studies/estelase-power-p808l-maintenance/index.md",
       "https://lasertechservice.pl/en/case-studies/estetech-peltier-module-replacement-poznan/": "https://lasertechservice.pl/en/case-studies/estetech-peltier-module-replacement-poznan/index.md",
       "https://lasertechservice.pl/en/case-studies/flood-damaged-diode-module-replacement-poznan/": "https://lasertechservice.pl/en/case-studies/flood-damaged-diode-module-replacement-poznan/index.md",
@@ -4030,6 +4160,7 @@
       "https://lasertechservice.pl/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/": "https://lasertechservice.pl/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/": "https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/": "https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/index.md",
+      "https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/": "https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/": "https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/index.md",
       "https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/": "https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/index.md",
       "https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/": "https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/index.md",
@@ -4076,6 +4207,7 @@
       "https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/": "https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/index.md",
       "https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/": "https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/index.md",
       "https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/": "https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/index.md",
+      "https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/": "https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/index.md",
       "https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/": "https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/index.md",
       "https://lasertechservice.pl/ru/kontakt/": "https://lasertechservice.pl/ru/kontakt/index.md",
       "https://lasertechservice.pl/ru/partnerzy/": "https://lasertechservice.pl/ru/partnerzy/index.md",
@@ -4095,6 +4227,7 @@
       "https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/": "https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/index.md",
       "https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/": "https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/index.md",
       "https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/": "https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/index.md",
+      "https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/": "https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/index.md",
       "https://lasertechservice.pl/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/": "https://lasertechservice.pl/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/index.md",
       "https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/": "https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/index.md",
       "https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/": "https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/index.md",
@@ -4145,5 +4278,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-10-29T09:58:30Z"
+  "generated_at": "2026-11-02T09:12:09Z"
 }

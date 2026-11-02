@@ -16,6 +16,16 @@
 
 Каждое устройство требует индивидуальной диагностики. Ниже представлены отдельные примеры нашей работы.
 
+![Мастер рядом с аппаратом Unique Light System E808 в Праге](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/serwis-unique-light-system-e808-praga.webp)
+
+Прага, ЧехияРемонт помпы
+
+## [Ремонт помпы охлаждения лазера Unique Light System E808 в Праге](https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/)
+
+Новый клиент из Праги сообщил об отсутствии охлаждения и ошибке «Water flow error», хотя жидкость в системе была. Мы восстановили двигатель помпы и циркуляцию без покупки нового узла.
+
+[Посмотреть реализацию](https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/)
+
 ![Мастер работает с проводами открытой лазерной манипулы](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/serwis-lasera-lubin-naprawa-manipuly.webp)
 
 ЛюбинСрочный ремонт
@@ -334,6 +344,7 @@ RF Вакуум Диагностика Ремонт
 
 ## Связанные работы
 
+- [Ремонт помпы охлаждения лазера Unique Light System E808 в Праге](https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/)
 - [Перегрев лазерной манипулы в Любине — ремонт подключения лазерного диода](https://lasertechservice.pl/ru/realizacje/peregrev-lazernoy-manipuly-lyubin-remont-provodov/)
 - [Перегрев диодного лазера в Гливице — срочная замена водяного фильтра](https://lasertechservice.pl/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/)
 - [Сервис лазера Sapphire — замена охлаждающей жидкости и обслуживание аппарата](https://lasertechservice.pl/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/)

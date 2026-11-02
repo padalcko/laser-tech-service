@@ -10,6 +10,12 @@
 
 Пишем о том, с чем сталкиваемся каждый день: ремонте лазеров, диагностике неисправностей, обслуживании косметологического оборудования и обычных проблемах, которые возникают у владельцев салонов и кабинетов.
 
+Система охлаждения2 ноября 2026
+
+## [В лазере есть вода, но охлаждение не работает. Почему останавливается циркуляционная помпа?](https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/)
+
+Почему наличие жидкости не гарантирует охлаждение лазера? Ошибка Water flow error, щётки двигателя и ремонт помпы на примере E808 в Праге.
+
 Электрические соединения29 октября 2026
 
 ## [Почему слишком длинные провода могут вызывать перегрев лазерной манипулы?](https://lasertechservice.pl/ru/blog/peregrev-lazernoy-manipuly-dlinnye-provoda/)
@@ -174,6 +180,7 @@ Pharaon 1470, LSO Medical и OSYRIS: история обозначений, ос
 
 ## Связанные статьи
 
+- [В лазере есть вода, но охлаждение не работает. Почему останавливается циркуляционная помпа?](https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/)
 - [Почему слишком длинные провода могут вызывать перегрев лазерной манипулы?](https://lasertechservice.pl/ru/blog/peregrev-lazernoy-manipuly-dlinnye-provoda/)
 - [Почему важно регулярно менять водяной фильтр в диодном лазере?](https://lasertechservice.pl/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/)
 - [Лазеры-динозавры: почему возраст оборудования влияет на эффективность процедур?](https://lasertechservice.pl/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/)

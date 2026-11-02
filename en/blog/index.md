@@ -10,6 +10,12 @@ Other language version: [Polski](https://lasertechservice.pl/blog/), [Русск
 
 Practical knowledge about servicing, diagnostics, repairs and operation of laser and aesthetic equipment.
 
+Cooling system2 November 2026
+
+## [Water in the Laser but No Cooling: Why the Circulation Pump Stops Working](https://lasertechservice.pl/en/blog/laser-water-flow-error-circulation-pump/)
+
+Coolant is present but the laser has no flow. Learn how pump brushes can fail, what Water flow error means and when pump repair may be worthwhile.
+
 Electrical connections29 October 2026
 
 ## [Can Excessively Long Wires Cause a Laser Handpiece to Overheat?](https://lasertechservice.pl/en/blog/laser-handpiece-overheating-long-wires/)
@@ -174,6 +180,7 @@ Warranty, work documentation, service history, prompt on-site visits and respons
 
 ## Related articles
 
+- [Water in the Laser but No Cooling: Why the Circulation Pump Stops Working](https://lasertechservice.pl/en/blog/laser-water-flow-error-circulation-pump/)
 - [Can Excessively Long Wires Cause a Laser Handpiece to Overheat?](https://lasertechservice.pl/en/blog/laser-handpiece-overheating-long-wires/)
 - [Why Is Regular Water Filter Replacement Important in Diode Lasers?](https://lasertechservice.pl/en/blog/diode-laser-water-filter-replacement/)
 - [Dinosaur Lasers: Why Equipment Age Matters for Treatment Effectiveness](https://lasertechservice.pl/en/blog/dinosaur-lasers-age-technical-condition/)

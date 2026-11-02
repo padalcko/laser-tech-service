@@ -136,6 +136,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/blog/water-flow-error-laser-pompa-obiegowa/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/blog/water-flow-error-laser-pompa-obiegowa/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /blog/wymiana-wody-w-laserze-do-depilacji/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -236,6 +241,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/blog/laser-unused-for-a-year-cooling-system/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/en/blog/laser-water-flow-error-circulation-pump/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/blog/laser-water-flow-error-circulation-pump/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /en/blog/lightsheer-desire-cooling-reliability/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -330,6 +340,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/case-studies/diode-laser-overheating-gliwice-water-filter/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/en/case-studies/e808-laser-cooling-pump-repair-prague/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /en/case-studies/estelase-power-p808l-maintenance/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -576,6 +591,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/realizacje/naprawa-pompy-lasera-e808-praga/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /realizacje/naprawa-rsl-masaz-warszawa/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -806,6 +826,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /ru/blog/zamena-vody-v-lazere-dlya-epilyacii/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -900,6 +925,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/realizacje/remont-pompy-lazera-e808-praga/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/index.md
   Content-Type: text/markdown; charset=utf-8

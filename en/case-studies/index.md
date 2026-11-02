@@ -16,6 +16,16 @@ Actual service work: the job scope, completed repairs and photographic and video
 
 Every device needs individual diagnostics. Explore selected examples of our service work below.
 
+![Technician beside the Unique Light System E808 in Prague](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/serwis-unique-light-system-e808-praga.webp)
+
+Prague, Czech RepublicPump repair
+
+## [Laser Cooling Pump Repair — Unique Light System E808 in Prague](https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/)
+
+A new customer in Prague reported no cooling and a “Water flow error” message despite coolant being present. We repaired the pump motor and restored circulation without purchasing a new assembly.
+
+[View case study](https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/)
+
 ![Technician working on the wiring of an open laser handpiece](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/serwis-lasera-lubin-naprawa-manipuly.webp)
 
 LubinEmergency service
@@ -334,6 +344,7 @@ We service diode lasers, Nd:YAG, IPL, CO₂ and other equipment used in aestheti
 
 ## Related repairs
 
+- [Laser Cooling Pump Repair — Unique Light System E808 in Prague](https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/)
 - [Overheating Laser Handpiece Repair in Lubin — Diode Wiring Correction](https://lasertechservice.pl/en/case-studies/overheating-laser-handpiece-lubin-diode-wiring/)
 - [Diode laser overheating in Gliwice — emergency water filter replacement](https://lasertechservice.pl/en/case-studies/diode-laser-overheating-gliwice-water-filter/)
 - [Sapphire Laser Service — Coolant Replacement and Equipment Maintenance](https://lasertechservice.pl/en/case-studies/sapphire-coolant-replacement-maintenance/)

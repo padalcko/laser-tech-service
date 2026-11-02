@@ -1493,6 +1493,44 @@
           "status": "published"
         }
       }
+    },
+    {
+      "id": "realizacje:naprawa-pompy-lasera-e808-praga",
+      "type": "case-study",
+      "x_default": "/realizacje/naprawa-pompy-lasera-e808-praga/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/naprawa-pompy-lasera-e808-praga/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/remont-pompy-lazera-e808-praga/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/e808-laser-cooling-pump-repair-prague/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:water-flow-error-laser-pompa-obiegowa",
+      "type": "article",
+      "x_default": "/blog/water-flow-error-laser-pompa-obiegowa/",
+      "routes": {
+        "pl": {
+          "url": "/blog/water-flow-error-laser-pompa-obiegowa/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/laser-water-flow-error-circulation-pump/",
+          "status": "published"
+        }
+      }
     }
   ]
 }

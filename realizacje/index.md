@@ -16,6 +16,16 @@ Pokazujemy rzeczywiste realizacje serwisowe: zakres zlecenia, wykonane prace ora
 
 Każde urządzenie wymaga indywidualnej diagnostyki. Poniżej prezentujemy wybrane realizacje naszego serwisu.
 
+![Technik obok aparatu Unique Light System E808 w Pradze](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/serwis-unique-light-system-e808-praga.webp)
+
+Praga, CzechyNaprawa pompy
+
+## [Naprawa pompy chłodzenia lasera Unique Light System E808 w Pradze](https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/)
+
+Nowy klient z Pragi zgłosił brak chłodzenia i komunikat „Water flow error”, mimo obecności płynu w układzie. Naprawiliśmy silnik pompy, przywracając cyrkulację bez zakupu nowego zespołu.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/)
+
 ![Technik pracuje przy przewodach otwartej manipuły laserowej](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/serwis-lasera-lubin-naprawa-manipuly.webp)
 
 LubinPilny serwis
@@ -334,6 +344,7 @@ Serwisujemy lasery diodowe, urządzenia ND:YAG, IPL, CO2 oraz inne urządzenia w
 
 ## Powiązane realizacje
 
+- [Naprawa pompy chłodzenia lasera Unique Light System E808 w Pradze](https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/)
 - [Przegrzewanie głowicy lasera w Lubinie — naprawa przewodów diody laserowej](https://lasertechservice.pl/realizacje/przegrzewanie-glowicy-lasera-lubin-naprawa-przewodow/)
 - [Przegrzewanie lasera diodowego w Gliwicach — pilna wymiana filtra wody](https://lasertechservice.pl/realizacje/przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra/)
 - [Serwis lasera Sapphire – wymiana płynu chłodzącego i konserwacja urządzenia](https://lasertechservice.pl/realizacje/serwis-lasera-sapphire-wymiana-plynu/)

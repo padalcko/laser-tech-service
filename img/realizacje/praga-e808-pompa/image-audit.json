@@ -1,0 +1,374 @@
+[
+  {
+    "source": "IMG_8279.heic",
+    "source_sha256": "73074e2dc4c9bdc490c62da45c4f23636b6f63df025312a292537a115f64e9f1",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "Technik obok aparatu Unique Light System E808 w Pradze",
+      "ru": "Мастер рядом с аппаратом Unique Light System E808 в Праге",
+      "en": "Technician beside the Unique Light System E808 in Prague"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/praga-e808-pompa/serwis-unique-light-system-e808-praga-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 46876
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/serwis-unique-light-system-e808-praga-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 113292
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/serwis-unique-light-system-e808-praga.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 290156
+      }
+    ]
+  },
+  {
+    "source": "IMG_8263.heic",
+    "source_sha256": "863ed65f0281b5d6da17adb89e66ab646653b0b02bc488514cff58f9c7502190",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "Aparat Unique Light System E808 z ekranem i manipułą",
+      "ru": "Аппарат Unique Light System E808 с экраном и манипулой",
+      "en": "Unique Light System E808 with its display and handpiece"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/praga-e808-pompa/laser-unique-light-system-e808-widok-ogolny-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 29866
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/laser-unique-light-system-e808-widok-ogolny-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 71558
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/laser-unique-light-system-e808-widok-ogolny.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 176866
+      }
+    ]
+  },
+  {
+    "source": "IMG_8266.heic",
+    "source_sha256": "651d42edc9fec0b53bb2f1d5f98da0313c9c384e1ca5882fbb217d4a65d9f075",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "Komunikat Water flow error na ekranie aparatu E808",
+      "ru": "Сообщение Water flow error на экране аппарата E808",
+      "en": "Water flow error message on the E808 display"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/praga-e808-pompa/e808-water-flow-error-ekran-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 16452
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/e808-water-flow-error-ekran-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 38132
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/e808-water-flow-error-ekran.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 91302
+      }
+    ]
+  },
+  {
+    "source": "IMG_8268.heic",
+    "source_sha256": "9e8fcbb66e57afd52beef500aa21e0ec74a717472aecab7c2521a7c0b3ec548c",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "Technik przy tylnej obudowie lasera E808",
+      "ru": "Мастер у задней панели лазера E808",
+      "en": "Technician working at the rear casing of the E808"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/praga-e808-pompa/e808-dostep-serwisowy-obudowa-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 58354
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/e808-dostep-serwisowy-obudowa-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 136882
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/e808-dostep-serwisowy-obudowa.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 310556
+      }
+    ]
+  },
+  {
+    "source": "IMG_8269.heic",
+    "source_sha256": "73f2b7fab671a6512e49ae0b218fcfa0b4567ac95852da32b8e3a648ee366981",
+    "source_width": 5712,
+    "source_height": 3213,
+    "alt": {
+      "pl": "Otwarta obudowa aparatu z widocznymi przewodami układu chłodzenia",
+      "ru": "Открытый корпус аппарата с видимыми трубками системы охлаждения",
+      "en": "Open device casing with cooling circuit hoses visible"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/praga-e808-pompa/e808-otwarta-obudowa-chlodzenie-480w.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 18250
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/e808-otwarta-obudowa-chlodzenie-768w.webp",
+        "width": 768,
+        "height": 432,
+        "bytes": 36916
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/e808-otwarta-obudowa-chlodzenie.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 81024
+      }
+    ]
+  },
+  {
+    "source": "IMG_8273.heic",
+    "source_sha256": "e30f03037f4429be5fc76e741fbfadaefcd3c170caf449f0f7a3b609a922be89",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "Wymontowana pompa obiegowa z uchwytem i króćcami",
+      "ru": "Снятая циркуляционная помпа с креплением и патрубками",
+      "en": "Removed circulation pump with its bracket and hose fittings"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/praga-e808-pompa/pompa-obiegowa-e808-po-demontazu-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 43990
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/pompa-obiegowa-e808-po-demontazu-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 82058
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/pompa-obiegowa-e808-po-demontazu.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 161460
+      }
+    ]
+  },
+  {
+    "source": "IMG_8274.heic",
+    "source_sha256": "592926bde04405f6b552276082347f8f6c043cbb02bf7e349bfa41dbf9c3ac45",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "Pompa trzymana przez technika przy otwartym aparacie",
+      "ru": "Помпа в руках мастера рядом с открытым аппаратом",
+      "en": "Pump held by the technician beside the open device"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/praga-e808-pompa/pompa-e808-przy-otwartym-aparacie-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 59060
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/pompa-e808-przy-otwartym-aparacie-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 109316
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/pompa-e808-przy-otwartym-aparacie.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 213896
+      }
+    ]
+  },
+  {
+    "source": "IMG_8275.heic",
+    "source_sha256": "3436033f951dfb8a98d2135608405a146ceddb3b9efb7a3b87d437cb082ff0ad",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "Rozebrany silnik pompy z widocznym wirnikiem i zespołem szczotek",
+      "ru": "Разобранный двигатель помпы с видимым ротором и щёточным узлом",
+      "en": "Disassembled pump motor with its rotor and brush assembly visible"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/praga-e808-pompa/rozebrany-silnik-pompy-e808-szczotki-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 40428
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/rozebrany-silnik-pompy-e808-szczotki-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 75548
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/rozebrany-silnik-pompy-e808-szczotki.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 146912
+      }
+    ]
+  },
+  {
+    "source": "IMG_8276.heic",
+    "source_sha256": "ca26872ca520244afd001c7c3ac609a2b53bdc343fab09bd612f47a43997c34e",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "Czyszczenie komutatora wirnika silnika pompy szczotką",
+      "ru": "Очистка коллектора ротора двигателя помпы щёткой",
+      "en": "Cleaning the pump motor rotor commutator with a brush"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/praga-e808-pompa/czyszczenie-komutatora-pompy-e808-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 54324
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/czyszczenie-komutatora-pompy-e808-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 112286
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/czyszczenie-komutatora-pompy-e808.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 233266
+      }
+    ]
+  },
+  {
+    "source": "IMG_8272.heic",
+    "source_sha256": "e245c99d698a6cb063de567930ca1d6f66b22fdf29c8a8bb6c08f1c97f8164f9",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "Technik wlewa płyn z pojemnika do układu aparatu",
+      "ru": "Мастер заливает жидкость из ёмкости в систему аппарата",
+      "en": "Technician pouring fluid from a container into the device system"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/praga-e808-pompa/napelnianie-ukladu-chlodzenia-e808-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 39764
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/napelnianie-ukladu-chlodzenia-e808-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 80272
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/napelnianie-ukladu-chlodzenia-e808.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 162990
+      }
+    ]
+  },
+  {
+    "source": "IMG_8278.heic",
+    "source_sha256": "518bef1efbdeb7826e7472776878545462869cf4d876944fabf9cc4207e1a7ce",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "Ekran interfejsu aparatu E808 bez komunikatu Water flow error",
+      "ru": "Экран интерфейса E808 без сообщения Water flow error",
+      "en": "E808 interface screen without the Water flow error message"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/praga-e808-pompa/ekran-e808-po-naprawie-pompy-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 22096
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/ekran-e808-po-naprawie-pompy-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 53878
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/ekran-e808-po-naprawie-pompy.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 143360
+      }
+    ]
+  },
+  {
+    "source": "IMG_8280.heic",
+    "source_sha256": "97a0232de35cb04c436c8bc490c1fe9cbc0492dd37908312c1f17270da80459c",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "Aparat E808 z włączonym ekranem i manipułą po serwisie",
+      "ru": "Аппарат E808 с включённым экраном и манипулой после обслуживания",
+      "en": "E808 with its display on and handpiece after servicing"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/praga-e808-pompa/e808-manipula-ekran-po-serwisie-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 27670
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/e808-manipula-ekran-po-serwisie-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 56062
+      },
+      {
+        "path": "/img/realizacje/praga-e808-pompa/e808-manipula-ekran-po-serwisie.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 119114
+      }
+    ]
+  }
+]
