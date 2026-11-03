@@ -15,7 +15,7 @@ for service in config.values():
     for lang, route in site_locales.published(site_locales.resolve(service['pages'], registry)).items():
         cards = []
         # Match the compact Alma card even when a section contains just one case.
-        image_sizes = "(min-width: 1200px) 280px, (min-width: 1024px) 22vw, (min-width: 650px) 45vw, 90vw"
+        image_sizes = "(min-width: 1200px) 233px, (min-width: 1024px) calc((100vw - 268px) / 4), (min-width: 650px) calc((100vw - 148px) / 2), calc(100vw - 88px)"
         labels = {'pl': ['Objaw', 'Przyczyna', 'Rezultat', 'Pełna realizacja'],
                   'ru': ['Симптом', 'Причина', 'Результат', 'Полное описание'],
                   'en': ['Symptom', 'Cause', 'Result', 'Full case study']}[lang]
@@ -37,15 +37,15 @@ for service in config.values():
             image_path = ROOT / img['src'].lstrip('/')
             assert image_path.is_file(), img['src']
             image_attrs = dict(img)
-            if not image_attrs.get('srcset'):
-                variants = []
-                for width in (480, 768, 960, 1280):
-                    variant = image_path.with_name(f'{image_path.stem}-{width}w{image_path.suffix}')
-                    if variant.is_file():
-                        variants.append(f'/{variant.relative_to(ROOT).as_posix()} {width}w')
-                if variants:
-                    variants.append(f'{img["src"]} {int(img["width"])}w')
-                    image_attrs['srcset'] = ', '.join(variants)
+            variants = []
+            for width in (200, 320, 640, 960):
+                variant = image_path.with_name(f'{image_path.stem}-responsive-{width}w.webp')
+                if variant.is_file():
+                    variants.append(f'/{variant.relative_to(ROOT).as_posix()} {width}w')
+            image_attrs.pop('srcset', None)
+            if variants:
+                variants.append(f'{img["src"]} {int(img["width"])}w')
+                image_attrs['srcset'] = ', '.join(variants)
             attrs = ' '.join(f'{k}="{escape(v, quote=True)}"' for k, v in image_attrs.items())
             sizes = f' sizes="{image_sizes}"' if image_attrs.get('srcset') else ''
             card = f'<article class="contact-card price-card service-case"><img {attrs}{sizes} loading="lazy" decoding="async" alt="{escape(content["title"])}" /><h3>{escape(content["title"])}</h3>'

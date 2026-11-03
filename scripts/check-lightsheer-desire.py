@@ -85,5 +85,6 @@ for (kind, lang), route in ROUTES.items():
 for lang in ('pl', 'ru'):
     assert not (paragraphs['case', lang] & paragraphs['blog', lang]), 'Distinct case and guide'
 actual = {'/' + str(p.relative_to(ROOT)) for p in (ROOT / 'img/realizacje/lightsheer-desire-olesnica').glob('*.webp')}
-assert len(actual) == 30 and actual == seen_assets, 'All responsive assets are used'
+unused = actual - seen_assets
+assert seen_assets <= actual and all(path.endswith('-768w.webp') for path in unused), 'Only legacy 768px derivatives remain unused'
 print(json.dumps({'result': 'passed', 'pages': counts, 'responsive_assets': len(actual)}, ensure_ascii=False, indent=2))

@@ -5,6 +5,7 @@ import json
 import re
 import subprocess
 from pathlib import Path
+from image_srcset_test_utils import normalize_performance_links
 
 ROOT = Path(__file__).resolve().parents[1]
 spec = importlib.util.spec_from_file_location('partners', ROOT / 'scripts/build-partners.py')
@@ -47,7 +48,9 @@ for lang, filename in data['pages'].items():
             tag = ' '.join(tag.split())
             return re.sub(r'\s*/>$', ' />', tag)
         return re.sub(pattern, normalize_tag, document, flags=re.S)
-    assert builder.BLOCK.sub('GRID', normalize_shared_icon_dimensions(previous)) == builder.BLOCK.sub('GRID', normalize_shared_icon_dimensions(source))
+    previous_shell = builder.BLOCK.sub('GRID', normalize_performance_links(normalize_shared_icon_dimensions(previous)))
+    current_shell = builder.BLOCK.sub('GRID', normalize_performance_links(normalize_shared_icon_dimensions(source)))
+    assert previous_shell == current_shell
     assert 'href="https://www.instagram.com/pro_beauty.esen_/"' in cards[0]
     assert 'target="_blank" rel="noopener noreferrer"' in cards[0]
     assert 'Svatoplukova 42, Prostějov' in cards[0]

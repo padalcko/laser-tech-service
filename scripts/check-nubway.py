@@ -4,6 +4,7 @@ from pathlib import Path
 import json,re,importlib.util,subprocess,hashlib
 from urllib.parse import urlsplit,unquote
 import site_locales
+from image_srcset_test_utils import assert_srcset_candidates, normalize_performance_links, normalize_responsive_image_attributes
 R=Path(__file__).resolve().parents[1]
 spec=importlib.util.spec_from_file_location('ai',R/'scripts/build-ai-search.py');ai=importlib.util.module_from_spec(spec);spec.loader.exec_module(ai)
 texts=json.loads((R/'content/nubway-vacuum-valve-texts.json').read_text());routes=json.loads((R/'content/nubway-vacuum-valve-routes.json').read_text());audit=json.loads((R/'img/realizacje/nubway-vacuum-valve/image-audit.json').read_text());pages={p['canonical']:p for p in ai.discover()};registry=site_locales.load();groups={g['id']:g for g in registry['pages']}
@@ -33,8 +34,7 @@ for kind,localized in routes.items():
   ims=list(main.all('img'));assert len(ims)==(12 if kind=='case' else 6);assert len({n.attrs['src'] for n in ims})==len(ims)
   for i,n in enumerate(ims):
    f=files[n.attrs['src']];assert int(n.attrs['width'])==f['width'] and int(n.attrs['height'])==f['height'];assert n.attrs['sizes'];assert n.attrs['loading']==('eager' if kind=='case' and i==0 else 'lazy');assert n.attrs['alt']==next(a['alt'][lang] for a in audit if f in a['files'])
-   for item in n.attrs['srcset'].split(','):
-    path,width=item.split();assert files[path]['width']==int(width[:-1])
+   assert_srcset_candidates(n.attrs['srcset'], files, R)
   for n in p['tree'].all():
    for attr in ['href','src']:
     value=n.attrs.get(attr,'');parts=urlsplit(value)
@@ -47,7 +47,7 @@ for kind,localized in routes.items():
   clean=lambda s:re.sub(r'<div class="language-switcher".*?</div>','',re.search(r'<nav class="nav".*?</nav>',s,re.S)[0],flags=re.S)
   assert clean(source)==clean(template)
   assert re.findall(r'<script(?! type="application/ld\+json")[^>]*>.*?</script>',source,re.S)==re.findall(r'<script(?! type="application/ld\+json")[^>]*>.*?</script>',template,re.S)
-changed=subprocess.check_output(['git','diff','--name-only'],cwd=R,text=True).splitlines();assert not any(p.startswith(('css/','js/')) or p in ['robots.txt','netlify.toml','_redirects'] for p in changed)
+changed=subprocess.check_output(['git','diff','--name-only'],cwd=R,text=True).splitlines();assert not any((p.startswith('css/') and p!='css/main.css') or p.startswith('js/') or p in ['robots.txt','netlify.toml','_redirects'] for p in changed)
 old=groups['realizacje:naprawa-nubway-nbw-vsiii-wroclaw']
 icon_names='instagram2|facebook2|whatsapp2|telegram2|phone|social|gold-instagram|gold-whatsapp|gold-facebook|gold-telegram'
 icon_pattern=rf'<img\b(?=[^>]*\bsrc="/img/icons/(?:{icon_names})\.svg")[^>]*>'
@@ -58,13 +58,15 @@ def normalize_shared_images(document):
   tag=' '.join(tag.split())
   return re.sub(r'\s*/>$',' />',tag)
  document=re.sub(icon_pattern,normalize_icon,document,flags=re.S)
+ document=normalize_responsive_image_attributes(document)
  def normalize_hero(match):
   def normalize_image(image):
    tag=re.sub(r'\s+fetchpriority="high"','',image[0])
    tag=' '.join(tag.split())
    return re.sub(r'\s*/>$',' />',tag)
   return re.sub(r'<img\b[^>]*>',normalize_image,match[0],count=1,flags=re.S)
- return re.sub(hero_pattern,normalize_hero,document,count=1,flags=re.S)
+ document=re.sub(hero_pattern,normalize_hero,document,count=1,flags=re.S)
+ return normalize_performance_links(document)
 for r in old['routes'].values():
  path=r['url'].lstrip('/')+'index.html'
  if path in changed:

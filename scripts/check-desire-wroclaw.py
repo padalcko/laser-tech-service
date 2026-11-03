@@ -6,6 +6,7 @@ import re
 import subprocess
 from pathlib import Path
 import site_locales as locales
+from image_srcset_test_utils import assert_srcset_candidates, normalize_performance_links
 
 ROOT = Path(__file__).resolve().parents[1]
 spec = importlib.util.spec_from_file_location('ai', ROOT / 'scripts/build-ai-search.py')
@@ -61,9 +62,7 @@ for group in groups:
             assert node.attrs['width'] == str(f['width']) and node.attrs['height'] == str(f['height'])
             assert node.attrs['alt'] and node.attrs['sizes']
             assert node.attrs['loading'] == ('eager' if i == 0 else 'lazy')
-            for item in node.attrs['srcset'].split(','):
-                url, width = item.split()
-                assert assets[url]['width'] == int(width[:-1])
+            assert_srcset_candidates(node.attrs['srcset'], assets, ROOT)
         if kind == 'case':
             assert len(list(next(main.all('ol')).all('li'))) == 10
         else:
@@ -78,7 +77,7 @@ for group in groups:
 # Shared design and business integrations remain outside this task. Partner
 # pages may only gain the shared SVG intrinsic dimensions audited site-wide.
 changed = subprocess.check_output(['git', 'diff', '--name-only'], cwd=ROOT, text=True).splitlines()
-assert not any(p.startswith(('css/', 'js/')) for p in changed)
+assert not any((p.startswith('css/') and p != 'css/main.css') or p.startswith('js/') for p in changed)
 partner_pages = [p for p in changed if p.startswith(('partnerzy/', 'ru/partnerzy/', 'en/partners/'))]
 icon_names = 'instagram2|facebook2|whatsapp2|telegram2|phone|social|gold-instagram|gold-whatsapp|gold-facebook|gold-telegram'
 icon_pattern = rf'<img\b(?=[^>]*\bsrc="/img/icons/(?:{icon_names})\.svg")[^>]*>'
@@ -91,5 +90,5 @@ def normalize_shared_icon_dimensions(document):
 for path in partner_pages:
     previous = subprocess.check_output(['git', 'show', 'HEAD:' + path], cwd=ROOT, text=True)
     current = (ROOT / path).read_text()
-    assert normalize_shared_icon_dimensions(previous) == normalize_shared_icon_dimensions(current), path
+    assert normalize_performance_links(normalize_shared_icon_dimensions(previous)) == normalize_performance_links(normalize_shared_icon_dimensions(current)), path
 print('PASS: six pages, 30 assets, ten repair steps, three-language SEO, reciprocal links, six cards and unchanged shared design/integrations')

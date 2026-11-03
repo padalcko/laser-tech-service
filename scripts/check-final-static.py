@@ -5,6 +5,7 @@ from html.parser import HTMLParser
 import collections, importlib.util, json, re, sys
 import xml.etree.ElementTree as ET
 import tomllib
+from urllib.parse import urlsplit
 import site_locales
 
 ROOT=Path(__file__).resolve().parents[1]
@@ -77,11 +78,31 @@ for name in ('instagram2','facebook2','whatsapp2','telegram2','phone','social',
     icon_dimensions[f'/img/icons/{name}.svg']=(dimensions['width'],dimensions['height'])
 for path in ROOT.rglob('*.html'):
     if '.git' in path.parts:continue
-    tree=ai.Parser(path.read_text()).root
+    source=path.read_text()
+    tree=ai.Parser(source).root
+    links=[n for n in tree.all('link')]
+    styles={n.attrs.get('href') for n in links if n.attrs.get('rel')=='stylesheet'}
+    if '/css/main.css' in styles:
+        assert '/css/reset.css' in styles,(path,'missing direct reset stylesheet')
+        assert any('fonts.googleapis.com/css2?family=Montserrat' in (href or '') for href in styles),(path,'missing direct Montserrat stylesheet')
+        assert any(n.attrs.get('rel')=='preconnect' and n.attrs.get('href')=='https://fonts.googleapis.com' for n in links),(path,'missing Google Fonts preconnect')
+        assert any(n.attrs.get('rel')=='preconnect' and n.attrs.get('href')=='https://fonts.gstatic.com' and 'crossorigin' in n.attrs for n in links),(path,'missing Google Fonts CDN preconnect')
+    script_urls=[n.attrs.get('src','').lower() for n in tree.all('script')]
+    assert not any('jarallax-video' in url for url in script_urls),(path,'unused Jarallax video plugin remains')
+    has_parallax=bool(re.search(r'\bdata-jarallax(?:\s|=|>)|\bclass=["\'][^"\']*\bjarallax\b',source,re.I))
+    has_jarallax=any('jarallax' in url and 'jarallax-video' not in url for url in script_urls)
+    assert has_parallax==has_jarallax,(path,'Jarallax core does not match actual markup use')
     for image in tree.all('img'):
         src=image.attrs.get('src')
         if image.attrs.get('sizes'):
             assert image.attrs.get('srcset'),(path,src,'sizes without srcset')
+        if image.attrs.get('srcset'):
+            for candidate in image.attrs['srcset'].split(','):
+                parts=candidate.strip().split()
+                assert len(parts)==2 and re.fullmatch(r'\d+w',parts[1]),(path,src,'invalid srcset candidate',candidate)
+                candidate_path=urlsplit(parts[0]).path
+                if candidate_path.startswith('/'):
+                    assert (ROOT/candidate_path.lstrip('/')).is_file(),(path,src,'missing srcset asset',candidate_path)
         if src in icon_dimensions:
             assert (image.attrs.get('width'),image.attrs.get('height'))==icon_dimensions[src],(path,src)
 for page in pages:
@@ -96,6 +117,7 @@ for page in pages:
         image=next(hero.all('img'),None) if hero else None
         assert image and image.attrs.get('fetchpriority')=='high',page['canonical']
 error=(ROOT/'404.html').read_text();assert 'noindex' in error and '<h1' in error
+assert not re.search(r'(?m)^\s*@import\b',(ROOT/'css/main.css').read_text(),re.I)
 assert '/404.html' not in (ROOT/'sitemap.xml').read_text()
 registry=site_locales.load();planned=[r['url'] for g in registry['pages'] for r in g['routes'].values() if r['status']=='planned']
 assert all('/international-service' in u for u in planned) and len(planned)==3

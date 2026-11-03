@@ -99,7 +99,7 @@ for kind, routes in [('case', CASES), ('article', ARTICLES)]:
             assert attributes['alt'] and int(attributes['width']) > 0 and int(attributes['height']) > 0, route
             assert attributes['sizes'] and attributes['decoding'] == 'async', route
             variants = [entry.strip().split() for entry in attributes['srcset'].split(',')]
-            assert len(variants) == 3, route
+            assert len(variants) >= 3, route
             for url, descriptor in variants:
                 assert local_target(url).is_file() and descriptor.endswith('w'), url
             if position == 0:

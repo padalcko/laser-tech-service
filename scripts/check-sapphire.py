@@ -3,6 +3,7 @@
 import importlib.util,json,re
 from pathlib import Path
 import site_locales as locales
+from image_srcset_test_utils import assert_srcset_candidates
 R=Path(__file__).resolve().parents[1];spec=importlib.util.spec_from_file_location('ai',R/'scripts/build-ai-search.py');ai=importlib.util.module_from_spec(spec);spec.loader.exec_module(ai)
 reg=locales.load();groups=[g for g in reg['pages'] if g['id'] in ['realizacje:serwis-lasera-sapphire-wymiana-plynu','blog:lasery-dinozaury-wiek-stan-techniczny']];assert len(groups)==2
 case=next(g for g in groups if g['type']=='case-study');assert set(case['routes'])=={'pl','ru','en'}
@@ -29,8 +30,7 @@ for g in groups:
   assert len({n.attrs['src'] for n in ims})==len(ims)
   for i,n in enumerate(ims):
    f=files[n.attrs['src']];assert int(n.attrs['width'])==f['width'] and int(n.attrs['height'])==f['height'];assert n.attrs['alt'] and n.attrs['sizes'];assert n.attrs['loading']==('eager' if i==0 else 'lazy')
-   for item in n.attrs['srcset'].split(','):
-    path,width=item.split();assert files[path]['width']==int(width[:-1])
+   assert_srcset_candidates(n.attrs['srcset'], files, R)
   hub=url.rsplit('/',2)[0]+'/';cards=[n for n in pages[ai.BASE+hub]['tree'].all('article') if n.has('realizacja-card' if is_case else 'blog-card')];matching=[c for c in cards if any(a.attrs.get('href')==url for a in c.all('a'))];assert len(matching)==1;assert len(list(matching[0].all('img')))==(1 if is_case else 0)
   if not is_case:
    assert len(list(main.all('h2')))>=10

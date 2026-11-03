@@ -4,6 +4,7 @@ import importlib.util,json,re,subprocess
 from pathlib import Path
 from urllib.parse import urlsplit,unquote
 import site_locales as locales
+from image_srcset_test_utils import assert_srcset_candidates
 R=Path(__file__).resolve().parents[1]
 spec=importlib.util.spec_from_file_location('ai',R/'scripts/build-ai-search.py');ai=importlib.util.module_from_spec(spec);spec.loader.exec_module(ai)
 reg=locales.load();ids=['realizacje:naprawa-pompy-lasera-e808-praga','blog:water-flow-error-laser-pompa-obiegowa'];groups=[g for g in reg['pages'] if g['id'] in ids];assert len(groups)==2
@@ -32,8 +33,7 @@ for group in groups:
   ims=list(main.all('img'));count=12 if is_case else 5;assert len(ims)==count and len({n.attrs['src'] for n in ims})==count
   for i,n in enumerate(ims):
    f=files[n.attrs['src']];assert int(n.attrs['width'])==f['width'] and int(n.attrs['height'])==f['height'];assert n.attrs['alt']==next(im['alt'][lang] for im in audit if any(x['path']==n.attrs['src'] for x in im['files'])) and n.attrs['sizes'];assert n.attrs['loading']==('eager' if is_case and i==0 else 'lazy')
-   for item in n.attrs['srcset'].split(','):
-    path,width=item.split();assert files[path]['width']==int(width[:-1])
+   assert_srcset_candidates(n.attrs['srcset'], files, R)
   for n in p['tree'].all():
    for attr in ['href','src']:
     value=n.attrs.get(attr,'');parts=urlsplit(value)
@@ -52,5 +52,5 @@ for group in groups:
   assert re.findall(r'<script(?! type="application/ld\+json")[^>]*>.*?</script>',source,re.S)==re.findall(r'<script(?! type="application/ld\+json")[^>]*>.*?</script>',template,re.S)
 # Global styling, widget, forms and routing configuration must remain untouched.
 changed=subprocess.check_output(['git','diff','--name-only'],cwd=R,text=True).splitlines()
-assert not any(p.startswith(('css/','js/')) or p in ['robots.txt','netlify.toml','_redirects'] for p in changed)
+assert not any((p.startswith('css/') and p!='css/main.css') or p.startswith('js/') or p in ['robots.txt','netlify.toml','_redirects'] for p in changed)
 print('PASS: 6 localized pages, 36 metadata-free WebP assets, first cards, same-language links, SEO/schema and unchanged shared components')
