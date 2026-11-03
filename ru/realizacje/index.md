@@ -16,6 +16,16 @@
 
 Каждое устройство требует индивидуальной диагностики. Ниже представлены отдельные примеры нашей работы.
 
+![NUBWAY NBW-VSIII с маркировкой Body Space и мастер во время сервисного выезда](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-urzadzenie-body-space.webp)
+
+WrocławNUBWAY
+
+## [Ремонт клапана сброса вакуума NUBWAY NBW-VSIII во Вроцлаве](https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/)
+
+Ремонт клапана сброса вакуума NUBWAY NBW-VSIII. Восстановление всасывания манипул без замены клапана.
+
+[Смотреть реализацию](https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/)
+
 ![Аппарат с экраном и аварийной кнопкой](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/laser-kosmetyczny-panel-sterowania.webp)
 
 Клиент из Праги, ЧехияУстранение протечки
@@ -354,6 +364,7 @@ RF Вакуум Диагностика Ремонт
 
 ## Связанные работы
 
+- [Ремонт клапана сброса вакуума NUBWAY NBW-VSIII во Вроцлаве](https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/)
 - [Ремонт протечки охлаждения лазерной манипулы — клиент из Праги](https://lasertechservice.pl/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/)
 - [Ремонт помпы охлаждения лазера Unique Light System E808 в Праге](https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/)
 - [Перегрев лазерной манипулы в Любине — ремонт подключения лазерного диода](https://lasertechservice.pl/ru/realizacje/peregrev-lazernoy-manipuly-lyubin-remont-provodov/)

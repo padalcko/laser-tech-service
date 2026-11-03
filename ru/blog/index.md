@@ -10,6 +10,12 @@
 
 Пишем о том, с чем сталкиваемся каждый день: ремонте лазеров, диагностике неисправностей, обслуживании косметологического оборудования и обычных проблемах, которые возникают у владельцев салонов и кабинетов.
 
+Вакуумная система3 ноября 2026
+
+## [NUBWAY NBW-VSIII: как работает аппарат вакуумного массажа, его преимущества и особенности обслуживания](https://lasertechservice.pl/ru/blog/nubway-nbw-vsiii-harakteristiki-obsluzhivanie/)
+
+Как работает NUBWAY NBW-VSIII: вакуумный массаж, RF, IR, характеристики, обслуживание и неисправности.
+
 Система охлаждения2 ноября 2026
 
 ## [Почему стареют и протекают трубки охлаждения внутри лазерной манипулы?](https://lasertechservice.pl/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/)
@@ -186,6 +192,7 @@ Pharaon 1470, LSO Medical и OSYRIS: история обозначений, ос
 
 ## Связанные статьи
 
+- [NUBWAY NBW-VSIII: как работает аппарат вакуумного массажа, его преимущества и особенности обслуживания](https://lasertechservice.pl/ru/blog/nubway-nbw-vsiii-harakteristiki-obsluzhivanie/)
 - [Почему стареют и протекают трубки охлаждения внутри лазерной манипулы?](https://lasertechservice.pl/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/)
 - [В лазере есть вода, но охлаждение не работает. Почему останавливается циркуляционная помпа?](https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/)
 - [Почему слишком длинные провода могут вызывать перегрев лазерной манипулы?](https://lasertechservice.pl/ru/blog/peregrev-lazernoy-manipuly-dlinnye-provoda/)

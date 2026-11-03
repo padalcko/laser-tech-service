@@ -1569,6 +1569,44 @@
           "status": "published"
         }
       }
+    },
+    {
+      "id": "realizacje:nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw",
+      "type": "case-study",
+      "x_default": "/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:nubway-nbw-vsiii-dzialanie-serwis",
+      "type": "article",
+      "x_default": "/blog/nubway-nbw-vsiii-dzialanie-serwis/",
+      "routes": {
+        "pl": {
+          "url": "/blog/nubway-nbw-vsiii-dzialanie-serwis/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/nubway-nbw-vsiii-harakteristiki-obsluzhivanie/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/nubway-nbw-vsiii-features-maintenance/",
+          "status": "published"
+        }
+      }
     }
   ]
 }

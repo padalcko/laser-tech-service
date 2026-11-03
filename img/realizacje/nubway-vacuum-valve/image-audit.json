@@ -1,0 +1,398 @@
+[
+  {
+    "source": "IMG_6598.heic",
+    "source_bytes": 2188074,
+    "source_sha256": "21c132c79a9a6a6e243c9003038ec0148020d13413812000f3a53da68fd51667",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "NUBWAY NBW-VSIII z oznaczeniem Body Space i technik podczas wizyty serwisowej",
+      "ru": "NUBWAY NBW-VSIII с маркировкой Body Space и мастер во время сервисного выезда",
+      "en": "NUBWAY NBW-VSIII with Body Space branding and a technician during the service visit"
+    },
+    "processing": "Orientation normalized; brightness 1.015; contrast 1.02; no crop or retouch; discreet Laser Tech Service watermark bottom right; metadata removed",
+    "files": [
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-urzadzenie-body-space-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 59566
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-urzadzenie-body-space-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 141188
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-urzadzenie-body-space.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 339416
+      }
+    ]
+  },
+  {
+    "source": "IMG_6232.heic",
+    "source_bytes": 1593441,
+    "source_sha256": "182906d2559d61beeb14f4cfb160e36cf7e927f3187900384143ce00141038d1",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "Technik przy tylnych przyłączach głowic NUBWAY NBW-VSIII",
+      "ru": "Мастер у задних разъёмов манипул NUBWAY NBW-VSIII",
+      "en": "Technician beside the rear handpiece connections of the NUBWAY NBW-VSIII"
+    },
+    "processing": "Orientation normalized; brightness 1.015; contrast 1.02; no crop or retouch; discreet Laser Tech Service watermark bottom right; metadata removed",
+    "files": [
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-przylacza-manipul-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 51490
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-przylacza-manipul-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 94788
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-przylacza-manipul.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 184280
+      }
+    ]
+  },
+  {
+    "source": "IMG_6233.heic",
+    "source_bytes": 1426434,
+    "source_sha256": "f32c5d01e42d069bc208f86671527cffef1b9aa09c5f0c2e00f546edf8124ea8",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "Praca serwisowa przy tylnej części NUBWAY NBW-VSIII",
+      "ru": "Сервисная работа у задней части NUBWAY NBW-VSIII",
+      "en": "Service work at the rear of the NUBWAY NBW-VSIII"
+    },
+    "processing": "Orientation normalized; brightness 1.015; contrast 1.02; no crop or retouch; discreet Laser Tech Service watermark bottom right; metadata removed",
+    "files": [
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-tylna-czesc-urzadzenia-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 49892
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-tylna-czesc-urzadzenia-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 89332
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-tylna-czesc-urzadzenia.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 167054
+      }
+    ]
+  },
+  {
+    "source": "IMG_6599.heic",
+    "source_bytes": 790303,
+    "source_sha256": "619a6cc1b086d2f284b48109a7c13527d1d81f6ce86cd71b0301161431bec64c",
+    "source_width": 2268,
+    "source_height": 4032,
+    "alt": {
+      "pl": "Technik przy przedniej obudowie NUBWAY NBW-VSIII",
+      "ru": "Мастер у передней панели корпуса NUBWAY NBW-VSIII",
+      "en": "Technician beside the front casing of the NUBWAY NBW-VSIII"
+    },
+    "processing": "Orientation normalized; brightness 1.015; contrast 1.02; no crop or retouch; discreet Laser Tech Service watermark bottom right; metadata removed",
+    "files": [
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-obudowa-urzadzenia-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 40978
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-obudowa-urzadzenia-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 80208
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-obudowa-urzadzenia.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 158478
+      }
+    ]
+  },
+  {
+    "source": "IMG_6601.heic",
+    "source_bytes": 1821861,
+    "source_sha256": "6ea4ec3d5ffe8a479e3a0b788a95dd97ee9ac7f3993840f17aa8d463af6ccc1c",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "Technik obok otwartego korpusu NUBWAY NBW-VSIII",
+      "ru": "Мастер рядом с открытым корпусом NUBWAY NBW-VSIII",
+      "en": "Technician beside the open casing of the NUBWAY NBW-VSIII"
+    },
+    "processing": "Orientation normalized; brightness 1.015; contrast 1.02; no crop or retouch; discreet Laser Tech Service watermark bottom right; metadata removed",
+    "files": [
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-otwarta-obudowa-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 58928
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-otwarta-obudowa-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 130462
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-otwarta-obudowa.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 302224
+      }
+    ]
+  },
+  {
+    "source": "IMG_6602.heic",
+    "source_bytes": 1649923,
+    "source_sha256": "d2c6264b9cef38f6a6f41fdefaaaea73a684eca3cc08308b7ad7c170defbd48f",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "Dostęp do wnętrza NUBWAY NBW-VSIII podczas pracy serwisowej",
+      "ru": "Доступ к внутренним узлам NUBWAY NBW-VSIII во время обслуживания",
+      "en": "Access to the internal components of the NUBWAY NBW-VSIII during servicing"
+    },
+    "processing": "Orientation normalized; brightness 1.015; contrast 1.02; no crop or retouch; discreet Laser Tech Service watermark bottom right; metadata removed",
+    "files": [
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-dostep-serwisowy-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 56040
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-dostep-serwisowy-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 115230
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-dostep-serwisowy.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 248522
+      }
+    ]
+  },
+  {
+    "source": "IMG_6603.heic",
+    "source_bytes": 808136,
+    "source_sha256": "9af0b4a40d3465be86d9eee8d7213a2e5c901c7460767d17d55f549c160ea878",
+    "source_width": 2268,
+    "source_height": 4032,
+    "alt": {
+      "pl": "Zdemontowany zawór układu podciśnienia NUBWAY NBW-VSIII",
+      "ru": "Демонтированный клапан вакуумной системы NUBWAY NBW-VSIII",
+      "en": "Removed vacuum system valve from the NUBWAY NBW-VSIII"
+    },
+    "processing": "Orientation normalized; brightness 1.015; contrast 1.02; no crop or retouch; discreet Laser Tech Service watermark bottom right; metadata removed",
+    "files": [
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-zdemontowany-zawor-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 45828
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-zdemontowany-zawor-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 85782
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-zdemontowany-zawor.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 172994
+      }
+    ]
+  },
+  {
+    "source": "IMG_6604.heic",
+    "source_bytes": 854955,
+    "source_sha256": "93457e417c2993d9605413876863f088eba614112b9ba299ea42be1f06775b0f",
+    "source_width": 2268,
+    "source_height": 4032,
+    "alt": {
+      "pl": "Zbliżenie demontowanego zaworu i przyłączy pneumatycznych NUBWAY NBW-VSIII",
+      "ru": "Крупный план демонтированного клапана и пневматических соединений NUBWAY NBW-VSIII",
+      "en": "Close-up of the removed valve and pneumatic connections of the NUBWAY NBW-VSIII"
+    },
+    "processing": "Orientation normalized; brightness 1.015; contrast 1.02; no crop or retouch; discreet Laser Tech Service watermark bottom right; metadata removed",
+    "files": [
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-zawor-zblizenie-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 60066
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-zawor-zblizenie-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 113812
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-zawor-zblizenie.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 234274
+      }
+    ]
+  },
+  {
+    "source": "IMG_6605.heic",
+    "source_bytes": 1811349,
+    "source_sha256": "0cc2eaa85af159780402393123112be24aae46700e27650051ddb0839a73bfa9",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "Technik z głowicą przy włączonym panelu NUBWAY NBW-VSIII",
+      "ru": "Мастер с манипулой у включённой панели NUBWAY NBW-VSIII",
+      "en": "Technician holding a handpiece beside the illuminated NUBWAY NBW-VSIII control panel"
+    },
+    "processing": "Orientation normalized; brightness 1.015; contrast 1.02; no crop or retouch; discreet Laser Tech Service watermark bottom right; metadata removed",
+    "files": [
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-glowica-i-panel-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 54236
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-glowica-i-panel-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 113122
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-glowica-i-panel.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 241586
+      }
+    ]
+  },
+  {
+    "source": "IMG_6607.heic",
+    "source_bytes": 1789790,
+    "source_sha256": "433c58e2d714a4f44569806b29c183eac12aad84ce7095e3169579269291ef2e",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "Obsługa ekranu dotykowego NUBWAY NBW-VSIII",
+      "ru": "Работа с сенсорным экраном NUBWAY NBW-VSIII",
+      "en": "Operating the NUBWAY NBW-VSIII touchscreen"
+    },
+    "processing": "Orientation normalized; brightness 1.015; contrast 1.02; no crop or retouch; discreet Laser Tech Service watermark bottom right; metadata removed",
+    "files": [
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-obsluga-panelu-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 49674
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-obsluga-panelu-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 101438
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-obsluga-panelu.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 212280
+      }
+    ]
+  },
+  {
+    "source": "IMG_6608.heic",
+    "source_bytes": 2010850,
+    "source_sha256": "3867e422ce7f462e7dd269747681233fdff4331ff222961a6852d9fdb1be7b71",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "Panel sterowania i korpus NUBWAY NBW-VSIII podczas obsługi",
+      "ru": "Панель управления и корпус NUBWAY NBW-VSIII во время работы с экраном",
+      "en": "NUBWAY NBW-VSIII control panel and casing during touchscreen operation"
+    },
+    "processing": "Orientation normalized; brightness 1.015; contrast 1.02; no crop or retouch; discreet Laser Tech Service watermark bottom right; metadata removed",
+    "files": [
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-panel-i-urzadzenie-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 60248
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-panel-i-urzadzenie-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 133282
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-panel-i-urzadzenie.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 304402
+      }
+    ]
+  },
+  {
+    "source": "IMG_6609.heic",
+    "source_bytes": 1511836,
+    "source_sha256": "b77cd1c9200d7ca53541c48909d30f6edf7766116605814c2d07906364360687",
+    "source_width": 3213,
+    "source_height": 5712,
+    "alt": {
+      "pl": "Zbliżenie obsługi panelu dotykowego NUBWAY NBW-VSIII",
+      "ru": "Крупный план работы с сенсорной панелью NUBWAY NBW-VSIII",
+      "en": "Close-up of the NUBWAY NBW-VSIII touchscreen being operated"
+    },
+    "processing": "Orientation normalized; brightness 1.015; contrast 1.02; no crop or retouch; discreet Laser Tech Service watermark bottom right; metadata removed",
+    "files": [
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-ekran-dotykowy-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 44390
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-ekran-dotykowy-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 88852
+      },
+      {
+        "path": "/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-ekran-dotykowy.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 197962
+      }
+    ]
+  }
+]

@@ -1354,6 +1354,24 @@
       "related_services": []
     },
     {
+      "id": "article:blog:nubway-nbw-vsiii-dzialanie-serwis",
+      "title": "NUBWAY NBW-VSIII – jak działa urządzenie do masażu próżniowego i dlaczego warto o nie dbać?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/nubway-nbw-vsiii-dzialanie-serwis/",
+      "description": "Poznaj NUBWAY NBW-VSIII: masaż próżniowy, RF, IR, parametry, typowe usterki i serwis układu podciśnienia.",
+      "topics": [
+        "Układ podciśnienia"
+      ],
+      "datePublished": "2026-11-03",
+      "dateModified": "2026-11-03",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:naprawa-urzadzen-lpg",
+        "service:uslugi:naprawa-urzadzen-rf"
+      ]
+    },
+    {
       "id": "article:blog:pharaon-1470-historia-technologia-lasera",
       "title": "Pharaon 1470 — historia urządzenia i światło, które pochłania woda",
       "language": "pl",
@@ -1759,6 +1777,24 @@
       "related_services": []
     },
     {
+      "id": "article:en:blog:nubway-nbw-vsiii-features-maintenance",
+      "title": "NUBWAY NBW-VSIII: How This Vacuum Massage Machine Works, Its Features and Maintenance Requirements",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/nubway-nbw-vsiii-features-maintenance/",
+      "description": "Explore NUBWAY NBW-VSIII vacuum massage technology, RF, IR, technical specifications and maintenance requirements.",
+      "topics": [
+        "Vacuum system"
+      ],
+      "datePublished": "2026-11-03",
+      "dateModified": "2026-11-03",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:naprawa-urzadzen-lpg",
+        "service:uslugi:naprawa-urzadzen-rf"
+      ]
+    },
+    {
       "id": "article:en:blog:peltier-module-laser-handpiece-cooling",
       "title": "The Peltier module in a laser handpiece – how does cooling work and why does it fail?",
       "language": "en",
@@ -2043,6 +2079,24 @@
       "datePublished": "2026-10-15",
       "dateModified": "2026-10-15",
       "related_services": []
+    },
+    {
+      "id": "article:ru:blog:nubway-nbw-vsiii-harakteristiki-obsluzhivanie",
+      "title": "NUBWAY NBW-VSIII: как работает аппарат вакуумного массажа, его преимущества и особенности обслуживания",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/nubway-nbw-vsiii-harakteristiki-obsluzhivanie/",
+      "description": "Как работает NUBWAY NBW-VSIII: вакуумный массаж, RF, IR, характеристики, обслуживание и неисправности.",
+      "topics": [
+        "Вакуумная система"
+      ],
+      "datePublished": "2026-11-03",
+      "dateModified": "2026-11-03",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:naprawa-urzadzen-lpg",
+        "service:uslugi:naprawa-urzadzen-rf"
+      ]
     },
     {
       "id": "article:ru:blog:obsluzhivanie-manipuly-lazera-germetichnost-optika",
@@ -2743,6 +2797,27 @@
       "result": []
     },
     {
+      "id": "case:en:case-studies:nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw",
+      "title": "NUBWAY NBW-VSIII Vacuum Release Valve Repair in Wrocław",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw/",
+      "description": "Vacuum release valve repair on NUBWAY NBW-VSIII in Wrocław. Restored handpiece suction without valve replacement.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "NUBWAY NBW-VSIII"
+      },
+      "fault": [],
+      "performed_work": [],
+      "result": [
+        "After the repair, the vacuum system returned to normal operation, and the treatment handpieces regained their proper suction performance.",
+        "The equipment was restored without replacing the complete valve assembly.",
+        "Laser Tech Service provides diagnostics, maintenance and repair of laser, aesthetic and vacuum massage equipment in Wrocław and throughout Poland.",
+        "Laser Tech Service — Wrocław Phone: +48 790 402 597 contact@lasertechservice.pl"
+      ]
+    },
+    {
       "id": "case:en:case-studies:overheating-laser-handpiece-lubin-diode-wiring",
       "title": "Overheating Laser Handpiece Repair in Lubin — Diode Wiring Correction",
       "language": "en",
@@ -3113,6 +3188,30 @@
       "result": [
         "To kolejny przykład pokazujący, że profesjonalny serwis laserów, regeneracja laserów i naprawa laserów pozwalają przywrócić sprawność urządzenia bez konieczności wymiany całego sprzętu.",
         "Na wykonane prace udzielamy 6 miesięcy gwarancji."
+      ]
+    },
+    {
+      "id": "case:realizacje:nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw",
+      "title": "Naprawa zaworu podciśnienia w NUBWAY NBW-VSIII we Wrocławiu",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/",
+      "description": "Naprawa zaworu podciśnienia NUBWAY NBW-VSIII we Wrocławiu. Czyszczenie i regeneracja zaworu bez kosztownej wymiany.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "NUBWAY NBW-VSIII"
+      },
+      "fault": [
+        "Do Laser Tech Service zgłosiło się studio rehabilitacji z Wrocławia. Urządzenie NUBWAY NBW-VSIII nie wytwarzało prawidłowego podciśnienia, przez co głowice próżniowe miały zbyt słabą siłę zasysania. Utrudniało to prawidłowe wykonywanie zabiegów.",
+        "Nasi specjaliści przyjechali bezpośrednio do klienta, aby przeprowadzić diagnostykę i naprawę urządzenia na miejscu."
+      ],
+      "performed_work": [],
+      "result": [
+        "Po zakończeniu naprawy układ podciśnienia odzyskał prawidłowe działanie, a głowice próżniowe ponownie zaczęły pracować poprawnie.",
+        "Kolejna naprawa zakończona sukcesem, bez niepotrzebnej wymiany podzespołów.",
+        "Laser Tech Service realizuje serwis urządzeń kosmetycznych i rehabilitacyjnych we Wrocławiu oraz na terenie całej Polski. Oferujemy serwis laserów, regeneracja laserów i naprawa laserów, a także diagnostykę i naprawę urządzeń wykorzystujących technologię RF, masaż próżniowy i systemy podciśnienia.",
+        "Laser Tech Service — Wrocław Tel. +48 790 402 597 contact@lasertechservice.pl"
       ]
     },
     {
@@ -3645,6 +3744,34 @@
       "result": [
         "В Варшаве мы отремонтировали кабель и заменили разъём аппарата для RSL-массажа, восстановив исправное соединение манипулы. Небольшие элементы проводки важны для ежедневной эксплуатации всего устройства.",
         "В статье почему соединение манипулы с аппаратом так важно рассматриваем симптомы и уход за кабелем. Если нужен ремонт косметологического оборудования, опишите проблему и свяжитесь с Laser Tech Service."
+      ]
+    },
+    {
+      "id": "case:ru:realizacje:nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav",
+      "title": "Ремонт клапана сброса вакуума NUBWAY NBW-VSIII во Вроцлаве",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/",
+      "description": "Ремонт клапана сброса вакуума NUBWAY NBW-VSIII. Восстановление всасывания манипул без замены клапана.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "NUBWAY NBW-VSIII"
+      },
+      "fault": [
+        "В Laser Tech Service обратилась студия реабилитации во Вроцлаве. В аппарате NUBWAY NBW-VSIII вакуумные манипулы перестали нормально работать. Сила всасывания была недостаточной, из-за чего аппарат не мог обеспечивать правильную работу вакуумного массажа.",
+        "Наши специалисты выехали непосредственно к клиенту для диагностики и ремонта оборудования."
+      ],
+      "performed_work": [
+        "Во время диагностики вакуумной системы была обнаружена неисправность клапана сброса разрежения. Этот элемент отвечает за правильное управление сбросом вакуума в системе.",
+        "Мастера демонтировали клапан, тщательно очистили его и восстановили работоспособность.",
+        "Вместо установки нового клапана было принято решение отремонтировать существующий. Такой подход позволил избежать ненужных расходов, поскольку ремонт исправного в конструктивном отношении узла обходится дешевле его полной замены."
+      ],
+      "result": [
+        "После выполненных работ вакуумная система восстановила нормальную работу. Манипулы снова обеспечивают правильное всасывание и функционируют в штатном режиме.",
+        "Это ещё один пример того, что неисправность оборудования не всегда требует покупки дорогих запасных частей. Иногда достаточно грамотной диагностики, очистки и профессионального ремонта.",
+        "Laser Tech Service выполняет диагностику, техническое обслуживание и ремонт лазерного, косметологического и вакуумного оборудования во Вроцлаве и по всей Польше.",
+        "Laser Tech Service — Wrocław Тел. +48 790 402 597 contact@lasertechservice.pl"
       ]
     },
     {
@@ -4181,6 +4308,7 @@
       "https://lasertechservice.pl/blog/lasery-dinozaury-wiek-stan-techniczny/": "https://lasertechservice.pl/blog/lasery-dinozaury-wiek-stan-techniczny/index.md",
       "https://lasertechservice.pl/blog/lightsheer-desire-chlodzenie-niezawodnosc/": "https://lasertechservice.pl/blog/lightsheer-desire-chlodzenie-niezawodnosc/index.md",
       "https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/": "https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/index.md",
+      "https://lasertechservice.pl/blog/nubway-nbw-vsiii-dzialanie-serwis/": "https://lasertechservice.pl/blog/nubway-nbw-vsiii-dzialanie-serwis/index.md",
       "https://lasertechservice.pl/blog/pharaon-1470-historia-technologia-lasera/": "https://lasertechservice.pl/blog/pharaon-1470-historia-technologia-lasera/index.md",
       "https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/": "https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/index.md",
       "https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/": "https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/index.md",
@@ -4212,6 +4340,7 @@
       "https://lasertechservice.pl/en/blog/laser-unused-for-a-year-cooling-system/": "https://lasertechservice.pl/en/blog/laser-unused-for-a-year-cooling-system/index.md",
       "https://lasertechservice.pl/en/blog/laser-water-flow-error-circulation-pump/": "https://lasertechservice.pl/en/blog/laser-water-flow-error-circulation-pump/index.md",
       "https://lasertechservice.pl/en/blog/lightsheer-desire-cooling-reliability/": "https://lasertechservice.pl/en/blog/lightsheer-desire-cooling-reliability/index.md",
+      "https://lasertechservice.pl/en/blog/nubway-nbw-vsiii-features-maintenance/": "https://lasertechservice.pl/en/blog/nubway-nbw-vsiii-features-maintenance/index.md",
       "https://lasertechservice.pl/en/blog/peltier-module-laser-handpiece-cooling/": "https://lasertechservice.pl/en/blog/peltier-module-laser-handpiece-cooling/index.md",
       "https://lasertechservice.pl/en/blog/pharaon-1470-laser-history-technology/": "https://lasertechservice.pl/en/blog/pharaon-1470-laser-history-technology/index.md",
       "https://lasertechservice.pl/en/blog/professional-aesthetic-equipment-service/": "https://lasertechservice.pl/en/blog/professional-aesthetic-equipment-service/index.md",
@@ -4245,6 +4374,7 @@
       "https://lasertechservice.pl/en/case-studies/multipolar-rf-repair-lublin/": "https://lasertechservice.pl/en/case-studies/multipolar-rf-repair-lublin/index.md",
       "https://lasertechservice.pl/en/case-studies/nd-yag-tattoo-removal-laser-filter-service/": "https://lasertechservice.pl/en/case-studies/nd-yag-tattoo-removal-laser-filter-service/index.md",
       "https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-repair-wroclaw/": "https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-repair-wroclaw/index.md",
+      "https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw/": "https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw/index.md",
       "https://lasertechservice.pl/en/case-studies/overheating-laser-handpiece-lubin-diode-wiring/": "https://lasertechservice.pl/en/case-studies/overheating-laser-handpiece-lubin-diode-wiring/index.md",
       "https://lasertechservice.pl/en/case-studies/peltier-replacement-nd-yag-laser-repair/": "https://lasertechservice.pl/en/case-studies/peltier-replacement-nd-yag-laser-repair/index.md",
       "https://lasertechservice.pl/en/case-studies/pharaon-1470-maintenance-wroclaw/": "https://lasertechservice.pl/en/case-studies/pharaon-1470-maintenance-wroclaw/index.md",
@@ -4285,6 +4415,7 @@
       "https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/": "https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/": "https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/": "https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/index.md",
+      "https://lasertechservice.pl/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/": "https://lasertechservice.pl/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/index.md",
       "https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/": "https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/index.md",
       "https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/": "https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/index.md",
       "https://lasertechservice.pl/realizacje/przeglad-serwis-pharaon-1470-wroclaw/": "https://lasertechservice.pl/realizacje/przeglad-serwis-pharaon-1470-wroclaw/index.md",
@@ -4317,6 +4448,7 @@
       "https://lasertechservice.pl/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/": "https://lasertechservice.pl/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/index.md",
       "https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/": "https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/index.md",
       "https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/": "https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/index.md",
+      "https://lasertechservice.pl/ru/blog/nubway-nbw-vsiii-harakteristiki-obsluzhivanie/": "https://lasertechservice.pl/ru/blog/nubway-nbw-vsiii-harakteristiki-obsluzhivanie/index.md",
       "https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/": "https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/index.md",
       "https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/": "https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/index.md",
       "https://lasertechservice.pl/ru/blog/peregrev-lazernoy-manipuly-dlinnye-provoda/": "https://lasertechservice.pl/ru/blog/peregrev-lazernoy-manipuly-dlinnye-provoda/index.md",
@@ -4343,6 +4475,7 @@
       "https://lasertechservice.pl/ru/realizacje/naprawa-multipolar-rf-lublin/": "https://lasertechservice.pl/ru/realizacje/naprawa-multipolar-rf-lublin/index.md",
       "https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/": "https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/index.md",
       "https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/": "https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/index.md",
+      "https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/": "https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/index.md",
       "https://lasertechservice.pl/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/": "https://lasertechservice.pl/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/index.md",
       "https://lasertechservice.pl/ru/realizacje/peregrev-lazernoy-manipuly-lyubin-remont-provodov/": "https://lasertechservice.pl/ru/realizacje/peregrev-lazernoy-manipuly-lyubin-remont-provodov/index.md",
       "https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/": "https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/index.md",
@@ -4403,5 +4536,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-11-02T14:10:40Z"
+  "generated_at": "2026-11-03T08:49:59Z"
 }

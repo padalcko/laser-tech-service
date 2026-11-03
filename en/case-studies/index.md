@@ -16,6 +16,16 @@ Actual service work: the job scope, completed repairs and photographic and video
 
 Every device needs individual diagnostics. Explore selected examples of our service work below.
 
+![NUBWAY NBW-VSIII with Body Space branding and a technician during the service visit](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-urzadzenie-body-space.webp)
+
+WrocławNUBWAY
+
+## [NUBWAY NBW-VSIII Vacuum Release Valve Repair in Wrocław](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw/)
+
+Vacuum release valve repair on NUBWAY NBW-VSIII in Wrocław. Restored handpiece suction without valve replacement.
+
+[View case study](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw/)
+
 ![Device with display and emergency stop button](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/laser-kosmetyczny-panel-sterowania.webp)
 
 Customer from Prague, Czech RepublicCooling leak repair
@@ -354,6 +364,7 @@ We service diode lasers, Nd:YAG, IPL, CO₂ and other equipment used in aestheti
 
 ## Related repairs
 
+- [NUBWAY NBW-VSIII Vacuum Release Valve Repair in Wrocław](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw/)
 - [Laser Handpiece Cooling Leak Repair — Customer from Prague](https://lasertechservice.pl/en/case-studies/handpiece-cooling-leak-repair-prague-customer/)
 - [Laser Cooling Pump Repair — Unique Light System E808 in Prague](https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/)
 - [Overheating Laser Handpiece Repair in Lubin — Diode Wiring Correction](https://lasertechservice.pl/en/case-studies/overheating-laser-handpiece-lubin-diode-wiring/)
