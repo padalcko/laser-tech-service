@@ -58,8 +58,43 @@ for value,urls in meta.items():
     if len(urls)>1:issues['duplicate_metadata'].append(urls)
 for path in ROOT.rglob('*.json'):
     if '.git' not in path.parts:json.loads(path.read_text())
-ET.parse(ROOT/'sitemap.xml');tomllib.loads((ROOT/'netlify.toml').read_text())
+ET.parse(ROOT/'sitemap.xml')
+netlify=tomllib.loads((ROOT/'netlify.toml').read_text())
+header_rules={rule['for']:rule.get('values',{}) for rule in netlify.get('headers',[])}
+for path in ('/docs/*','/scripts/*'):
+    assert header_rules.get(path,{}).get('X-Robots-Tag')=='noindex', path
+headers=(ROOT/'_headers').read_text()
+custom_headers=headers.split('# END GENERATED AI HEADERS',1)[1]
+for path in ('/reports/*','/content/*'):
+    pattern=rf'(?m)^{re.escape(path)}\s*\n\s+X-Robots-Tag:\s*noindex\s*$'
+    assert re.search(pattern,custom_headers), path
 for path in (ROOT/'img').rglob('*.svg'):ET.parse(path)
+icon_dimensions={}
+for name in ('instagram2','facebook2','whatsapp2','telegram2','phone','social',
+             'gold-instagram','gold-whatsapp','gold-facebook','gold-telegram'):
+    path=ROOT/'img/icons'/f'{name}.svg'
+    dimensions=ET.parse(path).getroot().attrib
+    icon_dimensions[f'/img/icons/{name}.svg']=(dimensions['width'],dimensions['height'])
+for path in ROOT.rglob('*.html'):
+    if '.git' in path.parts:continue
+    tree=ai.Parser(path.read_text()).root
+    for image in tree.all('img'):
+        src=image.attrs.get('src')
+        if image.attrs.get('sizes'):
+            assert image.attrs.get('srcset'),(path,src,'sizes without srcset')
+        if src in icon_dimensions:
+            assert (image.attrs.get('width'),image.attrs.get('height'))==icon_dimensions[src],(path,src)
+for page in pages:
+    page_type=page['route_group']['type']
+    if page_type in ('services','service-detail'):
+        assert any(n.tag=='link' and n.attrs.get('rel')=='preload' and
+                   n.attrs.get('as')=='image' and
+                   n.attrs.get('href')=='/img/urzadzenia-laserowe-w-gabinecie.webp'
+                   for n in page['tags']),page['canonical']
+    if page_type=='case-study':
+        hero=next((n for n in page['tags'] if n.has('case-hero__image')),None)
+        image=next(hero.all('img'),None) if hero else None
+        assert image and image.attrs.get('fetchpriority')=='high',page['canonical']
 error=(ROOT/'404.html').read_text();assert 'noindex' in error and '<h1' in error
 assert '/404.html' not in (ROOT/'sitemap.xml').read_text()
 registry=site_locales.load();planned=[r['url'] for g in registry['pages'] for r in g['routes'].values() if r['status']=='planned']

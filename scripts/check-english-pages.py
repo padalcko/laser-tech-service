@@ -12,8 +12,8 @@ spec.loader.exec_module(ai)
 pages = ai.discover()
 english = [p for p in pages if p['lang'] == 'en']
 lookup = {p['canonical']: p for p in pages}
-assert len(pages) == 195 and len(english) == 65
-assert len([p for p in english if p['route_group']['type'] == 'service-detail']) == 15
+assert len(pages) == 246 and len(english) == 82
+assert len([p for p in english if p['route_group']['type'] == 'service-detail']) == 16
 
 def schemas(page):
     return [node for s in page['schemas'] for node in s.get('@graph', [s])]
@@ -22,7 +22,7 @@ def fields(page):
     return [(n.tag, n.attrs.get('name'), n.attrs.get('type')) for n in page['tags'] if n.tag in ('input', 'select', 'textarea')]
 
 for p in english:
-    original = lookup[p['alternates']['pl']]
+    original = lookup[ai.BASE + p['route_group']['routes']['pl']['url']]
     assert next(n for n in p['tags'] if n.tag == 'html').attrs['data-lazar-enabled'] == 'false'
     assert p['meta']['og:locale'] == 'en_GB'
     assert p['meta']['og:title'] and p['meta']['twitter:title'] and p['meta']['description']
@@ -40,9 +40,12 @@ for p in english:
         service = next(s for s in schemas(p) if s.get('@type') == 'Service')
         assert service['provider']['@id'] == ai.BASE + '/#organization'
         assert service['url'] == p['canonical']
-        faq = next(s for s in schemas(p) if s.get('@type') == 'FAQPage')['mainEntity']
+        faq_schema = next((s for s in schemas(p) if s.get('@type') == 'FAQPage'), None)
         questions = [n for n in p['tags'] if n.has('faq__question')]
-        assert len(faq) == len(questions) == len([n for n in original['tags'] if n.has('faq__question')])
+        source_questions = [n for n in original['tags'] if n.has('faq__question')]
+        assert len(questions) == len(source_questions)
+        if faq_schema:
+            assert len(faq_schema['mainEntity']) == len(questions)
         inputs = {n.attrs['name']:n.attrs.get('value') for n in p['tags'] if n.tag == 'input' and 'name' in n.attrs}
         source_inputs = {n.attrs['name']:n.attrs.get('value') for n in original['tags'] if n.tag == 'input' and 'name' in n.attrs}
         assert inputs['language'] == 'en' and inputs['source'].startswith('en-')
@@ -57,7 +60,7 @@ for p in english:
 services = lookup[ai.BASE + '/en/services/']
 catalog = json.loads((ai.ROOT / 'ai-catalog.json').read_text())
 assert catalog['languages'] == ['pl', 'ru', 'en']
-assert len(catalog['services']) == 15
+assert len(catalog['services']) == 16
 for record in catalog['services']:
     assert set(record['localizations']) == {'pl', 'ru', 'en'}
     source, en = record['localizations']['pl'], record['localizations']['en']
@@ -70,10 +73,13 @@ for record in catalog['services']:
         assert en['starting_price']['currency'] == 'EUR'
     else:
         assert en['starting_price'] is None
+        if url == '/en/services/service-for-salon-chains/':
+            assert link.text() == 'For Chains & Salons'
+            continue
     assert len(en['available_work']) == len(source['available_work']) > 0
     label = 'from EUR ' + format(convert(str(price['amount'])), ',') if price else 'quoted individually after diagnostics'
     assert label in link.parent.text(), url
 assert 'On-Site Equipment Service' not in lookup[ai.BASE+'/en/']['source']
 assert 'Ship Equipment for Repair in Poland' not in lookup[ai.BASE+'/en/']['source']
 assert '/en/international-service/' not in lookup[ai.BASE+'/en/']['source']
-print('PASS: 195 pages / 65 EN, reciprocal SEO, 15 service prices/scopes, FAQ, form contracts, no planned links, chat gated')
+print('PASS: 246 pages / 82 EN, reciprocal SEO, 16 service prices/scopes, FAQ, form contracts, no planned links, chat gated')

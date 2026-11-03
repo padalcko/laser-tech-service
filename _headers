@@ -1239,3 +1239,9 @@
   Content-Type: text/plain; charset=utf-8
   X-Content-Type-Options: nosniff
 # END GENERATED AI HEADERS
+
+/reports/*
+  X-Robots-Tag: noindex
+
+/content/*
+  X-Robots-Tag: noindex

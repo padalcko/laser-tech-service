@@ -47,8 +47,27 @@ for kind,localized in routes.items():
   clean=lambda s:re.sub(r'<div class="language-switcher".*?</div>','',re.search(r'<nav class="nav".*?</nav>',s,re.S)[0],flags=re.S)
   assert clean(source)==clean(template)
   assert re.findall(r'<script(?! type="application/ld\+json")[^>]*>.*?</script>',source,re.S)==re.findall(r'<script(?! type="application/ld\+json")[^>]*>.*?</script>',template,re.S)
-changed=subprocess.check_output(['git','diff','--name-only'],cwd=R,text=True).splitlines();assert not any(p.startswith(('css/','js/')) or p in ['robots.txt','netlify.toml','_redirects','404.html'] for p in changed)
+changed=subprocess.check_output(['git','diff','--name-only'],cwd=R,text=True).splitlines();assert not any(p.startswith(('css/','js/')) or p in ['robots.txt','netlify.toml','_redirects'] for p in changed)
 old=groups['realizacje:naprawa-nubway-nbw-vsiii-wroclaw']
+icon_names='instagram2|facebook2|whatsapp2|telegram2|phone|social|gold-instagram|gold-whatsapp|gold-facebook|gold-telegram'
+icon_pattern=rf'<img\b(?=[^>]*\bsrc="/img/icons/(?:{icon_names})\.svg")[^>]*>'
+hero_pattern=r'<div\b[^>]*class="[^"]*\bcase-hero__image\b[^"]*"[^>]*>.*?</div>'
+def normalize_shared_images(document):
+ def normalize_icon(match):
+  tag=re.sub(r'\s+(?:width|height)="[^"]+"','',match[0])
+  tag=' '.join(tag.split())
+  return re.sub(r'\s*/>$',' />',tag)
+ document=re.sub(icon_pattern,normalize_icon,document,flags=re.S)
+ def normalize_hero(match):
+  def normalize_image(image):
+   tag=re.sub(r'\s+fetchpriority="high"','',image[0])
+   tag=' '.join(tag.split())
+   return re.sub(r'\s*/>$',' />',tag)
+  return re.sub(r'<img\b[^>]*>',normalize_image,match[0],count=1,flags=re.S)
+ return re.sub(hero_pattern,normalize_hero,document,count=1,flags=re.S)
 for r in old['routes'].values():
- path=r['url'].lstrip('/')+'index.html';assert path not in changed
+ path=r['url'].lstrip('/')+'index.html'
+ if path in changed:
+  previous=subprocess.check_output(['git','show','HEAD:'+path],cwd=R,text=True);current=(R/path).read_text()
+  assert normalize_shared_images(previous)==normalize_shared_images(current),path
 print('PASS: six verbatim authored texts (paragraph/list order), six localized pages, 36 metadata-free WebP files, SEO/schema, internal links, first-position cards, unchanged old NUBWAY case/header/footer/scripts/global CSS/JS')

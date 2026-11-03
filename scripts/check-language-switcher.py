@@ -29,12 +29,17 @@ assert 'English</a>' in rendered and f'href="{group["routes"]["en"]["url"]}"' in
 assert '<span>EN</span>' in rendered and 'language-switcher__globe' in rendered and 'aria-current="page">English' in rendered
 print(f'PASS: {count} published dropdowns, EN publication gate and native language labels')
 
-# The error page has no alternate URLs: its three choices localize in place.
+# The error page has no translated routes; links provide locale-home fallbacks
+# while JavaScript keeps the language change in place.
 import json
 import re
 error = (locales.ROOT / '404.html').read_text()
 component = switcher.PATTERN.findall(error)
-error_group = {'routes': {lang: {'url': '#', 'status': 'published'} for lang in registry['languages']}}
+error_group = {'routes': {
+    'pl': {'url': '/', 'status': 'published'},
+    'ru': {'url': '/ru/', 'status': 'published'},
+    'en': {'url': '/en/', 'status': 'published'},
+}}
 assert component == [switcher.render(error_group, 'pl', registry['languages'])]
 assert 'data-error-localization' in error and 'src="/js/error-404.js"' in error
 assert 'name="robots" content="noindex, follow"' in error

@@ -75,7 +75,21 @@ for group in groups:
         assert len(matching) == 1
         assert len(list(matching[0].all('img'))) == (1 if kind == 'case' else 0)
         assert '/js/main.js' in p['source']
-# Shared design, business integrations and partner pages are outside this task.
+# Shared design and business integrations remain outside this task. Partner
+# pages may only gain the shared SVG intrinsic dimensions audited site-wide.
 changed = subprocess.check_output(['git', 'diff', '--name-only'], cwd=ROOT, text=True).splitlines()
-assert not any(p.startswith(('css/', 'js/', 'partnerzy/', 'ru/partnerzy/', 'en/partners/')) for p in changed)
+assert not any(p.startswith(('css/', 'js/')) for p in changed)
+partner_pages = [p for p in changed if p.startswith(('partnerzy/', 'ru/partnerzy/', 'en/partners/'))]
+icon_names = 'instagram2|facebook2|whatsapp2|telegram2|phone|social|gold-instagram|gold-whatsapp|gold-facebook|gold-telegram'
+icon_pattern = rf'<img\b(?=[^>]*\bsrc="/img/icons/(?:{icon_names})\.svg")[^>]*>'
+def normalize_shared_icon_dimensions(document):
+    def normalize_tag(match):
+        tag = re.sub(r'\s+(?:width|height)="[^"]+"', '', match[0])
+        tag = ' '.join(tag.split())
+        return re.sub(r'\s*/>$', ' />', tag)
+    return re.sub(icon_pattern, normalize_tag, document, flags=re.S)
+for path in partner_pages:
+    previous = subprocess.check_output(['git', 'show', 'HEAD:' + path], cwd=ROOT, text=True)
+    current = (ROOT / path).read_text()
+    assert normalize_shared_icon_dimensions(previous) == normalize_shared_icon_dimensions(current), path
 print('PASS: six pages, 30 assets, ten repair steps, three-language SEO, reciprocal links, six cards and unchanged shared design/integrations')

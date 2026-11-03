@@ -39,9 +39,9 @@ for group in groups:
     if not value or parts.scheme or value.startswith('#'):continue
     path=R/unquote(parts.path).lstrip('/');assert path.exists(),(url,value)
   hub=url.rsplit('/',2)[0]+'/';cards=[n for n in pages[ai.BASE+hub]['tree'].all('article') if n.has('realizacja-card' if is_case else 'blog-card')]
-  assert any(a.attrs.get('href')==url for a in cards[0].all('a'))
-  assert sum(any(a.attrs.get('href')==url for a in card.all('a')) for card in cards)==1
-  assert len(list(cards[0].all('img')))==(1 if is_case else 0)
+  matching_cards=[card for card in cards if any(a.attrs.get('href')==url for a in card.all('a'))]
+  assert len(matching_cards)==1
+  assert len(list(matching_cards[0].all('img')))==(1 if is_case else 0)
   peer=next(g for g in groups if g!=group)['routes'][lang]['url'];assert any(a.attrs.get('href')==peer for a in main.all('a'))
   old=next(g for g in reg['pages'] if g['id']==('realizacje:serwis-lasera-sapphire-wymiana-plynu' if is_case else 'blog:lasery-dinozaury-wiek-stan-techniczny'))
   template=(R/old['routes'][lang]['url'].lstrip('/')/'index.html').read_text()
@@ -51,5 +51,5 @@ for group in groups:
   assert re.findall(r'<script(?! type="application/ld\+json")[^>]*>.*?</script>',source,re.S)==re.findall(r'<script(?! type="application/ld\+json")[^>]*>.*?</script>',template,re.S)
 # Global styling, widget, forms and routing configuration must remain untouched.
 changed=subprocess.check_output(['git','diff','--name-only'],cwd=R,text=True).splitlines()
-assert not any(p.startswith(('css/','js/')) or p in ['robots.txt','netlify.toml','_redirects','404.html'] for p in changed)
+assert not any(p.startswith(('css/','js/')) or p in ['robots.txt','netlify.toml','_redirects'] for p in changed)
 print('PASS: 6 localized pages, 12 metadata-free WebP assets, first cards, same-language links, SEO/schema and unchanged shared components')

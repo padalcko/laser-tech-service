@@ -39,7 +39,15 @@ for lang, filename in data['pages'].items():
     current_existing = [card for card in cards if 'https://www.instagram.com/pro_beauty.esen_/' not in card]
     baseline_existing = [card for card in previous_cards if 'https://www.instagram.com/pro_beauty.esen_/' not in card]
     assert baseline_existing == current_existing
-    assert builder.BLOCK.sub('GRID', previous) == builder.BLOCK.sub('GRID', source)
+    def normalize_shared_icon_dimensions(document):
+        names = 'instagram2|facebook2|whatsapp2|telegram2|phone|social|gold-instagram|gold-whatsapp|gold-facebook|gold-telegram'
+        pattern = rf'<img\b(?=[^>]*\bsrc="/img/icons/(?:{names})\.svg")[^>]*>'
+        def normalize_tag(match):
+            tag = re.sub(r'\s+(?:width|height)="[^"]+"', '', match[0])
+            tag = ' '.join(tag.split())
+            return re.sub(r'\s*/>$', ' />', tag)
+        return re.sub(pattern, normalize_tag, document, flags=re.S)
+    assert builder.BLOCK.sub('GRID', normalize_shared_icon_dimensions(previous)) == builder.BLOCK.sub('GRID', normalize_shared_icon_dimensions(source))
     assert 'href="https://www.instagram.com/pro_beauty.esen_/"' in cards[0]
     assert 'target="_blank" rel="noopener noreferrer"' in cards[0]
     assert 'Svatoplukova 42, Prostějov' in cards[0]

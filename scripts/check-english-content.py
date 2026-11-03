@@ -12,8 +12,8 @@ spec.loader.exec_module(ai)
 pages = ai.discover()
 lookup = {p['canonical']: p for p in pages}
 content = [p for p in pages if p['lang'] == 'en' and p['route_group']['type'] in ('article', 'case-study', 'blog', 'case-studies')]
-assert len(content) == 45
-assert len(pages) == 195
+assert len(content) == 61
+assert len(pages) == 246
 
 def walk(v):
     if isinstance(v, dict):
@@ -30,7 +30,7 @@ def dates(p):
     return [(k,v) for s in p['schemas'] for n in walk(s) for k,v in n.items() if k in ('datePublished','dateModified','uploadDate')]
 
 for p in content:
-    pl = lookup[p['alternates']['pl']]
+    pl = lookup[ai.BASE + p['route_group']['routes']['pl']['url']]
     assert media(p) == media(pl), ('media', p['canonical'])
     assert dates(p) == dates(pl), ('dates', p['canonical'])
     assert [n.attrs.get('datetime') for n in p['tags'] if n.tag=='time'] == [n.attrs.get('datetime') for n in pl['tags'] if n.tag=='time']
@@ -62,9 +62,9 @@ for p in content:
                 if target and target['route_group']['type']==kind: result.append(target['route_group']['id'])
             return result
         assert linked_groups(p)==linked_groups(pl),('index order',p['canonical'])
-        assert len(set(linked_groups(p)))==(21 if kind=='article' else 22)
+        assert len(set(linked_groups(p)))==(29 if kind=='article' else 30)
         for n in main.all('a'):
             href=n.attrs.get('href','')
             assert not href.startswith(('/blog/','/realizacje/'))
         if kind=='article': assert not list(main.all('img')),'Blog cards remain text-only'
-print('PASS: 45 content pages, 195 canonical routes; source media/date/form parity, index order, EN links, schemas and chat gate')
+print('PASS: 61 EN content pages, 246 canonical routes; source media/date/form parity, index order, EN links, schemas and chat gate')
