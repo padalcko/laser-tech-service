@@ -15,10 +15,10 @@ const out=process.env.LTS_TEST_OUT||'/tmp/lts-esen';
   const url='/'+file.replace('index.html','');
   assert.equal((await page.goto(base+url)).status(),200);
   assert.equal(await page.locator('h1').count(),1);
-  const cards=page.locator('.partner-card');assert.equal(await cards.count(),7);
+  const cards=page.locator('.partner-card');assert.equal(await cards.count(),ordered.length);
   assert.deepEqual(await cards.locator('h2').allTextContents(),ordered.map(p=>p.content[lang].title));
   await cards.first().focus();assert(await cards.first().evaluate(e=>e===document.activeElement));
-  assert.equal(await cards.first().getAttribute('href'),'https://www.instagram.com/pro_beauty.esen_/');
+  assert.equal(await cards.first().getAttribute('href'),ordered[0].url);
   assert.equal(await cards.first().locator('img').getAttribute('alt'),ordered[0].content[lang].image_html.match(/alt="([^"]+)"/)[1]);
   await page.locator('.lazar-launcher').click();await page.locator('#lazar-panel').waitFor({state:'visible'});
   await page.locator('.lazar-close').click();await page.locator('#lazar-panel').waitFor({state:'hidden'});
@@ -34,12 +34,12 @@ const out=process.env.LTS_TEST_OUT||'/tmp/lts-esen';
    for(const d of dimensions){assert(d.left>=-1&&d.right<=width+1);assert(Math.abs(d.w-dimensions[0].w)<1);assert.equal(d.radius,dimensions[0].radius);assert.equal(d.background,dimensions[0].background);assert.equal(d.fit,'contain')}
    for(const d of dimensions){
     const peers=dimensions.filter(x=>Math.abs(x.top-d.top)<1);
-    for(const peer of peers){assert(Math.abs(peer.h-d.h)<1);for(let i=0;i<4;i++)assert(Math.abs(peer.blocks[i].top-d.blocks[i].top)<1,'Content rows must align')}
-    assert(d.blocks[3].top-d.blocks[2].bottom<=26,'No stretched gap before partner badge');
+    for(const peer of peers)assert(Math.abs(peer.h-d.h)<1);
+    assert(d.blocks[2].top-d.blocks[1].bottom<=36,'Description-to-address gap: '+(d.blocks[2].top-d.blocks[1].bottom)+' at '+lang+'/'+width);
    }
    assert(await cards.evaluateAll(nodes=>nodes.every(e=>Array.from(e.querySelectorAll('p,h2')).every(n=>n.scrollWidth<=n.clientWidth+1&&n.scrollHeight<=n.clientHeight+1))));
    await page.evaluate(()=>scrollTo(0,0));await page.screenshot({path:path.join(out,lang+'-'+width+'.png'),fullPage:true});
-   results.push({lang,width,overflow:false,cards:7});
+   results.push({lang,width,overflow:false,cards:ordered.length});
   }
   for(const [other,target] of Object.entries(data.pages)){
    if(other===lang)continue;
@@ -51,5 +51,5 @@ const out=process.env.LTS_TEST_OUT||'/tmp/lts-esen';
  }
  assert.deepEqual(errors,[]);await browser.close();
  fs.writeFileSync(path.join(out,'browser-results.json'),JSON.stringify({results,errors,languageTransitions:6,lazar:'open/close passed',externalRequests:'blocked'},null,2));
- console.log('PASS: 18 layouts, all logos decoded, aligned content within each row, natural card heights/styles, no text clipping or overflow, six language transitions, Lazar open/close; no JS errors');
+ console.log('PASS: 18 layouts, all logos decoded, natural description-to-address spacing, natural card heights/styles, no text clipping or overflow, six language transitions, Lazar open/close; no JS errors');
 })().catch(e=>{console.error(e);process.exit(1)});

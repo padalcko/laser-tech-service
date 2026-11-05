@@ -16,6 +16,16 @@ Actual service work: the job scope, completed repairs and photographic and video
 
 Every device needs individual diagnostics. Explore selected examples of our service work below.
 
+![Diode laser with a screen, handpiece and hose on a trolley](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa.webp)
+
+Warsaw808 nm · HS-A0406
+
+## [Complete 808 nm Diode Laser Maintenance in Warsaw – Cooling System Service and Handpiece Sealing](https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/)
+
+Complete 808 nm diode laser maintenance in Warsaw. Coolant replacement, internal cleaning, diode power verification and handpiece sealing.
+
+[View case study](https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/)
+
 ![NUBWAY NBW-VSIII with Body Space branding and a technician during the service visit](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-urzadzenie-body-space.webp)
 
 WrocławNUBWAY
@@ -364,6 +374,7 @@ We service diode lasers, Nd:YAG, IPL, CO₂ and other equipment used in aestheti
 
 ## Related repairs
 
+- [Complete 808 nm Diode Laser Maintenance in Warsaw – Cooling System Service and Handpiece Sealing](https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/)
 - [NUBWAY NBW-VSIII Vacuum Release Valve Repair in Wrocław](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw/)
 - [Laser Handpiece Cooling Leak Repair — Customer from Prague](https://lasertechservice.pl/en/case-studies/handpiece-cooling-leak-repair-prague-customer/)
 - [Laser Cooling Pump Repair — Unique Light System E808 in Prague](https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/)

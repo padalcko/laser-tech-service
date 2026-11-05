@@ -51,6 +51,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/blog/dlaczego-serwisowac-laser-diodowy-co-6-miesiecy/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/blog/dlaczego-serwisowac-laser-diodowy-co-6-miesiecy/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -301,6 +306,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/blog/why-a-small-cable-causes-big-problems/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/en/blog/why-diode-laser-maintenance-every-six-months-matters/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/blog/why-diode-laser-maintenance-every-six-months-matters/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /en/blog/why-handpiece-cooling-tubes-leak/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -320,6 +330,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/case-studies/3000-nain-power-supply-repair/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/en/case-studies/808nm-diode-laser-maintenance-warsaw/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /en/case-studies/alma-accent-cooling-hose-repair-gorlitz/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -691,6 +706,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/realizacje/serwis-lasera-diodowego-808nm-warszawa/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -881,6 +901,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/blog/zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/blog/zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /ru/blog/zamena-vody-v-lazere-dlya-epilyacii/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -940,6 +965,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/index.md
   Content-Type: text/markdown; charset=utf-8

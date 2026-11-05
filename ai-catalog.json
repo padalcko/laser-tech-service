@@ -1217,6 +1217,24 @@
       ]
     },
     {
+      "id": "article:blog:dlaczego-serwisowac-laser-diodowy-co-6-miesiecy",
+      "title": "Dlaczego laser diodowy warto serwisować co 6 miesięcy? Przykład klienta z Warszawy",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/dlaczego-serwisowac-laser-diodowy-co-6-miesiecy/",
+      "description": "Dlaczego regularny serwis laserów jest ważny? Wyjaśniamy rolę chłodzenia, czyszczenia i uszczelnienia głowicy na przykładzie z Warszawy.",
+      "topics": [
+        "Konserwacja laserów"
+      ],
+      "datePublished": "2026-11-05",
+      "dateModified": "2026-11-05",
+      "related_services": [
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow",
+        "service:uslugi:serwis-pogwarancyjny"
+      ]
+    },
+    {
       "id": "article:blog:dlaczego-warto-korzystac-z-profesjonalnego-serwisu",
       "title": "Dlaczego warto korzystać z profesjonalnego serwisu urządzeń kosmetycznych?",
       "language": "pl",
@@ -1886,6 +1904,23 @@
       "related_services": []
     },
     {
+      "id": "article:en:blog:why-diode-laser-maintenance-every-six-months-matters",
+      "title": "Why Regular Diode Laser Maintenance Matters: A Customer Who Services Their Equipment Every Six Months",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/why-diode-laser-maintenance-every-six-months-matters/",
+      "description": "Learn why regular diode laser maintenance, coolant replacement, internal cleaning and handpiece sealing help protect cosmetic laser equipment.",
+      "topics": [
+        "Laser maintenance"
+      ],
+      "datePublished": "2026-11-05",
+      "dateModified": "2026-11-05",
+      "related_services": [
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow",
+        "service:uslugi:serwis-pogwarancyjny"
+      ]
+    },
+    {
       "id": "article:en:blog:why-handpiece-cooling-tubes-leak",
       "title": "Why Do Cooling Tubes Inside Laser Handpieces Deteriorate and Leak?",
       "language": "en",
@@ -2311,6 +2346,23 @@
       ]
     },
     {
+      "id": "article:ru:blog:zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev",
+      "title": "Почему диодный лазер нужно регулярно обслуживать? Пример одного из наших самых дисциплинированных клиентов",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev/",
+      "description": "Почему регулярное ТО диодного лазера важно? Охлаждение, очистка, герметизация манипулы и защита диодного модуля от загрязнений.",
+      "topics": [
+        "Обслуживание лазеров"
+      ],
+      "datePublished": "2026-11-05",
+      "dateModified": "2026-11-05",
+      "related_services": [
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow",
+        "service:uslugi:serwis-pogwarancyjny"
+      ]
+    },
+    {
       "id": "article:ru:blog:zamena-vody-v-lazere-dlya-epilyacii",
       "title": "Вода в лазере для эпиляции: почему её необходимо менять и вовремя проводить обслуживание?",
       "language": "ru",
@@ -2336,6 +2388,22 @@
       "equipment": {
         "@type": "Thing",
         "name": "3000 NAIN"
+      },
+      "fault": [],
+      "performed_work": [],
+      "result": []
+    },
+    {
+      "id": "case:en:case-studies:808nm-diode-laser-maintenance-warsaw",
+      "title": "Complete 808 nm Diode Laser Maintenance in Warsaw – Cooling System Service and Handpiece Sealing",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/",
+      "description": "Complete 808 nm diode laser maintenance in Warsaw. Coolant replacement, internal cleaning, diode power verification and handpiece sealing.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "808 nm diode laser HS-A0406"
       },
       "fault": [],
       "performed_work": [],
@@ -3414,6 +3482,26 @@
       "result": []
     },
     {
+      "id": "case:realizacje:serwis-lasera-diodowego-808nm-warszawa",
+      "title": "Pełny serwis lasera diodowego 808 nm w Warszawie – konserwacja, chłodzenie i uszczelnienie głowicy",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/",
+      "description": "Pełny serwis lasera diodowego 808 nm w Warszawie. Wymiana płynu, czyszczenie, kontrola mocy diody i uszczelnienie głowicy. Laser Tech Service.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "808 nm diode laser HS-A0406"
+      },
+      "fault": [],
+      "performed_work": [],
+      "result": [
+        "Laser przeszedł pełną planową obsługę techniczną, obejmujące układ chłodzenia, czyszczenie, kontrolę diody i uszczelnienie głowicy.",
+        "To kolejny przykład pokazujący, że regularna konserwacja jest równie ważna jak naprawa laserów po wystąpieniu awarii.",
+        "W Laser Tech Service wykonujemy diagnostykę, serwis laserów, regenerację laserów i naprawy urządzeń kosmetologicznych na terenie Warszawy oraz całej Polski."
+      ]
+    },
+    {
       "id": "case:realizacje:serwis-lasera-diodowego-wymiana-glowicy-wroclaw",
       "title": "Serwis lasera diodowego – wymiana głowicy i obsługa techniczna",
       "language": "pl",
@@ -3772,6 +3860,26 @@
         "Это ещё один пример того, что неисправность оборудования не всегда требует покупки дорогих запасных частей. Иногда достаточно грамотной диагностики, очистки и профессионального ремонта.",
         "Laser Tech Service выполняет диагностику, техническое обслуживание и ремонт лазерного, косметологического и вакуумного оборудования во Вроцлаве и по всей Польше.",
         "Laser Tech Service — Wrocław Тел. +48 790 402 597 contact@lasertechservice.pl"
+      ]
+    },
+    {
+      "id": "case:ru:realizacje:obsluzhivanie-diodnogo-lazera-808nm-varshava",
+      "title": "Полное техническое обслуживание диодного лазера 808 нм в Варшаве — охлаждение, очистка и герметизация манипулы",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/",
+      "description": "Полное обслуживание диодного лазера 808 нм в Варшаве: замена охлаждающей жидкости, очистка, проверка мощности и герметизация манипулы.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "808 nm diode laser HS-A0406"
+      },
+      "fault": [],
+      "performed_work": [],
+      "result": [
+        "Выполнено полное плановое техническое обслуживание диодного лазера: заменена охлаждающая жидкость, очищены внутренние компоненты, проверена мощность диода и загерметизирована манипула.",
+        "Этот случай показывает, насколько важно обслуживать оборудование регулярно, а не только после появления неисправностей.",
+        "Laser Tech Service выполняет диагностику, техническое обслуживание, восстановление и ремонт лазерного оборудования в Варшаве и по всей Польше."
       ]
     },
     {
@@ -4298,6 +4406,7 @@
       "https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/": "https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/index.md",
       "https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/": "https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/index.md",
       "https://lasertechservice.pl/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/": "https://lasertechservice.pl/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/index.md",
+      "https://lasertechservice.pl/blog/dlaczego-serwisowac-laser-diodowy-co-6-miesiecy/": "https://lasertechservice.pl/blog/dlaczego-serwisowac-laser-diodowy-co-6-miesiecy/index.md",
       "https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/": "https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/index.md",
       "https://lasertechservice.pl/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/": "https://lasertechservice.pl/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/index.md",
       "https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/": "https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/index.md",
@@ -4348,10 +4457,12 @@
       "https://lasertechservice.pl/en/blog/scheduled-diode-laser-maintenance/": "https://lasertechservice.pl/en/blog/scheduled-diode-laser-maintenance/index.md",
       "https://lasertechservice.pl/en/blog/used-diode-laser-service-history/": "https://lasertechservice.pl/en/blog/used-diode-laser-service-history/index.md",
       "https://lasertechservice.pl/en/blog/why-a-small-cable-causes-big-problems/": "https://lasertechservice.pl/en/blog/why-a-small-cable-causes-big-problems/index.md",
+      "https://lasertechservice.pl/en/blog/why-diode-laser-maintenance-every-six-months-matters/": "https://lasertechservice.pl/en/blog/why-diode-laser-maintenance-every-six-months-matters/index.md",
       "https://lasertechservice.pl/en/blog/why-handpiece-cooling-tubes-leak/": "https://lasertechservice.pl/en/blog/why-handpiece-cooling-tubes-leak/index.md",
       "https://lasertechservice.pl/en/blog/why-laser-diode-modules-fail/": "https://lasertechservice.pl/en/blog/why-laser-diode-modules-fail/index.md",
       "https://lasertechservice.pl/en/case-studies/": "https://lasertechservice.pl/en/case-studies/index.md",
       "https://lasertechservice.pl/en/case-studies/3000-nain-power-supply-repair/": "https://lasertechservice.pl/en/case-studies/3000-nain-power-supply-repair/index.md",
+      "https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/": "https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/index.md",
       "https://lasertechservice.pl/en/case-studies/alma-accent-cooling-hose-repair-gorlitz/": "https://lasertechservice.pl/en/case-studies/alma-accent-cooling-hose-repair-gorlitz/index.md",
       "https://lasertechservice.pl/en/case-studies/beauty-planet-handpiece-cable-replacement-wroclaw/": "https://lasertechservice.pl/en/case-studies/beauty-planet-handpiece-cable-replacement-wroclaw/index.md",
       "https://lasertechservice.pl/en/case-studies/beauty-planet-vacuum-rf-repair-wroclaw/": "https://lasertechservice.pl/en/case-studies/beauty-planet-vacuum-rf-repair-wroclaw/index.md",
@@ -4426,6 +4537,7 @@
       "https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/": "https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/index.md",
       "https://lasertechservice.pl/realizacje/serwis-gme-exsys-308/": "https://lasertechservice.pl/realizacje/serwis-gme-exsys-308/index.md",
       "https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/": "https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/index.md",
+      "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/": "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/index.md",
       "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/": "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/index.md",
       "https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/": "https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/index.md",
       "https://lasertechservice.pl/realizacje/serwis-lasera-sapphire-wymiana-plynu/": "https://lasertechservice.pl/realizacje/serwis-lasera-sapphire-wymiana-plynu/index.md",
@@ -4464,6 +4576,7 @@
       "https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/": "https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/index.md",
       "https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/": "https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/index.md",
       "https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/": "https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/index.md",
+      "https://lasertechservice.pl/ru/blog/zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev/": "https://lasertechservice.pl/ru/blog/zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev/index.md",
       "https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/": "https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/index.md",
       "https://lasertechservice.pl/ru/kontakt/": "https://lasertechservice.pl/ru/kontakt/index.md",
       "https://lasertechservice.pl/ru/partnerzy/": "https://lasertechservice.pl/ru/partnerzy/index.md",
@@ -4476,6 +4589,7 @@
       "https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/": "https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/index.md",
       "https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/": "https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/index.md",
       "https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/": "https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/index.md",
+      "https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/": "https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/index.md",
       "https://lasertechservice.pl/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/": "https://lasertechservice.pl/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/index.md",
       "https://lasertechservice.pl/ru/realizacje/peregrev-lazernoy-manipuly-lyubin-remont-provodov/": "https://lasertechservice.pl/ru/realizacje/peregrev-lazernoy-manipuly-lyubin-remont-provodov/index.md",
       "https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/": "https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/index.md",
@@ -4536,5 +4650,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-11-03T08:49:59Z"
+  "generated_at": "2026-11-05T09:47:47Z"
 }

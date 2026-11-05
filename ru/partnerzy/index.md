@@ -16,6 +16,20 @@
 
 > Laser Tech Service рекомендует тех, чью работу и оборудование знает изнутри.
 
+![Логотип Pracownia Urody Elżbieta Bielecka с визитки](https://lasertechservice.pl/img/partnerzy/pracownia-urody-elzbieta-bielecka-logo.webp)
+
+## Pracownia Urody Elżbieta Bielecka
+
+Салон красоты.
+
+668 632 489
+ul. Okrzei 1, lokal U3
+05-100 Nowy Dwór Mazowiecki
+
+Партнёр Laser Tech Service
+
+[Страница партнёра](https://booksy.com/pl-pl/194017_pracownia-urody-elzbieta-bielecka_fryzjer_4231_nowy-dwor-mazowiecki)
+
 ![Фото профиля Pro Beauty Esen из Instagram](https://lasertechservice.pl/img/partnerzy/pro-beauty-esen-instagram.webp)
 
 ## Pro Beauty Esen
@@ -23,6 +37,7 @@
 Лазерная эпиляция, маникюр, педикюр, оформление бровей и ресниц.
 
 Svatoplukova 42, Prostějov
+Чехия
 
 Партнёр Laser Tech Service
 

@@ -1,0 +1,601 @@
+[
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8392.heic",
+    "sha256": "ac3c15259a403246fda2623ebcaf84dc7168ca652d6af246e0b89b623d9df8ac",
+    "name": "laser-diodowy-808nm-serwis-warszawa",
+    "original_dimensions": [
+      3213,
+      5712
+    ],
+    "redaction": null,
+    "alt": {
+      "pl": "Laser diodowy z ekranem, głowicą i przewodem na wózku",
+      "ru": "Диодный лазер с экраном, манипулой и шлангом на тележке",
+      "en": "Diode laser with a screen, handpiece and hose on a trolley"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa-320w.webp",
+        "width": 320,
+        "height": 569,
+        "bytes": 12862
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 22462
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa-640w.webp",
+        "width": 640,
+        "height": 1138,
+        "bytes": 33714
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 42678
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa-960w.webp",
+        "width": 960,
+        "height": 1707,
+        "bytes": 58166
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 88838
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8393.heic",
+    "sha256": "0411b783b58f004a09503fa09838cdae08b2a3ea41d25893cf2c01f6cb4e51ae",
+    "name": "laser-hs-a0406-tabliczka-i-wentylatory",
+    "original_dimensions": [
+      5712,
+      3213
+    ],
+    "redaction": {
+      "box": [
+        3305,
+        669,
+        4039,
+        865
+      ],
+      "reason": "serial number and barcode"
+    },
+    "alt": {
+      "pl": "Tylny panel lasera HS-A0406 z etykietą modelu, przyłączami wody i wentylatorami",
+      "ru": "Задняя панель лазера HS-A0406 с маркировкой модели, водяными портами и вентиляторами",
+      "en": "HS-A0406 rear panel with model label, water ports and cooling fans"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/diode-808-warsaw/laser-hs-a0406-tabliczka-i-wentylatory-320w.webp",
+        "width": 320,
+        "height": 180,
+        "bytes": 10336
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/laser-hs-a0406-tabliczka-i-wentylatory-480w.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 18374
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/laser-hs-a0406-tabliczka-i-wentylatory-640w.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 27246
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/laser-hs-a0406-tabliczka-i-wentylatory-768w.webp",
+        "width": 768,
+        "height": 432,
+        "bytes": 34870
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/laser-hs-a0406-tabliczka-i-wentylatory-960w.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 47650
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/laser-hs-a0406-tabliczka-i-wentylatory.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 70990
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8394.heic",
+    "sha256": "9b1a05e4e90ed8e6aee31a944f9bb44321b239526aa10c0068558477d204c29d",
+    "name": "glowica-lasera-diodowego-808nm",
+    "original_dimensions": [
+      2268,
+      4032
+    ],
+    "redaction": null,
+    "alt": {
+      "pl": "Obudowa głowicy lasera diodowego z przewodem i małym wyświetlaczem",
+      "ru": "Корпус манипулы диодного лазера со шлангом и небольшим дисплеем",
+      "en": "Diode laser handpiece housing with hose and small display"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/diode-808-warsaw/glowica-lasera-diodowego-808nm-320w.webp",
+        "width": 320,
+        "height": 569,
+        "bytes": 8068
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/glowica-lasera-diodowego-808nm-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 15416
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/glowica-lasera-diodowego-808nm-640w.webp",
+        "width": 640,
+        "height": 1138,
+        "bytes": 24906
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/glowica-lasera-diodowego-808nm-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 34102
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/glowica-lasera-diodowego-808nm-960w.webp",
+        "width": 960,
+        "height": 1707,
+        "bytes": 51344
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/glowica-lasera-diodowego-808nm.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 87354
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8395.heic",
+    "sha256": "7c541efb718d89882c760f0c6b4361309e3c3b94a6bda0c57dac8b5cf8f19842",
+    "name": "spust-plynu-chlodzacego-laser",
+    "original_dimensions": [
+      3213,
+      5712
+    ],
+    "redaction": null,
+    "alt": {
+      "pl": "Przewód odprowadzający płyn do pojemnika przy tylnym panelu lasera",
+      "ru": "Шланг для слива жидкости в ёмкость у задней панели лазера",
+      "en": "Hose draining liquid into a container beside the laser rear panel"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/diode-808-warsaw/spust-plynu-chlodzacego-laser-320w.webp",
+        "width": 320,
+        "height": 569,
+        "bytes": 15754
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/spust-plynu-chlodzacego-laser-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 27922
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/spust-plynu-chlodzacego-laser-640w.webp",
+        "width": 640,
+        "height": 1138,
+        "bytes": 43290
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/spust-plynu-chlodzacego-laser-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 56898
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/spust-plynu-chlodzacego-laser-960w.webp",
+        "width": 960,
+        "height": 1707,
+        "bytes": 78972
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/spust-plynu-chlodzacego-laser.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 117552
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8396.heic",
+    "sha256": "3b360de0c5bbf3fde25c1548a49b18497e197d05fceeb1ea1446df3617fb103c",
+    "name": "panel-wewnetrzny-lasera-i-przewody",
+    "original_dimensions": [
+      3213,
+      5712
+    ],
+    "redaction": null,
+    "alt": {
+      "pl": "Wewnętrzna metalowa płyta lasera z mocowaniami i przewodami",
+      "ru": "Внутренняя металлическая панель лазера с креплениями и проводами",
+      "en": "Internal metal laser panel with mounting brackets and wiring"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/diode-808-warsaw/panel-wewnetrzny-lasera-i-przewody-320w.webp",
+        "width": 320,
+        "height": 569,
+        "bytes": 18348
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/panel-wewnetrzny-lasera-i-przewody-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 34816
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/panel-wewnetrzny-lasera-i-przewody-640w.webp",
+        "width": 640,
+        "height": 1138,
+        "bytes": 54642
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/panel-wewnetrzny-lasera-i-przewody-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 71836
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/panel-wewnetrzny-lasera-i-przewody-960w.webp",
+        "width": 960,
+        "height": 1707,
+        "bytes": 100912
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/panel-wewnetrzny-lasera-i-przewody.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 154626
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8397.heic",
+    "sha256": "470950101472fce47fc1c30d4c42cb7d85e13850accb6bf6a13e1598d7595d8a",
+    "name": "wnetrze-lasera-diodowego-wentylatory",
+    "original_dimensions": [
+      5712,
+      3213
+    ],
+    "redaction": null,
+    "alt": {
+      "pl": "Otwarta obudowa lasera z wentylatorami, zasilaczem i przewodami",
+      "ru": "Открытый корпус лазера с вентиляторами, блоком питания и проводами",
+      "en": "Open laser housing with fans, power supply and wiring"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/diode-808-warsaw/wnetrze-lasera-diodowego-wentylatory-320w.webp",
+        "width": 320,
+        "height": 180,
+        "bytes": 10104
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/wnetrze-lasera-diodowego-wentylatory-480w.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 18504
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/wnetrze-lasera-diodowego-wentylatory-640w.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 27436
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/wnetrze-lasera-diodowego-wentylatory-768w.webp",
+        "width": 768,
+        "height": 432,
+        "bytes": 35516
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/wnetrze-lasera-diodowego-wentylatory-960w.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 49528
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/wnetrze-lasera-diodowego-wentylatory.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 74784
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8398.heic",
+    "sha256": "7bb5aa00bf75fb354183ee057985d13a7734a159ceffbb8f3f8d657a6b1dcdbf",
+    "name": "podzespoly-wewnatrz-lasera-diodowego",
+    "original_dimensions": [
+      5712,
+      3213
+    ],
+    "redaction": null,
+    "alt": {
+      "pl": "Widok wewnętrznych podzespołów lasera i przewodów przy otwartej obudowie",
+      "ru": "Вид внутренних компонентов и проводов лазера при открытом корпусе",
+      "en": "View of internal laser components and wiring with the housing open"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/diode-808-warsaw/podzespoly-wewnatrz-lasera-diodowego-320w.webp",
+        "width": 320,
+        "height": 180,
+        "bytes": 10626
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/podzespoly-wewnatrz-lasera-diodowego-480w.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 19238
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/podzespoly-wewnatrz-lasera-diodowego-640w.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 29244
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/podzespoly-wewnatrz-lasera-diodowego-768w.webp",
+        "width": 768,
+        "height": 432,
+        "bytes": 38556
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/podzespoly-wewnatrz-lasera-diodowego-960w.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 54760
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/podzespoly-wewnatrz-lasera-diodowego.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 85562
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8399.heic",
+    "sha256": "2dc48e2efcf33d455b8450dd2ff955cd632347ece25e9b9287ac4e6202ddd4b3",
+    "name": "przewody-ukladu-chlodzenia-lasera",
+    "original_dimensions": [
+      5712,
+      3213
+    ],
+    "redaction": null,
+    "alt": {
+      "pl": "Przewody i połączenia układu wodnego wewnątrz lasera",
+      "ru": "Шланги и соединения водяного контура внутри лазера",
+      "en": "Water circuit hoses and connections inside the laser"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/diode-808-warsaw/przewody-ukladu-chlodzenia-lasera-320w.webp",
+        "width": 320,
+        "height": 180,
+        "bytes": 11354
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/przewody-ukladu-chlodzenia-lasera-480w.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 19160
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/przewody-ukladu-chlodzenia-lasera-640w.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 27686
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/przewody-ukladu-chlodzenia-lasera-768w.webp",
+        "width": 768,
+        "height": 432,
+        "bytes": 35032
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/przewody-ukladu-chlodzenia-lasera-960w.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 46450
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/przewody-ukladu-chlodzenia-lasera.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 65394
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8400.heic",
+    "sha256": "14970d270ac2b408b24c6956c28cdff18cee645ee3b208be105793b58a2bd953",
+    "name": "ekran-lasera-diodowego-808nm",
+    "original_dimensions": [
+      3213,
+      5712
+    ],
+    "redaction": null,
+    "alt": {
+      "pl": "Włączony ekran sterowania z napisem 808NM DIODE LASER",
+      "ru": "Включённый экран управления с надписью 808NM DIODE LASER",
+      "en": "Active control screen labelled 808NM DIODE LASER"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/diode-808-warsaw/ekran-lasera-diodowego-808nm-320w.webp",
+        "width": 320,
+        "height": 569,
+        "bytes": 13562
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/ekran-lasera-diodowego-808nm-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 24132
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/ekran-lasera-diodowego-808nm-640w.webp",
+        "width": 640,
+        "height": 1138,
+        "bytes": 34952
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/ekran-lasera-diodowego-808nm-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 45180
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/ekran-lasera-diodowego-808nm-960w.webp",
+        "width": 960,
+        "height": 1707,
+        "bytes": 59830
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/ekran-lasera-diodowego-808nm.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 89902
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8401.heic",
+    "sha256": "c01ac408cbe7df1c30791f75d191e7c8fdc18d632000b5ffb2938c18fa08a6da",
+    "name": "laser-hs-a0406-panel-tylny",
+    "original_dimensions": [
+      5712,
+      3213
+    ],
+    "redaction": {
+      "box": [
+        3452,
+        881,
+        4039,
+        1044
+      ],
+      "reason": "serial number and barcode"
+    },
+    "alt": {
+      "pl": "Tył lasera HS-A0406 z wentylatorami, przyłączami i przewodem zasilającym",
+      "ru": "Задняя часть лазера HS-A0406 с вентиляторами, портами и кабелем питания",
+      "en": "HS-A0406 rear housing with fans, ports and power cable"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/diode-808-warsaw/laser-hs-a0406-panel-tylny-320w.webp",
+        "width": 320,
+        "height": 180,
+        "bytes": 9372
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/laser-hs-a0406-panel-tylny-480w.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 17090
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/laser-hs-a0406-panel-tylny-640w.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 24954
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/laser-hs-a0406-panel-tylny-768w.webp",
+        "width": 768,
+        "height": 432,
+        "bytes": 31852
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/laser-hs-a0406-panel-tylny-960w.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 43082
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/laser-hs-a0406-panel-tylny.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 60734
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8402.heic",
+    "sha256": "a287f68877992d9cda491b6b439cd88e3a36ea41e8cf36568929e444104cf7ba",
+    "name": "uszczelnianie-manipuly-lasera-diodowego",
+    "original_dimensions": [
+      3213,
+      5712
+    ],
+    "redaction": null,
+    "alt": {
+      "pl": "Nakładanie uszczelniacza na połączenie obudowy głowicy laserowej",
+      "ru": "Нанесение герметика на соединение корпуса лазерной манипулы",
+      "en": "Applying sealant to a joint in the laser handpiece housing"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/diode-808-warsaw/uszczelnianie-manipuly-lasera-diodowego-320w.webp",
+        "width": 320,
+        "height": 569,
+        "bytes": 9524
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/uszczelnianie-manipuly-lasera-diodowego-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 16434
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/uszczelnianie-manipuly-lasera-diodowego-640w.webp",
+        "width": 640,
+        "height": 1138,
+        "bytes": 24178
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/uszczelnianie-manipuly-lasera-diodowego-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 31510
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/uszczelnianie-manipuly-lasera-diodowego-960w.webp",
+        "width": 960,
+        "height": 1707,
+        "bytes": 43838
+      },
+      {
+        "path": "/img/realizacje/diode-808-warsaw/uszczelnianie-manipuly-lasera-diodowego.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 64028
+      }
+    ]
+  }
+]

@@ -219,7 +219,7 @@
           "image_html": "<img src=\"/img/partnerzy/pro-beauty-esen-instagram.webp\" alt=\"Zdjęcie profilowe Pro Beauty Esen z Instagramu\" width=\"100\" height=\"100\" loading=\"lazy\" decoding=\"async\" />",
           "descriptions_html": [
             "Depilacja laserowa, manicure, pedicure oraz stylizacja brwi i rzęs.",
-            "Svatoplukova 42, Prostějov"
+            "Svatoplukova 42, Prostějov<br />Czechy"
           ],
           "badge": "Partner Laser Tech Service"
         },
@@ -228,7 +228,7 @@
           "image_html": "<img src=\"/img/partnerzy/pro-beauty-esen-instagram.webp\" alt=\"Фото профиля Pro Beauty Esen из Instagram\" width=\"100\" height=\"100\" loading=\"lazy\" decoding=\"async\" />",
           "descriptions_html": [
             "Лазерная эпиляция, маникюр, педикюр, оформление бровей и ресниц.",
-            "Svatoplukova 42, Prostějov"
+            "Svatoplukova 42, Prostějov<br />Чехия"
           ],
           "badge": "Партнёр Laser Tech Service"
         },
@@ -237,7 +237,41 @@
           "image_html": "<img src=\"/img/partnerzy/pro-beauty-esen-instagram.webp\" alt=\"Pro Beauty Esen Instagram profile picture\" width=\"100\" height=\"100\" loading=\"lazy\" decoding=\"async\" />",
           "descriptions_html": [
             "Laser hair removal, manicures, pedicures, and brow and lash styling.",
-            "Svatoplukova 42, Prostějov"
+            "Svatoplukova 42, Prostějov<br />Czechia"
+          ],
+          "badge": "Laser Tech Service partner"
+        }
+      }
+    },
+    {
+      "id": "pracownia-urody-elzbieta-bielecka",
+      "priority": 80,
+      "url": "https://booksy.com/pl-pl/194017_pracownia-urody-elzbieta-bielecka_fryzjer_4231_nowy-dwor-mazowiecki",
+      "content": {
+        "pl": {
+          "title": "Pracownia Urody Elżbieta Bielecka",
+          "image_html": "<img src=\"/img/partnerzy/pracownia-urody-elzbieta-bielecka-logo.webp\"\n                  srcset=\"/img/partnerzy/pracownia-urody-elzbieta-bielecka-logo-201w.webp 201w, /img/partnerzy/pracownia-urody-elzbieta-bielecka-logo.webp 402w\" sizes=\"201px\"\n                  alt=\"Znak Pracowni Urody Elżbieta Bielecka z wizytówki\" width=\"402\" height=\"446\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Salon urody.",
+            "668 632 489<br />ul. Okrzei 1, lokal U3<br />05-100 Nowy Dwór Mazowiecki"
+          ],
+          "badge": "Partner Laser Tech Service"
+        },
+        "ru": {
+          "title": "Pracownia Urody Elżbieta Bielecka",
+          "image_html": "<img src=\"/img/partnerzy/pracownia-urody-elzbieta-bielecka-logo.webp\"\n                  srcset=\"/img/partnerzy/pracownia-urody-elzbieta-bielecka-logo-201w.webp 201w, /img/partnerzy/pracownia-urody-elzbieta-bielecka-logo.webp 402w\" sizes=\"201px\"\n                  alt=\"Логотип Pracownia Urody Elżbieta Bielecka с визитки\" width=\"402\" height=\"446\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Салон красоты.",
+            "668 632 489<br />ul. Okrzei 1, lokal U3<br />05-100 Nowy Dwór Mazowiecki"
+          ],
+          "badge": "Партнёр Laser Tech Service"
+        },
+        "en": {
+          "title": "Pracownia Urody Elżbieta Bielecka",
+          "image_html": "<img src=\"/img/partnerzy/pracownia-urody-elzbieta-bielecka-logo.webp\"\n                  srcset=\"/img/partnerzy/pracownia-urody-elzbieta-bielecka-logo-201w.webp 201w, /img/partnerzy/pracownia-urody-elzbieta-bielecka-logo.webp 402w\" sizes=\"201px\"\n                  alt=\"Pracownia Urody Elżbieta Bielecka mark from the business card\" width=\"402\" height=\"446\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Beauty salon.",
+            "668 632 489<br />ul. Okrzei 1, lokal U3<br />05-100 Nowy Dwór Mazowiecki"
           ],
           "badge": "Laser Tech Service partner"
         }

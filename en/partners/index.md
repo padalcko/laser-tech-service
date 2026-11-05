@@ -16,6 +16,20 @@ We know the equipment they use because we maintain and repair it. This gives us 
 
 > Laser Tech Service recommends businesses whose work and equipment we know first-hand.
 
+![Pracownia Urody Elżbieta Bielecka mark from the business card](https://lasertechservice.pl/img/partnerzy/pracownia-urody-elzbieta-bielecka-logo.webp)
+
+## Pracownia Urody Elżbieta Bielecka
+
+Beauty salon.
+
+668 632 489
+ul. Okrzei 1, lokal U3
+05-100 Nowy Dwór Mazowiecki
+
+Laser Tech Service partner
+
+[Partner website](https://booksy.com/pl-pl/194017_pracownia-urody-elzbieta-bielecka_fryzjer_4231_nowy-dwor-mazowiecki)
+
 ![Pro Beauty Esen Instagram profile picture](https://lasertechservice.pl/img/partnerzy/pro-beauty-esen-instagram.webp)
 
 ## Pro Beauty Esen
@@ -23,6 +37,7 @@ We know the equipment they use because we maintain and repair it. This gives us 
 Laser hair removal, manicures, pedicures, and brow and lash styling.
 
 Svatoplukova 42, Prostějov
+Czechia
 
 Laser Tech Service partner
 

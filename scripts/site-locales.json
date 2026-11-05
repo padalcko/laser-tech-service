@@ -1607,6 +1607,44 @@
           "status": "published"
         }
       }
+    },
+    {
+      "id": "realizacje:serwis-lasera-diodowego-808nm-warszawa",
+      "type": "case-study",
+      "x_default": "/realizacje/serwis-lasera-diodowego-808nm-warszawa/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/serwis-lasera-diodowego-808nm-warszawa/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/808nm-diode-laser-maintenance-warsaw/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:dlaczego-serwisowac-laser-diodowy-co-6-miesiecy",
+      "type": "article",
+      "x_default": "/blog/dlaczego-serwisowac-laser-diodowy-co-6-miesiecy/",
+      "routes": {
+        "pl": {
+          "url": "/blog/dlaczego-serwisowac-laser-diodowy-co-6-miesiecy/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/why-diode-laser-maintenance-every-six-months-matters/",
+          "status": "published"
+        }
+      }
     }
   ]
 }
