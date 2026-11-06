@@ -440,144 +440,89 @@ document.addEventListener("DOMContentLoaded", () => {
 
 document.addEventListener("DOMContentLoaded", () => {
   const track = document.getElementById("carouselTrack");
-
-  if (!track) {
-    return;
-  }
-
-  /*
-     Nie klonujemy drugi raz,
-     jeśli skrypt został uruchomiony ponownie.
-  */
-
-  if (track.dataset.cloned !== "true") {
-    track.innerHTML += track.innerHTML;
-
-    track.dataset.cloned = "true";
-  }
-
-  let position = 0;
-
-  const speed = 0.3;
-  const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
-
-  let isDragging = false;
-
-  let startX = 0;
-
-  let startPosition = 0;
-
-  /* -----------------------------------------
-     AUTO MOVEMENT
-  ----------------------------------------- */
-
-  function animateCarousel() {
-    if (reducedMotion.matches) return;
-    if (!isDragging) {
-      position -= speed;
-
-      if (Math.abs(position) >= track.scrollWidth / 2) {
-        position = 0;
-      }
-    }
-
+  if (!track || track.dataset.carouselReady === "true") return;
+  track.dataset.carouselReady = "true";
+  const wrapper = track.closest('.carousel-wrapper');
+  const mobile = matchMedia('(max-width: 767px)');
+  const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
+  const originals = Array.from(track.children);
+  let clones = [], position = 0, frame = null, lastTime = null;
+  let visible = false, dragging = false, startX = 0, startPosition = 0;
+  const render = () => {
+    const length = track.scrollWidth / 2;
+    if (length) position = ((position % length) - length) % length;
     track.style.transform = `translateX(${position}px)`;
-
-    requestAnimationFrame(animateCarousel);
+  };
+  const shouldAnimate = () => !mobile.matches && !reducedMotion.matches && visible && !document.hidden && !dragging;
+  const stop = () => {
+    if (frame !== null) cancelAnimationFrame(frame);
+    frame = null; lastTime = null;
+  };
+  function tick(time) {
+    frame = null;
+    if (!shouldAnimate()) { lastTime = null; return; }
+    if (lastTime !== null) position -= Math.min(time - lastTime, 50) * 0.018;
+    lastTime = time;
+    render();
+    frame = requestAnimationFrame(tick);
   }
-
-  animateCarousel();
-  reducedMotion.addEventListener("change", () => { if (!reducedMotion.matches) animateCarousel(); });
-
-  /* -----------------------------------------
-     MOUSE DRAG
-  ----------------------------------------- */
-
-  track.addEventListener("mousedown", (event) => {
-    isDragging = true;
-
-    startX = event.clientX;
-
-    startPosition = position;
-  });
-
-  window.addEventListener("mouseup", () => {
-    isDragging = false;
-  });
-
-  window.addEventListener("mousemove", (event) => {
-    if (!isDragging) {
-      return;
+  const syncAnimation = () => {
+    if (!shouldAnimate()) stop();
+    else if (frame === null) frame = requestAnimationFrame(tick);
+  };
+  const setMode = () => {
+    stop(); dragging = false; position = 0;
+    if (mobile.matches) {
+      clones.forEach(node => node.remove()); clones = [];
+      track.style.removeProperty('transform');
+    } else {
+      wrapper.scrollLeft = 0;
+      if (!clones.length) {
+        clones = originals.map(node => {
+          const clone = node.cloneNode(true);
+          clone.setAttribute('aria-hidden', 'true'); clone.inert = true;
+          clone.removeAttribute('id'); clone.querySelectorAll('[id]').forEach(child => child.removeAttribute('id'));
+          return clone;
+        });
+        track.append(...clones);
+      }
+      render();
     }
+    syncAnimation();
+  };
+  new IntersectionObserver(entries => {
+    visible = entries[0].isIntersecting;
+    syncAnimation();
+  }).observe(wrapper);
+  mobile.addEventListener('change', setMode);
+  reducedMotion.addEventListener('change', syncAnimation);
+  document.addEventListener('visibilitychange', syncAnimation);
+  setMode();
 
-    const distance = event.clientX - startX;
-
-    position = startPosition + distance;
-  });
-
-  /* -----------------------------------------
-     TOUCH
-  ----------------------------------------- */
-
-  track.addEventListener(
-    "touchstart",
-    (event) => {
-      if (!event.touches.length) {
-        return;
-      }
-
-      isDragging = true;
-
-      startX = event.touches[0].clientX;
-
-      startPosition = position;
-    },
-    {
-      passive: true,
-    },
-  );
-
-  window.addEventListener(
-    "touchend",
-    () => {
-      isDragging = false;
-    },
-    {
-      passive: true,
-    },
-  );
-
-  window.addEventListener(
-    "touchmove",
-    (event) => {
-      if (!isDragging || !event.touches.length) {
-        return;
-      }
-
-      const distance = event.touches[0].clientX - startX;
-
-      position = startPosition + distance;
-    },
-    {
-      passive: true,
-    },
-  );
-
-  /* -----------------------------------------
-     MOUSE WHEEL
-  ----------------------------------------- */
-
-  track.addEventListener(
-    "wheel",
-    (event) => {
-      event.preventDefault();
-
-      position -= event.deltaY * 0.5;
-    },
-    {
-      passive: false,
-    },
-  );
+  const beginDrag = x => {
+    if (mobile.matches) return;
+    dragging = true; startX = x; startPosition = position; stop();
+  };
+  const moveDrag = x => {
+    if (!dragging || mobile.matches) return;
+    position = startPosition + x - startX; render();
+  };
+  const endDrag = () => { dragging = false; syncAnimation(); };
+  track.addEventListener('mousedown', event => beginDrag(event.clientX));
+  window.addEventListener('mousemove', event => moveDrag(event.clientX));
+  window.addEventListener('mouseup', endDrag);
+  track.addEventListener('touchstart', event => {
+    if (event.touches.length) beginDrag(event.touches[0].clientX);
+  }, {passive: true});
+  window.addEventListener('touchmove', event => {
+    if (event.touches.length) moveDrag(event.touches[0].clientX);
+  }, {passive: true});
+  window.addEventListener('touchend', endDrag, {passive: true});
+  window.addEventListener('touchcancel', endDrag, {passive: true});
+  track.addEventListener('wheel', event => {
+    if (mobile.matches) return;
+    event.preventDefault(); position -= event.deltaY * 0.5; render();
+  }, {passive: false});
 });
 
 /* Shared Lazar AI widget: all public PL/RU pages already load this entry point. */

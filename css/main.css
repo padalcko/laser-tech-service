@@ -1059,6 +1059,13 @@ menu>.trigger:hover {
 }
 
 
+@media (max-width: 767px) {
+    .carousel-wrapper { overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; }
+    .carousel-wrapper::-webkit-scrollbar { display: none; }
+    .carousel-track .device { scroll-snap-align: start; }
+}
+
+
 .carousel-track {
     display: flex;
 
