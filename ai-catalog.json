@@ -1459,6 +1459,24 @@
       "related_services": []
     },
     {
+      "id": "article:blog:smartpuls-ipl-linux-30000-impulsow",
+      "title": "smartPULS – niemiecki IPL z systemem Linux. Dlaczego sprawna lampa przestała działać po 30 000 impulsów?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/",
+      "description": "smartPULS na Linux: diagnostyka IPL w Świdnicy, interwał 30 000 impulsów i hipotezy dotyczące obwodu głowicy. Fakty i granice ustaleń serwisowych.",
+      "topics": [
+        "Serwis IPL"
+      ],
+      "datePublished": "2026-11-06",
+      "dateModified": "2026-11-06",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:naprawa-zasilaczy-i-elektroniki",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow",
+        "service:uslugi:serwis-ipl"
+      ]
+    },
+    {
       "id": "article:blog:spalona-dioda-laserowa-naprawa-glowicy",
       "title": "Spalona dioda laserowa — czy trzeba wymieniać całą głowicę?",
       "language": "pl",
@@ -1876,6 +1894,24 @@
       "datePublished": "2026-09-12",
       "dateModified": "2026-09-12",
       "related_services": []
+    },
+    {
+      "id": "article:en:blog:smartpuls-ipl-linux-30000-pulses",
+      "title": "smartPULS: A German IPL Device Running Linux. Why Did an Intact Lamp Stop Working After 30,000 Pulses?",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/smartpuls-ipl-linux-30000-pulses/",
+      "description": "A smartPULS IPL service visit in Świdnica: Linux controls, the 30,000-pulse interval and handpiece circuit hypotheses, with evidence limits explained.",
+      "topics": [
+        "IPL servicing"
+      ],
+      "datePublished": "2026-11-06",
+      "dateModified": "2026-11-06",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:naprawa-zasilaczy-i-elektroniki",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow",
+        "service:uslugi:serwis-ipl"
+      ]
     },
     {
       "id": "article:en:blog:used-diode-laser-service-history",
@@ -2327,6 +2363,24 @@
         "service:uslugi:diagnostyka-laserow-diodowych",
         "service:uslugi:regeneracja-glowic-i-manipulatorow",
         "service:uslugi:wymiana-i-kalibracja-diod-laserowych"
+      ]
+    },
+    {
+      "id": "article:ru:blog:smartpuls-ipl-linux-30000-vspyshek",
+      "title": "smartPULS — немецкий IPL-аппарат на Linux. Почему исправная лампа перестала работать после 30 000 вспышек?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/",
+      "description": "smartPULS на Linux: диагностика IPL в Свиднице, интервал 30 000 импульсов и гипотезы о цепи манипулы. Подтверждённые наблюдения и ограничения выводов.",
+      "topics": [
+        "Сервис IPL"
+      ],
+      "datePublished": "2026-11-06",
+      "dateModified": "2026-11-06",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:naprawa-zasilaczy-i-elektroniki",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow",
+        "service:uslugi:serwis-ipl"
       ]
     },
     {
@@ -2985,6 +3039,22 @@
       ]
     },
     {
+      "id": "case:en:case-studies:smartpuls-ipl-swidnica",
+      "title": "smartPULS IPL Handpiece Repair in Świdnica",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/",
+      "description": "smartPULS IPL diagnostics and handpiece repair in Świdnica. Identifying the cause of missing pulses before replacing the lamp.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "smartPULS IPL"
+      },
+      "fault": [],
+      "performed_work": [],
+      "result": []
+    },
+    {
       "id": "case:en:case-studies:urgent-co2-laser-repair-poznan",
       "title": "Urgent CO₂ laser repair in Poznań — on-site service",
       "language": "en",
@@ -3566,6 +3636,22 @@
         "Po wymianie płynu i oczyszczeniu aparat uruchomiono i sprawdzono jego pracę. Urządzenie działa.",
         "Ten wynik potwierdza sprawdzenie działania po obsłudze. Nie zastępuje raportu z pomiarów promieniowania i nie stanowi oceny skuteczności klinicznej. Zdjęcia dokumentują wizytę serwisową, a nie badanie efektów zabiegów."
       ]
+    },
+    {
+      "id": "case:realizacje:smartpuls-ipl-swidnica",
+      "title": "smartPULS – przywrócenie działania głowicy IPL w Świdnicy",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/",
+      "description": "Diagnostyka smartPULS w Świdnicy i przywrócenie działania głowicy IPL. Sprawdzenie przyczyny braku błysków przed wymianą lampy. Laser Tech Service.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "smartPULS IPL"
+      },
+      "fault": [],
+      "performed_work": [],
+      "result": []
     },
     {
       "id": "case:realizacje:wymiana-modulu-diodowego-lasera-po-zalaniu-poznan",
@@ -4303,6 +4389,28 @@
       "result": []
     },
     {
+      "id": "case:ru:realizacje:smartpuls-ipl-svidnica",
+      "title": "smartPULS — восстановление работы IPL-манипулы в Свиднице",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/",
+      "description": "Диагностика smartPULS в Свиднице и восстановление работы IPL-манипулы. Выяснение причины отсутствия вспышек перед заменой лампы.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "smartPULS IPL"
+      },
+      "fault": [],
+      "performed_work": [
+        "Laser Tech Service обслуживает косметологические аппараты во Вроцлаве, Свиднице и по всей Польше.",
+        "Мы выполняем диагностику, ремонт IPL-аппаратов, восстановление манипул, обслуживание лазеров и проверку электронных систем.",
+        "Если аппарат перестал производить вспышки, это ещё не означает, что лампа или манипула обязательно требуют замены.",
+        "Обратитесь в Laser Tech Service для профессиональной диагностики.",
+        "Телефон / WhatsApp: +48 790 402 597 E-mail: contact@lasertechservice.pl"
+      ],
+      "result": []
+    },
+    {
       "id": "case:ru:realizacje:wymiana-modulu-diodowego-lasera-po-zalaniu-poznan",
       "title": "Замена диодного модуля лазера после залития — Познань",
       "language": "ru",
@@ -4423,6 +4531,7 @@
       "https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/": "https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/index.md",
       "https://lasertechservice.pl/blog/przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody/": "https://lasertechservice.pl/blog/przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody/index.md",
       "https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/": "https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/index.md",
+      "https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/": "https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/index.md",
       "https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/": "https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/index.md",
       "https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/": "https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/index.md",
       "https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/": "https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/index.md",
@@ -4455,6 +4564,7 @@
       "https://lasertechservice.pl/en/blog/professional-aesthetic-equipment-service/": "https://lasertechservice.pl/en/blog/professional-aesthetic-equipment-service/index.md",
       "https://lasertechservice.pl/en/blog/risks-of-replacing-laser-seals-yourself/": "https://lasertechservice.pl/en/blog/risks-of-replacing-laser-seals-yourself/index.md",
       "https://lasertechservice.pl/en/blog/scheduled-diode-laser-maintenance/": "https://lasertechservice.pl/en/blog/scheduled-diode-laser-maintenance/index.md",
+      "https://lasertechservice.pl/en/blog/smartpuls-ipl-linux-30000-pulses/": "https://lasertechservice.pl/en/blog/smartpuls-ipl-linux-30000-pulses/index.md",
       "https://lasertechservice.pl/en/blog/used-diode-laser-service-history/": "https://lasertechservice.pl/en/blog/used-diode-laser-service-history/index.md",
       "https://lasertechservice.pl/en/blog/why-a-small-cable-causes-big-problems/": "https://lasertechservice.pl/en/blog/why-a-small-cable-causes-big-problems/index.md",
       "https://lasertechservice.pl/en/blog/why-diode-laser-maintenance-every-six-months-matters/": "https://lasertechservice.pl/en/blog/why-diode-laser-maintenance-every-six-months-matters/index.md",
@@ -4491,6 +4601,7 @@
       "https://lasertechservice.pl/en/case-studies/pharaon-1470-maintenance-wroclaw/": "https://lasertechservice.pl/en/case-studies/pharaon-1470-maintenance-wroclaw/index.md",
       "https://lasertechservice.pl/en/case-studies/rsl-massage-device-repair-warsaw/": "https://lasertechservice.pl/en/case-studies/rsl-massage-device-repair-warsaw/index.md",
       "https://lasertechservice.pl/en/case-studies/sapphire-coolant-replacement-maintenance/": "https://lasertechservice.pl/en/case-studies/sapphire-coolant-replacement-maintenance/index.md",
+      "https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/": "https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/index.md",
       "https://lasertechservice.pl/en/case-studies/urgent-co2-laser-repair-poznan/": "https://lasertechservice.pl/en/case-studies/urgent-co2-laser-repair-poznan/index.md",
       "https://lasertechservice.pl/en/contact/": "https://lasertechservice.pl/en/contact/index.md",
       "https://lasertechservice.pl/en/partners/": "https://lasertechservice.pl/en/partners/index.md",
@@ -4541,6 +4652,7 @@
       "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/": "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/index.md",
       "https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/": "https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/index.md",
       "https://lasertechservice.pl/realizacje/serwis-lasera-sapphire-wymiana-plynu/": "https://lasertechservice.pl/realizacje/serwis-lasera-sapphire-wymiana-plynu/index.md",
+      "https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/": "https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/index.md",
       "https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/": "https://lasertechservice.pl/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/index.md",
       "https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/": "https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/index.md",
       "https://lasertechservice.pl/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/": "https://lasertechservice.pl/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/index.md",
@@ -4575,6 +4687,7 @@
       "https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/": "https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/index.md",
       "https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/": "https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/index.md",
       "https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/": "https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/index.md",
+      "https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/": "https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/index.md",
       "https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/": "https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/index.md",
       "https://lasertechservice.pl/ru/blog/zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev/": "https://lasertechservice.pl/ru/blog/zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev/index.md",
       "https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/": "https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/index.md",
@@ -4607,6 +4720,7 @@
       "https://lasertechservice.pl/ru/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/": "https://lasertechservice.pl/ru/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/index.md",
       "https://lasertechservice.pl/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/": "https://lasertechservice.pl/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/index.md",
       "https://lasertechservice.pl/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/": "https://lasertechservice.pl/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/index.md",
+      "https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/": "https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/index.md",
       "https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/": "https://lasertechservice.pl/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/index.md",
       "https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/": "https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/index.md",
       "https://lasertechservice.pl/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/": "https://lasertechservice.pl/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/index.md",
@@ -4650,5 +4764,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-11-05T09:47:47Z"
+  "generated_at": "2026-11-06T07:51:45Z"
 }

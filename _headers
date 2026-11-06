@@ -136,6 +136,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/blog/smartpuls-ipl-linux-30000-impulsow/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /blog/spalona-dioda-laserowa-naprawa-glowicy/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -295,6 +300,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/blog/scheduled-diode-laser-maintenance/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/en/blog/smartpuls-ipl-linux-30000-pulses/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/blog/smartpuls-ipl-linux-30000-pulses/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /en/blog/used-diode-laser-service-history/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -475,6 +485,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/case-studies/sapphire-coolant-replacement-maintenance/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/en/case-studies/smartpuls-ipl-swidnica/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /en/case-studies/urgent-co2-laser-repair-poznan/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -726,6 +741,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/realizacje/serwis-lasera-sapphire-wymiana-plynu/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/realizacje/smartpuls-ipl-swidnica/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -896,6 +916,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/blog/smartpuls-ipl-linux-30000-vspyshek/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -1055,6 +1080,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/realizacje/smartpuls-ipl-svidnica/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/index.md
   Content-Type: text/markdown; charset=utf-8

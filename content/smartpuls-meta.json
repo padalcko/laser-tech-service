@@ -1,0 +1,26 @@
+{
+  "case-pl": [
+    "Naprawa smartPULS IPL w Świdnicy | Laser Tech Service",
+    "Diagnostyka smartPULS w Świdnicy i przywrócenie działania głowicy IPL. Sprawdzenie przyczyny braku błysków przed wymianą lampy. Laser Tech Service."
+  ],
+  "case-ru": [
+    "Ремонт smartPULS IPL в Свиднице | Laser Tech Service",
+    "Диагностика smartPULS в Свиднице и восстановление работы IPL-манипулы. Выяснение причины отсутствия вспышек перед заменой лампы."
+  ],
+  "case-en": [
+    "smartPULS IPL Repair in Świdnica | Laser Tech Service",
+    "smartPULS IPL diagnostics and handpiece repair in Świdnica. Identifying the cause of missing pulses before replacing the lamp."
+  ],
+  "blog-pl": [
+    "smartPULS IPL: Linux i 30 000 impulsów | Laser Tech Service",
+    "smartPULS na Linux: diagnostyka IPL w Świdnicy, interwał 30 000 impulsów i hipotezy dotyczące obwodu głowicy. Fakty i granice ustaleń serwisowych."
+  ],
+  "blog-ru": [
+    "smartPULS IPL: Linux и 30 000 вспышек | Laser Tech Service",
+    "smartPULS на Linux: диагностика IPL в Свиднице, интервал 30 000 импульсов и гипотезы о цепи манипулы. Подтверждённые наблюдения и ограничения выводов."
+  ],
+  "blog-en": [
+    "smartPULS IPL: Linux and 30,000 Pulses | Laser Tech Service",
+    "A smartPULS IPL service visit in Świdnica: Linux controls, the 30,000-pulse interval and handpiece circuit hypotheses, with evidence limits explained."
+  ]
+}

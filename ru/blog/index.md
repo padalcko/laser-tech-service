@@ -10,6 +10,12 @@
 
 Пишем о том, с чем сталкиваемся каждый день: ремонте лазеров, диагностике неисправностей, обслуживании косметологического оборудования и обычных проблемах, которые возникают у владельцев салонов и кабинетов.
 
+Сервис IPL6 ноября 2026
+
+## [smartPULS — немецкий IPL-аппарат на Linux. Почему исправная лампа перестала работать после 30 000 вспышек?](https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/)
+
+Во время ремонта косметологического аппарата в Свиднице специалисты Laser Tech Service столкнулись с интересным техническим решением. Немецкий smartPULS оказался не только необычным аппаратом с Linux, но и устройством с весьма специфической системой обслуживания IPL-лампы.
+
 Обслуживание лазеров5 ноября 2026
 
 ## [Почему диодный лазер нужно регулярно обслуживать? Пример одного из наших самых дисциплинированных клиентов](https://lasertechservice.pl/ru/blog/zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev/)
@@ -198,6 +204,7 @@ Pharaon 1470, LSO Medical и OSYRIS: история обозначений, ос
 
 ## Связанные статьи
 
+- [smartPULS — немецкий IPL-аппарат на Linux. Почему исправная лампа перестала работать после 30 000 вспышек?](https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/)
 - [Почему диодный лазер нужно регулярно обслуживать? Пример одного из наших самых дисциплинированных клиентов](https://lasertechservice.pl/ru/blog/zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev/)
 - [NUBWAY NBW-VSIII: как работает аппарат вакуумного массажа, его преимущества и особенности обслуживания](https://lasertechservice.pl/ru/blog/nubway-nbw-vsiii-harakteristiki-obsluzhivanie/)
 - [Почему стареют и протекают трубки охлаждения внутри лазерной манипулы?](https://lasertechservice.pl/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/)

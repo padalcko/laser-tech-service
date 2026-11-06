@@ -10,6 +10,12 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/), [
 
 Praktyczna wiedza o serwisie, diagnostyce, naprawach i eksploatacji urządzeń laserowych oraz kosmetycznych.
 
+Serwis IPL6 listopada 2026
+
+## [smartPULS – niemiecki IPL z systemem Linux. Dlaczego sprawna lampa przestała działać po 30 000 impulsów?](https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/)
+
+Stary niemiecki sprzęt kosmetologiczny potrafi zaskoczyć nie tylko jakością wykonania, ale również rozwiązaniami elektronicznymi. Przekonaliśmy się o tym podczas naprawy urządzenia smartPULS u klienta ze Świdnicy.
+
 Konserwacja laserów5 listopada 2026
 
 ## [Dlaczego laser diodowy warto serwisować co 6 miesięcy? Przykład klienta z Warszawy](https://lasertechservice.pl/blog/dlaczego-serwisowac-laser-diodowy-co-6-miesiecy/)
@@ -198,6 +204,7 @@ Gwarancja, dokumentacja wykonanych prac, historia serwisowa, możliwość szybki
 
 ## Powiązane artykuły
 
+- [smartPULS – niemiecki IPL z systemem Linux. Dlaczego sprawna lampa przestała działać po 30 000 impulsów?](https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/)
 - [Dlaczego laser diodowy warto serwisować co 6 miesięcy? Przykład klienta z Warszawy](https://lasertechservice.pl/blog/dlaczego-serwisowac-laser-diodowy-co-6-miesiecy/)
 - [NUBWAY NBW-VSIII – jak działa urządzenie do masażu próżniowego i dlaczego warto o nie dbać?](https://lasertechservice.pl/blog/nubway-nbw-vsiii-dzialanie-serwis/)
 - [Dlaczego przewody chłodzenia w głowicy lasera pękają i zaczynają przeciekać?](https://lasertechservice.pl/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/)

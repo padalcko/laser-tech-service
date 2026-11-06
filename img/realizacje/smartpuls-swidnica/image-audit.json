@@ -1,0 +1,170 @@
+[
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8453.heic",
+    "sha256": "b7297cd46f04e55b8ab5d85e6e07853077662fcd94473c580a61b7ad61c64711",
+    "name": "smartpuls-ipl-device-service-swidnica",
+    "original_dimensions": [
+      3213,
+      5712
+    ],
+    "adjustments": {
+      "brightness": 1.02,
+      "contrast": 1.02
+    },
+    "alt": {
+      "pl": "Urządzenie smartPULS z głowicą IPL i włączonym panelem sterowania w Świdnicy",
+      "ru": "Аппарат smartPULS с IPL-манипулой и включённой панелью управления в Свиднице",
+      "en": "smartPULS device with IPL handpiece and active control panel in Świdnica"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/smartpuls-swidnica/smartpuls-ipl-device-service-swidnica-320w.webp",
+        "width": 320,
+        "height": 569,
+        "bytes": 23462
+      },
+      {
+        "path": "/img/realizacje/smartpuls-swidnica/smartpuls-ipl-device-service-swidnica-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 38024
+      },
+      {
+        "path": "/img/realizacje/smartpuls-swidnica/smartpuls-ipl-device-service-swidnica-640w.webp",
+        "width": 640,
+        "height": 1138,
+        "bytes": 52154
+      },
+      {
+        "path": "/img/realizacje/smartpuls-swidnica/smartpuls-ipl-device-service-swidnica-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 64892
+      },
+      {
+        "path": "/img/realizacje/smartpuls-swidnica/smartpuls-ipl-device-service-swidnica-960w.webp",
+        "width": 960,
+        "height": 1707,
+        "bytes": 85498
+      },
+      {
+        "path": "/img/realizacje/smartpuls-swidnica/smartpuls-ipl-device-service-swidnica.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 126292
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8454.heic",
+    "sha256": "d78d58cd31f8f265693da91ea00bec3b06264b9fdd96dea057aaaba9c4dbde8a",
+    "name": "smartpuls-ipl-handpiece-lamp-repair-swidnica",
+    "original_dimensions": [
+      2268,
+      4032
+    ],
+    "adjustments": {
+      "brightness": 1.02,
+      "contrast": 1.02
+    },
+    "alt": {
+      "pl": "Głowica smartPULS trzymana w dłoni, z widocznym oknem optycznym",
+      "ru": "Манипула smartPULS в руке с видимым оптическим окном",
+      "en": "smartPULS handpiece held in a hand, with its optical window visible"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica-320w.webp",
+        "width": 320,
+        "height": 569,
+        "bytes": 19818
+      },
+      {
+        "path": "/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 34344
+      },
+      {
+        "path": "/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica-640w.webp",
+        "width": 640,
+        "height": 1138,
+        "bytes": 50872
+      },
+      {
+        "path": "/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 66636
+      },
+      {
+        "path": "/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica-960w.webp",
+        "width": 960,
+        "height": 1707,
+        "bytes": 90958
+      },
+      {
+        "path": "/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 138592
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8455.heic",
+    "sha256": "05810e70b3722fc17ae3e46647d5605bd4c652233aac1bff4080c41736397790",
+    "name": "smartpuls-ipl-linux-boot-kws-laser-tech-service",
+    "original_dimensions": [
+      3213,
+      5712
+    ],
+    "adjustments": {
+      "brightness": 1.02,
+      "contrast": 1.02
+    },
+    "alt": {
+      "pl": "Ekran uruchamiania smartPULS z napisem LINUX DIVISION, logo KWS i pingwinem Tux",
+      "ru": "Загрузочный экран smartPULS с надписью LINUX DIVISION, логотипом KWS и пингвином Tux",
+      "en": "smartPULS startup screen showing LINUX DIVISION, the KWS logo and Tux penguin"
+    },
+    "files": [
+      {
+        "path": "/img/realizacje/smartpuls-swidnica/smartpuls-ipl-linux-boot-kws-laser-tech-service-320w.webp",
+        "width": 320,
+        "height": 569,
+        "bytes": 13196
+      },
+      {
+        "path": "/img/realizacje/smartpuls-swidnica/smartpuls-ipl-linux-boot-kws-laser-tech-service-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 29472
+      },
+      {
+        "path": "/img/realizacje/smartpuls-swidnica/smartpuls-ipl-linux-boot-kws-laser-tech-service-640w.webp",
+        "width": 640,
+        "height": 1138,
+        "bytes": 51086
+      },
+      {
+        "path": "/img/realizacje/smartpuls-swidnica/smartpuls-ipl-linux-boot-kws-laser-tech-service-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 71996
+      },
+      {
+        "path": "/img/realizacje/smartpuls-swidnica/smartpuls-ipl-linux-boot-kws-laser-tech-service-960w.webp",
+        "width": 960,
+        "height": 1707,
+        "bytes": 109338
+      },
+      {
+        "path": "/img/realizacje/smartpuls-swidnica/smartpuls-ipl-linux-boot-kws-laser-tech-service.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 186036
+      }
+    ]
+  }
+]

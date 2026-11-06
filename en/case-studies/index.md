@@ -16,6 +16,16 @@ Actual service work: the job scope, completed repairs and photographic and video
 
 Every device needs individual diagnostics. Explore selected examples of our service work below.
 
+![smartPULS handpiece held in a hand, with its optical window visible](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp)
+
+ŚwidnicasmartPULS · IPL
+
+## [smartPULS IPL Handpiece Repair in Świdnica](https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/)
+
+A client from Świdnica contacted Laser Tech Service after the IPL handpiece of a German-made smartPULS cosmetic device stopped working. The client initially suspected that the IPL lamp had burned out and needed replacement.
+
+[View case study](https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/)
+
 ![Diode laser with a screen, handpiece and hose on a trolley](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa.webp)
 
 Warsaw808 nm · HS-A0406
@@ -374,6 +384,7 @@ We service diode lasers, Nd:YAG, IPL, CO₂ and other equipment used in aestheti
 
 ## Related repairs
 
+- [smartPULS IPL Handpiece Repair in Świdnica](https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/)
 - [Complete 808 nm Diode Laser Maintenance in Warsaw – Cooling System Service and Handpiece Sealing](https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/)
 - [NUBWAY NBW-VSIII Vacuum Release Valve Repair in Wrocław](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw/)
 - [Laser Handpiece Cooling Leak Repair — Customer from Prague](https://lasertechservice.pl/en/case-studies/handpiece-cooling-leak-repair-prague-customer/)

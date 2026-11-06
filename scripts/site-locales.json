@@ -1645,6 +1645,44 @@
           "status": "published"
         }
       }
+    },
+    {
+      "id": "realizacje:smartpuls-ipl-swidnica",
+      "type": "case-study",
+      "x_default": "/realizacje/smartpuls-ipl-swidnica/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/smartpuls-ipl-swidnica/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/smartpuls-ipl-svidnica/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/smartpuls-ipl-swidnica/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:smartpuls-ipl-linux-30000-impulsow",
+      "type": "article",
+      "x_default": "/blog/smartpuls-ipl-linux-30000-impulsow/",
+      "routes": {
+        "pl": {
+          "url": "/blog/smartpuls-ipl-linux-30000-impulsow/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/smartpuls-ipl-linux-30000-vspyshek/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/smartpuls-ipl-linux-30000-pulses/",
+          "status": "published"
+        }
+      }
     }
   ]
 }

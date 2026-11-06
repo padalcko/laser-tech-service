@@ -1,0 +1,572 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <title>smartPULS IPL: Linux i 30 000 impulsów | Laser Tech Service</title>
+    <meta name="author" content="Laser Tech Service" />
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Laser Tech Service" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;1,700&amp;display=swap" />
+    <link rel="stylesheet" href="/css/reset.css" />
+    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="stylesheet" href="/css/blog.css" />
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-6QFRWP5RX5"
+    ></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+
+      gtag("js", new Date());
+      gtag("config", "G-6QFRWP5RX5");
+    </script>
+<script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+
+        w[l].push({
+          "gtm.start": new Date().getTime(),
+          event: "gtm.js",
+        });
+
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-PT7BMHKW");
+    </script>
+<script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+
+        w[l].push({
+          "gtm.start": new Date().getTime(),
+          event: "gtm.js",
+        });
+
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-MF33VG4R");
+    </script>
+<script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=AW-17614450660"
+    ></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+
+      gtag("js", new Date());
+      gtag("config", "AW-17614450660");
+    </script>
+
+<meta name="description" content="smartPULS na Linux: diagnostyka IPL w Świdnicy, interwał 30 000 impulsów i hipotezy dotyczące obwodu głowicy. Fakty i granice ustaleń serwisowych." />
+<meta property="og:title" content="smartPULS IPL: Linux i 30 000 impulsów | Laser Tech Service" />
+<meta property="og:description" content="smartPULS na Linux: diagnostyka IPL w Świdnicy, interwał 30 000 impulsów i hipotezy dotyczące obwodu głowicy. Fakty i granice ustaleń serwisowych." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/" />
+<meta property="og:site_name" content="Laser Tech Service" />
+<meta property="og:locale" content="pl_PL" />
+<meta property="og:image" content="https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-linux-boot-kws-laser-tech-service.webp" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="2276" />
+<meta property="og:image:alt" content="Ekran uruchamiania smartPULS z napisem LINUX DIVISION, logo KWS i pingwinem Tux" />
+<meta property="article:published_time" content="2026-11-06" />
+<meta property="article:modified_time" content="2026-11-06" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="smartPULS IPL: Linux i 30 000 impulsów | Laser Tech Service" />
+<meta name="twitter:description" content="smartPULS na Linux: diagnostyka IPL w Świdnicy, interwał 30 000 impulsów i hipotezy dotyczące obwodu głowicy. Fakty i granice ustaleń serwisowych." />
+<meta name="twitter:image" content="https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-linux-boot-kws-laser-tech-service.webp" />
+<meta name="twitter:image:alt" content="Ekran uruchamiania smartPULS z napisem LINUX DIVISION, logo KWS i pingwinem Tux" />
+<link rel="canonical" href="https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/" />
+<link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/" />
+<link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/" />
+<link rel="alternate" hreflang="en" href="https://lasertechservice.pl/en/blog/smartpuls-ipl-linux-30000-pulses/" />
+<link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/" />
+
+
+<meta property="og:locale:alternate" content="ru_RU" />
+<meta property="og:locale:alternate" content="en_GB" />
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/#article",
+  "headline": "smartPULS – niemiecki IPL z systemem Linux. Dlaczego sprawna lampa przestała działać po 30 000 impulsów?",
+  "description": "smartPULS na Linux: diagnostyka IPL w Świdnicy, interwał 30 000 impulsów i hipotezy dotyczące obwodu głowicy. Fakty i granice ustaleń serwisowych.",
+  "image": [
+    "https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-linux-boot-kws-laser-tech-service.webp",
+    "https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-device-service-swidnica.webp",
+    "https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp"
+  ],
+  "author": {
+    "@id": "https://lasertechservice.pl/#organization"
+  },
+  "publisher": {
+    "@id": "https://lasertechservice.pl/#organization"
+  },
+  "datePublished": "2026-11-06",
+  "dateModified": "2026-11-06",
+  "inLanguage": "pl",
+  "timeRequired": "PT5M",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/"
+  },
+  "about": {
+    "@type": "Thing",
+    "name": "smartPULS IPL"
+  },
+  "contentLocation": {
+    "@type": "Place",
+    "name": "Świdnica",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Świdnica",
+      "addressRegion": "Dolnośląskie",
+      "addressCountry": "PL"
+    }
+  }
+}</script>
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Strona główna",
+      "item": "https://lasertechservice.pl/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Blog",
+      "item": "https://lasertechservice.pl/blog/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "smartPULS – niemiecki IPL z systemem Linux. Dlaczego sprawna lampa przestała działać po 30 000 impulsów?",
+      "item": "https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/"
+    }
+  ]
+}</script>
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://lasertechservice.pl/#organization",
+  "name": "Laser Tech Service",
+  "url": "https://lasertechservice.pl/",
+  "telephone": "+48 790 402 597",
+  "email": "contact@lasertechservice.pl"
+}</script>
+<!-- AI resources: generated -->
+    <link rel="alternate" type="text/markdown" href="https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/index.md" />
+    <link rel="describedby" href="/llms.txt" />
+<!-- /AI resources -->
+</head>
+
+  <body class="pl">
+    <!-- =====================================================
+         GTM NOSCRIPT - OLD
+    ====================================================== -->
+
+    <noscript>
+      <iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-PT7BMHKW"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe>
+    </noscript>
+
+    <!-- =====================================================
+         GTM NOSCRIPT - NEW
+    ====================================================== -->
+
+    <noscript>
+      <iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-MF33VG4R"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe>
+    </noscript>
+
+    <!-- =====================================================
+         01. FLOATING SOCIAL MENU
+    ====================================================== -->
+
+    <div class="menu">
+      <menu>
+        <a
+          href="https://www.instagram.com/lasertech.service/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="action"
+          aria-label="Instagram Laser Tech Service"
+        >
+          <img
+            src="/img/icons/instagram2.svg"
+            alt="Instagram Laser Tech Service"
+           width="876" height="876"/>
+        </a>
+
+        <a
+          href="https://www.facebook.com/profile.php?id=61580851687389"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="action"
+          aria-label="Facebook Laser Tech Service"
+        >
+          <img
+            src="/img/icons/facebook2.svg"
+            alt="Facebook Laser Tech Service"
+           width="701" height="701"/>
+        </a>
+
+        <a
+          href="https://wa.me/48790402597"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="action"
+          aria-label="WhatsApp Laser Tech Service"
+        >
+          <img
+            src="/img/icons/whatsapp2.svg"
+            alt="WhatsApp Laser Tech Service"
+           width="875" height="907"/>
+        </a>
+
+        <a
+          href="https://t.me/lasertechservice"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="action"
+          aria-label="Telegram Laser Tech Service"
+        >
+          <img
+            src="/img/icons/telegram2.svg"
+            alt="Telegram Laser Tech Service"
+           width="1000" height="1000"/>
+        </a>
+
+        <a
+          href="tel:+48790402597"
+          class="action"
+          aria-label="Zadzwoń do Laser Tech Service"
+        >
+          <img src="/img/icons/phone.svg" alt="Telefon Laser Tech Service"  width="684" height="684"/>
+        </a>
+
+        <button
+          type="button"
+          class="trigger pulse"
+          aria-label="Otwórz menu kontaktowe"
+        >
+          <img
+            src="/img/icons/social.svg"
+            alt="Menu kontaktowe Laser Tech Service"
+           width="700" height="700"/>
+        </button>
+      </menu>
+    </div>
+
+    <!-- =====================================================
+         02. NAVIGATION
+    ====================================================== -->
+
+    <nav class="nav" id="siteNav" aria-label="Główna nawigacja">
+      <div class="container">
+        <div class="nav-row">
+          <!-- LOGO -->
+
+          <a
+            href="/"
+            class="logo"
+            aria-label="Laser Tech Service – strona główna"
+          >
+            <span class="brand-laser-tech"> LASER TECH </span>
+
+            <span class="brand-service"> SERVICE </span>
+          </a>
+
+          <!-- DESKTOP + MOBILE NAVIGATION -->
+
+          <ul class="nav-list" id="primaryNavigation">
+            <li class="nav-list__item">
+              <a
+                href="/"
+                class="nav-list__link"
+              >
+                Strona główna
+              </a>
+            </li>
+
+            <li class="nav-list__item nav-services"><div class="nav-services__row"><a href="/uslugi/" class="nav-list__link"> Usługi </a><button class="nav-submenu-toggle" type="button" aria-label="Podmenu usług" aria-expanded="false" aria-controls="servicesSubmenu" hidden><span aria-hidden="true">▾</span></button></div><ul class="nav-submenu" id="servicesSubmenu" hidden><li><a href="/uslugi/cennik/">Cennik</a></li><li><a href="/uslugi/serwis-dla-sieci-salonow/">Dla sieci i salonów</a></li></ul></li>
+
+            <li class="nav-list__item">
+              <a href="/realizacje/" class="nav-list__link"> Realizacje </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a href="/blog/" class="nav-list__link nav-list__link--active" aria-current="location"> Blog </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a
+                href="https://ltsmarket.pl/"
+                class="nav-list__link"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                LTS Market
+              </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a href="/partnerzy/" class="nav-list__link"> Partnerzy </a>
+            </li>
+
+            <li class="nav-list__item">
+              <a href="/kontakt/" class="nav-list__link"> Kontakt </a>
+            </li>
+          </ul>
+
+          <!-- LANGUAGE SWITCHER -->
+
+          <div class="language-switcher" aria-label="Wybór języka">
+  <details class="language-switcher__dropdown">
+    <summary class="language-switcher__toggle" aria-label="Wybór języka: Polski"><svg class="language-switcher__globe" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a17 17 0 0 1 0 20 17 17 0 0 1 0-20Z"/></svg><span>PL</span> <span aria-hidden="true">▾</span></summary>
+    <ul class="language-switcher__options">
+      <li><a href="/blog/smartpuls-ipl-linux-30000-impulsow/" class="language-switcher__link language-switcher__link--active" lang="pl" hreflang="pl" aria-current="page">Polski</a></li>
+      <li><a href="/ru/blog/smartpuls-ipl-linux-30000-vspyshek/" class="language-switcher__link" lang="ru" hreflang="ru">Русский</a></li>
+      <li><a href="/en/blog/smartpuls-ipl-linux-30000-pulses/" class="language-switcher__link" lang="en" hreflang="en">English</a></li>
+    </ul>
+  </details>
+</div>
+
+          <!-- MOBILE BURGER -->
+
+          <button
+            class="nav-toggle"
+            type="button"
+            aria-label="Otwórz menu"
+            aria-controls="primaryNavigation"
+            aria-expanded="false"
+          >
+            <span class="nav-toggle__line"></span>
+            <span class="nav-toggle__line"></span>
+            <span class="nav-toggle__line"></span>
+          </button>
+        </div>
+      </div>
+    </nav>
+
+    <!-- =====================================================
+         03. ARTICLE
+    ====================================================== -->
+
+    <main><article class="article-page" style="display: flow-root;"><div class="container"><nav class="article-breadcrumbs" aria-label="Blog"><a href="/">Strona główna</a><span aria-hidden="true">/</span><a href="/blog/">Blog</a><span aria-hidden="true">/</span><span aria-current="page">smartPULS · Świdnica</span></nav><header class="article-header"><span class="article-category">Serwis IPL</span><h1 data-authored="true" style="overflow-wrap: anywhere;">smartPULS – niemiecki IPL z systemem Linux. Dlaczego sprawna lampa przestała działać po 30 000 impulsów?</h1><div class="article-meta"><span>Laser Tech Service</span><time datetime="2026-11-06">Publikacja: 6 listopada 2026</time><span data-reading-time="5" data-authored="true"><strong>Szacowany czas czytania: 5 minut.</strong></span></div><p class="article-lead" data-authored="true"><strong>Stary niemiecki sprzęt kosmetologiczny potrafi zaskoczyć nie tylko jakością wykonania, ale również rozwiązaniami elektronicznymi. Przekonaliśmy się o tym podczas naprawy urządzenia smartPULS u klienta ze Świdnicy.</strong></p></header><div class="article-content"><h2 data-authored="true">Czym jest smartPULS?</h2><p data-authored="true">smartPULS to niemieckie urządzenie kosmetologiczne wykorzystujące technologię IPL (Intense Pulsed Light), czyli intensywne światło pulsacyjne.</p><p data-authored="true">Urządzenie przeznaczono między innymi do zabiegów usuwania owłosienia i fotoodmładzania skóry. Na panelu sterowania dostępne są programy Hair Removal, Skin Rejuvenation oraz Individual, pozwalający na indywidualny dobór parametrów.</p><p data-authored="true">Konstrukcja urządzenia pochodzi ze starszej generacji profesjonalnego sprzętu kosmetologicznego. Egzemplarz, który trafił pod naszą opiekę, ma oznaczenia wskazujące na okres produkcji około 2008 roku, choć dokładna data wymaga potwierdzenia w dokumentacji producenta.</p><p data-authored="true">To interesujący przykład urządzenia, które mimo upływu lat nadal może być przedmiotem profesjonalnej diagnostyki i naprawy.</p><figure class="article-image" style="max-width: 420px;"><img src="/img/realizacje/smartpuls-swidnica/smartpuls-ipl-linux-boot-kws-laser-tech-service.webp" width="1280" height="2276" alt="Ekran uruchamiania smartPULS z napisem LINUX DIVISION, logo KWS i pingwinem Tux" decoding="async" loading="eager" fetchpriority="high" style="max-height: 320px; width: 100%; height: auto; aspect-ratio: auto; object-fit: contain;" srcset="/img/realizacje/smartpuls-swidnica/smartpuls-ipl-linux-boot-kws-laser-tech-service-320w.webp 320w, /img/realizacje/smartpuls-swidnica/smartpuls-ipl-linux-boot-kws-laser-tech-service-480w.webp 480w, /img/realizacje/smartpuls-swidnica/smartpuls-ipl-linux-boot-kws-laser-tech-service-640w.webp 640w, /img/realizacje/smartpuls-swidnica/smartpuls-ipl-linux-boot-kws-laser-tech-service-768w.webp 768w, /img/realizacje/smartpuls-swidnica/smartpuls-ipl-linux-boot-kws-laser-tech-service-960w.webp 960w, /img/realizacje/smartpuls-swidnica/smartpuls-ipl-linux-boot-kws-laser-tech-service.webp 1280w" sizes="(max-width: 460px) calc(100vw - 40px), 420px" /></figure><h2 data-authored="true">Linux w aparacie kosmetologicznym? Tak, i to wiele lat temu!</h2><p data-authored="true">Jednym z największych zaskoczeń podczas pracy ze smartPULS był jego system sterowania.</p><p data-authored="true">Podczas uruchamiania na ekranie pojawia się charakterystyczny pingwin Tux, napis „LINUX DIVISION”, logo KWS oraz komunikat „System booting. Please wait...”.</p><p data-authored="true">Oznacza to, że urządzenie korzysta z rozwiązania opartego na systemie Linux.</p><p data-authored="true">Dzisiaj Linux w urządzeniach przemysłowych, medycznych czy kosmetologicznych nie jest niczym niezwykłym. Ale w sprzęcie projektowanym w pierwszej dekadzie XXI wieku takie rozwiązanie robi wrażenie.</p><p data-authored="true">W czasach, kiedy wiele aparatów kosmetologicznych miało bardzo proste sterowniki, smartPULS oferował graficzny interfejs dotykowy, konta użytkowników, programy zabiegowe oraz rozbudowane funkcje serwisowe.</p><p data-authored="true">Nie znamy dokładnej wersji jądra Linux ani dystrybucji zastosowanej w tym egzemplarzu. Sam ekran startowy pokazuje jednak, że producent wykorzystał platformę programową wykraczającą poza prosty sterownik z kilkoma przyciskami.</p><figure class="article-image" style="max-width: 420px;"><img src="/img/realizacje/smartpuls-swidnica/smartpuls-ipl-device-service-swidnica.webp" width="1280" height="2276" alt="Urządzenie smartPULS z głowicą IPL i włączonym panelem sterowania w Świdnicy" decoding="async" loading="lazy" style="max-height: 320px; width: 100%; height: auto; aspect-ratio: auto; object-fit: contain;" srcset="/img/realizacje/smartpuls-swidnica/smartpuls-ipl-device-service-swidnica-320w.webp 320w, /img/realizacje/smartpuls-swidnica/smartpuls-ipl-device-service-swidnica-480w.webp 480w, /img/realizacje/smartpuls-swidnica/smartpuls-ipl-device-service-swidnica-640w.webp 640w, /img/realizacje/smartpuls-swidnica/smartpuls-ipl-device-service-swidnica-768w.webp 768w, /img/realizacje/smartpuls-swidnica/smartpuls-ipl-device-service-swidnica-960w.webp 960w, /img/realizacje/smartpuls-swidnica/smartpuls-ipl-device-service-swidnica.webp 1280w" sizes="(max-width: 460px) calc(100vw - 40px), 420px" /></figure><h2 data-authored="true">Klient podejrzewał przepaloną lampę IPL</h2><p data-authored="true">Do Laser Tech Service zgłosił się klient ze Świdnicy. Problem wyglądał znajomo: głowica IPL przestała wykonywać błyski.</p><p data-authored="true">Pierwsze podejrzenie padło na przepaloną lampę.</p><p data-authored="true">Po przyjeździe i oględzinach okazało się jednak, że lampa nie wykazuje widocznych oznak przepalenia. Zaczęliśmy więc szukać przyczyny w sposobie działania całego urządzenia.</p><h2 data-authored="true">Dlaczego właśnie 30 000 impulsów?</h2><p data-authored="true">Dokumentacja smartPULS przewiduje wymianę lampy po 30 000 impulsów.</p><p data-authored="true">Jest to ważny element zaleceń serwisowych producenta. Liczba impulsów może służyć do planowania konserwacji, kontroli zużycia elementów i utrzymania parametrów pracy urządzenia.</p><p data-authored="true">W naszym przypadku istotne było ustalenie, dlaczego głowica przestała działać mimo braku widocznego uszkodzenia lampy.</p><p data-authored="true">Podczas analizy konstrukcji pojawił się interesujący wniosek: mechanizm ograniczenia pracy nie musi polegać na umieszczeniu elektronicznego licznika bezpośrednio w głowicy. Liczba impulsów może być rejestrowana przez sterownik urządzenia, a sama głowica może zawierać element odpowiedzialny za przerwanie obwodu.</p><h2 data-authored="true">Bezpiecznik w głowicy zamiast zwykłej blokady programowej?</h2><p data-authored="true">Podczas prac serwisowych rozpatrywaliśmy mechanizm, w którym przerwanie pracy głowicy następuje poprzez element zabezpieczający obwód elektryczny.</p><p data-authored="true">W takim rozwiązaniu użytkownik widzi objawy przypominające przepalenie lampy, mimo że sama lampa nie musi być uszkodzona.</p><p data-authored="true">Nasze obserwacje wskazywały, że przyczyna problemu była związana z obwodem głowicy i sposobem realizacji ograniczenia serwisowego, a nie z widocznym przepaleniem źródła światła.</p><p data-authored="true">Nie mamy jednak dokumentacji konstrukcyjnej potwierdzającej, że producent celowo wysyła impuls elektryczny w celu przepalenia bezpiecznika po dokładnie 30 000 błysków. Nie można też na tej podstawie przesądzić, że takie rozwiązanie miało wymuszać odpłatny serwis.</p><p data-authored="true">To interesująca hipoteza techniczna, którą należy odróżnić od potwierdzonej zasady wymiany lampy opisanej w instrukcji.</p><h2 data-authored="true">Czy lampa IPL może wytrzymać 100 000 impulsów?</h2><p data-authored="true">W praktyce serwisowej spotyka się lampy IPL o różnej trwałości. Zależy ona od konstrukcji lampy, energii impulsu, chłodzenia, częstotliwości pracy i warunków eksploatacji.</p><p data-authored="true">Niektóre źródła światła mogą pracować znacznie dłużej niż 30 000 impulsów. Nie oznacza to jednak, że każda lampa smartPULS zachowuje pełną energię i niezmienione widmo przez 100 000 błysków.</p><p data-authored="true">Aby potwierdzić jej dalszą przydatność, nie wystarczy sprawdzić, czy emituje światło. Należy również ocenić parametry impulsów, stan lampy, układ chłodzenia i zgodność pracy z wymaganiami bezpieczeństwa.</p><p data-authored="true">W przypadku smartPULS zalecenie producenta dotyczące wymiany po 30 000 impulsów pozostaje istotnym punktem odniesienia.</p><figure class="article-image" style="max-width: 420px;"><img src="/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp" width="1280" height="2276" alt="Głowica smartPULS trzymana w dłoni, z widocznym oknem optycznym" decoding="async" loading="lazy" style="max-height: 320px; width: 100%; height: auto; aspect-ratio: auto; object-fit: contain;" srcset="/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica-320w.webp 320w, /img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica-480w.webp 480w, /img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica-640w.webp 640w, /img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica-768w.webp 768w, /img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica-960w.webp 960w, /img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp 1280w" sizes="(max-width: 460px) calc(100vw - 40px), 420px" /></figure><h2 data-authored="true">Jak zakończyła się naprawa w Świdnicy?</h2><p data-authored="true">Specjaliści Laser Tech Service przeanalizowali problem, ustalili przyczynę przerwania pracy głowicy i przywrócili działanie urządzenia.</p><p data-authored="true">Przypadek pokazał, że objawy przypominające uszkodzenie lampy nie zawsze oznaczają jej fizyczne przepalenie.</p><p data-authored="true">Jednocześnie przywrócenie możliwości wykonania błysku nie jest równoznaczne z potwierdzeniem pełnego zasobu lampy. Ocena jej dalszej eksploatacji wymaga kontroli parametrów technicznych.</p><h2 data-authored="true">Dlaczego warto naprawiać starsze urządzenia kosmetologiczne?</h2><p data-authored="true">Starsze urządzenia nie muszą automatycznie trafiać na złom. Często mają solidną konstrukcję, czytelną architekturę elektroniczną i podzespoły, które można diagnozować.</p><p data-authored="true">Warunkiem jest jednak profesjonalny serwis, dostęp do właściwych części i kontrola bezpieczeństwa po naprawie.</p><p data-authored="true">Laser Tech Service zajmuje się diagnostyką i naprawą urządzeń IPL oraz laserów kosmetologicznych. Wykonujemy serwis laserów, regenerację laserów, naprawę laserów, naprawę głowic i konserwację systemów elektronicznych oraz chłodzenia.</p><p data-authored="true">Obsługujemy klientów we Wrocławiu, Świdnicy i na terenie całej Polski.</p><div class="article-cta">
+<span class="article-cta__eyebrow">Laser Tech Service</span>
+<div data-authored="true"><h2>Twój IPL przestał wykonywać błyski?</h2> <p>Zanim wymienisz całą głowicę, zleć profesjonalną diagnostykę.</p></div>
+
+<div class="article-cta__actions">
+<a href="/kontakt/" class="btn" style="color: #111; text-decoration: none;">Kontakt</a>
+<a href="https://wa.me/48790402597" target="_blank" rel="noopener noreferrer" class="btn btn--secondary" style="color: #111; text-decoration: none;">WhatsApp</a>
+</div></div><h2>Powiązane materiały i usługi</h2><ul><li><a href="/realizacje/smartpuls-ipl-swidnica/">smartPULS – przywrócenie działania głowicy IPL w Świdnicy</a></li><li><a href="/uslugi/serwis-ipl/">Serwis IPL</a></li><li><a href="/uslugi/diagnostyka-laserow-diodowych/">Serwis laserów – diagnostyka</a></li><li><a href="/uslugi/regeneracja-glowic-i-manipulatorow/">Regeneracja laserów i głowic</a></li><li><a href="/uslugi/naprawa-zasilaczy-i-elektroniki/">Naprawa laserów – elektronika i zasilanie</a></li><li><a href="/kontakt/">Kontakt</a></li></ul></div></div></article></main>
+
+    <!-- =====================================================
+         04. FOOTER
+    ====================================================== -->
+
+    <footer class="footer">
+      <div class="container">
+        <div class="footer__main">
+          <!-- COMPANY -->
+
+          <div class="footer__company">
+            <a href="/" class="footer__brand" aria-label="Laser Tech Service">
+              <span class="brand-laser-tech"> LASER TECH </span>
+
+              <span class="brand-service"> SERVICE </span>
+            </a>
+
+            <p class="footer__description">
+              Profesjonalny serwis urządzeń laserowych i kosmetologicznych.
+              Diagnostyka, naprawa, regeneracja oraz konserwacja urządzeń na
+              terenie całej Polski.
+            </p>
+
+            <div class="footer__social">
+              <a
+                href="https://www.instagram.com/lasertech.service/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Instagram Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-instagram.svg"
+                  alt="Instagram Laser Tech Service"
+                 width="35" height="35"/>
+              </a>
+
+              <a
+                href="https://wa.me/48790402597"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="WhatsApp Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-whatsapp.svg"
+                  alt="WhatsApp Laser Tech Service"
+                 width="35" height="35"/>
+              </a>
+
+              <a
+                href="https://www.facebook.com/profile.php?id=61580851687389"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Facebook Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-facebook.svg"
+                  alt="Facebook Laser Tech Service"
+                 width="38" height="38"/>
+              </a>
+
+              <a
+                href="https://t.me/lasertechservice"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Telegram Laser Tech Service"
+              >
+                <img
+                  src="/img/icons/gold-telegram.svg"
+                  alt="Telegram Laser Tech Service"
+                 width="32" height="32"/>
+              </a>
+            </div>
+          </div>
+
+          <!-- CONTACT -->
+
+          <div class="footer__column">
+            <h3 class="footer__heading">Kontakt</h3>
+
+            <ul class="footer__contact-list">
+              <li>
+                <span class="footer__label"> Telefon </span>
+
+                <a href="tel:+48790402597"> +48 790 402 597 </a>
+              </li>
+
+              <li>
+                <span class="footer__label"> WhatsApp </span>
+
+                <a
+                  href="https://wa.me/48790402597"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Napisz do nas
+                </a>
+              </li>
+
+              <li>
+                <span class="footer__label"> E-mail </span>
+
+                <a href="mailto:contact@lasertechservice.pl">
+                  contact@lasertechservice.pl
+                </a>
+              </li>
+            </ul>
+          </div>
+
+          <!-- COMPANY DATA -->
+
+          <div class="footer__column footer__company-data">
+            <h3 class="footer__heading">Dane firmy</h3>
+
+            <address>
+              Laser Tech Service sp. z o.o.
+              <br />
+              Marsz. Józefa Piłsudskiego 74 lok. 320
+              <br />
+              50-020 Wrocław
+            </address>
+
+            <dl class="footer__legal-data">
+              <div>
+                <dt>NIP</dt>
+                <dd>8971959502</dd>
+              </div>
+
+              <div>
+                <dt>KRS</dt>
+                <dd>0001193879</dd>
+              </div>
+
+              <div>
+                <dt>REGON</dt>
+                <dd>542701591</dd>
+              </div>
+            </dl>
+          </div>
+        </div>
+
+        <!-- FOOTER BOTTOM -->
+
+        <div class="footer__bottom">
+          <p class="footer__copyright">© 2026 Laser Tech Service sp. z o.o.</p>
+
+          <p class="footer__creator">
+            Created by
+
+            <a
+              href="https://raccoon-studio.com.ua/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Raccoon Studio
+            </a>
+
+            © 2026
+          </p>
+        </div>
+      </div>
+    </footer>
+
+    <!-- =====================================================
+         JAVASCRIPT
+    ====================================================== -->
+
+    <script src="/js/main.js"></script>
+  </body>
+</html>

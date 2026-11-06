@@ -16,6 +16,16 @@
 
 Каждое устройство требует индивидуальной диагностики. Ниже представлены отдельные примеры нашей работы.
 
+![Манипула smartPULS в руке с видимым оптическим окном](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp)
+
+СвидницаsmartPULS · IPL
+
+## [smartPULS — восстановление работы IPL-манипулы в Свиднице](https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/)
+
+В Laser Tech Service обратился клиент из города Свидница с проблемой немецкого косметологического аппарата smartPULS. По словам клиента, в манипуле перестала работать IPL-лампа. Первоначально предполагалось, что лампа перегорела и требует замены.
+
+[Подробнее](https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/)
+
 ![Диодный лазер с экраном, манипулой и шлангом на тележке](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa.webp)
 
 Варшава808 nm · HS-A0406
@@ -374,6 +384,7 @@ RF Вакуум Диагностика Ремонт
 
 ## Связанные работы
 
+- [smartPULS — восстановление работы IPL-манипулы в Свиднице](https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/)
 - [Полное техническое обслуживание диодного лазера 808 нм в Варшаве — охлаждение, очистка и герметизация манипулы](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/)
 - [Ремонт клапана сброса вакуума NUBWAY NBW-VSIII во Вроцлаве](https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/)
 - [Ремонт протечки охлаждения лазерной манипулы — клиент из Праги](https://lasertechservice.pl/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/)

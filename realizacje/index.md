@@ -16,6 +16,16 @@ Pokazujemy rzeczywiste realizacje serwisowe: zakres zlecenia, wykonane prace ora
 
 Każde urządzenie wymaga indywidualnej diagnostyki. Poniżej prezentujemy wybrane realizacje naszego serwisu.
 
+![Głowica smartPULS trzymana w dłoni, z widocznym oknem optycznym](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp)
+
+ŚwidnicasmartPULS · IPL
+
+## [smartPULS – przywrócenie działania głowicy IPL w Świdnicy](https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/)
+
+Do Laser Tech Service zgłosił się klient ze Świdnicy z problemem dotyczącym niemieckiego urządzenia smartPULS, wykorzystywanego do zabiegów kosmetologicznych z zastosowaniem technologii IPL. Według zgłoszenia lampa w głowicy przestała działać i podejrzewano jej przepalenie.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/)
+
 ![Laser diodowy z ekranem, głowicą i przewodem na wózku](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa.webp)
 
 Warszawa808 nm · HS-A0406
@@ -374,6 +384,7 @@ Serwisujemy lasery diodowe, urządzenia ND:YAG, IPL, CO2 oraz inne urządzenia w
 
 ## Powiązane realizacje
 
+- [smartPULS – przywrócenie działania głowicy IPL w Świdnicy](https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/)
 - [Pełny serwis lasera diodowego 808 nm w Warszawie – konserwacja, chłodzenie i uszczelnienie głowicy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/)
 - [Naprawa zaworu podciśnienia w NUBWAY NBW-VSIII we Wrocławiu](https://lasertechservice.pl/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/)
 - [Naprawa wycieku chłodziwa z głowicy lasera kosmetycznego — klient z Pragi](https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/)
