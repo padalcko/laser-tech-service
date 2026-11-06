@@ -276,6 +276,40 @@
           "badge": "Laser Tech Service partner"
         }
       }
+    },
+    {
+      "id": "lux-beauty-clinic",
+      "priority": 90,
+      "url": "https://www.instagram.com/luxcl_inic/",
+      "content": {
+        "pl": {
+          "title": "LUX BEAUTY CLINIC",
+          "image_html": "<img src=\"/img/partnerzy/lux-beauty-clinic-wroclaw.webp\" alt=\"LUX BEAUTY CLINIC Wrocław – medycyna estetyczna i kosmetologia\" width=\"804\" height=\"603\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Gabinet medycyny estetycznej i nowoczesnej kosmetologii.",
+            "+48 664 972 985<br />ul. Kazimierza Michalczyka 1/1C, Wrocław"
+          ],
+          "badge": "Partner Laser Tech Service"
+        },
+        "ru": {
+          "title": "LUX BEAUTY CLINIC",
+          "image_html": "<img src=\"/img/partnerzy/lux-beauty-clinic-wroclaw.webp\" alt=\"LUX BEAUTY CLINIC Вроцлав – эстетическая медицина и косметология\" width=\"804\" height=\"603\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Клиника эстетической медицины и современной косметологии.",
+            "+48 664 972 985<br />ul. Kazimierza Michalczyka 1/1C, Вроцлав"
+          ],
+          "badge": "Партнёр Laser Tech Service"
+        },
+        "en": {
+          "title": "LUX BEAUTY CLINIC",
+          "image_html": "<img src=\"/img/partnerzy/lux-beauty-clinic-wroclaw.webp\" alt=\"LUX BEAUTY CLINIC Wrocław – aesthetic medicine and cosmetology\" width=\"804\" height=\"603\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Aesthetic medicine and modern cosmetology clinic.",
+            "+48 664 972 985<br />ul. Kazimierza Michalczyka 1/1C, Wrocław"
+          ],
+          "badge": "Laser Tech Service Partner"
+        }
+      }
     }
   ]
 }

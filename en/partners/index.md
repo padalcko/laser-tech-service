@@ -16,6 +16,19 @@ We know the equipment they use because we maintain and repair it. This gives us 
 
 > Laser Tech Service recommends businesses whose work and equipment we know first-hand.
 
+![LUX BEAUTY CLINIC Wrocław – aesthetic medicine and cosmetology](https://lasertechservice.pl/img/partnerzy/lux-beauty-clinic-wroclaw.webp)
+
+## LUX BEAUTY CLINIC
+
+Aesthetic medicine and modern cosmetology clinic.
+
++48 664 972 985
+ul. Kazimierza Michalczyka 1/1C, Wrocław
+
+Laser Tech Service Partner
+
+[Partner website](https://www.instagram.com/luxcl_inic/)
+
 ![Pracownia Urody Elżbieta Bielecka mark from the business card](https://lasertechservice.pl/img/partnerzy/pracownia-urody-elzbieta-bielecka-logo.webp)
 
 ## Pracownia Urody Elżbieta Bielecka
@@ -120,12 +133,6 @@ Wrocław, Poland
 Laser Tech Service partner
 
 [Partner website](https://www.instagram.com/nataliiem_/)
-
-## Professionally serviced used aesthetic equipment
-
-Looking for a used aesthetic laser? Explore selected pre-owned devices available through LTS Market, including equipment serviced by Laser Tech Service.
-
-[LTS Market – Used Aesthetic Equipment](https://ltsmarket.pl/en/uzywane.html)
 
 ## Service offerings
 

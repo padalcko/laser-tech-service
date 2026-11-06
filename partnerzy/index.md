@@ -16,6 +16,19 @@ Znamy urządzenia, na których pracują — dbamy o ich serwis i naprawy. Dzięk
 
 > Laser Tech Service poleca tych, których pracę i sprzęt zna od podszewki.
 
+![LUX BEAUTY CLINIC Wrocław – medycyna estetyczna i kosmetologia](https://lasertechservice.pl/img/partnerzy/lux-beauty-clinic-wroclaw.webp)
+
+## LUX BEAUTY CLINIC
+
+Gabinet medycyny estetycznej i nowoczesnej kosmetologii.
+
++48 664 972 985
+ul. Kazimierza Michalczyka 1/1C, Wrocław
+
+Partner Laser Tech Service
+
+[Strona partnera](https://www.instagram.com/luxcl_inic/)
+
 ![Znak Pracowni Urody Elżbieta Bielecka z wizytówki](https://lasertechservice.pl/img/partnerzy/pracownia-urody-elzbieta-bielecka-logo.webp)
 
 ## Pracownia Urody Elżbieta Bielecka
@@ -120,12 +133,6 @@ Wrocław, Polska
 Partner Laser Tech Service
 
 [Strona partnera](https://www.instagram.com/nataliiem_/)
-
-## Sprawdzone urządzenia kosmetologiczne
-
-Szukasz używanego lasera do swojego salonu? W ofercie LTS Market znajdziesz również urządzenia po przeglądach technicznych wykonanych przez Laser Tech Service.
-
-[LTS Market – używane urządzenia kosmetologiczne](https://ltsmarket.pl/uzywane.html)
 
 ## Usługi serwisowe
 

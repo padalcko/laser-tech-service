@@ -16,6 +16,19 @@
 
 > Laser Tech Service рекомендует тех, чью работу и оборудование знает изнутри.
 
+![LUX BEAUTY CLINIC Вроцлав – эстетическая медицина и косметология](https://lasertechservice.pl/img/partnerzy/lux-beauty-clinic-wroclaw.webp)
+
+## LUX BEAUTY CLINIC
+
+Клиника эстетической медицины и современной косметологии.
+
++48 664 972 985
+ul. Kazimierza Michalczyka 1/1C, Вроцлав
+
+Партнёр Laser Tech Service
+
+[Страница партнёра](https://www.instagram.com/luxcl_inic/)
+
 ![Логотип Pracownia Urody Elżbieta Bielecka с визитки](https://lasertechservice.pl/img/partnerzy/pracownia-urody-elzbieta-bielecka-logo.webp)
 
 ## Pracownia Urody Elżbieta Bielecka
@@ -120,12 +133,6 @@ ul. Grodzka 4, Любин
 Партнёр Laser Tech Service
 
 [Страница партнёра](https://www.instagram.com/nataliiem_/)
-
-## Проверенное косметологическое оборудование
-
-Ищете подержанный лазер для салона? В каталоге LTS Market представлены в том числе аппараты, прошедшие техническое обслуживание специалистами Laser Tech Service.
-
-[LTS Market – оборудование б/у](https://ltsmarket.pl/ru/uzywane.html)
 
 ## Услуги сервиса
 
