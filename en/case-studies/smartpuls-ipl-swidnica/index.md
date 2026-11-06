@@ -10,11 +10,21 @@ Other language version: [Polski](https://lasertechservice.pl/realizacje/smartpul
 
 Publication date: 2026-11-06
 
-![smartPULS handpiece held in a hand, with its optical window visible](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp)
-
-**Professional IPL equipment diagnostics and repair | Świdnica, Lower Silesia**
+Professional IPL equipment diagnostics and repair | Świdnica, Lower Silesia
 
 A client from Świdnica contacted Laser Tech Service after the IPL handpiece of a German-made smartPULS cosmetic device stopped working. The client initially suspected that the IPL lamp had burned out and needed replacement.
+
+![smartPULS device with IPL handpiece and active control panel in Świdnica](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-device-service-swidnica.webp)
+
+- Device: smartPULS
+
+- Location: Świdnica · Dolnośląskie
+
+- Technology: IPL
+
+- Scope of work: Diagnostics and repair
+
+![smartPULS handpiece held in a hand, with its optical window visible](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp)
 
 Our technicians visited the client's premises to inspect the equipment and identify the cause.
 
@@ -42,26 +52,19 @@ Our services include IPL diagnostics, handpiece repair, laser servicing, electro
 
 If your device stops delivering pulses, it does not automatically mean that the lamp or complete handpiece needs replacement.
 
-[Contact Laser Tech Service for professional diagnostics.](https://lasertechservice.pl/en/contact/)
-
-Phone / [WhatsApp](https://wa.me/48790402597): [+48 790 402 597](tel:+48790402597)
-Email: [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)
-
-## Service photos
-
-![smartPULS device with IPL handpiece and active control panel in Świdnica](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-device-service-swidnica.webp)
+Contact Laser Tech Service for professional diagnostics.
 
 ## Related articles and services
 
-- [smartPULS: A German IPL Device Running Linux. Why Did an Intact Lamp Stop Working After 30,000 Pulses?](https://lasertechservice.pl/en/blog/smartpuls-ipl-linux-30000-pulses/)
+- [smartPULS: Linux and IPL lamp](https://lasertechservice.pl/en/blog/smartpuls-ipl-linux-30000-pulses/)
 
 - [IPL servicing](https://lasertechservice.pl/en/services/ipl-equipment-service/)
 
-- [Diode laser diagnostics](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
+- [Laser diagnostics](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
 
-- [Laser handpiece restoration](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
+- [Handpiece restoration](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
 
-- [Electronics and power supply repair](https://lasertechservice.pl/en/services/power-supply-electronics-repair/)
+- [Electronics repair](https://lasertechservice.pl/en/services/power-supply-electronics-repair/)
 
 - [Contact](https://lasertechservice.pl/en/contact/)
 

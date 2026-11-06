@@ -11,7 +11,7 @@ const p=await ctx.newPage(),errors=[],results=[],metrics=[],badResponses=[];p.on
 for(const [kind,langs] of Object.entries(routes))for(const [lang,url] of Object.entries(langs)){
  for(const width of [320,375,430,768,1440]){
   await p.setViewportSize({width,height:900});assert.equal((await p.goto(base+url)).status(),200);await p.locator('.lazar-launcher').waitFor({state:'visible'});
-  assert.equal(await p.locator('h1').count(),1);assert(await p.locator('[data-reading-time]').isVisible());assert.equal(await p.locator('[data-reading-time]').getAttribute('data-reading-time'),kind==='case'?'2':'5');assert.equal(await p.locator('main img').count(),kind==='case'?2:3);
+  assert.equal(await p.locator('h1').count(),1);assert(await p.locator('[data-reading-time]').isVisible());assert.equal(await p.locator('[data-reading-time]').getAttribute('data-reading-time'),kind==='case'?'2':'5');assert.equal(await p.locator('main img').count(),3);
   await p.waitForTimeout(350);const initial=await p.evaluate(()=>({...window.qa}));metrics.push({url,width,...initial});
   assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),`Overflow ${url} ${width}`);
   await p.locator('.language-switcher summary').click();for(const [l,u] of Object.entries(langs))assert.equal(await p.locator('.language-switcher a[lang='+l+']').getAttribute('href'),u);await p.keyboard.press('Escape');
@@ -20,12 +20,12 @@ for(const [kind,langs] of Object.entries(routes))for(const [lang,url] of Object.
   if(kind==='case'&&width===375){for(const a of await p.locator('.case-photo--compact a,.case-gallery a').all()){await a.click();await p.locator('.case-photo-dialog').waitFor({state:'visible'});await p.locator('.case-photo-dialog img').evaluate(e=>e.decode());await p.keyboard.press('Escape');await p.locator('.case-photo-dialog').waitFor({state:'hidden'});}}
   if(kind==='blog')assert(await p.evaluate(()=>Math.abs(document.querySelector('.footer').getBoundingClientRect().top-document.querySelector('.article-page').getBoundingClientRect().bottom)<1),'No white gap above footer');
   await p.evaluate(()=>scrollTo(0,0));if([375,1440].includes(width))await p.screenshot({path:path.join(out,kind+'-'+lang+'-'+width+'.png'),fullPage:true});
-  results.push({url,width,overflow:false,photos:kind==='case'?2:3});
+  results.push({url,width,overflow:false,photos:3});
  }
- await p.locator('main a[href^="tel:"]').first().waitFor({state:'attached'});assert(await p.locator('main a[href^="mailto:"]').count()>0);assert(await p.locator('main a[href^="https://wa.me/"]').count()>0);console.log('PASS',url);
+ assert(await p.locator('main a[href^="https://wa.me/"]').count()>0);console.log('PASS',url);
 }
 for(const langs of Object.values(routes))for(const [from,url] of Object.entries(langs))for(const [to,peer] of Object.entries(langs)){if(from===to)continue;await p.goto(base+url);await p.locator('.language-switcher summary').click();await p.locator('.language-switcher a[lang='+to+']').click();await p.waitForURL(base+peer);assert.equal(await p.locator('html').getAttribute('lang'),to);}
 for(const [kind,langs] of Object.entries(routes))for(const url of Object.values(langs)){const hub=url.split('/').slice(0,-2).join('/')+'/';await p.setViewportSize({width:320,height:900});assert.equal((await p.goto(base+hub)).status(),200);assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));const card=p.locator(kind==='case'?'.realizacja-card':'.blog-card').first();assert.equal(await card.locator('img').count(),kind==='case'?1:0);assert.equal(await card.locator('a').first().getAttribute('href'),url);await card.locator('a').first().click();await p.waitForURL(base+url);}
 assert.deepEqual(errors,[]);assert.deepEqual(badResponses,[]);
-fs.writeFileSync(path.join(out,'browser-results.json'),JSON.stringify({results,metrics,errors,badResponses,languageTransitions:12,galleryDialogs:6,externalRequests:'blocked'},null,2));await browser.close();console.log('PASS: 30 layouts; 75 photo loads; six gallery dialogs; 12 language transitions; 18 mobile menu checks; six catalogue cards; no JS errors or local HTTP errors');
+fs.writeFileSync(path.join(out,'browser-results.json'),JSON.stringify({results,metrics,errors,badResponses,languageTransitions:12,galleryDialogs:0,externalRequests:'blocked'},null,2));await browser.close();console.log('PASS: 30 layouts; 90 photo loads; Pharaon case layout; 12 language transitions; 18 mobile menu checks; six catalogue cards; no JS errors or local HTTP errors');
 })().catch(e=>{console.error(e);process.exit(1)});

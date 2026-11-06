@@ -10,11 +10,21 @@
 
 Дата публикации: 2026-11-06
 
-![Манипула smartPULS в руке с видимым оптическим окном](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp)
-
-**Ремонт косметологического оборудования smartPULS | Свидница, Нижняя Силезия**
+Ремонт косметологического оборудования smartPULS | Свидница, Нижняя Силезия
 
 В Laser Tech Service обратился клиент из города Свидница с проблемой немецкого косметологического аппарата smartPULS. По словам клиента, в манипуле перестала работать IPL-лампа. Первоначально предполагалось, что лампа перегорела и требует замены.
+
+![Аппарат smartPULS с IPL-манипулой и включённой панелью управления в Свиднице](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-device-service-swidnica.webp)
+
+- Аппарат: smartPULS
+
+- Место: Świdnica · Dolnośląskie
+
+- Технология: IPL
+
+- Объём работ: Диагностика и ремонт
+
+![Манипула smartPULS в руке с видимым оптическим окном](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp)
 
 Наши специалисты выехали к клиенту для диагностики оборудования.
 
@@ -42,26 +52,19 @@ Laser Tech Service обслуживает косметологические а�
 
 Если аппарат перестал производить вспышки, это ещё не означает, что лампа или манипула обязательно требуют замены.
 
-[Обратитесь в Laser Tech Service для профессиональной диагностики.](https://lasertechservice.pl/ru/kontakt/)
-
-Телефон / [WhatsApp](https://wa.me/48790402597): [+48 790 402 597](tel:+48790402597)
-E-mail: [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)
-
-## Фотографии обслуживания
-
-![Аппарат smartPULS с IPL-манипулой и включённой панелью управления в Свиднице](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-device-service-swidnica.webp)
+Обратитесь в Laser Tech Service для профессиональной диагностики.
 
 ## Связанные материалы и услуги
 
-- [smartPULS — немецкий IPL-аппарат на Linux. Почему исправная лампа перестала работать после 30 000 вспышек?](https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/)
+- [smartPULS: Linux и IPL-лампа](https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/)
 
 - [Сервис IPL](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
 
-- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+- [Диагностика лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
 
-- [Восстановление головок и манипул](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+- [Восстановление манипул](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
 
-- [Ремонт электроники и блоков питания](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
+- [Ремонт электроники](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
 
 - [Контакты](https://lasertechservice.pl/ru/kontakt/)
 

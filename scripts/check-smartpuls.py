@@ -21,6 +21,7 @@ for kind,localized in routes.items():
   expected=[v.replace('**','').removeprefix('### ') for v in expected]
   # User requested removing the duplicated contact paragraph from blog CTAs.
   if kind=='blog':expected=[v for v in expected if not v.startswith('Laser Tech Service  \n') ]
+  else:expected=[expected[0],expected[2],expected[3],expected[1],*expected[4:-1]]  # Pharaon hero order; duplicate contacts removed.
   authored=[n.text() for n in main.all() if n.attrs.get('data-authored')=='true'];assert list(map(norm,authored))==list(map(norm,expected)),url
   assert len(list(main.all('h1')))==1
   assert p['alternates']=={**{l:ai.BASE+u for l,u in localized.items()},'x-default':ai.BASE+localized['pl']}
@@ -38,8 +39,11 @@ for kind,localized in routes.items():
   assert not any(s.get('@type')=='FAQPage' for s in p['schemas']);assert any(s.get('@type')=='BreadcrumbList' for s in p['schemas'])
   if lang=='pl':
    assert not re.search('[\u0400-\u04ff]',main.text())
-   for keyword in ['serwis laserów','regeneracja laserów','naprawa laserów']:assert keyword in main.text().lower(),(url,keyword)
-  ims=list(main.all('img'));assert len(ims)==(2 if kind=='case' else 3);assert len({n.attrs['src'] for n in ims})==len(ims)
+   if kind=='blog':
+    for keyword in ['serwis laserów','regeneracja laserów','naprawa laserów']:assert keyword in main.text().lower(),(url,keyword)
+   else:
+    assert 'serwisem laserów' in main.text().lower() and 'regeneracją laserów' in main.text().lower()
+  ims=list(main.all('img'));assert len(ims)==3;assert len({n.attrs['src'] for n in ims})==(2 if kind=='case' else 3)
   for i,n in enumerate(ims):
    f=files[n.attrs['src']];assert int(n.attrs['width'])==f['width'] and int(n.attrs['height'])==f['height'];assert n.attrs['sizes'];assert n.attrs['loading']==('eager' if i==0 else 'lazy');assert n.attrs['alt']==next(a['alt'][lang] for a in audit if f in a['files']);assert_srcset_candidates(n.attrs['srcset'],files,R)
   for n in p['tree'].all():
