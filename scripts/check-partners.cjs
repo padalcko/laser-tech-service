@@ -20,7 +20,7 @@ const out=process.env.LTS_TEST_OUT||'/tmp/lts-esen';
   await cards.first().focus();assert(await cards.first().evaluate(e=>e===document.activeElement));
   assert.equal(await cards.first().getAttribute('href'),ordered[0].url);
   assert.equal(await cards.first().locator('img').getAttribute('alt'),ordered[0].content[lang].image_html.match(/alt="([^"]+)"/)[1]);
-  await page.locator('.lazar-launcher').click();await page.locator('#lazar-panel').waitFor({state:'visible'});
+  await page.locator('.lazar-launcher:visible, .mobile-contact-bar [data-action="lazar"]:visible').click();await page.locator('#lazar-panel').waitFor({state:'visible'});
   await page.locator('.lazar-close').click();await page.locator('#lazar-panel').waitFor({state:'hidden'});
   for(const width of [320,375,430,768,1024,1440]){
    await page.setViewportSize({width,height:900});

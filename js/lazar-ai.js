@@ -130,6 +130,45 @@
   const input = make('textarea', 'lazar-input'); input.rows = 2; input.placeholder = t.placeholder; input.setAttribute('aria-label', t.input); input.setAttribute('aria-describedby', 'lazar-feedback');
   const send = button('lazar-action lazar-send', t.send); send.type = 'submit';
   form.append(input, send); panel.append(header, log, feedback, retry, form); root.append(launcher, panel); document.body.append(root);
+  // Shared quick actions reuse this widget's locale, lifecycle and chat state.
+  const mobileLabels = {
+    pl: ['Szybki kontakt', 'Zadzwoń', 'Łazarz'],
+    ru: ['Быстрая связь', 'Позвонить', 'Лазарь'],
+    en: ['Quick contact', 'Call', 'Lazar'],
+  }[language];
+  const bar = make('nav', 'mobile-contact-bar');
+  bar.setAttribute('aria-label', mobileLabels[0]);
+  const actions = [
+    ['phone', mobileLabels[1], 'tel:+48790402597', '/img/icons/gold-phone.svg'],
+    ['whatsapp', 'WhatsApp', 'https://wa.me/48790402597', '/img/icons/gold-whatsapp.svg'],
+    ['instagram', 'Instagram', 'https://www.instagram.com/lasertech.service/', '/img/icons/gold-instagram.svg'],
+    ['lazar', mobileLabels[2], null, '/img/lazar-ai-avatar.svg'],
+  ];
+  let mobileLauncher;
+  actions.forEach(([action, label, href, icon]) => {
+    const control = href ? make('a', 'mobile-contact-bar__action') : button('mobile-contact-bar__action');
+    control.dataset.action = action;
+    if (href) {
+      control.href = href;
+      if (action !== 'phone') { control.target = '_blank'; control.rel = 'noopener noreferrer'; }
+    } else {
+      mobileLauncher = control;
+      control.setAttribute('aria-controls', 'lazar-panel');
+      control.setAttribute('aria-expanded', 'false');
+    }
+    const img = make('img'); img.src = icon; img.alt = ''; img.width = 28; img.height = 28;
+    const iconFrame = make('span', 'mobile-contact-bar__icon');
+    iconFrame.append(img);
+    control.append(iconFrame, make('span', '', label));
+    control.addEventListener('click', () => {
+      if (typeof window.gtag === 'function') window.gtag('event', 'mobile_contact_click', {
+        action, placement: 'mobile_bottom_bar', page_path: location.pathname, language,
+      });
+      if (action === 'lazar') openChat();
+    });
+    bar.append(control);
+  });
+  root.append(bar);
   root.dataset.sendingEnabled = String(sendingEnabled);
   // Reversible hiding: existing menu markup and handlers remain intact.
   document.querySelectorAll('.menu').forEach(menu => menu.classList.add('lazar-social-hidden'));
@@ -200,18 +239,22 @@
     const vv = window.visualViewport;
     root.style.setProperty('--lazar-vh', (vv ? vv.height : window.innerHeight) + 'px');
     root.style.setProperty('--lazar-top', (vv ? vv.offsetTop : 0) + 'px');
+    root.classList.toggle('mobile-keyboard-open', !!vv && window.innerHeight - vv.height > 150 && /^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement?.tagName));
     root.classList.toggle('lazar-root--compact', (vv ? vv.height : innerHeight) < 480);
   };
   window.visualViewport?.addEventListener('resize', viewport, { signal: lifecycle.signal });
   window.visualViewport?.addEventListener('scroll', viewport, { signal: lifecycle.signal });
   window.addEventListener('resize', viewport, { signal: lifecycle.signal }); viewport();
-  launcher.addEventListener('click', () => {
+  function openChat() {
+    if (!panel.hidden) return;
+    bar.hidden = true; mobileLauncher.setAttribute('aria-expanded', 'true');
     panel.hidden = false; launcher.hidden = true; launcher.setAttribute('aria-expanded', 'true');
     if (!greeted) { addMessage(t.greeting, 'assistant'); log.append(quick); greeted = true; }
     if (!sendingEnabled) blockedFallback();
     viewport(); close.focus({ preventScroll: true }); track('lazar_open');
-  });
-  const hide = (restoreFocus = true) => { panel.hidden = true; launcher.hidden = false; launcher.setAttribute('aria-expanded', 'false'); if (restoreFocus) launcher.focus({ preventScroll: true }); };
+  }
+  launcher.addEventListener('click', openChat);
+  const hide = (restoreFocus = true) => { bar.hidden = false; mobileLauncher.setAttribute('aria-expanded', 'false'); panel.hidden = true; launcher.hidden = false; launcher.setAttribute('aria-expanded', 'false'); if (restoreFocus) (window.matchMedia('(max-width: 767px)').matches ? mobileLauncher : launcher).focus({ preventScroll: true }); };
   close.addEventListener('click', () => hide());
   document.addEventListener('keydown', e => { if (!panel.hidden && e.key === 'Escape') { e.preventDefault(); e.stopPropagation(); hide(); } }, { signal: lifecycle.signal });
   const busy = value => {

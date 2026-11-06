@@ -80,3 +80,12 @@
 .lazar-quick-question { width: 100%; text-align: left; justify-content: flex-start; }
 .lazar-message--system .lazar-bubble { background: var(--black-soft); color: var(--gold-light); border: 1px solid var(--gold-dark); }
 .lazar-bubble strong { color: inherit; }
+
+@media (max-width: 767px) {
+ .lazar-panel {
+  top: calc(var(--lazar-top, 0px) + 8px + env(safe-area-inset-top));
+  height: calc(var(--lazar-vh, 100dvh) - 16px - env(safe-area-inset-top) - env(safe-area-inset-bottom));
+  width: calc(100% - 24px - env(safe-area-inset-left) - env(safe-area-inset-right));
+  right: max(12px, env(safe-area-inset-right));
+ }
+}

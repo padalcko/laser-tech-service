@@ -4271,3 +4271,42 @@ button.btn {
 .service-case strong {
     color: var(--text);
 }
+
+/* Shared mobile quick actions. Reserve space in the initial stylesheet. */
+.mobile-contact-bar { display: none; }
+@media (max-width: 767px) {
+    :root { --mobile-contact-height: 76px; --mobile-contact-space: calc(var(--mobile-contact-height) + 24px + env(safe-area-inset-bottom, 0px)); }
+    body { padding-bottom: var(--mobile-contact-space); }
+    html { scroll-padding-bottom: var(--mobile-contact-space); }
+    .mobile-contact-bar {
+        position: fixed; z-index: 1300;
+        left: max(12px, env(safe-area-inset-left)); right: max(12px, env(safe-area-inset-right));
+        bottom: calc(12px + env(safe-area-inset-bottom, 0px));
+        height: var(--mobile-contact-height); display: grid; grid-template-columns: repeat(4, minmax(0, 1fr));
+        padding: 5px; gap: 2px; border: 1px solid var(--gold-dark);
+        border-radius: 26px; background: var(--black-deep); box-shadow: 0 6px 24px #0005;
+    }
+    .mobile-contact-bar__action {
+        display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 5px;
+        min-width: 0; min-height: 44px; padding: 4px 0; border: 0; border-radius: 19px;
+        background: transparent; color: var(--white); font: inherit; font-size: 10px; line-height: 1.3;
+        font-weight: 600; text-decoration: none; cursor: pointer; white-space: nowrap;
+    }
+    .mobile-contact-bar__action { color: var(--gold-light); }
+    .mobile-contact-bar__icon {
+        display: flex; align-items: center; justify-content: center;
+        width: 34px; height: 34px; border: 1px solid rgba(203, 178, 106, 0.23);
+        border-radius: 50%; background: rgba(255, 255, 255, 0.02);
+    }
+    .mobile-contact-bar__icon img { width: 18px; height: 18px; object-fit: contain; }
+    .mobile-contact-bar__action[data-action="lazar"] img { width: 28px; height: 28px; }
+    .mobile-contact-bar__action:hover .mobile-contact-bar__icon,
+    .mobile-contact-bar__action:focus-visible .mobile-contact-bar__icon {
+        border-color: var(--gold); background: rgba(203, 178, 106, 0.07);
+    }
+    .mobile-contact-bar__action:focus-visible { outline: 2px solid var(--gold-light); outline-offset: -2px; }
+    .lazar-launcher, .menu, .social-buttons { display: none !important; }
+    body.nav-open .mobile-contact-bar, body:has(dialog[open]) .mobile-contact-bar,
+    body:has([aria-modal="true"]:not([hidden])) .mobile-contact-bar,
+    .mobile-keyboard-open .mobile-contact-bar { display: none; }
+}
