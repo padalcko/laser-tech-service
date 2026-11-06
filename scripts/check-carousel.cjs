@@ -20,7 +20,10 @@ const base=process.env.LTS_TEST_BASE||'http://127.0.0.1:8799';
   const original=await p.locator('#carouselTrack > *').count();
   const assets=await p.locator('#carouselTrack img').evaluateAll(ns=>ns.map(n=>n.outerHTML));
   for(const width of [320,375,430,767,768,1024,1440,375,1024,767,768]){
-   await p.setViewportSize({width,height:850});await p.locator('.carousel-wrapper').scrollIntoViewIfNeeded();await p.waitForTimeout(150);
+   await p.setViewportSize({width,height:850});
+   if(width>=768) await p.locator('.carousel-wrapper').scrollIntoViewIfNeeded();
+   await p.waitForTimeout(150);
+   assert.equal(await p.locator('.devices-carousel').isVisible(),width>=768);
    assert.equal(await p.locator('#carouselTrack > *').count(),original*(width<768?1:2));
    assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
    if(width<768){
@@ -28,7 +31,7 @@ const base=process.env.LTS_TEST_BASE||'http://127.0.0.1:8799';
     const before=await p.evaluate(()=>carouselFrames.calls);await p.waitForTimeout(100);assert.equal(await p.evaluate(()=>carouselFrames.calls),before);
     assert.equal(await p.locator('#carouselTrack').evaluate(e=>e.style.transform),'');
     assert.deepEqual(await p.locator('#carouselTrack img').evaluateAll(ns=>ns.map(n=>n.outerHTML)),assets);
-    await p.locator('.carousel-wrapper').evaluate(e=>e.scrollLeft=300);await p.waitForTimeout(120);assert(await p.locator('.carousel-wrapper').evaluate(e=>e.scrollLeft>0));
+    assert.equal(await p.locator('.devices-carousel').evaluate(e=>e.getBoundingClientRect().height),0);
    }else{
     assert.equal(await p.evaluate(()=>carouselFrames.active()),1);
     const x=await p.locator('#carouselTrack').evaluate(e=>e.style.transform);await p.waitForTimeout(100);assert.notEqual(await p.locator('#carouselTrack').evaluate(e=>e.style.transform),x);
@@ -41,14 +44,7 @@ const base=process.env.LTS_TEST_BASE||'http://127.0.0.1:8799';
    }
    assert((await p.evaluate(()=>carouselFrames.max))<=1);
   }
-  // Actual browser touch events exercise native scrolling, not JS drag code.
-  await p.setViewportSize({width:375,height:850});await p.locator('.carousel-wrapper').scrollIntoViewIfNeeded();
-  await p.locator('.carousel-wrapper').evaluate(e=>e.scrollLeft=0);await p.waitForTimeout(150);
-  const box=await p.locator('.carousel-wrapper').boundingBox(),cdp=await ctx.newCDPSession(p),y=box.y+box.height/2;
-  await cdp.send('Input.dispatchTouchEvent',{type:'touchStart',touchPoints:[{x:320,y}]});
-  for(const x of [280,220,160,100,40]){await cdp.send('Input.dispatchTouchEvent',{type:'touchMove',touchPoints:[{x,y}]});await p.waitForTimeout(20)}
-  await cdp.send('Input.dispatchTouchEvent',{type:'touchEnd',touchPoints:[]});await p.waitForTimeout(250);
-  assert(await p.locator('.carousel-wrapper').evaluate(e=>e.scrollLeft>0));await cdp.detach();
+
  }
- assert.deepEqual(errors,[]);await browser.close();console.log('PASS PL/RU/EN: 7 widths, repeated breakpoints, native touch, original assets, desktop animation, offscreen/hidden/reduced-motion pauses, max one RAF, zero mobile RAF; no JS errors');
+ assert.deepEqual(errors,[]);await browser.close();console.log('PASS PL/RU/EN: 7 widths, repeated breakpoints, mobile section hidden without empty space, original assets, desktop animation, offscreen/hidden/reduced-motion pauses, max one RAF, zero mobile RAF; no JS errors');
 })().catch(e=>{console.error(e);process.exit(1)});

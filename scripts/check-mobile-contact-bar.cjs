@@ -39,13 +39,13 @@ const out='/tmp/lts-mobile-bar';fs.mkdirSync(out,{recursive:true});
    // Prevent navigation only in the test; retain the real click handlers.
    await bar.evaluate(e=>e.addEventListener('click',ev=>ev.preventDefault()));
    for(const action of ['phone','whatsapp','instagram','lazar'])await p.locator('[data-action='+action+']').click();
-   assert(await p.locator('#lazar-panel').isVisible());assert(!await bar.isVisible());
+   assert(await p.locator('#lazar-panel').isVisible());assert(await bar.isVisible());
    const events=await p.evaluate(()=>dataLayer.filter(e=>e[0]==='event'&&e[1]==='mobile_contact_click').map(e=>e[2]));
    assert.deepEqual(events.map(e=>e.action),['phone','whatsapp','instagram','lazar']);events.forEach(e=>{assert.equal(e.language,lang);assert.equal(e.placement,'mobile_bottom_bar')});
    await p.locator('.lazar-input').fill('Local mocked test');await p.locator('.lazar-send').click();await p.waitForFunction(()=>document.querySelector('.lazar-log').textContent.includes('Mock response'));
    await p.keyboard.press('Escape');assert(await bar.isVisible());assert.equal(await p.evaluate(()=>document.activeElement.dataset.action),'lazar');
-   if(width<761){await p.locator('.nav-toggle').click();assert(!await bar.isVisible());await p.locator('.nav-toggle').click();assert(await bar.isVisible())}
-   await p.evaluate(()=>{const d=document.createElement('dialog');d.id='qa-dialog';document.body.append(d);d.showModal()});assert(!await bar.isVisible());await p.evaluate(()=>document.getElementById('qa-dialog').remove());assert(await bar.isVisible());
+   if(width<761){await p.locator('.nav-toggle').click();assert(await bar.isVisible());await p.locator('.nav-toggle').click();assert(await bar.isVisible())}
+   await p.evaluate(()=>{const d=document.createElement('dialog');d.id='qa-dialog';document.body.append(d);d.showModal()});assert(await bar.isVisible());await p.evaluate(()=>document.getElementById('qa-dialog').remove());assert(await bar.isVisible());
   }else{await p.locator('.lazar-launcher').click();assert(await p.locator('#lazar-panel').isVisible());await p.locator('.lazar-close').click()}
  }
  // Landscape/keyboard-sized viewport: chat input remains inside visible area.
@@ -57,5 +57,5 @@ const out='/tmp/lts-mobile-bar';fs.mkdirSync(out,{recursive:true});
  for(const lang of ['ru','en','pl']){await p.evaluate(l=>{document.documentElement.lang=l;document.dispatchEvent(new CustomEvent('error-language-change'))},lang);assert.equal(await p.locator('.mobile-contact-bar').count(),1);assert.equal(await p.locator('[data-action=lazar]').textContent(),{pl:'Łazarz',ru:'Лазарь',en:'Lazar'}[lang])}
  assert.deepEqual(errors,[]);await browser.close();
  fs.writeFileSync(out+'/results.json',JSON.stringify({routes:routes.length+1,routeSweep:!process.argv.includes('--layouts-only'),layouts:27,requests,errors,landscape:true,keyboardSizedViewport:true},null,2));
- console.log('PASS 27 layouts, analytics once per click, mock chat, focus, menu/modal priority, landscape, 404 locales; no JS errors');
+ console.log('PASS 27 layouts, analytics once per click, mock chat, focus, persistent bar with menu/modal, landscape, 404 locales; no JS errors');
 })().catch(e=>{console.error(e);process.exit(1)});

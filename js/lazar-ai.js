@@ -247,7 +247,7 @@
   window.addEventListener('resize', viewport, { signal: lifecycle.signal }); viewport();
   function openChat() {
     if (!panel.hidden) return;
-    bar.hidden = true; mobileLauncher.setAttribute('aria-expanded', 'true');
+    mobileLauncher.setAttribute('aria-expanded', 'true');
     panel.hidden = false; launcher.hidden = true; launcher.setAttribute('aria-expanded', 'true');
     if (!greeted) { addMessage(t.greeting, 'assistant'); log.append(quick); greeted = true; }
     if (!sendingEnabled) blockedFallback();

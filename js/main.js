@@ -155,7 +155,11 @@ document.addEventListener('DOMContentLoaded', () => {
         links[next]?.focus();
       }
     });
-    dropdown.addEventListener('focusout', event => { if (!dropdown.contains(event.relatedTarget)) close(); });
+    // Safari touch can blur summary before the link receives its click.
+    // Dismiss on a real focus transfer; outside taps are handled below.
+    dropdown.addEventListener('focusout', event => {
+      if (event.relatedTarget && !dropdown.contains(event.relatedTarget)) close();
+    });
     links.forEach(link => link.addEventListener('click', () => close()));
     document.addEventListener('click', event => { if (!dropdown.contains(event.target)) close(); });
     document.querySelector('.nav-toggle')?.addEventListener('click', () => close());
@@ -405,11 +409,11 @@ document.addEventListener("DOMContentLoaded", () => {
     return;
   }
 
-  if (typeof jarallax !== "function") {
-    return;
-  }
-
-  jarallax(jarallaxElements);
+  const initialize = () => {
+    if (typeof window.jarallax === "function") window.jarallax(jarallaxElements);
+  };
+  if (typeof window.jarallax === "function") initialize();
+  else document.querySelector('script[src*="jarallax.min.js"]')?.addEventListener('load', initialize, { once: true });
 });
 
 /* =========================================================

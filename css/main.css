@@ -1060,9 +1060,7 @@ menu>.trigger:hover {
 
 
 @media (max-width: 767px) {
-    .carousel-wrapper { overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; }
-    .carousel-wrapper::-webkit-scrollbar { display: none; }
-    .carousel-track .device { scroll-snap-align: start; }
+    .devices-carousel { display: none; }
 }
 
 
@@ -4286,7 +4284,7 @@ button.btn {
     body { padding-bottom: var(--mobile-contact-space); }
     html { scroll-padding-bottom: var(--mobile-contact-space); }
     .mobile-contact-bar {
-        position: fixed; z-index: 1300;
+        position: fixed; z-index: 1700;
         left: max(12px, env(safe-area-inset-left)); right: max(12px, env(safe-area-inset-right));
         bottom: calc(12px + env(safe-area-inset-bottom, 0px));
         height: var(--mobile-contact-height); display: grid; grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -4313,7 +4311,4 @@ button.btn {
     }
     .mobile-contact-bar__action:focus-visible { outline: 2px solid var(--gold-light); outline-offset: -2px; }
     .lazar-launcher, .menu, .social-buttons { display: none !important; }
-    body.nav-open .mobile-contact-bar, body:has(dialog[open]) .mobile-contact-bar,
-    body:has([aria-modal="true"]:not([hidden])) .mobile-contact-bar,
-    .mobile-keyboard-open .mobile-contact-bar { display: none; }
 }
