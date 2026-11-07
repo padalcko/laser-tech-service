@@ -20,10 +20,14 @@ const launcherLabels = {pl: 'Zapytaj Łazarza', ru: 'Спросить Лазар
  const browser = await chromium.launch({ headless: true, executablePath: process.env.CHROME_PATH || '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' });
  async function context(width = 390, language = 'pl', timeout = false) {
   const c = await browser.newContext({ viewport: { width, height: 900 }, reducedMotion: 'reduce' });
-  let mode = 'success', requests = [];
+   let mode = 'success', requests = [], assetFailure = false, assetRequests = [];
   await c.route('**/*', async r => {
    const u = r.request().url();
-   if (u.includes('/webhook/lazar-ai-chat')) {
+    if (/\/(css\/lazar-ai\.css|js\/lazar-ai\.js)$/.test(new URL(u).pathname)) {
+     assetRequests.push(u);
+     if (assetFailure) return r.abort();
+    }
+    if (u.includes('/webhook/lazar-ai-chat')) {
     requests.push(r.request().postDataJSON());
     if (mode === 'network') return r.abort();
     if (mode === 'timeout' || mode === 'delayed') await new Promise(resolve => setTimeout(resolve, mode === 'timeout' ? 700 : 100));
@@ -41,7 +45,7 @@ const launcherLabels = {pl: 'Zapytaj Łazarza', ru: 'Спросить Лазар
   const p = await c.newPage(); const errors = []; p.on('pageerror', e => errors.push(e.message));
   await p.goto(base + routeFor('home', language));
   await p.locator('.lazar-launcher').waitFor();
-  return { c, p, requests, errors, mode: value => mode = value };
+  return { c, p, requests, assetRequests, errors, mode: value => mode = value, failAssets: value => assetFailure = value };
  }
  for (const width of [320,375,390,430,768,1024,1440,1920]) for (const language of languages) {
   const x = await context(width, language); const {p,c} = x;
@@ -59,9 +63,12 @@ const launcherLabels = {pl: 'Zapytaj Łazarza', ru: 'Спросить Лазар
   if ([390,1440].includes(width)) await p.locator('.lazar-launcher').screenshot({path:`${out}/launcher-${language}-${width}.png`});
 
   assert.equal(x.requests.length, 0);
+  assert.equal(x.assetRequests.length, 0);
   assert.equal(await p.locator('.menu').isVisible(),false);
   assert(await p.locator('menu > .trigger').count());
   await p.locator('.lazar-launcher').click();
+  await p.locator('.lazar-panel').waitFor({state:'visible'});
+  assert.equal(x.assetRequests.length, 2);
   assert.equal(await p.locator('.lazar-panel > .lazar-contacts').count(),0);
   assert.equal(await p.locator('.lazar-message .lazar-contacts a').count(),2);
   assert.equal(await p.locator('.lazar-message').count(),1); assert.equal(x.requests.length,0);
@@ -71,7 +78,8 @@ const launcherLabels = {pl: 'Zapytaj Łazarza', ru: 'Спросить Лазар
   assert.equal(await p.locator('.lazar-contacts a').nth(1).getAttribute('href'),routeFor('contact', language)+(language === 'en' ? '' : '#contactid'));
   await p.keyboard.press('Escape'); assert.equal(await p.locator('.lazar-panel').isVisible(),false);
   assert(await p.locator('.lazar-launcher').evaluate(e=>e===document.activeElement));
-  await p.locator('.lazar-launcher').click(); assert.equal(await p.locator('.lazar-message').count(),1);
+  await p.locator('.lazar-launcher').click(); await p.locator('.lazar-panel').waitFor({state:'visible'}); assert.equal(await p.locator('.lazar-message').count(),1);
+  assert.equal(x.assetRequests.length, 2);
   if ([390,1440].includes(width)) await p.screenshot({path:`${out}/${language}-${width}.png`});
   await p.locator('.lazar-close').click(); assert.equal(await p.locator('.lazar-panel').isVisible(),false);
   assert.deepEqual(x.errors,[]); results.push({language,width,layout:'PASS'}); await c.close();
@@ -79,6 +87,7 @@ const launcherLabels = {pl: 'Zapytaj Łazarza', ru: 'Спросить Лазар
  for (const language of languages) {
   const x=await context(390,language,true);const {p,c}=x;
   await p.locator('.lazar-launcher').click();
+  await p.locator('.lazar-panel').waitFor({state:'visible'});
   await p.locator('.lazar-input').fill('x'.repeat(2001));await p.locator('.lazar-send').click();assert.equal(x.requests.length,0);
   await p.locator('.lazar-input').fill('   ');await p.locator('.lazar-send').click();assert.equal(x.requests.length,0);
   const submit=async(text)=>{await p.locator('.lazar-input').fill(text);await p.locator('.lazar-send').click();};
@@ -122,6 +131,7 @@ const launcherLabels = {pl: 'Zapytaj Łazarza', ru: 'Спросить Лазар
    await p.evaluate(()=>scrollTo(0,document.body.scrollHeight));
    const box = await p.locator('.lazar-launcher').boundingBox(); assert(box.x>=0 && box.x+box.width<=width && box.y+box.height<=900);
    await p.locator('.lazar-launcher').focus(); await p.keyboard.press('Enter');
+   await p.locator('.lazar-panel').waitFor({state:'visible'});
    assert(await p.locator('.lazar-panel').isVisible()); await p.keyboard.press('Escape');
    assert(await p.locator('.lazar-launcher-label').isVisible());
   }
@@ -129,7 +139,16 @@ const launcherLabels = {pl: 'Zapytaj Łazarza', ru: 'Спросить Лазар
   assert.equal(x.requests.length,0); await c.close();
   results.push({language,persistentLauncher:'home/service/blog, six widths, scrolling, keyboard, delayed visibility'});
  }
+ // Failed lazy requests announce an error and can be retried without a reload.
+ const failedAssets=await context(390,'en');failedAssets.failAssets(true);
+ await failedAssets.p.locator('.lazar-launcher').click();
+ await failedAssets.p.locator('.lazar-loader-status').filter({hasText:'could not be loaded'}).waitFor();
+ assert.equal(await failedAssets.p.locator('.lazar-panel').count(),0);
+ failedAssets.failAssets(false);
+ await failedAssets.p.locator('.lazar-launcher').click();
+ await failedAssets.p.locator('.lazar-panel').waitFor({state:'visible'});
+ await failedAssets.c.close();
  // Storage denial must not prevent greeting or requests.
- const x=await context();await x.p.addInitScript(()=>{Storage.prototype.getItem=()=>{throw Error('denied')};Storage.prototype.setItem=()=>{throw Error('denied')};});await x.p.reload();await x.p.locator('.lazar-launcher').click();await x.p.locator('.lazar-input').fill('TEST-private');await x.p.locator('.lazar-send').click();await x.p.waitForFunction(()=>document.querySelectorAll('.lazar-message').length===3);assert.equal(x.requests.length,1);await x.c.close();
+ const x=await context();await x.p.addInitScript(()=>{Storage.prototype.getItem=()=>{throw Error('denied')};Storage.prototype.setItem=()=>{throw Error('denied')};});await x.p.reload();await x.p.locator('.lazar-launcher').click();await x.p.locator('.lazar-panel').waitFor({state:'visible'});await x.p.locator('.lazar-input').fill('TEST-private');await x.p.locator('.lazar-send').click();await x.p.waitForFunction(()=>document.querySelectorAll('.lazar-message').length===3);assert.equal(x.requests.length,1);await x.c.close();
  await browser.close();fs.writeFileSync(`${out}/results.json`,JSON.stringify(results,null,2));console.log(`PASS ${results.length} layout/scenario groups plus storage denial`);
 })().catch(e=>{console.error(e);process.exit(1)});

@@ -324,21 +324,22 @@ document.addEventListener("DOMContentLoaded", () => {
     return;
   }
 
-  function showInstagramOnScroll() {
-    const rect = instSection.getBoundingClientRect();
-
-    if (rect.top < window.innerHeight - 100) {
-      instSection.classList.add("visible");
-
-      window.removeEventListener("scroll", showInstagramOnScroll);
-    }
+  if (!("IntersectionObserver" in window) || window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+    instSection.classList.add("visible");
+    return;
   }
 
-  window.addEventListener("scroll", showInstagramOnScroll, {
-    passive: true,
+  document.body.classList.add("instagram-reveal-ready");
+  const observer = new IntersectionObserver((entries, currentObserver) => {
+    if (entries.some((entry) => entry.isIntersecting)) {
+      instSection.classList.add("visible");
+      currentObserver.disconnect();
+    }
+  }, {
+    rootMargin: "0px 0px -100px 0px",
+    threshold: 0,
   });
-
-  showInstagramOnScroll();
+  observer.observe(instSection);
 });
 
 /* =========================================================
@@ -348,25 +349,29 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("DOMContentLoaded", () => {
   const animatedItems = document.querySelectorAll(".scroll-animate");
 
-  if (!animatedItems.length) {
+  if (!animatedItems.length || !("IntersectionObserver" in window)) {
     return;
   }
 
-  function handleScrollAnimation() {
-    animatedItems.forEach((item) => {
-      const rect = item.getBoundingClientRect();
-
-      if (rect.top < window.innerHeight - 80) {
-        item.classList.add("visible");
-      }
-    });
+  const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+  if (prefersReducedMotion.matches) {
+    animatedItems.forEach((item) => item.classList.add("visible"));
+    return;
   }
 
-  window.addEventListener("scroll", handleScrollAnimation, {
-    passive: true,
+  document.body.classList.add("scroll-reveal-ready");
+  const observer = new IntersectionObserver((entries, currentObserver) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add("visible");
+        currentObserver.unobserve(entry.target);
+      }
+    });
+  }, {
+    rootMargin: "0px 0px -80px 0px",
+    threshold: 0,
   });
-
-  handleScrollAnimation();
+  animatedItems.forEach((item) => observer.observe(item));
 });
 
 /* =========================================================
@@ -537,17 +542,206 @@ document.addEventListener("DOMContentLoaded", () => {
   }, {passive: false});
 });
 
-/* Shared Lazar AI widget: all public PL/RU pages already load this entry point. */
+/* Keep the visible contact controls lightweight until Lazar is requested. */
 (() => {
-  const mountLazar = () => {
-    if (document.getElementById('lazar-ai-script')) return;
-    const style = document.createElement('link');
-    style.rel = 'stylesheet'; style.href = '/css/lazar-ai.css';
-    document.head.appendChild(style);
-    const script = document.createElement('script');
-    script.id = 'lazar-ai-script'; script.src = '/js/lazar-ai.js'; script.async = true;
-    document.body.appendChild(script);
+  const language = () => {
+    const locale = document.documentElement.lang.trim().toLowerCase().split('-')[0];
+    return ['pl', 'ru', 'en'].includes(locale) ? locale : 'pl';
   };
-  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', mountLazar, { once: true });
-  else mountLazar();
+  const labels = {
+    en: {
+      open: 'Ask Lazar', bar: 'Quick contact', call: 'Call', lazar: 'Lazar',
+      loading: 'Loading the assistant…', error: 'The assistant could not be loaded. Press the button to try again.',
+    },
+    pl: {
+      open: 'Zapytaj Łazarza', bar: 'Szybki kontakt', call: 'Zadzwoń', lazar: 'Łazarz',
+      loading: 'Ładowanie asystenta…', error: 'Nie udało się załadować asystenta. Naciśnij przycisk, aby spróbować ponownie.',
+    },
+    ru: {
+      open: 'Спросить Лазаря', bar: 'Быстрая связь', call: 'Позвонить', lazar: 'Лазарь',
+      loading: 'Загрузка ассистента…', error: 'Не удалось загрузить ассистента. Нажмите кнопку, чтобы попробовать снова.',
+    },
+  };
+  const make = (tag, className, text) => {
+    const node = document.createElement(tag);
+    if (className) node.className = className;
+    if (text) node.textContent = text;
+    return node;
+  };
+  const getLabels = () => labels[language()];
+  let loadPromise;
+  let stylePromise;
+  let scriptPromise;
+  let lazarReady = false;
+  const loadResources = () => {
+    if (lazarReady) return Promise.resolve();
+    if (loadPromise) return loadPromise;
+
+    loadPromise = Promise.all([loadStylesheet(), loadScript()])
+      .then(() => {
+        if (document.getElementById('lazar-root')?.dataset.lazarReady !== 'true') {
+          throw new Error('Lazar did not finish initialization.');
+        }
+        lazarReady = true;
+      })
+      .catch((error) => {
+        loadPromise = null;
+        const script = document.getElementById('lazar-ai-script');
+        if (document.getElementById('lazar-root')?.dataset.lazarReady !== 'true') {
+          script?.remove();
+          document.getElementById('lazar-panel')?.remove();
+          scriptPromise = null;
+        }
+        const style = document.getElementById('lazar-ai-style');
+        if (style?.dataset.loadState !== 'loaded') {
+          style?.remove();
+          stylePromise = null;
+        }
+        throw error;
+      });
+      return loadPromise;
+  };
+  const loadStylesheet = () => {
+    if (stylePromise) return stylePromise;
+    stylePromise = new Promise((resolve, reject) => {
+      let style = document.getElementById('lazar-ai-style');
+      if (style?.dataset.loadState === 'loaded') {
+        resolve();
+        return;
+      }
+      if (!style) {
+        style = document.createElement('link');
+        style.id = 'lazar-ai-style';
+        style.rel = 'stylesheet';
+        style.href = '/css/lazar-ai.css';
+      }
+      style.dataset.loadState = 'loading';
+      style.addEventListener('load', () => {
+        style.dataset.loadState = 'loaded';
+        resolve();
+      }, { once: true });
+      style.addEventListener('error', () => reject(new Error('Could not load Lazar styles.')), { once: true });
+      if (!style.isConnected) document.head.appendChild(style);
+    }).catch((error) => {
+      stylePromise = null;
+      throw error;
+    });
+    return stylePromise;
+  };
+  const loadScript = () => {
+    if (scriptPromise) return scriptPromise;
+    scriptPromise = new Promise((resolve, reject) => {
+      const script = document.createElement('script');
+      script.id = 'lazar-ai-script';
+      script.src = '/js/lazar-ai.js';
+      script.async = true;
+      script.addEventListener('load', resolve, { once: true });
+      script.addEventListener('error', () => reject(new Error('Could not load Lazar script.')), { once: true });
+      document.body.appendChild(script);
+    }).catch((error) => {
+      scriptPromise = null;
+      throw error;
+    });
+    return scriptPromise;
+  };
+  const mountShell = () => {
+    if (document.getElementById('lazar-root')) return;
+
+    const root = make('div', 'lazar-root');
+    root.id = 'lazar-root';
+    const routeLanguage = location.pathname.startsWith('/en/') ? 'en' : location.pathname.startsWith('/ru/') ? 'ru' : 'pl';
+    const sendingEnabled = document.body.hasAttribute('data-error-localization')
+      || (language() === routeLanguage && (language() !== 'en' || document.documentElement.dataset.lazarEnabled === 'true'));
+    root.dataset.sendingEnabled = String(sendingEnabled);
+    const launcher = make('button', 'lazar-launcher');
+    launcher.type = 'button';
+    launcher.setAttribute('aria-expanded', 'false');
+    launcher.setAttribute('aria-controls', 'lazar-panel');
+    const emblem = make('span', 'lazar-launcher-emblem');
+    const avatar = make('img', 'lazar-avatar');
+    avatar.src = '/img/lazar-ai-avatar.svg';
+    avatar.alt = '';
+    avatar.width = 38;
+    avatar.height = 38;
+    emblem.append(avatar);
+    launcher.append(emblem, make('span', 'lazar-launcher-label'));
+
+    const status = make('span', 'lazar-loader-status');
+    status.setAttribute('role', 'status');
+    status.setAttribute('aria-live', 'polite');
+    const bar = make('nav', 'mobile-contact-bar');
+    const callLabel = make('span');
+    const lazarLabel = make('span');
+    function makeContact(action, href, icon, label) {
+      const control = make(href ? 'a' : 'button', 'mobile-contact-bar__action');
+      control.dataset.action = action;
+      if (href) {
+        control.href = href;
+        if (action !== 'phone') {
+          control.target = '_blank';
+          control.rel = 'noopener noreferrer';
+        }
+      } else {
+        control.type = 'button';
+        control.setAttribute('aria-controls', 'lazar-panel');
+        control.setAttribute('aria-expanded', 'false');
+      }
+      const image = make('img');
+      image.src = icon;
+      image.alt = '';
+      image.width = 28;
+      image.height = 28;
+      const frame = make('span', 'mobile-contact-bar__icon');
+      frame.append(image);
+      control.append(frame, label);
+      control.addEventListener('click', () => {
+        if (typeof window.gtag === 'function') window.gtag('event', 'mobile_contact_click', {
+          action, placement: 'mobile_bottom_bar', page_path: location.pathname, language: language(),
+        });
+        if (action === 'lazar') open();
+      });
+      return control;
+    }
+    bar.append(
+      makeContact('phone', 'tel:+48790402597', '/img/icons/gold-phone.svg', callLabel),
+      makeContact('whatsapp', 'https://wa.me/48790402597', '/img/icons/gold-whatsapp.svg', make('span', '', 'WhatsApp')),
+      makeContact('instagram', 'https://www.instagram.com/lasertech.service/', '/img/icons/gold-instagram.svg', make('span', '', 'Instagram')),
+      makeContact('lazar', null, '/img/lazar-ai-avatar.svg', lazarLabel),
+    );
+    root.append(launcher, status, bar);
+    document.body.append(root);
+    document.querySelectorAll('.menu').forEach((menu) => menu.classList.add('lazar-social-hidden'));
+
+    const updateLabels = () => {
+      const text = getLabels();
+      launcher.setAttribute('aria-label', text.open);
+      launcher.title = text.open;
+      launcher.querySelector('.lazar-launcher-label').textContent = text.open;
+      bar.setAttribute('aria-label', text.bar);
+      callLabel.textContent = text.call;
+      lazarLabel.textContent = text.lazar;
+    };
+    const open = async () => {
+      if (launcher.getAttribute('aria-busy') === 'true') return;
+      launcher.setAttribute('aria-busy', 'true');
+      bar.querySelector('[data-action="lazar"]').setAttribute('aria-busy', 'true');
+      status.textContent = getLabels().loading;
+      try {
+        await loadResources();
+        status.textContent = '';
+        window.dispatchEvent(new Event('lazar:open'));
+      } catch (error) {
+        console.error('Unable to load Lazar assistant.', error);
+        status.textContent = getLabels().error;
+      } finally {
+        launcher.removeAttribute('aria-busy');
+        bar.querySelector('[data-action="lazar"]').removeAttribute('aria-busy');
+      }
+    };
+    launcher.addEventListener('click', open);
+    document.addEventListener('error-language-change', updateLabels);
+    updateLabels();
+  };
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', mountShell, { once: true });
+  else mountShell();
 })();

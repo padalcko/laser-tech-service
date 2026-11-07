@@ -363,7 +363,8 @@ def main():
             stale.append(str(path.relative_to(ROOT)))
             if not opts.check:path.write_text(text,encoding='utf-8')
     expected={p['path'].with_suffix('.md') for p in pages}
-    orphan=[str(p.relative_to(ROOT)) for p in ROOT.rglob('index.md') if p not in expected and '.git' not in p.parts]
+    orphan=[str(p.relative_to(ROOT)) for p in ROOT.rglob('index.md')
+            if p not in expected and '.git' not in p.parts and 'dist' not in p.relative_to(ROOT).parts]
     if orphan:raise SystemExit('Orphan resources require review (not deleted): '+', '.join(orphan))
     print(json.dumps({'pages':len(pages),'counts':dict(collections.Counter(p['kind'] for p in pages)),
                       'stale' if opts.check else 'updated':stale},ensure_ascii=False,indent=2))

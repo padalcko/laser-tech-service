@@ -4,10 +4,24 @@
   const isErrorPage = document.body.hasAttribute('data-error-localization');
   let cleanup = () => {};
   function mount() {
-  if (document.getElementById('lazar-root')) return;
+  const root = document.getElementById('lazar-root');
+  const launcher = root?.querySelector('.lazar-launcher');
+  const bar = root?.querySelector('.mobile-contact-bar');
+  const mobileLauncher = bar?.querySelector('[data-action="lazar"]');
+  if (!root || !launcher || !bar || !mobileLauncher || document.getElementById('lazar-panel')) {
+    throw new Error('Lazar launcher shell is missing or already mounted.');
+  }
   const lifecycle = new AbortController();
   let requestController;
-  cleanup = () => { lifecycle.abort(); requestController?.abort(); document.getElementById('lazar-root')?.remove(); };
+  let panel;
+  cleanup = () => {
+    lifecycle.abort();
+    requestController?.abort();
+    panel?.remove();
+    delete root.dataset.lazarReady;
+    launcher.setAttribute('aria-expanded', 'false');
+    mobileLauncher.setAttribute('aria-expanded', 'false');
+  };
   const config = Object.freeze({
     endpoint: 'https://n8n.raccoon-studio.com.ua/webhook/lazar-ai-chat',
     timeoutMs: 28000,
@@ -102,12 +116,11 @@
     return img;
   };
   const button = (className, text) => { const node = make('button', className, text); node.type = 'button'; return node; };
-  const root = make('div', 'lazar-root'); root.id = 'lazar-root';
-  const launcher = button('lazar-launcher');
-  const emblem = make('span', 'lazar-launcher-emblem'); emblem.append(avatar());
-  launcher.append(emblem, make('span', 'lazar-launcher-label', t.open)); launcher.title = t.open;
-  launcher.setAttribute('aria-label', t.open); launcher.setAttribute('aria-expanded', 'false'); launcher.setAttribute('aria-controls', 'lazar-panel');
-  const panel = make('section', 'lazar-panel'); panel.id = 'lazar-panel'; panel.hidden = true;
+  launcher.title = t.open;
+  launcher.setAttribute('aria-label', t.open);
+  const launcherLabel = launcher.querySelector('.lazar-launcher-label');
+  if (launcherLabel) launcherLabel.textContent = t.open;
+  panel = make('section', 'lazar-panel'); panel.id = 'lazar-panel'; panel.hidden = true;
   panel.setAttribute('role', 'dialog'); panel.setAttribute('aria-modal', 'false'); panel.setAttribute('aria-labelledby', 'lazar-title');
   const header = make('div', 'lazar-header');
   const heading = make('div', 'lazar-heading'); const title = make('h2', 'lazar-title', t.title); title.id = 'lazar-title';
@@ -129,49 +142,8 @@
   const form = make('form', 'lazar-form'); form.setAttribute('aria-label', t.input);
   const input = make('textarea', 'lazar-input'); input.rows = 2; input.placeholder = t.placeholder; input.setAttribute('aria-label', t.input); input.setAttribute('aria-describedby', 'lazar-feedback');
   const send = button('lazar-action lazar-send', t.send); send.type = 'submit';
-  form.append(input, send); panel.append(header, log, feedback, retry, form); root.append(launcher, panel); document.body.append(root);
-  // Shared quick actions reuse this widget's locale, lifecycle and chat state.
-  const mobileLabels = {
-    pl: ['Szybki kontakt', 'Zadzwoń', 'Łazarz'],
-    ru: ['Быстрая связь', 'Позвонить', 'Лазарь'],
-    en: ['Quick contact', 'Call', 'Lazar'],
-  }[language];
-  const bar = make('nav', 'mobile-contact-bar');
-  bar.setAttribute('aria-label', mobileLabels[0]);
-  const actions = [
-    ['phone', mobileLabels[1], 'tel:+48790402597', '/img/icons/gold-phone.svg'],
-    ['whatsapp', 'WhatsApp', 'https://wa.me/48790402597', '/img/icons/gold-whatsapp.svg'],
-    ['instagram', 'Instagram', 'https://www.instagram.com/lasertech.service/', '/img/icons/gold-instagram.svg'],
-    ['lazar', mobileLabels[2], null, '/img/lazar-ai-avatar.svg'],
-  ];
-  let mobileLauncher;
-  actions.forEach(([action, label, href, icon]) => {
-    const control = href ? make('a', 'mobile-contact-bar__action') : button('mobile-contact-bar__action');
-    control.dataset.action = action;
-    if (href) {
-      control.href = href;
-      if (action !== 'phone') { control.target = '_blank'; control.rel = 'noopener noreferrer'; }
-    } else {
-      mobileLauncher = control;
-      control.setAttribute('aria-controls', 'lazar-panel');
-      control.setAttribute('aria-expanded', 'false');
-    }
-    const img = make('img'); img.src = icon; img.alt = ''; img.width = 28; img.height = 28;
-    const iconFrame = make('span', 'mobile-contact-bar__icon');
-    iconFrame.append(img);
-    control.append(iconFrame, make('span', '', label));
-    control.addEventListener('click', () => {
-      if (typeof window.gtag === 'function') window.gtag('event', 'mobile_contact_click', {
-        action, placement: 'mobile_bottom_bar', page_path: location.pathname, language,
-      });
-      if (action === 'lazar') openChat();
-    });
-    bar.append(control);
-  });
-  root.append(bar);
+  form.append(input, send); panel.append(header, log, feedback, retry, form); root.append(panel);
   root.dataset.sendingEnabled = String(sendingEnabled);
-  // Reversible hiding: existing menu markup and handlers remain intact.
-  document.querySelectorAll('.menu').forEach(menu => menu.classList.add('lazar-social-hidden'));
   let sessionId;
   const getSessionId = () => {
     if (sessionId) return sessionId;
@@ -253,7 +225,7 @@
     if (!sendingEnabled) blockedFallback();
     viewport(); close.focus({ preventScroll: true }); track('lazar_open');
   }
-  launcher.addEventListener('click', openChat);
+  window.addEventListener('lazar:open', openChat, { signal: lifecycle.signal });
   const hide = (restoreFocus = true) => { bar.hidden = false; mobileLauncher.setAttribute('aria-expanded', 'false'); panel.hidden = true; launcher.hidden = false; launcher.setAttribute('aria-expanded', 'false'); if (restoreFocus) (window.matchMedia('(max-width: 767px)').matches ? mobileLauncher : launcher).focus({ preventScroll: true }); };
   close.addEventListener('click', () => hide());
   document.addEventListener('keydown', e => { if (!panel.hidden && e.key === 'Escape') { e.preventDefault(); e.stopPropagation(); hide(); } }, { signal: lifecycle.signal });
@@ -316,6 +288,7 @@
   retry.addEventListener('click', () => transmit(true));
   // Enter sends; Shift+Enter and IME composition retain normal multiline input.
   input.addEventListener('keydown', e => { if (e.key === 'Enter' && !e.shiftKey && !e.isComposing) { e.preventDefault(); transmit(false); } });
+  root.dataset.lazarReady = 'true';
   }
   mount();
   if (isErrorPage) document.addEventListener('error-language-change', () => { cleanup(); mount(); });

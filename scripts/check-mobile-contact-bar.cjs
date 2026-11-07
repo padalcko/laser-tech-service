@@ -39,18 +39,18 @@ const out='/tmp/lts-mobile-bar';fs.mkdirSync(out,{recursive:true});
    // Prevent navigation only in the test; retain the real click handlers.
    await bar.evaluate(e=>e.addEventListener('click',ev=>ev.preventDefault()));
    for(const action of ['phone','whatsapp','instagram','lazar'])await p.locator('[data-action='+action+']').click();
-   assert(await p.locator('#lazar-panel').isVisible());assert(await bar.isVisible());
+   await p.locator('#lazar-panel').waitFor({state:'visible'});assert(await bar.isVisible());
    const events=await p.evaluate(()=>dataLayer.filter(e=>e[0]==='event'&&e[1]==='mobile_contact_click').map(e=>e[2]));
    assert.deepEqual(events.map(e=>e.action),['phone','whatsapp','instagram','lazar']);events.forEach(e=>{assert.equal(e.language,lang);assert.equal(e.placement,'mobile_bottom_bar')});
    await p.locator('.lazar-input').fill('Local mocked test');await p.locator('.lazar-send').click();await p.waitForFunction(()=>document.querySelector('.lazar-log').textContent.includes('Mock response'));
    await p.keyboard.press('Escape');assert(await bar.isVisible());assert.equal(await p.evaluate(()=>document.activeElement.dataset.action),'lazar');
    if(width<761){await p.locator('.nav-toggle').click();assert(await bar.isVisible());await p.locator('.nav-toggle').click();assert(await bar.isVisible())}
    await p.evaluate(()=>{const d=document.createElement('dialog');d.id='qa-dialog';document.body.append(d);d.showModal()});assert(await bar.isVisible());await p.evaluate(()=>document.getElementById('qa-dialog').remove());assert(await bar.isVisible());
-  }else{await p.locator('.lazar-launcher').click();assert(await p.locator('#lazar-panel').isVisible());await p.locator('.lazar-close').click()}
+  }else{await p.locator('.lazar-launcher').click();await p.locator('#lazar-panel').waitFor({state:'visible'});assert(await p.locator('#lazar-panel').isVisible());await p.locator('.lazar-close').click()}
  }
  // Landscape/keyboard-sized viewport: chat input remains inside visible area.
  for(const size of [{width:667,height:375},{width:375,height:300}]){
-  await p.setViewportSize(size);await p.goto(base+'/');await p.locator('[data-action=lazar]').click();
+  await p.setViewportSize(size);await p.goto(base+'/');await p.locator('[data-action=lazar]').click();await p.locator('#lazar-panel').waitFor({state:'visible'});
   const r=await p.locator('.lazar-input').boundingBox();assert(r.y>=0&&r.y+r.height<=size.height);
  }
  await p.goto(base+'/404.html');

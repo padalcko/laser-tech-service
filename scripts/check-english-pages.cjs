@@ -35,7 +35,8 @@ const registry=JSON.parse(fs.readFileSync(path.join(__dirname,'site-locales.json
  assert.equal(count,195);await inventory.c.close();results.push({httpPages:count});
  for(const width of [320,390,1440])for(const route of ['/en/','/en/services/','/en/contact/']){
   const x=await setup(width),p=x.p;await p.goto(base+route);
-  await p.locator('#lazar-ai-script').waitFor({state:'attached'});await p.waitForTimeout(150);
+  assert.equal(await p.locator('#lazar-ai-script').count(),0);
+  assert.equal(await p.locator('.lazar-panel').count(),0);
   assert.equal(await p.locator('.lazar-root').getAttribute('data-sending-enabled'),'false','EN network sending must remain disabled');assert.equal(x.requests.length,0);
   assert.equal(await p.locator('html').getAttribute('lang'),'en');
   assert.equal(await p.locator('link[rel=canonical]').getAttribute('href'),'https://lasertechservice.pl'+route);
@@ -80,6 +81,7 @@ const registry=JSON.parse(fs.readFileSync(path.join(__dirname,'site-locales.json
  }
  const chat=await setup(390,true);await chat.p.goto(base+'/en/contact/');await chat.p.locator('.lazar-launcher').waitFor();
  assert.equal(await chat.p.locator('.lazar-launcher-label').innerText(),'Ask Lazar');await chat.p.locator('.lazar-launcher').click();
+ await chat.p.locator('.lazar-panel').waitFor({state:'visible'});
  assert.equal(await chat.p.locator('.lazar-contacts a').nth(1).getAttribute('href'),'/en/contact/');
  for(const mode of ['500','success']){chat.setMode(mode);await chat.p.locator('.lazar-input').fill('TEST');await chat.p.locator('.lazar-send').click();await chat.p.waitForFunction(()=>document.querySelector('.lazar-form').getAttribute('aria-busy')==='false');assert.equal(chat.requests.at(-1).body.language,'en');}
  assert.equal(chat.requests[0].body.session_id,chat.requests[1].body.session_id);await chat.p.screenshot({path:path.join(out,'lazar-mock-only.png')});
