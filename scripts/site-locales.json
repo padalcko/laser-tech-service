@@ -1683,6 +1683,25 @@
           "status": "published"
         }
       }
+    },
+    {
+      "id": "about",
+      "type": "about",
+      "x_default": "/o-nas/",
+      "routes": {
+        "pl": {
+          "url": "/o-nas/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/o-nas/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/about-us/",
+          "status": "published"
+        }
+      }
     }
   ]
 }

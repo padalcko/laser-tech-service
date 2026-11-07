@@ -178,6 +178,14 @@ document.addEventListener("DOMContentLoaded", () => {
       submenu.hidden = !open;
     }
     button.addEventListener("click", () => setOpen(submenu.hidden));
+    if (item.classList.contains('nav-work')) {
+      item.querySelector('.nav-list__link').addEventListener('pointerenter', event => {
+        if (event.pointerType === 'mouse' && window.innerWidth > 760) setOpen(true);
+      });
+      item.addEventListener('pointerleave', event => {
+        if (event.pointerType === 'mouse' && !item.contains(document.activeElement)) setOpen(false);
+      });
+    }
     button.addEventListener("keydown", (event) => {
       if (event.key === "ArrowDown") {
         event.preventDefault();

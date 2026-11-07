@@ -432,6 +432,476 @@ Unit 320
 - [IPL equipment servicing and repair](https://lasertechservice.pl/en/services/ipl-equipment-service/)
 - [CO₂ laser servicing and repair](https://lasertechservice.pl/en/services/co2-laser-service/)
 
+### Get to Know Laser Tech Service
+
+HTML source: [Get to Know Laser Tech Service](https://lasertechservice.pl/en/about-us/)
+
+Language: English
+
+Other language version: [Polski](https://lasertechservice.pl/o-nas/), [Русский](https://lasertechservice.pl/ru/o-nas/)
+
+> Meet the Laser Tech Service team and discover our story, mission and approach to professional laser equipment repair in Wrocław and across Poland.
+
+ABOUT US
+
+Professional servicing, repair and refurbishment of laser and aesthetic equipment in Wrocław and across Poland.
+
+We believe that accurate diagnostics and an honest approach to customers are just as important as technical repair skills. We identify the real causes of equipment failures and look for solutions that make both technical and economic sense.
+
+[Explore Our Work](https://lasertechservice.pl/en/case-studies/)[Contact Us](https://lasertechservice.pl/en/contact/)
+
+#### Our Story
+
+Laser Tech Service was founded in 2024 on the belief that equipment servicing could be done differently.
+
+The story of our company began with its founder, Dmytro Zaitsev, who has more than five years of hands-on experience repairing laser and aesthetic equipment.
+
+While working in the service industry, he saw how important the approach to a problem was, not just the final repair result.
+
+In some cases, replacing an entire assembly was preferred over investigating whether an individual component could be repaired. For customers, this could mean unnecessary additional costs.
+
+That experience inspired him to establish a company built on a different approach.
+
+Laser Tech Service was founded in 2024.
+
+From the beginning, our goal has been to create a service company that identifies the cause of a malfunction before recommending a repair strategy.
+
+We do not replace components simply because replacement is easier. We first assess whether repair or refurbishment is technically feasible, safe and economically reasonable.
+
+Today, we help beauty salons, aesthetic clinics and other businesses maintain their equipment through workshop repairs in Wrocław and on-site service visits.
+
+> We look for a solution first. We replace components only when necessary.
+
+#### What We Do
+
+We specialize in diagnostics, repair, refurbishment and preventive maintenance of laser and aesthetic equipment.
+
+##### [Laser Repair](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
+
+Diagnostics and repair of diode, IPL, ND:YAG, CO₂ and picosecond laser systems.
+
+##### [Handpiece Refurbishment](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
+
+Repair and refurbishment of laser handpieces, replacement of damaged components, sealing and cooling-system restoration.
+
+##### [Electronics Repair](https://lasertechservice.pl/en/services/power-supply-electronics-repair/)
+
+Diagnostics and repair of power supplies, control systems, electrical connections and electronic components.
+
+##### [Cooling Systems](https://lasertechservice.pl/en/services/laser-cooling-system-repair/)
+
+Repair of pumps, tubing, sensors, coolant circulation systems and other cooling components.
+
+##### [Preventive Maintenance](https://lasertechservice.pl/en/services/aesthetic-equipment-maintenance/)
+
+Equipment cleaning, coolant replacement, performance checks and comprehensive technical maintenance.
+
+##### [On-Site Service](https://lasertechservice.pl/en/services/service-for-salon-chains/)
+
+Technical visits to salons and clinics across Poland, with selected assignments carried out internationally.
+
+[Explore All Services](https://lasertechservice.pl/en/services/)
+
+#### Meet Our Team
+
+Behind Laser Tech Service are real people responsible for technical expertise, company development and customer communication.
+
+![Dmytro Zaitsev](https://lasertechservice.pl/img/team/dmytro-zaitsev-640w.webp)
+
+##### Dmytro Zaitsev
+
+CEO, Founder & Chief Technical Specialist
+
+Founder of Laser Tech Service with over five years of experience repairing laser and aesthetic equipment. Responsible for technical diagnostics, repair operations, company development and service quality.
+
+![Oleksandr Padalko](https://lasertechservice.pl/img/team/oleksandr-padalko-640w.webp)
+
+##### Oleksandr Padalko
+
+Frontend Developer & SEO Engineer
+
+Responsible for the Laser Tech Service website, search engine optimization, web analytics and digital solutions. Combines frontend development with SEO to improve online visibility and user experience.
+
+![Sofiia Shcherbakova](https://lasertechservice.pl/img/team/sofiia-shcherbakova-640w.webp)
+
+##### Sofiia Shcherbakova
+
+Client Manager
+
+Responsible for customer communication, handling inquiries and coordinating service requests. Helps clients obtain information about equipment diagnostics, repairs and maintenance.
+
+#### Our Mission
+
+We repair equipment. We restore possibilities.
+
+Our mission is to extend the service life of laser and aesthetic equipment through accurate diagnostics, professional repairs and regular maintenance.
+
+We believe that equipment failure does not always require replacing an expensive assembly.
+
+We look for technically sound, safe and cost-effective solutions.
+
+We value long-term customer relationships, transparent communication and accountability for our work.
+
+#### How We Work
+
+1. ### Contact
+
+The customer describes the problem, and we collect essential information about the equipment and symptoms.
+2. ### Diagnostics
+
+We inspect the equipment, identify the cause of the failure and evaluate possible solutions.
+3. ### Repair Approval
+
+We explain the proposed work and conditions. Repairs begin after customer approval.
+4. ### Repair and Testing
+
+We repair or replace the necessary components and verify the equipment's operation.
+5. ### Handover
+
+We explain the work performed and the warranty conditions applicable to the specific repair.
+
+#### Why Choose Laser Tech Service
+
+- ### Accurate Diagnostics
+
+We investigate the actual cause of a malfunction rather than immediately replacing assemblies.
+
+- ### Repair Whenever Feasible
+
+We consider component-level repairs and refurbishment when technically justified and safe.
+
+- ### Individual Approach
+
+Every device and every technical problem is assessed individually.
+
+- ### Practical Expertise
+
+Our founder has more than five years of hands-on equipment servicing experience.
+
+- ### Workshop and On-Site Service
+
+We serve customers in Wrocław, throughout Poland and on selected international assignments.
+
+- ### Transparent Communication
+
+We explain the proposed work, available solutions and applicable warranty conditions.
+
+#### See Our Work
+
+Every repair presents a different technical challenge. Explore real examples of equipment failures and the solutions we have delivered.
+
+![smartPULS handpiece held in a hand, with its optical window visible](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp)
+
+ŚwidnicasmartPULS · IPL
+
+##### [smartPULS IPL Handpiece Repair in Świdnica](https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/)
+
+A client from Świdnica contacted Laser Tech Service after the IPL handpiece of a German-made smartPULS cosmetic device stopped working. The client initially suspected that the IPL lamp had burned out and needed replacement.
+
+[View case study](https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/)
+
+![Diode laser with a screen, handpiece and hose on a trolley](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa.webp)
+
+Warsaw808 nm · HS-A0406
+
+##### [Complete 808 nm Diode Laser Maintenance in Warsaw – Cooling System Service and Handpiece Sealing](https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/)
+
+Complete 808 nm diode laser maintenance in Warsaw. Coolant replacement, internal cleaning, diode power verification and handpiece sealing.
+
+[View case study](https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/)
+
+![NUBWAY NBW-VSIII with Body Space branding and a technician during the service visit](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-urzadzenie-body-space.webp)
+
+WrocławNUBWAY
+
+##### [NUBWAY NBW-VSIII Vacuum Release Valve Repair in Wrocław](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw/)
+
+Vacuum release valve repair on NUBWAY NBW-VSIII in Wrocław. Restored handpiece suction without valve replacement.
+
+[View case study](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw/)
+
+[View All Repair Cases](https://lasertechservice.pl/en/case-studies/)[Blog](https://lasertechservice.pl/en/blog/)
+
+![Laser Tech Service Recognition — 2026](https://lasertechservice.pl/img/blog/laser-tech-service-zlota-firma-2026/nagroda-zlota-firma-2026-laser-tech-service-responsive-640w.webp)
+
+Laser Tech Service Recognition — 2026Złota Firma
+
+#### Based in Wrocław. Working Beyond It.
+
+Our workshop is located in Wrocław, but our service coverage extends beyond one city.
+
+We provide repair and maintenance services in different regions of Poland and undertake selected assignments abroad.
+
+Our documented work includes projects in Wrocław, Warsaw, Poznań, Gliwice, Lubin and Prague.
+
+[For Chains & Salons](https://lasertechservice.pl/en/services/service-for-salon-chains/)
+
+#### Need Equipment Repair or Technical Advice?
+
+Tell us about your equipment problem. We will help you determine the next steps for diagnostics or repair.
+
+[Call Us](tel:+48790402597)[Message Us on WhatsApp](https://wa.me/48790402597)[Explore Our Work](https://lasertechservice.pl/en/case-studies/)
+
+Laser Tech Service
+ul. Marszałka Józefa Piłsudskiego 74, lok. 320
+50-020 Wrocław, Polska
+[+48 790 402 597](tel:+48790402597)
+[contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)
+
+Warranty duration and conditions depend on the type of repair and the agreed terms.
+
+#### Service offerings
+
+- [Professional laser and aesthetic equipment servicing](https://lasertechservice.pl/en/services/)
+- [Service pricing](https://lasertechservice.pl/en/pricing/)
+- [Technical Service for Beauty Salon Chains and Aesthetic Clinics](https://lasertechservice.pl/en/services/service-for-salon-chains/)
+- [Diode laser diagnostics](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
+- [Laser handpiece and applicator refurbishment](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
+- [Laser power supply and electronics repair](https://lasertechservice.pl/en/services/power-supply-electronics-repair/)
+- [Laser equipment cooling system repair](https://lasertechservice.pl/en/services/laser-cooling-system-repair/)
+- [Aesthetic equipment cleaning and maintenance](https://lasertechservice.pl/en/services/aesthetic-equipment-maintenance/)
+
+#### Related repairs
+
+- [smartPULS IPL Handpiece Repair in Świdnica](https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/)
+- [Complete 808 nm Diode Laser Maintenance in Warsaw – Cooling System Service and Handpiece Sealing](https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/)
+- [NUBWAY NBW-VSIII Vacuum Release Valve Repair in Wrocław](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw/)
+
+### Poznaj Laser Tech Service
+
+Źródło HTML: [Poznaj Laser Tech Service](https://lasertechservice.pl/o-nas/)
+
+Język: Polski
+
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/o-nas/), [English](https://lasertechservice.pl/en/about-us/)
+
+> Poznaj Laser Tech Service, nasz zespół i historię. Serwis laserów, naprawa laserów i regeneracja laserów we Wrocławiu i całej Polsce.
+
+O NAS
+
+Profesjonalny serwis, naprawa i regeneracja urządzeń laserowych oraz kosmetologicznych we Wrocławiu i całej Polsce.
+
+Jesteśmy zespołem, który wierzy, że dobra diagnostyka i uczciwe podejście do klienta są równie ważne jak umiejętność naprawy urządzenia. Szukamy rzeczywistych przyczyn usterek i rozwiązań, które mają techniczny oraz ekonomiczny sens.
+
+[Poznaj nasze realizacje](https://lasertechservice.pl/realizacje/)[Skontaktuj się z nami](https://lasertechservice.pl/kontakt/)
+
+#### Nasza historia
+
+Laser Tech Service powstał w 2024 roku z przekonania, że serwis urządzeń może działać inaczej.
+
+Historia naszej firmy zaczyna się od doświadczenia jej założyciela, Dmytra Zaitseva, który od ponad pięciu lat zajmuje się naprawą urządzeń laserowych oraz kosmetologicznych.
+
+Pracując wcześniej w branży serwisowej, dostrzegł, jak duże znaczenie dla klientów ma nie tylko skuteczność naprawy, lecz także sposób podejścia do problemu.
+
+W niektórych przypadkach zamiast poszukiwania przyczyny awarii i możliwości naprawy wybierano wymianę całego podzespołu. Dla klienta mogło to oznaczać wyższe koszty, nawet jeśli naprawa uszkodzonego elementu była możliwa.
+
+To doświadczenie stało się impulsem do stworzenia własnej firmy, opartej na innych zasadach.
+
+Tak w 2024 roku powstał Laser Tech Service.
+
+Od początku naszym celem było budowanie serwisu, który najpierw szuka przyczyny usterki, a następnie proponuje rozwiązanie dopasowane do rzeczywistego stanu urządzenia.
+
+Nie wymieniamy części wyłącznie dlatego, że jest to prostsze. Sprawdzamy możliwości naprawy i regeneracji, zawsze uwzględniając bezpieczeństwo, trwałość rozwiązania oraz koszty ponoszone przez klienta.
+
+Dziś pomagamy właścicielom salonów, gabinetów i klinik przywracać sprawność ich urządzeń, zarówno w naszym serwisie we Wrocławiu, jak i podczas wizyt u klientów.
+
+> Najpierw szukamy rozwiązania. Wymieniamy tylko wtedy, gdy jest to naprawdę potrzebne.
+
+#### Czym się zajmujemy
+
+Specjalizujemy się w diagnostyce, naprawie, regeneracji i konserwacji urządzeń wykorzystywanych w branży beauty oraz medycynie estetycznej.
+
+##### [Serwis laserów](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
+Naprawiamy i diagnozujemy lasery diodowe, IPL, ND:YAG, CO₂ oraz urządzenia pikosekundowe. Analizujemy przyczyny awarii i przywracamy prawidłowe działanie sprzętu.
+
+##### [Regeneracja głowic i manipuł](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+Zajmujemy się naprawą i regeneracją głowic laserowych, wymianą uszkodzonych elementów, uszczelnianiem oraz przywracaniem sprawności układów chłodzenia.
+
+##### [Naprawa elektroniki](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
+
+Diagnozujemy i naprawiamy zasilacze, układy sterowania, połączenia elektryczne oraz inne podzespoły elektroniczne urządzeń.
+
+##### [Systemy chłodzenia](https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/)
+
+Naprawiamy układy obiegu cieczy, pompy, przewody, czujniki i elementy odpowiedzialne za prawidłową temperaturę pracy urządzenia.
+
+##### [Konserwacja i przeglądy](https://lasertechservice.pl/uslugi/konserwacja-urzadzen-kosmetologicznych/)
+
+Wykonujemy czyszczenie, wymianę płynów eksploatacyjnych, kontrolę parametrów pracy i kompleksową konserwację urządzeń.
+
+##### [Serwis mobilny](https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/)
+
+Dojeżdżamy do salonów, gabinetów i klinik w różnych miastach Polski. Realizujemy również uzgodnione zlecenia poza granicami kraju.
+
+[Zobacz wszystkie usługi](https://lasertechservice.pl/uslugi/)
+
+#### Poznaj nasz zespół
+
+Za Laser Tech Service stoją konkretni ludzie, którzy odpowiadają za technologię, organizację pracy, rozwój firmy i kontakt z klientami.
+
+![Dmytro Zaitsev](https://lasertechservice.pl/img/team/dmytro-zaitsev-640w.webp)
+
+##### Dmytro Zaitsev
+
+CEO, założyciel i główny specjalista techniczny
+
+Założyciel Laser Tech Service z ponad pięcioletnim doświadczeniem w naprawie urządzeń laserowych i kosmetologicznych. Odpowiada za diagnostykę, realizację napraw, rozwój firmy i jakość świadczonych usług.
+
+![Oleksandr Padalko](https://lasertechservice.pl/img/team/oleksandr-padalko-640w.webp)
+
+##### Oleksandr Padalko
+
+Frontend Developer & SEO Engineer
+
+Odpowiada za rozwój strony internetowej Laser Tech Service, pozycjonowanie, analitykę oraz rozwiązania cyfrowe. Łączy frontend development z SEO, dbając o widoczność firmy w internecie i wygodę użytkowników.
+
+![Sofiia Shcherbakova](https://lasertechservice.pl/img/team/sofiia-shcherbakova-640w.webp)
+
+##### Sofiia Shcherbakova
+
+Client Manager
+
+Odpowiada za kontakt z klientami, obsługę zapytań oraz koordynację komunikacji z serwisem. Pomaga klientom uzyskać informacje o diagnostyce, naprawach i obsłudze urządzeń.
+
+#### Nasza misja
+
+Naprawiamy urządzenia. Przywracamy możliwości.
+
+Naszą misją jest przedłużanie żywotności urządzeń laserowych i kosmetologicznych poprzez rzetelną diagnostykę, profesjonalną naprawę i regularną konserwację.
+
+Wierzymy, że awaria nie zawsze musi oznaczać kosztowną wymianę całego podzespołu.
+
+Szukamy rozwiązań, które są technicznie uzasadnione, bezpieczne i ekonomicznie korzystne dla naszych klientów.
+
+Zależy nam na długoterminowych relacjach, przejrzystej komunikacji i odpowiedzialności za wykonywaną pracę.
+
+#### Jak pracujemy
+
+1. ### Kontakt
+
+Klient opisuje problem, a my zbieramy podstawowe informacje o urządzeniu i objawach usterki.
+2. ### Diagnostyka
+
+Sprawdzamy urządzenie, analizujemy przyczynę awarii i określamy możliwe rozwiązania.
+3. ### Uzgodnienie naprawy
+
+Przedstawiamy zakres prac i warunki realizacji. Naprawę wykonujemy po uzgodnieniu z klientem.
+4. ### Naprawa i testy
+
+Naprawiamy lub wymieniamy niezbędne elementy, a następnie sprawdzamy działanie urządzenia.
+5. ### Przekazanie urządzenia
+
+Informujemy klienta o wykonanych pracach oraz warunkach gwarancji właściwych dla danego zlecenia.
+
+#### Dlaczego warto nam zaufać
+
+- ### Rzetelna diagnostyka
+
+Szukamy rzeczywistej przyczyny awarii, zamiast ograniczać się do wymiany podzespołów.
+
+- ### Naprawa, gdy jest możliwa
+
+Rozważamy regenerację i naprawę elementów, jeśli jest to technicznie uzasadnione i bezpieczne.
+
+- ### Indywidualne podejście
+
+Każde urządzenie i każdą usterkę analizujemy osobno.
+
+- ### Realne doświadczenie
+
+Nasz założyciel ma ponad pięć lat praktycznego doświadczenia w serwisowaniu urządzeń.
+
+- ### Serwis we Wrocławiu i wyjazdy
+
+Obsługujemy klientów lokalnie oraz realizujemy zlecenia w różnych miastach Polski i poza jej granicami.
+
+- ### Jasne warunki współpracy
+
+Wyjaśniamy zakres prac, możliwe rozwiązania i warunki gwarancji.
+
+#### Zobacz, jak pracujemy
+
+Każda naprawa to inna historia, inna usterka i konkretne rozwiązanie techniczne. Zobacz wybrane realizacje Laser Tech Service.
+
+![Głowica smartPULS trzymana w dłoni, z widocznym oknem optycznym](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp)
+
+ŚwidnicasmartPULS · IPL
+
+##### [smartPULS – przywrócenie działania głowicy IPL w Świdnicy](https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/)
+
+Do Laser Tech Service zgłosił się klient ze Świdnicy z problemem dotyczącym niemieckiego urządzenia smartPULS, wykorzystywanego do zabiegów kosmetologicznych z zastosowaniem technologii IPL. Według zgłoszenia lampa w głowicy przestała działać i podejrzewano jej przepalenie.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/)
+
+![Laser diodowy z ekranem, głowicą i przewodem na wózku](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa.webp)
+
+Warszawa808 nm · HS-A0406
+
+##### [Pełny serwis lasera diodowego 808 nm w Warszawie – konserwacja, chłodzenie i uszczelnienie głowicy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/)
+
+Pełny serwis lasera diodowego 808 nm w Warszawie. Wymiana płynu, czyszczenie, kontrola mocy diody i uszczelnienie głowicy. Laser Tech Service.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/)
+
+![NUBWAY NBW-VSIII z oznaczeniem Body Space i technik podczas wizyty serwisowej](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-urzadzenie-body-space.webp)
+
+WrocławNUBWAY
+
+##### [Naprawa zaworu podciśnienia w NUBWAY NBW-VSIII we Wrocławiu](https://lasertechservice.pl/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/)
+
+Naprawa zaworu podciśnienia NUBWAY NBW-VSIII we Wrocławiu. Czyszczenie i regeneracja zaworu bez kosztownej wymiany.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/)
+
+[Zobacz wszystkie realizacje](https://lasertechservice.pl/realizacje/)[Blog](https://lasertechservice.pl/blog/)
+
+![Wyróżnienie Laser Tech Service — 2026](https://lasertechservice.pl/img/blog/laser-tech-service-zlota-firma-2026/nagroda-zlota-firma-2026-laser-tech-service-responsive-640w.webp)
+
+Wyróżnienie Laser Tech Service — 2026Złota Firma
+
+#### Działamy we Wrocławiu i poza nim
+
+Nasza siedziba znajduje się we Wrocławiu, ale nie ograniczamy się do jednego miasta.
+
+Realizujemy naprawy i konserwację urządzeń w różnych regionach Polski. W ramach uzgodnionych zleceń obsługujemy również klientów poza granicami kraju.
+
+W naszych realizacjach można znaleźć prace wykonane między innymi we Wrocławiu, Warszawie, Poznaniu, Gliwicach, Lubinie oraz Pradze.
+
+[Dla sieci i salonów](https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/)
+
+#### Potrzebujesz serwisu lub konsultacji?
+
+Opisz nam problem ze swoim urządzeniem. Pomożemy ustalić kolejne kroki diagnostyki lub naprawy.
+
+[Zadzwoń do nas](tel:+48790402597)[Napisz na WhatsApp](https://wa.me/48790402597)[Zobacz nasze realizacje](https://lasertechservice.pl/realizacje/)
+
+Laser Tech Service
+ul. Marszałka Józefa Piłsudskiego 74, lok. 320
+50-020 Wrocław, Polska
+[+48 790 402 597](tel:+48790402597)
+[contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)
+
+Czas trwania i warunki gwarancji zależą od rodzaju naprawy oraz uzgodnionych warunków.
+
+#### Usługi serwisowe
+
+- [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Serwis urządzeń kosmetycznych dla sieci salonów i klinik](https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+- [Naprawa zasilaczy i elektroniki urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-zasilaczy-i-elektroniki/)
+- [Naprawa układów chłodzenia urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/)
+- [Czyszczenie i konserwacja urządzeń kosmetologicznych](https://lasertechservice.pl/uslugi/konserwacja-urzadzen-kosmetologicznych/)
+
+#### Powiązane realizacje
+
+- [smartPULS – przywrócenie działania głowicy IPL w Świdnicy](https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/)
+- [Pełny serwis lasera diodowego 808 nm w Warszawie – konserwacja, chłodzenie i uszczelnienie głowicy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/)
+- [Naprawa zaworu podciśnienia w NUBWAY NBW-VSIII we Wrocławiu](https://lasertechservice.pl/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/)
+
 ### Ремонт диодных лазеров и косметологического оборудования
 
 Источник HTML: [Ремонт диодных лазеров и косметологического оборудования](https://lasertechservice.pl/ru/)
@@ -645,6 +1115,241 @@ lok. 320
 - [Сервис оборудования для криотерапии и криолиполиза](https://lasertechservice.pl/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/)
 - [Сервис и ремонт оборудования IPL](https://lasertechservice.pl/ru/uslugi/servis-ipl/)
 - [Сервис и ремонт лазеров CO₂](https://lasertechservice.pl/ru/uslugi/servis-lazerov-co2/)
+
+### Познакомьтесь с Laser Tech Service
+
+Источник HTML: [Познакомьтесь с Laser Tech Service](https://lasertechservice.pl/ru/o-nas/)
+
+Язык: Русский
+
+Версия на другом языке: [Polski](https://lasertechservice.pl/o-nas/), [English](https://lasertechservice.pl/en/about-us/)
+
+> Узнайте историю Laser Tech Service, познакомьтесь с командой и нашим подходом к ремонту лазерного и косметологического оборудования в Польше.
+
+О КОМПАНИИ
+
+Профессиональное обслуживание, ремонт и восстановление лазерного и косметологического оборудования во Вроцлаве и по всей Польше.
+
+Мы команда, которая считает, что качественная диагностика и честное отношение к клиенту так же важны, как и умение ремонтировать оборудование. Мы ищем реальные причины неисправностей и решения, оправданные с технической и экономической точки зрения.
+
+[Наши работы](https://lasertechservice.pl/ru/realizacje/)[Связаться с нами](https://lasertechservice.pl/ru/kontakt/)
+
+#### Наша история
+
+Laser Tech Service появилась в 2024 году благодаря убеждению, что сервисное обслуживание оборудования может быть другим.
+
+История компании началась с опыта её основателя Дмитрия Зайцева, который более пяти лет занимается ремонтом лазерного и косметологического оборудования.
+
+Работая ранее в сервисной отрасли, он убедился, насколько важен для клиента не только результат ремонта, но и сам подход к решению проблемы.
+
+В некоторых случаях вместо поиска причины неисправности и возможности восстановления оборудования выбиралась замена целого узла. Для клиента это могло означать дополнительные расходы даже тогда, когда повреждённый компонент можно было отремонтировать.
+
+Именно этот опыт стал причиной создания собственной компании с другими принципами работы.
+
+Так в 2024 году появилась Laser Tech Service.
+
+С самого начала мы стремились создать сервис, который сначала устанавливает причину неисправности, а затем предлагает решение с учётом реального состояния оборудования.
+
+Мы не меняем детали только потому, что это проще. Сначала оцениваем возможность ремонта или восстановления, учитывая безопасность, надёжность и стоимость работ для клиента.
+
+Сегодня мы помогаем салонам красоты, косметологическим кабинетам и клиникам поддерживать оборудование в рабочем состоянии, выполняя ремонты в нашей мастерской во Вроцлаве и непосредственно у клиентов.
+
+> Сначала ищем решение. Меняем только тогда, когда это действительно необходимо.
+
+#### Чем мы занимаемся
+
+Мы специализируемся на диагностике, ремонте, восстановлении и техническом обслуживании оборудования для индустрии красоты и эстетической медицины.
+
+##### [Ремонт лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
+Диагностика и ремонт диодных, IPL, ND:YAG, CO₂ и пикосекундных лазеров. Поиск причин неисправностей и восстановление работоспособности оборудования.
+
+##### [Восстановление манипул](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
+Ремонт лазерных головок и манипул, замена повреждённых элементов, герметизация и восстановление систем охлаждения.
+
+##### [Ремонт электроники](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
+
+Диагностика и ремонт блоков питания, систем управления, электрических соединений и электронных компонентов.
+
+##### [Системы охлаждения](https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/)
+
+Ремонт насосов, трубок, датчиков, контуров циркуляции жидкости и других компонентов охлаждения.
+
+##### [Техническое обслуживание](https://lasertechservice.pl/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/)
+
+Очистка оборудования, замена охлаждающей жидкости, проверка параметров работы и комплексная профилактика.
+
+##### [Выездной сервис](https://lasertechservice.pl/ru/uslugi/servis-dlya-setey-salonov/)
+
+Выезжаем к клиентам в разные города Польши и выполняем согласованные заказы за пределами страны.
+
+[Все наши услуги](https://lasertechservice.pl/ru/uslugi/)
+
+#### Наша команда
+
+Laser Tech Service — это реальные люди, отвечающие за техническую работу, развитие компании и взаимодействие с клиентами.
+
+![Дмитрий Зайцев](https://lasertechservice.pl/img/team/dmytro-zaitsev-640w.webp)
+
+##### Дмитрий Зайцев
+
+CEO, основатель и главный технический специалист
+
+Основатель Laser Tech Service с опытом ремонта лазерного и косметологического оборудования более пяти лет. Отвечает за диагностику, проведение ремонтов, развитие компании и качество предоставляемых услуг.
+
+![Александр Падалко](https://lasertechservice.pl/img/team/oleksandr-padalko-640w.webp)
+
+##### Александр Падалко
+
+Frontend Developer & SEO Engineer
+
+Отвечает за развитие сайта Laser Tech Service, поисковую оптимизацию, веб-аналитику и цифровые решения. Объединяет frontend-разработку и SEO, улучшая видимость компании в интернете и удобство сайта.
+
+![София Щербакова](https://lasertechservice.pl/img/team/sofiia-shcherbakova-640w.webp)
+
+##### София Щербакова
+
+Менеджер по работе с клиентами
+
+Отвечает за общение с клиентами, обработку обращений и координацию взаимодействия с сервисом. Помогает получить информацию о диагностике, ремонте и обслуживании оборудования.
+
+#### Наша миссия
+
+Ремонтируем оборудование. Возвращаем возможности.
+
+Наша миссия — продлевать срок службы лазерного и косметологического оборудования благодаря качественной диагностике, профессиональному ремонту и регулярному обслуживанию.
+
+Мы убеждены, что неисправность не всегда означает необходимость дорогостоящей замены целого узла.
+
+Мы ищем технически обоснованные, безопасные и экономически разумные решения.
+
+Для нас важны долгосрочные отношения с клиентами, прозрачная коммуникация и ответственность за выполненную работу.
+
+#### Как мы работаем
+
+1. ### Обращение
+
+Клиент описывает проблему, а мы собираем информацию об оборудовании и признаках неисправности.
+2. ### Диагностика
+
+Проверяем оборудование, устанавливаем причину неисправности и определяем возможные решения.
+3. ### Согласование
+
+Объясняем объём работ и условия ремонта. Приступаем к работе после согласования с клиентом.
+4. ### Ремонт и тестирование
+
+Ремонтируем или заменяем необходимые компоненты и проверяем работоспособность оборудования.
+5. ### Передача оборудования
+
+Информируем о выполненных работах и гарантийных условиях, применимых к конкретному заказу.
+
+#### Почему стоит доверить нам оборудование
+
+- ### Точная диагностика
+
+Ищем настоящую причину неисправности, а не ограничиваемся заменой компонентов.
+
+- ### Ремонт вместо ненужной замены
+
+Рассматриваем возможность восстановления деталей, когда это технически оправданно и безопасно.
+
+- ### Индивидуальный подход
+
+Каждый аппарат и каждую неисправность рассматриваем отдельно.
+
+- ### Практический опыт
+
+Основатель компании имеет более пяти лет опыта обслуживания и ремонта оборудования.
+
+- ### Работаем во Вроцлаве и на выезде
+
+Обслуживаем клиентов в разных городах Польши и за её пределами.
+
+- ### Прозрачные условия
+
+Объясняем объём работ, возможные решения и гарантийные условия.
+
+#### Посмотрите, как мы работаем
+
+Каждый ремонт — отдельная техническая задача. Посмотрите реальные примеры неисправностей и выполненных работ.
+
+![Манипула smartPULS в руке с видимым оптическим окном](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp)
+
+СвидницаsmartPULS · IPL
+
+##### [smartPULS — восстановление работы IPL-манипулы в Свиднице](https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/)
+
+В Laser Tech Service обратился клиент из города Свидница с проблемой немецкого косметологического аппарата smartPULS. По словам клиента, в манипуле перестала работать IPL-лампа. Первоначально предполагалось, что лампа перегорела и требует замены.
+
+[Подробнее](https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/)
+
+![Диодный лазер с экраном, манипулой и шлангом на тележке](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa.webp)
+
+Варшава808 nm · HS-A0406
+
+##### [Полное техническое обслуживание диодного лазера 808 нм в Варшаве — охлаждение, очистка и герметизация манипулы](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/)
+
+Полное обслуживание диодного лазера 808 нм в Варшаве: замена охлаждающей жидкости, очистка, проверка мощности и герметизация манипулы.
+
+[Подробнее](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/)
+
+![NUBWAY NBW-VSIII с маркировкой Body Space и мастер во время сервисного выезда](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-urzadzenie-body-space.webp)
+
+WrocławNUBWAY
+
+##### [Ремонт клапана сброса вакуума NUBWAY NBW-VSIII во Вроцлаве](https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/)
+
+Ремонт клапана сброса вакуума NUBWAY NBW-VSIII. Восстановление всасывания манипул без замены клапана.
+
+[Смотреть реализацию](https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/)
+
+[Все наши работы](https://lasertechservice.pl/ru/realizacje/)[Блог](https://lasertechservice.pl/ru/blog/)
+
+![Награда Laser Tech Service — 2026](https://lasertechservice.pl/img/blog/laser-tech-service-zlota-firma-2026/nagroda-zlota-firma-2026-laser-tech-service-responsive-640w.webp)
+
+Награда Laser Tech Service — 2026Złota Firma
+
+#### Работаем во Вроцлаве и за его пределами
+
+Наша мастерская находится во Вроцлаве, но география работы значительно шире.
+
+Мы выполняем ремонт и обслуживание оборудования в разных регионах Польши, а также принимаем согласованные заказы из других стран.
+
+Среди наших реализованных проектов — работы во Вроцлаве, Варшаве, Познани, Гливице, Любине и Праге.
+
+[Для сетей и салонов](https://lasertechservice.pl/ru/uslugi/servis-dlya-setey-salonov/)
+
+#### Нужен ремонт или консультация?
+
+Расскажите нам о проблеме с оборудованием. Поможем определить следующие шаги диагностики или ремонта.
+
+[Позвонить](tel:+48790402597)[Написать в WhatsApp](https://wa.me/48790402597)[Посмотреть наши работы](https://lasertechservice.pl/ru/realizacje/)
+
+Laser Tech Service
+ul. Marszałka Józefa Piłsudskiego 74, lok. 320
+50-020 Wrocław, Polska
+[+48 790 402 597](tel:+48790402597)
+[contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)
+
+Срок и условия гарантии зависят от вида ремонта и согласованных условий.
+
+#### Услуги сервиса
+
+- [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Сервисное обслуживание сетей салонов красоты и косметологических клиник](https://lasertechservice.pl/ru/uslugi/servis-dlya-setey-salonov/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+- [Ремонт блоков питания и электроники лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/)
+- [Ремонт систем охлаждения лазерного оборудования](https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/)
+- [Чистка и техническое обслуживание косметологического оборудования](https://lasertechservice.pl/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/)
+
+#### Связанные работы
+
+- [smartPULS — восстановление работы IPL-манипулы в Свиднице](https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/)
+- [Полное техническое обслуживание диодного лазера 808 нм в Варшаве — охлаждение, очистка и герметизация манипулы](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/)
+- [Ремонт клапана сброса вакуума NUBWAY NBW-VSIII во Вроцлаве](https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/)
 
 ## Services
 
@@ -35735,6 +36440,7 @@ lok. 320
 - [Polski: Woda w laserze jest, ale chłodzenie nie działa. Dlaczego pompa obiegowa może się zatrzymać?](https://lasertechservice.pl/blog/water-flow-error-laser-pompa-obiegowa/) — [Русский](https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/) — [English](https://lasertechservice.pl/en/blog/laser-water-flow-error-circulation-pump/)
 - [Polski: Woda w laserze do depilacji – dlaczego jej wymiana i regularny serwis są tak ważne?](https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/) — [Русский](https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/) — [English](https://lasertechservice.pl/en/blog/hair-removal-laser-cooling-water-maintenance/)
 - [Polski: Kontakt](https://lasertechservice.pl/kontakt/) — [Русский](https://lasertechservice.pl/ru/kontakt/) — [English](https://lasertechservice.pl/en/contact/)
+- [Polski: Poznaj Laser Tech Service](https://lasertechservice.pl/o-nas/) — [Русский](https://lasertechservice.pl/ru/o-nas/) — [English](https://lasertechservice.pl/en/about-us/)
 - [Polski: Nasi partnerzy](https://lasertechservice.pl/partnerzy/) — [Русский](https://lasertechservice.pl/ru/partnerzy/) — [English](https://lasertechservice.pl/en/partners/)
 - [Polski: Nasze realizacje](https://lasertechservice.pl/realizacje/) — [Русский](https://lasertechservice.pl/ru/realizacje/) — [English](https://lasertechservice.pl/en/case-studies/)
 - [Polski: Beauty Planet 3D Contour — wymiana przewodu zasilającego manipułę we Wrocławiu](https://lasertechservice.pl/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/) — [Русский](https://lasertechservice.pl/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/) — [English](https://lasertechservice.pl/en/case-studies/beauty-planet-handpiece-cable-replacement-wroclaw/)

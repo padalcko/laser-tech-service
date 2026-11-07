@@ -3044,8 +3044,8 @@
       "language": "en",
       "canonical_url": "https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/",
       "description": "smartPULS IPL diagnostics and handpiece repair in Świdnica. Identifying the cause of missing pulses before replacing the lamp.",
-      "city": null,
-      "equipment_type": null,
+      "city": "Świdnica · Dolnośląskie",
+      "equipment_type": "smartPULS",
       "equipment": {
         "@type": "Thing",
         "name": "smartPULS IPL"
@@ -3644,12 +3644,14 @@
       "canonical_url": "https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/",
       "description": "Diagnostyka smartPULS w Świdnicy i przywrócenie działania głowicy IPL. Sprawdzenie przyczyny braku błysków przed wymianą lampy. Laser Tech Service.",
       "city": null,
-      "equipment_type": null,
+      "equipment_type": "smartPULS",
       "equipment": {
         "@type": "Thing",
         "name": "smartPULS IPL"
       },
-      "fault": [],
+      "fault": [
+        "Wyślij nam nazwę i model urządzenia, zdjęcia oraz krótki opis problemu. Na tej podstawie ustalimy dalszy sposób działania."
+      ],
       "performed_work": [],
       "result": []
     },
@@ -4394,19 +4396,20 @@
       "language": "ru",
       "canonical_url": "https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/",
       "description": "Диагностика smartPULS в Свиднице и восстановление работы IPL-манипулы. Выяснение причины отсутствия вспышек перед заменой лампы.",
-      "city": null,
+      "city": "Świdnica · Dolnośląskie",
       "equipment_type": null,
       "equipment": {
         "@type": "Thing",
         "name": "smartPULS IPL"
       },
-      "fault": [],
+      "fault": [
+        "Отправьте название и модель аппарата, фотографии и краткое описание проблемы. На этой основе определим дальнейшие действия."
+      ],
       "performed_work": [
         "Laser Tech Service обслуживает косметологические аппараты во Вроцлаве, Свиднице и по всей Польше.",
         "Мы выполняем диагностику, ремонт IPL-аппаратов, восстановление манипул, обслуживание лазеров и проверку электронных систем.",
         "Если аппарат перестал производить вспышки, это ещё не означает, что лампа или манипула обязательно требуют замены.",
-        "Обратитесь в Laser Tech Service для профессиональной диагностики.",
-        "Телефон / WhatsApp: +48 790 402 597 E-mail: contact@lasertechservice.pl"
+        "Обратитесь в Laser Tech Service для профессиональной диагностики."
       ],
       "result": []
     },
@@ -4538,6 +4541,7 @@
       "https://lasertechservice.pl/blog/water-flow-error-laser-pompa-obiegowa/": "https://lasertechservice.pl/blog/water-flow-error-laser-pompa-obiegowa/index.md",
       "https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/": "https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/index.md",
       "https://lasertechservice.pl/en/": "https://lasertechservice.pl/en/index.md",
+      "https://lasertechservice.pl/en/about-us/": "https://lasertechservice.pl/en/about-us/index.md",
       "https://lasertechservice.pl/en/blog/": "https://lasertechservice.pl/en/blog/index.md",
       "https://lasertechservice.pl/en/blog/3000-nain-laser-history-design-service/": "https://lasertechservice.pl/en/blog/3000-nain-laser-history-design-service/index.md",
       "https://lasertechservice.pl/en/blog/beauty-planet-3d-contour-features-service/": "https://lasertechservice.pl/en/blog/beauty-planet-3d-contour-features-service/index.md",
@@ -4624,6 +4628,7 @@
       "https://lasertechservice.pl/en/services/service-for-salon-chains/": "https://lasertechservice.pl/en/services/service-for-salon-chains/index.md",
       "https://lasertechservice.pl/en/services/touchscreen-control-panel-repair/": "https://lasertechservice.pl/en/services/touchscreen-control-panel-repair/index.md",
       "https://lasertechservice.pl/kontakt/": "https://lasertechservice.pl/kontakt/index.md",
+      "https://lasertechservice.pl/o-nas/": "https://lasertechservice.pl/o-nas/index.md",
       "https://lasertechservice.pl/partnerzy/": "https://lasertechservice.pl/partnerzy/index.md",
       "https://lasertechservice.pl/realizacje/": "https://lasertechservice.pl/realizacje/index.md",
       "https://lasertechservice.pl/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/": "https://lasertechservice.pl/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/index.md",
@@ -4692,6 +4697,7 @@
       "https://lasertechservice.pl/ru/blog/zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev/": "https://lasertechservice.pl/ru/blog/zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev/index.md",
       "https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/": "https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/index.md",
       "https://lasertechservice.pl/ru/kontakt/": "https://lasertechservice.pl/ru/kontakt/index.md",
+      "https://lasertechservice.pl/ru/o-nas/": "https://lasertechservice.pl/ru/o-nas/index.md",
       "https://lasertechservice.pl/ru/partnerzy/": "https://lasertechservice.pl/ru/partnerzy/index.md",
       "https://lasertechservice.pl/ru/realizacje/": "https://lasertechservice.pl/ru/realizacje/index.md",
       "https://lasertechservice.pl/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/": "https://lasertechservice.pl/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/index.md",
@@ -4764,5 +4770,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-11-06T07:51:45Z"
+  "generated_at": "2026-11-07T08:51:36Z"
 }

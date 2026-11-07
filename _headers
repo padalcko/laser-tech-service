@@ -171,6 +171,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/en/about-us/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/about-us/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /en/blog/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -601,6 +606,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/kontakt/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/o-nas/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/o-nas/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /partnerzy/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -940,6 +950,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/kontakt/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/o-nas/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/o-nas/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/partnerzy/index.md
   Content-Type: text/markdown; charset=utf-8

@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Олександр Падалко.PNG",
+    "slug": "oleksandr-padalko",
+    "source_size": [
+      1122,
+      1402
+    ],
+    "sha256": "492f4d546e575e27eaea608cb25eb339489d4c45a1c7d903752bf1df3aa5ec12",
+    "variants": [
+      {
+        "file": "img/team/oleksandr-padalko-400w.webp",
+        "width": 400,
+        "height": 500,
+        "bytes": 25334
+      },
+      {
+        "file": "img/team/oleksandr-padalko-640w.webp",
+        "width": 640,
+        "height": 800,
+        "bytes": 50532
+      },
+      {
+        "file": "img/team/oleksandr-padalko-960w.webp",
+        "width": 960,
+        "height": 1200,
+        "bytes": 91518
+      }
+    ]
+  },
+  {
+    "name": "Дмитро Зайцев.PNG",
+    "slug": "dmytro-zaitsev",
+    "source_size": [
+      1024,
+      1536
+    ],
+    "sha256": "155628e60cefa42f1c145b853e0edd2aae3701801733e31c7fb1a0e694b6a928",
+    "variants": [
+      {
+        "file": "img/team/dmytro-zaitsev-400w.webp",
+        "width": 400,
+        "height": 600,
+        "bytes": 42040
+      },
+      {
+        "file": "img/team/dmytro-zaitsev-640w.webp",
+        "width": 640,
+        "height": 960,
+        "bytes": 93006
+      },
+      {
+        "file": "img/team/dmytro-zaitsev-960w.webp",
+        "width": 960,
+        "height": 1440,
+        "bytes": 177232
+      }
+    ]
+  },
+  {
+    "name": "София щербакова.PNG",
+    "slug": "sofiia-shcherbakova",
+    "source_size": [
+      1187,
+      1325
+    ],
+    "sha256": "6a485295acf379ed6a6cc1277de697c1d530fbdc309115ae714469125b01189b",
+    "variants": [
+      {
+        "file": "img/team/sofiia-shcherbakova-400w.webp",
+        "width": 400,
+        "height": 447,
+        "bytes": 20640
+      },
+      {
+        "file": "img/team/sofiia-shcherbakova-640w.webp",
+        "width": 640,
+        "height": 714,
+        "bytes": 42048
+      },
+      {
+        "file": "img/team/sofiia-shcherbakova-960w.webp",
+        "width": 960,
+        "height": 1072,
+        "bytes": 75198
+      }
+    ]
+  }
+]

@@ -5,7 +5,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 TYPES = {'home', 'services', 'service-detail', 'pricing', 'blog', 'article',
-         'case-studies', 'case-study', 'contact', 'partners'}
+         'case-studies', 'case-study', 'contact', 'partners', 'about'}
 
 
 def load(path=None):

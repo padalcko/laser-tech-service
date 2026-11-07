@@ -8,6 +8,9 @@ The website is published in Polski, English, Русский. HTML pages are the 
 
 - [Naprawa laserów diodowych do depilacji – profesjonalny serwis w Polsce](https://lasertechservice.pl/): Company, specialization and service geography.
 - [Naprawa laserów diodowych do depilacji – profesjonalny serwis w Polsce](https://lasertechservice.pl/index.md): Polish company overview in Markdown.
+- [Get to Know Laser Tech Service](https://lasertechservice.pl/en/about-us/index.md): Meet the Laser Tech Service team and discover our story, mission and approach to professional laser equipment repair in Wrocław and across Poland.
+- [Poznaj Laser Tech Service](https://lasertechservice.pl/o-nas/index.md): Poznaj Laser Tech Service, nasz zespół i historię. Serwis laserów, naprawa laserów i regeneracja laserów we Wrocławiu i całej Polsce.
+- [Познакомьтесь с Laser Tech Service](https://lasertechservice.pl/ru/o-nas/index.md): Узнайте историю Laser Tech Service, познакомьтесь с командой и нашим подходом к ремонту лазерного и косметологического оборудования в Польше.
 
 ## Main Pages
 
@@ -174,6 +177,7 @@ The website is published in Polski, English, Русский. HTML pages are the 
 ## Additional published language pages
 
 - [Aesthetic equipment repair and professional laser service in Poland](https://lasertechservice.pl/en/index.md): Professional laser and aesthetic equipment repair in Wrocław and across Poland. Diode laser, handpiece, IPL and Nd:YAG servicing. Contact our technical team.
+- [Get to Know Laser Tech Service](https://lasertechservice.pl/en/about-us/index.md): Meet the Laser Tech Service team and discover our story, mission and approach to professional laser equipment repair in Wrocław and across Poland.
 - [Blog](https://lasertechservice.pl/en/blog/index.md): Laser Tech Service blog. Practical knowledge about laser and aesthetic equipment servicing, diagnostics, repairs, safety and operation.
 - [3000 NAIN — meet a dinosaur among lasers](https://lasertechservice.pl/en/blog/3000-nain-laser-history-design-service/index.md): A closer look at the 3000 NAIN: model history, Q-switched Nd:YAG technology, its large housing and the importance of electronics repair. What is known and what remains unconfirmed?
 - [Beauty Planet 3D Contour – what does it do, how does it work and is it worth having in a clinic?](https://lasertechservice.pl/en/blog/beauty-planet-3d-contour-features-service/index.md): Beauty Planet 3D Contour – the capabilities of this 5-in-1 device, its technologies, its role in a clinic and what to do if vacuum or RF fails.

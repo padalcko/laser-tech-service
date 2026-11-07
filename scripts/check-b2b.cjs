@@ -30,7 +30,7 @@ const base=process.env.LTS_TEST_BASE||'http://127.0.0.1:8791',out=process.env.LT
    await p.setViewportSize({width,height:900});await p.evaluate(()=>scrollTo(0,0));
    assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),lang+' overflow '+width);
    if(await p.locator('.nav-toggle').isVisible())await p.locator('.nav-toggle').click();
-   await p.locator('.nav-submenu-toggle').click();const menu=p.locator('#servicesSubmenu');await menu.waitFor({state:'visible'});
+   await p.locator('.nav-submenu-toggle[aria-controls=servicesSubmenu]').click();const menu=p.locator('#servicesSubmenu');await menu.waitFor({state:'visible'});
    const entries=menu.locator('a');assert.equal(await entries.count(),2);assert.equal(await entries.nth(1).getAttribute('href'),route.url);
    assert.equal(await entries.nth(1).getAttribute('aria-current'),'page');await p.keyboard.press('Tab');await entries.nth(1).focus();assert.equal(await entries.nth(1).evaluate(e=>getComputedStyle(e).outlineStyle),'solid');
    await p.keyboard.press('Escape');if(await p.locator('.nav-toggle').getAttribute('aria-expanded')==='true')await p.keyboard.press('Escape');

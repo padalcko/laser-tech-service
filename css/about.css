@@ -1,0 +1,58 @@
+/* Corporate content only; shared navigation, buttons and footer retain site styles. */
+.about-page { background: var(--black); color: var(--white); }
+.about-section { padding: 52px 0; border-bottom: 1px solid var(--border); scroll-margin-top: 110px; }
+.about-section:nth-child(even) { background: var(--black-deep); }
+.about-section h1 { max-width: 1000px; margin: 18px 0 24px; font-size: clamp(32px, 5vw, 60px); line-height: 1.12; letter-spacing: -1px; }
+.about-section h2 { margin-bottom: 24px; font-size: clamp(26px, 3.2vw, 40px); line-height: 1.2; }
+.about-section h3 { font-size: 19px; line-height: 1.4; margin-bottom: 12px; }
+.about-section p { max-width: 900px; margin-bottom: 18px; line-height: 1.8; }
+.about-section a:not(.btn):not(.realizacja-card a) { color: var(--gold-light); }
+.about-section a:focus-visible { outline: 2px solid var(--gold-light); outline-offset: 4px; }
+.about-section .about-lead { font-size: clamp(18px, 2vw, 22px); }
+.about-prose { max-width: 900px; }
+.about-actions { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 28px; }
+.about-actions .btn { min-height: 48px; white-space: normal; text-align: center; }
+.about-section blockquote { max-width: 900px; margin: 28px 0 0; padding: 20px 24px; border-left: 3px solid var(--gold); background: var(--black-card); color: var(--gold-light); font-size: 20px; }
+.about-grid, .about-team, .about-cases { display: grid; grid-template-columns: minmax(0, 1fr); gap: 24px; margin-top: 32px; }
+.about-card, .about-person, .about-list li { border: 1px solid var(--border); border-radius: var(--radius-lg); background: var(--black-card); box-shadow: var(--shadow-dark); min-width: 0; }
+.about-card, .about-person__body, .about-list li { padding: 24px; }
+.about-card p, .about-person p, .about-list p { margin-bottom: 0; }
+.about-person { overflow: hidden; }
+.about-portrait { width: 100%; aspect-ratio: 4 / 5; overflow: hidden; background: var(--black-deep); }
+.about-portrait img { width: 100%; height: 100%; object-fit: cover; object-position: center; display: block; }
+.about-person .about-role { margin-bottom: 16px; color: var(--gold-light); font-size: 14px; }
+.about-statement { color: var(--gold-light); font-size: clamp(23px, 3vw, 34px); font-weight: 700; }
+.about-list { display: grid; grid-template-columns: minmax(0, 1fr); gap: 18px; padding: 0; list-style: none; }
+.about-section ol { counter-reset: steps; }
+.about-section ol li { counter-increment: steps; }
+.about-section ol h3::before { content: counter(steps, decimal-leading-zero) '. '; color: var(--gold-light); }
+.about-award { display: grid; gap: 24px; align-items: center; margin: 40px 0 0; padding-top: 32px; border-top: 1px solid var(--border); }
+.about-award img { width: 100%; max-width: 360px; height: auto; border-radius: var(--radius-lg); }
+.about-award figcaption { color: var(--gold-light); font-size: 20px; }
+.about-award figcaption span { display: block; margin-top: 8px; color: var(--white); font-size: 16px; }
+.about-section address { margin: 28px 0; font-style: normal; overflow-wrap: anywhere; }
+.about-page .breadcrumbs { margin-bottom: 30px; }
+@media (min-width: 768px) {
+ .about-section { padding: 72px 0; }
+ .about-grid, .about-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+ .about-team { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+ .about-award { grid-template-columns: minmax(0, 360px) minmax(0, 1fr); }
+}
+@media (min-width: 1024px) {
+ .about-grid, .about-team, .about-cases { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+@media (max-width: 767px) {
+ .about-actions { flex-direction: column; }
+ .about-actions .btn { width: 100%; }
+}
+
+/* Preserve the existing light case cards with readable text on this dark page. */
+.about-cases .realizacja-card__meta span, .about-cases .realizacja-card__link { color: var(--text); }
+
+/* Shared rows align names, roles and descriptions without fixed card heights. */
+.about-person[data-person="dmytro-zaitsev"] .about-portrait img { object-position: center 35%; }
+@media (min-width: 768px) {
+ .about-person { display: grid; grid-template-rows: subgrid; grid-row: span 4; row-gap: 0; }
+ .about-person__body { display: grid; grid-template-rows: subgrid; grid-row: span 3; row-gap: 12px; }
+ .about-person__body h3, .about-person__body p { margin: 0; }
+}

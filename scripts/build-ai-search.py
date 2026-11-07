@@ -237,6 +237,9 @@ The website is published in Polish and Russian. HTML pages are the canonical sou
 '''
     out+=item('/','Company, specialization and service geography.')
     out+=item('/','Polish company overview in Markdown.',True)
+    for p in pages:
+        if p['page_type'] == 'about':
+            out += item(p['route_group']['routes'][p['lang']]['url'], p['meta']['description'], True)
     out+='\n## Main Pages\n\n'
     for path,desc in [('/uslugi/','Service scope and equipment categories.'),('/realizacje/','Index of documented repairs and maintenance.'),('/blog/','Technical knowledge and company articles.'),('/partnerzy/','Partners presented on the website.'),('/kontakt/','Business contact information and address.')]:out+=item(path,desc)
     out+='\n## Services\n\n'
@@ -278,7 +281,7 @@ The website is published in Polish and Russian. HTML pages are the canonical sou
 
 def full_text(pages, representations):
     out='# Laser Tech Service — expanded site text\n\nCanonical HTML remains the source of truth. Page content below retains its Polish or Russian language.\n'
-    sections=[('Company',lambda p:p['page_type']=='home'),
+    sections=[('Company',lambda p:p['page_type'] in ('home','about')),
               ('Services',lambda p:p['kind']=='service'),
               ('Repair Cases',lambda p:p['kind']=='case'),
               ('Knowledge Articles',lambda p:p['kind']=='article'),

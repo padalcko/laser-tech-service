@@ -1,0 +1,396 @@
+{
+  "pl": {
+    "sections": [
+      {
+        "source_heading": "Hero",
+        "blocks": [
+          "Eyebrow: O NAS",
+          "H1: Poznaj Laser Tech Service",
+          "Subtitle:",
+          "Profesjonalny serwis, naprawa i regeneracja urządzeń laserowych oraz kosmetologicznych we Wrocławiu i całej Polsce.",
+          "Intro:",
+          "Jesteśmy zespołem, który wierzy, że dobra diagnostyka i uczciwe podejście do klienta są równie ważne jak umiejętność naprawy urządzenia. Szukamy rzeczywistych przyczyn usterek i rozwiązań, które mają techniczny oraz ekonomiczny sens.",
+          "CTA:\nPoznaj nasze realizacje\nSkontaktuj się z nami"
+        ]
+      },
+      {
+        "source_heading": "Nasza historia",
+        "blocks": [
+          "H2: Nasza historia",
+          "Lead:",
+          "Laser Tech Service powstał w 2024 roku z przekonania, że serwis urządzeń może działać inaczej.",
+          "Body:",
+          "Historia naszej firmy zaczyna się od doświadczenia jej założyciela, Dmytra Zaitseva, który od ponad pięciu lat zajmuje się naprawą urządzeń laserowych oraz kosmetologicznych.",
+          "Pracując wcześniej w branży serwisowej, dostrzegł, jak duże znaczenie dla klientów ma nie tylko skuteczność naprawy, lecz także sposób podejścia do problemu.",
+          "W niektórych przypadkach zamiast poszukiwania przyczyny awarii i możliwości naprawy wybierano wymianę całego podzespołu. Dla klienta mogło to oznaczać wyższe koszty, nawet jeśli naprawa uszkodzonego elementu była możliwa.",
+          "To doświadczenie stało się impulsem do stworzenia własnej firmy, opartej na innych zasadach.",
+          "Tak w 2024 roku powstał Laser Tech Service.",
+          "Od początku naszym celem było budowanie serwisu, który najpierw szuka przyczyny usterki, a następnie proponuje rozwiązanie dopasowane do rzeczywistego stanu urządzenia.",
+          "Nie wymieniamy części wyłącznie dlatego, że jest to prostsze. Sprawdzamy możliwości naprawy i regeneracji, zawsze uwzględniając bezpieczeństwo, trwałość rozwiązania oraz koszty ponoszone przez klienta.",
+          "Dziś pomagamy właścicielom salonów, gabinetów i klinik przywracać sprawność ich urządzeń, zarówno w naszym serwisie we Wrocławiu, jak i podczas wizyt u klientów.",
+          "Highlight:",
+          "Najpierw szukamy rozwiązania. Wymieniamy tylko wtedy, gdy jest to naprawdę potrzebne."
+        ]
+      },
+      {
+        "source_heading": "Czym się zajmujemy",
+        "blocks": [
+          "H2: Czym się zajmujemy",
+          "Intro:",
+          "Specjalizujemy się w diagnostyce, naprawie, regeneracji i konserwacji urządzeń wykorzystywanych w branży beauty oraz medycynie estetycznej.",
+          "Card 1 — Serwis laserów:",
+          "Naprawiamy i diagnozujemy lasery diodowe, IPL, ND:YAG, CO₂ oraz urządzenia pikosekundowe. Analizujemy przyczyny awarii i przywracamy prawidłowe działanie sprzętu.",
+          "Card 2 — Regeneracja głowic i manipuł:",
+          "Zajmujemy się naprawą i regeneracją głowic laserowych, wymianą uszkodzonych elementów, uszczelnianiem oraz przywracaniem sprawności układów chłodzenia.",
+          "Card 3 — Naprawa elektroniki:",
+          "Diagnozujemy i naprawiamy zasilacze, układy sterowania, połączenia elektryczne oraz inne podzespoły elektroniczne urządzeń.",
+          "Card 4 — Systemy chłodzenia:",
+          "Naprawiamy układy obiegu cieczy, pompy, przewody, czujniki i elementy odpowiedzialne za prawidłową temperaturę pracy urządzenia.",
+          "Card 5 — Konserwacja i przeglądy:",
+          "Wykonujemy czyszczenie, wymianę płynów eksploatacyjnych, kontrolę parametrów pracy i kompleksową konserwację urządzeń.",
+          "Card 6 — Serwis mobilny:",
+          "Dojeżdżamy do salonów, gabinetów i klinik w różnych miastach Polski. Realizujemy również uzgodnione zlecenia poza granicami kraju.",
+          "CTA: Zobacz wszystkie usługi"
+        ]
+      },
+      {
+        "source_heading": "Nasz zespół",
+        "blocks": [
+          "H2: Poznaj nasz zespół",
+          "Intro:",
+          "Za Laser Tech Service stoją konkretni ludzie, którzy odpowiadają za technologię, organizację pracy, rozwój firmy i kontakt z klientami.",
+          "**Dmytro Zaitsev**",
+          "CEO, założyciel i główny specjalista techniczny",
+          "Założyciel Laser Tech Service z ponad pięcioletnim doświadczeniem w naprawie urządzeń laserowych i kosmetologicznych. Odpowiada za diagnostykę, realizację napraw, rozwój firmy i jakość świadczonych usług.",
+          "**Oleksandr Padalko**",
+          "Frontend Developer & SEO Engineer",
+          "Odpowiada za rozwój strony internetowej Laser Tech Service, pozycjonowanie, analitykę oraz rozwiązania cyfrowe. Łączy frontend development z SEO, dbając o widoczność firmy w internecie i wygodę użytkowników.",
+          "**Sofiia Shcherbakova**",
+          "Client Manager",
+          "Odpowiada za kontakt z klientami, obsługę zapytań oraz koordynację komunikacji z serwisem. Pomaga klientom uzyskać informacje o diagnostyce, naprawach i obsłudze urządzeń."
+        ],
+        "image_order": [
+          "dmytro-zaitsev",
+          "oleksandr-padalko",
+          "sofiia-shcherbakova"
+        ]
+      },
+      {
+        "source_heading": "Nasza misja",
+        "blocks": [
+          "H2: Nasza misja",
+          "Statement:",
+          "Naprawiamy urządzenia. Przywracamy możliwości.",
+          "Body:",
+          "Naszą misją jest przedłużanie żywotności urządzeń laserowych i kosmetologicznych poprzez rzetelną diagnostykę, profesjonalną naprawę i regularną konserwację.",
+          "Wierzymy, że awaria nie zawsze musi oznaczać kosztowną wymianę całego podzespołu.",
+          "Szukamy rozwiązań, które są technicznie uzasadnione, bezpieczne i ekonomicznie korzystne dla naszych klientów.",
+          "Zależy nam na długoterminowych relacjach, przejrzystej komunikacji i odpowiedzialności za wykonywaną pracę."
+        ]
+      },
+      {
+        "source_heading": "Jak pracujemy",
+        "blocks": [
+          "H2: Jak pracujemy",
+          "1. Kontakt — Klient opisuje problem, a my zbieramy podstawowe informacje o urządzeniu i objawach usterki.",
+          "2. Diagnostyka — Sprawdzamy urządzenie, analizujemy przyczynę awarii i określamy możliwe rozwiązania.",
+          "3. Uzgodnienie naprawy — Przedstawiamy zakres prac i warunki realizacji. Naprawę wykonujemy po uzgodnieniu z klientem.",
+          "4. Naprawa i testy — Naprawiamy lub wymieniamy niezbędne elementy, a następnie sprawdzamy działanie urządzenia.",
+          "5. Przekazanie urządzenia — Informujemy klienta o wykonanych pracach oraz warunkach gwarancji właściwych dla danego zlecenia."
+        ]
+      },
+      {
+        "source_heading": "Dlaczego warto nam zaufać",
+        "blocks": [
+          "H2: Dlaczego warto nam zaufać",
+          "- Rzetelna diagnostyka — Szukamy rzeczywistej przyczyny awarii, zamiast ograniczać się do wymiany podzespołów.\n- Naprawa, gdy jest możliwa — Rozważamy regenerację i naprawę elementów, jeśli jest to technicznie uzasadnione i bezpieczne.\n- Indywidualne podejście — Każde urządzenie i każdą usterkę analizujemy osobno.\n- Realne doświadczenie — Nasz założyciel ma ponad pięć lat praktycznego doświadczenia w serwisowaniu urządzeń.\n- Serwis we Wrocławiu i wyjazdy — Obsługujemy klientów lokalnie oraz realizujemy zlecenia w różnych miastach Polski i poza jej granicami.\n- Jasne warunki współpracy — Wyjaśniamy zakres prac, możliwe rozwiązania i warunki gwarancji."
+        ]
+      },
+      {
+        "source_heading": "Nasze realizacje",
+        "blocks": [
+          "H2: Zobacz, jak pracujemy",
+          "Każda naprawa to inna historia, inna usterka i konkretne rozwiązanie techniczne. Zobacz wybrane realizacje Laser Tech Service.",
+          "CTA: Zobacz wszystkie realizacje"
+        ]
+      },
+      {
+        "source_heading": "Gdzie działamy",
+        "blocks": [
+          "H2: Działamy we Wrocławiu i poza nim",
+          "Nasza siedziba znajduje się we Wrocławiu, ale nie ograniczamy się do jednego miasta.",
+          "Realizujemy naprawy i konserwację urządzeń w różnych regionach Polski. W ramach uzgodnionych zleceń obsługujemy również klientów poza granicami kraju.",
+          "W naszych realizacjach można znaleźć prace wykonane między innymi we Wrocławiu, Warszawie, Poznaniu, Gliwicach, Lubinie oraz Pradze."
+        ]
+      },
+      {
+        "source_heading": "Contact CTA",
+        "blocks": [
+          "H2: Potrzebujesz serwisu lub konsultacji?",
+          "Opisz nam problem ze swoim urządzeniem. Pomożemy ustalić kolejne kroki diagnostyki lub naprawy.",
+          "Buttons:\nZadzwoń do nas\nNapisz na WhatsApp\nZobacz nasze realizacje"
+        ]
+      }
+    ]
+  },
+  "ru": {
+    "sections": [
+      {
+        "source_heading": "Hero",
+        "blocks": [
+          "Eyebrow: О КОМПАНИИ",
+          "H1: Познакомьтесь с Laser Tech Service",
+          "Subtitle:",
+          "Профессиональное обслуживание, ремонт и восстановление лазерного и косметологического оборудования во Вроцлаве и по всей Польше.",
+          "Intro:",
+          "Мы команда, которая считает, что качественная диагностика и честное отношение к клиенту так же важны, как и умение ремонтировать оборудование. Мы ищем реальные причины неисправностей и решения, оправданные с технической и экономической точки зрения.",
+          "CTA:\nНаши работы\nСвязаться с нами"
+        ]
+      },
+      {
+        "source_heading": "Наша история",
+        "blocks": [
+          "H2: Наша история",
+          "Lead:",
+          "Laser Tech Service появилась в 2024 году благодаря убеждению, что сервисное обслуживание оборудования может быть другим.",
+          "Body:",
+          "История компании началась с опыта её основателя Дмитрия Зайцева, который более пяти лет занимается ремонтом лазерного и косметологического оборудования.",
+          "Работая ранее в сервисной отрасли, он убедился, насколько важен для клиента не только результат ремонта, но и сам подход к решению проблемы.",
+          "В некоторых случаях вместо поиска причины неисправности и возможности восстановления оборудования выбиралась замена целого узла. Для клиента это могло означать дополнительные расходы даже тогда, когда повреждённый компонент можно было отремонтировать.",
+          "Именно этот опыт стал причиной создания собственной компании с другими принципами работы.",
+          "Так в 2024 году появилась Laser Tech Service.",
+          "С самого начала мы стремились создать сервис, который сначала устанавливает причину неисправности, а затем предлагает решение с учётом реального состояния оборудования.",
+          "Мы не меняем детали только потому, что это проще. Сначала оцениваем возможность ремонта или восстановления, учитывая безопасность, надёжность и стоимость работ для клиента.",
+          "Сегодня мы помогаем салонам красоты, косметологическим кабинетам и клиникам поддерживать оборудование в рабочем состоянии, выполняя ремонты в нашей мастерской во Вроцлаве и непосредственно у клиентов.",
+          "Highlight:",
+          "Сначала ищем решение. Меняем только тогда, когда это действительно необходимо."
+        ]
+      },
+      {
+        "source_heading": "Чем мы занимаемся",
+        "blocks": [
+          "H2: Чем мы занимаемся",
+          "Intro:",
+          "Мы специализируемся на диагностике, ремонте, восстановлении и техническом обслуживании оборудования для индустрии красоты и эстетической медицины.",
+          "Card 1 — Ремонт лазеров:",
+          "Диагностика и ремонт диодных, IPL, ND:YAG, CO₂ и пикосекундных лазеров. Поиск причин неисправностей и восстановление работоспособности оборудования.",
+          "Card 2 — Восстановление манипул:",
+          "Ремонт лазерных головок и манипул, замена повреждённых элементов, герметизация и восстановление систем охлаждения.",
+          "Card 3 — Ремонт электроники:",
+          "Диагностика и ремонт блоков питания, систем управления, электрических соединений и электронных компонентов.",
+          "Card 4 — Системы охлаждения:",
+          "Ремонт насосов, трубок, датчиков, контуров циркуляции жидкости и других компонентов охлаждения.",
+          "Card 5 — Техническое обслуживание:",
+          "Очистка оборудования, замена охлаждающей жидкости, проверка параметров работы и комплексная профилактика.",
+          "Card 6 — Выездной сервис:",
+          "Выезжаем к клиентам в разные города Польши и выполняем согласованные заказы за пределами страны.",
+          "CTA: Все наши услуги"
+        ]
+      },
+      {
+        "source_heading": "Наша команда",
+        "blocks": [
+          "H2: Наша команда",
+          "Intro:",
+          "Laser Tech Service — это реальные люди, отвечающие за техническую работу, развитие компании и взаимодействие с клиентами.",
+          "**Дмитрий Зайцев**",
+          "CEO, основатель и главный технический специалист",
+          "Основатель Laser Tech Service с опытом ремонта лазерного и косметологического оборудования более пяти лет. Отвечает за диагностику, проведение ремонтов, развитие компании и качество предоставляемых услуг.",
+          "**Александр Падалко**",
+          "Frontend Developer & SEO Engineer",
+          "Отвечает за развитие сайта Laser Tech Service, поисковую оптимизацию, веб-аналитику и цифровые решения. Объединяет frontend-разработку и SEO, улучшая видимость компании в интернете и удобство сайта.",
+          "**София Щербакова**",
+          "Менеджер по работе с клиентами",
+          "Отвечает за общение с клиентами, обработку обращений и координацию взаимодействия с сервисом. Помогает получить информацию о диагностике, ремонте и обслуживании оборудования."
+        ],
+        "image_order": [
+          "dmytro-zaitsev",
+          "oleksandr-padalko",
+          "sofiia-shcherbakova"
+        ]
+      },
+      {
+        "source_heading": "Наша миссия",
+        "blocks": [
+          "H2: Наша миссия",
+          "Statement:",
+          "Ремонтируем оборудование. Возвращаем возможности.",
+          "Body:",
+          "Наша миссия — продлевать срок службы лазерного и косметологического оборудования благодаря качественной диагностике, профессиональному ремонту и регулярному обслуживанию.",
+          "Мы убеждены, что неисправность не всегда означает необходимость дорогостоящей замены целого узла.",
+          "Мы ищем технически обоснованные, безопасные и экономически разумные решения.",
+          "Для нас важны долгосрочные отношения с клиентами, прозрачная коммуникация и ответственность за выполненную работу."
+        ]
+      },
+      {
+        "source_heading": "Как мы работаем",
+        "blocks": [
+          "H2: Как мы работаем",
+          "1. Обращение — Клиент описывает проблему, а мы собираем информацию об оборудовании и признаках неисправности.\n2. Диагностика — Проверяем оборудование, устанавливаем причину неисправности и определяем возможные решения.\n3. Согласование — Объясняем объём работ и условия ремонта. Приступаем к работе после согласования с клиентом.\n4. Ремонт и тестирование — Ремонтируем или заменяем необходимые компоненты и проверяем работоспособность оборудования.\n5. Передача оборудования — Информируем о выполненных работах и гарантийных условиях, применимых к конкретному заказу."
+        ]
+      },
+      {
+        "source_heading": "Почему стоит доверить нам оборудование",
+        "blocks": [
+          "H2: Почему стоит доверить нам оборудование",
+          "- Точная диагностика — Ищем настоящую причину неисправности, а не ограничиваемся заменой компонентов.\n- Ремонт вместо ненужной замены — Рассматриваем возможность восстановления деталей, когда это технически оправданно и безопасно.\n- Индивидуальный подход — Каждый аппарат и каждую неисправность рассматриваем отдельно.\n- Практический опыт — Основатель компании имеет более пяти лет опыта обслуживания и ремонта оборудования.\n- Работаем во Вроцлаве и на выезде — Обслуживаем клиентов в разных городах Польши и за её пределами.\n- Прозрачные условия — Объясняем объём работ, возможные решения и гарантийные условия."
+        ]
+      },
+      {
+        "source_heading": "Наши работы",
+        "blocks": [
+          "H2: Посмотрите, как мы работаем",
+          "Каждый ремонт — отдельная техническая задача. Посмотрите реальные примеры неисправностей и выполненных работ.",
+          "CTA: Все наши работы"
+        ]
+      },
+      {
+        "source_heading": "География",
+        "blocks": [
+          "H2: Работаем во Вроцлаве и за его пределами",
+          "Наша мастерская находится во Вроцлаве, но география работы значительно шире.",
+          "Мы выполняем ремонт и обслуживание оборудования в разных регионах Польши, а также принимаем согласованные заказы из других стран.",
+          "Среди наших реализованных проектов — работы во Вроцлаве, Варшаве, Познани, Гливице, Любине и Праге."
+        ]
+      },
+      {
+        "source_heading": "Contact CTA",
+        "blocks": [
+          "H2: Нужен ремонт или консультация?",
+          "Расскажите нам о проблеме с оборудованием. Поможем определить следующие шаги диагностики или ремонта.",
+          "Buttons:\nПозвонить\nНаписать в WhatsApp\nПосмотреть наши работы"
+        ]
+      }
+    ]
+  },
+  "en": {
+    "sections": [
+      {
+        "source_heading": "Hero",
+        "blocks": [
+          "Eyebrow: ABOUT US",
+          "H1: Get to Know Laser Tech Service",
+          "Subtitle:",
+          "Professional servicing, repair and refurbishment of laser and aesthetic equipment in Wrocław and across Poland.",
+          "Intro:",
+          "We believe that accurate diagnostics and an honest approach to customers are just as important as technical repair skills. We identify the real causes of equipment failures and look for solutions that make both technical and economic sense.",
+          "CTA:\nExplore Our Work\nContact Us"
+        ]
+      },
+      {
+        "source_heading": "Our Story",
+        "blocks": [
+          "H2: Our Story",
+          "Lead:",
+          "Laser Tech Service was founded in 2024 on the belief that equipment servicing could be done differently.",
+          "Body:",
+          "The story of our company began with its founder, Dmytro Zaitsev, who has more than five years of hands-on experience repairing laser and aesthetic equipment.",
+          "While working in the service industry, he saw how important the approach to a problem was, not just the final repair result.",
+          "In some cases, replacing an entire assembly was preferred over investigating whether an individual component could be repaired. For customers, this could mean unnecessary additional costs.",
+          "That experience inspired him to establish a company built on a different approach.",
+          "Laser Tech Service was founded in 2024.",
+          "From the beginning, our goal has been to create a service company that identifies the cause of a malfunction before recommending a repair strategy.",
+          "We do not replace components simply because replacement is easier. We first assess whether repair or refurbishment is technically feasible, safe and economically reasonable.",
+          "Today, we help beauty salons, aesthetic clinics and other businesses maintain their equipment through workshop repairs in Wrocław and on-site service visits.",
+          "Highlight:",
+          "We look for a solution first. We replace components only when necessary."
+        ]
+      },
+      {
+        "source_heading": "What We Do",
+        "blocks": [
+          "H2: What We Do",
+          "Intro:",
+          "We specialize in diagnostics, repair, refurbishment and preventive maintenance of laser and aesthetic equipment.",
+          "Card 1 — Laser Repair:",
+          "Diagnostics and repair of diode, IPL, ND:YAG, CO₂ and picosecond laser systems.",
+          "Card 2 — Handpiece Refurbishment:",
+          "Repair and refurbishment of laser handpieces, replacement of damaged components, sealing and cooling-system restoration.",
+          "Card 3 — Electronics Repair:",
+          "Diagnostics and repair of power supplies, control systems, electrical connections and electronic components.",
+          "Card 4 — Cooling Systems:",
+          "Repair of pumps, tubing, sensors, coolant circulation systems and other cooling components.",
+          "Card 5 — Preventive Maintenance:",
+          "Equipment cleaning, coolant replacement, performance checks and comprehensive technical maintenance.",
+          "Card 6 — On-Site Service:",
+          "Technical visits to salons and clinics across Poland, with selected assignments carried out internationally.",
+          "CTA: Explore All Services"
+        ]
+      },
+      {
+        "source_heading": "Our Team",
+        "blocks": [
+          "H2: Meet Our Team",
+          "Intro:",
+          "Behind Laser Tech Service are real people responsible for technical expertise, company development and customer communication.",
+          "**Dmytro Zaitsev**",
+          "CEO, Founder & Chief Technical Specialist",
+          "Founder of Laser Tech Service with over five years of experience repairing laser and aesthetic equipment. Responsible for technical diagnostics, repair operations, company development and service quality.",
+          "**Oleksandr Padalko**",
+          "Frontend Developer & SEO Engineer",
+          "Responsible for the Laser Tech Service website, search engine optimization, web analytics and digital solutions. Combines frontend development with SEO to improve online visibility and user experience.",
+          "**Sofiia Shcherbakova**",
+          "Client Manager",
+          "Responsible for customer communication, handling inquiries and coordinating service requests. Helps clients obtain information about equipment diagnostics, repairs and maintenance."
+        ],
+        "image_order": [
+          "dmytro-zaitsev",
+          "oleksandr-padalko",
+          "sofiia-shcherbakova"
+        ]
+      },
+      {
+        "source_heading": "Our Mission",
+        "blocks": [
+          "H2: Our Mission",
+          "Statement:",
+          "We repair equipment. We restore possibilities.",
+          "Body:",
+          "Our mission is to extend the service life of laser and aesthetic equipment through accurate diagnostics, professional repairs and regular maintenance.",
+          "We believe that equipment failure does not always require replacing an expensive assembly.",
+          "We look for technically sound, safe and cost-effective solutions.",
+          "We value long-term customer relationships, transparent communication and accountability for our work."
+        ]
+      },
+      {
+        "source_heading": "How We Work",
+        "blocks": [
+          "H2: How We Work",
+          "1. Contact — The customer describes the problem, and we collect essential information about the equipment and symptoms.\n2. Diagnostics — We inspect the equipment, identify the cause of the failure and evaluate possible solutions.\n3. Repair Approval — We explain the proposed work and conditions. Repairs begin after customer approval.\n4. Repair and Testing — We repair or replace the necessary components and verify the equipment's operation.\n5. Handover — We explain the work performed and the warranty conditions applicable to the specific repair."
+        ]
+      },
+      {
+        "source_heading": "Why Choose Us",
+        "blocks": [
+          "H2: Why Choose Laser Tech Service",
+          "- Accurate Diagnostics — We investigate the actual cause of a malfunction rather than immediately replacing assemblies.\n- Repair Whenever Feasible — We consider component-level repairs and refurbishment when technically justified and safe.\n- Individual Approach — Every device and every technical problem is assessed individually.\n- Practical Expertise — Our founder has more than five years of hands-on equipment servicing experience.\n- Workshop and On-Site Service — We serve customers in Wrocław, throughout Poland and on selected international assignments.\n- Transparent Communication — We explain the proposed work, available solutions and applicable warranty conditions."
+        ]
+      },
+      {
+        "source_heading": "Our Work",
+        "blocks": [
+          "H2: See Our Work",
+          "Every repair presents a different technical challenge. Explore real examples of equipment failures and the solutions we have delivered.",
+          "CTA: View All Repair Cases"
+        ]
+      },
+      {
+        "source_heading": "Where We Work",
+        "blocks": [
+          "H2: Based in Wrocław. Working Beyond It.",
+          "Our workshop is located in Wrocław, but our service coverage extends beyond one city.",
+          "We provide repair and maintenance services in different regions of Poland and undertake selected assignments abroad.",
+          "Our documented work includes projects in Wrocław, Warsaw, Poznań, Gliwice, Lubin and Prague."
+        ]
+      },
+      {
+        "source_heading": "Contact CTA",
+        "blocks": [
+          "H2: Need Equipment Repair or Technical Advice?",
+          "Tell us about your equipment problem. We will help you determine the next steps for diagnostics or repair.",
+          "Buttons:\nCall Us\nMessage Us on WhatsApp\nExplore Our Work"
+        ]
+      }
+    ]
+  }
+}
