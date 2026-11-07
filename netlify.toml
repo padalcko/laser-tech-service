@@ -1,6 +1,6 @@
 [build]
-  command = "python3 scripts/build-site.py"
-  publish = "."
+  command = "python3 scripts/build-site.py && python3 scripts/package-site.py"
+  publish = "dist"
 
 [[headers]]
   for = "/ai-catalog.json"
