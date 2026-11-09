@@ -10,6 +10,12 @@ Other language version: [Polski](https://lasertechservice.pl/blog/), [Русск
 
 Practical knowledge about servicing, diagnostics, repairs and operation of laser and aesthetic equipment.
 
+LaserPoint9 November 2026
+
+## [How Much Power Does Your Laser Really Deliver? Laser Tech Service Expands Its Diagnostic Capabilities](https://lasertechservice.pl/en/blog/laser-power-measurement-laserpoint/)
+
+How much power does your laser really deliver? Discover LaserPoint measurement technology, laser safety standards and Laser Tech Service diagnostics.
+
 IPL servicing6 November 2026
 
 ## [smartPULS: A German IPL Device Running Linux. Why Did an Intact Lamp Stop Working After 30,000 Pulses?](https://lasertechservice.pl/en/blog/smartpuls-ipl-linux-30000-pulses/)
@@ -204,6 +210,7 @@ Warranty, work documentation, service history, prompt on-site visits and respons
 
 ## Related articles
 
+- [How Much Power Does Your Laser Really Deliver? Laser Tech Service Expands Its Diagnostic Capabilities](https://lasertechservice.pl/en/blog/laser-power-measurement-laserpoint/)
 - [smartPULS: A German IPL Device Running Linux. Why Did an Intact Lamp Stop Working After 30,000 Pulses?](https://lasertechservice.pl/en/blog/smartpuls-ipl-linux-30000-pulses/)
 - [Why Regular Diode Laser Maintenance Matters: A Customer Who Services Their Equipment Every Six Months](https://lasertechservice.pl/en/blog/why-diode-laser-maintenance-every-six-months-matters/)
 - [NUBWAY NBW-VSIII: How This Vacuum Massage Machine Works, Its Features and Maintenance Requirements](https://lasertechservice.pl/en/blog/nubway-nbw-vsiii-features-maintenance/)

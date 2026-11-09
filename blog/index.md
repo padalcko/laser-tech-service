@@ -10,6 +10,12 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/), [
 
 Praktyczna wiedza o serwisie, diagnostyce, naprawach i eksploatacji urządzeń laserowych oraz kosmetycznych.
 
+LaserPoint9 listopada 2026
+
+## [Ile mocy naprawdę ma Twój laser? Laser Tech Service rozszerza możliwości diagnostyczne](https://lasertechservice.pl/blog/pomiar-mocy-lasera-laserpoint/)
+
+Ile mocy naprawdę ma Twój laser? Poznaj technologię LaserPoint, normy bezpieczeństwa i możliwości diagnostyczne Laser Tech Service Wrocław.
+
 Serwis IPL6 listopada 2026
 
 ## [smartPULS – niemiecki IPL z systemem Linux. Dlaczego sprawna lampa przestała działać po 30 000 impulsów?](https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/)
@@ -204,6 +210,7 @@ Gwarancja, dokumentacja wykonanych prac, historia serwisowa, możliwość szybki
 
 ## Powiązane artykuły
 
+- [Ile mocy naprawdę ma Twój laser? Laser Tech Service rozszerza możliwości diagnostyczne](https://lasertechservice.pl/blog/pomiar-mocy-lasera-laserpoint/)
 - [smartPULS – niemiecki IPL z systemem Linux. Dlaczego sprawna lampa przestała działać po 30 000 impulsów?](https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/)
 - [Dlaczego laser diodowy warto serwisować co 6 miesięcy? Przykład klienta z Warszawy](https://lasertechservice.pl/blog/dlaczego-serwisowac-laser-diodowy-co-6-miesiecy/)
 - [NUBWAY NBW-VSIII – jak działa urządzenie do masażu próżniowego i dlaczego warto o nie dbać?](https://lasertechservice.pl/blog/nubway-nbw-vsiii-dzialanie-serwis/)

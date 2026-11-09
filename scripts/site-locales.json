@@ -1702,6 +1702,30 @@
           "status": "published"
         }
       }
+    },
+    {
+      "id": "blog:pomiar-mocy-lasera-laserpoint",
+      "type": "article",
+      "x_default": "/blog/pomiar-mocy-lasera-laserpoint/",
+      "hreflang": {
+        "pl": "pl-PL",
+        "ru": "ru-RU",
+        "en": "en"
+      },
+      "routes": {
+        "pl": {
+          "url": "/blog/pomiar-mocy-lasera-laserpoint/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/laser-power-measurement-laserpoint/",
+          "status": "published"
+        }
+      }
     }
   ]
 }

@@ -16,6 +16,21 @@
 
 > Laser Tech Service рекомендует тех, чью работу и оборудование знает изнутри.
 
+![Laser Magic – салон лазерной эпиляции в Зелёна-Гуре](https://lasertechservice.pl/img/partnerzy/laser-magic-zielona-gora-partner.webp)
+
+## Laser Magic – Зелёна-Гура
+
+Laser Magic — косметический салон в Зелёна-Гуре.
+
++48 880 672 002
+ul. Łężyca-Budowlanych 5/3
+66-016 Zielona Góra
+lasermagic.depilacja@gmail.com
+
+Партнёр Laser Tech Service
+
+[Страница партнёра](https://www.instagram.com/laser_magic_salon/)
+
 ![LUX BEAUTY CLINIC Вроцлав – эстетическая медицина и косметология](https://lasertechservice.pl/img/partnerzy/lux-beauty-clinic-wroclaw.webp)
 
 ## LUX BEAUTY CLINIC

@@ -16,6 +16,21 @@ We know the equipment they use because we maintain and repair it. This gives us 
 
 > Laser Tech Service recommends businesses whose work and equipment we know first-hand.
 
+![Laser Magic – laser hair removal salon in Zielona Góra](https://lasertechservice.pl/img/partnerzy/laser-magic-zielona-gora-partner.webp)
+
+## Laser Magic – Zielona Góra
+
+Laser Magic — a beauty salon in Zielona Góra.
+
++48 880 672 002
+ul. Łężyca-Budowlanych 5/3
+66-016 Zielona Góra
+lasermagic.depilacja@gmail.com
+
+Laser Tech Service partner
+
+[Partner website](https://www.instagram.com/laser_magic_salon/)
+
 ![LUX BEAUTY CLINIC Wrocław – aesthetic medicine and cosmetology](https://lasertechservice.pl/img/partnerzy/lux-beauty-clinic-wroclaw.webp)
 
 ## LUX BEAUTY CLINIC

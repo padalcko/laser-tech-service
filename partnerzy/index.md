@@ -16,6 +16,21 @@ Znamy urządzenia, na których pracują — dbamy o ich serwis i naprawy. Dzięk
 
 > Laser Tech Service poleca tych, których pracę i sprzęt zna od podszewki.
 
+![Laser Magic – salon depilacji laserowej w Zielonej Górze](https://lasertechservice.pl/img/partnerzy/laser-magic-zielona-gora-partner.webp)
+
+## Laser Magic – Zielona Góra
+
+Laser Magic — salon kosmetyczny w Zielonej Górze.
+
++48 880 672 002
+ul. Łężyca-Budowlanych 5/3
+66-016 Zielona Góra
+lasermagic.depilacja@gmail.com
+
+Partner Laser Tech Service
+
+[Strona partnera](https://www.instagram.com/laser_magic_salon/)
+
 ![LUX BEAUTY CLINIC Wrocław – medycyna estetyczna i kosmetologia](https://lasertechservice.pl/img/partnerzy/lux-beauty-clinic-wroclaw.webp)
 
 ## LUX BEAUTY CLINIC

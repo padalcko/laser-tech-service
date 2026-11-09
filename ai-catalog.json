@@ -1430,6 +1430,20 @@
       ]
     },
     {
+      "id": "article:blog:pomiar-mocy-lasera-laserpoint",
+      "title": "Ile mocy naprawdę ma Twój laser? Laser Tech Service rozszerza możliwości diagnostyczne",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/pomiar-mocy-lasera-laserpoint/",
+      "description": "Ile mocy naprawdę ma Twój laser? Poznaj technologię LaserPoint, normy bezpieczeństwa i możliwości diagnostyczne Laser Tech Service Wrocław.",
+      "topics": [],
+      "datePublished": "2026-11-09",
+      "dateModified": "2026-11-09",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych"
+      ]
+    },
+    {
       "id": "article:blog:przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody",
       "title": "Czy zbyt długie przewody mogą powodować przegrzewanie głowicy lasera?",
       "language": "pl",
@@ -1757,6 +1771,20 @@
       ]
     },
     {
+      "id": "article:en:blog:laser-power-measurement-laserpoint",
+      "title": "How Much Power Does Your Laser Really Deliver? Laser Tech Service Expands Its Diagnostic Capabilities",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/laser-power-measurement-laserpoint/",
+      "description": "How much power does your laser really deliver? Discover LaserPoint measurement technology, laser safety standards and Laser Tech Service diagnostics.",
+      "topics": [],
+      "datePublished": "2026-11-09",
+      "dateModified": "2026-11-09",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych"
+      ]
+    },
+    {
       "id": "article:en:blog:laser-tech-service-zlota-firma-2026",
       "title": "Laser Tech Service receives the Złota Firma 2026 award",
       "language": "en",
@@ -2052,6 +2080,20 @@
       "datePublished": "2026-09-14",
       "dateModified": "2026-09-14",
       "related_services": []
+    },
+    {
+      "id": "article:ru:blog:izmerenie-moshchnosti-lazera-laserpoint",
+      "title": "Сколько мощности на самом деле выдаёт ваш лазер? Laser Tech Service расширяет возможности диагностики",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/",
+      "description": "Сколько мощности действительно выдаёт ваш лазер? Измерения LaserPoint, нормы безопасности и профессиональная диагностика Laser Tech Service.",
+      "topics": [],
+      "datePublished": "2026-11-09",
+      "dateModified": "2026-11-09",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych"
+      ]
     },
     {
       "id": "article:ru:blog:kak-kupit-bu-lazer-dlya-epilyacii",
@@ -4532,6 +4574,7 @@
       "https://lasertechservice.pl/blog/pharaon-1470-historia-technologia-lasera/": "https://lasertechservice.pl/blog/pharaon-1470-historia-technologia-lasera/index.md",
       "https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/": "https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/index.md",
       "https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/": "https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/index.md",
+      "https://lasertechservice.pl/blog/pomiar-mocy-lasera-laserpoint/": "https://lasertechservice.pl/blog/pomiar-mocy-lasera-laserpoint/index.md",
       "https://lasertechservice.pl/blog/przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody/": "https://lasertechservice.pl/blog/przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody/index.md",
       "https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/": "https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/index.md",
       "https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/": "https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/index.md",
@@ -4558,6 +4601,7 @@
       "https://lasertechservice.pl/en/blog/how-to-buy-a-used-hair-removal-laser/": "https://lasertechservice.pl/en/blog/how-to-buy-a-used-hair-removal-laser/index.md",
       "https://lasertechservice.pl/en/blog/laser-cooling-system-cleaning-overheating/": "https://lasertechservice.pl/en/blog/laser-cooling-system-cleaning-overheating/index.md",
       "https://lasertechservice.pl/en/blog/laser-handpiece-overheating-long-wires/": "https://lasertechservice.pl/en/blog/laser-handpiece-overheating-long-wires/index.md",
+      "https://lasertechservice.pl/en/blog/laser-power-measurement-laserpoint/": "https://lasertechservice.pl/en/blog/laser-power-measurement-laserpoint/index.md",
       "https://lasertechservice.pl/en/blog/laser-tech-service-zlota-firma-2026/": "https://lasertechservice.pl/en/blog/laser-tech-service-zlota-firma-2026/index.md",
       "https://lasertechservice.pl/en/blog/laser-unused-for-a-year-cooling-system/": "https://lasertechservice.pl/en/blog/laser-unused-for-a-year-cooling-system/index.md",
       "https://lasertechservice.pl/en/blog/laser-water-flow-error-circulation-pump/": "https://lasertechservice.pl/en/blog/laser-water-flow-error-circulation-pump/index.md",
@@ -4670,6 +4714,7 @@
       "https://lasertechservice.pl/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/": "https://lasertechservice.pl/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/index.md",
       "https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/": "https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/index.md",
       "https://lasertechservice.pl/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/": "https://lasertechservice.pl/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/index.md",
+      "https://lasertechservice.pl/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/": "https://lasertechservice.pl/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/index.md",
       "https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/": "https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/index.md",
       "https://lasertechservice.pl/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/": "https://lasertechservice.pl/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/index.md",
       "https://lasertechservice.pl/ru/blog/laser-tech-service-zlota-firma-2026/": "https://lasertechservice.pl/ru/blog/laser-tech-service-zlota-firma-2026/index.md",
@@ -4770,5 +4815,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-11-07T08:51:36Z"
+  "generated_at": "2026-11-09T12:59:19Z"
 }

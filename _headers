@@ -126,6 +126,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/blog/pomiar-mocy-lasera-laserpoint/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/blog/pomiar-mocy-lasera-laserpoint/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /blog/przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -255,6 +260,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/blog/laser-handpiece-overheating-long-wires/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/en/blog/laser-power-measurement-laserpoint/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/blog/laser-power-measurement-laserpoint/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /en/blog/laser-tech-service-zlota-firma-2026/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -815,6 +825,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/index.md
   Content-Type: text/markdown; charset=utf-8

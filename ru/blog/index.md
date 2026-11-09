@@ -10,6 +10,12 @@
 
 Пишем о том, с чем сталкиваемся каждый день: ремонте лазеров, диагностике неисправностей, обслуживании косметологического оборудования и обычных проблемах, которые возникают у владельцев салонов и кабинетов.
 
+LaserPoint9 ноября 2026
+
+## [Сколько мощности на самом деле выдаёт ваш лазер? Laser Tech Service расширяет возможности диагностики](https://lasertechservice.pl/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/)
+
+Сколько мощности действительно выдаёт ваш лазер? Измерения LaserPoint, нормы безопасности и профессиональная диагностика Laser Tech Service.
+
 Сервис IPL6 ноября 2026
 
 ## [smartPULS — немецкий IPL-аппарат на Linux. Почему исправная лампа перестала работать после 30 000 вспышек?](https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/)
@@ -204,6 +210,7 @@ Pharaon 1470, LSO Medical и OSYRIS: история обозначений, ос
 
 ## Связанные статьи
 
+- [Сколько мощности на самом деле выдаёт ваш лазер? Laser Tech Service расширяет возможности диагностики](https://lasertechservice.pl/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/)
 - [smartPULS — немецкий IPL-аппарат на Linux. Почему исправная лампа перестала работать после 30 000 вспышек?](https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/)
 - [Почему диодный лазер нужно регулярно обслуживать? Пример одного из наших самых дисциплинированных клиентов](https://lasertechservice.pl/ru/blog/zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev/)
 - [NUBWAY NBW-VSIII: как работает аппарат вакуумного массажа, его преимущества и особенности обслуживания](https://lasertechservice.pl/ru/blog/nubway-nbw-vsiii-harakteristiki-obsluzhivanie/)

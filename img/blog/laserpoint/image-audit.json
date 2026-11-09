@@ -1,0 +1,98 @@
+[
+  {
+    "source": "/Users/macbookpro/Downloads/E1A17473-1CCF-4CE9-9360-E4337CA515F8.PNG",
+    "sha256": "72815645ff79c10f5363ec53d51e7f1fbdbb57dda4bcf1bfa791816602badfc9",
+    "width": 1199,
+    "height": 1312,
+    "variants": [
+      {
+        "file": "img/blog/laserpoint/laserpoint-laser-power-measurement-case-320w.webp",
+        "width": 320,
+        "height": 350,
+        "bytes": 3938
+      },
+      {
+        "file": "img/blog/laserpoint/laserpoint-laser-power-measurement-case-480w.webp",
+        "width": 480,
+        "height": 525,
+        "bytes": 8932
+      },
+      {
+        "file": "img/blog/laserpoint/laserpoint-laser-power-measurement-case-768w.webp",
+        "width": 768,
+        "height": 840,
+        "bytes": 43774
+      },
+      {
+        "file": "img/blog/laserpoint/laserpoint-laser-power-measurement-case.webp",
+        "width": 1199,
+        "height": 1312,
+        "bytes": 156262
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/C8EDC9E5-B3BE-4312-97D1-3518CB5C8620.PNG",
+    "sha256": "de496ef856eca94df50e57a63642665bec5fb3d5cccccd7379235af34c2e9453",
+    "width": 1199,
+    "height": 1312,
+    "variants": [
+      {
+        "file": "img/blog/laserpoint/laserpoint-professional-laser-measurement-kit-320w.webp",
+        "width": 320,
+        "height": 350,
+        "bytes": 19882
+      },
+      {
+        "file": "img/blog/laserpoint/laserpoint-professional-laser-measurement-kit-480w.webp",
+        "width": 480,
+        "height": 525,
+        "bytes": 46208
+      },
+      {
+        "file": "img/blog/laserpoint/laserpoint-professional-laser-measurement-kit-768w.webp",
+        "width": 768,
+        "height": 840,
+        "bytes": 123554
+      },
+      {
+        "file": "img/blog/laserpoint/laserpoint-professional-laser-measurement-kit.webp",
+        "width": 1199,
+        "height": 1312,
+        "bytes": 288228
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/1F1C2FA5-AD3F-4659-A428-28FFDD5F320A.PNG",
+    "sha256": "4edd3196423a588204d6c6d4d1fece0c20d6903d8fc1a1dd242c8ca50cdab879",
+    "width": 1199,
+    "height": 1312,
+    "variants": [
+      {
+        "file": "img/blog/laserpoint/laserpoint-laser-measurement-sensor-display-320w.webp",
+        "width": 320,
+        "height": 350,
+        "bytes": 24950
+      },
+      {
+        "file": "img/blog/laserpoint/laserpoint-laser-measurement-sensor-display-480w.webp",
+        "width": 480,
+        "height": 525,
+        "bytes": 57024
+      },
+      {
+        "file": "img/blog/laserpoint/laserpoint-laser-measurement-sensor-display-768w.webp",
+        "width": 768,
+        "height": 840,
+        "bytes": 149386
+      },
+      {
+        "file": "img/blog/laserpoint/laserpoint-laser-measurement-sensor-display.webp",
+        "width": 1199,
+        "height": 1312,
+        "bytes": 338632
+      }
+    ]
+  }
+]

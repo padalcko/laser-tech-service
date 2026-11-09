@@ -24,8 +24,9 @@ const out=process.env.LTS_TEST_OUT||'/tmp/lts-esen';
   await page.locator('.lazar-close').click();await page.locator('#lazar-panel').waitFor({state:'hidden'});
   for(const width of [320,375,430,768,1024,1440]){
    await page.setViewportSize({width,height:900});
+   await page.waitForTimeout(250);
    for(const im of await cards.locator('img').all())await im.evaluate(async e=>{e.scrollIntoView();await e.decode()});
-   assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
+   assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1), 'Overflow at '+lang+'/'+width);
    const dimensions=await cards.evaluateAll(nodes=>nodes.map(e=>{
     const r=e.getBoundingClientRect(),s=getComputedStyle(e),im=e.querySelector('img');
     const blocks=Array.from(e.querySelector('.partner-card__content').children).map(n=>({top:n.getBoundingClientRect().top,bottom:n.getBoundingClientRect().bottom}));

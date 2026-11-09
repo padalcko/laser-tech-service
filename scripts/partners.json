@@ -310,6 +310,40 @@
           "badge": "Laser Tech Service Partner"
         }
       }
+    },
+    {
+      "id": "laser-magic",
+      "priority": 100,
+      "url": "https://www.instagram.com/laser_magic_salon/",
+      "content": {
+        "pl": {
+          "title": "Laser Magic – Zielona Góra",
+          "image_html": "<img src=\"/img/partnerzy/laser-magic-zielona-gora-partner.webp\" alt=\"Laser Magic – salon depilacji laserowej w Zielonej Górze\" width=\"1200\" height=\"667\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Laser Magic — salon kosmetyczny w Zielonej Górze.",
+            "+48 880 672 002<br />ul. Łężyca-Budowlanych 5/3<br />66-016 Zielona Góra<br /><span class=\"partner-card__email\">lasermagic.depilacja@gmail.com</span>"
+          ],
+          "badge": "Partner Laser Tech Service"
+        },
+        "ru": {
+          "title": "Laser Magic – Зелёна-Гура",
+          "image_html": "<img src=\"/img/partnerzy/laser-magic-zielona-gora-partner.webp\" alt=\"Laser Magic – салон лазерной эпиляции в Зелёна-Гуре\" width=\"1200\" height=\"667\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Laser Magic — косметический салон в Зелёна-Гуре.",
+            "+48 880 672 002<br />ul. Łężyca-Budowlanych 5/3<br />66-016 Zielona Góra<br /><span class=\"partner-card__email\">lasermagic.depilacja@gmail.com</span>"
+          ],
+          "badge": "Партнёр Laser Tech Service"
+        },
+        "en": {
+          "title": "Laser Magic – Zielona Góra",
+          "image_html": "<img src=\"/img/partnerzy/laser-magic-zielona-gora-partner.webp\" alt=\"Laser Magic – laser hair removal salon in Zielona Góra\" width=\"1200\" height=\"667\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Laser Magic — a beauty salon in Zielona Góra.",
+            "+48 880 672 002<br />ul. Łężyca-Budowlanych 5/3<br />66-016 Zielona Góra<br /><span class=\"partner-card__email\">lasermagic.depilacja@gmail.com</span>"
+          ],
+          "badge": "Laser Tech Service partner"
+        }
+      }
     }
   ]
 }
