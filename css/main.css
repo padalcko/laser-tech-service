@@ -4366,6 +4366,7 @@ button.btn {
     }
 }
 
+.cky-btn-revisit-wrapper,
 .cky-btn-revisit {
     display: none !important;
 }
