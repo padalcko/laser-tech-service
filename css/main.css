@@ -4365,3 +4365,7 @@ button.btn {
         50% { opacity: 1; box-shadow: 0 0 20px #cbb26a55; }
     }
 }
+
+.cky-btn-revisit {
+    display: none !important;
+}
