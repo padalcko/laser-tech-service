@@ -1,0 +1,19 @@
+{
+  "name": "PURE STUDIO Depilacja laserowa",
+  "url": "https://booksy.com/pl-pl/258153_pure-studio-depilacja-laserowa_depilacja_13750_wroclaw",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Gen. Kazimierza Pułaskiego 8/G, Wrocław",
+    "addressCountry": "pl",
+    "addressLocality": "Wrocław",
+    "addressRegion": "dolnośląskie"
+  },
+  "sameAs": [
+    "https://www.instagram.com/pure.wro/"
+  ],
+  "logo": "https://d375139ucebi94.cloudfront.net/region2/pl/258153/logo/5bdb3850a4df42ecb3514fb9752c72-pure-studio-logo-ef48455c3c70432ca2f2bdd0d78bca-booksy.jpeg",
+  "verified_on": "2026-11-10",
+  "evidence": "Booksy profile HTML: direct social Instagram anchor and JSON-LD sameAs; matching studio name and Pulaskiego 8/G address",
+  "source_html_sha256": "1a80dfe1648369be7616ce8d893f27b32a09df121e279f1309afcf664ac4633c",
+  "logo_local": "img/partnerzy/pure-studio-logo.webp"
+}

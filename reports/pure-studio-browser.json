@@ -1,0 +1,855 @@
+{
+  "results": [
+    {
+      "kind": "case",
+      "lang": "pl",
+      "width": 320,
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "kind": "case",
+      "lang": "pl",
+      "width": 360,
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "kind": "case",
+      "lang": "pl",
+      "width": 375,
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "kind": "case",
+      "lang": "pl",
+      "width": 390,
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "kind": "case",
+      "lang": "pl",
+      "width": 430,
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "kind": "case",
+      "lang": "pl",
+      "width": 768,
+      "cls": 0.007726956340020575,
+      "shifts": [
+        {
+          "value": 0.007726956340020575,
+          "sources": [
+            "nav-list__link",
+            "nav-list__item nav-services nav-work",
+            "nav-list__link",
+            "nav-list__link",
+            "nav-list__link"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "case",
+      "lang": "pl",
+      "width": 1024,
+      "cls": 0.2903417428996828,
+      "shifts": [
+        {
+          "value": 0.2903417428996828,
+          "sources": [
+            "case-page",
+            "nav-list",
+            "logo",
+            "language-switcher__dropdown"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "case",
+      "lang": "pl",
+      "width": 1440,
+      "cls": 0.0007885802469135802,
+      "shifts": [
+        {
+          "value": 0.0007885802469135802,
+          "sources": [
+            "nav-list"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "case",
+      "lang": "ru",
+      "width": 320,
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "kind": "case",
+      "lang": "ru",
+      "width": 360,
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "kind": "case",
+      "lang": "ru",
+      "width": 375,
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "kind": "case",
+      "lang": "ru",
+      "width": 390,
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "kind": "case",
+      "lang": "ru",
+      "width": 430,
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "kind": "case",
+      "lang": "ru",
+      "width": 768,
+      "cls": 0.007986020688657407,
+      "shifts": [
+        {
+          "value": 0.007986020688657407,
+          "sources": [
+            "nav-list__item nav-services nav-work",
+            "nav-list__link",
+            "nav-list__link",
+            "nav-list__link",
+            "nav-list__item nav-services"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "case",
+      "lang": "ru",
+      "width": 1024,
+      "cls": 0.2812729070583979,
+      "shifts": [
+        {
+          "value": 0.2812729070583979,
+          "sources": [
+            "case-page",
+            "nav-list",
+            "logo",
+            "language-switcher__dropdown"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "case",
+      "lang": "ru",
+      "width": 1440,
+      "cls": 0.0008005829903978053,
+      "shifts": [
+        {
+          "value": 0.0008005829903978053,
+          "sources": [
+            "nav-list"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "case",
+      "lang": "en",
+      "width": 320,
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "kind": "case",
+      "lang": "en",
+      "width": 360,
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "kind": "case",
+      "lang": "en",
+      "width": 375,
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "kind": "case",
+      "lang": "en",
+      "width": 390,
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "kind": "case",
+      "lang": "en",
+      "width": 430,
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "kind": "case",
+      "lang": "en",
+      "width": 768,
+      "cls": 0.0005311213991769547,
+      "shifts": [
+        {
+          "value": 0.0005311213991769547,
+          "sources": [
+            "nav-list__link",
+            "nav-list__item nav-services",
+            "nav-list__link",
+            "nav-list__link"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "case",
+      "lang": "en",
+      "width": 1024,
+      "cls": 0.0015428331163194445,
+      "shifts": [
+        {
+          "value": 0.0015428331163194445,
+          "sources": [
+            "nav-list"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "case",
+      "lang": "en",
+      "width": 1440,
+      "cls": 0.0007801783264746227,
+      "shifts": [
+        {
+          "value": 0.0007801783264746227,
+          "sources": [
+            "nav-list"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "pl",
+      "width": 320,
+      "cls": 0.18538053301022375,
+      "shifts": [
+        {
+          "value": 0.11865166726948302,
+          "sources": [
+            "H2",
+            "IMG",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        {
+          "value": 0.06672886574074073,
+          "sources": [
+            "P",
+            "P",
+            "H2",
+            "IMG",
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "pl",
+      "width": 360,
+      "cls": 0.3085741065457819,
+      "shifts": [
+        {
+          "value": 0.12303833494084361,
+          "sources": [
+            "P",
+            "IMG",
+            "H2",
+            "P",
+            "P"
+          ]
+        },
+        {
+          "value": 0.11847955761316872,
+          "sources": [
+            "H2",
+            "P",
+            "IMG",
+            "P",
+            "P"
+          ]
+        },
+        {
+          "value": 0.06705621399176954,
+          "sources": [
+            "P",
+            "P",
+            "H2",
+            "IMG",
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "pl",
+      "width": 375,
+      "cls": 0.37113315108024686,
+      "shifts": [
+        {
+          "value": 0.15433558194444444,
+          "sources": [
+            "P",
+            "P",
+            "IMG",
+            "P",
+            "H2"
+          ]
+        },
+        {
+          "value": 0.14968592098765432,
+          "sources": [
+            "P",
+            "H2",
+            "P",
+            "IMG",
+            "P"
+          ]
+        },
+        {
+          "value": 0.06711164814814814,
+          "sources": [
+            "P",
+            "P",
+            "H2",
+            "P",
+            "IMG"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "pl",
+      "width": 390,
+      "cls": 0.2621104223053181,
+      "shifts": [
+        {
+          "value": 0.14358745132953465,
+          "sources": [
+            "P",
+            "P",
+            "IMG",
+            "H2",
+            "P"
+          ]
+        },
+        {
+          "value": 0.11852297097578347,
+          "sources": [
+            "H2",
+            "P",
+            "P",
+            "IMG",
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "pl",
+      "width": 430,
+      "cls": 0.06026730799598047,
+      "shifts": [
+        {
+          "value": 0.06026730799598047,
+          "sources": [
+            "P",
+            "P",
+            "H2",
+            "P",
+            "IMG"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "pl",
+      "width": 768,
+      "cls": 0.007726956340020575,
+      "shifts": [
+        {
+          "value": 0.007726956340020575,
+          "sources": [
+            "nav-list__link",
+            "nav-list__item nav-services nav-work",
+            "nav-list__link",
+            "nav-list__link",
+            "nav-list__link"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "pl",
+      "width": 1024,
+      "cls": 0.2903417428996828,
+      "shifts": [
+        {
+          "value": 0.2903417428996828,
+          "sources": [
+            "article-page",
+            "nav-list",
+            "logo",
+            "language-switcher__dropdown"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "pl",
+      "width": 1440,
+      "cls": 0.0007885802469135802,
+      "shifts": [
+        {
+          "value": 0.0007885802469135802,
+          "sources": [
+            "nav-list"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "ru",
+      "width": 320,
+      "cls": 0.3310270770640432,
+      "shifts": [
+        {
+          "value": 0.215033682966821,
+          "sources": [
+            "P",
+            "P",
+            "P",
+            "H2",
+            "P"
+          ]
+        },
+        {
+          "value": 0.11599339409722222,
+          "sources": [
+            "H2",
+            "IMG",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "ru",
+      "width": 360,
+      "cls": 0.33182255208333333,
+      "shifts": [
+        {
+          "value": 0.03257798611111111,
+          "sources": [
+            "IMG",
+            "H2"
+          ]
+        },
+        {
+          "value": 0.1524636127186214,
+          "sources": [
+            "P",
+            "H2",
+            "P",
+            "IMG",
+            "P"
+          ]
+        },
+        {
+          "value": 0.14678095325360083,
+          "sources": [
+            "P",
+            "P",
+            "IMG",
+            "H2",
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "ru",
+      "width": 375,
+      "cls": 0.1181471609567901,
+      "shifts": [
+        {
+          "value": 0.1181471609567901,
+          "sources": [
+            "P",
+            "IMG",
+            "H2",
+            "P",
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "ru",
+      "width": 390,
+      "cls": 0.29954452486942074,
+      "shifts": [
+        {
+          "value": 0.11587325884377968,
+          "sources": [
+            "P",
+            "IMG",
+            "H2",
+            "P",
+            "P"
+          ]
+        },
+        {
+          "value": 0.11810530448717949,
+          "sources": [
+            "P",
+            "IMG",
+            "H2",
+            "P",
+            "P"
+          ]
+        },
+        {
+          "value": 0.06556596153846153,
+          "sources": [
+            "P",
+            "H2",
+            "P",
+            "P",
+            "IMG"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "ru",
+      "width": 430,
+      "cls": 0.23992897914872235,
+      "shifts": [
+        {
+          "value": 0.11802154141544645,
+          "sources": [
+            "P",
+            "H2",
+            "IMG",
+            "P",
+            "P"
+          ]
+        },
+        {
+          "value": 0.1219074377332759,
+          "sources": [
+            "H2",
+            "IMG",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "ru",
+      "width": 768,
+      "cls": 0.1777458586516204,
+      "shifts": [
+        {
+          "value": 0.007986020688657407,
+          "sources": [
+            "nav-list__item nav-services nav-work",
+            "nav-list__link",
+            "nav-list__link",
+            "nav-list__link",
+            "nav-list__item nav-services"
+          ]
+        },
+        {
+          "value": 0.16975983796296298,
+          "sources": [
+            "P",
+            "P",
+            "P",
+            "IMG",
+            "H2"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "ru",
+      "width": 1024,
+      "cls": 0.30650627563397087,
+      "shifts": [
+        {
+          "value": 0.02523336857557297,
+          "sources": [
+            "P",
+            "IMG",
+            "H2"
+          ]
+        },
+        {
+          "value": 0.2812729070583979,
+          "sources": [
+            "article-page",
+            "nav-list",
+            "logo",
+            "language-switcher__dropdown"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "ru",
+      "width": 1440,
+      "cls": 0.0008005829903978053,
+      "shifts": [
+        {
+          "value": 0.0008005829903978053,
+          "sources": [
+            "nav-list"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "en",
+      "width": 320,
+      "cls": 0.18174190815489968,
+      "shifts": [
+        {
+          "value": 0.11679434256847993,
+          "sources": [
+            "IMG",
+            "P",
+            "H2",
+            "P",
+            "P"
+          ]
+        },
+        {
+          "value": 0.06494756558641976,
+          "sources": [
+            "P",
+            "H2",
+            "P",
+            "IMG",
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "en",
+      "width": 360,
+      "cls": 0.2874219097222222,
+      "shifts": [
+        {
+          "value": 0.14291304719650205,
+          "sources": [
+            "P",
+            "P",
+            "IMG",
+            "H2",
+            "P"
+          ]
+        },
+        {
+          "value": 0.14450886252572015,
+          "sources": [
+            "P",
+            "P",
+            "IMG",
+            "H2",
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "en",
+      "width": 375,
+      "cls": 0.11316821712962963,
+      "shifts": [
+        {
+          "value": 0.11316821712962963,
+          "sources": [
+            "P",
+            "IMG",
+            "H2",
+            "P",
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "en",
+      "width": 390,
+      "cls": 0.2924473806980057,
+      "shifts": [
+        {
+          "value": 0.14305750890313387,
+          "sources": [
+            "P",
+            "P",
+            "IMG",
+            "H2",
+            "P"
+          ]
+        },
+        {
+          "value": 0.1493898717948718,
+          "sources": [
+            "P",
+            "IMG",
+            "P",
+            "H2",
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "en",
+      "width": 430,
+      "cls": 0.17948076963106516,
+      "shifts": [
+        {
+          "value": 0.11659589811225954,
+          "sources": [
+            "P",
+            "H2",
+            "IMG",
+            "P",
+            "P"
+          ]
+        },
+        {
+          "value": 0.06288487151880562,
+          "sources": [
+            "P",
+            "P",
+            "H2",
+            "P",
+            "IMG"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "en",
+      "width": 768,
+      "cls": 0.0005311213991769547,
+      "shifts": [
+        {
+          "value": 0.0005311213991769547,
+          "sources": [
+            "nav-list__link",
+            "nav-list__item nav-services",
+            "nav-list__link",
+            "nav-list__link"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "en",
+      "width": 1024,
+      "cls": 0.12012886752684912,
+      "shifts": [
+        {
+          "value": 0.0015428331163194445,
+          "sources": [
+            "nav-list"
+          ]
+        },
+        {
+          "value": 0.11858603441052967,
+          "sources": [
+            "H2",
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "blog",
+      "lang": "en",
+      "width": 1440,
+      "cls": 0.0007801783264746227,
+      "shifts": [
+        {
+          "value": 0.0007801783264746227,
+          "sources": [
+            "nav-list"
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "bad": [],
+  "languageTransitions": 12,
+  "partnerLayouts": 24,
+  "externalRequests": "blocked"
+}

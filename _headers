@@ -51,6 +51,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/blog/dlaczego-regularny-serwis-lasera-jest-wazny-pure-studio/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/blog/dlaczego-regularny-serwis-lasera-jest-wazny-pure-studio/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /blog/dlaczego-serwisowac-laser-diodowy-co-6-miesiecy/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -346,6 +351,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/blog/why-laser-diode-modules-fail/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/en/blog/why-regular-laser-maintenance-matters-pure-studio/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/blog/why-regular-laser-maintenance-matters-pure-studio/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /en/case-studies/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -400,6 +410,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/case-studies/diode-laser-overheating-gliwice-water-filter/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/en/case-studies/diode-laser-service-pure-studio-wroclaw/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /en/case-studies/e808-laser-cooling-pump-repair-prague/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -746,6 +761,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -921,6 +941,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/blog/pochemu-vazhno-obsluzhivat-lazer-pure-studio/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/blog/pochemu-vazhno-obsluzhivat-lazer-pure-studio/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -1025,6 +1050,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/index.md
   Content-Type: text/markdown; charset=utf-8

@@ -1726,6 +1726,44 @@
           "status": "published"
         }
       }
+    },
+    {
+      "id": "realizacje:serwis-lasera-diodowego-pure-studio-wroclaw",
+      "type": "case-study",
+      "x_default": "/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/diode-laser-service-pure-studio-wroclaw/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:dlaczego-regularny-serwis-lasera-jest-wazny-pure-studio",
+      "type": "article",
+      "x_default": "/blog/dlaczego-regularny-serwis-lasera-jest-wazny-pure-studio/",
+      "routes": {
+        "pl": {
+          "url": "/blog/dlaczego-regularny-serwis-lasera-jest-wazny-pure-studio/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/pochemu-vazhno-obsluzhivat-lazer-pure-studio/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/why-regular-laser-maintenance-matters-pure-studio/",
+          "status": "published"
+        }
+      }
     }
   ]
 }

@@ -16,6 +16,19 @@ Znamy urządzenia, na których pracują — dbamy o ich serwis i naprawy. Dzięk
 
 > Laser Tech Service poleca tych, których pracę i sprzęt zna od podszewki.
 
+![PURE STUDIO — Wrocław](https://lasertechservice.pl/img/partnerzy/pure-studio-logo.webp)
+
+## PURE STUDIO Depilacja laserowa
+
+Salon depilacji laserowej we Wrocławiu.
+
+ul. gen. Kazimierza Pułaskiego 8G
+50-446 Wrocław, Polska
+
+Partner Laser Tech Service
+
+[Strona partnera](https://www.instagram.com/pure.wro/)
+
 ![Laser Magic – salon depilacji laserowej w Zielonej Górze](https://lasertechservice.pl/img/partnerzy/laser-magic-zielona-gora-partner.webp)
 
 ## Laser Magic – Zielona Góra

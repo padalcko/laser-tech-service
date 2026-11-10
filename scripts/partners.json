@@ -344,6 +344,40 @@
           "badge": "Laser Tech Service partner"
         }
       }
+    },
+    {
+      "id": "pure-studio",
+      "priority": 110,
+      "url": "https://www.instagram.com/pure.wro/",
+      "content": {
+        "pl": {
+          "title": "PURE STUDIO Depilacja laserowa",
+          "image_html": "<img src=\"/img/partnerzy/pure-studio-logo.webp\" alt=\"PURE STUDIO — Wrocław\" width=\"402\" height=\"402\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Salon depilacji laserowej we Wrocławiu.",
+            "ul. gen. Kazimierza Pułaskiego 8G<br />50-446 Wrocław, Polska"
+          ],
+          "badge": "Partner Laser Tech Service"
+        },
+        "ru": {
+          "title": "PURE STUDIO Depilacja laserowa",
+          "image_html": "<img src=\"/img/partnerzy/pure-studio-logo.webp\" alt=\"PURE STUDIO — Wrocław\" width=\"402\" height=\"402\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Салон лазерной эпиляции во Вроцлаве.",
+            "ul. gen. Kazimierza Pułaskiego 8G<br />50-446 Wrocław, Польша"
+          ],
+          "badge": "Партнёр Laser Tech Service"
+        },
+        "en": {
+          "title": "PURE STUDIO Depilacja laserowa",
+          "image_html": "<img src=\"/img/partnerzy/pure-studio-logo.webp\" alt=\"PURE STUDIO — Wrocław\" width=\"402\" height=\"402\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Laser hair removal salon in Wrocław.",
+            "ul. gen. Kazimierza Pułaskiego 8G<br />50-446 Wrocław, Poland"
+          ],
+          "badge": "Laser Tech Service partner"
+        }
+      }
     }
   ]
 }

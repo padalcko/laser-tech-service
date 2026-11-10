@@ -10,6 +10,12 @@
 
 Пишем о том, с чем сталкиваемся каждый день: ремонте лазеров, диагностике неисправностей, обслуживании косметологического оборудования и обычных проблемах, которые возникают у владельцев салонов и кабинетов.
 
+PURE STUDIO2026-11-10
+
+## [Почему мы ценим салоны, которые заботятся о своих лазерах? PURE STUDIO во Вроцлаве](https://lasertechservice.pl/ru/blog/pochemu-vazhno-obsluzhivat-lazer-pure-studio/)
+
+На примере PURE STUDIO во Вроцлаве рассказываем о профилактике диодных лазеров, очистке оптики и контроле мощности.
+
 LaserPoint9 ноября 2026
 
 ## [Сколько мощности на самом деле выдаёт ваш лазер? Laser Tech Service расширяет возможности диагностики](https://lasertechservice.pl/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/)
@@ -210,6 +216,7 @@ Pharaon 1470, LSO Medical и OSYRIS: история обозначений, ос
 
 ## Связанные статьи
 
+- [Почему мы ценим салоны, которые заботятся о своих лазерах? PURE STUDIO во Вроцлаве](https://lasertechservice.pl/ru/blog/pochemu-vazhno-obsluzhivat-lazer-pure-studio/)
 - [Сколько мощности на самом деле выдаёт ваш лазер? Laser Tech Service расширяет возможности диагностики](https://lasertechservice.pl/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/)
 - [smartPULS — немецкий IPL-аппарат на Linux. Почему исправная лампа перестала работать после 30 000 вспышек?](https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/)
 - [Почему диодный лазер нужно регулярно обслуживать? Пример одного из наших самых дисциплинированных клиентов](https://lasertechservice.pl/ru/blog/zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev/)

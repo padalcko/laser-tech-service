@@ -16,6 +16,19 @@
 
 > Laser Tech Service рекомендует тех, чью работу и оборудование знает изнутри.
 
+![PURE STUDIO — Wrocław](https://lasertechservice.pl/img/partnerzy/pure-studio-logo.webp)
+
+## PURE STUDIO Depilacja laserowa
+
+Салон лазерной эпиляции во Вроцлаве.
+
+ul. gen. Kazimierza Pułaskiego 8G
+50-446 Wrocław, Польша
+
+Партнёр Laser Tech Service
+
+[Страница партнёра](https://www.instagram.com/pure.wro/)
+
 ![Laser Magic – салон лазерной эпиляции в Зелёна-Гуре](https://lasertechservice.pl/img/partnerzy/laser-magic-zielona-gora-partner.webp)
 
 ## Laser Magic – Зелёна-Гура

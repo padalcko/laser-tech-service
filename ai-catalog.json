@@ -1217,6 +1217,23 @@
       ]
     },
     {
+      "id": "article:blog:dlaczego-regularny-serwis-lasera-jest-wazny-pure-studio",
+      "title": "Dlaczego cenimy salony, które dbają o swoje lasery? PURE STUDIO we Wrocławiu jako przykład odpowiedzialnego podejścia",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/dlaczego-regularny-serwis-lasera-jest-wazny-pure-studio/",
+      "description": "PURE STUDIO Wrocław pokazuje, dlaczego konserwacja lasera, czyszczenie optyki i pomiar mocy mają znaczenie dla pracy salonu.",
+      "topics": [
+        "PURE STUDIO · Wrocław"
+      ],
+      "datePublished": "2026-11-10",
+      "dateModified": "2026-11-10",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow"
+      ]
+    },
+    {
       "id": "article:blog:dlaczego-serwisowac-laser-diodowy-co-6-miesiecy",
       "title": "Dlaczego laser diodowy warto serwisować co 6 miesięcy? Przykład klienta z Warszawy",
       "language": "pl",
@@ -2017,6 +2034,23 @@
       ]
     },
     {
+      "id": "article:en:blog:why-regular-laser-maintenance-matters-pure-studio",
+      "title": "Why We Value Beauty Studios That Take Laser Maintenance Seriously: PURE STUDIO in Wrocław",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/why-regular-laser-maintenance-matters-pure-studio/",
+      "description": "Discover how PURE STUDIO Wrocław approaches diode laser maintenance, optical cleaning and laser output verification.",
+      "topics": [
+        "PURE STUDIO · Wrocław"
+      ],
+      "datePublished": "2026-11-10",
+      "dateModified": "2026-11-10",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow"
+      ]
+    },
+    {
       "id": "article:ru:blog:3000-nain-lazer-istoriya-konstrukciya-servis",
       "title": "3000 NAIN — знакомьтесь, динозавр среди лазеров",
       "language": "ru",
@@ -2352,6 +2386,23 @@
       "related_services": []
     },
     {
+      "id": "article:ru:blog:pochemu-vazhno-obsluzhivat-lazer-pure-studio",
+      "title": "Почему мы ценим салоны, которые заботятся о своих лазерах? PURE STUDIO во Вроцлаве",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/pochemu-vazhno-obsluzhivat-lazer-pure-studio/",
+      "description": "На примере PURE STUDIO во Вроцлаве рассказываем о профилактике диодных лазеров, очистке оптики и контроле мощности.",
+      "topics": [
+        "PURE STUDIO · Wrocław"
+      ],
+      "datePublished": "2026-11-10",
+      "dateModified": "2026-11-10",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow"
+      ]
+    },
+    {
       "id": "article:ru:blog:pochemu-vazhno-pokupat-lazer-s-istoriey-servisa",
       "title": "Подержанный диодный лазер — почему важно покупать устройство с историей обслуживания?",
       "language": "ru",
@@ -2669,6 +2720,22 @@
         "The laser is working again. This failure highlights the importance of regularly checking filters and cooling system connections for leaks.",
         "Laser Tech Service provides laser servicing, refurbishment and aesthetic laser repairs, including on-site visits."
       ]
+    },
+    {
+      "id": "case:en:case-studies:diode-laser-service-pure-studio-wroclaw",
+      "title": "Diode Laser Servicing at PURE STUDIO Wrocław – Handpiece Housing Replacement and Power Verification",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/",
+      "description": "Diode laser handpiece housing replacement, optical cleaning, sealing and laser power verification at PURE STUDIO Wrocław.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "PURE STUDIO"
+      },
+      "fault": [],
+      "performed_work": [],
+      "result": []
     },
     {
       "id": "case:en:case-studies:e808-laser-cooling-pump-repair-prague",
@@ -3617,6 +3684,30 @@
       ]
     },
     {
+      "id": "case:realizacje:serwis-lasera-diodowego-pure-studio-wroclaw",
+      "title": "Serwis lasera diodowego w PURE STUDIO Wrocław – wymiana obudowy głowicy i kontrola mocy",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/",
+      "description": "Wymiana obudowy głowicy lasera, czyszczenie optyki, uszczelnienie i pomiar mocy lasera diodowego w PURE STUDIO Wrocław.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "PURE STUDIO"
+      },
+      "fault": [
+        "Wyślij nam nazwę i model urządzenia, zdjęcia oraz krótki opis problemu. Na tej podstawie ustalimy dalszy sposób działania."
+      ],
+      "performed_work": [],
+      "result": [
+        "W ramach wizyty wykonaliśmy wymianę obudowy i przycisku głowicy, czyszczenie wnętrza manipulatora, konserwację optyki, obsługę modułu diodowego, uszczelnienie oraz kontrolę parametrów emisji.",
+        "Głowica została ponownie złożona, a przeprowadzone czynności serwisowe zakończyły się pozytywną oceną jej działania w sprawdzonym zakresie.",
+        "Dziękujemy PURE STUDIO za kolejne okazane zaufanie i odpowiedzialne podejście do utrzymania sprzętu kosmetologicznego.",
+        "Laser Tech Service świadczy usługi diagnostyki, naprawy i konserwacji laserów diodowych we Wrocławiu oraz na terenie całej Polski.",
+        "Jeżeli Twoje urządzenie wymaga przeglądu, naprawy głowicy lub pomiaru parametrów lasera, skontaktuj się z naszym serwisem."
+      ]
+    },
+    {
       "id": "case:realizacje:serwis-lasera-diodowego-wymiana-glowicy-wroclaw",
       "title": "Serwis lasera diodowego – wymiana głowicy i obsługa techniczna",
       "language": "pl",
@@ -4016,6 +4107,30 @@
         "Выполнено полное плановое техническое обслуживание диодного лазера: заменена охлаждающая жидкость, очищены внутренние компоненты, проверена мощность диода и загерметизирована манипула.",
         "Этот случай показывает, насколько важно обслуживать оборудование регулярно, а не только после появления неисправностей.",
         "Laser Tech Service выполняет диагностику, техническое обслуживание, восстановление и ремонт лазерного оборудования в Варшаве и по всей Польше."
+      ]
+    },
+    {
+      "id": "case:ru:realizacje:obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav",
+      "title": "Обслуживание диодного лазера в PURE STUDIO, Вроцлав — замена корпуса манипулы и проверка мощности",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/",
+      "description": "Замена корпуса манипулы, очистка оптики, герметизация и проверка мощности диодного лазера в PURE STUDIO, Вроцлав.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "PURE STUDIO"
+      },
+      "fault": [
+        "Отправьте название и модель аппарата, фотографии и краткое описание проблемы. На этой основе определим дальнейшие действия."
+      ],
+      "performed_work": [],
+      "result": [
+        "Специалисты Laser Tech Service заменили корпус и кнопку манипулы, очистили внутренние элементы, обслужили оптический узел, выполнили герметизацию и проверили параметры лазерного излучения.",
+        "После сборки проведённая сервисная проверка подтвердила работоспособность манипулы в проверенном диапазоне.",
+        "Благодарим PURE STUDIO за доверие и ответственное отношение к состоянию косметологического оборудования.",
+        "Laser Tech Service выполняет диагностику, ремонт и техническое обслуживание диодных лазеров во Вроцлаве и по всей Польше.",
+        "Если вашему лазеру требуется обслуживание, ремонт манипулы или проверка мощности излучения, свяжитесь с нашими специалистами."
       ]
     },
     {
@@ -4565,6 +4680,7 @@
       "https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/": "https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/index.md",
       "https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/": "https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/index.md",
       "https://lasertechservice.pl/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/": "https://lasertechservice.pl/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/index.md",
+      "https://lasertechservice.pl/blog/dlaczego-regularny-serwis-lasera-jest-wazny-pure-studio/": "https://lasertechservice.pl/blog/dlaczego-regularny-serwis-lasera-jest-wazny-pure-studio/index.md",
       "https://lasertechservice.pl/blog/dlaczego-serwisowac-laser-diodowy-co-6-miesiecy/": "https://lasertechservice.pl/blog/dlaczego-serwisowac-laser-diodowy-co-6-miesiecy/index.md",
       "https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/": "https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/index.md",
       "https://lasertechservice.pl/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/": "https://lasertechservice.pl/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/index.md",
@@ -4624,6 +4740,7 @@
       "https://lasertechservice.pl/en/blog/why-diode-laser-maintenance-every-six-months-matters/": "https://lasertechservice.pl/en/blog/why-diode-laser-maintenance-every-six-months-matters/index.md",
       "https://lasertechservice.pl/en/blog/why-handpiece-cooling-tubes-leak/": "https://lasertechservice.pl/en/blog/why-handpiece-cooling-tubes-leak/index.md",
       "https://lasertechservice.pl/en/blog/why-laser-diode-modules-fail/": "https://lasertechservice.pl/en/blog/why-laser-diode-modules-fail/index.md",
+      "https://lasertechservice.pl/en/blog/why-regular-laser-maintenance-matters-pure-studio/": "https://lasertechservice.pl/en/blog/why-regular-laser-maintenance-matters-pure-studio/index.md",
       "https://lasertechservice.pl/en/case-studies/": "https://lasertechservice.pl/en/case-studies/index.md",
       "https://lasertechservice.pl/en/case-studies/3000-nain-power-supply-repair/": "https://lasertechservice.pl/en/case-studies/3000-nain-power-supply-repair/index.md",
       "https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/": "https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/index.md",
@@ -4635,6 +4752,7 @@
       "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-replacement-wroclaw/": "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-replacement-wroclaw/index.md",
       "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-service-poznan/": "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-service-poznan/index.md",
       "https://lasertechservice.pl/en/case-studies/diode-laser-overheating-gliwice-water-filter/": "https://lasertechservice.pl/en/case-studies/diode-laser-overheating-gliwice-water-filter/index.md",
+      "https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/": "https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/index.md",
       "https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/": "https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/index.md",
       "https://lasertechservice.pl/en/case-studies/estelase-power-p808l-maintenance/": "https://lasertechservice.pl/en/case-studies/estelase-power-p808l-maintenance/index.md",
       "https://lasertechservice.pl/en/case-studies/estetech-peltier-module-replacement-poznan/": "https://lasertechservice.pl/en/case-studies/estetech-peltier-module-replacement-poznan/index.md",
@@ -4704,6 +4822,7 @@
       "https://lasertechservice.pl/realizacje/serwis-gme-exsys-308/": "https://lasertechservice.pl/realizacje/serwis-gme-exsys-308/index.md",
       "https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/": "https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/index.md",
       "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/": "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/index.md",
+      "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/": "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/index.md",
       "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/": "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/index.md",
       "https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/": "https://lasertechservice.pl/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/index.md",
       "https://lasertechservice.pl/realizacje/serwis-lasera-sapphire-wymiana-plynu/": "https://lasertechservice.pl/realizacje/serwis-lasera-sapphire-wymiana-plynu/index.md",
@@ -4739,6 +4858,7 @@
       "https://lasertechservice.pl/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/": "https://lasertechservice.pl/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/index.md",
       "https://lasertechservice.pl/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/": "https://lasertechservice.pl/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/index.md",
       "https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/": "https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/index.md",
+      "https://lasertechservice.pl/ru/blog/pochemu-vazhno-obsluzhivat-lazer-pure-studio/": "https://lasertechservice.pl/ru/blog/pochemu-vazhno-obsluzhivat-lazer-pure-studio/index.md",
       "https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/": "https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/index.md",
       "https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/": "https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/index.md",
       "https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/": "https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/index.md",
@@ -4760,6 +4880,7 @@
       "https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/": "https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/index.md",
       "https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/": "https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/index.md",
       "https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/": "https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/index.md",
+      "https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/": "https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/index.md",
       "https://lasertechservice.pl/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/": "https://lasertechservice.pl/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/index.md",
       "https://lasertechservice.pl/ru/realizacje/peregrev-lazernoy-manipuly-lyubin-remont-provodov/": "https://lasertechservice.pl/ru/realizacje/peregrev-lazernoy-manipuly-lyubin-remont-provodov/index.md",
       "https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/": "https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/index.md",
@@ -4821,5 +4942,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-11-10T13:26:43Z"
+  "generated_at": "2026-11-10T18:52:05Z"
 }

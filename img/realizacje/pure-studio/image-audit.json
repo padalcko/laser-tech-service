@@ -1,0 +1,386 @@
+[
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8609.heic",
+    "sha256": "116057233e82a8ab829a11903fc1a042c2f979c6c65f5399e8500e046ea6ac0d",
+    "original_dimensions": [
+      3213,
+      5712
+    ],
+    "original_bytes": 1768173,
+    "processing": "Orientation normalized; no cropping, retouching or tonal changes; discreet bottom-right Laser Tech Service watermark; metadata removed",
+    "files": [
+      {
+        "path": "img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera-320w.webp",
+        "width": 320,
+        "height": 569,
+        "bytes": 9574
+      },
+      {
+        "path": "img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 18218
+      },
+      {
+        "path": "img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera-640w.webp",
+        "width": 640,
+        "height": 1138,
+        "bytes": 28686
+      },
+      {
+        "path": "img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 39936
+      },
+      {
+        "path": "img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera-960w.webp",
+        "width": 960,
+        "height": 1707,
+        "bytes": 57620
+      },
+      {
+        "path": "img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 94826
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8606.heic",
+    "sha256": "5c84695f7916508e4e2fafd62dc0be859a597591d42c2bd95ad94dcca2d57d5d",
+    "original_dimensions": [
+      3213,
+      5712
+    ],
+    "original_bytes": 2553776,
+    "processing": "Orientation normalized; no cropping, retouching or tonal changes; discreet bottom-right Laser Tech Service watermark; metadata removed",
+    "files": [
+      {
+        "path": "img/realizacje/pure-studio/pomiar-mocy-lasera-laserpoint-wroclaw-320w.webp",
+        "width": 320,
+        "height": 569,
+        "bytes": 24178
+      },
+      {
+        "path": "img/realizacje/pure-studio/pomiar-mocy-lasera-laserpoint-wroclaw-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 49004
+      },
+      {
+        "path": "img/realizacje/pure-studio/pomiar-mocy-lasera-laserpoint-wroclaw-640w.webp",
+        "width": 640,
+        "height": 1138,
+        "bytes": 85190
+      },
+      {
+        "path": "img/realizacje/pure-studio/pomiar-mocy-lasera-laserpoint-wroclaw-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 123874
+      },
+      {
+        "path": "img/realizacje/pure-studio/pomiar-mocy-lasera-laserpoint-wroclaw-960w.webp",
+        "width": 960,
+        "height": 1707,
+        "bytes": 190740
+      },
+      {
+        "path": "img/realizacje/pure-studio/pomiar-mocy-lasera-laserpoint-wroclaw.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 329138
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8607.heic",
+    "sha256": "ae5ef00ad7da4928be65e2fda6cf1f3f8cc6a8bef40c668bfeebe6110fcec3eb",
+    "original_dimensions": [
+      2268,
+      4032
+    ],
+    "original_bytes": 1930932,
+    "processing": "Orientation normalized; no cropping, retouching or tonal changes; discreet bottom-right Laser Tech Service watermark; metadata removed",
+    "files": [
+      {
+        "path": "img/realizacje/pure-studio/kontrola-energii-lasera-diodowego-320w.webp",
+        "width": 320,
+        "height": 569,
+        "bytes": 54362
+      },
+      {
+        "path": "img/realizacje/pure-studio/kontrola-energii-lasera-diodowego-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 118830
+      },
+      {
+        "path": "img/realizacje/pure-studio/kontrola-energii-lasera-diodowego-640w.webp",
+        "width": 640,
+        "height": 1138,
+        "bytes": 197622
+      },
+      {
+        "path": "img/realizacje/pure-studio/kontrola-energii-lasera-diodowego-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 269964
+      },
+      {
+        "path": "img/realizacje/pure-studio/kontrola-energii-lasera-diodowego-960w.webp",
+        "width": 960,
+        "height": 1707,
+        "bytes": 382742
+      },
+      {
+        "path": "img/realizacje/pure-studio/kontrola-energii-lasera-diodowego.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 572416
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8603.heic",
+    "sha256": "e45ca8b13c3a65b1f235945df83e6d1c5a95637eb8704b7bd6ec09e3063f822e",
+    "original_dimensions": [
+      4032,
+      2268
+    ],
+    "original_bytes": 837185,
+    "processing": "Orientation normalized; no cropping, retouching or tonal changes; discreet bottom-right Laser Tech Service watermark; metadata removed",
+    "files": [
+      {
+        "path": "img/realizacje/pure-studio/naprawa-manipuly-lasera-diodowego-320w.webp",
+        "width": 320,
+        "height": 180,
+        "bytes": 8084
+      },
+      {
+        "path": "img/realizacje/pure-studio/naprawa-manipuly-lasera-diodowego-480w.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 14334
+      },
+      {
+        "path": "img/realizacje/pure-studio/naprawa-manipuly-lasera-diodowego-640w.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 21348
+      },
+      {
+        "path": "img/realizacje/pure-studio/naprawa-manipuly-lasera-diodowego-768w.webp",
+        "width": 768,
+        "height": 432,
+        "bytes": 27922
+      },
+      {
+        "path": "img/realizacje/pure-studio/naprawa-manipuly-lasera-diodowego-960w.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 38104
+      },
+      {
+        "path": "img/realizacje/pure-studio/naprawa-manipuly-lasera-diodowego.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 57390
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8602.heic",
+    "sha256": "2f751972e67d3a0bfb3bc67f96b9fa6fa8eb61441eef0dd2f4aa2d449e02caa2",
+    "original_dimensions": [
+      4032,
+      2268
+    ],
+    "original_bytes": 775870,
+    "processing": "Orientation normalized; no cropping, retouching or tonal changes; discreet bottom-right Laser Tech Service watermark; metadata removed",
+    "files": [
+      {
+        "path": "img/realizacje/pure-studio/czyszczenie-optyki-lasera-320w.webp",
+        "width": 320,
+        "height": 180,
+        "bytes": 8870
+      },
+      {
+        "path": "img/realizacje/pure-studio/czyszczenie-optyki-lasera-480w.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 15090
+      },
+      {
+        "path": "img/realizacje/pure-studio/czyszczenie-optyki-lasera-640w.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 22384
+      },
+      {
+        "path": "img/realizacje/pure-studio/czyszczenie-optyki-lasera-768w.webp",
+        "width": 768,
+        "height": 432,
+        "bytes": 28360
+      },
+      {
+        "path": "img/realizacje/pure-studio/czyszczenie-optyki-lasera-960w.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 39136
+      },
+      {
+        "path": "img/realizacje/pure-studio/czyszczenie-optyki-lasera.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 58614
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8600.heic",
+    "sha256": "c66a8aae6087f4db6529a7731e159f3c12322d86cec156455eb137661ae880a7",
+    "original_dimensions": [
+      3213,
+      5712
+    ],
+    "original_bytes": 1709266,
+    "processing": "Orientation normalized; no cropping, retouching or tonal changes; discreet bottom-right Laser Tech Service watermark; metadata removed",
+    "files": [
+      {
+        "path": "img/realizacje/pure-studio/wymiana-obudowy-manipuly-320w.webp",
+        "width": 320,
+        "height": 569,
+        "bytes": 14888
+      },
+      {
+        "path": "img/realizacje/pure-studio/wymiana-obudowy-manipuly-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 25244
+      },
+      {
+        "path": "img/realizacje/pure-studio/wymiana-obudowy-manipuly-640w.webp",
+        "width": 640,
+        "height": 1138,
+        "bytes": 37516
+      },
+      {
+        "path": "img/realizacje/pure-studio/wymiana-obudowy-manipuly-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 49046
+      },
+      {
+        "path": "img/realizacje/pure-studio/wymiana-obudowy-manipuly-960w.webp",
+        "width": 960,
+        "height": 1707,
+        "bytes": 69586
+      },
+      {
+        "path": "img/realizacje/pure-studio/wymiana-obudowy-manipuly.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 111396
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8604.heic",
+    "sha256": "207e4cbc50125c07680176353b5ff30a4e9a7c3956e9833ef869d2a9f5d620f4",
+    "original_dimensions": [
+      3213,
+      5712
+    ],
+    "original_bytes": 1507258,
+    "processing": "Orientation normalized; no cropping, retouching or tonal changes; discreet bottom-right Laser Tech Service watermark; metadata removed",
+    "files": [
+      {
+        "path": "img/realizacje/pure-studio/serwis-glowicy-lasera-wroclaw-320w.webp",
+        "width": 320,
+        "height": 569,
+        "bytes": 15276
+      },
+      {
+        "path": "img/realizacje/pure-studio/serwis-glowicy-lasera-wroclaw-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 30538
+      },
+      {
+        "path": "img/realizacje/pure-studio/serwis-glowicy-lasera-wroclaw-640w.webp",
+        "width": 640,
+        "height": 1138,
+        "bytes": 49810
+      },
+      {
+        "path": "img/realizacje/pure-studio/serwis-glowicy-lasera-wroclaw-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 66912
+      },
+      {
+        "path": "img/realizacje/pure-studio/serwis-glowicy-lasera-wroclaw-960w.webp",
+        "width": 960,
+        "height": 1707,
+        "bytes": 92728
+      },
+      {
+        "path": "img/realizacje/pure-studio/serwis-glowicy-lasera-wroclaw.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 142260
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/IMG_8598.heic",
+    "sha256": "cdff242d265e1e044093dc71885ec4d0a65d63b5076d219d435afbab63c98f23",
+    "original_dimensions": [
+      3213,
+      5712
+    ],
+    "original_bytes": 1556154,
+    "processing": "Orientation normalized; no cropping, retouching or tonal changes; discreet bottom-right Laser Tech Service watermark; metadata removed",
+    "files": [
+      {
+        "path": "img/realizacje/pure-studio/konserwacja-lasera-diodowego-pure-studio-320w.webp",
+        "width": 320,
+        "height": 569,
+        "bytes": 20118
+      },
+      {
+        "path": "img/realizacje/pure-studio/konserwacja-lasera-diodowego-pure-studio-480w.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 32754
+      },
+      {
+        "path": "img/realizacje/pure-studio/konserwacja-lasera-diodowego-pure-studio-640w.webp",
+        "width": 640,
+        "height": 1138,
+        "bytes": 46424
+      },
+      {
+        "path": "img/realizacje/pure-studio/konserwacja-lasera-diodowego-pure-studio-768w.webp",
+        "width": 768,
+        "height": 1365,
+        "bytes": 58736
+      },
+      {
+        "path": "img/realizacje/pure-studio/konserwacja-lasera-diodowego-pure-studio-960w.webp",
+        "width": 960,
+        "height": 1707,
+        "bytes": 76544
+      },
+      {
+        "path": "img/realizacje/pure-studio/konserwacja-lasera-diodowego-pure-studio.webp",
+        "width": 1280,
+        "height": 2276,
+        "bytes": 107826
+      }
+    ]
+  }
+]
