@@ -22,17 +22,17 @@ A small seal with major consequences: after the owner replaced a seal, coolant e
 
 A laser with a damaged diode module required repair in Poznań. The failure followed the owner’s replacement of a seal between parts of the handpiece assembly. The diode itself was not the initial cause.
 
+![Removed diode module with contamination beside the open housing](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/zdemontowany-modul-diodowy-po-zalaniu-poznan.webp)
+
 ## Diagnosis: liquid inside the assembly
 
 Opening the handpiece revealed traces of liquid, contamination and dark deposits on the module components and inside its housing. The photographs document the damaged component after liquid ingress. They do not show a new module or measurements of its performance.
 
 ## Damage documentation
 
-![Removed diode module with contamination beside the open housing](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/zdemontowany-modul-diodowy-po-zalaniu-poznan.webp)
+![Dismantled laser handpiece with cooling hoses and the removed module](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/rozebrana-manipula-lasera-uklad-chlodzenia-poznan.webp)
 
 ![Liquid droplets and dark deposits inside the laser module housing](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/slady-cieczy-wewnatrz-modulu-lasera-poznan.webp)
-
-![Dismantled laser handpiece with cooling hoses and the removed module](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/rozebrana-manipula-lasera-uklad-chlodzenia-poznan.webp)
 
 ## Cause: an incorrectly fitted seal
 

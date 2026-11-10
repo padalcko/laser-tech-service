@@ -24,6 +24,8 @@ Kompleksowa diagnostyka i naprawa urządzenia Cavi Shape Advanced we Wrocławiu.
 
 - Lokalizacja: Wrocław
 
+![Technik przy otwartej obudowie Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-01.webp)
+
 ## Kilka usterek w jednym urządzeniu
 
 Urządzenie **Cavi Shape Advanced** wymagało kompleksowej diagnostyki kilku funkcji jednocześnie.
@@ -52,13 +54,13 @@ Po rozebraniu urządzenia sprawdziliśmy przewody, połączenia, styki oraz stan
 
 - ogólne zabrudzenie urządzenia wynikające z eksploatacji
 
+![Pomiar sygnałów podczas diagnostyki Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-10.webp)
+
 ## Kontrola sygnałów i połączeń
 
 Podczas diagnostyki wykonaliśmy pomiary elektryczne oraz kontrolę sygnałów odpowiedzialnych za pracę poszczególnych funkcji urządzenia.
 
 Dzięki pomiarom mogliśmy sprawdzić ciągłość połączeń oraz zlokalizować miejsca, w których występował nieprawidłowy kontakt.
-
-![Pomiar sygnałów podczas diagnostyki Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-10.webp)
 
 ## Diagnostyka Cavi Shape Advanced
 
@@ -131,8 +133,6 @@ Po zakończeniu prac wykonaliśmy kontrolę działania urządzenia oraz naprawio
 [Otwórz film na YouTube →](https://youtube.com/shorts/gFV7yQUg8kA)
 
 ## Zdjęcia z serwisu Cavi Shape Advanced
-
-![Technik przy otwartej obudowie Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-01.webp)
 
 ![Serwisant z narzędziami obok Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-02.webp)
 

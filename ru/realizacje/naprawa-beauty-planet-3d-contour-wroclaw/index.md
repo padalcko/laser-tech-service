@@ -48,6 +48,8 @@ Beauty Planet 3D Contour
 
 - необходимость проверки электрических соединений манипулы
 
+![Проверка вакуума и RF Beauty Planet 3D Contour после ремонта](https://lasertechservice.pl/img/realizacje/beauty-planet-3d-contour-wroclaw/beauty-planet-3d-contour-vacuum-rf-test.webp)
+
 ## Проверка функций манипулы
 
 После ремонта проверили функции, обеспечивающие работу манипулы.
@@ -55,8 +57,6 @@ Beauty Planet 3D Contour
 Система Beauty Planet 3D Contour позволяет регулировать уровень вакуума и параметры RF непосредственно через интерфейс аппарата.
 
 После восстановления электропитания проверили работу отремонтированных функций.
-
-![Проверка вакуума и RF Beauty Planet 3D Contour после ремонта](https://lasertechservice.pl/img/realizacje/beauty-planet-3d-contour-wroclaw/beauty-planet-3d-contour-vacuum-rf-test.webp)
 
 ## Что было сделано?
 

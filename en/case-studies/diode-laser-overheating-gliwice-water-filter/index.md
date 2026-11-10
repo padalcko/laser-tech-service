@@ -26,6 +26,8 @@ An urgent on-site visit to Gliwice for an overheating diode laser. A cracked fit
 
 We received an urgent request from Gliwice about an overheating diode laser used for hair removal. An on-site technician was needed.
 
+![Removed water filter from a diode laser cooling system](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/wymiana-filtra-wody-laser-diodowy-gliwice.webp)
+
 ## Diagnosis
 
 During the cooling system inspection, our technician identified the cause. A fitting near the water filter had cracked at the connection between the filter and the cooling hose.
@@ -43,8 +45,6 @@ The laser is working again. This failure highlights the importance of regularly 
 Laser Tech Service provides laser servicing, refurbishment and aesthetic laser repairs, including on-site visits.
 
 ## Service photographs from Gliwice
-
-![Removed water filter from a diode laser cooling system](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/wymiana-filtra-wody-laser-diodowy-gliwice.webp)
 
 ![Service access to the diode laser cooling system filter](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/uklad-chlodzenia-lasera-diodowego-gliwice.webp)
 

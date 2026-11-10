@@ -22,9 +22,13 @@ Nowy klient z Pragi zgłosił brak chłodzenia i komunikat „Water flow error�
 
 - Zakres: Wymiana szczotek i regeneracja pompy
 
+![Aparat Unique Light System E808 z ekranem i manipułą](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/laser-unique-light-system-e808-widok-ogolny.webp)
+
 ## Objawy usterki
 
 W urządzeniu Unique Light System E808 znajdowała się ciecz chłodząca, ale chłodzenie nie działało. Na ekranie pojawiał się komunikat „Water flow error”. Zgłoszenie dotyczyło aparatu do depilacji z cieczowym układem chłodzenia.
+
+![Komunikat Water flow error na ekranie aparatu E808](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/e808-water-flow-error-ekran.webp)
 
 ## Diagnoza na miejscu
 
@@ -47,10 +51,6 @@ Technik Laser Tech Service przyjechał do klienta w Pradze i sprawdził układ c
 Po naprawie pompy przywrócono cyrkulację płynu chłodzącego i aparat ponownie działa. Wykorzystanie naprawionego zespołu zamiast zakupu nowej pompy pozwoliło klientowi zaoszczędzić pieniądze.
 
 ## Zdjęcia z naprawy w Pradze
-
-![Aparat Unique Light System E808 z ekranem i manipułą](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/laser-unique-light-system-e808-widok-ogolny.webp)
-
-![Komunikat Water flow error na ekranie aparatu E808](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/e808-water-flow-error-ekran.webp)
 
 ![Technik przy tylnej obudowie lasera E808](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/e808-dostep-serwisowy-obudowa.webp)
 

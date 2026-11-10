@@ -62,6 +62,8 @@ The work included resolving the handpiece fault and carrying out routine device 
 
 - final device operational test
 
+![HIFU KIMED K1-W1601 handpiece repair](https://lasertechservice.pl/img/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz-2.webp)
+
 ## Non-working handpiece
 
 One of the main reasons for the service visit was a **non-working HIFU handpiece**.
@@ -69,8 +71,6 @@ One of the main reasons for the service visit was a **non-working HIFU handpiece
 We diagnosed the problem and repaired the handpiece. After completing the work, we checked its operation with the device.
 
 The repaired handpiece was checked before the final test of the complete KIMED K1-W1601 system.
-
-![HIFU KIMED K1-W1601 handpiece repair](https://lasertechservice.pl/img/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz-2.webp)
 
 ![Cleaning the KIMED K1-W1601 water reservoir](https://lasertechservice.pl/img/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz-3.webp)
 

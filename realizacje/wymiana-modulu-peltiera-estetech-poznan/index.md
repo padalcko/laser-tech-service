@@ -32,11 +32,15 @@ Wyjazdowa naprawa ESTETECH w Poznaniu: wymiana modułu Peltiera, odnowienie term
 
 Klient w Poznaniu zgłosił niesprawność kontaktowego chłodzenia manipuły lasera ESTETECH. Powierzchnia robocza przestała się odpowiednio chłodzić, co uniemożliwiało normalne użytkowanie głowicy. Kontaktowe chłodzenie pomaga kontrolować temperaturę skóry podczas procedury, zwiększa komfort i ogranicza ryzyko niepożądanego oddziaływania cieplnego.
 
+![Otwarta obudowa manipuły ESTETECH z przewodami i metalowym zespołem wewnętrznym](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp)
+
 ## Diagnostyka u klienta w Poznaniu
 
 Specjaliści Laser Tech Service przyjechali bezpośrednio do klienta. Diagnostyka wykazała niesprawność termoelektrycznego modułu Peltiera. Ten element pod wpływem prądu przenosi ciepło z chłodzonej strony na stronę, z której odbiera je dalsza część układu.
 
 W tym zleceniu potwierdzono uszkodzenie modułu jako przyczynę braku prawidłowego chłodzenia. Sam objaw nie pozwala jednak wskazać TEC w każdym urządzeniu: podobny problem może mieć inne źródło i wymaga profesjonalnej diagnostyki. Nie określamy przyczyny uszkodzenia samego modułu bez dodatkowych danych.
+
+![Wnętrze głowicy ESTETECH z płytką elektroniczną, okablowaniem i przyłączami](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-wnetrze-glowicy.webp)
 
 ## Wymiana modułu Peltiera i obsługa techniczna
 
@@ -68,10 +72,6 @@ Inny problem z chłodzeniem przedstawia [realizacja wymiany wentylatorów we Wro
 ## Zdjęcia z naprawy
 
 Wybierz zdjęcie, aby zobaczyć szczegóły.
-
-![Otwarta obudowa manipuły ESTETECH z przewodami i metalowym zespołem wewnętrznym](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp)
-
-![Wnętrze głowicy ESTETECH z płytką elektroniczną, okablowaniem i przyłączami](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-wnetrze-glowicy.webp)
 
 ![Obudowa aparatu laserowego z oznaczeniem ESTETECH podczas serwisu w Poznaniu](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-aparat-poznan.webp)
 

@@ -22,17 +22,17 @@ Niewielka uszczelka, duże konsekwencje: po samodzielnej wymianie uszczelnienia 
 
 Do naprawy w Poznaniu trafił laser z uszkodzonym modułem diodowym. Awaria nastąpiła po samodzielnej wymianie przez właściciela uszczelki pomiędzy elementami węzła manipuły. To nie sama dioda była początkiem problemu.
 
+![Zdemontowany moduł diodowy z zabrudzeniami obok otwartej obudowy](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/zdemontowany-modul-diodowy-po-zalaniu-poznan.webp)
+
 ## Diagnoza: ciecz wewnątrz węzła
 
 Po otwarciu manipuły widoczne były ślady cieczy, zabrudzenia i ciemne osady na elementach modułu oraz wewnątrz jego obudowy. Zdjęcia dokumentują stan uszkodzonego podzespołu po zalaniu. Nie przedstawiają nowego modułu ani pomiarów jego pracy.
 
 ## Dokumentacja uszkodzeń
 
-![Zdemontowany moduł diodowy z zabrudzeniami obok otwartej obudowy](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/zdemontowany-modul-diodowy-po-zalaniu-poznan.webp)
+![Rozebrana manipuła lasera z przewodami chłodzenia i wymontowanym modułem](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/rozebrana-manipula-lasera-uklad-chlodzenia-poznan.webp)
 
 ![Krople cieczy i ciemne osady wewnątrz obudowy modułu laserowego](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/slady-cieczy-wewnatrz-modulu-lasera-poznan.webp)
-
-![Rozebrana manipuła lasera z przewodami chłodzenia i wymontowanym modułem](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/rozebrana-manipula-lasera-uklad-chlodzenia-poznan.webp)
 
 ## Przyczyna: nieprawidłowo zamontowana uszczelka
 

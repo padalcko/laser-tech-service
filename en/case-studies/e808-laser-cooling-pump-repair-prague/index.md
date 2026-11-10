@@ -22,9 +22,13 @@ A new customer in Prague reported no cooling and a “Water flow error” messag
 
 - Work performed: Carbon brush replacement and pump repair
 
+![Unique Light System E808 with its display and handpiece](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/laser-unique-light-system-e808-widok-ogolny.webp)
+
 ## Fault symptoms
 
 The Unique Light System E808 contained coolant, but the cooling system was not working. Its display showed “Water flow error”. The service request concerned a laser hair removal device with a liquid cooling system.
+
+![Water flow error message on the E808 display](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/e808-water-flow-error-ekran.webp)
 
 ## On-site diagnosis
 
@@ -47,10 +51,6 @@ A Laser Tech Service technician travelled to the customer in Prague and checked 
 Repairing the pump restored coolant circulation and the device is working again. Reusing the repaired assembly saved the customer the expense of buying a new pump.
 
 ## Photos from the repair in Prague
-
-![Unique Light System E808 with its display and handpiece](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/laser-unique-light-system-e808-widok-ogolny.webp)
-
-![Water flow error message on the E808 display](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/e808-water-flow-error-ekran.webp)
 
 ![Technician working at the rear casing of the E808](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/e808-dostep-serwisowy-obudowa.webp)
 

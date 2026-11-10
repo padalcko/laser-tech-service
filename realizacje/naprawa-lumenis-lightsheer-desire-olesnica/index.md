@@ -22,6 +22,8 @@ Wyciek przy podłączaniu manipuły i przegrzewanie aparatu wymagały diagnostyk
 
 - Zakres: Chłodzenie i szczelność
 
+![Lumenis LightSheer DESIRE z ekranem logowania w gabinecie w Oleśnicy](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lumenis-lightsheer-desire-aparat-olesnica.webp)
+
 ## Zgłoszenie: płyn wyciekał podczas podłączania głowicy
 
 Właściciel Lumenis LightSheer DESIRE zgłosił wyciek chłodziwa z konektora podczas podłączania manipuły. Jednocześnie urządzenie miało problemy z temperaturą: układ nie zapewniał prawidłowego chłodzenia, aparat przegrzewał się i nie mógł normalnie pracować. Laser Tech Service zorganizował wyjazd techniczny bezpośrednio do klienta w Oleśnicy, w województwie dolnośląskim.
@@ -33,6 +35,8 @@ Serwis dotyczył profesjonalnego lasera diodowego do redukcji owłosienia, użyt
 ## Ślady płynu przy złączu
 
 Na zdjęciu widać ciecz poniżej odsłoniętego konektora. To dokumentacja objawu zgłoszonego przez klienta, wymagającego sprawdzenia połączenia hydraulicznego.
+
+![Manipuła w uchwycie obok panelu LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-manipula-przy-aparacie.webp)
 
 ## Diagnostyka obiegu i złącza hydraulicznego
 
@@ -52,6 +56,8 @@ Problem obejmował więc współwystępujące zabrudzenie, nieprawidłową prac�
 
 Twarde osady zasłaniają część powierzchni siatki. Takie zanieczyszczenie może utrudniać przepływ w obiegu chłodzenia. Dokładny skład złogów nie został określony analizą.
 
+![Technik przy złączu manipuły LightSheer DESIRE; ekran pokazuje komunikat o podłączeniu głowicy](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-obsluga-zlacza-manipuly.webp)
+
 ## Zakres wykonanych prac
 
 1. Wyjazd specjalisty do klienta w Oleśnicy.
@@ -68,12 +74,6 @@ Twarde osady zasłaniają część powierzchni siatki. Takie zanieczyszczenie mo
 Zakres nie wymagał przypisywania temu zleceniu wymiany całej pompy, elektroniki ani modułu diodowego. Fotografie przedstawiają dostęp do podzespołów i kolejne etapy pracy serwisowej.
 
 ## Dokumentacja prac i urządzenia
-
-![Lumenis LightSheer DESIRE z ekranem logowania w gabinecie w Oleśnicy](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lumenis-lightsheer-desire-aparat-olesnica.webp)
-
-![Manipuła w uchwycie obok panelu LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-manipula-przy-aparacie.webp)
-
-![Technik przy złączu manipuły LightSheer DESIRE; ekran pokazuje komunikat o podłączeniu głowicy](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-obsluga-zlacza-manipuly.webp)
 
 ![Demontowany metalowy węzeł połączenia i biały element hydrauliczny w rękach technika](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-demontaz-wezla-hydraulicznego.webp)
 

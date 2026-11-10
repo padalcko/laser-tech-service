@@ -52,6 +52,8 @@ Kontrola wykazała, że przewód doprowadzający wodę do głowicy RF był uszko
 
 - przygotowanie głowicy do wymiany przewodu
 
+![Naprawa i wymiana przewodu chłodzenia głowicy RF Alma Accent](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/naprawa-glowicy-rf-alma-accent-gorlitz.webp)
+
 ## Wymiana uszkodzonego przewodu chłodzenia
 
 Uszkodzony przewód został usunięty i zastąpiony nowym elementem.
@@ -59,8 +61,6 @@ Uszkodzony przewód został usunięty i zastąpiony nowym elementem.
 Podczas montażu zwróciliśmy uwagę na prawidłowe poprowadzenie przewodu wewnątrz obudowy głowicy oraz jego poprawne podłączenie.
 
 Po zakończeniu prac głowica została ponownie złożona, a układ doprowadzania wody sprawdzony.
-
-![Naprawa i wymiana przewodu chłodzenia głowicy RF Alma Accent](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/naprawa-glowicy-rf-alma-accent-gorlitz.webp)
 
 ![Alma Accent RFD 1200 podczas serwisu w Görlitz](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/alma-accent-rfd-1200-serwis-gorlitz.webp)
 

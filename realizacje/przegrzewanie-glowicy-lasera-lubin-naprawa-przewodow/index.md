@@ -26,6 +26,8 @@ Pilny wyjazd serwisowy do Lubina. Głowica lasera przegrzewała się z powodu zb
 
 Do Laser Tech Service zgłosił się klient z Lubina z problemem przegrzewającej się głowicy lasera do depilacji. Urządzenie wymagało interwencji technicznej.
 
+![Otwarty zespół manipuły laserowej z widocznymi przewodami i połączeniami](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/laser-diodowy-przewody-polaczenie-lubin.webp)
+
 ## Diagnoza
 
 Podczas kontroli połączeń elektrycznych technicy stwierdzili, że przewody podłączone do diody laserowej były zbyt długie dla zastosowanej konfiguracji. Powodowało to problemy z pracą układu i przegrzewanie głowicy.
@@ -43,8 +45,6 @@ Po wykonaniu prac głowica lasera przestała się przegrzewać i urządzenie pon
 Laser Tech Service realizuje profesjonalny **serwis laserów**, **naprawę laserów** oraz **regenerację laserów** kosmetycznych na terenie Polski.
 
 ## Zdjęcia z serwisu w Lubinie
-
-![Otwarty zespół manipuły laserowej z widocznymi przewodami i połączeniami](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/laser-diodowy-przewody-polaczenie-lubin.webp)
 
 ![Technik lutuje przewody przy otwartej manipule laserowej](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/naprawa-polaczenia-diody-laserowej-lubin.webp)
 

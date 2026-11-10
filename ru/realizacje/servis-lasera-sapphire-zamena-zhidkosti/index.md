@@ -22,11 +22,15 @@ Sapphire
 
 - Выполненные работы: Замена жидкости и обслуживание
 
+![Табличка Sapphire с датой 31.05.2018](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-tabliczka-znamionowa.webp)
+
 ## Проблема: недостаточное количество охлаждающей жидкости
 
 При осмотре во время сервисного визита обнаружено недостаточное количество жидкости в системе охлаждения. Это подтверждённое состояние аппарата перед обслуживанием. Причина потери жидкости в описании работ не установлена, поэтому мы не связываем её с утечкой или повреждением конкретного узла.
 
 На табличке Sapphire указана дата 31.05.2018. Это не дата данного сервисного визита. Сама табличка не определяет текущее техническое состояние или эффективность процедур.
+
+![Специалист у задней панели Sapphire](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-demontaz-obudowy.webp)
 
 ## Выполненные работы
 
@@ -36,6 +40,8 @@ Sapphire
 4. Заполнение контура новой охлаждающей жидкостью.
 5. Очистка аппарата.
 6. Запуск устройства и проверка его работы.
+
+![Внутренние узлы Sapphire во время обслуживания](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-wewnetrzne-podzespoly.webp)
 
 ## Обслуживание, ремонт и восстановление — разный объём работ
 
@@ -50,12 +56,6 @@ Sapphire
 Этот результат подтверждает проверку работы после обслуживания. Он не заменяет протокол измерения излучения и не является оценкой клинической эффективности. Фотографии документируют сервисный визит, а не исследование результатов процедур.
 
 ## Фотографии обслуживания Sapphire
-
-![Табличка Sapphire с датой 31.05.2018](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-tabliczka-znamionowa.webp)
-
-![Специалист у задней панели Sapphire](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-demontaz-obudowy.webp)
-
-![Внутренние узлы Sapphire во время обслуживания](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-wewnetrzne-podzespoly.webp)
 
 ![Трубки и элементы охлаждения Sapphire](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-uklad-chlodzenia.webp)
 

@@ -26,6 +26,8 @@ Laser Tech Service received a service request from Lubin, Poland, concerning an 
 
 Laser Tech Service received a service request from Lubin, Poland, concerning an overheating laser hair removal handpiece.
 
+![Open laser handpiece assembly with visible wires and connections](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/laser-diodowy-przewody-polaczenie-lubin.webp)
+
 ## Diagnosis
 
 During the inspection, our technicians identified excessively long electrical wires connected to the laser diode. In this particular configuration, the wiring contributed to the overheating problem.
@@ -43,8 +45,6 @@ Following the repair, the handpiece stopped overheating and the device returned 
 Laser Tech Service provides professional laser servicing, maintenance and repairs throughout Poland.
 
 ## Photos from the repair in Lubin
-
-![Open laser handpiece assembly with visible wires and connections](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/laser-diodowy-przewody-polaczenie-lubin.webp)
 
 ![Technician soldering wires beside the open laser handpiece](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/naprawa-polaczenia-diody-laserowej-lubin.webp)
 

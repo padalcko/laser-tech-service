@@ -20,11 +20,15 @@ A client in Wrocław reported a cooling fault in a Lumenis LightSheer DESIRE. Th
 
 - Equipment: Lumenis LightSheer DESIRE
 
+![Coolant reservoir during LightSheer DESIRE diagnostics](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-coolant-reservoir.webp)
+
 ## Problem: overheating and disrupted circulation
 
 Diagnostics revealed insufficient coolant, contaminated and yellowed tubing, and mineral deposits inside the tubes. Normal circulation was disrupted and heat removal from working components was insufficient. We did not determine the precise chemical composition of the deposits.
 
 When a laser does not cool its handpiece and displays a warning, the entire circuit needs assessment. The message alone does not identify a single component for replacement. In this case, inspection confirmed cooling system contamination and a circulation problem.
+
+![Exposed internal cooling components in the LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-internal-cooling-components.webp)
 
 ## Repair: work performed
 
@@ -39,6 +43,8 @@ When a laser does not cool its handpiece and displays a warning, the entire circ
 9. Checked cooling system operation.
 10. Reassembled the device and checked its operation.
 
+![Removing a LightSheer DESIRE housing panel](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-panel-removal.webp)
+
 ## Why does tubing replacement take time?
 
 The Lumenis LightSheer DESIRE has a compact internal layout. Access to tubing and cooling components is restricted, so replacement requires substantial disassembly, time and care. Labour covers access, installation and checks after reassembly, not just the cost of the tubes.
@@ -52,12 +58,6 @@ Replacing the tubing and coolant restored circulation. The cooling system operat
 Laser servicing, refurbishment and repairs are selected according to the actual condition of the equipment. This Lumenis LightSheer repair concerned the cooling circuit rather than diode module refurbishment. Our diode laser service began by identifying the cause of the symptoms.
 
 ## Repair photographs
-
-![Coolant reservoir during LightSheer DESIRE diagnostics](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-coolant-reservoir.webp)
-
-![Exposed internal cooling components in the LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-internal-cooling-components.webp)
-
-![Removing a LightSheer DESIRE housing panel](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-panel-removal.webp)
 
 ![Electronics and wiring inside the opened LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-internal-electronics.webp)
 

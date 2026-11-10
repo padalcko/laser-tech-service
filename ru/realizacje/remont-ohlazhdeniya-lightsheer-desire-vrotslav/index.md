@@ -20,11 +20,15 @@ Lumenis LightSheer DESIRE
 
 - Оборудование: Lumenis LightSheer DESIRE
 
+![Резервуар охлаждающей жидкости при диагностике LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-coolant-reservoir.webp)
+
 ## Проблема: перегрев и нарушение циркуляции
 
 При диагностике обнаружили недостаточное количество охлаждающей жидкости, загрязнённые и пожелтевшие трубки, а также минеральные отложения внутри них. Нормальная циркуляция была нарушена, тепло от рабочих компонентов отводилось недостаточно. Точный химический состав отложений не определяли.
 
 Если лазер не охлаждает манипулу и выдаёт предупреждение, необходимо проверить весь контур. Само сообщение не указывает однозначно, какую деталь следует заменить. В этом случае осмотр подтвердил загрязнение системы охлаждения и проблему с циркуляцией.
+
+![Открытые элементы охлаждения внутри LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-internal-cooling-components.webp)
 
 ## Ремонт: выполненные работы
 
@@ -39,6 +43,8 @@ Lumenis LightSheer DESIRE
 9. Контроль работы системы охлаждения.
 10. Сборка и проверка работоспособности аппарата.
 
+![Демонтаж корпусной панели LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-panel-removal.webp)
+
 ## Почему замена трубок требует времени?
 
 Lumenis LightSheer DESIRE имеет компактную внутреннюю конструкцию. Доступ к трубкам и элементам охлаждения ограничен: для замены нужны значительная разборка, время и аккуратность. Стоимость работы включает не только трубки, но и получение доступа, монтаж и проверку после сборки.
@@ -52,12 +58,6 @@ Lumenis LightSheer DESIRE имеет компактную внутреннюю �
 Сервис, восстановление и ремонт лазеров подбираются по фактическому состоянию оборудования. В данном случае ремонт Lumenis LightSheer касался охлаждения, а не восстановления диодного модуля. Сервис диодных лазеров начался с определения причины неисправности.
 
 ## Фотографии ремонта
-
-![Резервуар охлаждающей жидкости при диагностике LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-coolant-reservoir.webp)
-
-![Открытые элементы охлаждения внутри LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-internal-cooling-components.webp)
-
-![Демонтаж корпусной панели LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-panel-removal.webp)
 
 ![Электроника и провода внутри открытого LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-internal-electronics.webp)
 

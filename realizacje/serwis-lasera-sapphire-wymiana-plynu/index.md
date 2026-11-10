@@ -22,11 +22,15 @@ Specjalista Laser Tech Service przyjechał do klienta w Legnicy w celu obsługi 
 
 - Zakres: Wymiana płynu i konserwacja
 
+![Tabliczka Sapphire z datą 31.05.2018](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-tabliczka-znamionowa.webp)
+
 ## Problem: niedostateczna ilość płynu chłodzącego
 
 Oględziny podczas wizyty serwisowej wykazały brak wymaganej ilości płynu w układzie chłodzenia. To potwierdzony stan zastany przy obsłudze. Nie ustalono w przekazanym opisie przyczyny ubytku, dlatego nie przypisujemy go nieszczelności ani uszkodzeniu konkretnego podzespołu.
 
 Na tabliczce Sapphire widnieje data 31.05.2018. Nie jest to data tej wizyty serwisowej. Sama tabliczka nie określa obecnego stanu technicznego ani skuteczności zabiegów.
+
+![Specjalista przy tylnej części obudowy Sapphire](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-demontaz-obudowy.webp)
 
 ## Wykonane prace
 
@@ -36,6 +40,8 @@ Na tabliczce Sapphire widnieje data 31.05.2018. Nie jest to data tej wizyty serw
 4. Napełnienie układu nowym płynem chłodzącym.
 5. Oczyszczenie aparatu.
 6. Uruchomienie urządzenia i sprawdzenie jego działania.
+
+![Wnętrze Sapphire podczas dostępu serwisowego](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-wewnetrzne-podzespoly.webp)
 
 ## Serwis, naprawa i regeneracja — różny zakres prac
 
@@ -50,12 +56,6 @@ Po wymianie płynu i oczyszczeniu aparat uruchomiono i sprawdzono jego pracę. U
 Ten wynik potwierdza sprawdzenie działania po obsłudze. Nie zastępuje raportu z pomiarów promieniowania i nie stanowi oceny skuteczności klinicznej. Zdjęcia dokumentują wizytę serwisową, a nie badanie efektów zabiegów.
 
 ## Dokumentacja obsługi Sapphire
-
-![Tabliczka Sapphire z datą 31.05.2018](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-tabliczka-znamionowa.webp)
-
-![Specjalista przy tylnej części obudowy Sapphire](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-demontaz-obudowy.webp)
-
-![Wnętrze Sapphire podczas dostępu serwisowego](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-wewnetrzne-podzespoly.webp)
 
 ![Przewody i elementy układu chłodzenia Sapphire](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-uklad-chlodzenia.webp)
 

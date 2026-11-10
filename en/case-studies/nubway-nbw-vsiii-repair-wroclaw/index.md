@@ -58,6 +58,8 @@ After diagnostics, we began servicing several independent device systems.
 
 - checking device operation after servicing
 
+![NUBWAY NBW-VSIII vacuum system repair](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw-2.webp)
+
 ## Hose replacement and vacuum repair
 
 One of the main areas of work was the system responsible for generating and transmitting vacuum.
@@ -67,8 +69,6 @@ The hoses inside the device required replacement. They were removed and replaced
 The vacuum-generating component was also repaired. After the work, we checked the connections and system operation.
 
 A working vacuum system is essential for correct operation of device functions that use suction during treatments.
-
-![NUBWAY NBW-VSIII vacuum system repair](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw-2.webp)
 
 ![Repairing the NUBWAY NBW-VSIII RF component](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw-3.webp)
 

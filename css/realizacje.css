@@ -2100,3 +2100,18 @@
 
 }
 
+
+/* Pharaon layout: semantic figures and full-size photo links share the reference geometry. */
+[data-case-layout="pharaon"] .case-work-image { margin: 0; }
+[data-case-layout="pharaon"] .case-work-image > a,
+[data-case-layout="pharaon"] .case-hero__image > a { display: block; }
+[data-case-layout="pharaon"] .case-work-image figcaption {
+    padding: 14px 18px; font-size: 14px; line-height: 1.6; color: var(--text-soft);
+}
+[data-case-layout="pharaon"] .case-work-content { min-width: 0; }
+[data-case-layout="pharaon"] .case-hero__title { overflow-wrap: anywhere; }
+[data-case-layout="pharaon"] .case-result__content a { color: var(--gold-light); }
+[data-case-layout="pharaon"] .case-work-image a:focus-visible,
+[data-case-layout="pharaon"] .case-hero__image a:focus-visible {
+    outline: 3px solid var(--gold); outline-offset: -4px;
+}

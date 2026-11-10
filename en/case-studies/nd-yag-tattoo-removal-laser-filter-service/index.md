@@ -58,6 +58,8 @@ During diagnostics and maintenance, we performed the following tasks:
 
 - final device inspection after the work
 
+![Nd:YAG laser with handpiece on a trolley in a clinic](https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz-2.webp)
+
 ## Cooling system inspection and maintenance
 
 Cooling is an important part of professional laser equipment.
@@ -67,8 +69,6 @@ Contamination can accumulate inside during use, gradually worsening operating co
 During this job, we paid particular attention to components responsible for cooling, ventilation and filtration.
 
 The used filter was replaced and system components cleaned before restarting the device.
-
-![Nd:YAG laser with handpiece on a trolley in a clinic](https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz-2.webp)
 
 ## Why does filter replacement matter?
 

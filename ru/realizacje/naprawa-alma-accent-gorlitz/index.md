@@ -52,6 +52,8 @@ Laser Tech Service выполнил обслуживание аппарата **
 
 - подготовка манипулы к замене шланга
 
+![Ремонт и замена шланга охлаждения RF-манипулы Alma Accent](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/naprawa-glowicy-rf-alma-accent-gorlitz.webp)
+
 ## Замена повреждённого шланга охлаждения
 
 Повреждённый шланг сняли и заменили новым.
@@ -59,8 +61,6 @@ Laser Tech Service выполнил обслуживание аппарата **
 При сборке уделили внимание правильной укладке шланга внутри корпуса манипулы и его подключению.
 
 После завершения работ манипулу собрали и проверили систему подачи воды.
-
-![Ремонт и замена шланга охлаждения RF-манипулы Alma Accent](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/naprawa-glowicy-rf-alma-accent-gorlitz.webp)
 
 ![Alma Accent RFD 1200 во время обслуживания в Гёрлице](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/alma-accent-rfd-1200-serwis-gorlitz.webp)
 

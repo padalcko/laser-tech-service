@@ -22,9 +22,13 @@ Unique Light System E808
 
 - Работы: Замена щёток и восстановление помпы
 
+![Аппарат Unique Light System E808 с экраном и манипулой](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/laser-unique-light-system-e808-widok-ogolny.webp)
+
 ## Симптомы неисправности
 
 В системе Unique Light System E808 была охлаждающая жидкость, но охлаждение не работало. На экране появлялось сообщение «Water flow error». Клиент обратился по поводу лазерного аппарата для эпиляции с жидкостной системой охлаждения.
+
+![Сообщение Water flow error на экране аппарата E808](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/e808-water-flow-error-ekran.webp)
 
 ## Диагностика на месте
 
@@ -47,10 +51,6 @@ Unique Light System E808
 После восстановления помпы циркуляция охлаждающей жидкости возобновилась, аппарат снова работает. Ремонт имеющегося узла позволил клиенту сэкономить на покупке новой помпы.
 
 ## Фотографии ремонта в Праге
-
-![Аппарат Unique Light System E808 с экраном и манипулой](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/laser-unique-light-system-e808-widok-ogolny.webp)
-
-![Сообщение Water flow error на экране аппарата E808](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/e808-water-flow-error-ekran.webp)
 
 ![Мастер у задней панели лазера E808](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/e808-dostep-serwisowy-obudowa.webp)
 

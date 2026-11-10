@@ -48,6 +48,8 @@ Ustaliliśmy, że do manipuły **nie dochodziło prawidłowo zasilanie**. W kons
 
 - konieczność kontroli połączeń elektrycznych manipuły
 
+![Test vacuum i RF Beauty Planet 3D Contour po naprawie](https://lasertechservice.pl/img/realizacje/beauty-planet-3d-contour-wroclaw/beauty-planet-3d-contour-vacuum-rf-test.webp)
+
 ## Kontrola funkcji manipuły
 
 Po wykonaniu naprawy sprawdziliśmy działanie funkcji odpowiedzialnych za pracę manipuły.
@@ -55,8 +57,6 @@ Po wykonaniu naprawy sprawdziliśmy działanie funkcji odpowiedzialnych za prac�
 System Beauty Planet 3D Contour umożliwia regulację poziomu podciśnienia oraz parametrów RF bezpośrednio z poziomu interfejsu urządzenia.
 
 Po przywróceniu prawidłowego zasilania wykonaliśmy test działania naprawionych funkcji.
-
-![Test vacuum i RF Beauty Planet 3D Contour po naprawie](https://lasertechservice.pl/img/realizacje/beauty-planet-3d-contour-wroclaw/beauty-planet-3d-contour-vacuum-rf-test.webp)
 
 ## Co zostało wykonane?
 

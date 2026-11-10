@@ -3384,7 +3384,8 @@
       },
       "fault": [
         "Do Laser Tech Service zgłosiło się studio rehabilitacji z Wrocławia. Urządzenie NUBWAY NBW-VSIII nie wytwarzało prawidłowego podciśnienia, przez co głowice próżniowe miały zbyt słabą siłę zasysania. Utrudniało to prawidłowe wykonywanie zabiegów.",
-        "Nasi specjaliści przyjechali bezpośrednio do klienta, aby przeprowadzić diagnostykę i naprawę urządzenia na miejscu."
+        "Nasi specjaliści przyjechali bezpośrednio do klienta, aby przeprowadzić diagnostykę i naprawę urządzenia na miejscu.",
+        "Wyślij nam nazwę i model urządzenia, zdjęcia oraz krótki opis problemu. Na tej podstawie ustalimy dalszy sposób działania."
       ],
       "performed_work": [],
       "result": [
@@ -3605,7 +3606,9 @@
         "@type": "Thing",
         "name": "808 nm diode laser HS-A0406"
       },
-      "fault": [],
+      "fault": [
+        "Wyślij nam nazwę i model urządzenia, zdjęcia oraz krótki opis problemu. Na tej podstawie ustalimy dalszy sposób działania."
+      ],
       "performed_work": [],
       "result": [
         "Laser przeszedł pełną planową obsługę techniczną, obejmujące układ chłodzenia, czyszczenie, kontrolę diody i uszczelnienie głowicy.",
@@ -3978,7 +3981,8 @@
       },
       "fault": [
         "В Laser Tech Service обратилась студия реабилитации во Вроцлаве. В аппарате NUBWAY NBW-VSIII вакуумные манипулы перестали нормально работать. Сила всасывания была недостаточной, из-за чего аппарат не мог обеспечивать правильную работу вакуумного массажа.",
-        "Наши специалисты выехали непосредственно к клиенту для диагностики и ремонта оборудования."
+        "Наши специалисты выехали непосредственно к клиенту для диагностики и ремонта оборудования.",
+        "Отправьте название и модель аппарата, фотографии и краткое описание проблемы. На этой основе определим дальнейшие действия."
       ],
       "performed_work": [
         "Во время диагностики вакуумной системы была обнаружена неисправность клапана сброса разрежения. Этот элемент отвечает за правильное управление сбросом вакуума в системе.",
@@ -4004,7 +4008,9 @@
         "@type": "Thing",
         "name": "808 nm diode laser HS-A0406"
       },
-      "fault": [],
+      "fault": [
+        "Отправьте название и модель аппарата, фотографии и краткое описание проблемы. На этой основе определим дальнейшие действия."
+      ],
       "performed_work": [],
       "result": [
         "Выполнено полное плановое техническое обслуживание диодного лазера: заменена охлаждающая жидкость, очищены внутренние компоненты, проверена мощность диода и загерметизирована манипула.",
@@ -4815,5 +4821,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-11-09T12:59:19Z"
+  "generated_at": "2026-11-10T13:26:43Z"
 }

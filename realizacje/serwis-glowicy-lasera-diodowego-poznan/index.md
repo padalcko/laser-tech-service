@@ -50,6 +50,8 @@ Po dokładnych oględzinach oraz rozebraniu manipulatora potwierdziliśmy, że w
 
 - konieczność kontroli elementów znajdujących się wewnątrz manipulatora
 
+![Technik pracujący przy głowicy lasera u klienta](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/serwis-glowicy-lasera-na-miejscu.webp)
+
 ## Demontaż głowicy i dostęp do wnętrza
 
 Serwis został wykonany na miejscu u klienta w Poznaniu.
@@ -57,8 +59,6 @@ Serwis został wykonany na miejscu u klienta w Poznaniu.
 Manipulator został rozebrany w sposób umożliwiający dostęp do jego wewnętrznych elementów oraz dokładną ocenę poziomu zabrudzenia.
 
 Pozwoliło to oczyścić miejsca, do których nie ma dostępu podczas standardowej eksploatacji urządzenia.
-
-![Technik pracujący przy głowicy lasera u klienta](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/serwis-glowicy-lasera-na-miejscu.webp)
 
 ![Wnętrze głowicy lasera diodowego podczas serwisu](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/wnetrze-glowicy-lasera.webp)
 
@@ -70,6 +70,8 @@ W prawidłowo złożonym manipulatorze obudowa pomaga ograniczać dostęp kurzu 
 
 Dlatego po każdym uszkodzeniu obudowy lub utracie szczelności warto sprawdzić stan wnętrza głowicy.
 
+![Zabrudzenia w układzie optycznym głowicy lasera diodowego](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/zabrudzona-optyka-lasera.webp)
+
 ## Kontrola i czyszczenie układu optycznego
 
 Szczególnej kontroli wymagały elementy znajdujące się w obszarze toru optycznego.
@@ -77,8 +79,6 @@ Szczególnej kontroli wymagały elementy znajdujące się w obszarze toru optycz
 Zabrudzenia na elementach optycznych mogą wpływać na transmisję energii oraz powodować ich dodatkowe nagrzewanie podczas pracy lasera.
 
 Dlatego przed ponownym złożeniem manipulatora dokładnie usunęliśmy zanieczyszczenia i skontrolowaliśmy dostępne elementy głowicy.
-
-![Zabrudzenia w układzie optycznym głowicy lasera diodowego](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/zabrudzona-optyka-lasera.webp)
 
 ![Moduł diodowy lasera podczas kontroli serwisowej](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/modul-diodowy-lasera.webp)
 

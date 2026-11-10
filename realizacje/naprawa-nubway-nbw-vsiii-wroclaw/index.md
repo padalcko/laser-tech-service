@@ -58,6 +58,8 @@ Po wykonaniu diagnostyki przystąpiliśmy do prac serwisowych obejmujących kilk
 
 - kontrola działania urządzenia po wykonanym serwisie
 
+![Naprawa układu podciśnienia NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw-2.webp)
+
 ## Wymiana przewodów i naprawa podciśnienia
 
 Jednym z głównych zakresów tej realizacji był serwis układu odpowiedzialnego za wytwarzanie i przekazywanie podciśnienia.
@@ -67,8 +69,6 @@ Przewody znajdujące się w urządzeniu wymagały wymiany. Zostały zdemontowane
 Naprawiony został również element odpowiedzialny za wytwarzanie podciśnienia. Po wykonaniu prac sprawdziliśmy połączenia oraz działanie układu.
 
 Sprawny układ podciśnienia jest kluczowy dla prawidłowej pracy funkcji urządzenia, które wykorzystują próżnię podczas zabiegów.
-
-![Naprawa układu podciśnienia NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw-2.webp)
 
 ![Naprawa elementu RF urządzenia NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw-3.webp)
 

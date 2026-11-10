@@ -62,6 +62,8 @@ We carried out comprehensive servicing as part of one job.
 
 - final device operational checks
 
+![Replacing a diode hair removal laser handpiece](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-2.webp)
+
 ## Diode laser handpiece replacement
 
 Replacing the treatment handpiece was one of the most important stages of the work.
@@ -69,8 +71,6 @@ Replacing the treatment handpiece was one of the most important stages of the wo
 After fitting, we checked connections and correct installation of the new handpiece.
 
 After reassembling the device, we checked its operation.
-
-![Replacing a diode hair removal laser handpiece](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-2.webp)
 
 ![Technician at the rear of a diode laser](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-3.webp)
 

@@ -34,6 +34,8 @@ We received an urgent request from an **aesthetic medicine studio in Poznań**. 
 
 Diagnostics and repair were carried out at the clinic. The starting point was a specific symptom: no correct response to the activation command. We needed to establish whether the problem lay in the pedal or further along the control circuit.
 
+![Inside the open laser device housing during servicing](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/laser-co2-otwarta-obudowa.webp)
+
 ## First suspect: the foot pedal
 
 The pedal was the most obvious suspect. Before deciding to replace a part, we checked it fully. The diagnostic result was clear: **the pedal was fully functional**.
@@ -57,8 +59,6 @@ Inside the handpiece wiring, we found a **small red wire with an internal break*
 This wire, not the pedal, caused the reported problem. A small circuit component had disabled a function needed for normal device use.
 
 ## Internal access and work at the connector
-
-![Inside the open laser device housing during servicing](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/laser-co2-otwarta-obudowa.webp)
 
 ![Tool work on the handpiece cable connector](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/manipula-lasera-praca-przy-zlaczu.webp)
 

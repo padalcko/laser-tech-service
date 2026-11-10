@@ -58,6 +58,8 @@ NUBWAY NBW-VSIII 5D
 
 - проверка работы аппарата после обслуживания
 
+![Ремонт вакуумной системы NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw-2.webp)
+
 ## Замена шлангов и ремонт вакуумной системы
 
 Одним из основных направлений этой работы было обслуживание системы создания и передачи вакуума.
@@ -67,8 +69,6 @@ NUBWAY NBW-VSIII 5D
 Также отремонтировали элемент, создающий вакуум. После работ проверили соединения и работу системы.
 
 Исправная вакуумная система необходима для правильной работы функций аппарата, использующих вакуум во время процедур.
-
-![Ремонт вакуумной системы NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw-2.webp)
 
 ![Ремонт RF-элемента аппарата NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw-3.webp)
 

@@ -26,6 +26,8 @@ Pilny wyjazd serwisowy do Gliwic z powodu przegrzewania lasera diodowego. Przycz
 
 Otrzymaliśmy pilne zgłoszenie z Gliwic dotyczące przegrzewającego się lasera diodowego do depilacji. Urządzenie wymagało szybkiej interwencji serwisowej.
 
+![Wymontowany filtr wody z układu chłodzenia lasera diodowego](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/wymiana-filtra-wody-laser-diodowy-gliwice.webp)
+
 ## Diagnoza
 
 Podczas kontroli układu chłodzenia nasz technik zlokalizował przyczynę problemu. Pękło mocowanie przy filtrze wody, w miejscu połączenia filtra z przewodem chłodzącym.
@@ -43,8 +45,6 @@ Laser ponownie działa. Awaria pokazała, jak ważna jest regularna kontrola fil
 Laser Tech Service wykonuje serwis laserów, regenerację laserów oraz naprawę laserów kosmetycznych, również podczas wyjazdów do klientów.
 
 ## Zdjęcia z serwisu w Gliwicach
-
-![Wymontowany filtr wody z układu chłodzenia lasera diodowego](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/wymiana-filtra-wody-laser-diodowy-gliwice.webp)
 
 ![Dostęp serwisowy do filtra układu chłodzenia lasera diodowego](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/uklad-chlodzenia-lasera-diodowego-gliwice.webp)
 

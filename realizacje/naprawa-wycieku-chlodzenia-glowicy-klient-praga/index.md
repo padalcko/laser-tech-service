@@ -22,13 +22,19 @@ Do Laser Tech Service trafił nowy klient z Pragi, który przywiózł do naszego
 
 - Zakres: Wymiana przewodów i osłony głowicy
 
+![Boczna obudowa manipuły z przewodem](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/manipula-laserowa-obudowa-boczna.webp)
+
 ## Objawy i zgłoszenie
 
 Problemem był wyciek cieczy chłodzącej z karbowanej osłony przewodu głowicy. Klient poprosił również o ponowne, stabilne złożenie poluzowanej głowicy, wymianę zużytej osłony oraz kompleksowy przegląd techniczny urządzenia.
 
+![Pęknięcia karbowanej osłony przewodu](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/uszkodzona-oslona-przewodu-manipuly.webp)
+
 ## Diagnoza
 
 Po rozebraniu głowicy okazało się, że elastyczne przewody układu chłodzenia znajdujące się wewnątrz osłony były zużyte i utraciły szczelność. Jedną z prawdopodobnych przyczyn była degradacja materiału związana z wiekiem oraz wielokrotnym zginaniem przewodu podczas pracy.
+
+![Otwarta manipuła z modułem i przewodami](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/otwarta-manipula-laserowa-modul-i-przewody.webp)
 
 ## Naprawa i przegląd
 
@@ -43,12 +49,6 @@ To kolejny przykład pokazujący, że profesjonalny serwis laserów, regeneracja
 Na wykonane prace udzielamy 6 miesięcy gwarancji.
 
 ## Zdjęcia z serwisu
-
-![Boczna obudowa manipuły z przewodem](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/manipula-laserowa-obudowa-boczna.webp)
-
-![Pęknięcia karbowanej osłony przewodu](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/uszkodzona-oslona-przewodu-manipuly.webp)
-
-![Otwarta manipuła z modułem i przewodami](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/otwarta-manipula-laserowa-modul-i-przewody.webp)
 
 ![Przezroczyste rurki i metalowy moduł wewnątrz manipuły](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/wnetrze-manipuly-laserowej-modul-optyczny.webp)
 

@@ -34,6 +34,8 @@ Otrzymaliśmy pilne zgłoszenie od **studia medycyny estetycznej w Poznaniu**. P
 
 Diagnostykę i naprawę przeprowadziliśmy na miejscu w gabinecie. Punktem wyjścia był konkretny objaw: brak poprawnej odpowiedzi na polecenie uruchomienia. Trzeba było ustalić, czy problem leży w samym pedale, czy w dalszej części obwodu sterowania.
 
+![Wnętrze otwartej obudowy aparatu laserowego podczas serwisu](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/laser-co2-otwarta-obudowa.webp)
+
 ## Pierwsze podejrzenie: pedał sterujący
 
 Najbardziej oczywistym podejrzanym był pedał. Zanim podjęliśmy decyzję o wymianie części, został w pełni sprawdzony. Wynik diagnostyki był jednoznaczny: **pedał był całkowicie sprawny**.
@@ -57,8 +59,6 @@ W okablowaniu manipuły znaleźliśmy **mały czerwony przewód z wewnętrzną p
 To ten przewód, a nie pedał, był przyczyną opisanego problemu. Niewielki element obwodu zatrzymał funkcję potrzebną do normalnego użytkowania aparatu.
 
 ## Dostęp do wnętrza i praca przy złączu
-
-![Wnętrze otwartej obudowy aparatu laserowego podczas serwisu](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/laser-co2-otwarta-obudowa.webp)
 
 ![Praca narzędziem przy złączu przewodu manipuły](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/manipula-lasera-praca-przy-zlaczu.webp)
 

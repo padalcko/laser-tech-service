@@ -22,6 +22,8 @@ A leak when connecting the handpiece and device overheating required diagnostics
 
 - Scope: Cooling and leak-tightness
 
+![Lumenis LightSheer DESIRE showing the login screen at a clinic in Oleśnica](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lumenis-lightsheer-desire-aparat-olesnica.webp)
+
 ## Reported fault: fluid leaked when connecting the handpiece
 
 The owner of a Lumenis LightSheer DESIRE reported coolant leaking from the connector when attaching the handpiece. The device also had temperature problems: cooling was inadequate, the device overheated and could not operate normally. Laser Tech Service arranged a technical visit to the customer in Oleśnica, Lower Silesia.
@@ -33,6 +35,8 @@ The work concerned a professional diode laser for hair reduction, used for appro
 ## Fluid traces at the connector
 
 The photograph shows liquid beneath the exposed connector. It documents the customer's reported symptom, which required inspection of the hydraulic connection.
+
+![Handpiece in its holder beside the LightSheer DESIRE panel](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-manipula-przy-aparacie.webp)
 
 ## Diagnosing the circuit and hydraulic connector
 
@@ -52,6 +56,8 @@ The problem therefore involved concurrent contamination, incorrect valve operati
 
 Hard deposits cover part of the mesh surface. Such contamination may restrict flow in the cooling circuit. The precise composition of the deposits was not determined by analysis.
 
+![Technician at the LightSheer DESIRE handpiece connector; the screen displays a handpiece connection message](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-obsluga-zlacza-manipuly.webp)
+
 ## Work performed
 
 1. Specialist visit to the customer in Oleśnica.
@@ -68,12 +74,6 @@ Hard deposits cover part of the mesh surface. Such contamination may restrict fl
 This work did not require attributing replacement of the entire pump, electronics or laser diode module to the case. The photographs show access to components and successive stages of servicing.
 
 ## Work and equipment documentation
-
-![Lumenis LightSheer DESIRE showing the login screen at a clinic in Oleśnica](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lumenis-lightsheer-desire-aparat-olesnica.webp)
-
-![Handpiece in its holder beside the LightSheer DESIRE panel](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-manipula-przy-aparacie.webp)
-
-![Technician at the LightSheer DESIRE handpiece connector; the screen displays a handpiece connection message](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-obsluga-zlacza-manipuly.webp)
 
 ![Dismantled metal connection assembly and white hydraulic component in the technician's hands](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-demontaz-wezla-hydraulicznego.webp)
 

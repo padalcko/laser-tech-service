@@ -24,6 +24,8 @@ Comprehensive diagnostics and repair of a Cavi Shape Advanced in Wrocław. The d
 
 - Location: Wrocław
 
+![Technician at the open Cavi Shape Advanced housing](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-01.webp)
+
 ## Several faults in one device
 
 Equipment **Cavi Shape Advanced** required comprehensive diagnostics of several functions at once.
@@ -52,13 +54,13 @@ After dismantling, we checked the cables, connections, contacts and main board c
 
 - general contamination resulting from use
 
+![Signal measurement during Cavi Shape Advanced diagnostics](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-10.webp)
+
 ## Signal and connection checks
 
 During diagnostics, we took electrical measurements and checked the signals responsible for individual device functions.
 
 The measurements allowed us to check continuity and locate poor contacts.
-
-![Signal measurement during Cavi Shape Advanced diagnostics](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-10.webp)
 
 ## Cavi Shape Advanced diagnostics
 
@@ -131,8 +133,6 @@ After completing the work, we checked the device and repaired functions.
 [Open the video on YouTube →](https://youtube.com/shorts/gFV7yQUg8kA)
 
 ## Photographs of Cavi Shape Advanced servicing
-
-![Technician at the open Cavi Shape Advanced housing](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-01.webp)
 
 ![Service technician with tools beside the Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-02.webp)
 

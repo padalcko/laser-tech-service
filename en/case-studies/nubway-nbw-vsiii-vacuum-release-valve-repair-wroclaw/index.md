@@ -17,6 +17,8 @@ Equipment: NUBWAY NBW-VSIII (Body Space)
 Service: Vacuum system and release valve repair
 Company: Laser Tech Service
 
+![Technician beside the rear handpiece connections of the NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-przylacza-manipul.webp)
+
 ## Poor suction performance
 
 A rehabilitation studio in Wrocław contacted Laser Tech Service after experiencing problems with its NUBWAY NBW-VSIII body treatment machine.
@@ -24,6 +26,8 @@ A rehabilitation studio in Wrocław contacted Laser Tech Service after experienc
 The vacuum handpieces were producing insufficient suction, preventing the equipment from operating correctly during vacuum massage treatments.
 
 Our technicians visited the client's premises to diagnose and repair the problem.
+
+![Service work at the rear of the NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-tylna-czesc-urzadzenia.webp)
 
 ## Diagnosis and repair
 
@@ -46,10 +50,6 @@ Phone: +48 790 402 597
 contact@lasertechservice.pl
 
 ## Repair photographs
-
-![Technician beside the rear handpiece connections of the NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-przylacza-manipul.webp)
-
-![Service work at the rear of the NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-tylna-czesc-urzadzenia.webp)
 
 ![Technician beside the front casing of the NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-obudowa-urzadzenia.webp)
 

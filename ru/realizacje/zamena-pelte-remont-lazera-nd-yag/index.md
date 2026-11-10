@@ -16,11 +16,15 @@
 
 **Выполненные работы:** диагностика системы охлаждения, замена элемента Пельтье, замена лазерного элемента ND, калибровка лазера.
 
+![Контактная поверхность разобранной манипулы для эпиляции во время сервиса](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-do-depilacji-powierzchnia-kontaktowa.webp)
+
 ## Две неисправности в одном аппарате
 
 Специалисты Laser Tech Service выполнили комплексный ремонт многофункционального косметологического аппарата, объединяющего две технологии: лазерную эпиляцию и ND для удаления татуировок и пигмента.
 
 В процессе диагностики были обнаружены две независимые неисправности, требовавшие ремонта обеих манипул.
+
+![Панель аппарата с экраном режима NDYAG LASER](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/panel-aparatu-tryb-nd-yag.webp)
 
 ## Первая неисправность — перегрев элемента Пельтье
 
@@ -43,6 +47,8 @@
 - Сборка манипулы и проверка охлаждения.
 
 - Проверка правильности подключения обеих манипул.
+
+![Многофункциональный аппарат с манипулами в кабинете во время сервиса](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/aparat-dwie-glowice-serwis.webp)
 
 ## Вторая неисправность — повреждение лазерного элемента ND
 
@@ -78,6 +84,8 @@
 
 Дополнительно была выявлена ошибка эксплуатации оборудования, связанная с подключением только одной манипулы вместо двух.
 
+![Экран режима Nd:YAG с полями энергии и частоты](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/ekran-nd-yag-energia-czestotliwosc.webp)
+
 ## Технический вывод
 
 В многофункциональных косметологических аппаратах правильное подключение манипул может иметь непосредственное влияние на работу системы охлаждения.
@@ -87,14 +95,6 @@
 **Laser Tech Service** — диагностика, ремонт и техническое обслуживание косметологических и медицинских лазеров на территории всей Польши.
 
 ## Фотографии сервисных работ
-
-![Контактная поверхность разобранной манипулы для эпиляции во время сервиса](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-do-depilacji-powierzchnia-kontaktowa.webp)
-
-![Панель аппарата с экраном режима NDYAG LASER](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/panel-aparatu-tryb-nd-yag.webp)
-
-![Многофункциональный аппарат с манипулами в кабинете во время сервиса](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/aparat-dwie-glowice-serwis.webp)
-
-![Экран режима Nd:YAG с полями энергии и частоты](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/ekran-nd-yag-energia-czestotliwosc.webp)
 
 ![Открытые провода и узлы манипулы для эпиляции](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-depilacja-odsloniete-przewody.webp)
 

@@ -62,6 +62,8 @@ Realizacja obejmowała zarówno usunięcie usterki głowicy, jak i okresową obs
 
 - końcowy test działania urządzenia
 
+![Naprawa głowicy HIFU KIMED K1-W1601](https://lasertechservice.pl/img/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz-2.webp)
+
 ## Niedziałająca głowica urządzenia
 
 Jednym z głównych powodów wizyty serwisowej była **niedziałająca głowica HIFU**.
@@ -69,8 +71,6 @@ Jednym z głównych powodów wizyty serwisowej była **niedziałająca głowica 
 Wykonaliśmy diagnostykę problemu, a następnie naprawę głowicy. Po zakończeniu prac sprawdziliśmy jej działanie w urządzeniu.
 
 Naprawiona głowica została poddana kontroli przed końcowym testem całego systemu KIMED K1-W1601.
-
-![Naprawa głowicy HIFU KIMED K1-W1601](https://lasertechservice.pl/img/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz-2.webp)
 
 ![Czyszczenie zbiornika układu wodnego KIMED K1-W1601](https://lasertechservice.pl/img/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz-3.webp)
 

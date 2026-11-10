@@ -62,6 +62,8 @@ Laser Tech Service выполнил техническое обслуживан�
 
 - итоговый тест работы аппарата
 
+![Ремонт HIFU-манипулы KIMED K1-W1601](https://lasertechservice.pl/img/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz-2.webp)
+
 ## Неработающая манипула аппарата
 
 Одной из основных причин сервисного визита была **неработающая HIFU-манипула**.
@@ -69,8 +71,6 @@ Laser Tech Service выполнил техническое обслуживан�
 Провели диагностику, затем отремонтировали манипулу. После работ проверили её функционирование в аппарате.
 
 Отремонтированную манипулу проверили перед итоговым тестом всей системы KIMED K1-W1601.
-
-![Ремонт HIFU-манипулы KIMED K1-W1601](https://lasertechservice.pl/img/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz-2.webp)
 
 ![Очистка резервуара водяного контура KIMED K1-W1601](https://lasertechservice.pl/img/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz-3.webp)
 

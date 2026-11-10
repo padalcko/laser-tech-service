@@ -18,11 +18,11 @@ Do serwisu Laser Tech Service trafiła głowica laserowa z uszkodzoną diodą. D
 
 - Rezultat: Głowica laserowa ponownie działa.
 
+![Specjalista Laser Tech Service przy rozebranej manipule laserowej](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
+
 ## Wykonane prace
 
 Specjalista Laser Tech Service rozmontował głowicę, zdemontował spalony element i zamontował sprawną diodę laserową.
-
-![Specjalista Laser Tech Service przy rozebranej manipule laserowej](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
 
 ![Rozebrana głowica laserowa i wyjęty moduł na stole](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/naprawa-glowicy-laserowej-wymiana-diody.webp)
 

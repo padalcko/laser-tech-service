@@ -42,6 +42,8 @@ Multipolar RF
 
 Заодно тщательно проверили шланги, соединения и состояние внутренних компонентов аппарата.
 
+![Ремонт вакуумного насоса косметологического аппарата Multipolar RF](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin-2.webp)
+
 ## Ремонт и герметизация насоса
 
 После обнаружения утечки отремонтировали повреждённый элемент насоса и восстановили его герметичность.
@@ -49,8 +51,6 @@ Multipolar RF
 Затем всю систему очистили и повторно проверили.
 
 Устранение утечки позволило восстановить нужный вакуум и улучшить работу всасывающей манипулы.
-
-![Ремонт вакуумного насоса косметологического аппарата Multipolar RF](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin-2.webp)
 
 ![Ремонт RF-разъёма аппарата Multipolar RF](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin-3.webp)
 

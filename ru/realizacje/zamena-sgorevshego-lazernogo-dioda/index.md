@@ -18,11 +18,11 @@
 
 - Результат: Манипула снова работает.
 
+![Специалист Laser Tech Service работает с разобранной лазерной манипулой](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
+
 ## Выполненные работы
 
 Специалист Laser Tech Service разобрал корпус манипулы, демонтировал сгоревший диод и установил исправный.
-
-![Специалист Laser Tech Service работает с разобранной лазерной манипулой](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
 
 ![Разобранная лазерная головка и снятый модуль на столе](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/naprawa-glowicy-laserowej-wymiana-diody.webp)
 

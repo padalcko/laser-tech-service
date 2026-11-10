@@ -17,11 +17,15 @@
 Услуга: Ремонт вакуумной системы и клапана сброса разрежения
 Сервис: Laser Tech Service
 
+![Мастер у задних разъёмов манипул NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-przylacza-manipul.webp)
+
 ## Проблема с вакуумными манипулами
 
 В Laser Tech Service обратилась студия реабилитации во Вроцлаве. В аппарате NUBWAY NBW-VSIII вакуумные манипулы перестали нормально работать. Сила всасывания была недостаточной, из-за чего аппарат не мог обеспечивать правильную работу вакуумного массажа.
 
 Наши специалисты выехали непосредственно к клиенту для диагностики и ремонта оборудования.
+
+![Сервисная работа у задней части NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-tylna-czesc-urzadzenia.webp)
 
 ## Что было сделано
 
@@ -44,10 +48,6 @@ Laser Tech Service — Wrocław
 contact@lasertechservice.pl
 
 ## Фотографии ремонта
-
-![Мастер у задних разъёмов манипул NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-przylacza-manipul.webp)
-
-![Сервисная работа у задней части NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-tylna-czesc-urzadzenia.webp)
 
 ![Мастер у передней панели корпуса NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-obudowa-urzadzenia.webp)
 

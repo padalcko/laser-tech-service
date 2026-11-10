@@ -50,6 +50,8 @@ After thorough inspection and dismantling, we confirmed that the handpiece inter
 
 - internal handpiece components requiring inspection
 
+![Technician working on a laser handpiece at the customer's premises](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/serwis-glowicy-lasera-na-miejscu.webp)
+
 ## Dismantling the handpiece and accessing the interior
 
 The service was carried out at the customer's premises in Poznań.
@@ -57,8 +59,6 @@ The service was carried out at the customer's premises in Poznań.
 The handpiece was dismantled to access its internal components and assess the extent of contamination thoroughly.
 
 This allowed cleaning of areas inaccessible during normal device use.
-
-![Technician working on a laser handpiece at the customer's premises](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/serwis-glowicy-lasera-na-miejscu.webp)
 
 ![Inside a diode laser handpiece during servicing](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/wnetrze-glowicy-lasera.webp)
 
@@ -70,6 +70,8 @@ In a correctly assembled handpiece, the housing helps limit dust and other conta
 
 After any housing damage or loss of sealing, the condition inside the handpiece should therefore be checked.
 
+![Contamination in a diode laser handpiece optical system](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/zabrudzona-optyka-lasera.webp)
+
 ## Optical system inspection and cleaning
 
 Components around the optical path required particular attention.
@@ -77,8 +79,6 @@ Components around the optical path required particular attention.
 Contamination on optical components can affect energy transmission and cause additional heating during laser operation.
 
 Before reassembling the handpiece, we therefore thoroughly removed contamination and inspected accessible components.
-
-![Contamination in a diode laser handpiece optical system](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/zabrudzona-optyka-lasera.webp)
 
 ![Laser diode module during a service inspection](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/modul-diodowy-lasera.webp)
 

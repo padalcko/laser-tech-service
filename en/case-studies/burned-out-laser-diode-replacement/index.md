@@ -18,11 +18,11 @@ A laser handpiece with a burned-out laser diode was brought to Laser Tech Servic
 
 - Result: The laser handpiece is working again.
 
+![Laser Tech Service technician working on an open laser handpiece](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
+
 ## Repair
 
 Our technician disassembled the handpiece, removed the failed laser diode and installed a working replacement.
-
-![Laser Tech Service technician working on an open laser handpiece](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
 
 ![Disassembled laser handpiece and removed module on the workbench](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/naprawa-glowicy-laserowej-wymiana-diody.webp)
 

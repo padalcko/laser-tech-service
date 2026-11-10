@@ -22,13 +22,19 @@ A new customer from Prague brought a cosmetic laser device to Laser Tech Service
 
 - Work performed: Cooling tube and protective sleeve replacement
 
+![Side of the handpiece casing with hose assembly](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/manipula-laserowa-obudowa-boczna.webp)
+
 ## Customer report
 
 The customer also requested reassembly of the loose handpiece and treatment head, replacement of the worn corrugated protective sleeve, and a complete maintenance service.
 
+![Cracks in the corrugated protective sleeve](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/uszkodzona-oslona-przewodu-manipuly.webp)
+
 ## Diagnosis
 
 During inspection, our technicians discovered that the flexible cooling tubes inside the protective sleeve had deteriorated and lost their integrity. Material ageing and repeated bending during normal operation were considered possible contributing factors.
+
+![Open handpiece with module and wiring](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/otwarta-manipula-laserowa-modul-i-przewody.webp)
 
 ## Repair and maintenance
 
@@ -43,12 +49,6 @@ After servicing, the equipment was checked and confirmed to be operational, with
 Laser Tech Service provides a six-month warranty on the completed repair work.
 
 ## Service photographs
-
-![Side of the handpiece casing with hose assembly](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/manipula-laserowa-obudowa-boczna.webp)
-
-![Cracks in the corrugated protective sleeve](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/uszkodzona-oslona-przewodu-manipuly.webp)
-
-![Open handpiece with module and wiring](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/otwarta-manipula-laserowa-modul-i-przewody.webp)
 
 ![Transparent tubes and metal module inside the handpiece](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/wnetrze-manipuly-laserowej-modul-optyczny.webp)
 

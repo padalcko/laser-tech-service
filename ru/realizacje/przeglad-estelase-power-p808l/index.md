@@ -44,13 +44,13 @@ ESTELASE POWER · P-808L · диодный лазер для эпиляции
 
 На фотографии показан фильтр с соединениями. Крупный план позволяет увидеть корпус и штуцеры.
 
+![Сервисные работы при открытом корпусе ESTELASE POWER P-808L](https://lasertechservice.pl/img/realizacje/przeglad-estelase-power-p808l/estelase-power-p808l-prace-serwisowe.webp)
+
 ## Продувка при обслуживании
 
 Следующим этапом планового обслуживания была **продувка аппарата**. На фотографии показана работа специалиста при открытом корпусе и доступ к внутренним узлам.
 
 Продувка, замена фильтра и воды составили объём обслуживания. Затем мы перешли к проверке аппарата.
-
-![Сервисные работы при открытом корпусе ESTELASE POWER P-808L](https://lasertechservice.pl/img/realizacje/przeglad-estelase-power-p808l/estelase-power-p808l-prace-serwisowe.webp)
 
 ## Задняя панель и сервисные детали ESTELASE POWER
 

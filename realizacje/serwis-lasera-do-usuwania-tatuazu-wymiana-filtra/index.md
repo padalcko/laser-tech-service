@@ -58,6 +58,8 @@ W ramach diagnostyki i technicznej obsługi urządzenia wykonaliśmy następują
 
 - końcową kontrolę urządzenia po wykonaniu prac
 
+![Laser ND:YAG z manipułą na wózku w gabinecie](https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz-2.webp)
+
 ## Kontrola i konserwacja systemu chłodzenia
 
 Układ chłodzenia jest jednym z ważnych elementów profesjonalnego urządzenia laserowego.
@@ -67,8 +69,6 @@ Podczas eksploatacji wewnątrz urządzenia mogą gromadzić się zanieczyszczeni
 W trakcie tej realizacji szczególną uwagę zwróciliśmy na stan elementów odpowiedzialnych za chłodzenie urządzenia, wentylację oraz filtrację.
 
 Zużyty filtr został wymieniony, a elementy systemu oczyszczone przed ponownym uruchomieniem urządzenia.
-
-![Laser ND:YAG z manipułą na wózku w gabinecie](https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz-2.webp)
 
 ## Dlaczego wymiana filtra jest istotna?
 

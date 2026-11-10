@@ -17,7 +17,7 @@
   document.body.append(dialog);
   let previousOverflow;
   gallery.addEventListener('click', event => {
-    const link = event.target.closest('.case-gallery--compact a, .case-photo--compact a');
+    const link = event.target.closest('.case-gallery--compact a, .case-photo--compact a, [data-case-layout="pharaon"] .case-work-image a, [data-case-layout="pharaon"] .case-hero__image a');
     if (!link || event.button !== 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
     event.preventDefault();
     image.src = link.href;

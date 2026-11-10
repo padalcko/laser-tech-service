@@ -44,13 +44,13 @@ During this job, **we replaced the device's filter and water**. These were plann
 
 The photograph shows the filter with its connectors. The close-up shows its housing and connections.
 
+![Service work at the open ESTELASE POWER P-808L housing](https://lasertechservice.pl/img/realizacje/przeglad-estelase-power-p808l/estelase-power-p808l-prace-serwisowe.webp)
+
 ## Air cleaning during maintenance
 
 Another part of the scheduled maintenance was **cleaning the device with air**. The photograph shows the technician working at the open housing and accessing internal components.
 
 Air cleaning and filter and water replacement formed the service scope. We then proceeded to check the device.
-
-![Service work at the open ESTELASE POWER P-808L housing](https://lasertechservice.pl/img/realizacje/przeglad-estelase-power-p808l/estelase-power-p808l-prace-serwisowe.webp)
 
 ## ESTELASE POWER rear panel and service details
 

@@ -16,11 +16,15 @@ Dwie niezależne usterki jednego aparatu: wymiana modułu Peltiera, naprawa gło
 
 **Wykonane prace:** diagnostyka układu chłodzenia, wymiana modułu Peltiera, wymiana elementu laserowego Nd:YAG, kalibracja lasera.
 
+![Powierzchnia kontaktowa rozebranej głowicy do depilacji podczas prac serwisowych](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-do-depilacji-powierzchnia-kontaktowa.webp)
+
 ## Dwie usterki w jednym aparacie
 
 Specjaliści Laser Tech Service przeprowadzili kompleksową naprawę wielofunkcyjnego aparatu kosmetologicznego łączącego dwie technologie: depilację laserową oraz Nd:YAG do usuwania tatuaży i przebarwień.
 
 Podczas diagnostyki wykryto dwie niezależne usterki, które wymagały naprawy obu głowic.
+
+![Panel aparatu z widokiem trybu NDYAG LASER](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/panel-aparatu-tryb-nd-yag.webp)
 
 ## Pierwsza usterka — przegrzanie modułu Peltiera
 
@@ -43,6 +47,8 @@ Nieprawidłowa konfiguracja połączeń zakłócała pracę układu chłodzenia 
 - Złożenie głowicy i sprawdzenie chłodzenia.
 
 - Sprawdzenie prawidłowości podłączenia obu głowic.
+
+![Wielofunkcyjny aparat z głowicami w gabinecie podczas serwisu](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/aparat-dwie-glowice-serwis.webp)
 
 ## Druga usterka — uszkodzenie elementu laserowego Nd:YAG
 
@@ -78,6 +84,8 @@ W głowicy do depilacji wymieniono moduł Peltiera, a w głowicy Nd:YAG — elem
 
 Dodatkowo wykryto błąd w eksploatacji urządzenia polegający na podłączaniu tylko jednej głowicy zamiast dwóch.
 
+![Ekran trybu Nd:YAG z polami energii i częstotliwości](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/ekran-nd-yag-energia-czestotliwosc.webp)
+
 ## Wniosek techniczny
 
 W wielofunkcyjnych aparatach kosmetologicznych prawidłowe podłączenie głowic może bezpośrednio wpływać na pracę układu chłodzenia.
@@ -87,14 +95,6 @@ Wymiana niesprawnej części bez usunięcia przyczyny jej uszkodzenia stwarza ry
 **Laser Tech Service** — diagnostyka, naprawa i obsługa techniczna laserów kosmetologicznych oraz medycznych na terenie całej Polski.
 
 ## Zdjęcia z prac serwisowych
-
-![Powierzchnia kontaktowa rozebranej głowicy do depilacji podczas prac serwisowych](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-do-depilacji-powierzchnia-kontaktowa.webp)
-
-![Panel aparatu z widokiem trybu NDYAG LASER](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/panel-aparatu-tryb-nd-yag.webp)
-
-![Wielofunkcyjny aparat z głowicami w gabinecie podczas serwisu](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/aparat-dwie-glowice-serwis.webp)
-
-![Ekran trybu Nd:YAG z polami energii i częstotliwości](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/ekran-nd-yag-energia-czestotliwosc.webp)
 
 ![Odsłonięte przewody i podzespoły głowicy do depilacji](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-depilacja-odsloniete-przewody.webp)
 

@@ -22,13 +22,19 @@
 
 - Работы: Замена трубок и гофры манипулы
 
+![Боковая часть корпуса манипулы с рукавом](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/manipula-laserowa-obudowa-boczna.webp)
+
 ## Обращение клиента
 
 Проблема заключалась в утечке охлаждающей жидкости из гофрированного защитного рукава. Кроме того, клиент попросил повторно собрать расшатанную манипулу и её головку, заменить старую гофру и провести полное техническое обслуживание аппарата.
 
+![Трещины гофрированной оболочки рукава](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/uszkodzona-oslona-przewodu-manipuly.webp)
+
 ## Диагностика
 
 После разборки выяснилось, что гибкие трубки системы охлаждения внутри гофры износились и потеряли герметичность. Вероятной причиной стало старение материала и многократные изгибы рукава во время эксплуатации.
+
+![Открытая манипула с модулем и проводами](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/otwarta-manipula-laserowa-modul-i-przewody.webp)
 
 ## Ремонт и обслуживание
 
@@ -43,12 +49,6 @@
 На выполненные работы Laser Tech Service предоставляет гарантию 6 месяцев.
 
 ## Фотографии обслуживания
-
-![Боковая часть корпуса манипулы с рукавом](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/manipula-laserowa-obudowa-boczna.webp)
-
-![Трещины гофрированной оболочки рукава](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/uszkodzona-oslona-przewodu-manipuly.webp)
-
-![Открытая манипула с модулем и проводами](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/otwarta-manipula-laserowa-modul-i-przewody.webp)
 
 ![Прозрачные трубки и металлический модуль внутри манипулы](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/wnetrze-manipuly-laserowej-modul-optyczny.webp)
 

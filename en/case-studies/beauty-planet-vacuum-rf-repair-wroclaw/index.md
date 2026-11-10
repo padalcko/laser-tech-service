@@ -48,6 +48,8 @@ We established that the handpiece **was not receiving power correctly**. As a re
 
 - handpiece electrical connections requiring inspection
 
+![Testing Beauty Planet 3D Contour vacuum and RF after repair](https://lasertechservice.pl/img/realizacje/beauty-planet-3d-contour-wroclaw/beauty-planet-3d-contour-vacuum-rf-test.webp)
+
 ## Checking handpiece functions
 
 After repair, we checked the functions responsible for handpiece operation.
@@ -55,8 +57,6 @@ After repair, we checked the functions responsible for handpiece operation.
 The Beauty Planet 3D Contour allows vacuum levels and RF parameters to be adjusted directly through its interface.
 
 After restoring the correct power supply, we tested the repaired functions.
-
-![Testing Beauty Planet 3D Contour vacuum and RF after repair](https://lasertechservice.pl/img/realizacje/beauty-planet-3d-contour-wroclaw/beauty-planet-3d-contour-vacuum-rf-test.webp)
 
 ## What was done?
 

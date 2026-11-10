@@ -42,6 +42,8 @@ The problem was located in the pump. One of its components was **cracked and lea
 
 We also thoroughly inspected the hoses, connections and condition of the device interior.
 
+![Repairing the vacuum pump of a Multipolar RF aesthetic device](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin-2.webp)
+
 ## Repairing and sealing the pump
 
 After locating the leak, we repaired the damaged pump component and resealed it.
@@ -49,8 +51,6 @@ After locating the leak, we repaired the damaged pump component and resealed it.
 The entire system was then cleaned and checked again.
 
 Resolving the leak restored correct vacuum generation and improved suction handpiece operation.
-
-![Repairing the vacuum pump of a Multipolar RF aesthetic device](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin-2.webp)
 
 ![Repairing the RF connector in a Multipolar RF device](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin-3.webp)
 

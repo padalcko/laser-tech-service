@@ -22,11 +22,15 @@ A Laser Tech Service specialist visited a client in Legnica to service a Sapphir
 
 - Service scope: Coolant replacement and maintenance
 
+![Sapphire nameplate showing 31.05.2018](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-tabliczka-znamionowa.webp)
+
 ## Problem: insufficient coolant
 
 Inspection during the service visit revealed insufficient fluid in the cooling circuit. This was the confirmed condition before maintenance. The reported work did not establish the reason for the fluid loss, so we do not attribute it to a leak or damage to a specific component.
 
 The Sapphire nameplate shows 31.05.2018. This is not the date of this service visit. The nameplate alone does not establish current technical condition or treatment effectiveness.
+
+![Specialist working at the rear of the Sapphire housing](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-demontaz-obudowy.webp)
 
 ## Work performed
 
@@ -36,6 +40,8 @@ The Sapphire nameplate shows 31.05.2018. This is not the date of this service vi
 4. Refilling the circuit with new coolant.
 5. Cleaning the device.
 6. Starting the device and checking its operation.
+
+![Internal Sapphire components during service access](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-wewnetrzne-podzespoly.webp)
 
 ## Servicing, repair and refurbishment involve different work
 
@@ -50,12 +56,6 @@ After coolant replacement and cleaning, the device was started and its operation
 This result confirms an operational check after maintenance. It does not replace an emission measurement report or assess clinical effectiveness. The photographs document a service visit, not a study of treatment outcomes.
 
 ## Sapphire service photographs
-
-![Sapphire nameplate showing 31.05.2018](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-tabliczka-znamionowa.webp)
-
-![Specialist working at the rear of the Sapphire housing](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-demontaz-obudowy.webp)
-
-![Internal Sapphire components during service access](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-wewnetrzne-podzespoly.webp)
 
 ![Tubing and components in the Sapphire cooling circuit](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-uklad-chlodzenia.webp)
 

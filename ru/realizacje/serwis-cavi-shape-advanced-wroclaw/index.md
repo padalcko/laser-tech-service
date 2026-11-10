@@ -24,6 +24,8 @@ Cavi Shape Advanced
 
 - Местоположение: Вроцлав
 
+![Техник у открытого корпуса Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-01.webp)
+
 ## Несколько неисправностей в одном аппарате
 
 Аппарат **Cavi Shape Advanced** требовал комплексной диагностики нескольких функций одновременно.
@@ -52,13 +54,13 @@ Cavi Shape Advanced
 
 - общее загрязнение аппарата в процессе эксплуатации
 
+![Измерение сигналов при диагностике Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-10.webp)
+
 ## Проверка сигналов и соединений
 
 При диагностике выполнили электрические измерения и проверили сигналы, отвечающие за отдельные функции аппарата.
 
 Измерения позволили проверить целостность соединений и найти участки с ненадёжным контактом.
-
-![Измерение сигналов при диагностике Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-10.webp)
 
 ## Диагностика Cavi Shape Advanced
 
@@ -131,8 +133,6 @@ Cavi Shape Advanced
 [Открыть видео на YouTube →](https://youtube.com/shorts/gFV7yQUg8kA)
 
 ## Фотографии обслуживания Cavi Shape Advanced
-
-![Техник у открытого корпуса Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-01.webp)
 
 ![Специалист с инструментами рядом с Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-02.webp)
 

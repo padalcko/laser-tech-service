@@ -52,6 +52,8 @@ Inspection showed that the RF handpiece water supply hose was damaged at three s
 
 - preparing the handpiece for hose replacement
 
+![Repair and cooling hose replacement in an Alma Accent RF handpiece](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/naprawa-glowicy-rf-alma-accent-gorlitz.webp)
+
 ## Replacing the damaged cooling hose
 
 The damaged hose was removed and replaced with a new part.
@@ -59,8 +61,6 @@ The damaged hose was removed and replaced with a new part.
 During fitting, we paid attention to correct routing inside the handpiece housing and proper connection of the hose.
 
 After the work, the handpiece was reassembled and the water supply system checked.
-
-![Repair and cooling hose replacement in an Alma Accent RF handpiece](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/naprawa-glowicy-rf-alma-accent-gorlitz.webp)
 
 ![Alma Accent RFD 1200 during servicing in Görlitz](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/alma-accent-rfd-1200-serwis-gorlitz.webp)
 

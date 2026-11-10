@@ -12,6 +12,10 @@ Publication date: 2026-11-05
 
 ![Diode laser with a screen, handpiece and hose on a trolley](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa.webp)
 
+![HS-A0406 rear panel with model label, water ports and cooling fans](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-hs-a0406-tabliczka-i-wentylatory.webp)
+
+HS-A0406 rear panel with model label, water ports and cooling fans
+
 ## Short description
 
 Laser Tech Service carried out scheduled maintenance of an 808 nm diode laser for a long-term customer in Warsaw. The work included coolant replacement, internal cleaning, laser diode power verification and handpiece housing sealing.
@@ -36,6 +40,10 @@ The old coolant was drained and replaced with fresh coolant. Accessible cooling 
 
 Regular coolant replacement helps reduce the risk of deposits and contamination that could restrict liquid circulation and reduce cooling efficiency.
 
+![Diode laser handpiece housing with hose and small display](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/glowica-lasera-diodowego-808nm.webp)
+
+Diode laser handpiece housing with hose and small display
+
 ## Internal cleaning
 
 The next step was to clean dust and dirt from accessible internal components.
@@ -46,6 +54,10 @@ Excessive dust may restrict airflow and contribute to higher component temperatu
 
 Regular cleaning helps reduce these risks.
 
+![Hose draining liquid into a container beside the laser rear panel](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/spust-plynu-chlodzacego-laser.webp)
+
+Hose draining liquid into a container beside the laser rear panel
+
 ## Laser diode power verification
 
 Our technicians also checked the laser diode power.
@@ -53,6 +65,10 @@ Our technicians also checked the laser diode power.
 Monitoring laser output is an important part of evaluating the technical condition of diode laser equipment.
 
 The energy settings displayed on a machine do not necessarily represent its actual optical output.
+
+![Internal metal laser panel with mounting brackets and wiring](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/panel-wewnetrzny-lasera-i-przewody.webp)
+
+Internal metal laser panel with mounting brackets and wiring
 
 ## Handpiece housing sealing
 
@@ -81,22 +97,6 @@ Contact Laser Tech Service to arrange a technical inspection.
 Phone / WhatsApp: +48 790 402 597
 
 ## Service photos
-
-![HS-A0406 rear panel with model label, water ports and cooling fans](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-hs-a0406-tabliczka-i-wentylatory.webp)
-
-HS-A0406 rear panel with model label, water ports and cooling fans
-
-![Diode laser handpiece housing with hose and small display](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/glowica-lasera-diodowego-808nm.webp)
-
-Diode laser handpiece housing with hose and small display
-
-![Hose draining liquid into a container beside the laser rear panel](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/spust-plynu-chlodzacego-laser.webp)
-
-Hose draining liquid into a container beside the laser rear panel
-
-![Internal metal laser panel with mounting brackets and wiring](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/panel-wewnetrzny-lasera-i-przewody.webp)
-
-Internal metal laser panel with mounting brackets and wiring
 
 ![Open laser housing with fans, power supply and wiring](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/wnetrze-lasera-diodowego-wentylatory.webp)
 

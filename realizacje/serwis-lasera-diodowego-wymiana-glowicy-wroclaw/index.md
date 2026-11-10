@@ -62,6 +62,8 @@ W ramach jednego zlecenia przeprowadziliśmy kompleksową obsługę urządzenia.
 
 - końcowa kontrola działania urządzenia
 
+![Wymiana głowicy lasera diodowego do depilacji](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-2.webp)
+
 ## Wymiana głowicy lasera diodowego
 
 Jednym z najważniejszych etapów realizacji była wymiana głowicy zabiegowej lasera diodowego.
@@ -69,8 +71,6 @@ Jednym z najważniejszych etapów realizacji była wymiana głowicy zabiegowej l
 Po wykonaniu prac sprawdziliśmy połączenia oraz prawidłowość montażu nowej głowicy.
 
 Po ponownym złożeniu urządzenia wykonaliśmy kontrolę jego działania.
-
-![Wymiana głowicy lasera diodowego do depilacji](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-2.webp)
 
 ![Technik przy tylnej ściance lasera diodowego](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-3.webp)
 

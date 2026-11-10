@@ -42,6 +42,8 @@ Problem został zlokalizowany w obrębie pompy. Jej element był **popękany i n
 
 Przy okazji dokładnie sprawdziliśmy przewody, połączenia oraz stan wnętrza urządzenia.
 
+![Naprawa pompy podciśnienia urządzenia kosmetologicznego Multipolar RF](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin-2.webp)
+
 ## Naprawa i uszczelnienie pompy
 
 Po zlokalizowaniu miejsca nieszczelności wykonaliśmy naprawę uszkodzonego elementu pompy oraz jego ponowne uszczelnienie.
@@ -49,8 +51,6 @@ Po zlokalizowaniu miejsca nieszczelności wykonaliśmy naprawę uszkodzonego ele
 Następnie cały układ został oczyszczony i ponownie sprawdzony.
 
 Usunięcie nieszczelności pozwoliło przywrócić prawidłowe wytwarzanie podciśnienia i poprawić pracę głowicy zasysającej.
-
-![Naprawa pompy podciśnienia urządzenia kosmetologicznego Multipolar RF](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin-2.webp)
 
 ![Naprawa złącza RF w urządzeniu Multipolar RF](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin-3.webp)
 

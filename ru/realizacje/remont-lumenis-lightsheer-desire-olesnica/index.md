@@ -22,6 +22,8 @@ Lumenis LightSheer DESIRE
 
 - Работы: Охлаждение и герметичность
 
+![Lumenis LightSheer DESIRE с экраном входа в кабинете в Олеснице](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lumenis-lightsheer-desire-aparat-olesnica.webp)
+
 ## Обращение: утечка при подключении манипулы
 
 Владелец Lumenis LightSheer DESIRE заметил выход охлаждающей жидкости из коннектора при подключении головки. Одновременно нарушился температурный режим: система не обеспечивала нормальное охлаждение, аппарат перегревался и не мог полноценно использоваться. Laser Tech Service организовал выезд технического специалиста непосредственно к клиенту в Олесницу, Нижнесилезское воеводство.
@@ -33,6 +35,8 @@ Lumenis LightSheer DESIRE
 ## Следы жидкости у соединения
 
 На фотографии видна жидкость ниже открытого коннектора. Это документирование заявленного симптома, потребовавшего проверки гидравлического соединения.
+
+![Манипула в держателе рядом с панелью LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-manipula-przy-aparacie.webp)
 
 ## Диагностика контура и гидравлического соединения
 
@@ -52,6 +56,8 @@ Lumenis LightSheer DESIRE
 
 Твёрдые отложения закрывают часть сетки. Такое загрязнение может препятствовать циркуляции теплоносителя. Точный состав отложений анализом не определялся.
 
+![Специалист у разъёма манипулы LightSheer DESIRE; на экране сообщение о подключении головки](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-obsluga-zlacza-manipuly.webp)
+
 ## Выполненные работы
 
 1. Выезд специалиста к клиенту в Олесницу.
@@ -68,12 +74,6 @@ Lumenis LightSheer DESIRE
 Этому ремонту не приписываются замена насоса в сборе, электронных плат или диодного модуля. Фотографии показывают доступ к внутренним узлам и последовательные этапы сервисных работ.
 
 ## Фотографии аппарата и сервисных работ
-
-![Lumenis LightSheer DESIRE с экраном входа в кабинете в Олеснице](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lumenis-lightsheer-desire-aparat-olesnica.webp)
-
-![Манипула в держателе рядом с панелью LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-manipula-przy-aparacie.webp)
-
-![Специалист у разъёма манипулы LightSheer DESIRE; на экране сообщение о подключении головки](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-obsluga-zlacza-manipuly.webp)
 
 ![Демонтированный металлический соединительный узел и белый гидравлический элемент в руках специалиста](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-demontaz-wezla-hydraulicznego.webp)
 

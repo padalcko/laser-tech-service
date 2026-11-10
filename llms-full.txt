@@ -11612,6 +11612,10 @@ Publication date: 2026-11-05
 
 ![Diode laser with a screen, handpiece and hose on a trolley](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa.webp)
 
+![HS-A0406 rear panel with model label, water ports and cooling fans](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-hs-a0406-tabliczka-i-wentylatory.webp)
+
+HS-A0406 rear panel with model label, water ports and cooling fans
+
 #### Short description
 
 Laser Tech Service carried out scheduled maintenance of an 808 nm diode laser for a long-term customer in Warsaw. The work included coolant replacement, internal cleaning, laser diode power verification and handpiece housing sealing.
@@ -11636,6 +11640,10 @@ The old coolant was drained and replaced with fresh coolant. Accessible cooling 
 
 Regular coolant replacement helps reduce the risk of deposits and contamination that could restrict liquid circulation and reduce cooling efficiency.
 
+![Diode laser handpiece housing with hose and small display](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/glowica-lasera-diodowego-808nm.webp)
+
+Diode laser handpiece housing with hose and small display
+
 #### Internal cleaning
 
 The next step was to clean dust and dirt from accessible internal components.
@@ -11646,6 +11654,10 @@ Excessive dust may restrict airflow and contribute to higher component temperatu
 
 Regular cleaning helps reduce these risks.
 
+![Hose draining liquid into a container beside the laser rear panel](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/spust-plynu-chlodzacego-laser.webp)
+
+Hose draining liquid into a container beside the laser rear panel
+
 #### Laser diode power verification
 
 Our technicians also checked the laser diode power.
@@ -11653,6 +11665,10 @@ Our technicians also checked the laser diode power.
 Monitoring laser output is an important part of evaluating the technical condition of diode laser equipment.
 
 The energy settings displayed on a machine do not necessarily represent its actual optical output.
+
+![Internal metal laser panel with mounting brackets and wiring](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/panel-wewnetrzny-lasera-i-przewody.webp)
+
+Internal metal laser panel with mounting brackets and wiring
 
 #### Handpiece housing sealing
 
@@ -11681,22 +11697,6 @@ Contact Laser Tech Service to arrange a technical inspection.
 Phone / WhatsApp: +48 790 402 597
 
 #### Service photos
-
-![HS-A0406 rear panel with model label, water ports and cooling fans](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-hs-a0406-tabliczka-i-wentylatory.webp)
-
-HS-A0406 rear panel with model label, water ports and cooling fans
-
-![Diode laser handpiece housing with hose and small display](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/glowica-lasera-diodowego-808nm.webp)
-
-Diode laser handpiece housing with hose and small display
-
-![Hose draining liquid into a container beside the laser rear panel](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/spust-plynu-chlodzacego-laser.webp)
-
-Hose draining liquid into a container beside the laser rear panel
-
-![Internal metal laser panel with mounting brackets and wiring](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/panel-wewnetrzny-lasera-i-przewody.webp)
-
-Internal metal laser panel with mounting brackets and wiring
 
 ![Open laser housing with fans, power supply and wiring](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/wnetrze-lasera-diodowego-wentylatory.webp)
 
@@ -11802,6 +11802,8 @@ Inspection showed that the RF handpiece water supply hose was damaged at three s
 
 - preparing the handpiece for hose replacement
 
+![Repair and cooling hose replacement in an Alma Accent RF handpiece](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/naprawa-glowicy-rf-alma-accent-gorlitz.webp)
+
 #### Replacing the damaged cooling hose
 
 The damaged hose was removed and replaced with a new part.
@@ -11809,8 +11811,6 @@ The damaged hose was removed and replaced with a new part.
 During fitting, we paid attention to correct routing inside the handpiece housing and proper connection of the hose.
 
 After the work, the handpiece was reassembled and the water supply system checked.
-
-![Repair and cooling hose replacement in an Alma Accent RF handpiece](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/naprawa-glowicy-rf-alma-accent-gorlitz.webp)
 
 ![Alma Accent RFD 1200 during servicing in Görlitz](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/alma-accent-rfd-1200-serwis-gorlitz.webp)
 
@@ -12010,6 +12010,8 @@ We established that the handpiece **was not receiving power correctly**. As a re
 
 - handpiece electrical connections requiring inspection
 
+![Testing Beauty Planet 3D Contour vacuum and RF after repair](https://lasertechservice.pl/img/realizacje/beauty-planet-3d-contour-wroclaw/beauty-planet-3d-contour-vacuum-rf-test.webp)
+
 #### Checking handpiece functions
 
 After repair, we checked the functions responsible for handpiece operation.
@@ -12017,8 +12019,6 @@ After repair, we checked the functions responsible for handpiece operation.
 The Beauty Planet 3D Contour allows vacuum levels and RF parameters to be adjusted directly through its interface.
 
 After restoring the correct power supply, we tested the repaired functions.
-
-![Testing Beauty Planet 3D Contour vacuum and RF after repair](https://lasertechservice.pl/img/realizacje/beauty-planet-3d-contour-wroclaw/beauty-planet-3d-contour-vacuum-rf-test.webp)
 
 #### What was done?
 
@@ -12118,11 +12118,11 @@ A laser handpiece with a burned-out laser diode was brought to Laser Tech Servic
 
 - Result: The laser handpiece is working again.
 
+![Laser Tech Service technician working on an open laser handpiece](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
+
 #### Repair
 
 Our technician disassembled the handpiece, removed the failed laser diode and installed a working replacement.
-
-![Laser Tech Service technician working on an open laser handpiece](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
 
 ![Disassembled laser handpiece and removed module on the workbench](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/naprawa-glowicy-laserowej-wymiana-diody.webp)
 
@@ -12181,6 +12181,8 @@ Comprehensive diagnostics and repair of a Cavi Shape Advanced in Wrocław. The d
 
 - Location: Wrocław
 
+![Technician at the open Cavi Shape Advanced housing](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-01.webp)
+
 #### Several faults in one device
 
 Equipment **Cavi Shape Advanced** required comprehensive diagnostics of several functions at once.
@@ -12209,13 +12211,13 @@ After dismantling, we checked the cables, connections, contacts and main board c
 
 - general contamination resulting from use
 
+![Signal measurement during Cavi Shape Advanced diagnostics](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-10.webp)
+
 #### Signal and connection checks
 
 During diagnostics, we took electrical measurements and checked the signals responsible for individual device functions.
 
 The measurements allowed us to check continuity and locate poor contacts.
-
-![Signal measurement during Cavi Shape Advanced diagnostics](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-10.webp)
 
 #### Cavi Shape Advanced diagnostics
 
@@ -12288,8 +12290,6 @@ After completing the work, we checked the device and repaired functions.
 [Open the video on YouTube →](https://youtube.com/shorts/gFV7yQUg8kA)
 
 #### Photographs of Cavi Shape Advanced servicing
-
-![Technician at the open Cavi Shape Advanced housing](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-01.webp)
 
 ![Service technician with tools beside the Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-02.webp)
 
@@ -12394,6 +12394,8 @@ We carried out comprehensive servicing as part of one job.
 
 - final device operational checks
 
+![Replacing a diode hair removal laser handpiece](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-2.webp)
+
 #### Diode laser handpiece replacement
 
 Replacing the treatment handpiece was one of the most important stages of the work.
@@ -12401,8 +12403,6 @@ Replacing the treatment handpiece was one of the most important stages of the wo
 After fitting, we checked connections and correct installation of the new handpiece.
 
 After reassembling the device, we checked its operation.
-
-![Replacing a diode hair removal laser handpiece](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-2.webp)
 
 ![Technician at the rear of a diode laser](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-3.webp)
 
@@ -12576,6 +12576,8 @@ After thorough inspection and dismantling, we confirmed that the handpiece inter
 
 - internal handpiece components requiring inspection
 
+![Technician working on a laser handpiece at the customer's premises](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/serwis-glowicy-lasera-na-miejscu.webp)
+
 #### Dismantling the handpiece and accessing the interior
 
 The service was carried out at the customer's premises in Poznań.
@@ -12583,8 +12585,6 @@ The service was carried out at the customer's premises in Poznań.
 The handpiece was dismantled to access its internal components and assess the extent of contamination thoroughly.
 
 This allowed cleaning of areas inaccessible during normal device use.
-
-![Technician working on a laser handpiece at the customer's premises](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/serwis-glowicy-lasera-na-miejscu.webp)
 
 ![Inside a diode laser handpiece during servicing](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/wnetrze-glowicy-lasera.webp)
 
@@ -12596,6 +12596,8 @@ In a correctly assembled handpiece, the housing helps limit dust and other conta
 
 After any housing damage or loss of sealing, the condition inside the handpiece should therefore be checked.
 
+![Contamination in a diode laser handpiece optical system](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/zabrudzona-optyka-lasera.webp)
+
 #### Optical system inspection and cleaning
 
 Components around the optical path required particular attention.
@@ -12603,8 +12605,6 @@ Components around the optical path required particular attention.
 Contamination on optical components can affect energy transmission and cause additional heating during laser operation.
 
 Before reassembling the handpiece, we therefore thoroughly removed contamination and inspected accessible components.
-
-![Contamination in a diode laser handpiece optical system](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/zabrudzona-optyka-lasera.webp)
 
 ![Laser diode module during a service inspection](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/modul-diodowy-lasera.webp)
 
@@ -12714,6 +12714,8 @@ An urgent on-site visit to Gliwice for an overheating diode laser. A cracked fit
 
 We received an urgent request from Gliwice about an overheating diode laser used for hair removal. An on-site technician was needed.
 
+![Removed water filter from a diode laser cooling system](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/wymiana-filtra-wody-laser-diodowy-gliwice.webp)
+
 #### Diagnosis
 
 During the cooling system inspection, our technician identified the cause. A fitting near the water filter had cracked at the connection between the filter and the cooling hose.
@@ -12731,8 +12733,6 @@ The laser is working again. This failure highlights the importance of regularly 
 Laser Tech Service provides laser servicing, refurbishment and aesthetic laser repairs, including on-site visits.
 
 #### Service photographs from Gliwice
-
-![Removed water filter from a diode laser cooling system](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/wymiana-filtra-wody-laser-diodowy-gliwice.webp)
 
 ![Service access to the diode laser cooling system filter](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/uklad-chlodzenia-lasera-diodowego-gliwice.webp)
 
@@ -12780,9 +12780,13 @@ A new customer in Prague reported no cooling and a “Water flow error” messag
 
 - Work performed: Carbon brush replacement and pump repair
 
+![Unique Light System E808 with its display and handpiece](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/laser-unique-light-system-e808-widok-ogolny.webp)
+
 #### Fault symptoms
 
 The Unique Light System E808 contained coolant, but the cooling system was not working. Its display showed “Water flow error”. The service request concerned a laser hair removal device with a liquid cooling system.
+
+![Water flow error message on the E808 display](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/e808-water-flow-error-ekran.webp)
 
 #### On-site diagnosis
 
@@ -12805,10 +12809,6 @@ A Laser Tech Service technician travelled to the customer in Prague and checked 
 Repairing the pump restored coolant circulation and the device is working again. Reusing the repaired assembly saved the customer the expense of buying a new pump.
 
 #### Photos from the repair in Prague
-
-![Unique Light System E808 with its display and handpiece](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/laser-unique-light-system-e808-widok-ogolny.webp)
-
-![Water flow error message on the E808 display](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/e808-water-flow-error-ekran.webp)
 
 ![Technician working at the rear casing of the E808](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/e808-dostep-serwisowy-obudowa.webp)
 
@@ -12894,13 +12894,13 @@ During this job, **we replaced the device's filter and water**. These were plann
 
 The photograph shows the filter with its connectors. The close-up shows its housing and connections.
 
+![Service work at the open ESTELASE POWER P-808L housing](https://lasertechservice.pl/img/realizacje/przeglad-estelase-power-p808l/estelase-power-p808l-prace-serwisowe.webp)
+
 #### Air cleaning during maintenance
 
 Another part of the scheduled maintenance was **cleaning the device with air**. The photograph shows the technician working at the open housing and accessing internal components.
 
 Air cleaning and filter and water replacement formed the service scope. We then proceeded to check the device.
-
-![Service work at the open ESTELASE POWER P-808L housing](https://lasertechservice.pl/img/realizacje/przeglad-estelase-power-p808l/estelase-power-p808l-prace-serwisowe.webp)
 
 #### ESTELASE POWER rear panel and service details
 
@@ -12986,11 +12986,15 @@ On-site ESTETECH repair in Poznań: Peltier module replacement, thermal interfac
 
 A client in Poznań reported a fault with the ESTETECH laser handpiece’s contact cooling. The treatment surface had stopped cooling adequately, preventing normal handpiece use. Contact cooling helps control skin temperature during treatment, improves comfort and reduces the risk of unwanted thermal effects.
 
+![Open ESTETECH handpiece housing with wiring and the internal metal assembly](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp)
+
 #### On-site diagnostics in Poznań
 
 Laser Tech Service specialists attended the client’s premises. Diagnostics identified a faulty thermoelectric Peltier module. When supplied with current, this component transfers heat from the cooled side to the side from which the rest of the system removes it.
 
 For this job, module failure was confirmed as the cause of inadequate cooling. However, the symptom alone does not identify a TEC fault in every device: similar problems can have other causes and require professional diagnostics. We do not specify the cause of the module’s own failure without further evidence.
+
+![ESTETECH handpiece interior with a circuit board, wiring and connections](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-wnetrze-glowicy.webp)
 
 #### Peltier module replacement and maintenance
 
@@ -13022,10 +13026,6 @@ Another cooling problem is documented in the [fan replacement case study from Wr
 #### Repair photographs
 
 Select a photograph to view the details.
-
-![Open ESTETECH handpiece housing with wiring and the internal metal assembly](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp)
-
-![ESTETECH handpiece interior with a circuit board, wiring and connections](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-wnetrze-glowicy.webp)
 
 ![Laser device housing bearing the ESTETECH marking during servicing in Poznań](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-aparat-poznan.webp)
 
@@ -13075,17 +13075,17 @@ A small seal with major consequences: after the owner replaced a seal, coolant e
 
 A laser with a damaged diode module required repair in Poznań. The failure followed the owner’s replacement of a seal between parts of the handpiece assembly. The diode itself was not the initial cause.
 
+![Removed diode module with contamination beside the open housing](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/zdemontowany-modul-diodowy-po-zalaniu-poznan.webp)
+
 #### Diagnosis: liquid inside the assembly
 
 Opening the handpiece revealed traces of liquid, contamination and dark deposits on the module components and inside its housing. The photographs document the damaged component after liquid ingress. They do not show a new module or measurements of its performance.
 
 #### Damage documentation
 
-![Removed diode module with contamination beside the open housing](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/zdemontowany-modul-diodowy-po-zalaniu-poznan.webp)
+![Dismantled laser handpiece with cooling hoses and the removed module](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/rozebrana-manipula-lasera-uklad-chlodzenia-poznan.webp)
 
 ![Liquid droplets and dark deposits inside the laser module housing](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/slady-cieczy-wewnatrz-modulu-lasera-poznan.webp)
-
-![Dismantled laser handpiece with cooling hoses and the removed module](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/rozebrana-manipula-lasera-uklad-chlodzenia-poznan.webp)
 
 #### Cause: an incorrectly fitted seal
 
@@ -13293,13 +13293,19 @@ A new customer from Prague brought a cosmetic laser device to Laser Tech Service
 
 - Work performed: Cooling tube and protective sleeve replacement
 
+![Side of the handpiece casing with hose assembly](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/manipula-laserowa-obudowa-boczna.webp)
+
 #### Customer report
 
 The customer also requested reassembly of the loose handpiece and treatment head, replacement of the worn corrugated protective sleeve, and a complete maintenance service.
 
+![Cracks in the corrugated protective sleeve](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/uszkodzona-oslona-przewodu-manipuly.webp)
+
 #### Diagnosis
 
 During inspection, our technicians discovered that the flexible cooling tubes inside the protective sleeve had deteriorated and lost their integrity. Material ageing and repeated bending during normal operation were considered possible contributing factors.
+
+![Open handpiece with module and wiring](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/otwarta-manipula-laserowa-modul-i-przewody.webp)
 
 #### Repair and maintenance
 
@@ -13314,12 +13320,6 @@ After servicing, the equipment was checked and confirmed to be operational, with
 Laser Tech Service provides a six-month warranty on the completed repair work.
 
 #### Service photographs
-
-![Side of the handpiece casing with hose assembly](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/manipula-laserowa-obudowa-boczna.webp)
-
-![Cracks in the corrugated protective sleeve](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/uszkodzona-oslona-przewodu-manipuly.webp)
-
-![Open handpiece with module and wiring](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/otwarta-manipula-laserowa-modul-i-przewody.webp)
 
 ![Transparent tubes and metal module inside the handpiece](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/wnetrze-manipuly-laserowej-modul-optyczny.webp)
 
@@ -13426,6 +13426,8 @@ The work included resolving the handpiece fault and carrying out routine device 
 
 - final device operational test
 
+![HIFU KIMED K1-W1601 handpiece repair](https://lasertechservice.pl/img/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz-2.webp)
+
 #### Non-working handpiece
 
 One of the main reasons for the service visit was a **non-working HIFU handpiece**.
@@ -13433,8 +13435,6 @@ One of the main reasons for the service visit was a **non-working HIFU handpiece
 We diagnosed the problem and repaired the handpiece. After completing the work, we checked its operation with the device.
 
 The repaired handpiece was checked before the final test of the complete KIMED K1-W1601 system.
-
-![HIFU KIMED K1-W1601 handpiece repair](https://lasertechservice.pl/img/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz-2.webp)
 
 ![Cleaning the KIMED K1-W1601 water reservoir](https://lasertechservice.pl/img/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz-3.webp)
 
@@ -13655,11 +13655,15 @@ A client in Wrocław reported a cooling fault in a Lumenis LightSheer DESIRE. Th
 
 - Equipment: Lumenis LightSheer DESIRE
 
+![Coolant reservoir during LightSheer DESIRE diagnostics](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-coolant-reservoir.webp)
+
 #### Problem: overheating and disrupted circulation
 
 Diagnostics revealed insufficient coolant, contaminated and yellowed tubing, and mineral deposits inside the tubes. Normal circulation was disrupted and heat removal from working components was insufficient. We did not determine the precise chemical composition of the deposits.
 
 When a laser does not cool its handpiece and displays a warning, the entire circuit needs assessment. The message alone does not identify a single component for replacement. In this case, inspection confirmed cooling system contamination and a circulation problem.
+
+![Exposed internal cooling components in the LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-internal-cooling-components.webp)
 
 #### Repair: work performed
 
@@ -13674,6 +13678,8 @@ When a laser does not cool its handpiece and displays a warning, the entire circ
 9. Checked cooling system operation.
 10. Reassembled the device and checked its operation.
 
+![Removing a LightSheer DESIRE housing panel](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-panel-removal.webp)
+
 #### Why does tubing replacement take time?
 
 The Lumenis LightSheer DESIRE has a compact internal layout. Access to tubing and cooling components is restricted, so replacement requires substantial disassembly, time and care. Labour covers access, installation and checks after reassembly, not just the cost of the tubes.
@@ -13687,12 +13693,6 @@ Replacing the tubing and coolant restored circulation. The cooling system operat
 Laser servicing, refurbishment and repairs are selected according to the actual condition of the equipment. This Lumenis LightSheer repair concerned the cooling circuit rather than diode module refurbishment. Our diode laser service began by identifying the cause of the symptoms.
 
 #### Repair photographs
-
-![Coolant reservoir during LightSheer DESIRE diagnostics](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-coolant-reservoir.webp)
-
-![Exposed internal cooling components in the LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-internal-cooling-components.webp)
-
-![Removing a LightSheer DESIRE housing panel](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-panel-removal.webp)
 
 ![Electronics and wiring inside the opened LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-internal-electronics.webp)
 
@@ -13747,6 +13747,8 @@ A leak when connecting the handpiece and device overheating required diagnostics
 
 - Scope: Cooling and leak-tightness
 
+![Lumenis LightSheer DESIRE showing the login screen at a clinic in Oleśnica](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lumenis-lightsheer-desire-aparat-olesnica.webp)
+
 #### Reported fault: fluid leaked when connecting the handpiece
 
 The owner of a Lumenis LightSheer DESIRE reported coolant leaking from the connector when attaching the handpiece. The device also had temperature problems: cooling was inadequate, the device overheated and could not operate normally. Laser Tech Service arranged a technical visit to the customer in Oleśnica, Lower Silesia.
@@ -13758,6 +13760,8 @@ The work concerned a professional diode laser for hair reduction, used for appro
 #### Fluid traces at the connector
 
 The photograph shows liquid beneath the exposed connector. It documents the customer's reported symptom, which required inspection of the hydraulic connection.
+
+![Handpiece in its holder beside the LightSheer DESIRE panel](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-manipula-przy-aparacie.webp)
 
 #### Diagnosing the circuit and hydraulic connector
 
@@ -13777,6 +13781,8 @@ The problem therefore involved concurrent contamination, incorrect valve operati
 
 Hard deposits cover part of the mesh surface. Such contamination may restrict flow in the cooling circuit. The precise composition of the deposits was not determined by analysis.
 
+![Technician at the LightSheer DESIRE handpiece connector; the screen displays a handpiece connection message](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-obsluga-zlacza-manipuly.webp)
+
 #### Work performed
 
 1. Specialist visit to the customer in Oleśnica.
@@ -13793,12 +13799,6 @@ Hard deposits cover part of the mesh surface. Such contamination may restrict fl
 This work did not require attributing replacement of the entire pump, electronics or laser diode module to the case. The photographs show access to components and successive stages of servicing.
 
 #### Work and equipment documentation
-
-![Lumenis LightSheer DESIRE showing the login screen at a clinic in Oleśnica](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lumenis-lightsheer-desire-aparat-olesnica.webp)
-
-![Handpiece in its holder beside the LightSheer DESIRE panel](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-manipula-przy-aparacie.webp)
-
-![Technician at the LightSheer DESIRE handpiece connector; the screen displays a handpiece connection message](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-obsluga-zlacza-manipuly.webp)
 
 ![Dismantled metal connection assembly and white hydraulic component in the technician's hands](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-demontaz-wezla-hydraulicznego.webp)
 
@@ -13878,6 +13878,8 @@ The problem was located in the pump. One of its components was **cracked and lea
 
 We also thoroughly inspected the hoses, connections and condition of the device interior.
 
+![Repairing the vacuum pump of a Multipolar RF aesthetic device](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin-2.webp)
+
 #### Repairing and sealing the pump
 
 After locating the leak, we repaired the damaged pump component and resealed it.
@@ -13885,8 +13887,6 @@ After locating the leak, we repaired the damaged pump component and resealed it.
 The entire system was then cleaned and checked again.
 
 Resolving the leak restored correct vacuum generation and improved suction handpiece operation.
-
-![Repairing the vacuum pump of a Multipolar RF aesthetic device](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin-2.webp)
 
 ![Repairing the RF connector in a Multipolar RF device](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin-3.webp)
 
@@ -14034,6 +14034,8 @@ During diagnostics and maintenance, we performed the following tasks:
 
 - final device inspection after the work
 
+![Nd:YAG laser with handpiece on a trolley in a clinic](https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz-2.webp)
+
 #### Cooling system inspection and maintenance
 
 Cooling is an important part of professional laser equipment.
@@ -14043,8 +14045,6 @@ Contamination can accumulate inside during use, gradually worsening operating co
 During this job, we paid particular attention to components responsible for cooling, ventilation and filtration.
 
 The used filter was replaced and system components cleaned before restarting the device.
-
-![Nd:YAG laser with handpiece on a trolley in a clinic](https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz-2.webp)
 
 #### Why does filter replacement matter?
 
@@ -14172,6 +14172,8 @@ After diagnostics, we began servicing several independent device systems.
 
 - checking device operation after servicing
 
+![NUBWAY NBW-VSIII vacuum system repair](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw-2.webp)
+
 #### Hose replacement and vacuum repair
 
 One of the main areas of work was the system responsible for generating and transmitting vacuum.
@@ -14181,8 +14183,6 @@ The hoses inside the device required replacement. They were removed and replaced
 The vacuum-generating component was also repaired. After the work, we checked the connections and system operation.
 
 A working vacuum system is essential for correct operation of device functions that use suction during treatments.
-
-![NUBWAY NBW-VSIII vacuum system repair](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw-2.webp)
 
 ![Repairing the NUBWAY NBW-VSIII RF component](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw-3.webp)
 
@@ -14297,6 +14297,8 @@ Equipment: NUBWAY NBW-VSIII (Body Space)
 Service: Vacuum system and release valve repair
 Company: Laser Tech Service
 
+![Technician beside the rear handpiece connections of the NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-przylacza-manipul.webp)
+
 #### Poor suction performance
 
 A rehabilitation studio in Wrocław contacted Laser Tech Service after experiencing problems with its NUBWAY NBW-VSIII body treatment machine.
@@ -14304,6 +14306,8 @@ A rehabilitation studio in Wrocław contacted Laser Tech Service after experienc
 The vacuum handpieces were producing insufficient suction, preventing the equipment from operating correctly during vacuum massage treatments.
 
 Our technicians visited the client's premises to diagnose and repair the problem.
+
+![Service work at the rear of the NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-tylna-czesc-urzadzenia.webp)
 
 #### Diagnosis and repair
 
@@ -14326,10 +14330,6 @@ Phone: +48 790 402 597
 contact@lasertechservice.pl
 
 #### Repair photographs
-
-![Technician beside the rear handpiece connections of the NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-przylacza-manipul.webp)
-
-![Service work at the rear of the NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-tylna-czesc-urzadzenia.webp)
 
 ![Technician beside the front casing of the NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-obudowa-urzadzenia.webp)
 
@@ -14405,6 +14405,8 @@ Laser Tech Service received a service request from Lubin, Poland, concerning an 
 
 Laser Tech Service received a service request from Lubin, Poland, concerning an overheating laser hair removal handpiece.
 
+![Open laser handpiece assembly with visible wires and connections](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/laser-diodowy-przewody-polaczenie-lubin.webp)
+
 #### Diagnosis
 
 During the inspection, our technicians identified excessively long electrical wires connected to the laser diode. In this particular configuration, the wiring contributed to the overheating problem.
@@ -14422,8 +14424,6 @@ Following the repair, the handpiece stopped overheating and the device returned 
 Laser Tech Service provides professional laser servicing, maintenance and repairs throughout Poland.
 
 #### Photos from the repair in Lubin
-
-![Open laser handpiece assembly with visible wires and connections](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/laser-diodowy-przewody-polaczenie-lubin.webp)
 
 ![Technician soldering wires beside the open laser handpiece](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/naprawa-polaczenia-diody-laserowej-lubin.webp)
 
@@ -14467,11 +14467,15 @@ Two independent faults in one device: Peltier module replacement, Nd:YAG handpie
 
 **Work performed:** cooling system diagnostics, Peltier module replacement, Nd:YAG laser component replacement and laser calibration.
 
+![Contact surface of a dismantled hair removal handpiece during servicing](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-do-depilacji-powierzchnia-kontaktowa.webp)
+
 #### Two faults in one device
 
 Laser Tech Service specialists carried out a comprehensive repair of a multifunction aesthetic device combining two technologies: laser hair removal and Nd:YAG for tattoo and pigmentation removal.
 
 Diagnostics identified two independent faults requiring repairs to both handpieces.
+
+![Device control panel displaying NDYAG LASER mode](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/panel-aparatu-tryb-nd-yag.webp)
 
 #### First fault — Peltier module overheating
 
@@ -14494,6 +14498,8 @@ The incorrect connection configuration disrupted cooling system operation and cr
 - Handpiece reassembly and cooling checks.
 
 - Verification that both handpieces were connected correctly.
+
+![Multifunction device with handpieces in the treatment room during servicing](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/aparat-dwie-glowice-serwis.webp)
 
 #### Second fault — a damaged Nd:YAG laser component
 
@@ -14521,6 +14527,8 @@ Calibration is necessary for correct laser system operation following work on it
 
 - Operational checks after repair.
 
+![Nd:YAG mode screen with energy and frequency fields](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/ekran-nd-yag-energia-czestotliwosc.webp)
+
 #### Repair result
 
 During a single service visit, Laser Tech Service specialists resolved two faults in different handpieces of the same device.
@@ -14539,19 +14547,11 @@ Replacing a faulty part without addressing the cause of its failure creates a ri
 
 #### Photographs of the service work
 
-![Contact surface of a dismantled hair removal handpiece during servicing](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-do-depilacji-powierzchnia-kontaktowa.webp)
-
-![Device control panel displaying NDYAG LASER mode](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/panel-aparatu-tryb-nd-yag.webp)
-
-![Multifunction device with handpieces in the treatment room during servicing](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/aparat-dwie-glowice-serwis.webp)
-
-![Nd:YAG mode screen with energy and frequency fields](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/ekran-nd-yag-energia-czestotliwosc.webp)
-
-![Exposed wiring and components of the hair removal handpiece](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-depilacja-odsloniete-przewody.webp)
-
 ![Technician wearing protective glasses working on an open Nd:YAG handpiece](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/serwis-manipuly-nd-yag.webp)
 
 ![Interior of the hair removal handpiece housing with the assembly and wiring visible](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-depilacja-wnetrze-obudowy.webp)
+
+![Exposed wiring and components of the hair removal handpiece](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-depilacja-odsloniete-przewody.webp)
 
 #### Related resources and services
 
@@ -14756,11 +14756,15 @@ A Laser Tech Service specialist visited a client in Legnica to service a Sapphir
 
 - Service scope: Coolant replacement and maintenance
 
+![Sapphire nameplate showing 31.05.2018](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-tabliczka-znamionowa.webp)
+
 #### Problem: insufficient coolant
 
 Inspection during the service visit revealed insufficient fluid in the cooling circuit. This was the confirmed condition before maintenance. The reported work did not establish the reason for the fluid loss, so we do not attribute it to a leak or damage to a specific component.
 
 The Sapphire nameplate shows 31.05.2018. This is not the date of this service visit. The nameplate alone does not establish current technical condition or treatment effectiveness.
+
+![Specialist working at the rear of the Sapphire housing](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-demontaz-obudowy.webp)
 
 #### Work performed
 
@@ -14770,6 +14774,8 @@ The Sapphire nameplate shows 31.05.2018. This is not the date of this service vi
 4. Refilling the circuit with new coolant.
 5. Cleaning the device.
 6. Starting the device and checking its operation.
+
+![Internal Sapphire components during service access](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-wewnetrzne-podzespoly.webp)
 
 #### Servicing, repair and refurbishment involve different work
 
@@ -14784,12 +14790,6 @@ After coolant replacement and cleaning, the device was started and its operation
 This result confirms an operational check after maintenance. It does not replace an emission measurement report or assess clinical effectiveness. The photographs document a service visit, not a study of treatment outcomes.
 
 #### Sapphire service photographs
-
-![Sapphire nameplate showing 31.05.2018](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-tabliczka-znamionowa.webp)
-
-![Specialist working at the rear of the Sapphire housing](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-demontaz-obudowy.webp)
-
-![Internal Sapphire components during service access](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-wewnetrzne-podzespoly.webp)
 
 ![Tubing and components in the Sapphire cooling circuit](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-uklad-chlodzenia.webp)
 
@@ -14944,6 +14944,8 @@ We received an urgent request from an **aesthetic medicine studio in Poznań**. 
 
 Diagnostics and repair were carried out at the clinic. The starting point was a specific symptom: no correct response to the activation command. We needed to establish whether the problem lay in the pedal or further along the control circuit.
 
+![Inside the open laser device housing during servicing](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/laser-co2-otwarta-obudowa.webp)
+
 #### First suspect: the foot pedal
 
 The pedal was the most obvious suspect. Before deciding to replace a part, we checked it fully. The diagnostic result was clear: **the pedal was fully functional**.
@@ -14967,8 +14969,6 @@ Inside the handpiece wiring, we found a **small red wire with an internal break*
 This wire, not the pedal, caused the reported problem. A small circuit component had disabled a function needed for normal device use.
 
 #### Internal access and work at the connector
-
-![Inside the open laser device housing during servicing](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/laser-co2-otwarta-obudowa.webp)
 
 ![Tool work on the handpiece cable connector](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/manipula-lasera-praca-przy-zlaczu.webp)
 
@@ -15259,6 +15259,8 @@ Kontrola wykazała, że przewód doprowadzający wodę do głowicy RF był uszko
 
 - przygotowanie głowicy do wymiany przewodu
 
+![Naprawa i wymiana przewodu chłodzenia głowicy RF Alma Accent](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/naprawa-glowicy-rf-alma-accent-gorlitz.webp)
+
 #### Wymiana uszkodzonego przewodu chłodzenia
 
 Uszkodzony przewód został usunięty i zastąpiony nowym elementem.
@@ -15266,8 +15268,6 @@ Uszkodzony przewód został usunięty i zastąpiony nowym elementem.
 Podczas montażu zwróciliśmy uwagę na prawidłowe poprowadzenie przewodu wewnątrz obudowy głowicy oraz jego poprawne podłączenie.
 
 Po zakończeniu prac głowica została ponownie złożona, a układ doprowadzania wody sprawdzony.
-
-![Naprawa i wymiana przewodu chłodzenia głowicy RF Alma Accent](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/naprawa-glowicy-rf-alma-accent-gorlitz.webp)
 
 ![Alma Accent RFD 1200 podczas serwisu w Görlitz](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/alma-accent-rfd-1200-serwis-gorlitz.webp)
 
@@ -15389,6 +15389,8 @@ Ustaliliśmy, że do manipuły **nie dochodziło prawidłowo zasilanie**. W kons
 
 - konieczność kontroli połączeń elektrycznych manipuły
 
+![Test vacuum i RF Beauty Planet 3D Contour po naprawie](https://lasertechservice.pl/img/realizacje/beauty-planet-3d-contour-wroclaw/beauty-planet-3d-contour-vacuum-rf-test.webp)
+
 #### Kontrola funkcji manipuły
 
 Po wykonaniu naprawy sprawdziliśmy działanie funkcji odpowiedzialnych za pracę manipuły.
@@ -15396,8 +15398,6 @@ Po wykonaniu naprawy sprawdziliśmy działanie funkcji odpowiedzialnych za prac�
 System Beauty Planet 3D Contour umożliwia regulację poziomu podciśnienia oraz parametrów RF bezpośrednio z poziomu interfejsu urządzenia.
 
 Po przywróceniu prawidłowego zasilania wykonaliśmy test działania naprawionych funkcji.
-
-![Test vacuum i RF Beauty Planet 3D Contour po naprawie](https://lasertechservice.pl/img/realizacje/beauty-planet-3d-contour-wroclaw/beauty-planet-3d-contour-vacuum-rf-test.webp)
 
 #### Co zostało wykonane?
 
@@ -15499,11 +15499,15 @@ Klient z Wrocławia zgłosił problem z chłodzeniem Lumenis LightSheer DESIRE. 
 
 - Urządzenie: Lumenis LightSheer DESIRE
 
+![Zbiornik płynu chłodzącego podczas diagnostyki LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-coolant-reservoir.webp)
+
 #### Problem: przegrzewanie i zakłócona cyrkulacja
 
 Podczas diagnostyki stwierdziliśmy zbyt małą ilość płynu chłodzącego, zabrudzone i pożółkłe przewody oraz osady mineralne wewnątrz rurek. Cyrkulacja była zaburzona, a odprowadzanie ciepła od pracujących podzespołów — niewystarczające. Nie określaliśmy dokładnego składu chemicznego osadów.
 
 Gdy laser nie chłodzi głowicy i wyświetla ostrzeżenie, potrzebna jest diagnostyka całego obiegu. Sam komunikat nie wskazuje jednoznacznie części wymagającej wymiany. W tym przypadku oględziny potwierdziły zanieczyszczenia układu chłodzenia i problem z przepływem.
+
+![Odsłonięte elementy chłodzenia wewnątrz LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-internal-cooling-components.webp)
 
 #### Naprawa: wykonane prace
 
@@ -15518,6 +15522,8 @@ Gdy laser nie chłodzi głowicy i wyświetla ostrzeżenie, potrzebna jest diagno
 9. Kontrola działania układu chłodzenia.
 10. Złożenie aparatu i sprawdzenie jego działania.
 
+![Demontaż panelu obudowy LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-panel-removal.webp)
+
 #### Dlaczego wymiana przewodów wymaga czasu?
 
 Lumenis LightSheer DESIRE ma zwartą konstrukcję wewnętrzną. Dostęp do przewodów i elementów chłodzenia jest ograniczony, dlatego wymiana wymaga znacznego demontażu, czasu i dokładności. Koszt pracy nie sprowadza się do ceny samych rurek: obejmuje uzyskanie dostępu, montaż i kontrolę po złożeniu.
@@ -15531,12 +15537,6 @@ Po wymianie przewodów i płynu przywróciliśmy cyrkulację. Układ chłodzenia
 Serwis laserów, regeneracja laserów i naprawa laserów to usługi dobierane do rzeczywistego stanu urządzenia. W tym przypadku naprawa Lumenis LightSheer dotyczyła układu chłodzenia, a nie regeneracji modułu diodowego. Nasz serwis laserów diodowych rozpoczął pracę od ustalenia przyczyny objawów.
 
 #### Dokumentacja naprawy
-
-![Zbiornik płynu chłodzącego podczas diagnostyki LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-coolant-reservoir.webp)
-
-![Odsłonięte elementy chłodzenia wewnątrz LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-internal-cooling-components.webp)
-
-![Demontaż panelu obudowy LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-panel-removal.webp)
 
 ![Elektronika i przewody wewnątrz otwartego LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-internal-electronics.webp)
 
@@ -15591,6 +15591,8 @@ Wyciek przy podłączaniu manipuły i przegrzewanie aparatu wymagały diagnostyk
 
 - Zakres: Chłodzenie i szczelność
 
+![Lumenis LightSheer DESIRE z ekranem logowania w gabinecie w Oleśnicy](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lumenis-lightsheer-desire-aparat-olesnica.webp)
+
 #### Zgłoszenie: płyn wyciekał podczas podłączania głowicy
 
 Właściciel Lumenis LightSheer DESIRE zgłosił wyciek chłodziwa z konektora podczas podłączania manipuły. Jednocześnie urządzenie miało problemy z temperaturą: układ nie zapewniał prawidłowego chłodzenia, aparat przegrzewał się i nie mógł normalnie pracować. Laser Tech Service zorganizował wyjazd techniczny bezpośrednio do klienta w Oleśnicy, w województwie dolnośląskim.
@@ -15602,6 +15604,8 @@ Serwis dotyczył profesjonalnego lasera diodowego do redukcji owłosienia, użyt
 #### Ślady płynu przy złączu
 
 Na zdjęciu widać ciecz poniżej odsłoniętego konektora. To dokumentacja objawu zgłoszonego przez klienta, wymagającego sprawdzenia połączenia hydraulicznego.
+
+![Manipuła w uchwycie obok panelu LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-manipula-przy-aparacie.webp)
 
 #### Diagnostyka obiegu i złącza hydraulicznego
 
@@ -15621,6 +15625,8 @@ Problem obejmował więc współwystępujące zabrudzenie, nieprawidłową prac�
 
 Twarde osady zasłaniają część powierzchni siatki. Takie zanieczyszczenie może utrudniać przepływ w obiegu chłodzenia. Dokładny skład złogów nie został określony analizą.
 
+![Technik przy złączu manipuły LightSheer DESIRE; ekran pokazuje komunikat o podłączeniu głowicy](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-obsluga-zlacza-manipuly.webp)
+
 #### Zakres wykonanych prac
 
 1. Wyjazd specjalisty do klienta w Oleśnicy.
@@ -15637,12 +15643,6 @@ Twarde osady zasłaniają część powierzchni siatki. Takie zanieczyszczenie mo
 Zakres nie wymagał przypisywania temu zleceniu wymiany całej pompy, elektroniki ani modułu diodowego. Fotografie przedstawiają dostęp do podzespołów i kolejne etapy pracy serwisowej.
 
 #### Dokumentacja prac i urządzenia
-
-![Lumenis LightSheer DESIRE z ekranem logowania w gabinecie w Oleśnicy](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lumenis-lightsheer-desire-aparat-olesnica.webp)
-
-![Manipuła w uchwycie obok panelu LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-manipula-przy-aparacie.webp)
-
-![Technik przy złączu manipuły LightSheer DESIRE; ekran pokazuje komunikat o podłączeniu głowicy](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-obsluga-zlacza-manipuly.webp)
 
 ![Demontowany metalowy węzeł połączenia i biały element hydrauliczny w rękach technika](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-demontaz-wezla-hydraulicznego.webp)
 
@@ -15722,6 +15722,8 @@ Problem został zlokalizowany w obrębie pompy. Jej element był **popękany i n
 
 Przy okazji dokładnie sprawdziliśmy przewody, połączenia oraz stan wnętrza urządzenia.
 
+![Naprawa pompy podciśnienia urządzenia kosmetologicznego Multipolar RF](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin-2.webp)
+
 #### Naprawa i uszczelnienie pompy
 
 Po zlokalizowaniu miejsca nieszczelności wykonaliśmy naprawę uszkodzonego elementu pompy oraz jego ponowne uszczelnienie.
@@ -15729,8 +15731,6 @@ Po zlokalizowaniu miejsca nieszczelności wykonaliśmy naprawę uszkodzonego ele
 Następnie cały układ został oczyszczony i ponownie sprawdzony.
 
 Usunięcie nieszczelności pozwoliło przywrócić prawidłowe wytwarzanie podciśnienia i poprawić pracę głowicy zasysającej.
-
-![Naprawa pompy podciśnienia urządzenia kosmetologicznego Multipolar RF](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin-2.webp)
 
 ![Naprawa złącza RF w urządzeniu Multipolar RF](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin-3.webp)
 
@@ -15878,6 +15878,8 @@ Po wykonaniu diagnostyki przystąpiliśmy do prac serwisowych obejmujących kilk
 
 - kontrola działania urządzenia po wykonanym serwisie
 
+![Naprawa układu podciśnienia NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw-2.webp)
+
 #### Wymiana przewodów i naprawa podciśnienia
 
 Jednym z głównych zakresów tej realizacji był serwis układu odpowiedzialnego za wytwarzanie i przekazywanie podciśnienia.
@@ -15887,8 +15889,6 @@ Przewody znajdujące się w urządzeniu wymagały wymiany. Zostały zdemontowane
 Naprawiony został również element odpowiedzialny za wytwarzanie podciśnienia. Po wykonaniu prac sprawdziliśmy połączenia oraz działanie układu.
 
 Sprawny układ podciśnienia jest kluczowy dla prawidłowej pracy funkcji urządzenia, które wykorzystują próżnię podczas zabiegów.
-
-![Naprawa układu podciśnienia NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw-2.webp)
 
 ![Naprawa elementu RF urządzenia NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw-3.webp)
 
@@ -16008,9 +16008,13 @@ Nowy klient z Pragi zgłosił brak chłodzenia i komunikat „Water flow error�
 
 - Zakres: Wymiana szczotek i regeneracja pompy
 
+![Aparat Unique Light System E808 z ekranem i manipułą](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/laser-unique-light-system-e808-widok-ogolny.webp)
+
 #### Objawy usterki
 
 W urządzeniu Unique Light System E808 znajdowała się ciecz chłodząca, ale chłodzenie nie działało. Na ekranie pojawiał się komunikat „Water flow error”. Zgłoszenie dotyczyło aparatu do depilacji z cieczowym układem chłodzenia.
+
+![Komunikat Water flow error na ekranie aparatu E808](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/e808-water-flow-error-ekran.webp)
 
 #### Diagnoza na miejscu
 
@@ -16033,10 +16037,6 @@ Technik Laser Tech Service przyjechał do klienta w Pradze i sprawdził układ c
 Po naprawie pompy przywrócono cyrkulację płynu chłodzącego i aparat ponownie działa. Wykorzystanie naprawionego zespołu zamiast zakupu nowej pompy pozwoliło klientowi zaoszczędzić pieniądze.
 
 #### Zdjęcia z naprawy w Pradze
-
-![Aparat Unique Light System E808 z ekranem i manipułą](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/laser-unique-light-system-e808-widok-ogolny.webp)
-
-![Komunikat Water flow error na ekranie aparatu E808](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/e808-water-flow-error-ekran.webp)
 
 ![Technik przy tylnej obudowie lasera E808](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/e808-dostep-serwisowy-obudowa.webp)
 
@@ -16174,13 +16174,19 @@ Do Laser Tech Service trafił nowy klient z Pragi, który przywiózł do naszego
 
 - Zakres: Wymiana przewodów i osłony głowicy
 
+![Boczna obudowa manipuły z przewodem](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/manipula-laserowa-obudowa-boczna.webp)
+
 #### Objawy i zgłoszenie
 
 Problemem był wyciek cieczy chłodzącej z karbowanej osłony przewodu głowicy. Klient poprosił również o ponowne, stabilne złożenie poluzowanej głowicy, wymianę zużytej osłony oraz kompleksowy przegląd techniczny urządzenia.
 
+![Pęknięcia karbowanej osłony przewodu](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/uszkodzona-oslona-przewodu-manipuly.webp)
+
 #### Diagnoza
 
 Po rozebraniu głowicy okazało się, że elastyczne przewody układu chłodzenia znajdujące się wewnątrz osłony były zużyte i utraciły szczelność. Jedną z prawdopodobnych przyczyn była degradacja materiału związana z wiekiem oraz wielokrotnym zginaniem przewodu podczas pracy.
+
+![Otwarta manipuła z modułem i przewodami](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/otwarta-manipula-laserowa-modul-i-przewody.webp)
 
 #### Naprawa i przegląd
 
@@ -16195,12 +16201,6 @@ To kolejny przykład pokazujący, że profesjonalny serwis laserów, regeneracja
 Na wykonane prace udzielamy 6 miesięcy gwarancji.
 
 #### Zdjęcia z serwisu
-
-![Boczna obudowa manipuły z przewodem](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/manipula-laserowa-obudowa-boczna.webp)
-
-![Pęknięcia karbowanej osłony przewodu](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/uszkodzona-oslona-przewodu-manipuly.webp)
-
-![Otwarta manipuła z modułem i przewodami](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/otwarta-manipula-laserowa-modul-i-przewody.webp)
 
 ![Przezroczyste rurki i metalowy moduł wewnątrz manipuły](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/wnetrze-manipuly-laserowej-modul-optyczny.webp)
 
@@ -16262,11 +16262,15 @@ Urządzenie: NUBWAY NBW-VSIII (Body Space)
 Usługa: Naprawa układu podciśnienia i zaworu odpowietrzającego
 Wykonawca: Laser Tech Service
 
+![Technik przy tylnych przyłączach głowic NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-przylacza-manipul.webp)
+
 #### Problem z działaniem głowic próżniowych
 
 Do Laser Tech Service zgłosiło się studio rehabilitacji z Wrocławia. Urządzenie NUBWAY NBW-VSIII nie wytwarzało prawidłowego podciśnienia, przez co głowice próżniowe miały zbyt słabą siłę zasysania. Utrudniało to prawidłowe wykonywanie zabiegów.
 
 Nasi specjaliści przyjechali bezpośrednio do klienta, aby przeprowadzić diagnostykę i naprawę urządzenia na miejscu.
+
+![Praca serwisowa przy tylnej części NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-tylna-czesc-urzadzenia.webp)
 
 #### Diagnostyka i naprawa
 
@@ -16289,10 +16293,6 @@ Tel. +48 790 402 597
 contact@lasertechservice.pl
 
 #### Zdjęcia z naprawy
-
-![Technik przy tylnych przyłączach głowic NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-przylacza-manipul.webp)
-
-![Praca serwisowa przy tylnej części NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-tylna-czesc-urzadzenia.webp)
 
 ![Technik przy przedniej obudowie NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-obudowa-urzadzenia.webp)
 
@@ -16376,6 +16376,8 @@ Otrzymaliśmy pilne zgłoszenie od **studia medycyny estetycznej w Poznaniu**. P
 
 Diagnostykę i naprawę przeprowadziliśmy na miejscu w gabinecie. Punktem wyjścia był konkretny objaw: brak poprawnej odpowiedzi na polecenie uruchomienia. Trzeba było ustalić, czy problem leży w samym pedale, czy w dalszej części obwodu sterowania.
 
+![Wnętrze otwartej obudowy aparatu laserowego podczas serwisu](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/laser-co2-otwarta-obudowa.webp)
+
 #### Pierwsze podejrzenie: pedał sterujący
 
 Najbardziej oczywistym podejrzanym był pedał. Zanim podjęliśmy decyzję o wymianie części, został w pełni sprawdzony. Wynik diagnostyki był jednoznaczny: **pedał był całkowicie sprawny**.
@@ -16399,8 +16401,6 @@ W okablowaniu manipuły znaleźliśmy **mały czerwony przewód z wewnętrzną p
 To ten przewód, a nie pedał, był przyczyną opisanego problemu. Niewielki element obwodu zatrzymał funkcję potrzebną do normalnego użytkowania aparatu.
 
 #### Dostęp do wnętrza i praca przy złączu
-
-![Wnętrze otwartej obudowy aparatu laserowego podczas serwisu](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/laser-co2-otwarta-obudowa.webp)
 
 ![Praca narzędziem przy złączu przewodu manipuły](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/manipula-lasera-praca-przy-zlaczu.webp)
 
@@ -16480,13 +16480,13 @@ Podczas tej realizacji **wymieniliśmy filtr oraz wodę w urządzeniu**. Były t
 
 Na zdjęciu pokazujemy filtr ze złączami. Zbliżenie przedstawia jego obudowę oraz przyłącza.
 
+![Prace serwisowe przy otwartej obudowie ESTELASE POWER P-808L](https://lasertechservice.pl/img/realizacje/przeglad-estelase-power-p808l/estelase-power-p808l-prace-serwisowe.webp)
+
 #### Przedmuch podczas przeglądu
 
 Kolejnym elementem planowej obsługi był **przedmuch urządzenia**. Zdjęcie przedstawia pracę serwisanta przy otwartej obudowie i dostęp do wewnętrznych podzespołów.
 
 Przedmuch, wymiana filtra i wymiana wody stanowiły zakres wykonanej obsługi. Następnie przeszliśmy do sprawdzenia urządzenia.
-
-![Prace serwisowe przy otwartej obudowie ESTELASE POWER P-808L](https://lasertechservice.pl/img/realizacje/przeglad-estelase-power-p808l/estelase-power-p808l-prace-serwisowe.webp)
 
 #### Tylny panel i detale serwisowe ESTELASE POWER
 
@@ -16706,6 +16706,8 @@ Pilny wyjazd serwisowy do Lubina. Głowica lasera przegrzewała się z powodu zb
 
 Do Laser Tech Service zgłosił się klient z Lubina z problemem przegrzewającej się głowicy lasera do depilacji. Urządzenie wymagało interwencji technicznej.
 
+![Otwarty zespół manipuły laserowej z widocznymi przewodami i połączeniami](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/laser-diodowy-przewody-polaczenie-lubin.webp)
+
 #### Diagnoza
 
 Podczas kontroli połączeń elektrycznych technicy stwierdzili, że przewody podłączone do diody laserowej były zbyt długie dla zastosowanej konfiguracji. Powodowało to problemy z pracą układu i przegrzewanie głowicy.
@@ -16723,8 +16725,6 @@ Po wykonaniu prac głowica lasera przestała się przegrzewać i urządzenie pon
 Laser Tech Service realizuje profesjonalny **serwis laserów**, **naprawę laserów** oraz **regenerację laserów** kosmetycznych na terenie Polski.
 
 #### Zdjęcia z serwisu w Lubinie
-
-![Otwarty zespół manipuły laserowej z widocznymi przewodami i połączeniami](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/laser-diodowy-przewody-polaczenie-lubin.webp)
 
 ![Technik lutuje przewody przy otwartej manipule laserowej](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/naprawa-polaczenia-diody-laserowej-lubin.webp)
 
@@ -16778,6 +16778,8 @@ Pilny wyjazd serwisowy do Gliwic z powodu przegrzewania lasera diodowego. Przycz
 
 Otrzymaliśmy pilne zgłoszenie z Gliwic dotyczące przegrzewającego się lasera diodowego do depilacji. Urządzenie wymagało szybkiej interwencji serwisowej.
 
+![Wymontowany filtr wody z układu chłodzenia lasera diodowego](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/wymiana-filtra-wody-laser-diodowy-gliwice.webp)
+
 #### Diagnoza
 
 Podczas kontroli układu chłodzenia nasz technik zlokalizował przyczynę problemu. Pękło mocowanie przy filtrze wody, w miejscu połączenia filtra z przewodem chłodzącym.
@@ -16795,8 +16797,6 @@ Laser ponownie działa. Awaria pokazała, jak ważna jest regularna kontrola fil
 Laser Tech Service wykonuje serwis laserów, regenerację laserów oraz naprawę laserów kosmetycznych, również podczas wyjazdów do klientów.
 
 #### Zdjęcia z serwisu w Gliwicach
-
-![Wymontowany filtr wody z układu chłodzenia lasera diodowego](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/wymiana-filtra-wody-laser-diodowy-gliwice.webp)
 
 ![Dostęp serwisowy do filtra układu chłodzenia lasera diodowego](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/uklad-chlodzenia-lasera-diodowego-gliwice.webp)
 
@@ -16846,6 +16846,8 @@ Kompleksowa diagnostyka i naprawa urządzenia Cavi Shape Advanced we Wrocławiu.
 
 - Lokalizacja: Wrocław
 
+![Technik przy otwartej obudowie Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-01.webp)
+
 #### Kilka usterek w jednym urządzeniu
 
 Urządzenie **Cavi Shape Advanced** wymagało kompleksowej diagnostyki kilku funkcji jednocześnie.
@@ -16874,13 +16876,13 @@ Po rozebraniu urządzenia sprawdziliśmy przewody, połączenia, styki oraz stan
 
 - ogólne zabrudzenie urządzenia wynikające z eksploatacji
 
+![Pomiar sygnałów podczas diagnostyki Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-10.webp)
+
 #### Kontrola sygnałów i połączeń
 
 Podczas diagnostyki wykonaliśmy pomiary elektryczne oraz kontrolę sygnałów odpowiedzialnych za pracę poszczególnych funkcji urządzenia.
 
 Dzięki pomiarom mogliśmy sprawdzić ciągłość połączeń oraz zlokalizować miejsca, w których występował nieprawidłowy kontakt.
-
-![Pomiar sygnałów podczas diagnostyki Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-10.webp)
 
 #### Diagnostyka Cavi Shape Advanced
 
@@ -16953,8 +16955,6 @@ Po zakończeniu prac wykonaliśmy kontrolę działania urządzenia oraz naprawio
 [Otwórz film na YouTube →](https://youtube.com/shorts/gFV7yQUg8kA)
 
 #### Zdjęcia z serwisu Cavi Shape Advanced
-
-![Technik przy otwartej obudowie Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-01.webp)
 
 ![Serwisant z narzędziami obok Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-02.webp)
 
@@ -17047,6 +17047,8 @@ Po dokładnych oględzinach oraz rozebraniu manipulatora potwierdziliśmy, że w
 
 - konieczność kontroli elementów znajdujących się wewnątrz manipulatora
 
+![Technik pracujący przy głowicy lasera u klienta](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/serwis-glowicy-lasera-na-miejscu.webp)
+
 #### Demontaż głowicy i dostęp do wnętrza
 
 Serwis został wykonany na miejscu u klienta w Poznaniu.
@@ -17054,8 +17056,6 @@ Serwis został wykonany na miejscu u klienta w Poznaniu.
 Manipulator został rozebrany w sposób umożliwiający dostęp do jego wewnętrznych elementów oraz dokładną ocenę poziomu zabrudzenia.
 
 Pozwoliło to oczyścić miejsca, do których nie ma dostępu podczas standardowej eksploatacji urządzenia.
-
-![Technik pracujący przy głowicy lasera u klienta](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/serwis-glowicy-lasera-na-miejscu.webp)
 
 ![Wnętrze głowicy lasera diodowego podczas serwisu](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/wnetrze-glowicy-lasera.webp)
 
@@ -17067,6 +17067,8 @@ W prawidłowo złożonym manipulatorze obudowa pomaga ograniczać dostęp kurzu 
 
 Dlatego po każdym uszkodzeniu obudowy lub utracie szczelności warto sprawdzić stan wnętrza głowicy.
 
+![Zabrudzenia w układzie optycznym głowicy lasera diodowego](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/zabrudzona-optyka-lasera.webp)
+
 #### Kontrola i czyszczenie układu optycznego
 
 Szczególnej kontroli wymagały elementy znajdujące się w obszarze toru optycznego.
@@ -17074,8 +17076,6 @@ Szczególnej kontroli wymagały elementy znajdujące się w obszarze toru optycz
 Zabrudzenia na elementach optycznych mogą wpływać na transmisję energii oraz powodować ich dodatkowe nagrzewanie podczas pracy lasera.
 
 Dlatego przed ponownym złożeniem manipulatora dokładnie usunęliśmy zanieczyszczenia i skontrolowaliśmy dostępne elementy głowicy.
-
-![Zabrudzenia w układzie optycznym głowicy lasera diodowego](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/zabrudzona-optyka-lasera.webp)
 
 ![Moduł diodowy lasera podczas kontroli serwisowej](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/modul-diodowy-lasera.webp)
 
@@ -17311,6 +17311,8 @@ Realizacja obejmowała zarówno usunięcie usterki głowicy, jak i okresową obs
 
 - końcowy test działania urządzenia
 
+![Naprawa głowicy HIFU KIMED K1-W1601](https://lasertechservice.pl/img/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz-2.webp)
+
 #### Niedziałająca głowica urządzenia
 
 Jednym z głównych powodów wizyty serwisowej była **niedziałająca głowica HIFU**.
@@ -17318,8 +17320,6 @@ Jednym z głównych powodów wizyty serwisowej była **niedziałająca głowica 
 Wykonaliśmy diagnostykę problemu, a następnie naprawę głowicy. Po zakończeniu prac sprawdziliśmy jej działanie w urządzeniu.
 
 Naprawiona głowica została poddana kontroli przed końcowym testem całego systemu KIMED K1-W1601.
-
-![Naprawa głowicy HIFU KIMED K1-W1601](https://lasertechservice.pl/img/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz-2.webp)
 
 ![Czyszczenie zbiornika układu wodnego KIMED K1-W1601](https://lasertechservice.pl/img/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz-3.webp)
 
@@ -17440,6 +17440,10 @@ Data publikacji: 2026-11-05
 
 ![Laser diodowy z ekranem, głowicą i przewodem na wózku](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa.webp)
 
+![Tylny panel lasera HS-A0406 z etykietą modelu, przyłączami wody i wentylatorami](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-hs-a0406-tabliczka-i-wentylatory.webp)
+
+Tylny panel lasera HS-A0406 z etykietą modelu, przyłączami wody i wentylatorami
+
 #### Krótki opis
 
 Regularny serwis laserów to najlepszy sposób na utrzymanie sprawności urządzeń kosmetologicznych. Podczas kolejnej wizyty u naszego stałego klienta w Warszawie przeprowadziliśmy pełny przegląd techniczny lasera diodowego 808 nm, wymieniliśmy płyn chłodzący, oczyściliśmy urządzenie, sprawdziliśmy moc diody i uszczelniliśmy głowicę.
@@ -17462,6 +17466,10 @@ Stary płyn chłodzący został spuszczony, a układ napełniono nowym płynem. 
 
 Regularna wymiana płynu pomaga ograniczyć ryzyko powstawania osadów i zanieczyszczeń, które mogą pogarszać przepływ cieczy oraz skuteczność chłodzenia.
 
+![Obudowa głowicy lasera diodowego z przewodem i małym wyświetlaczem](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/glowica-lasera-diodowego-808nm.webp)
+
+Obudowa głowicy lasera diodowego z przewodem i małym wyświetlaczem
+
 #### Czyszczenie wnętrza urządzenia
 
 Kolejnym etapem było oczyszczenie wnętrza lasera z nagromadzonego kurzu i zabrudzeń.
@@ -17470,6 +17478,10 @@ W urządzeniach kosmetologicznych pracujących przez wiele godzin dziennie zanie
 
 Usunięcie zabrudzeń jest ważną częścią konserwacji, ponieważ ograniczony przepływ powietrza może przyczyniać się do wzrostu temperatury podzespołów.
 
+![Przewód odprowadzający płyn do pojemnika przy tylnym panelu lasera](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/spust-plynu-chlodzacego-laser.webp)
+
+Przewód odprowadzający płyn do pojemnika przy tylnym panelu lasera
+
 #### Kontrola mocy diody laserowej
 
 Podczas przeglądu przeprowadziliśmy również kontrolę mocy diody laserowej.
@@ -17477,6 +17489,10 @@ Podczas przeglądu przeprowadziliśmy również kontrolę mocy diody laserowej.
 To istotny element serwisu laserów do depilacji, ponieważ stan źródła światła ma bezpośredni wpływ na parametry pracy urządzenia.
 
 Sama wartość ustawiona na ekranie nie zastępuje kontroli rzeczywistych parametrów pracy lasera.
+
+![Wewnętrzna metalowa płyta lasera z mocowaniami i przewodami](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/panel-wewnetrzny-lasera-i-przewody.webp)
+
+Wewnętrzna metalowa płyta lasera z mocowaniami i przewodami
 
 #### Uszczelnienie głowicy laserowej
 
@@ -17496,6 +17512,10 @@ To kolejny przykład pokazujący, że regularna konserwacja jest równie ważna 
 
 W Laser Tech Service wykonujemy diagnostykę, serwis laserów, regenerację laserów i naprawy urządzeń kosmetologicznych na terenie Warszawy oraz całej Polski.
 
+![Otwarta obudowa lasera z wentylatorami, zasilaczem i przewodami](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/wnetrze-lasera-diodowego-wentylatory.webp)
+
+Otwarta obudowa lasera z wentylatorami, zasilaczem i przewodami
+
 #### Wezwanie do kontaktu
 
 Twój laser pracuje codziennie, ale od dawna nie był serwisowany? Nie czekaj na awarię.
@@ -17505,26 +17525,6 @@ Skontaktuj się z Laser Tech Service i umów profesjonalny przegląd techniczny.
 Telefon / WhatsApp: +48 790 402 597
 
 #### Zdjęcia z serwisu
-
-![Tylny panel lasera HS-A0406 z etykietą modelu, przyłączami wody i wentylatorami](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-hs-a0406-tabliczka-i-wentylatory.webp)
-
-Tylny panel lasera HS-A0406 z etykietą modelu, przyłączami wody i wentylatorami
-
-![Obudowa głowicy lasera diodowego z przewodem i małym wyświetlaczem](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/glowica-lasera-diodowego-808nm.webp)
-
-Obudowa głowicy lasera diodowego z przewodem i małym wyświetlaczem
-
-![Przewód odprowadzający płyn do pojemnika przy tylnym panelu lasera](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/spust-plynu-chlodzacego-laser.webp)
-
-Przewód odprowadzający płyn do pojemnika przy tylnym panelu lasera
-
-![Wewnętrzna metalowa płyta lasera z mocowaniami i przewodami](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/panel-wewnetrzny-lasera-i-przewody.webp)
-
-Wewnętrzna metalowa płyta lasera z mocowaniami i przewodami
-
-![Otwarta obudowa lasera z wentylatorami, zasilaczem i przewodami](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/wnetrze-lasera-diodowego-wentylatory.webp)
-
-Otwarta obudowa lasera z wentylatorami, zasilaczem i przewodami
 
 ![Widok wewnętrznych podzespołów lasera i przewodów przy otwartej obudowie](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/podzespoly-wewnatrz-lasera-diodowego.webp)
 
@@ -17636,6 +17636,8 @@ W ramach jednego zlecenia przeprowadziliśmy kompleksową obsługę urządzenia.
 
 - końcowa kontrola działania urządzenia
 
+![Wymiana głowicy lasera diodowego do depilacji](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-2.webp)
+
 #### Wymiana głowicy lasera diodowego
 
 Jednym z najważniejszych etapów realizacji była wymiana głowicy zabiegowej lasera diodowego.
@@ -17643,8 +17645,6 @@ Jednym z najważniejszych etapów realizacji była wymiana głowicy zabiegowej l
 Po wykonaniu prac sprawdziliśmy połączenia oraz prawidłowość montażu nowej głowicy.
 
 Po ponownym złożeniu urządzenia wykonaliśmy kontrolę jego działania.
-
-![Wymiana głowicy lasera diodowego do depilacji](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-2.webp)
 
 ![Technik przy tylnej ściance lasera diodowego](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-3.webp)
 
@@ -17826,6 +17826,8 @@ W ramach diagnostyki i technicznej obsługi urządzenia wykonaliśmy następują
 
 - końcową kontrolę urządzenia po wykonaniu prac
 
+![Laser ND:YAG z manipułą na wózku w gabinecie](https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz-2.webp)
+
 #### Kontrola i konserwacja systemu chłodzenia
 
 Układ chłodzenia jest jednym z ważnych elementów profesjonalnego urządzenia laserowego.
@@ -17835,8 +17837,6 @@ Podczas eksploatacji wewnątrz urządzenia mogą gromadzić się zanieczyszczeni
 W trakcie tej realizacji szczególną uwagę zwróciliśmy na stan elementów odpowiedzialnych za chłodzenie urządzenia, wentylację oraz filtrację.
 
 Zużyty filtr został wymieniony, a elementy systemu oczyszczone przed ponownym uruchomieniem urządzenia.
-
-![Laser ND:YAG z manipułą na wózku w gabinecie](https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz-2.webp)
 
 #### Dlaczego wymiana filtra jest istotna?
 
@@ -17928,11 +17928,15 @@ Specjalista Laser Tech Service przyjechał do klienta w Legnicy w celu obsługi 
 
 - Zakres: Wymiana płynu i konserwacja
 
+![Tabliczka Sapphire z datą 31.05.2018](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-tabliczka-znamionowa.webp)
+
 #### Problem: niedostateczna ilość płynu chłodzącego
 
 Oględziny podczas wizyty serwisowej wykazały brak wymaganej ilości płynu w układzie chłodzenia. To potwierdzony stan zastany przy obsłudze. Nie ustalono w przekazanym opisie przyczyny ubytku, dlatego nie przypisujemy go nieszczelności ani uszkodzeniu konkretnego podzespołu.
 
 Na tabliczce Sapphire widnieje data 31.05.2018. Nie jest to data tej wizyty serwisowej. Sama tabliczka nie określa obecnego stanu technicznego ani skuteczności zabiegów.
+
+![Specjalista przy tylnej części obudowy Sapphire](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-demontaz-obudowy.webp)
 
 #### Wykonane prace
 
@@ -17942,6 +17946,8 @@ Na tabliczce Sapphire widnieje data 31.05.2018. Nie jest to data tej wizyty serw
 4. Napełnienie układu nowym płynem chłodzącym.
 5. Oczyszczenie aparatu.
 6. Uruchomienie urządzenia i sprawdzenie jego działania.
+
+![Wnętrze Sapphire podczas dostępu serwisowego](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-wewnetrzne-podzespoly.webp)
 
 #### Serwis, naprawa i regeneracja — różny zakres prac
 
@@ -17956,12 +17962,6 @@ Po wymianie płynu i oczyszczeniu aparat uruchomiono i sprawdzono jego pracę. U
 Ten wynik potwierdza sprawdzenie działania po obsłudze. Nie zastępuje raportu z pomiarów promieniowania i nie stanowi oceny skuteczności klinicznej. Zdjęcia dokumentują wizytę serwisową, a nie badanie efektów zabiegów.
 
 #### Dokumentacja obsługi Sapphire
-
-![Tabliczka Sapphire z datą 31.05.2018](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-tabliczka-znamionowa.webp)
-
-![Specjalista przy tylnej części obudowy Sapphire](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-demontaz-obudowy.webp)
-
-![Wnętrze Sapphire podczas dostępu serwisowego](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-wewnetrzne-podzespoly.webp)
 
 ![Przewody i elementy układu chłodzenia Sapphire](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-uklad-chlodzenia.webp)
 
@@ -18104,17 +18104,17 @@ Niewielka uszczelka, duże konsekwencje: po samodzielnej wymianie uszczelnienia 
 
 Do naprawy w Poznaniu trafił laser z uszkodzonym modułem diodowym. Awaria nastąpiła po samodzielnej wymianie przez właściciela uszczelki pomiędzy elementami węzła manipuły. To nie sama dioda była początkiem problemu.
 
+![Zdemontowany moduł diodowy z zabrudzeniami obok otwartej obudowy](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/zdemontowany-modul-diodowy-po-zalaniu-poznan.webp)
+
 #### Diagnoza: ciecz wewnątrz węzła
 
 Po otwarciu manipuły widoczne były ślady cieczy, zabrudzenia i ciemne osady na elementach modułu oraz wewnątrz jego obudowy. Zdjęcia dokumentują stan uszkodzonego podzespołu po zalaniu. Nie przedstawiają nowego modułu ani pomiarów jego pracy.
 
 #### Dokumentacja uszkodzeń
 
-![Zdemontowany moduł diodowy z zabrudzeniami obok otwartej obudowy](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/zdemontowany-modul-diodowy-po-zalaniu-poznan.webp)
+![Rozebrana manipuła lasera z przewodami chłodzenia i wymontowanym modułem](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/rozebrana-manipula-lasera-uklad-chlodzenia-poznan.webp)
 
 ![Krople cieczy i ciemne osady wewnątrz obudowy modułu laserowego](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/slady-cieczy-wewnatrz-modulu-lasera-poznan.webp)
-
-![Rozebrana manipuła lasera z przewodami chłodzenia i wymontowanym modułem](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/rozebrana-manipula-lasera-uklad-chlodzenia-poznan.webp)
 
 #### Przyczyna: nieprawidłowo zamontowana uszczelka
 
@@ -18184,11 +18184,15 @@ Wyjazdowa naprawa ESTETECH w Poznaniu: wymiana modułu Peltiera, odnowienie term
 
 Klient w Poznaniu zgłosił niesprawność kontaktowego chłodzenia manipuły lasera ESTETECH. Powierzchnia robocza przestała się odpowiednio chłodzić, co uniemożliwiało normalne użytkowanie głowicy. Kontaktowe chłodzenie pomaga kontrolować temperaturę skóry podczas procedury, zwiększa komfort i ogranicza ryzyko niepożądanego oddziaływania cieplnego.
 
+![Otwarta obudowa manipuły ESTETECH z przewodami i metalowym zespołem wewnętrznym](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp)
+
 #### Diagnostyka u klienta w Poznaniu
 
 Specjaliści Laser Tech Service przyjechali bezpośrednio do klienta. Diagnostyka wykazała niesprawność termoelektrycznego modułu Peltiera. Ten element pod wpływem prądu przenosi ciepło z chłodzonej strony na stronę, z której odbiera je dalsza część układu.
 
 W tym zleceniu potwierdzono uszkodzenie modułu jako przyczynę braku prawidłowego chłodzenia. Sam objaw nie pozwala jednak wskazać TEC w każdym urządzeniu: podobny problem może mieć inne źródło i wymaga profesjonalnej diagnostyki. Nie określamy przyczyny uszkodzenia samego modułu bez dodatkowych danych.
+
+![Wnętrze głowicy ESTETECH z płytką elektroniczną, okablowaniem i przyłączami](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-wnetrze-glowicy.webp)
 
 #### Wymiana modułu Peltiera i obsługa techniczna
 
@@ -18220,10 +18224,6 @@ Inny problem z chłodzeniem przedstawia [realizacja wymiany wentylatorów we Wro
 #### Zdjęcia z naprawy
 
 Wybierz zdjęcie, aby zobaczyć szczegóły.
-
-![Otwarta obudowa manipuły ESTETECH z przewodami i metalowym zespołem wewnętrznym](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp)
-
-![Wnętrze głowicy ESTETECH z płytką elektroniczną, okablowaniem i przyłączami](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-wnetrze-glowicy.webp)
 
 ![Obudowa aparatu laserowego z oznaczeniem ESTETECH podczas serwisu w Poznaniu](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-aparat-poznan.webp)
 
@@ -18267,11 +18267,15 @@ Dwie niezależne usterki jednego aparatu: wymiana modułu Peltiera, naprawa gło
 
 **Wykonane prace:** diagnostyka układu chłodzenia, wymiana modułu Peltiera, wymiana elementu laserowego Nd:YAG, kalibracja lasera.
 
+![Powierzchnia kontaktowa rozebranej głowicy do depilacji podczas prac serwisowych](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-do-depilacji-powierzchnia-kontaktowa.webp)
+
 #### Dwie usterki w jednym aparacie
 
 Specjaliści Laser Tech Service przeprowadzili kompleksową naprawę wielofunkcyjnego aparatu kosmetologicznego łączącego dwie technologie: depilację laserową oraz Nd:YAG do usuwania tatuaży i przebarwień.
 
 Podczas diagnostyki wykryto dwie niezależne usterki, które wymagały naprawy obu głowic.
+
+![Panel aparatu z widokiem trybu NDYAG LASER](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/panel-aparatu-tryb-nd-yag.webp)
 
 #### Pierwsza usterka — przegrzanie modułu Peltiera
 
@@ -18294,6 +18298,8 @@ Nieprawidłowa konfiguracja połączeń zakłócała pracę układu chłodzenia 
 - Złożenie głowicy i sprawdzenie chłodzenia.
 
 - Sprawdzenie prawidłowości podłączenia obu głowic.
+
+![Wielofunkcyjny aparat z głowicami w gabinecie podczas serwisu](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/aparat-dwie-glowice-serwis.webp)
 
 #### Druga usterka — uszkodzenie elementu laserowego Nd:YAG
 
@@ -18329,6 +18335,8 @@ W głowicy do depilacji wymieniono moduł Peltiera, a w głowicy Nd:YAG — elem
 
 Dodatkowo wykryto błąd w eksploatacji urządzenia polegający na podłączaniu tylko jednej głowicy zamiast dwóch.
 
+![Ekran trybu Nd:YAG z polami energii i częstotliwości](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/ekran-nd-yag-energia-czestotliwosc.webp)
+
 #### Wniosek techniczny
 
 W wielofunkcyjnych aparatach kosmetologicznych prawidłowe podłączenie głowic może bezpośrednio wpływać na pracę układu chłodzenia.
@@ -18338,14 +18346,6 @@ Wymiana niesprawnej części bez usunięcia przyczyny jej uszkodzenia stwarza ry
 **Laser Tech Service** — diagnostyka, naprawa i obsługa techniczna laserów kosmetologicznych oraz medycznych na terenie całej Polski.
 
 #### Zdjęcia z prac serwisowych
-
-![Powierzchnia kontaktowa rozebranej głowicy do depilacji podczas prac serwisowych](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-do-depilacji-powierzchnia-kontaktowa.webp)
-
-![Panel aparatu z widokiem trybu NDYAG LASER](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/panel-aparatu-tryb-nd-yag.webp)
-
-![Wielofunkcyjny aparat z głowicami w gabinecie podczas serwisu](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/aparat-dwie-glowice-serwis.webp)
-
-![Ekran trybu Nd:YAG z polami energii i częstotliwości](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/ekran-nd-yag-energia-czestotliwosc.webp)
 
 ![Odsłonięte przewody i podzespoły głowicy do depilacji](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-depilacja-odsloniete-przewody.webp)
 
@@ -18396,11 +18396,11 @@ Do serwisu Laser Tech Service trafiła głowica laserowa z uszkodzoną diodą. D
 
 - Rezultat: Głowica laserowa ponownie działa.
 
+![Specjalista Laser Tech Service przy rozebranej manipule laserowej](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
+
 #### Wykonane prace
 
 Specjalista Laser Tech Service rozmontował głowicę, zdemontował spalony element i zamontował sprawną diodę laserową.
-
-![Specjalista Laser Tech Service przy rozebranej manipule laserowej](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
 
 ![Rozebrana głowica laserowa i wyjęty moduł na stole](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/naprawa-glowicy-laserowej-wymiana-diody.webp)
 
@@ -18782,6 +18782,8 @@ Laser Tech Service выполнил обслуживание аппарата **
 
 - подготовка манипулы к замене шланга
 
+![Ремонт и замена шланга охлаждения RF-манипулы Alma Accent](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/naprawa-glowicy-rf-alma-accent-gorlitz.webp)
+
 #### Замена повреждённого шланга охлаждения
 
 Повреждённый шланг сняли и заменили новым.
@@ -18789,8 +18791,6 @@ Laser Tech Service выполнил обслуживание аппарата **
 При сборке уделили внимание правильной укладке шланга внутри корпуса манипулы и его подключению.
 
 После завершения работ манипулу собрали и проверили систему подачи воды.
-
-![Ремонт и замена шланга охлаждения RF-манипулы Alma Accent](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/naprawa-glowicy-rf-alma-accent-gorlitz.webp)
 
 ![Alma Accent RFD 1200 во время обслуживания в Гёрлице](https://lasertechservice.pl/img/realizacje/alma-accent-gorlitz/alma-accent-rfd-1200-serwis-gorlitz.webp)
 
@@ -18912,6 +18912,8 @@ Beauty Planet 3D Contour
 
 - необходимость проверки электрических соединений манипулы
 
+![Проверка вакуума и RF Beauty Planet 3D Contour после ремонта](https://lasertechservice.pl/img/realizacje/beauty-planet-3d-contour-wroclaw/beauty-planet-3d-contour-vacuum-rf-test.webp)
+
 #### Проверка функций манипулы
 
 После ремонта проверили функции, обеспечивающие работу манипулы.
@@ -18919,8 +18921,6 @@ Beauty Planet 3D Contour
 Система Beauty Planet 3D Contour позволяет регулировать уровень вакуума и параметры RF непосредственно через интерфейс аппарата.
 
 После восстановления электропитания проверили работу отремонтированных функций.
-
-![Проверка вакуума и RF Beauty Planet 3D Contour после ремонта](https://lasertechservice.pl/img/realizacje/beauty-planet-3d-contour-wroclaw/beauty-planet-3d-contour-vacuum-rf-test.webp)
 
 #### Что было сделано?
 
@@ -19044,6 +19044,8 @@ Multipolar RF
 
 Заодно тщательно проверили шланги, соединения и состояние внутренних компонентов аппарата.
 
+![Ремонт вакуумного насоса косметологического аппарата Multipolar RF](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin-2.webp)
+
 #### Ремонт и герметизация насоса
 
 После обнаружения утечки отремонтировали повреждённый элемент насоса и восстановили его герметичность.
@@ -19051,8 +19053,6 @@ Multipolar RF
 Затем всю систему очистили и повторно проверили.
 
 Устранение утечки позволило восстановить нужный вакуум и улучшить работу всасывающей манипулы.
-
-![Ремонт вакуумного насоса косметологического аппарата Multipolar RF](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin-2.webp)
 
 ![Ремонт RF-разъёма аппарата Multipolar RF](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin-3.webp)
 
@@ -19200,6 +19200,8 @@ NUBWAY NBW-VSIII 5D
 
 - проверка работы аппарата после обслуживания
 
+![Ремонт вакуумной системы NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw-2.webp)
+
 #### Замена шлангов и ремонт вакуумной системы
 
 Одним из основных направлений этой работы было обслуживание системы создания и передачи вакуума.
@@ -19209,8 +19211,6 @@ NUBWAY NBW-VSIII 5D
 Также отремонтировали элемент, создающий вакуум. После работ проверили соединения и работу системы.
 
 Исправная вакуумная система необходима для правильной работы функций аппарата, использующих вакуум во время процедур.
-
-![Ремонт вакуумной системы NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw-2.webp)
 
 ![Ремонт RF-элемента аппарата NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw-3.webp)
 
@@ -19399,11 +19399,15 @@ Laser Tech Service выполнил **срочный выезд к клиент�
 Услуга: Ремонт вакуумной системы и клапана сброса разрежения
 Сервис: Laser Tech Service
 
+![Мастер у задних разъёмов манипул NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-przylacza-manipul.webp)
+
 #### Проблема с вакуумными манипулами
 
 В Laser Tech Service обратилась студия реабилитации во Вроцлаве. В аппарате NUBWAY NBW-VSIII вакуумные манипулы перестали нормально работать. Сила всасывания была недостаточной, из-за чего аппарат не мог обеспечивать правильную работу вакуумного массажа.
 
 Наши специалисты выехали непосредственно к клиенту для диагностики и ремонта оборудования.
+
+![Сервисная работа у задней части NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-tylna-czesc-urzadzenia.webp)
 
 #### Что было сделано
 
@@ -19426,10 +19430,6 @@ Laser Tech Service — Wrocław
 contact@lasertechservice.pl
 
 #### Фотографии ремонта
-
-![Мастер у задних разъёмов манипул NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-przylacza-manipul.webp)
-
-![Сервисная работа у задней части NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-tylna-czesc-urzadzenia.webp)
 
 ![Мастер у передней панели корпуса NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-obudowa-urzadzenia.webp)
 
@@ -19491,6 +19491,10 @@ contact@lasertechservice.pl
 
 ![Диодный лазер с экраном, манипулой и шлангом на тележке](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa.webp)
 
+![Задняя панель лазера HS-A0406 с маркировкой модели, водяными портами и вентиляторами](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-hs-a0406-tabliczka-i-wentylatory.webp)
+
+Задняя панель лазера HS-A0406 с маркировкой модели, водяными портами и вентиляторами
+
 #### Краткое описание
 
 Специалисты Laser Tech Service провели плановое техническое обслуживание диодного лазера 808 нм у постоянного клиента в Варшаве. Выполнили замену охлаждающей жидкости, очистку внутренних компонентов, проверку мощности лазерного диода и герметизацию манипулы.
@@ -19515,6 +19519,10 @@ contact@lasertechservice.pl
 
 Своевременная замена жидкости помогает уменьшить вероятность образования отложений и загрязнений, способных ухудшать циркуляцию и теплообмен.
 
+![Корпус манипулы диодного лазера со шлангом и небольшим дисплеем](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/glowica-lasera-diodowego-808nm.webp)
+
+Корпус манипулы диодного лазера со шлангом и небольшим дисплеем
+
 #### Очистка внутренних компонентов
 
 После проверки системы охлаждения специалисты очистили внутренние компоненты аппарата от пыли и грязи.
@@ -19525,6 +19533,10 @@ contact@lasertechservice.pl
 
 Регулярная очистка позволяет снизить такие риски.
 
+![Шланг для слива жидкости в ёмкость у задней панели лазера](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/spust-plynu-chlodzacego-laser.webp)
+
+Шланг для слива жидкости в ёмкость у задней панели лазера
+
 #### Проверка мощности лазерного диода
 
 Следующим этапом стала проверка мощности лазерного диода.
@@ -19532,6 +19544,10 @@ contact@lasertechservice.pl
 Контроль рабочих параметров необходим для оценки технического состояния оборудования и своевременного выявления возможных отклонений.
 
 Показатели, установленные на дисплее аппарата, не всегда позволяют судить о фактической выходной мощности.
+
+![Внутренняя металлическая панель лазера с креплениями и проводами](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/panel-wewnetrzny-lasera-i-przewody.webp)
+
+Внутренняя металлическая панель лазера с креплениями и проводами
 
 #### Герметизация манипулы
 
@@ -19551,6 +19567,10 @@ contact@lasertechservice.pl
 
 Laser Tech Service выполняет диагностику, техническое обслуживание, [восстановление](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/) и [ремонт лазерного оборудования](https://lasertechservice.pl/ru/uslugi/poslegarantiynoe-obsluzhivanie/) в Варшаве и по всей Польше.
 
+![Открытый корпус лазера с вентиляторами, блоком питания и проводами](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/wnetrze-lasera-diodowego-wentylatory.webp)
+
+Открытый корпус лазера с вентиляторами, блоком питания и проводами
+
 #### Свяжитесь с нами
 
 Ваш лазер давно не проходил профилактическое обслуживание? Не дожидайтесь серьёзной неисправности.
@@ -19560,26 +19580,6 @@ Laser Tech Service — профессиональное обслуживание
 Телефон / WhatsApp: +48 790 402 597
 
 #### Фотографии обслуживания
-
-![Задняя панель лазера HS-A0406 с маркировкой модели, водяными портами и вентиляторами](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-hs-a0406-tabliczka-i-wentylatory.webp)
-
-Задняя панель лазера HS-A0406 с маркировкой модели, водяными портами и вентиляторами
-
-![Корпус манипулы диодного лазера со шлангом и небольшим дисплеем](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/glowica-lasera-diodowego-808nm.webp)
-
-Корпус манипулы диодного лазера со шлангом и небольшим дисплеем
-
-![Шланг для слива жидкости в ёмкость у задней панели лазера](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/spust-plynu-chlodzacego-laser.webp)
-
-Шланг для слива жидкости в ёмкость у задней панели лазера
-
-![Внутренняя металлическая панель лазера с креплениями и проводами](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/panel-wewnetrzny-lasera-i-przewody.webp)
-
-Внутренняя металлическая панель лазера с креплениями и проводами
-
-![Открытый корпус лазера с вентиляторами, блоком питания и проводами](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/wnetrze-lasera-diodowego-wentylatory.webp)
-
-Открытый корпус лазера с вентиляторами, блоком питания и проводами
 
 ![Вид внутренних компонентов и проводов лазера при открытом корпусе](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/podzespoly-wewnatrz-lasera-diodowego.webp)
 
@@ -19655,6 +19655,8 @@ Laser Tech Service — профессиональное обслуживание
 
 Мы получили срочную заявку из Гливице: диодный лазер для эпиляции перегревался. Потребовался срочный выезд мастера к клиенту.
 
+![Демонтированный водяной фильтр системы охлаждения диодного лазера](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/wymiana-filtra-wody-laser-diodowy-gliwice.webp)
+
 #### Диагностика
 
 При проверке системы охлаждения мастер обнаружил причину неисправности. Треснуло крепление возле водяного фильтра, в месте соединения фильтра с охлаждающей трубкой.
@@ -19672,8 +19674,6 @@ Laser Tech Service — профессиональное обслуживание
 Laser Tech Service выполняет обслуживание и ремонт косметологических лазеров, а также восстановление их узлов, в том числе с выездом к клиентам.
 
 #### Фотографии ремонта в Гливице
-
-![Демонтированный водяной фильтр системы охлаждения диодного лазера](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/wymiana-filtra-wody-laser-diodowy-gliwice.webp)
 
 ![Сервисный доступ к фильтру системы охлаждения диодного лазера](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/uklad-chlodzenia-lasera-diodowego-gliwice.webp)
 
@@ -19725,6 +19725,8 @@ Laser Tech Service выполняет обслуживание и ремонт �
 
 В Laser Tech Service поступила заявка из города Любин. Во время работы перегревалась головка лазера для эпиляции.
 
+![Открытый узел лазерной манипулы с видимыми проводами и соединениями](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/laser-diodowy-przewody-polaczenie-lubin.webp)
+
 #### Диагностика
 
 При проверке подключения специалисты обнаружили, что провода, соединяющие лазерный диод с электрической системой аппарата, были чрезмерно длинными для данной конфигурации. Это приводило к проблемам с работой электрической цепи и перегреву манипулы.
@@ -19742,8 +19744,6 @@ Laser Tech Service выполняет обслуживание и ремонт �
 Laser Tech Service выполняет диагностику, обслуживание и ремонт лазерного оборудования с выездом к клиентам по Польше.
 
 #### Фотографии ремонта в Любине
-
-![Открытый узел лазерной манипулы с видимыми проводами и соединениями](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/laser-diodowy-przewody-polaczenie-lubin.webp)
 
 ![Мастер паяет провода открытой лазерной манипулы](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/naprawa-polaczenia-diody-laserowej-lubin.webp)
 
@@ -19805,6 +19805,8 @@ CO₂-аппарат перестал нормально реагировать 
 
 Всю диагностику и ремонт выполнили на месте, в студии. Сначала требовалось отделить наблюдаемый симптом от его причины: проверить саму педаль, а затем, если она исправна, продолжить поиск в цепи управления.
 
+![Внутренние компоненты лазерного аппарата при открытом корпусе](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/laser-co2-otwarta-obudowa.webp)
+
 #### Педаль проверена — неисправности нет
 
 Первое предположение было понятным: не работает педаль. Однако проверка показала, что **педаль полностью исправна**. Оснований менять её не было.
@@ -19828,8 +19830,6 @@ CO₂-аппарат перестал нормально реагировать 
 Так возникало впечатление, что сломана педаль. Диагностика показала другую картину: проблема находилась дальше по цепи, в небольшом проводе, повреждение которого не было очевидно снаружи.
 
 #### Доступ к внутренним узлам и работа с разъёмом
-
-![Внутренние компоненты лазерного аппарата при открытом корпусе](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/laser-co2-otwarta-obudowa.webp)
 
 ![Работа инструментом с разъёмом кабеля манипулы](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/manipula-lasera-praca-przy-zlaczu.webp)
 
@@ -19909,13 +19909,13 @@ ESTELASE POWER · P-808L · диодный лазер для эпиляции
 
 На фотографии показан фильтр с соединениями. Крупный план позволяет увидеть корпус и штуцеры.
 
+![Сервисные работы при открытом корпусе ESTELASE POWER P-808L](https://lasertechservice.pl/img/realizacje/przeglad-estelase-power-p808l/estelase-power-p808l-prace-serwisowe.webp)
+
 #### Продувка при обслуживании
 
 Следующим этапом планового обслуживания была **продувка аппарата**. На фотографии показана работа специалиста при открытом корпусе и доступ к внутренним узлам.
 
 Продувка, замена фильтра и воды составили объём обслуживания. Затем мы перешли к проверке аппарата.
-
-![Сервисные работы при открытом корпусе ESTELASE POWER P-808L](https://lasertechservice.pl/img/realizacje/przeglad-estelase-power-p808l/estelase-power-p808l-prace-serwisowe.webp)
 
 #### Задняя панель и сервисные детали ESTELASE POWER
 
@@ -20131,6 +20131,8 @@ Lumenis LightSheer DESIRE
 
 - Работы: Охлаждение и герметичность
 
+![Lumenis LightSheer DESIRE с экраном входа в кабинете в Олеснице](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lumenis-lightsheer-desire-aparat-olesnica.webp)
+
 #### Обращение: утечка при подключении манипулы
 
 Владелец Lumenis LightSheer DESIRE заметил выход охлаждающей жидкости из коннектора при подключении головки. Одновременно нарушился температурный режим: система не обеспечивала нормальное охлаждение, аппарат перегревался и не мог полноценно использоваться. Laser Tech Service организовал выезд технического специалиста непосредственно к клиенту в Олесницу, Нижнесилезское воеводство.
@@ -20142,6 +20144,8 @@ Lumenis LightSheer DESIRE
 #### Следы жидкости у соединения
 
 На фотографии видна жидкость ниже открытого коннектора. Это документирование заявленного симптома, потребовавшего проверки гидравлического соединения.
+
+![Манипула в держателе рядом с панелью LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-manipula-przy-aparacie.webp)
 
 #### Диагностика контура и гидравлического соединения
 
@@ -20161,6 +20165,8 @@ Lumenis LightSheer DESIRE
 
 Твёрдые отложения закрывают часть сетки. Такое загрязнение может препятствовать циркуляции теплоносителя. Точный состав отложений анализом не определялся.
 
+![Специалист у разъёма манипулы LightSheer DESIRE; на экране сообщение о подключении головки](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-obsluga-zlacza-manipuly.webp)
+
 #### Выполненные работы
 
 1. Выезд специалиста к клиенту в Олесницу.
@@ -20177,12 +20183,6 @@ Lumenis LightSheer DESIRE
 Этому ремонту не приписываются замена насоса в сборе, электронных плат или диодного модуля. Фотографии показывают доступ к внутренним узлам и последовательные этапы сервисных работ.
 
 #### Фотографии аппарата и сервисных работ
-
-![Lumenis LightSheer DESIRE с экраном входа в кабинете в Олеснице](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lumenis-lightsheer-desire-aparat-olesnica.webp)
-
-![Манипула в держателе рядом с панелью LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-manipula-przy-aparacie.webp)
-
-![Специалист у разъёма манипулы LightSheer DESIRE; на экране сообщение о подключении головки](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-obsluga-zlacza-manipuly.webp)
 
 ![Демонтированный металлический соединительный узел и белый гидравлический элемент в руках специалиста](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lightsheer-desire-demontaz-wezla-hydraulicznego.webp)
 
@@ -20240,11 +20240,15 @@ Lumenis LightSheer DESIRE
 
 - Оборудование: Lumenis LightSheer DESIRE
 
+![Резервуар охлаждающей жидкости при диагностике LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-coolant-reservoir.webp)
+
 #### Проблема: перегрев и нарушение циркуляции
 
 При диагностике обнаружили недостаточное количество охлаждающей жидкости, загрязнённые и пожелтевшие трубки, а также минеральные отложения внутри них. Нормальная циркуляция была нарушена, тепло от рабочих компонентов отводилось недостаточно. Точный химический состав отложений не определяли.
 
 Если лазер не охлаждает манипулу и выдаёт предупреждение, необходимо проверить весь контур. Само сообщение не указывает однозначно, какую деталь следует заменить. В этом случае осмотр подтвердил загрязнение системы охлаждения и проблему с циркуляцией.
+
+![Открытые элементы охлаждения внутри LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-internal-cooling-components.webp)
 
 #### Ремонт: выполненные работы
 
@@ -20259,6 +20263,8 @@ Lumenis LightSheer DESIRE
 9. Контроль работы системы охлаждения.
 10. Сборка и проверка работоспособности аппарата.
 
+![Демонтаж корпусной панели LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-panel-removal.webp)
+
 #### Почему замена трубок требует времени?
 
 Lumenis LightSheer DESIRE имеет компактную внутреннюю конструкцию. Доступ к трубкам и элементам охлаждения ограничен: для замены нужны значительная разборка, время и аккуратность. Стоимость работы включает не только трубки, но и получение доступа, монтаж и проверку после сборки.
@@ -20272,12 +20278,6 @@ Lumenis LightSheer DESIRE имеет компактную внутреннюю �
 Сервис, восстановление и ремонт лазеров подбираются по фактическому состоянию оборудования. В данном случае ремонт Lumenis LightSheer касался охлаждения, а не восстановления диодного модуля. Сервис диодных лазеров начался с определения причины неисправности.
 
 #### Фотографии ремонта
-
-![Резервуар охлаждающей жидкости при диагностике LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-coolant-reservoir.webp)
-
-![Открытые элементы охлаждения внутри LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-internal-cooling-components.webp)
-
-![Демонтаж корпусной панели LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-panel-removal.webp)
 
 ![Электроника и провода внутри открытого LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-internal-electronics.webp)
 
@@ -20332,9 +20332,13 @@ Unique Light System E808
 
 - Работы: Замена щёток и восстановление помпы
 
+![Аппарат Unique Light System E808 с экраном и манипулой](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/laser-unique-light-system-e808-widok-ogolny.webp)
+
 #### Симптомы неисправности
 
 В системе Unique Light System E808 была охлаждающая жидкость, но охлаждение не работало. На экране появлялось сообщение «Water flow error». Клиент обратился по поводу лазерного аппарата для эпиляции с жидкостной системой охлаждения.
+
+![Сообщение Water flow error на экране аппарата E808](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/e808-water-flow-error-ekran.webp)
 
 #### Диагностика на месте
 
@@ -20357,10 +20361,6 @@ Unique Light System E808
 После восстановления помпы циркуляция охлаждающей жидкости возобновилась, аппарат снова работает. Ремонт имеющегося узла позволил клиенту сэкономить на покупке новой помпы.
 
 #### Фотографии ремонта в Праге
-
-![Аппарат Unique Light System E808 с экраном и манипулой](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/laser-unique-light-system-e808-widok-ogolny.webp)
-
-![Сообщение Water flow error на экране аппарата E808](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/e808-water-flow-error-ekran.webp)
 
 ![Мастер у задней панели лазера E808](https://lasertechservice.pl/img/realizacje/praga-e808-pompa/e808-dostep-serwisowy-obudowa.webp)
 
@@ -20424,13 +20424,19 @@ Unique Light System E808
 
 - Работы: Замена трубок и гофры манипулы
 
+![Боковая часть корпуса манипулы с рукавом](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/manipula-laserowa-obudowa-boczna.webp)
+
 #### Обращение клиента
 
 Проблема заключалась в утечке охлаждающей жидкости из гофрированного защитного рукава. Кроме того, клиент попросил повторно собрать расшатанную манипулу и её головку, заменить старую гофру и провести полное техническое обслуживание аппарата.
 
+![Трещины гофрированной оболочки рукава](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/uszkodzona-oslona-przewodu-manipuly.webp)
+
 #### Диагностика
 
 После разборки выяснилось, что гибкие трубки системы охлаждения внутри гофры износились и потеряли герметичность. Вероятной причиной стало старение материала и многократные изгибы рукава во время эксплуатации.
+
+![Открытая манипула с модулем и проводами](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/otwarta-manipula-laserowa-modul-i-przewody.webp)
 
 #### Ремонт и обслуживание
 
@@ -20445,12 +20451,6 @@ Unique Light System E808
 На выполненные работы Laser Tech Service предоставляет гарантию 6 месяцев.
 
 #### Фотографии обслуживания
-
-![Боковая часть корпуса манипулы с рукавом](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/manipula-laserowa-obudowa-boczna.webp)
-
-![Трещины гофрированной оболочки рукава](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/uszkodzona-oslona-przewodu-manipuly.webp)
-
-![Открытая манипула с модулем и проводами](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/otwarta-manipula-laserowa-modul-i-przewody.webp)
 
 ![Прозрачные трубки и металлический модуль внутри манипулы](https://lasertechservice.pl/img/realizacje/praga-wyciek-chlodzenia/wnetrze-manipuly-laserowej-modul-optyczny.webp)
 
@@ -20517,11 +20517,15 @@ Sapphire
 
 - Выполненные работы: Замена жидкости и обслуживание
 
+![Табличка Sapphire с датой 31.05.2018](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-tabliczka-znamionowa.webp)
+
 #### Проблема: недостаточное количество охлаждающей жидкости
 
 При осмотре во время сервисного визита обнаружено недостаточное количество жидкости в системе охлаждения. Это подтверждённое состояние аппарата перед обслуживанием. Причина потери жидкости в описании работ не установлена, поэтому мы не связываем её с утечкой или повреждением конкретного узла.
 
 На табличке Sapphire указана дата 31.05.2018. Это не дата данного сервисного визита. Сама табличка не определяет текущее техническое состояние или эффективность процедур.
+
+![Специалист у задней панели Sapphire](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-demontaz-obudowy.webp)
 
 #### Выполненные работы
 
@@ -20531,6 +20535,8 @@ Sapphire
 4. Заполнение контура новой охлаждающей жидкостью.
 5. Очистка аппарата.
 6. Запуск устройства и проверка его работы.
+
+![Внутренние узлы Sapphire во время обслуживания](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-wewnetrzne-podzespoly.webp)
 
 #### Обслуживание, ремонт и восстановление — разный объём работ
 
@@ -20545,12 +20551,6 @@ Sapphire
 Этот результат подтверждает проверку работы после обслуживания. Он не заменяет протокол измерения излучения и не является оценкой клинической эффективности. Фотографии документируют сервисный визит, а не исследование результатов процедур.
 
 #### Фотографии обслуживания Sapphire
-
-![Табличка Sapphire с датой 31.05.2018](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-tabliczka-znamionowa.webp)
-
-![Специалист у задней панели Sapphire](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-demontaz-obudowy.webp)
-
-![Внутренние узлы Sapphire во время обслуживания](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-wewnetrzne-podzespoly.webp)
 
 ![Трубки и элементы охлаждения Sapphire](https://lasertechservice.pl/img/realizacje/sapphire-serwis/sapphire-uklad-chlodzenia.webp)
 
@@ -20611,6 +20611,8 @@ Cavi Shape Advanced
 
 - Местоположение: Вроцлав
 
+![Техник у открытого корпуса Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-01.webp)
+
 #### Несколько неисправностей в одном аппарате
 
 Аппарат **Cavi Shape Advanced** требовал комплексной диагностики нескольких функций одновременно.
@@ -20639,13 +20641,13 @@ Cavi Shape Advanced
 
 - общее загрязнение аппарата в процессе эксплуатации
 
+![Измерение сигналов при диагностике Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-10.webp)
+
 #### Проверка сигналов и соединений
 
 При диагностике выполнили электрические измерения и проверили сигналы, отвечающие за отдельные функции аппарата.
 
 Измерения позволили проверить целостность соединений и найти участки с ненадёжным контактом.
-
-![Измерение сигналов при диагностике Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-10.webp)
 
 #### Диагностика Cavi Shape Advanced
 
@@ -20718,8 +20720,6 @@ Cavi Shape Advanced
 [Открыть видео на YouTube →](https://youtube.com/shorts/gFV7yQUg8kA)
 
 #### Фотографии обслуживания Cavi Shape Advanced
-
-![Техник у открытого корпуса Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-01.webp)
 
 ![Специалист с инструментами рядом с Cavi Shape Advanced](https://lasertechservice.pl/img/realizacje/cavi-shape-advanced-wroclaw/cavi-shape-advanced-serwis-wroclaw-02.webp)
 
@@ -20812,6 +20812,8 @@ Laser Tech Service выполняет диагностику и ремонт п�
 
 - необходимость проверки внутренних элементов манипулы
 
+![Техник работает с манипулой лазера у клиента](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/serwis-glowicy-lasera-na-miejscu.webp)
+
 #### Разборка манипулы и доступ внутрь
 
 Обслуживание выполнено на месте у клиента в Познани.
@@ -20819,8 +20821,6 @@ Laser Tech Service выполняет диагностику и ремонт п�
 Манипулу разобрали, обеспечив доступ к внутренним элементам и возможность точно оценить степень загрязнения.
 
 Это позволило очистить участки, недоступные при обычной эксплуатации аппарата.
-
-![Техник работает с манипулой лазера у клиента](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/serwis-glowicy-lasera-na-miejscu.webp)
 
 ![Внутренняя часть манипулы диодного лазера во время обслуживания](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/wnetrze-glowicy-lasera.webp)
 
@@ -20832,6 +20832,8 @@ Laser Tech Service выполняет диагностику и ремонт п�
 
 Поэтому после повреждения корпуса или потери герметичности стоит проверить внутреннее состояние манипулы.
 
+![Загрязнения в оптической системе манипулы диодного лазера](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/zabrudzona-optyka-lasera.webp)
+
 #### Проверка и очистка оптической системы
 
 Особого внимания потребовали элементы в области оптического тракта.
@@ -20839,8 +20841,6 @@ Laser Tech Service выполняет диагностику и ремонт п�
 Загрязнения на оптических элементах могут влиять на передачу энергии и вызывать дополнительный нагрев во время работы лазера.
 
 Поэтому перед сборкой тщательно удалили загрязнения и проверили доступные элементы манипулы.
-
-![Загрязнения в оптической системе манипулы диодного лазера](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/zabrudzona-optyka-lasera.webp)
 
 ![Диодный модуль лазера во время сервисной проверки](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/modul-diodowy-lasera.webp)
 
@@ -21076,6 +21076,8 @@ Laser Tech Service выполнил техническое обслуживан�
 
 - итоговый тест работы аппарата
 
+![Ремонт HIFU-манипулы KIMED K1-W1601](https://lasertechservice.pl/img/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz-2.webp)
+
 #### Неработающая манипула аппарата
 
 Одной из основных причин сервисного визита была **неработающая HIFU-манипула**.
@@ -21083,8 +21085,6 @@ Laser Tech Service выполнил техническое обслуживан�
 Провели диагностику, затем отремонтировали манипулу. После работ проверили её функционирование в аппарате.
 
 Отремонтированную манипулу проверили перед итоговым тестом всей системы KIMED K1-W1601.
-
-![Ремонт HIFU-манипулы KIMED K1-W1601](https://lasertechservice.pl/img/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz-2.webp)
 
 ![Очистка резервуара водяного контура KIMED K1-W1601](https://lasertechservice.pl/img/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz-3.webp)
 
@@ -21255,6 +21255,8 @@ Laser Tech Service выполняет диагностику, ремонт и т
 
 - итоговая проверка работы аппарата
 
+![Замена манипулы диодного лазера для эпиляции](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-2.webp)
+
 #### Замена манипулы диодного лазера
 
 Одним из важнейших этапов стала замена рабочей манипулы диодного лазера.
@@ -21262,8 +21264,6 @@ Laser Tech Service выполняет диагностику, ремонт и т
 После работ проверили соединения и правильность установки новой манипулы.
 
 После сборки аппарата проверили его работу.
-
-![Замена манипулы диодного лазера для эпиляции](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-2.webp)
 
 ![Техник у задней панели диодного лазера](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-3.webp)
 
@@ -21445,6 +21445,8 @@ ML-ND YAG LASER A1
 
 - итоговую проверку аппарата после работ
 
+![Лазер ND:YAG с манипулой на тележке в кабинете](https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz-2.webp)
+
 #### Проверка и профилактика системы охлаждения
 
 Система охлаждения — один из важных узлов профессионального лазерного аппарата.
@@ -21454,8 +21456,6 @@ ML-ND YAG LASER A1
 В этой работе особое внимание уделили состоянию элементов охлаждения, вентиляции и фильтрации.
 
 Изношенный фильтр заменили, а элементы системы очистили перед повторным запуском аппарата.
-
-![Лазер ND:YAG с манипулой на тележке в кабинете](https://lasertechservice.pl/img/realizacje/serwis-lasera-tatuaz-2.webp)
 
 #### Почему важна замена фильтра?
 
@@ -21631,17 +21631,17 @@ Laser Tech Service обслуживает косметологические а�
 
 В Познани мы ремонтировали лазер с повреждённым диодным модулем. Поломке предшествовала самостоятельная замена владельцем прокладки между элементами узла манипулы. Исходной причиной оказалась не сама диодная сборка.
 
+![Демонтированный диодный модуль с загрязнениями рядом с открытым корпусом](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/zdemontowany-modul-diodowy-po-zalaniu-poznan.webp)
+
 #### Диагностика: жидкость внутри узла
 
 После вскрытия манипулы были видны следы жидкости, загрязнения и тёмные отложения на элементах модуля и внутри корпуса. Фотографии показывают состояние повреждённого узла после залития. Это не снимки нового модуля и не результаты измерений его работы.
 
 #### Фотографии повреждений
 
-![Демонтированный диодный модуль с загрязнениями рядом с открытым корпусом](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/zdemontowany-modul-diodowy-po-zalaniu-poznan.webp)
+![Разобранная манипула лазера с трубками охлаждения и снятым модулем](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/rozebrana-manipula-lasera-uklad-chlodzenia-poznan.webp)
 
 ![Капли жидкости и тёмные отложения внутри корпуса лазерного модуля](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/slady-cieczy-wewnatrz-modulu-lasera-poznan.webp)
-
-![Разобранная манипула лазера с трубками охлаждения и снятым модулем](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/rozebrana-manipula-lasera-uklad-chlodzenia-poznan.webp)
 
 #### Причина: неправильно установленная прокладка
 
@@ -21711,11 +21711,15 @@ ESTETECH
 
 Клиент в Познани обратился с неисправностью контактного охлаждения манипулы лазерного аппарата ESTETECH. Рабочая поверхность перестала нормально охлаждаться, что исключало обычное использование манипулы. Контактное охлаждение помогает контролировать температуру кожи во время процедуры, повышает комфорт и уменьшает риск нежелательного теплового воздействия.
 
+![Открытый корпус манипулы ESTETECH с проводами и внутренним металлическим узлом](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp)
+
 #### Диагностика на месте у клиента
 
 Специалисты Laser Tech Service выехали непосредственно к клиенту в Познань. При диагностике установили неисправность термоэлектрического модуля Пельтье. Под действием электрического тока этот элемент переносит тепло от охлаждаемой стороны к стороне, от которой тепло забирает остальная система.
 
 В данном ремонте неисправный модуль подтверждён как причина недостаточного охлаждения. Однако один этот симптом не позволяет диагностировать TEC в любом аппарате: сходные проявления могут иметь другое происхождение и требуют профессиональной проверки. Причина отказа самого модуля без дополнительных данных не устанавливается.
+
+![Внутренний узел манипулы ESTETECH с электронной платой, проводкой и соединениями](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-wnetrze-glowicy.webp)
 
 #### Замена элемента Пельтье и техническое обслуживание
 
@@ -21747,10 +21751,6 @@ ESTETECH
 #### Фотографии ремонта
 
 Выберите фотографию для просмотра деталей.
-
-![Открытый корпус манипулы ESTETECH с проводами и внутренним металлическим узлом](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp)
-
-![Внутренний узел манипулы ESTETECH с электронной платой, проводкой и соединениями](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-wnetrze-glowicy.webp)
 
 ![Корпус лазерного аппарата с обозначением ESTETECH во время ремонта в Познани](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-aparat-poznan.webp)
 
@@ -21794,11 +21794,15 @@ ESTETECH
 
 **Выполненные работы:** диагностика системы охлаждения, замена элемента Пельтье, замена лазерного элемента ND, калибровка лазера.
 
+![Контактная поверхность разобранной манипулы для эпиляции во время сервиса](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-do-depilacji-powierzchnia-kontaktowa.webp)
+
 #### Две неисправности в одном аппарате
 
 Специалисты Laser Tech Service выполнили комплексный ремонт многофункционального косметологического аппарата, объединяющего две технологии: лазерную эпиляцию и ND для удаления татуировок и пигмента.
 
 В процессе диагностики были обнаружены две независимые неисправности, требовавшие ремонта обеих манипул.
+
+![Панель аппарата с экраном режима NDYAG LASER](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/panel-aparatu-tryb-nd-yag.webp)
 
 #### Первая неисправность — перегрев элемента Пельтье
 
@@ -21821,6 +21825,8 @@ ESTETECH
 - Сборка манипулы и проверка охлаждения.
 
 - Проверка правильности подключения обеих манипул.
+
+![Многофункциональный аппарат с манипулами в кабинете во время сервиса](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/aparat-dwie-glowice-serwis.webp)
 
 #### Вторая неисправность — повреждение лазерного элемента ND
 
@@ -21856,6 +21862,8 @@ ESTETECH
 
 Дополнительно была выявлена ошибка эксплуатации оборудования, связанная с подключением только одной манипулы вместо двух.
 
+![Экран режима Nd:YAG с полями энергии и частоты](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/ekran-nd-yag-energia-czestotliwosc.webp)
+
 #### Технический вывод
 
 В многофункциональных косметологических аппаратах правильное подключение манипул может иметь непосредственное влияние на работу системы охлаждения.
@@ -21865,14 +21873,6 @@ ESTETECH
 **Laser Tech Service** — диагностика, ремонт и техническое обслуживание косметологических и медицинских лазеров на территории всей Польши.
 
 #### Фотографии сервисных работ
-
-![Контактная поверхность разобранной манипулы для эпиляции во время сервиса](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-do-depilacji-powierzchnia-kontaktowa.webp)
-
-![Панель аппарата с экраном режима NDYAG LASER](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/panel-aparatu-tryb-nd-yag.webp)
-
-![Многофункциональный аппарат с манипулами в кабинете во время сервиса](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/aparat-dwie-glowice-serwis.webp)
-
-![Экран режима Nd:YAG с полями энергии и частоты](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/ekran-nd-yag-energia-czestotliwosc.webp)
 
 ![Открытые провода и узлы манипулы для эпиляции](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-depilacja-odsloniete-przewody.webp)
 
@@ -21923,11 +21923,11 @@ ESTETECH
 
 - Результат: Манипула снова работает.
 
+![Специалист Laser Tech Service работает с разобранной лазерной манипулой](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
+
 #### Выполненные работы
 
 Специалист Laser Tech Service разобрал корпус манипулы, демонтировал сгоревший диод и установил исправный.
-
-![Специалист Laser Tech Service работает с разобранной лазерной манипулой](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/serwis-laserow-wymiana-diody-laserowej.webp)
 
 ![Разобранная лазерная головка и снятый модуль на столе](https://lasertechservice.pl/img/realizacje/wymiana-spalonej-diody-laserowej/naprawa-glowicy-laserowej-wymiana-diody.webp)
 

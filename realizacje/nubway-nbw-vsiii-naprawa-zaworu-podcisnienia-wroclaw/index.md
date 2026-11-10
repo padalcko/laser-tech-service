@@ -17,11 +17,15 @@ Urządzenie: NUBWAY NBW-VSIII (Body Space)
 Usługa: Naprawa układu podciśnienia i zaworu odpowietrzającego
 Wykonawca: Laser Tech Service
 
+![Technik przy tylnych przyłączach głowic NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-przylacza-manipul.webp)
+
 ## Problem z działaniem głowic próżniowych
 
 Do Laser Tech Service zgłosiło się studio rehabilitacji z Wrocławia. Urządzenie NUBWAY NBW-VSIII nie wytwarzało prawidłowego podciśnienia, przez co głowice próżniowe miały zbyt słabą siłę zasysania. Utrudniało to prawidłowe wykonywanie zabiegów.
 
 Nasi specjaliści przyjechali bezpośrednio do klienta, aby przeprowadzić diagnostykę i naprawę urządzenia na miejscu.
+
+![Praca serwisowa przy tylnej części NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-tylna-czesc-urzadzenia.webp)
 
 ## Diagnostyka i naprawa
 
@@ -44,10 +48,6 @@ Tel. +48 790 402 597
 contact@lasertechservice.pl
 
 ## Zdjęcia z naprawy
-
-![Technik przy tylnych przyłączach głowic NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-przylacza-manipul.webp)
-
-![Praca serwisowa przy tylnej części NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-tylna-czesc-urzadzenia.webp)
 
 ![Technik przy przedniej obudowie NUBWAY NBW-VSIII](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-obudowa-urzadzenia.webp)
 

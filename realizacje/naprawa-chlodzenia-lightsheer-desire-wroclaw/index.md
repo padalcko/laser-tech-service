@@ -20,11 +20,15 @@ Klient z Wrocławia zgłosił problem z chłodzeniem Lumenis LightSheer DESIRE. 
 
 - Urządzenie: Lumenis LightSheer DESIRE
 
+![Zbiornik płynu chłodzącego podczas diagnostyki LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-coolant-reservoir.webp)
+
 ## Problem: przegrzewanie i zakłócona cyrkulacja
 
 Podczas diagnostyki stwierdziliśmy zbyt małą ilość płynu chłodzącego, zabrudzone i pożółkłe przewody oraz osady mineralne wewnątrz rurek. Cyrkulacja była zaburzona, a odprowadzanie ciepła od pracujących podzespołów — niewystarczające. Nie określaliśmy dokładnego składu chemicznego osadów.
 
 Gdy laser nie chłodzi głowicy i wyświetla ostrzeżenie, potrzebna jest diagnostyka całego obiegu. Sam komunikat nie wskazuje jednoznacznie części wymagającej wymiany. W tym przypadku oględziny potwierdziły zanieczyszczenia układu chłodzenia i problem z przepływem.
+
+![Odsłonięte elementy chłodzenia wewnątrz LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-internal-cooling-components.webp)
 
 ## Naprawa: wykonane prace
 
@@ -39,6 +43,8 @@ Gdy laser nie chłodzi głowicy i wyświetla ostrzeżenie, potrzebna jest diagno
 9. Kontrola działania układu chłodzenia.
 10. Złożenie aparatu i sprawdzenie jego działania.
 
+![Demontaż panelu obudowy LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-panel-removal.webp)
+
 ## Dlaczego wymiana przewodów wymaga czasu?
 
 Lumenis LightSheer DESIRE ma zwartą konstrukcję wewnętrzną. Dostęp do przewodów i elementów chłodzenia jest ograniczony, dlatego wymiana wymaga znacznego demontażu, czasu i dokładności. Koszt pracy nie sprowadza się do ceny samych rurek: obejmuje uzyskanie dostępu, montaż i kontrolę po złożeniu.
@@ -52,12 +58,6 @@ Po wymianie przewodów i płynu przywróciliśmy cyrkulację. Układ chłodzenia
 Serwis laserów, regeneracja laserów i naprawa laserów to usługi dobierane do rzeczywistego stanu urządzenia. W tym przypadku naprawa Lumenis LightSheer dotyczyła układu chłodzenia, a nie regeneracji modułu diodowego. Nasz serwis laserów diodowych rozpoczął pracę od ustalenia przyczyny objawów.
 
 ## Dokumentacja naprawy
-
-![Zbiornik płynu chłodzącego podczas diagnostyki LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-coolant-reservoir.webp)
-
-![Odsłonięte elementy chłodzenia wewnątrz LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-internal-cooling-components.webp)
-
-![Demontaż panelu obudowy LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-panel-removal.webp)
 
 ![Elektronika i przewody wewnątrz otwartego LightSheer DESIRE](https://lasertechservice.pl/img/realizacje/lightsheer-desire-wroclaw/lumenis-lightsheer-internal-electronics.webp)
 

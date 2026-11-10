@@ -32,11 +32,15 @@ On-site ESTETECH repair in Poznań: Peltier module replacement, thermal interfac
 
 A client in Poznań reported a fault with the ESTETECH laser handpiece’s contact cooling. The treatment surface had stopped cooling adequately, preventing normal handpiece use. Contact cooling helps control skin temperature during treatment, improves comfort and reduces the risk of unwanted thermal effects.
 
+![Open ESTETECH handpiece housing with wiring and the internal metal assembly](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp)
+
 ## On-site diagnostics in Poznań
 
 Laser Tech Service specialists attended the client’s premises. Diagnostics identified a faulty thermoelectric Peltier module. When supplied with current, this component transfers heat from the cooled side to the side from which the rest of the system removes it.
 
 For this job, module failure was confirmed as the cause of inadequate cooling. However, the symptom alone does not identify a TEC fault in every device: similar problems can have other causes and require professional diagnostics. We do not specify the cause of the module’s own failure without further evidence.
+
+![ESTETECH handpiece interior with a circuit board, wiring and connections](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-wnetrze-glowicy.webp)
 
 ## Peltier module replacement and maintenance
 
@@ -68,10 +72,6 @@ Another cooling problem is documented in the [fan replacement case study from Wr
 ## Repair photographs
 
 Select a photograph to view the details.
-
-![Open ESTETECH handpiece housing with wiring and the internal metal assembly](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp)
-
-![ESTETECH handpiece interior with a circuit board, wiring and connections](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-wnetrze-glowicy.webp)
 
 ![Laser device housing bearing the ESTETECH marking during servicing in Poznań](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-aparat-poznan.webp)
 

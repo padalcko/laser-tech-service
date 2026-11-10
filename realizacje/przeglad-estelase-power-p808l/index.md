@@ -44,13 +44,13 @@ Podczas tej realizacji **wymieniliśmy filtr oraz wodę w urządzeniu**. Były t
 
 Na zdjęciu pokazujemy filtr ze złączami. Zbliżenie przedstawia jego obudowę oraz przyłącza.
 
+![Prace serwisowe przy otwartej obudowie ESTELASE POWER P-808L](https://lasertechservice.pl/img/realizacje/przeglad-estelase-power-p808l/estelase-power-p808l-prace-serwisowe.webp)
+
 ## Przedmuch podczas przeglądu
 
 Kolejnym elementem planowej obsługi był **przedmuch urządzenia**. Zdjęcie przedstawia pracę serwisanta przy otwartej obudowie i dostęp do wewnętrznych podzespołów.
 
 Przedmuch, wymiana filtra i wymiana wody stanowiły zakres wykonanej obsługi. Następnie przeszliśmy do sprawdzenia urządzenia.
-
-![Prace serwisowe przy otwartej obudowie ESTELASE POWER P-808L](https://lasertechservice.pl/img/realizacje/przeglad-estelase-power-p808l/estelase-power-p808l-prace-serwisowe.webp)
 
 ## Tylny panel i detale serwisowe ESTELASE POWER
 

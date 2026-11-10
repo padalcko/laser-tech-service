@@ -22,17 +22,17 @@
 
 В Познани мы ремонтировали лазер с повреждённым диодным модулем. Поломке предшествовала самостоятельная замена владельцем прокладки между элементами узла манипулы. Исходной причиной оказалась не сама диодная сборка.
 
+![Демонтированный диодный модуль с загрязнениями рядом с открытым корпусом](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/zdemontowany-modul-diodowy-po-zalaniu-poznan.webp)
+
 ## Диагностика: жидкость внутри узла
 
 После вскрытия манипулы были видны следы жидкости, загрязнения и тёмные отложения на элементах модуля и внутри корпуса. Фотографии показывают состояние повреждённого узла после залития. Это не снимки нового модуля и не результаты измерений его работы.
 
 ## Фотографии повреждений
 
-![Демонтированный диодный модуль с загрязнениями рядом с открытым корпусом](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/zdemontowany-modul-diodowy-po-zalaniu-poznan.webp)
+![Разобранная манипула лазера с трубками охлаждения и снятым модулем](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/rozebrana-manipula-lasera-uklad-chlodzenia-poznan.webp)
 
 ![Капли жидкости и тёмные отложения внутри корпуса лазерного модуля](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/slady-cieczy-wewnatrz-modulu-lasera-poznan.webp)
-
-![Разобранная манипула лазера с трубками охлаждения и снятым модулем](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/rozebrana-manipula-lasera-uklad-chlodzenia-poznan.webp)
 
 ## Причина: неправильно установленная прокладка
 

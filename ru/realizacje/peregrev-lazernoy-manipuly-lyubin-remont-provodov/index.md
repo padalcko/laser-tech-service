@@ -26,6 +26,8 @@
 
 В Laser Tech Service поступила заявка из города Любин. Во время работы перегревалась головка лазера для эпиляции.
 
+![Открытый узел лазерной манипулы с видимыми проводами и соединениями](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/laser-diodowy-przewody-polaczenie-lubin.webp)
+
 ## Диагностика
 
 При проверке подключения специалисты обнаружили, что провода, соединяющие лазерный диод с электрической системой аппарата, были чрезмерно длинными для данной конфигурации. Это приводило к проблемам с работой электрической цепи и перегреву манипулы.
@@ -43,8 +45,6 @@
 Laser Tech Service выполняет диагностику, обслуживание и ремонт лазерного оборудования с выездом к клиентам по Польше.
 
 ## Фотографии ремонта в Любине
-
-![Открытый узел лазерной манипулы с видимыми проводами и соединениями](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/laser-diodowy-przewody-polaczenie-lubin.webp)
 
 ![Мастер паяет провода открытой лазерной манипулы](https://lasertechservice.pl/img/realizacje/lubin-przewody-diody/naprawa-polaczenia-diody-laserowej-lubin.webp)
 

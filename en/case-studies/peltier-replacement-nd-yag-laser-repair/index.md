@@ -16,11 +16,15 @@ Two independent faults in one device: Peltier module replacement, Nd:YAG handpie
 
 **Work performed:** cooling system diagnostics, Peltier module replacement, Nd:YAG laser component replacement and laser calibration.
 
+![Contact surface of a dismantled hair removal handpiece during servicing](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-do-depilacji-powierzchnia-kontaktowa.webp)
+
 ## Two faults in one device
 
 Laser Tech Service specialists carried out a comprehensive repair of a multifunction aesthetic device combining two technologies: laser hair removal and Nd:YAG for tattoo and pigmentation removal.
 
 Diagnostics identified two independent faults requiring repairs to both handpieces.
+
+![Device control panel displaying NDYAG LASER mode](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/panel-aparatu-tryb-nd-yag.webp)
 
 ## First fault — Peltier module overheating
 
@@ -43,6 +47,8 @@ The incorrect connection configuration disrupted cooling system operation and cr
 - Handpiece reassembly and cooling checks.
 
 - Verification that both handpieces were connected correctly.
+
+![Multifunction device with handpieces in the treatment room during servicing](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/aparat-dwie-glowice-serwis.webp)
 
 ## Second fault — a damaged Nd:YAG laser component
 
@@ -70,6 +76,8 @@ Calibration is necessary for correct laser system operation following work on it
 
 - Operational checks after repair.
 
+![Nd:YAG mode screen with energy and frequency fields](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/ekran-nd-yag-energia-czestotliwosc.webp)
+
 ## Repair result
 
 During a single service visit, Laser Tech Service specialists resolved two faults in different handpieces of the same device.
@@ -88,19 +96,11 @@ Replacing a faulty part without addressing the cause of its failure creates a ri
 
 ## Photographs of the service work
 
-![Contact surface of a dismantled hair removal handpiece during servicing](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-do-depilacji-powierzchnia-kontaktowa.webp)
-
-![Device control panel displaying NDYAG LASER mode](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/panel-aparatu-tryb-nd-yag.webp)
-
-![Multifunction device with handpieces in the treatment room during servicing](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/aparat-dwie-glowice-serwis.webp)
-
-![Nd:YAG mode screen with energy and frequency fields](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/ekran-nd-yag-energia-czestotliwosc.webp)
-
-![Exposed wiring and components of the hair removal handpiece](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-depilacja-odsloniete-przewody.webp)
-
 ![Technician wearing protective glasses working on an open Nd:YAG handpiece](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/serwis-manipuly-nd-yag.webp)
 
 ![Interior of the hair removal handpiece housing with the assembly and wiring visible](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-depilacja-wnetrze-obudowy.webp)
+
+![Exposed wiring and components of the hair removal handpiece](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/glowica-depilacja-odsloniete-przewody.webp)
 
 ## Related resources and services
 

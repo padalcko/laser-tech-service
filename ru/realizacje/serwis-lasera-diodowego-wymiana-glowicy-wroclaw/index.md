@@ -62,6 +62,8 @@
 
 - итоговая проверка работы аппарата
 
+![Замена манипулы диодного лазера для эпиляции](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-2.webp)
+
 ## Замена манипулы диодного лазера
 
 Одним из важнейших этапов стала замена рабочей манипулы диодного лазера.
@@ -69,8 +71,6 @@
 После работ проверили соединения и правильность установки новой манипулы.
 
 После сборки аппарата проверили его работу.
-
-![Замена манипулы диодного лазера для эпиляции](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-2.webp)
 
 ![Техник у задней панели диодного лазера](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-3.webp)
 

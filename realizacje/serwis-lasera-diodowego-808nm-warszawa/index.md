@@ -12,6 +12,10 @@ Data publikacji: 2026-11-05
 
 ![Laser diodowy z ekranem, głowicą i przewodem na wózku](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa.webp)
 
+![Tylny panel lasera HS-A0406 z etykietą modelu, przyłączami wody i wentylatorami](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-hs-a0406-tabliczka-i-wentylatory.webp)
+
+Tylny panel lasera HS-A0406 z etykietą modelu, przyłączami wody i wentylatorami
+
 ## Krótki opis
 
 Regularny serwis laserów to najlepszy sposób na utrzymanie sprawności urządzeń kosmetologicznych. Podczas kolejnej wizyty u naszego stałego klienta w Warszawie przeprowadziliśmy pełny przegląd techniczny lasera diodowego 808 nm, wymieniliśmy płyn chłodzący, oczyściliśmy urządzenie, sprawdziliśmy moc diody i uszczelniliśmy głowicę.
@@ -34,6 +38,10 @@ Stary płyn chłodzący został spuszczony, a układ napełniono nowym płynem. 
 
 Regularna wymiana płynu pomaga ograniczyć ryzyko powstawania osadów i zanieczyszczeń, które mogą pogarszać przepływ cieczy oraz skuteczność chłodzenia.
 
+![Obudowa głowicy lasera diodowego z przewodem i małym wyświetlaczem](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/glowica-lasera-diodowego-808nm.webp)
+
+Obudowa głowicy lasera diodowego z przewodem i małym wyświetlaczem
+
 ## Czyszczenie wnętrza urządzenia
 
 Kolejnym etapem było oczyszczenie wnętrza lasera z nagromadzonego kurzu i zabrudzeń.
@@ -42,6 +50,10 @@ W urządzeniach kosmetologicznych pracujących przez wiele godzin dziennie zanie
 
 Usunięcie zabrudzeń jest ważną częścią konserwacji, ponieważ ograniczony przepływ powietrza może przyczyniać się do wzrostu temperatury podzespołów.
 
+![Przewód odprowadzający płyn do pojemnika przy tylnym panelu lasera](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/spust-plynu-chlodzacego-laser.webp)
+
+Przewód odprowadzający płyn do pojemnika przy tylnym panelu lasera
+
 ## Kontrola mocy diody laserowej
 
 Podczas przeglądu przeprowadziliśmy również kontrolę mocy diody laserowej.
@@ -49,6 +61,10 @@ Podczas przeglądu przeprowadziliśmy również kontrolę mocy diody laserowej.
 To istotny element serwisu laserów do depilacji, ponieważ stan źródła światła ma bezpośredni wpływ na parametry pracy urządzenia.
 
 Sama wartość ustawiona na ekranie nie zastępuje kontroli rzeczywistych parametrów pracy lasera.
+
+![Wewnętrzna metalowa płyta lasera z mocowaniami i przewodami](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/panel-wewnetrzny-lasera-i-przewody.webp)
+
+Wewnętrzna metalowa płyta lasera z mocowaniami i przewodami
 
 ## Uszczelnienie głowicy laserowej
 
@@ -68,6 +84,10 @@ To kolejny przykład pokazujący, że regularna konserwacja jest równie ważna 
 
 W Laser Tech Service wykonujemy diagnostykę, serwis laserów, regenerację laserów i naprawy urządzeń kosmetologicznych na terenie Warszawy oraz całej Polski.
 
+![Otwarta obudowa lasera z wentylatorami, zasilaczem i przewodami](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/wnetrze-lasera-diodowego-wentylatory.webp)
+
+Otwarta obudowa lasera z wentylatorami, zasilaczem i przewodami
+
 ## Wezwanie do kontaktu
 
 Twój laser pracuje codziennie, ale od dawna nie był serwisowany? Nie czekaj na awarię.
@@ -77,26 +97,6 @@ Skontaktuj się z Laser Tech Service i umów profesjonalny przegląd techniczny.
 Telefon / WhatsApp: +48 790 402 597
 
 ## Zdjęcia z serwisu
-
-![Tylny panel lasera HS-A0406 z etykietą modelu, przyłączami wody i wentylatorami](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-hs-a0406-tabliczka-i-wentylatory.webp)
-
-Tylny panel lasera HS-A0406 z etykietą modelu, przyłączami wody i wentylatorami
-
-![Obudowa głowicy lasera diodowego z przewodem i małym wyświetlaczem](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/glowica-lasera-diodowego-808nm.webp)
-
-Obudowa głowicy lasera diodowego z przewodem i małym wyświetlaczem
-
-![Przewód odprowadzający płyn do pojemnika przy tylnym panelu lasera](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/spust-plynu-chlodzacego-laser.webp)
-
-Przewód odprowadzający płyn do pojemnika przy tylnym panelu lasera
-
-![Wewnętrzna metalowa płyta lasera z mocowaniami i przewodami](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/panel-wewnetrzny-lasera-i-przewody.webp)
-
-Wewnętrzna metalowa płyta lasera z mocowaniami i przewodami
-
-![Otwarta obudowa lasera z wentylatorami, zasilaczem i przewodami](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/wnetrze-lasera-diodowego-wentylatory.webp)
-
-Otwarta obudowa lasera z wentylatorami, zasilaczem i przewodami
 
 ![Widok wewnętrznych podzespołów lasera i przewodów przy otwartej obudowie](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/podzespoly-wewnatrz-lasera-diodowego.webp)
 

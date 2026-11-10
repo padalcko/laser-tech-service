@@ -26,6 +26,8 @@
 
 Мы получили срочную заявку из Гливице: диодный лазер для эпиляции перегревался. Потребовался срочный выезд мастера к клиенту.
 
+![Демонтированный водяной фильтр системы охлаждения диодного лазера](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/wymiana-filtra-wody-laser-diodowy-gliwice.webp)
+
 ## Диагностика
 
 При проверке системы охлаждения мастер обнаружил причину неисправности. Треснуло крепление возле водяного фильтра, в месте соединения фильтра с охлаждающей трубкой.
@@ -43,8 +45,6 @@
 Laser Tech Service выполняет обслуживание и ремонт косметологических лазеров, а также восстановление их узлов, в том числе с выездом к клиентам.
 
 ## Фотографии ремонта в Гливице
-
-![Демонтированный водяной фильтр системы охлаждения диодного лазера](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/wymiana-filtra-wody-laser-diodowy-gliwice.webp)
 
 ![Сервисный доступ к фильтру системы охлаждения диодного лазера](https://lasertechservice.pl/img/realizacje/gliwice-filtr-wody/uklad-chlodzenia-lasera-diodowego-gliwice.webp)
 
