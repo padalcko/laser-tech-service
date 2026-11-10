@@ -8,6 +8,8 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/kogd
 
 > Dlaczego filtr wody w laserze diodowym może przeciekać? Poznaj przypadek z Gliwic i dowiedz się, jak zapobiegać przegrzewaniu lasera.
 
+Autor: Олександр Падалко
+
 Data publikacji: 2026-10-28
 
 Filtr wody w laserze diodowym to niewielki element, o którym łatwo zapomnieć. Dopóki urządzenie pracuje normalnie, mało kto zwraca na niego uwagę. Problem zaczyna się wtedy, gdy filtr lub jego połączenia tracą szczelność.

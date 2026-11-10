@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/beauty-planet-
 
 > Beauty Planet 3D Contour – the capabilities of this 5-in-1 device, its technologies, its role in a clinic and what to do if vacuum or RF fails.
 
-Author: Oleksandr Padalko
+Author: Олександр Падалко
 
 Publication date: 2026-09-14
 

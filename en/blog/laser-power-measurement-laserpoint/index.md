@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/pomiar-mocy-la
 
 > How much power does your laser really deliver? Discover LaserPoint measurement technology, laser safety standards and Laser Tech Service diagnostics.
 
-Author: Laser Tech Service
+Author: Олександр Падалко
 
 Publication date: 2026-11-09
 

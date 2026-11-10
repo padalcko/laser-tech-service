@@ -8,6 +8,8 @@ Other language version: [Polski](https://lasertechservice.pl/blog/lasery-dinozau
 
 > A working screen is not proof of laser performance. Diode wear, cooling, measurements and the questions to ask before booking hair removal.
 
+Author: Олександр Падалко
+
 Publication date: 2026-10-27
 
 A polished casing and an impressive touchscreen can make tired equipment look reassuring. Neither tells you what comes out of the handpiece. Before buying a treatment course, ask whether the salon can substantiate the condition of its equipment. “It still switches on” is not a technical assessment.

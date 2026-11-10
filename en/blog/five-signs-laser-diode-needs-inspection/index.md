@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/5-oznak-wymian
 
 > Discover 5 signs that may indicate wear or damage to a hair removal laser diode. Learn when diagnostics and laser diode replacement are needed.
 
-Author: Dmitrij Zajcew
+Author: Олександр Падалко
 
 Publication date: 2026-09-10
 

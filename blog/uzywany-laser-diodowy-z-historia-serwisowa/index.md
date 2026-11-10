@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/poch
 
 > Kupujesz używany laser diodowy? Sprawdź, dlaczego historia serwisowa, dokumentacja urządzenia i późniejsze wsparcie techniczne są ważniejsze niż sama niska cena.
 
-Autor: Dmitrij Zajcew
+Autor: Олександр Падалко
 
 Data publikacji: 2026-09-09
 

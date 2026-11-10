@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/povr
 
 > Jak uszkodzony przewód lub złącze wpływa na pracę manipuły? Objawy, przyczyny, pielęgnacja kabla i przykład naprawy aparatu RSL w Warszawie.
 
-Autor: Laser Tech Service
+Autor: Олександр Падалко
 
 Data publikacji: 2026-10-09
 

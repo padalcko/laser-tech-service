@@ -8,6 +8,8 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/smar
 
 > smartPULS na Linux: diagnostyka IPL w Świdnicy, interwał 30 000 impulsów i hipotezy dotyczące obwodu głowicy. Fakty i granice ustaleń serwisowych.
 
+Autor: Олександр Падалко
+
 Data publikacji: 2026-11-06
 
 **Stary niemiecki sprzęt kosmetologiczny potrafi zaskoczyć nie tylko jakością wykonania, ale również rozwiązaniami elektronicznymi. Przekonaliśmy się o tym podczas naprawy urządzenia smartPULS u klienta ze Świdnicy.**

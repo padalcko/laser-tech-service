@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/dlaczego-maly-
 
 > The device switches on but the handpiece does not work? We explain how internal wire damage can disable a function, using a Beauty Planet 3D Contour example.
 
-Author: Oleksandr Padalko
+Author: Олександр Падалко
 
 Publication date: 2026-09-30
 

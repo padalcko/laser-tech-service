@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/co2-
 
 > Brak reakcji lasera CO₂ na pedał nie musi oznaczać awarii pedału. Przypadek z Poznania pokazuje, dlaczego najpierw szukamy przerwy w obwodzie.
 
-Autor: Laser Tech Service
+Autor: Олександр Падалко
 
 Data publikacji: 2026-10-06
 

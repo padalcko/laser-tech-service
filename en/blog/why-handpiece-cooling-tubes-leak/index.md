@@ -8,6 +8,8 @@ Other language version: [Polski](https://lasertechservice.pl/blog/dlaczego-przew
 
 > Why cooling tubes deteriorate, why replacing the sleeve alone may not help, and what to do about a leak. A repair example from Laser Tech Service.
 
+Author: Олександр Падалко
+
 Publication date: 2026-11-02
 
 Cosmetic laser handpieces are commonly connected to the main device through a flexible hose assembly containing electrical wiring, coolant tubes, and other components.

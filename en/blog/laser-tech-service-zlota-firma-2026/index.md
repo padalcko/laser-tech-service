@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/laser-tech-ser
 
 > Laser Tech Service has received the Złota Firma 2026 award. Thank you for trusting our laser and aesthetic equipment servicing in Wrocław and throughout Poland.
 
-Author: Laser Tech Service
+Author: Олександр Падалко
 
 Publication date: 2026-10-02
 

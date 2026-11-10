@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/dlaczego-pala-
 
 > Why do hair removal laser diode modules fail? Causes, symptoms, failure costs and the importance of diagnostics and regular servicing.
 
-Author: Padalko Oleksandr
+Author: Олександр Падалко
 
 Publication date: 2026-09-15
 

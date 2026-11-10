@@ -8,6 +8,8 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/sgor
 
 > Czy spalona dioda oznacza konieczność zakupu nowej głowicy? Poznaj rzeczywisty przypadek wymiany diody i możliwości naprawy manipuły w Laser Tech Service.
 
+Autor: Олександр Падалко
+
 Czy spalona dioda oznacza konieczność zakupu nowej głowicy? Poznaj rzeczywisty przypadek wymiany diody i możliwości naprawy manipuły w Laser Tech Service.
 
 ## Spalona dioda laserowa — rzeczywisty przypadek

@@ -8,6 +8,8 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/pere
 
 > Czy zbyt długie przewody mogą przegrzewać głowicę lasera? Poznaj przyczyny, ryzyko samodzielnej naprawy i przypadek serwisowy z Lubina.
 
+Autor: Олександр Падалко
+
 Data publikacji: 2026-10-29
 
 Kiedy głowica lasera diodowego zaczyna się przegrzewać, pierwsze podejrzenie zwykle pada na układ chłodzenia. Jednak nie zawsze właśnie tam znajduje się przyczyna. Czasami problem wynika z nieprawidłowego podłączenia elektrycznego diody laserowej.

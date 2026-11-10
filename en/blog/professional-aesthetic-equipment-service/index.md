@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/dlaczego-warto
 
 > Why does professional aesthetic equipment servicing matter? Repair warranties, on-site visits, repair documentation, service history and equipment value.
 
-Author: Dmitrij Zajcew
+Author: Олександр Падалко
 
 Publication date: 2026-09-08
 

@@ -8,6 +8,8 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/kak-
 
 > Planujesz zakup używanego lasera do depilacji? Sprawdź stan diody, historię serwisową i koszty napraw. Porady Laser Tech Service i oferty LTS Market.
 
+Autor: Олександр Падалко
+
 Zakup urządzenia do gabinetu w Polsce to poważna inwestycja. Używany laser może pomóc uruchomić salon lub rozszerzyć ofertę, ale niska cena nie zawsze oznacza oszczędność. Przed decyzją trzeba sprawdzić stan techniczny, dokumenty i koszty dalszej eksploatacji. Ten poradnik prowadzi od oceny ogłoszenia do niezależnej diagnostyki i porównania sposobów finansowania.
 
 ![Technik Laser Tech Service przy otwartej obudowie aparatu podczas serwisu we Wrocławiu](https://lasertechservice.pl/img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw.webp)

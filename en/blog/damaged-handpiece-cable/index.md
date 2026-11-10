@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/uszkodzony-prz
 
 > How does a damaged cable or connector affect handpiece operation? Symptoms, causes, cable care and an RSL repair example from Warsaw.
 
-Author: Laser Tech Service
+Author: Олександр Падалко
 
 Publication date: 2026-10-09
 

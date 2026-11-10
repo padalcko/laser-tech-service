@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/poch
 
 > Dlaczego profesjonalny serwis urządzeń kosmetycznych ma znaczenie? Gwarancja, szybki dojazd, dokumentacja napraw, historia serwisowa i większa wartość urządzenia.
 
-Autor: Dmitrij Zajcew
+Autor: Олександр Падалко
 
 Data publikacji: 2026-09-08
 

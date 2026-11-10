@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/phar
 
 > Pharaon 1470, LSO Medical i OSYRIS: historia oznaczeń, znaczenie długości fali 1470 nm oraz jej zastosowanie w medycynie, na podstawie źródeł i badań.
 
-Autor: Oleksandr Padalko
+Autor: Олександр Падалко
 
 Data publikacji: 2026-09-30
 

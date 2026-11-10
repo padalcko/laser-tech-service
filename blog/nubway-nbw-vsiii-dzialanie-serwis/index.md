@@ -8,6 +8,8 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/nubw
 
 > Poznaj NUBWAY NBW-VSIII: masaż próżniowy, RF, IR, parametry, typowe usterki i serwis układu podciśnienia.
 
+Autor: Олександр Падалко
+
 Data publikacji: 2026-11-03
 
 NUBWAY NBW-VSIII to urządzenie wykorzystywane w gabinetach kosmetologicznych, studiach modelowania sylwetki oraz placówkach oferujących zabiegi masażu aparaturowego. Jego największą zaletą jest połączenie kilku technologii w jednym urządzeniu. Dzięki temu operator może wykonywać różne rodzaje zabiegów bez konieczności korzystania z kilku osobnych maszyn.

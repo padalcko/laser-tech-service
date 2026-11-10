@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/zame
 
 > Dlaczego chłodzenie lasera wymaga regularnej obsługi? Jakość wody, obieg, ryzyko przegrzania i terminy wymiany zgodne z dokumentacją urządzenia.
 
-Autor: Laser Tech Service
+Autor: Олександр Падалко
 
 Data publikacji: 2026-10-09
 

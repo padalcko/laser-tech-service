@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/5-pr
 
 > Poznaj 5 oznak, które mogą wskazywać na zużycie lub uszkodzenie diody w laserze do depilacji. Sprawdź, kiedy potrzebna jest diagnostyka i wymiana diody laserowej.
 
-Autor: Dmitrij Zajcew
+Autor: Олександр Падалко
 
 Data publikacji: 2026-09-10
 

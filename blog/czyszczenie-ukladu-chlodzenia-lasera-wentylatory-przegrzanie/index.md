@@ -8,6 +8,8 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/ochi
 
 > Jak kurz ogranicza chłodzenie lasera? Przyczyny awarii, dobór wentylatorów według przepływu i ciśnienia, objawy przegrzania oraz zasady konserwacji.
 
+Autor: Олександр Падалко
+
 Regularne czyszczenie pomaga zachować drożność kanałów powietrznych i zdolność oddawania ciepła. Kurz może ograniczać przepływ, zanieczyszczać radiatory oraz pogarszać warunki pracy wentylatorów. Sama wymiana wentylatora nie rozwiązuje problemu zatkanego układu: potrzebne są diagnostyka, właściwy dobór części i konserwacja zgodna z dokumentacją urządzenia.
 
 ![Dwa wentylatory obok manipuły aparatu laserowego, przygotowane do prac serwisowych](https://lasertechservice.pl/img/realizacje/wentylatory-wroclaw/wymiana-wentylatorow-chlodzenia-lasera.webp)

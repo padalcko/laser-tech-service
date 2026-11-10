@@ -8,6 +8,8 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/wate
 
 > Płyn jest w laserze, ale nie ma obiegu? Wyjaśniamy Water flow error, rolę szczotek silnika i kiedy warto naprawić pompę zamiast ją wymieniać.
 
+Autor: Олександр Падалко
+
 Data publikacji: 2026-11-02
 
 Obecność płynu w zbiorniku nie oznacza, że przepływa on przez układ. Jeśli laser zgłasza „Water flow error”, trzeba ustalić przyczynę braku lub nieprawidłowego potwierdzenia przepływu, a nie tylko sprawdzić poziom cieczy.

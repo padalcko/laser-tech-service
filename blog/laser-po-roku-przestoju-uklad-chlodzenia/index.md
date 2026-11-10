@@ -8,6 +8,8 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/laze
 
 > Długi przestój lasera wymaga kontroli chłodzenia. Dowiedz się, jak osady i słaby przepływ wpływają na aparat oraz dlaczego wymiana przewodów jest pracochłonna.
 
+Autor: Олександр Падалко
+
 Data publikacji: 2026-10-27
 
 Brak zabiegów nie oznacza, że urządzenie nie potrzebuje kontroli technicznej. Stan płynu i przewodów warto sprawdzić także podczas postoju. Przykład naprawy LightSheer DESIRE we Wrocławiu pokazuje nakład pracy przy zabrudzonym obiegu — nie potwierdza jednak, że ten konkretny aparat stał nieużywany przez rok.

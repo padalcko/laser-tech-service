@@ -8,6 +8,8 @@ Other language version: [Polski](https://lasertechservice.pl/blog/czyszczenie-uk
 
 > How does dust restrict laser cooling? Causes of failure, fan selection by flow and pressure, overheating symptoms and maintenance principles.
 
+Author: Олександр Падалко
+
 Regular cleaning helps keep air passages clear and maintain heat dissipation. Dust can restrict airflow, contaminate heat sinks and impair fan operating conditions. Replacing a fan alone does not resolve a blocked system: diagnostics, correct component selection and maintenance in accordance with the device documentation are needed.
 
 ![Two fans beside the laser device handpiece, prepared for servicing](https://lasertechservice.pl/img/realizacje/wentylatory-wroclaw/wymiana-wentylatorow-chlodzenia-lasera.webp)

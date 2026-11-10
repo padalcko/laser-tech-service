@@ -8,6 +8,8 @@ Other language version: [Polski](https://lasertechservice.pl/blog/spalona-dioda-
 
 > Does a burned-out laser diode mean you need a new handpiece? Explore a real diode replacement, the repair outcome and what to consider before replacement.
 
+Author: Олександр Падалко
+
 Does a burned-out laser diode mean you need a new handpiece? Explore a real diode replacement, the repair outcome and what to consider before replacement.
 
 ## Burned-Out Laser Diode — A Real Repair Case

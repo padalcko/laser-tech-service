@@ -8,6 +8,8 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/poch
 
 > Dlaczego rurki chłodzenia tracą szczelność, kiedy wymienić osłonę i co zrobić przy wycieku? Wyjaśnienie na przykładzie naprawy dla klienta z Pragi.
 
+Autor: Олександр Падалко
+
 Data publikacji: 2026-11-02
 
 W wielu laserach kosmetycznych głowica zabiegowa jest połączona z urządzeniem elastycznym przewodem. W jego wnętrzu znajdują się przewody elektryczne, przewody chłodzenia i inne elementy niezbędne do prawidłowej pracy urządzenia.

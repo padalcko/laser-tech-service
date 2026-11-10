@@ -8,6 +8,8 @@ Other language version: [Polski](https://lasertechservice.pl/blog/przegrzewanie-
 
 > Can long wires cause laser handpiece overheating? Learn about electrical resistance, soldering risks and a real repair in Lubin.
 
+Author: Олександр Падалко
+
 Publication date: 2026-10-29
 
 When a diode laser handpiece starts overheating, the cooling system is usually the first thing technicians inspect. However, not every overheating problem is caused by a cooling failure. Sometimes the cause is related to the electrical wiring connected to the laser diode.

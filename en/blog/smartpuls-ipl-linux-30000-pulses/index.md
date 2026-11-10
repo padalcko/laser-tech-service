@@ -8,6 +8,8 @@ Other language version: [Polski](https://lasertechservice.pl/blog/smartpuls-ipl-
 
 > A smartPULS IPL service visit in Świdnica: Linux controls, the 30,000-pulse interval and handpiece circuit hypotheses, with evidence limits explained.
 
+Author: Олександр Падалко
+
 Publication date: 2026-11-06
 
 **A service visit in Świdnica revealed an unusual feature of an older German IPL device. What initially appeared to be a burned-out lamp turned into an investigation of smartPULS electronics, Linux-based controls and a service mechanism associated with pulse counts.**

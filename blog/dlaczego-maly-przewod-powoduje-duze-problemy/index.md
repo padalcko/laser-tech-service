@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/poch
 
 > Aparat się włącza, ale manipuła nie działa? Wyjaśniamy, jak wewnętrzne uszkodzenie przewodu zatrzymuje funkcję urządzenia, na przykładzie Beauty Planet 3D Contour.
 
-Autor: Oleksandr Padalko
+Autor: Олександр Падалко
 
 Data publikacji: 2026-09-30
 

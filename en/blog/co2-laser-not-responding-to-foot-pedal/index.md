@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/laser-co2-nie-
 
 > A CO₂ laser failing to respond to its pedal does not necessarily have a faulty pedal. A Poznań case shows why we investigate the circuit first.
 
-Author: Laser Tech Service
+Author: Олександр Падалко
 
 Publication date: 2026-10-06
 

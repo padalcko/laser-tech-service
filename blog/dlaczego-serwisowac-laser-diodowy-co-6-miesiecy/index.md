@@ -8,6 +8,8 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/zach
 
 > Dlaczego regularny serwis laserów jest ważny? Wyjaśniamy rolę chłodzenia, czyszczenia i uszczelnienia głowicy na przykładzie z Warszawy.
 
+Autor: Олександр Падалко
+
 Data publikacji: 2026-11-05
 
 ## Wstęp

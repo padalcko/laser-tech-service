@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/serwis-glowicy
 
 > Compromised handpiece sealing can contaminate optics, reduce treatment effectiveness and risk diode module damage. See an actual service case.
 
-Author: Oleksandr Padalko
+Author: Олександр Падалко
 
 Publication date: 2026-09-11
 

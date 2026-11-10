@@ -8,6 +8,8 @@ Other language version: [Polski](https://lasertechservice.pl/blog/water-flow-err
 
 > Coolant is present but the laser has no flow. Learn how pump brushes can fail, what Water flow error means and when pump repair may be worthwhile.
 
+Author: Олександр Падалко
+
 Publication date: 2026-11-02
 
 Coolant in the reservoir does not prove that coolant is circulating. A “Water flow error” requires checking why flow is absent or is not being confirmed by the monitoring system, rather than simply checking the fluid level.

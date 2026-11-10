@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/modu
 
 > Jak działa moduł Peltiera w głowicy lasera? Objawy usterek, rola termopasty, odprowadzanie ciepła i znaczenie diagnostyki przed wymianą TEC.
 
-Autor: Laser Tech Service
+Autor: Олександр Падалко
 
 Data publikacji: 2026-10-15
 

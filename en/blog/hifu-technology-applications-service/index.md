@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/hifu-co-to-jes
 
 > What is HIFU and how does it work? Focused ultrasound principles, 1.5, 3.0 and 4.5 mm depths, applications, device construction and servicing explained.
 
-Author: Oleksandr Padalko
+Author: Олександр Падалко
 
 Publication date: 2026-09-14
 

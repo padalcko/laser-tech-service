@@ -8,6 +8,8 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/podk
 
 > Dlaczego podłączenie głowic wpływa na chłodzenie? Moduł Peltiera, objawy przegrzewania i kalibracja Nd:YAG po wymianie elementu laserowego.
 
+Autor: Олександр Падалко
+
 Dlaczego podłączenie głowic wpływa na chłodzenie? Moduł Peltiera, objawy przegrzewania i kalibracja Nd:YAG po wymianie elementu laserowego.
 
 ## Gdy dwie technologie pracują w jednej obudowie

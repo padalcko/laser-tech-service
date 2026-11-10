@@ -8,6 +8,8 @@ Other language version: [Polski](https://lasertechservice.pl/blog/filtr-wody-las
 
 > A cracked water filter fitting caused coolant loss and overheating in Gliwice. Learn why regular diode laser filter maintenance matters.
 
+Author: Олександр Падалко
+
 Publication date: 2026-10-28
 
 The water filter in a diode laser is a small component that is easy to overlook. As long as the cooling system works properly, the condition of the filter and its connections may receive little attention.

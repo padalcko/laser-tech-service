@@ -8,6 +8,8 @@ Other language version: [Polski](https://lasertechservice.pl/blog/laser-po-roku-
 
 > Long laser downtime calls for cooling checks. Learn how deposits and poor circulation affect equipment and why replacing cooling tubing takes time.
 
+Author: Олександр Падалко
+
 Publication date: 2026-10-27
 
 A pause in treatments does not remove the need for technical checks. Coolant and tubing condition still matter during downtime. A LightSheer DESIRE repair in Wrocław illustrates the work involved in a contaminated circuit; it does not establish that this particular device stood unused for a year.

@@ -8,6 +8,8 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/laze
 
 > Ładny ekran nie potwierdza sprawności lasera. Starzenie diod, chłodzenie, pomiary i pytania, które warto zadać salonowi przed depilacją.
 
+Autor: Олександр Падалко
+
 Data publikacji: 2026-10-27
 
 Błyszcząca obudowa, kolorowy ekran i obietnica „mocnego lasera” nie są dowodem skuteczności. Klient płaci za prawidłowo przeprowadzony zabieg, a nie za wygląd urządzenia. Stary, zużyty aparat bez potwierdzonego stanu technicznego powinien budzić pytania, zanim kupisz serię zabiegów.

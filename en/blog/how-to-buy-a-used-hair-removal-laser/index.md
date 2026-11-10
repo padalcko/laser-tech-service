@@ -8,6 +8,8 @@ Other language version: [Polski](https://lasertechservice.pl/blog/jak-kupic-uzyw
 
 > Planning to buy a used hair removal laser? Check diode condition, service history and repair costs. Guidance from Laser Tech Service and LTS Market listings.
 
+Author: Олександр Падалко
+
 Buying equipment for a clinic in Poland is a substantial investment. A used laser can help launch a business or expand its services, but a low price does not always mean a saving. Technical condition, documents and future running costs need checking before a decision. This guide covers assessing a listing, independent diagnostics and comparing financing options.
 
 ![Laser Tech Service technician beside an open device housing during servicing in Wrocław](https://lasertechservice.pl/img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw.webp)

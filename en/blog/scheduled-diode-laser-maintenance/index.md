@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/planowy-przegl
 
 > Why arrange scheduled diode laser maintenance? The importance of cleaning, cooling checks, filters, water and testing after servicing explained.
 
-Author: Oleksandr Padalko
+Author: Олександр Падалко
 
 Publication date: 2026-09-12
 

@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/dlaczego-nie-w
 
 > An incorrectly fitted seal flooded a laser diode module in Poznań. We explain the risks, costs and symptoms requiring the device to be switched off.
 
-Author: Laser Tech Service
+Author: Олександр Падалко
 
 Publication date: 2026-10-05
 

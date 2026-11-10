@@ -8,6 +8,8 @@ Other language version: [Polski](https://lasertechservice.pl/blog/nubway-nbw-vsi
 
 > Explore NUBWAY NBW-VSIII vacuum massage technology, RF, IR, technical specifications and maintenance requirements.
 
+Author: Олександр Падалко
+
 Publication date: 2026-11-03
 
 The NUBWAY NBW-VSIII is a multifunctional aesthetic treatment machine used in beauty salons, body contouring studios and facilities offering equipment-assisted massage.

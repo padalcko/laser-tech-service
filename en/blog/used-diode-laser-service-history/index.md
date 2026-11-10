@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/uzywany-laser-
 
 > Buying a used diode laser? Learn why service history, documentation and continuing technical support matter more than a low price alone.
 
-Author: Dmitrij Zajcew
+Author: Олександр Падалко
 
 Publication date: 2026-09-09
 

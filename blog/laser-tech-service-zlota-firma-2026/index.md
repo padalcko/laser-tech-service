@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/lase
 
 > Laser Tech Service otrzymał nagrodę Złota Firma 2026. Dziękujemy za zaufanie do naszego serwisu laserów i urządzeń kosmetycznych we Wrocławiu i całej Polsce.
 
-Autor: Laser Tech Service
+Autor: Олександр Падалко
 
 Data publikacji: 2026-10-02
 

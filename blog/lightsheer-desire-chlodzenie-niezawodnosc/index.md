@@ -8,6 +8,8 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/ligh
 
 > LightSheer DESIRE, technologia HIT i ChillTip: jak chłodzenie, osady oraz uszczelnienia wpływają na niezawodność? Wnioski z naprawy w Oleśnicy.
 
+Autor: Олександр Падалко
+
 Wiek profesjonalnego lasera nie przesądza o jego dalszej przydatności. Na przykładzie urządzenia mającego około dziesięciu lat wyjaśniamy technologię LightSheer DESIRE oraz rolę drożnego i szczelnego obiegu chłodzenia. Kwota około 200 000 zł jest orientacyjnym odniesieniem do klasy sprzętu, nie aktualną ceną naprawianego egzemplarza.
 
 ![Lumenis LightSheer DESIRE z ekranem logowania w gabinecie w Oleśnicy](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lumenis-lightsheer-desire-aparat-olesnica.webp)

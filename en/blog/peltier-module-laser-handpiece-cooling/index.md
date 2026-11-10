@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/modul-peltiera
 
 > How does a laser handpiece Peltier module work? Fault symptoms, thermal paste, heat removal and the importance of diagnostics before TEC replacement.
 
-Author: Laser Tech Service
+Author: Олександр Падалко
 
 Publication date: 2026-10-15
 

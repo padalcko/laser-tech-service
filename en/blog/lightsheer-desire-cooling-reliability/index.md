@@ -8,6 +8,8 @@ Other language version: [Polski](https://lasertechservice.pl/blog/lightsheer-des
 
 > LightSheer DESIRE, HIT and ChillTip: how do cooling, deposits and seals affect reliability? Lessons from an Oleśnica repair.
 
+Author: Олександр Падалко
+
 A professional laser’s age does not determine its continuing usefulness. Using a roughly ten-year-old device as an example, we explain LightSheer DESIRE technology and the importance of a clear, leak-free cooling circuit. Approximately PLN 200,000 is an indicative reference to this equipment class, not the current price of the repaired unit.
 
 ![Lumenis LightSheer DESIRE showing the login screen at a clinic in Oleśnica](https://lasertechservice.pl/img/realizacje/lightsheer-desire-olesnica/lumenis-lightsheer-desire-aparat-olesnica.webp)
