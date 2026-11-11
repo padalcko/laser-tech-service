@@ -5,6 +5,7 @@ HTML remains the content source; only main markup is transformed. Standard libra
 from html.parser import HTMLParser
 from html import escape, unescape
 from pathlib import Path
+import site_locales
 import re, argparse
 ROOT = Path(__file__).resolve().parents[1]
 VOID = set('area base br col embed hr img input link meta param source track wbr'.split())
@@ -43,7 +44,8 @@ def element(tag,cls,parent):
     n=Node(tag,parent=parent);n.classes(cls);n.end='</'+tag+'>';parent.children.append(n);return n
 
 def paths():
-    return sorted(p for folder in ['realizacje','ru/realizacje','en/case-studies'] for p in (ROOT/folder).glob('*/index.html'))
+    registered = {url for url, (_, _, status) in site_locales.index(site_locales.load()).items() if status == 'published'}
+    return sorted(p for folder in ['realizacje','ru/realizacje','en/case-studies'] for p in (ROOT/folder).glob('*/index.html') if '/' + p.parent.relative_to(ROOT).as_posix() + '/' in registered)
 RESULT=re.compile(r'^(rezultat|wynik|efekt|podsumowanie|result|outcome|summary|результат|итог)',re.I)
 def transform(source,reference):
     match=re.search(r'<main\b.*?</main>',source,re.S);tree=Tree(match.group()); main=tree.root.all(tag='main')[0]

@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "new_routes": [
+    "realizacje",
+    "blog",
+    "uslugi",
+    "ru/realizacje",
+    "ru/blog",
+    "ru/uslugi",
+    "en/case-studies",
+    "en/blog",
+    "en/services"
+  ],
+  "fixture_pages": 10,
+  "private_files_excluded": true,
+  "negative_checks": [
+    "broken-asset",
+    "broken-link",
+    "invalid-sitemap-url",
+    "missing-file",
+    "stale-or-modified-file",
+    "unexpected-public-file"
+  ],
+  "cleanup_build": "PASS",
+  "repeat_build_identical": true,
+  "final_pages": 271
+}

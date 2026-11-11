@@ -156,6 +156,16 @@ Wyjaśniamy zakres prac, możliwe rozwiązania i warunki gwarancji.
 
 Każda naprawa to inna historia, inna usterka i konkretne rozwiązanie techniczne. Zobacz wybrane realizacje Laser Tech Service.
 
+![Recepcja salonu PURE STUDIO we Wrocławiu](https://lasertechservice.pl/img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera.webp)
+
+WrocławPURE STUDIO
+
+### [Serwis lasera diodowego w PURE STUDIO Wrocław – wymiana obudowy głowicy i kontrola mocy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/)
+
+Wymiana obudowy głowicy lasera, czyszczenie optyki, uszczelnienie i pomiar mocy lasera diodowego w PURE STUDIO Wrocław.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/)
+
 ![Głowica smartPULS trzymana w dłoni, z widocznym oknem optycznym](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp)
 
 ŚwidnicasmartPULS · IPL
@@ -175,16 +185,6 @@ Warszawa808 nm · HS-A0406
 Pełny serwis lasera diodowego 808 nm w Warszawie. Wymiana płynu, czyszczenie, kontrola mocy diody i uszczelnienie głowicy. Laser Tech Service.
 
 [Zobacz realizację](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/)
-
-![NUBWAY NBW-VSIII z oznaczeniem Body Space i technik podczas wizyty serwisowej](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-urzadzenie-body-space.webp)
-
-WrocławNUBWAY
-
-### [Naprawa zaworu podciśnienia w NUBWAY NBW-VSIII we Wrocławiu](https://lasertechservice.pl/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/)
-
-Naprawa zaworu podciśnienia NUBWAY NBW-VSIII we Wrocławiu. Czyszczenie i regeneracja zaworu bez kosztownej wymiany.
-
-[Zobacz realizację](https://lasertechservice.pl/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/)
 
 [Zobacz wszystkie realizacje](https://lasertechservice.pl/realizacje/)[Blog](https://lasertechservice.pl/blog/)
 
@@ -229,6 +229,6 @@ Czas trwania i warunki gwarancji zależą od rodzaju naprawy oraz uzgodnionych w
 
 ## Powiązane realizacje
 
+- [Serwis lasera diodowego w PURE STUDIO Wrocław – wymiana obudowy głowicy i kontrola mocy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/)
 - [smartPULS – przywrócenie działania głowicy IPL w Świdnicy](https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/)
 - [Pełny serwis lasera diodowego 808 nm w Warszawie – konserwacja, chłodzenie i uszczelnienie głowicy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/)
-- [Naprawa zaworu podciśnienia w NUBWAY NBW-VSIII we Wrocławiu](https://lasertechservice.pl/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/)

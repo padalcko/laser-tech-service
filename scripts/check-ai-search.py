@@ -11,7 +11,9 @@ R,B=ai.ROOT,ai.BASE
 issues=collections.defaultdict(list);counts=collections.Counter();external=set()
 def problem(kind,value):issues[kind].append(value)
 pages=ai.discover();lookup={p['canonical']:p for p in pages}
-allhtml={p:ai.Parser(p.read_text()).root for p in R.rglob('*.html') if '.git' not in p.parts}
+# AI contracts apply to curated registry pages and the shared 404.
+# validate-dist.py independently checks ALL discovered public HTML, including new routes.
+allhtml={p:ai.Parser(p.read_text()).root for p in [*(page['path'] for page in pages), R/'404.html']}
 redirects={x.split()[0]:x.split()[1] for x in (R/'_redirects').read_text().splitlines() if x.strip() and not x.startswith('#')}
 def link(url,source):
     counts['links_checked']+=1
@@ -25,7 +27,7 @@ def link(url,source):
     if target.is_dir():target=target/'index.html'
     if not target.is_file():problem('broken_links',[str(source.relative_to(R)),url]);return
     if u.fragment and target.suffix=='.html':
-        ids={n.attrs.get('id') for n in allhtml[target].all()}
+        ids={n.attrs.get('id') for n in (allhtml.get(target) or ai.Parser(target.read_text()).root).all()}
         if unquote(u.fragment) not in ids:problem('broken_fragments',[str(source.relative_to(R)),url])
 def walk(value):
     if isinstance(value,dict):
@@ -67,7 +69,8 @@ for path,tree in allhtml.items():
             t=v.get('@type')
             if t:counts['schema_'+str(t)]+=1
             if t in ('Organization','LocalBusiness') and v.get('name')=='Laser Tech Service':
-                if v.get('@id')!=ai.ORG or v.get('url')!=B+'/':problem('schema_problems',[str(path),'entity identity'])
+                # An Organization reference with the canonical @id need not repeat url.
+                if v.get('@id')!=ai.ORG or (('url' in v or t=='LocalBusiness') and v.get('url')!=B+'/'):problem('schema_problems',[str(path),'entity identity'])
             if t=='LocalBusiness':
                 if v.get('telephone')!='+48 790 402 597' or v.get('email')!='contact@lasertechservice.pl':problem('nap_conflicts',str(path))
             if t=='VideoObject' and v.get('embedUrl'):

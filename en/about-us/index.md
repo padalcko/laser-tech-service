@@ -156,6 +156,16 @@ We explain the proposed work, available solutions and applicable warranty condit
 
 Every repair presents a different technical challenge. Explore real examples of equipment failures and the solutions we have delivered.
 
+![Reception at PURE STUDIO in Wrocław](https://lasertechservice.pl/img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera.webp)
+
+WrocławPURE STUDIO
+
+### [Diode Laser Servicing at PURE STUDIO Wrocław – Handpiece Housing Replacement and Power Verification](https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/)
+
+Diode laser handpiece housing replacement, optical cleaning, sealing and laser power verification at PURE STUDIO Wrocław.
+
+[View case study](https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/)
+
 ![smartPULS handpiece held in a hand, with its optical window visible](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp)
 
 ŚwidnicasmartPULS · IPL
@@ -175,16 +185,6 @@ Warsaw808 nm · HS-A0406
 Complete 808 nm diode laser maintenance in Warsaw. Coolant replacement, internal cleaning, diode power verification and handpiece sealing.
 
 [View case study](https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/)
-
-![NUBWAY NBW-VSIII with Body Space branding and a technician during the service visit](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-urzadzenie-body-space.webp)
-
-WrocławNUBWAY
-
-### [NUBWAY NBW-VSIII Vacuum Release Valve Repair in Wrocław](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw/)
-
-Vacuum release valve repair on NUBWAY NBW-VSIII in Wrocław. Restored handpiece suction without valve replacement.
-
-[View case study](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw/)
 
 [View All Repair Cases](https://lasertechservice.pl/en/case-studies/)[Blog](https://lasertechservice.pl/en/blog/)
 
@@ -229,6 +229,6 @@ Warranty duration and conditions depend on the type of repair and the agreed ter
 
 ## Related repairs
 
+- [Diode Laser Servicing at PURE STUDIO Wrocław – Handpiece Housing Replacement and Power Verification](https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/)
 - [smartPULS IPL Handpiece Repair in Świdnica](https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/)
 - [Complete 808 nm Diode Laser Maintenance in Warsaw – Cooling System Service and Handpiece Sealing](https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/)
-- [NUBWAY NBW-VSIII Vacuum Release Valve Repair in Wrocław](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw/)

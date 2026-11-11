@@ -1,0 +1,1361 @@
+{
+  "status": "PASS",
+  "pages": 271,
+  "results": [
+    {
+      "url": "/404.html",
+      "status": 200,
+      "bytes": 44215
+    },
+    {
+      "url": "/blog/3000-nain-laser-historia-konstrukcja-serwis/",
+      "status": 200,
+      "bytes": 37306
+    },
+    {
+      "url": "/blog/5-oznak-wymiany-diody-w-laserze/",
+      "status": 200,
+      "bytes": 42514
+    },
+    {
+      "url": "/blog/beauty-planet-3d-contour-mozliwosci-serwis/",
+      "status": 200,
+      "bytes": 47111
+    },
+    {
+      "url": "/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/",
+      "status": 200,
+      "bytes": 38744
+    },
+    {
+      "url": "/blog/dlaczego-maly-przewod-powoduje-duze-problemy/",
+      "status": 200,
+      "bytes": 29875
+    },
+    {
+      "url": "/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/",
+      "status": 200,
+      "bytes": 33530
+    },
+    {
+      "url": "/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/",
+      "status": 200,
+      "bytes": 48153
+    },
+    {
+      "url": "/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/",
+      "status": 200,
+      "bytes": 29686
+    },
+    {
+      "url": "/blog/dlaczego-regularny-serwis-lasera-jest-wazny-pure-studio/",
+      "status": 200,
+      "bytes": 32370
+    },
+    {
+      "url": "/blog/dlaczego-serwisowac-laser-diodowy-co-6-miesiecy/",
+      "status": 200,
+      "bytes": 33622
+    },
+    {
+      "url": "/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/",
+      "status": 200,
+      "bytes": 32174
+    },
+    {
+      "url": "/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/",
+      "status": 200,
+      "bytes": 26524
+    },
+    {
+      "url": "/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/",
+      "status": 200,
+      "bytes": 51763
+    },
+    {
+      "url": "/blog/",
+      "status": 200,
+      "bytes": 54616
+    },
+    {
+      "url": "/blog/jak-kupic-uzywany-laser-do-depilacji/",
+      "status": 200,
+      "bytes": 43798
+    },
+    {
+      "url": "/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/",
+      "status": 200,
+      "bytes": 32649
+    },
+    {
+      "url": "/blog/laser-po-roku-przestoju-uklad-chlodzenia/",
+      "status": 200,
+      "bytes": 30770
+    },
+    {
+      "url": "/blog/laser-tech-service-zlota-firma-2026/",
+      "status": 200,
+      "bytes": 29797
+    },
+    {
+      "url": "/blog/lasery-dinozaury-wiek-stan-techniczny/",
+      "status": 200,
+      "bytes": 32579
+    },
+    {
+      "url": "/blog/lightsheer-desire-chlodzenie-niezawodnosc/",
+      "status": 200,
+      "bytes": 38036
+    },
+    {
+      "url": "/blog/modul-peltiera-chlodzenie-glowicy-lasera/",
+      "status": 200,
+      "bytes": 33753
+    },
+    {
+      "url": "/blog/nubway-nbw-vsiii-dzialanie-serwis/",
+      "status": 200,
+      "bytes": 36682
+    },
+    {
+      "url": "/blog/pharaon-1470-historia-technologia-lasera/",
+      "status": 200,
+      "bytes": 30755
+    },
+    {
+      "url": "/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/",
+      "status": 200,
+      "bytes": 47713
+    },
+    {
+      "url": "/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/",
+      "status": 200,
+      "bytes": 35299
+    },
+    {
+      "url": "/blog/pomiar-mocy-lasera-laserpoint/",
+      "status": 200,
+      "bytes": 33767
+    },
+    {
+      "url": "/blog/przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody/",
+      "status": 200,
+      "bytes": 28512
+    },
+    {
+      "url": "/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/",
+      "status": 200,
+      "bytes": 47011
+    },
+    {
+      "url": "/blog/smartpuls-ipl-linux-30000-impulsow/",
+      "status": 200,
+      "bytes": 33231
+    },
+    {
+      "url": "/blog/spalona-dioda-laserowa-naprawa-glowicy/",
+      "status": 200,
+      "bytes": 27446
+    },
+    {
+      "url": "/blog/uszkodzony-przewod-manipulatora/",
+      "status": 200,
+      "bytes": 31368
+    },
+    {
+      "url": "/blog/uzywany-laser-diodowy-z-historia-serwisowa/",
+      "status": 200,
+      "bytes": 37658
+    },
+    {
+      "url": "/blog/water-flow-error-laser-pompa-obiegowa/",
+      "status": 200,
+      "bytes": 30836
+    },
+    {
+      "url": "/blog/wymiana-wody-w-laserze-do-depilacji/",
+      "status": 200,
+      "bytes": 30877
+    },
+    {
+      "url": "/en/about-us/",
+      "status": 200,
+      "bytes": 34431
+    },
+    {
+      "url": "/en/blog/3000-nain-laser-history-design-service/",
+      "status": 200,
+      "bytes": 37081
+    },
+    {
+      "url": "/en/blog/beauty-planet-3d-contour-features-service/",
+      "status": 200,
+      "bytes": 44430
+    },
+    {
+      "url": "/en/blog/burned-out-laser-diode-handpiece-repair/",
+      "status": 200,
+      "bytes": 27419
+    },
+    {
+      "url": "/en/blog/co2-laser-not-responding-to-foot-pedal/",
+      "status": 200,
+      "bytes": 31661
+    },
+    {
+      "url": "/en/blog/damaged-handpiece-cable/",
+      "status": 200,
+      "bytes": 30475
+    },
+    {
+      "url": "/en/blog/dinosaur-lasers-age-technical-condition/",
+      "status": 200,
+      "bytes": 32563
+    },
+    {
+      "url": "/en/blog/diode-laser-handpiece-seals-optics/",
+      "status": 200,
+      "bytes": 42794
+    },
+    {
+      "url": "/en/blog/diode-laser-water-filter-replacement/",
+      "status": 200,
+      "bytes": 26157
+    },
+    {
+      "url": "/en/blog/five-signs-laser-diode-needs-inspection/",
+      "status": 200,
+      "bytes": 39653
+    },
+    {
+      "url": "/en/blog/hair-removal-laser-cooling-water-maintenance/",
+      "status": 200,
+      "bytes": 30163
+    },
+    {
+      "url": "/en/blog/handpiece-connections-overheating-nd-yag-calibration/",
+      "status": 200,
+      "bytes": 33459
+    },
+    {
+      "url": "/en/blog/hifu-technology-applications-service/",
+      "status": 200,
+      "bytes": 47181
+    },
+    {
+      "url": "/en/blog/how-to-buy-a-used-hair-removal-laser/",
+      "status": 200,
+      "bytes": 42386
+    },
+    {
+      "url": "/en/blog/",
+      "status": 200,
+      "bytes": 52497
+    },
+    {
+      "url": "/en/blog/laser-cooling-system-cleaning-overheating/",
+      "status": 200,
+      "bytes": 37077
+    },
+    {
+      "url": "/en/blog/laser-handpiece-overheating-long-wires/",
+      "status": 200,
+      "bytes": 28174
+    },
+    {
+      "url": "/en/blog/laser-power-measurement-laserpoint/",
+      "status": 200,
+      "bytes": 34261
+    },
+    {
+      "url": "/en/blog/laser-tech-service-zlota-firma-2026/",
+      "status": 200,
+      "bytes": 29319
+    },
+    {
+      "url": "/en/blog/laser-unused-for-a-year-cooling-system/",
+      "status": 200,
+      "bytes": 30330
+    },
+    {
+      "url": "/en/blog/laser-water-flow-error-circulation-pump/",
+      "status": 200,
+      "bytes": 30579
+    },
+    {
+      "url": "/en/blog/lightsheer-desire-cooling-reliability/",
+      "status": 200,
+      "bytes": 36769
+    },
+    {
+      "url": "/en/blog/nubway-nbw-vsiii-features-maintenance/",
+      "status": 200,
+      "bytes": 36398
+    },
+    {
+      "url": "/en/blog/peltier-module-laser-handpiece-cooling/",
+      "status": 200,
+      "bytes": 32635
+    },
+    {
+      "url": "/en/blog/pharaon-1470-laser-history-technology/",
+      "status": 200,
+      "bytes": 30014
+    },
+    {
+      "url": "/en/blog/professional-aesthetic-equipment-service/",
+      "status": 200,
+      "bytes": 30443
+    },
+    {
+      "url": "/en/blog/risks-of-replacing-laser-seals-yourself/",
+      "status": 200,
+      "bytes": 32453
+    },
+    {
+      "url": "/en/blog/scheduled-diode-laser-maintenance/",
+      "status": 200,
+      "bytes": 43152
+    },
+    {
+      "url": "/en/blog/smartpuls-ipl-linux-30000-pulses/",
+      "status": 200,
+      "bytes": 32293
+    },
+    {
+      "url": "/en/blog/used-diode-laser-service-history/",
+      "status": 200,
+      "bytes": 34443
+    },
+    {
+      "url": "/en/blog/why-a-small-cable-causes-big-problems/",
+      "status": 200,
+      "bytes": 29207
+    },
+    {
+      "url": "/en/blog/why-diode-laser-maintenance-every-six-months-matters/",
+      "status": 200,
+      "bytes": 32322
+    },
+    {
+      "url": "/en/blog/why-handpiece-cooling-tubes-leak/",
+      "status": 200,
+      "bytes": 28711
+    },
+    {
+      "url": "/en/blog/why-laser-diode-modules-fail/",
+      "status": 200,
+      "bytes": 45276
+    },
+    {
+      "url": "/en/blog/why-regular-laser-maintenance-matters-pure-studio/",
+      "status": 200,
+      "bytes": 31854
+    },
+    {
+      "url": "/en/case-studies/3000-nain-power-supply-repair/",
+      "status": 200,
+      "bytes": 38815
+    },
+    {
+      "url": "/en/case-studies/808nm-diode-laser-maintenance-warsaw/",
+      "status": 200,
+      "bytes": 38297
+    },
+    {
+      "url": "/en/case-studies/alma-accent-cooling-hose-repair-gorlitz/",
+      "status": 200,
+      "bytes": 36435
+    },
+    {
+      "url": "/en/case-studies/beauty-planet-handpiece-cable-replacement-wroclaw/",
+      "status": 200,
+      "bytes": 26102
+    },
+    {
+      "url": "/en/case-studies/beauty-planet-vacuum-rf-repair-wroclaw/",
+      "status": 200,
+      "bytes": 38016
+    },
+    {
+      "url": "/en/case-studies/burned-out-laser-diode-replacement/",
+      "status": 200,
+      "bytes": 27069
+    },
+    {
+      "url": "/en/case-studies/cavi-shape-advanced-service-wroclaw/",
+      "status": 200,
+      "bytes": 51170
+    },
+    {
+      "url": "/en/case-studies/diode-laser-handpiece-replacement-wroclaw/",
+      "status": 200,
+      "bytes": 51271
+    },
+    {
+      "url": "/en/case-studies/diode-laser-handpiece-service-poznan/",
+      "status": 200,
+      "bytes": 44383
+    },
+    {
+      "url": "/en/case-studies/diode-laser-overheating-gliwice-water-filter/",
+      "status": 200,
+      "bytes": 25825
+    },
+    {
+      "url": "/en/case-studies/diode-laser-service-pure-studio-wroclaw/",
+      "status": 200,
+      "bytes": 31821
+    },
+    {
+      "url": "/en/case-studies/e808-laser-cooling-pump-repair-prague/",
+      "status": 200,
+      "bytes": 34555
+    },
+    {
+      "url": "/en/case-studies/estelase-power-p808l-maintenance/",
+      "status": 200,
+      "bytes": 38089
+    },
+    {
+      "url": "/en/case-studies/estetech-peltier-module-replacement-poznan/",
+      "status": 200,
+      "bytes": 30988
+    },
+    {
+      "url": "/en/case-studies/flood-damaged-diode-module-replacement-poznan/",
+      "status": 200,
+      "bytes": 28500
+    },
+    {
+      "url": "/en/case-studies/gme-exsys-308-service-inspection/",
+      "status": 200,
+      "bytes": 29606
+    },
+    {
+      "url": "/en/case-studies/hair-removal-laser-maintenance/",
+      "status": 200,
+      "bytes": 24222
+    },
+    {
+      "url": "/en/case-studies/handpiece-cooling-leak-repair-prague-customer/",
+      "status": 200,
+      "bytes": 33597
+    },
+    {
+      "url": "/en/case-studies/hifu-kimed-k1-w1601-service-gorlitz/",
+      "status": 200,
+      "bytes": 47870
+    },
+    {
+      "url": "/en/case-studies/",
+      "status": 200,
+      "bytes": 76260
+    },
+    {
+      "url": "/en/case-studies/laser-cooling-fan-replacement-wroclaw/",
+      "status": 200,
+      "bytes": 29006
+    },
+    {
+      "url": "/en/case-studies/lightsheer-desire-cooling-tubing-repair-wroclaw/",
+      "status": 200,
+      "bytes": 34737
+    },
+    {
+      "url": "/en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/",
+      "status": 200,
+      "bytes": 36000
+    },
+    {
+      "url": "/en/case-studies/multipolar-rf-repair-lublin/",
+      "status": 200,
+      "bytes": 41748
+    },
+    {
+      "url": "/en/case-studies/nd-yag-tattoo-removal-laser-filter-service/",
+      "status": 200,
+      "bytes": 38960
+    },
+    {
+      "url": "/en/case-studies/nubway-nbw-vsiii-repair-wroclaw/",
+      "status": 200,
+      "bytes": 45323
+    },
+    {
+      "url": "/en/case-studies/nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw/",
+      "status": 200,
+      "bytes": 35934
+    },
+    {
+      "url": "/en/case-studies/overheating-laser-handpiece-lubin-diode-wiring/",
+      "status": 200,
+      "bytes": 26744
+    },
+    {
+      "url": "/en/case-studies/peltier-replacement-nd-yag-laser-repair/",
+      "status": 200,
+      "bytes": 32583
+    },
+    {
+      "url": "/en/case-studies/pharaon-1470-maintenance-wroclaw/",
+      "status": 200,
+      "bytes": 27729
+    },
+    {
+      "url": "/en/case-studies/rsl-massage-device-repair-warsaw/",
+      "status": 200,
+      "bytes": 27767
+    },
+    {
+      "url": "/en/case-studies/sapphire-coolant-replacement-maintenance/",
+      "status": 200,
+      "bytes": 31914
+    },
+    {
+      "url": "/en/case-studies/smartpuls-ipl-swidnica/",
+      "status": 200,
+      "bytes": 29780
+    },
+    {
+      "url": "/en/case-studies/urgent-co2-laser-repair-poznan/",
+      "status": 200,
+      "bytes": 30351
+    },
+    {
+      "url": "/en/contact/",
+      "status": 200,
+      "bytes": 32560
+    },
+    {
+      "url": "/en/",
+      "status": 200,
+      "bytes": 56427
+    },
+    {
+      "url": "/en/partners/",
+      "status": 200,
+      "bytes": 29389
+    },
+    {
+      "url": "/en/pricing/",
+      "status": 200,
+      "bytes": 39427
+    },
+    {
+      "url": "/en/services/aesthetic-equipment-maintenance/",
+      "status": 200,
+      "bytes": 41105
+    },
+    {
+      "url": "/en/services/co2-laser-service/",
+      "status": 200,
+      "bytes": 46582
+    },
+    {
+      "url": "/en/services/cryotherapy-cryolipolysis-equipment-service/",
+      "status": 200,
+      "bytes": 41187
+    },
+    {
+      "url": "/en/services/diode-laser-diagnostics/",
+      "status": 200,
+      "bytes": 44082
+    },
+    {
+      "url": "/en/services/",
+      "status": 200,
+      "bytes": 42645
+    },
+    {
+      "url": "/en/services/ipl-equipment-service/",
+      "status": 200,
+      "bytes": 43876
+    },
+    {
+      "url": "/en/services/laser-cooling-system-repair/",
+      "status": 200,
+      "bytes": 40920
+    },
+    {
+      "url": "/en/services/laser-diode-replacement-calibration/",
+      "status": 200,
+      "bytes": 42986
+    },
+    {
+      "url": "/en/services/laser-handpiece-repair/",
+      "status": 200,
+      "bytes": 48521
+    },
+    {
+      "url": "/en/services/lpg-endermology-equipment-repair/",
+      "status": 200,
+      "bytes": 39190
+    },
+    {
+      "url": "/en/services/nd-yag-laser-service/",
+      "status": 200,
+      "bytes": 40824
+    },
+    {
+      "url": "/en/services/picosecond-laser-service/",
+      "status": 200,
+      "bytes": 39113
+    },
+    {
+      "url": "/en/services/post-warranty-equipment-service/",
+      "status": 200,
+      "bytes": 41539
+    },
+    {
+      "url": "/en/services/power-supply-electronics-repair/",
+      "status": 200,
+      "bytes": 49737
+    },
+    {
+      "url": "/en/services/rf-equipment-repair/",
+      "status": 200,
+      "bytes": 40639
+    },
+    {
+      "url": "/en/services/service-for-salon-chains/",
+      "status": 200,
+      "bytes": 34897
+    },
+    {
+      "url": "/en/services/touchscreen-control-panel-repair/",
+      "status": 200,
+      "bytes": 39321
+    },
+    {
+      "url": "/",
+      "status": 200,
+      "bytes": 58189
+    },
+    {
+      "url": "/kontakt/",
+      "status": 200,
+      "bytes": 32309
+    },
+    {
+      "url": "/o-nas/",
+      "status": 200,
+      "bytes": 35283
+    },
+    {
+      "url": "/partnerzy/",
+      "status": 200,
+      "bytes": 29587
+    },
+    {
+      "url": "/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/",
+      "status": 200,
+      "bytes": 26415
+    },
+    {
+      "url": "/realizacje/",
+      "status": 200,
+      "bytes": 77552
+    },
+    {
+      "url": "/realizacje/naprawa-3000-nain-bloku-zasilania/",
+      "status": 200,
+      "bytes": 39199
+    },
+    {
+      "url": "/realizacje/naprawa-alma-accent-gorlitz/",
+      "status": 200,
+      "bytes": 37591
+    },
+    {
+      "url": "/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/",
+      "status": 200,
+      "bytes": 39036
+    },
+    {
+      "url": "/realizacje/naprawa-chlodzenia-lightsheer-desire-wroclaw/",
+      "status": 200,
+      "bytes": 34977
+    },
+    {
+      "url": "/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/",
+      "status": 200,
+      "bytes": 36277
+    },
+    {
+      "url": "/realizacje/naprawa-multipolar-rf-lublin/",
+      "status": 200,
+      "bytes": 43537
+    },
+    {
+      "url": "/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/",
+      "status": 200,
+      "bytes": 47596
+    },
+    {
+      "url": "/realizacje/naprawa-pompy-lasera-e808-praga/",
+      "status": 200,
+      "bytes": 34668
+    },
+    {
+      "url": "/realizacje/naprawa-rsl-masaz-warszawa/",
+      "status": 200,
+      "bytes": 28168
+    },
+    {
+      "url": "/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/",
+      "status": 200,
+      "bytes": 33981
+    },
+    {
+      "url": "/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/",
+      "status": 200,
+      "bytes": 36058
+    },
+    {
+      "url": "/realizacje/pilna-naprawa-lasera-co2-poznan/",
+      "status": 200,
+      "bytes": 30744
+    },
+    {
+      "url": "/realizacje/przeglad-estelase-power-p808l/",
+      "status": 200,
+      "bytes": 38603
+    },
+    {
+      "url": "/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+      "status": 200,
+      "bytes": 27955
+    },
+    {
+      "url": "/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+      "status": 200,
+      "bytes": 24559
+    },
+    {
+      "url": "/realizacje/przegrzewanie-glowicy-lasera-lubin-naprawa-przewodow/",
+      "status": 200,
+      "bytes": 27163
+    },
+    {
+      "url": "/realizacje/przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra/",
+      "status": 200,
+      "bytes": 26085
+    },
+    {
+      "url": "/realizacje/serwis-cavi-shape-advanced-wroclaw/",
+      "status": 200,
+      "bytes": 52478
+    },
+    {
+      "url": "/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+      "status": 200,
+      "bytes": 46205
+    },
+    {
+      "url": "/realizacje/serwis-gme-exsys-308/",
+      "status": 200,
+      "bytes": 29850
+    },
+    {
+      "url": "/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/",
+      "status": 200,
+      "bytes": 49923
+    },
+    {
+      "url": "/realizacje/serwis-lasera-diodowego-808nm-warszawa/",
+      "status": 200,
+      "bytes": 39215
+    },
+    {
+      "url": "/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/",
+      "status": 200,
+      "bytes": 31910
+    },
+    {
+      "url": "/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/",
+      "status": 200,
+      "bytes": 53147
+    },
+    {
+      "url": "/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/",
+      "status": 200,
+      "bytes": 40483
+    },
+    {
+      "url": "/realizacje/serwis-lasera-sapphire-wymiana-plynu/",
+      "status": 200,
+      "bytes": 32124
+    },
+    {
+      "url": "/realizacje/smartpuls-ipl-swidnica/",
+      "status": 200,
+      "bytes": 30087
+    },
+    {
+      "url": "/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+      "status": 200,
+      "bytes": 28669
+    },
+    {
+      "url": "/realizacje/wymiana-modulu-peltiera-estetech-poznan/",
+      "status": 200,
+      "bytes": 31099
+    },
+    {
+      "url": "/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/",
+      "status": 200,
+      "bytes": 32724
+    },
+    {
+      "url": "/realizacje/wymiana-spalonej-diody-laserowej/",
+      "status": 200,
+      "bytes": 27137
+    },
+    {
+      "url": "/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/",
+      "status": 200,
+      "bytes": 29745
+    },
+    {
+      "url": "/ru/blog/3000-nain-lazer-istoriya-konstrukciya-servis/",
+      "status": 200,
+      "bytes": 45030
+    },
+    {
+      "url": "/ru/blog/5-priznakov-zameny-dioda-v-lazere/",
+      "status": 200,
+      "bytes": 54367
+    },
+    {
+      "url": "/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/",
+      "status": 200,
+      "bytes": 56694
+    },
+    {
+      "url": "/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/",
+      "status": 200,
+      "bytes": 40303
+    },
+    {
+      "url": "/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/",
+      "status": 200,
+      "bytes": 61925
+    },
+    {
+      "url": "/ru/blog/",
+      "status": 200,
+      "bytes": 64007
+    },
+    {
+      "url": "/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/",
+      "status": 200,
+      "bytes": 42424
+    },
+    {
+      "url": "/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/",
+      "status": 200,
+      "bytes": 59618
+    },
+    {
+      "url": "/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/",
+      "status": 200,
+      "bytes": 28851
+    },
+    {
+      "url": "/ru/blog/laser-tech-service-zlota-firma-2026/",
+      "status": 200,
+      "bytes": 33640
+    },
+    {
+      "url": "/ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/",
+      "status": 200,
+      "bytes": 35515
+    },
+    {
+      "url": "/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/",
+      "status": 200,
+      "bytes": 39024
+    },
+    {
+      "url": "/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/",
+      "status": 200,
+      "bytes": 48664
+    },
+    {
+      "url": "/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/",
+      "status": 200,
+      "bytes": 44403
+    },
+    {
+      "url": "/ru/blog/nubway-nbw-vsiii-harakteristiki-obsluzhivanie/",
+      "status": 200,
+      "bytes": 43299
+    },
+    {
+      "url": "/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/",
+      "status": 200,
+      "bytes": 55428
+    },
+    {
+      "url": "/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/",
+      "status": 200,
+      "bytes": 50076
+    },
+    {
+      "url": "/ru/blog/peregrev-lazernoy-manipuly-dlinnye-provoda/",
+      "status": 200,
+      "bytes": 31774
+    },
+    {
+      "url": "/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/",
+      "status": 200,
+      "bytes": 35637
+    },
+    {
+      "url": "/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/",
+      "status": 200,
+      "bytes": 57909
+    },
+    {
+      "url": "/ru/blog/pochemu-malenkiy-kabel-sozdayot-bolshie-problemy/",
+      "status": 200,
+      "bytes": 35254
+    },
+    {
+      "url": "/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/",
+      "status": 200,
+      "bytes": 40494
+    },
+    {
+      "url": "/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/",
+      "status": 200,
+      "bytes": 32333
+    },
+    {
+      "url": "/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/",
+      "status": 200,
+      "bytes": 58725
+    },
+    {
+      "url": "/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/",
+      "status": 200,
+      "bytes": 39652
+    },
+    {
+      "url": "/ru/blog/pochemu-vazhno-obsluzhivat-lazer-pure-studio/",
+      "status": 200,
+      "bytes": 36483
+    },
+    {
+      "url": "/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/",
+      "status": 200,
+      "bytes": 46994
+    },
+    {
+      "url": "/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/",
+      "status": 200,
+      "bytes": 43988
+    },
+    {
+      "url": "/ru/blog/povrezhdennyj-kabel-manipuly/",
+      "status": 200,
+      "bytes": 36674
+    },
+    {
+      "url": "/ru/blog/sgorel-lazernyy-diod-remont-manipuly/",
+      "status": 200,
+      "bytes": 30912
+    },
+    {
+      "url": "/ru/blog/smartpuls-ipl-linux-30000-vspyshek/",
+      "status": 200,
+      "bytes": 38535
+    },
+    {
+      "url": "/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/",
+      "status": 200,
+      "bytes": 34745
+    },
+    {
+      "url": "/ru/blog/zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev/",
+      "status": 200,
+      "bytes": 39432
+    },
+    {
+      "url": "/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/",
+      "status": 200,
+      "bytes": 36437
+    },
+    {
+      "url": "/ru/",
+      "status": 200,
+      "bytes": 64351
+    },
+    {
+      "url": "/ru/kontakt/",
+      "status": 200,
+      "bytes": 34120
+    },
+    {
+      "url": "/ru/o-nas/",
+      "status": 200,
+      "bytes": 41528
+    },
+    {
+      "url": "/ru/partnerzy/",
+      "status": 200,
+      "bytes": 31718
+    },
+    {
+      "url": "/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/",
+      "status": 200,
+      "bytes": 29512
+    },
+    {
+      "url": "/ru/realizacje/",
+      "status": 200,
+      "bytes": 86241
+    },
+    {
+      "url": "/ru/realizacje/naprawa-3000-nain-bloku-zasilania/",
+      "status": 200,
+      "bytes": 43292
+    },
+    {
+      "url": "/ru/realizacje/naprawa-alma-accent-gorlitz/",
+      "status": 200,
+      "bytes": 40376
+    },
+    {
+      "url": "/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/",
+      "status": 200,
+      "bytes": 41946
+    },
+    {
+      "url": "/ru/realizacje/naprawa-multipolar-rf-lublin/",
+      "status": 200,
+      "bytes": 47029
+    },
+    {
+      "url": "/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/",
+      "status": 200,
+      "bytes": 51335
+    },
+    {
+      "url": "/ru/realizacje/naprawa-rsl-masaz-warszawa/",
+      "status": 200,
+      "bytes": 31548
+    },
+    {
+      "url": "/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/",
+      "status": 200,
+      "bytes": 38839
+    },
+    {
+      "url": "/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/",
+      "status": 200,
+      "bytes": 44101
+    },
+    {
+      "url": "/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/",
+      "status": 200,
+      "bytes": 35963
+    },
+    {
+      "url": "/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/",
+      "status": 200,
+      "bytes": 28233
+    },
+    {
+      "url": "/ru/realizacje/peregrev-lazernoy-manipuly-lyubin-remont-provodov/",
+      "status": 200,
+      "bytes": 29035
+    },
+    {
+      "url": "/ru/realizacje/pilna-naprawa-lasera-co2-poznan/",
+      "status": 200,
+      "bytes": 34781
+    },
+    {
+      "url": "/ru/realizacje/przeglad-estelase-power-p808l/",
+      "status": 200,
+      "bytes": 41776
+    },
+    {
+      "url": "/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+      "status": 200,
+      "bytes": 31461
+    },
+    {
+      "url": "/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+      "status": 200,
+      "bytes": 27465
+    },
+    {
+      "url": "/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/",
+      "status": 200,
+      "bytes": 41246
+    },
+    {
+      "url": "/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/",
+      "status": 200,
+      "bytes": 37970
+    },
+    {
+      "url": "/ru/realizacje/remont-pompy-lazera-e808-praga/",
+      "status": 200,
+      "bytes": 37084
+    },
+    {
+      "url": "/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/",
+      "status": 200,
+      "bytes": 36324
+    },
+    {
+      "url": "/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/",
+      "status": 200,
+      "bytes": 35377
+    },
+    {
+      "url": "/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/",
+      "status": 200,
+      "bytes": 56275
+    },
+    {
+      "url": "/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/",
+      "status": 200,
+      "bytes": 50256
+    },
+    {
+      "url": "/ru/realizacje/serwis-gme-exsys-308/",
+      "status": 200,
+      "bytes": 33841
+    },
+    {
+      "url": "/ru/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/",
+      "status": 200,
+      "bytes": 54178
+    },
+    {
+      "url": "/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/",
+      "status": 200,
+      "bytes": 58238
+    },
+    {
+      "url": "/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/",
+      "status": 200,
+      "bytes": 44220
+    },
+    {
+      "url": "/ru/realizacje/smartpuls-ipl-svidnica/",
+      "status": 200,
+      "bytes": 32544
+    },
+    {
+      "url": "/ru/realizacje/wymiana-modulu-diodowego-lasera-po-zalaniu-poznan/",
+      "status": 200,
+      "bytes": 32066
+    },
+    {
+      "url": "/ru/realizacje/zamena-modulya-pelte-estetech-poznan/",
+      "status": 200,
+      "bytes": 35165
+    },
+    {
+      "url": "/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/",
+      "status": 200,
+      "bytes": 36665
+    },
+    {
+      "url": "/ru/realizacje/zamena-sgorevshego-lazernogo-dioda/",
+      "status": 200,
+      "bytes": 29026
+    },
+    {
+      "url": "/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/",
+      "status": 200,
+      "bytes": 35215
+    },
+    {
+      "url": "/ru/uslugi/cennik/",
+      "status": 200,
+      "bytes": 45644
+    },
+    {
+      "url": "/ru/uslugi/diagnostika-diodnyh-lazerov/",
+      "status": 200,
+      "bytes": 48351
+    },
+    {
+      "url": "/ru/uslugi/",
+      "status": 200,
+      "bytes": 46713
+    },
+    {
+      "url": "/ru/uslugi/poslegarantiynoe-obsluzhivanie/",
+      "status": 200,
+      "bytes": 45989
+    },
+    {
+      "url": "/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/",
+      "status": 200,
+      "bytes": 56135
+    },
+    {
+      "url": "/ru/uslugi/remont-oborudovaniya-lpg/",
+      "status": 200,
+      "bytes": 42025
+    },
+    {
+      "url": "/ru/uslugi/remont-oborudovaniya-rf/",
+      "status": 200,
+      "bytes": 42717
+    },
+    {
+      "url": "/ru/uslugi/remont-sensornyh-ekranov/",
+      "status": 200,
+      "bytes": 42098
+    },
+    {
+      "url": "/ru/uslugi/remont-sistem-ohlazhdeniya/",
+      "status": 200,
+      "bytes": 44433
+    },
+    {
+      "url": "/ru/uslugi/servis-dlya-setey-salonov/",
+      "status": 200,
+      "bytes": 39774
+    },
+    {
+      "url": "/ru/uslugi/servis-ipl/",
+      "status": 200,
+      "bytes": 47950
+    },
+    {
+      "url": "/ru/uslugi/servis-lazerov-co2/",
+      "status": 200,
+      "bytes": 51254
+    },
+    {
+      "url": "/ru/uslugi/servis-lazerov-nd-yag/",
+      "status": 200,
+      "bytes": 43906
+    },
+    {
+      "url": "/ru/uslugi/servis-oborudovaniya-dlya-krioterapii/",
+      "status": 200,
+      "bytes": 44265
+    },
+    {
+      "url": "/ru/uslugi/servis-pikosekundnyh-lazerov/",
+      "status": 200,
+      "bytes": 42336
+    },
+    {
+      "url": "/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/",
+      "status": 200,
+      "bytes": 44439
+    },
+    {
+      "url": "/ru/uslugi/vosstanovlenie-golovok-i-manipul/",
+      "status": 200,
+      "bytes": 53910
+    },
+    {
+      "url": "/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/",
+      "status": 200,
+      "bytes": 45908
+    },
+    {
+      "url": "/uslugi/cennik/",
+      "status": 200,
+      "bytes": 39669
+    },
+    {
+      "url": "/uslugi/diagnostyka-laserow-diodowych/",
+      "status": 200,
+      "bytes": 41968
+    },
+    {
+      "url": "/uslugi/",
+      "status": 200,
+      "bytes": 41826
+    },
+    {
+      "url": "/uslugi/konserwacja-urzadzen-kosmetologicznych/",
+      "status": 200,
+      "bytes": 39473
+    },
+    {
+      "url": "/uslugi/naprawa-ekranow-dotykowych/",
+      "status": 200,
+      "bytes": 37680
+    },
+    {
+      "url": "/uslugi/naprawa-ukladow-chlodzenia/",
+      "status": 200,
+      "bytes": 39636
+    },
+    {
+      "url": "/uslugi/naprawa-urzadzen-lpg/",
+      "status": 200,
+      "bytes": 37606
+    },
+    {
+      "url": "/uslugi/naprawa-urzadzen-rf/",
+      "status": 200,
+      "bytes": 38381
+    },
+    {
+      "url": "/uslugi/naprawa-zasilaczy-i-elektroniki/",
+      "status": 200,
+      "bytes": 47039
+    },
+    {
+      "url": "/uslugi/regeneracja-glowic-i-manipulatorow/",
+      "status": 200,
+      "bytes": 46495
+    },
+    {
+      "url": "/uslugi/serwis-dla-sieci-salonow/",
+      "status": 200,
+      "bytes": 35016
+    },
+    {
+      "url": "/uslugi/serwis-ipl/",
+      "status": 200,
+      "bytes": 41222
+    },
+    {
+      "url": "/uslugi/serwis-laserow-co2/",
+      "status": 200,
+      "bytes": 44131
+    },
+    {
+      "url": "/uslugi/serwis-laserow-nd-yag/",
+      "status": 200,
+      "bytes": 39199
+    },
+    {
+      "url": "/uslugi/serwis-laserow-pikosekundowych/",
+      "status": 200,
+      "bytes": 37851
+    },
+    {
+      "url": "/uslugi/serwis-pogwarancyjny/",
+      "status": 200,
+      "bytes": 40090
+    },
+    {
+      "url": "/uslugi/serwis-urzadzen-do-krioterapii/",
+      "status": 200,
+      "bytes": 39190
+    },
+    {
+      "url": "/uslugi/wymiana-i-kalibracja-diod-laserowych/",
+      "status": 200,
+      "bytes": 40521
+    }
+  ]
+}

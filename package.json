@@ -1,0 +1,11 @@
+{
+  "name": "laser-tech-service",
+  "private": true,
+  "version": "1.0.0",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "python3 scripts/build-site.py",
+    "validate:dist": "python3 scripts/validate-dist.py",
+    "test:build": "python3 scripts/test-publication.py"
+  }
+}

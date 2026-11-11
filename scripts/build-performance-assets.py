@@ -257,7 +257,7 @@ def main():
 
     changed = {'html': 0, 'srcsets': 0, 'jarallax_scripts': 0}
     for page in sorted(ROOT.rglob('*.html')):
-        if '.git' in page.parts:
+        if any(part in {'.git', 'dist', 'node_modules', 'docs', 'reports'} for part in page.relative_to(ROOT).parts):
             continue
         original = page.read_text()
         source = with_resource_links(original)

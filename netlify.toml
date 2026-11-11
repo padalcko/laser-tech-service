@@ -1,6 +1,11 @@
 [build]
-  command = "python3 scripts/build-site.py && python3 scripts/package-site.py"
+  base = "."
+  command = "npm run build"
   publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+  PYTHON_VERSION = "3.13"
 
 [[headers]]
   for = "/ai-catalog.json"

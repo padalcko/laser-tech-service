@@ -590,6 +590,16 @@ We explain the proposed work, available solutions and applicable warranty condit
 
 Every repair presents a different technical challenge. Explore real examples of equipment failures and the solutions we have delivered.
 
+![Reception at PURE STUDIO in Wrocław](https://lasertechservice.pl/img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera.webp)
+
+WrocławPURE STUDIO
+
+##### [Diode Laser Servicing at PURE STUDIO Wrocław – Handpiece Housing Replacement and Power Verification](https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/)
+
+Diode laser handpiece housing replacement, optical cleaning, sealing and laser power verification at PURE STUDIO Wrocław.
+
+[View case study](https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/)
+
 ![smartPULS handpiece held in a hand, with its optical window visible](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp)
 
 ŚwidnicasmartPULS · IPL
@@ -609,16 +619,6 @@ Warsaw808 nm · HS-A0406
 Complete 808 nm diode laser maintenance in Warsaw. Coolant replacement, internal cleaning, diode power verification and handpiece sealing.
 
 [View case study](https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/)
-
-![NUBWAY NBW-VSIII with Body Space branding and a technician during the service visit](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-urzadzenie-body-space.webp)
-
-WrocławNUBWAY
-
-##### [NUBWAY NBW-VSIII Vacuum Release Valve Repair in Wrocław](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw/)
-
-Vacuum release valve repair on NUBWAY NBW-VSIII in Wrocław. Restored handpiece suction without valve replacement.
-
-[View case study](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw/)
 
 [View All Repair Cases](https://lasertechservice.pl/en/case-studies/)[Blog](https://lasertechservice.pl/en/blog/)
 
@@ -663,9 +663,9 @@ Warranty duration and conditions depend on the type of repair and the agreed ter
 
 #### Related repairs
 
+- [Diode Laser Servicing at PURE STUDIO Wrocław – Handpiece Housing Replacement and Power Verification](https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/)
 - [smartPULS IPL Handpiece Repair in Świdnica](https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/)
 - [Complete 808 nm Diode Laser Maintenance in Warsaw – Cooling System Service and Handpiece Sealing](https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/)
-- [NUBWAY NBW-VSIII Vacuum Release Valve Repair in Wrocław](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-vacuum-release-valve-repair-wroclaw/)
 
 ### Poznaj Laser Tech Service
 
@@ -825,6 +825,16 @@ Wyjaśniamy zakres prac, możliwe rozwiązania i warunki gwarancji.
 
 Każda naprawa to inna historia, inna usterka i konkretne rozwiązanie techniczne. Zobacz wybrane realizacje Laser Tech Service.
 
+![Recepcja salonu PURE STUDIO we Wrocławiu](https://lasertechservice.pl/img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera.webp)
+
+WrocławPURE STUDIO
+
+##### [Serwis lasera diodowego w PURE STUDIO Wrocław – wymiana obudowy głowicy i kontrola mocy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/)
+
+Wymiana obudowy głowicy lasera, czyszczenie optyki, uszczelnienie i pomiar mocy lasera diodowego w PURE STUDIO Wrocław.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/)
+
 ![Głowica smartPULS trzymana w dłoni, z widocznym oknem optycznym](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp)
 
 ŚwidnicasmartPULS · IPL
@@ -844,16 +854,6 @@ Warszawa808 nm · HS-A0406
 Pełny serwis lasera diodowego 808 nm w Warszawie. Wymiana płynu, czyszczenie, kontrola mocy diody i uszczelnienie głowicy. Laser Tech Service.
 
 [Zobacz realizację](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/)
-
-![NUBWAY NBW-VSIII z oznaczeniem Body Space i technik podczas wizyty serwisowej](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-urzadzenie-body-space.webp)
-
-WrocławNUBWAY
-
-##### [Naprawa zaworu podciśnienia w NUBWAY NBW-VSIII we Wrocławiu](https://lasertechservice.pl/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/)
-
-Naprawa zaworu podciśnienia NUBWAY NBW-VSIII we Wrocławiu. Czyszczenie i regeneracja zaworu bez kosztownej wymiany.
-
-[Zobacz realizację](https://lasertechservice.pl/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/)
 
 [Zobacz wszystkie realizacje](https://lasertechservice.pl/realizacje/)[Blog](https://lasertechservice.pl/blog/)
 
@@ -898,9 +898,9 @@ Czas trwania i warunki gwarancji zależą od rodzaju naprawy oraz uzgodnionych w
 
 #### Powiązane realizacje
 
+- [Serwis lasera diodowego w PURE STUDIO Wrocław – wymiana obudowy głowicy i kontrola mocy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/)
 - [smartPULS – przywrócenie działania głowicy IPL w Świdnicy](https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/)
 - [Pełny serwis lasera diodowego 808 nm w Warszawie – konserwacja, chłodzenie i uszczelnienie głowicy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/)
-- [Naprawa zaworu podciśnienia w NUBWAY NBW-VSIII we Wrocławiu](https://lasertechservice.pl/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/)
 
 ### Ремонт диодных лазеров и косметологического оборудования
 
@@ -1274,6 +1274,16 @@ Frontend Developer & SEO Engineer
 
 Каждый ремонт — отдельная техническая задача. Посмотрите реальные примеры неисправностей и выполненных работ.
 
+![Ресепшен салона PURE STUDIO во Вроцлаве](https://lasertechservice.pl/img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera.webp)
+
+WrocławPURE STUDIO
+
+##### [Обслуживание диодного лазера в PURE STUDIO, Вроцлав — замена корпуса манипулы и проверка мощности](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/)
+
+Замена корпуса манипулы, очистка оптики, герметизация и проверка мощности диодного лазера в PURE STUDIO, Вроцлав.
+
+[Подробнее](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/)
+
 ![Манипула smartPULS в руке с видимым оптическим окном](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp)
 
 СвидницаsmartPULS · IPL
@@ -1293,16 +1303,6 @@ Frontend Developer & SEO Engineer
 Полное обслуживание диодного лазера 808 нм в Варшаве: замена охлаждающей жидкости, очистка, проверка мощности и герметизация манипулы.
 
 [Подробнее](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/)
-
-![NUBWAY NBW-VSIII с маркировкой Body Space и мастер во время сервисного выезда](https://lasertechservice.pl/img/realizacje/nubway-vacuum-valve/nubway-nbw-vsiii-urzadzenie-body-space.webp)
-
-WrocławNUBWAY
-
-##### [Ремонт клапана сброса вакуума NUBWAY NBW-VSIII во Вроцлаве](https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/)
-
-Ремонт клапана сброса вакуума NUBWAY NBW-VSIII. Восстановление всасывания манипул без замены клапана.
-
-[Смотреть реализацию](https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/)
 
 [Все наши работы](https://lasertechservice.pl/ru/realizacje/)[Блог](https://lasertechservice.pl/ru/blog/)
 
@@ -1347,9 +1347,9 @@ ul. Marszałka Józefa Piłsudskiego 74, lok. 320
 
 #### Связанные работы
 
+- [Обслуживание диодного лазера в PURE STUDIO, Вроцлав — замена корпуса манипулы и проверка мощности](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/)
 - [smartPULS — восстановление работы IPL-манипулы в Свиднице](https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/)
 - [Полное техническое обслуживание диодного лазера 808 нм в Варшаве — охлаждение, очистка и герметизация манипулы](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/)
-- [Ремонт клапана сброса вакуума NUBWAY NBW-VSIII во Вроцлаве](https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/)
 
 ## Services
 

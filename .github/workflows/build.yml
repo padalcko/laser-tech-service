@@ -1,0 +1,27 @@
+name: Verify publication
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: npm ci --ignore-scripts
+      # build includes validate:dist; no duplicate validation or deployment.
+      - run: npm run build
+      - run: npm run test:build
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: publication-reports
+          path: reports/dist-*.json

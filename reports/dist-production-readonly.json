@@ -1,0 +1,50 @@
+{
+  "note": "Read-only observation of existing production; no deployment performed",
+  "results": [
+    {
+      "url": "https://lasertechservice.pl/blog/dlaczego-regularny-serwis-lasera-jest-wazny-pure-studio/",
+      "http_status": "404",
+      "curl_exit": 56
+    },
+    {
+      "url": "https://lasertechservice.pl/blog/pomiar-mocy-lasera-laserpoint/",
+      "http_status": "200",
+      "curl_exit": 0
+    },
+    {
+      "url": "https://lasertechservice.pl/en/blog/laser-power-measurement-laserpoint/",
+      "http_status": "200",
+      "curl_exit": 0
+    },
+    {
+      "url": "https://lasertechservice.pl/en/blog/why-regular-laser-maintenance-matters-pure-studio/",
+      "http_status": "404",
+      "curl_exit": 56
+    },
+    {
+      "url": "https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/",
+      "http_status": "404",
+      "curl_exit": 56
+    },
+    {
+      "url": "https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/",
+      "http_status": "404",
+      "curl_exit": 56
+    },
+    {
+      "url": "https://lasertechservice.pl/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/",
+      "http_status": "200",
+      "curl_exit": 0
+    },
+    {
+      "url": "https://lasertechservice.pl/ru/blog/pochemu-vazhno-obsluzhivat-lazer-pure-studio/",
+      "http_status": "404",
+      "curl_exit": 56
+    },
+    {
+      "url": "https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/",
+      "http_status": "404",
+      "curl_exit": 56
+    }
+  ]
+}

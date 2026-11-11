@@ -3,6 +3,7 @@
 Existing HTML remains the source of article copy. No runtime JS is required.
 """
 from pathlib import Path
+import site_locales
 import argparse, importlib.util, json, re
 ROOT=Path(__file__).resolve().parents[1]
 spec=importlib.util.spec_from_file_location('case_layout',ROOT/'scripts/build-case-layout.py')
@@ -14,7 +15,9 @@ LABELS={
  'pl':('Potrzebujesz serwisu urządzenia?', 'Prześlij model urządzenia, zdjęcia i krótki opis problemu, aby omówić dalszy sposób działania.', 'Skontaktuj się z serwisem','/kontakt/'),
  'ru':('Нужен сервис оборудования?', 'Пришлите модель аппарата, фотографии и краткое описание проблемы, чтобы обсудить дальнейшие действия.', 'Связаться с сервисом','/ru/kontakt/'),
  'en':('Does your equipment need servicing?', 'Send the device model, photos and a short description of the problem to discuss the next steps.', 'Contact the service team','/en/contact/')}
-def paths():return sorted(p for d in ['blog','ru/blog','en/blog'] for p in (ROOT/d).glob('*/index.html'))
+def paths():
+ registered = {url for url, (_, _, status) in site_locales.index(site_locales.load()).items() if status == 'published'}
+ return sorted(p for d in ['blog','ru/blog','en/blog'] for p in (ROOT/d).glob('*/index.html') if '/' + p.parent.relative_to(ROOT).as_posix() + '/' in registered)
 def remove(n):n.parent.children.remove(n)
 def add_html(parent,html):
  for child in list(Tree(html).root.children):
