@@ -81,6 +81,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/blog/kontrola-uzywanego-lasera-przed-zakupem/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/blog/kontrola-uzywanego-lasera-przed-zakupem/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -325,6 +330,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/blog/smartpuls-ipl-linux-30000-pulses/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/en/blog/used-aesthetic-laser-pre-purchase-inspection/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/blog/used-aesthetic-laser-pre-purchase-inspection/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /en/blog/used-diode-laser-service-history/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -960,6 +970,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/blog/proverka-bu-lazera-pered-pokupkoy/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/blog/proverka-bu-lazera-pered-pokupkoy/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/blog/sgorel-lazernyy-diod-remont-manipuly/index.md
   Content-Type: text/markdown; charset=utf-8

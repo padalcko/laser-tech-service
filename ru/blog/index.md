@@ -10,6 +10,12 @@
 
 Пишем о том, с чем сталкиваемся каждый день: ремонте лазеров, диагностике неисправностей, обслуживании косметологического оборудования и обычных проблемах, которые возникают у владельцев салонов и кабинетов.
 
+Laser Tech Service2026-11-17
+
+## [Покупаете подержанный косметологический лазер? Узнайте, чем может обернуться экономия](https://lasertechservice.pl/ru/blog/proverka-bu-lazera-pered-pokupkoy/)
+
+Покупка подержанного косметологического аппарата может стать отличным решением для салона красоты или косметологического кабинета. На вторичном рынке можно найти диодные лазеры, аппараты IPL, Nd:YAG, CO₂ и другое профессиональное оборудование по привлекательным ценам.
+
 PURE STUDIO2026-11-10
 
 ## [Почему мы ценим салоны, которые заботятся о своих лазерах? PURE STUDIO во Вроцлаве](https://lasertechservice.pl/ru/blog/pochemu-vazhno-obsluzhivat-lazer-pure-studio/)
@@ -216,6 +222,7 @@ Pharaon 1470, LSO Medical и OSYRIS: история обозначений, ос
 
 ## Связанные статьи
 
+- [Покупаете подержанный косметологический лазер? Узнайте, чем может обернуться экономия](https://lasertechservice.pl/ru/blog/proverka-bu-lazera-pered-pokupkoy/)
 - [Почему мы ценим салоны, которые заботятся о своих лазерах? PURE STUDIO во Вроцлаве](https://lasertechservice.pl/ru/blog/pochemu-vazhno-obsluzhivat-lazer-pure-studio/)
 - [Сколько мощности на самом деле выдаёт ваш лазер? Laser Tech Service расширяет возможности диагностики](https://lasertechservice.pl/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/)
 - [smartPULS — немецкий IPL-аппарат на Linux. Почему исправная лампа перестала работать после 30 000 вспышек?](https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/)

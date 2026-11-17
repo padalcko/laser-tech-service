@@ -1764,6 +1764,25 @@
           "status": "published"
         }
       }
+    },
+    {
+      "id": "blog:kontrola-uzywanego-lasera-przed-zakupem",
+      "type": "article",
+      "x_default": "/blog/kontrola-uzywanego-lasera-przed-zakupem/",
+      "routes": {
+        "pl": {
+          "url": "/blog/kontrola-uzywanego-lasera-przed-zakupem/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/proverka-bu-lazera-pered-pokupkoy/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/used-aesthetic-laser-pre-purchase-inspection/",
+          "status": "published"
+        }
+      }
     }
   ]
 }

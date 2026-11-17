@@ -10,6 +10,12 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/), [
 
 Praktyczna wiedza o serwisie, diagnostyce, naprawach i eksploatacji urządzeń laserowych oraz kosmetycznych.
 
+Laser Tech Service2026-11-17
+
+## [Kupujesz używany laser kosmetyczny? Sprawdź, ile może kosztować pozorna oszczędność](https://lasertechservice.pl/blog/kontrola-uzywanego-lasera-przed-zakupem/)
+
+Zakup używanego lasera kosmetycznego może być doskonałym sposobem na rozwój salonu bez konieczności inwestowania w fabrycznie nowe urządzenie. Na rynku wtórnym można znaleźć atrakcyjne oferty laserów diodowych, urządzeń IPL, laserów Nd:YAG, CO₂ oraz innych systemów wykorzystywanych w kosmetologii i medycynie estetycznej.
+
 PURE STUDIO2026-11-10
 
 ## [Dlaczego cenimy salony, które dbają o swoje lasery? PURE STUDIO we Wrocławiu jako przykład odpowiedzialnego podejścia](https://lasertechservice.pl/blog/dlaczego-regularny-serwis-lasera-jest-wazny-pure-studio/)
@@ -216,6 +222,7 @@ Gwarancja, dokumentacja wykonanych prac, historia serwisowa, możliwość szybki
 
 ## Powiązane artykuły
 
+- [Kupujesz używany laser kosmetyczny? Sprawdź, ile może kosztować pozorna oszczędność](https://lasertechservice.pl/blog/kontrola-uzywanego-lasera-przed-zakupem/)
 - [Dlaczego cenimy salony, które dbają o swoje lasery? PURE STUDIO we Wrocławiu jako przykład odpowiedzialnego podejścia](https://lasertechservice.pl/blog/dlaczego-regularny-serwis-lasera-jest-wazny-pure-studio/)
 - [Ile mocy naprawdę ma Twój laser? Laser Tech Service rozszerza możliwości diagnostyczne](https://lasertechservice.pl/blog/pomiar-mocy-lasera-laserpoint/)
 - [smartPULS – niemiecki IPL z systemem Linux. Dlaczego sprawna lampa przestała działać po 30 000 impulsów?](https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/)

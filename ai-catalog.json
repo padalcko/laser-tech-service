@@ -1306,6 +1306,19 @@
       "related_services": []
     },
     {
+      "id": "article:blog:kontrola-uzywanego-lasera-przed-zakupem",
+      "title": "Kupujesz używany laser kosmetyczny? Sprawdź, ile może kosztować pozorna oszczędność",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/kontrola-uzywanego-lasera-przed-zakupem/",
+      "description": "Kupujesz używany laser kosmetyczny? Sprawdź jego stan techniczny przed zakupem. Laser Tech Service oferuje profesjonalną weryfikację urządzeń za 2 500 zł.",
+      "topics": [],
+      "datePublished": "2026-11-17",
+      "dateModified": "2026-11-17",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych"
+      ]
+    },
+    {
       "id": "article:blog:laser-co2-nie-reaguje-na-pedal-diagnostyka",
       "title": "Laser CO₂ nie reaguje na pedał? Objaw to jeszcze nie diagnoza",
       "language": "pl",
@@ -1959,6 +1972,17 @@
       ]
     },
     {
+      "id": "article:en:blog:used-aesthetic-laser-pre-purchase-inspection",
+      "title": "Buying a Used Aesthetic Laser? A Cheap Deal Could Become an Expensive Mistake",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/used-aesthetic-laser-pre-purchase-inspection/",
+      "description": "Buying a used aesthetic laser? Laser Tech Service offers professional equipment inspection and purchasing assistance for 2,500 PLN. Avoid costly hidden defects.",
+      "topics": [],
+      "datePublished": "2026-11-17",
+      "dateModified": "2026-11-17",
+      "related_services": []
+    },
+    {
       "id": "article:en:blog:used-diode-laser-service-history",
       "title": "Used diode lasers – why buy equipment with a service history?",
       "language": "en",
@@ -2440,6 +2464,17 @@
       ],
       "datePublished": "2026-10-09",
       "dateModified": "2026-10-09",
+      "related_services": []
+    },
+    {
+      "id": "article:ru:blog:proverka-bu-lazera-pered-pokupkoy",
+      "title": "Покупаете подержанный косметологический лазер? Узнайте, чем может обернуться экономия",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/proverka-bu-lazera-pered-pokupkoy/",
+      "description": "Покупаете подержанный косметологический лазер? Laser Tech Service проверит техническое состояние аппарата и поможет избежать дорогостоящего ремонта. Цена 2 500 zł.",
+      "topics": [],
+      "datePublished": "2026-11-17",
+      "dateModified": "2026-11-17",
       "related_services": []
     },
     {
@@ -4686,6 +4721,7 @@
       "https://lasertechservice.pl/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/": "https://lasertechservice.pl/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/index.md",
       "https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/": "https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/index.md",
       "https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/": "https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/index.md",
+      "https://lasertechservice.pl/blog/kontrola-uzywanego-lasera-przed-zakupem/": "https://lasertechservice.pl/blog/kontrola-uzywanego-lasera-przed-zakupem/index.md",
       "https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/": "https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/index.md",
       "https://lasertechservice.pl/blog/laser-po-roku-przestoju-uklad-chlodzenia/": "https://lasertechservice.pl/blog/laser-po-roku-przestoju-uklad-chlodzenia/index.md",
       "https://lasertechservice.pl/blog/laser-tech-service-zlota-firma-2026/": "https://lasertechservice.pl/blog/laser-tech-service-zlota-firma-2026/index.md",
@@ -4735,6 +4771,7 @@
       "https://lasertechservice.pl/en/blog/risks-of-replacing-laser-seals-yourself/": "https://lasertechservice.pl/en/blog/risks-of-replacing-laser-seals-yourself/index.md",
       "https://lasertechservice.pl/en/blog/scheduled-diode-laser-maintenance/": "https://lasertechservice.pl/en/blog/scheduled-diode-laser-maintenance/index.md",
       "https://lasertechservice.pl/en/blog/smartpuls-ipl-linux-30000-pulses/": "https://lasertechservice.pl/en/blog/smartpuls-ipl-linux-30000-pulses/index.md",
+      "https://lasertechservice.pl/en/blog/used-aesthetic-laser-pre-purchase-inspection/": "https://lasertechservice.pl/en/blog/used-aesthetic-laser-pre-purchase-inspection/index.md",
       "https://lasertechservice.pl/en/blog/used-diode-laser-service-history/": "https://lasertechservice.pl/en/blog/used-diode-laser-service-history/index.md",
       "https://lasertechservice.pl/en/blog/why-a-small-cable-causes-big-problems/": "https://lasertechservice.pl/en/blog/why-a-small-cable-causes-big-problems/index.md",
       "https://lasertechservice.pl/en/blog/why-diode-laser-maintenance-every-six-months-matters/": "https://lasertechservice.pl/en/blog/why-diode-laser-maintenance-every-six-months-matters/index.md",
@@ -4862,6 +4899,7 @@
       "https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/": "https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/index.md",
       "https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/": "https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/index.md",
       "https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/": "https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/index.md",
+      "https://lasertechservice.pl/ru/blog/proverka-bu-lazera-pered-pokupkoy/": "https://lasertechservice.pl/ru/blog/proverka-bu-lazera-pered-pokupkoy/index.md",
       "https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/": "https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/index.md",
       "https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/": "https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/index.md",
       "https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/": "https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/index.md",
@@ -4942,5 +4980,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-11-10T18:52:05Z"
+  "generated_at": "2026-11-17T13:19:31Z"
 }
