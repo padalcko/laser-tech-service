@@ -37,7 +37,11 @@
           ],
           "badge": "Laser Tech Service partner"
         }
-      }
+      },
+      "category": "salons",
+      "city": "Wrocław",
+      "address": "ul. Pochyła 23/1D, Wrocław",
+      "phone": "+48576979656"
     },
     {
       "id": "magia-kosmetyczna",
@@ -71,7 +75,11 @@
           ],
           "badge": "Laser Tech Service partner"
         }
-      }
+      },
+      "category": "salons",
+      "city": "Bydgoszcz",
+      "address": "ul. Krasińskiego 19/1a, Bydgoszcz",
+      "phone": "+48794583513"
     },
     {
       "id": "cuprum-laser-tech",
@@ -105,7 +113,11 @@
           ],
           "badge": "Laser Tech Service partner"
         }
-      }
+      },
+      "category": "business",
+      "city": "",
+      "address": "",
+      "phone": "+48889894894"
     },
     {
       "id": "cuprum-beauty-lab",
@@ -139,7 +151,11 @@
           ],
           "badge": "Laser Tech Service partner"
         }
-      }
+      },
+      "category": "salons",
+      "city": "Lubin",
+      "address": "ul. Grodzka 4, Lubin",
+      "phone": "+48661977526"
     },
     {
       "id": "lumine",
@@ -173,7 +189,11 @@
           ],
           "badge": "Laser Tech Service partner"
         }
-      }
+      },
+      "category": "salons",
+      "city": "Wrocław",
+      "address": "Wrocław",
+      "phone": "+380990749091"
     },
     {
       "id": "lts-market",
@@ -207,7 +227,11 @@
           ],
           "badge": "Laser Tech Service partner"
         }
-      }
+      },
+      "category": "business",
+      "city": "",
+      "address": "",
+      "phone": "+48575254431"
     },
     {
       "id": "pro-beauty-esen",
@@ -241,7 +265,11 @@
           ],
           "badge": "Laser Tech Service partner"
         }
-      }
+      },
+      "category": "salons",
+      "city": "Prostějov",
+      "address": "Svatoplukova 42, Prostějov, Czechia",
+      "phone": ""
     },
     {
       "id": "pracownia-urody-elzbieta-bielecka",
@@ -275,7 +303,11 @@
           ],
           "badge": "Laser Tech Service partner"
         }
-      }
+      },
+      "category": "salons",
+      "city": "Nowy Dwór Mazowiecki",
+      "address": "ul. Okrzei 1, lokal U3, 05-100 Nowy Dwór Mazowiecki",
+      "phone": "+48668632489"
     },
     {
       "id": "lux-beauty-clinic",
@@ -309,7 +341,11 @@
           ],
           "badge": "Laser Tech Service Partner"
         }
-      }
+      },
+      "category": "clinics",
+      "city": "Wrocław",
+      "address": "ul. Kazimierza Michalczyka 1/1C, Wrocław",
+      "phone": "+48664972985"
     },
     {
       "id": "laser-magic",
@@ -343,7 +379,11 @@
           ],
           "badge": "Laser Tech Service partner"
         }
-      }
+      },
+      "category": "salons",
+      "city": "Zielona Góra",
+      "address": "ul. Łężyca-Budowlanych 5/3, 66-016 Zielona Góra",
+      "phone": "+48880672002"
     },
     {
       "id": "pure-studio",
@@ -377,7 +417,11 @@
           ],
           "badge": "Laser Tech Service partner"
         }
-      }
+      },
+      "category": "salons",
+      "city": "Wrocław",
+      "address": "ul. gen. Kazimierza Pułaskiego 8G, 50-446 Wrocław, Polska",
+      "phone": ""
     },
     {
       "id": "pracownia-urody-anna-ratajek",
@@ -412,7 +456,11 @@
           ],
           "badge": "Laser Tech Service Partner"
         }
-      }
+      },
+      "category": "salons",
+      "city": "Wrocław",
+      "address": "ul. Żeromskiego 62, Wrocław, Polska",
+      "phone": "+48605959187"
     }
   ]
 }
