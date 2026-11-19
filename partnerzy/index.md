@@ -16,6 +16,18 @@ Znamy urządzenia, na których pracują — dbamy o ich serwis i naprawy. Dzięk
 
 > Laser Tech Service poleca tych, których pracę i sprzęt zna od podszewki.
 
+![Pracownia Urody Anna Ratajek – logo salonu kosmetycznego we Wrocławiu](https://lasertechservice.pl/img/partnerzy/pracownia-urody-anna-ratajek-logo.webp)
+
+## Pracownia Urody Anna Ratajek
+
+Salon kosmetyczny we Wrocławiu oferujący usługi pielęgnacyjne i kosmetyczne.
+
+[+48 605 959 187](tel:+48605959187)
+ul. Żeromskiego 62
+Wrocław, Polska
+
+Partner Laser Tech Service
+
 ![PURE STUDIO — Wrocław](https://lasertechservice.pl/img/partnerzy/pure-studio-logo.webp)
 
 ## PURE STUDIO Depilacja laserowa

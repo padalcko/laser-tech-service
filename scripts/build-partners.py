@@ -27,7 +27,7 @@ def render(partner, lang):
     # Existing full-card link and contact text convention; never nest anchors.
     paragraphs = '\n'.join('                <p class="partner-card__description">' + text + '</p>'
                            for text in c['descriptions_html'])
-    return f'''            <a class="partner-card" href="{escape(partner['url'], quote=True)}" target="_blank" rel="noopener noreferrer">
+    card = f'''            <a class="partner-card" href="{escape(partner['url'], quote=True)}" target="_blank" rel="noopener noreferrer">
               <div class="partner-card__image">
                 {c['image_html']}
               </div>
@@ -37,6 +37,14 @@ def render(partner, lang):
                 <p class="partner-card__badge">{escape(c['badge'])}</p>
               </div>
             </a>'''
+    if partner.get('contact_links'):
+        link = f'<a class="partner-card__image" href="{escape(partner["url"], quote=True)}" target="_blank" rel="noopener noreferrer">'
+        card = re.sub(r'<a class="partner-card"[^>]*>', '<article class="partner-card">', card, count=1)
+        card = card.replace('<div class="partner-card__image">', link, 1)
+        card = card.replace('</div>', '</a>', 1)
+        card = card.rsplit('</a>', 1)[0] + '</article>'
+    return card
+
 
 
 def build(check=False):

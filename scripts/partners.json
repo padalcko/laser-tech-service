@@ -378,6 +378,41 @@
           "badge": "Laser Tech Service partner"
         }
       }
+    },
+    {
+      "id": "pracownia-urody-anna-ratajek",
+      "priority": 120,
+      "url": "https://www.instagram.com/anna.ratajek.pracownia.urody/",
+      "contact_links": true,
+      "content": {
+        "pl": {
+          "title": "Pracownia Urody Anna Ratajek",
+          "image_html": "<img src=\"/img/partnerzy/pracownia-urody-anna-ratajek-logo.webp\" alt=\"Pracownia Urody Anna Ratajek – logo salonu kosmetycznego we Wrocławiu\" width=\"804\" height=\"536\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Salon kosmetyczny we Wrocławiu oferujący usługi pielęgnacyjne i kosmetyczne.",
+            "<a href=\"tel:+48605959187\">+48 605 959 187</a><br />ul. Żeromskiego 62<br />Wrocław, Polska"
+          ],
+          "badge": "Partner Laser Tech Service"
+        },
+        "ru": {
+          "title": "Pracownia Urody Anna Ratajek",
+          "image_html": "<img src=\"/img/partnerzy/pracownia-urody-anna-ratajek-logo.webp\" alt=\"Pracownia Urody Anna Ratajek — логотип салона красоты во Вроцлаве\" width=\"804\" height=\"536\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Косметический салон во Вроцлаве, предлагающий услуги по уходу и косметические процедуры.",
+            "<a href=\"tel:+48605959187\">+48 605 959 187</a><br />ul. Żeromskiego 62<br />Wrocław, Polska"
+          ],
+          "badge": "Партнёр Laser Tech Service"
+        },
+        "en": {
+          "title": "Pracownia Urody Anna Ratajek",
+          "image_html": "<img src=\"/img/partnerzy/pracownia-urody-anna-ratajek-logo.webp\" alt=\"Pracownia Urody Anna Ratajek – beauty salon logo in Wrocław\" width=\"804\" height=\"536\" loading=\"lazy\" decoding=\"async\" />",
+          "descriptions_html": [
+            "Beauty salon in Wrocław offering beauty treatments and personal care services.",
+            "<a href=\"tel:+48605959187\">+48 605 959 187</a><br />ul. Żeromskiego 62<br />Wrocław, Poland"
+          ],
+          "badge": "Laser Tech Service Partner"
+        }
+      }
     }
   ]
 }
