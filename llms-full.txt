@@ -590,6 +590,16 @@ We explain the proposed work, available solutions and applicable warranty condit
 
 Every repair presents a different technical challenge. Explore real examples of equipment failures and the solutions we have delivered.
 
+![Front of the diode laser during servicing in Zielona Góra](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
+
+Zielona GóraCooling system
+
+##### [Diode Laser Repair in Zielona Góra. Water Flow Sensor Replacement](https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/)
+
+On-site diode laser repair in Zielona Góra. Water flow sensor replacement, cooling system maintenance and laser handpiece cleaning.
+
+[View case study](https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/)
+
 ![Reception at PURE STUDIO in Wrocław](https://lasertechservice.pl/img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera.webp)
 
 WrocławPURE STUDIO
@@ -609,16 +619,6 @@ Diode laser handpiece housing replacement, optical cleaning, sealing and laser p
 A client from Świdnica contacted Laser Tech Service after the IPL handpiece of a German-made smartPULS cosmetic device stopped working. The client initially suspected that the IPL lamp had burned out and needed replacement.
 
 [View case study](https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/)
-
-![Diode laser with a screen, handpiece and hose on a trolley](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa.webp)
-
-Warsaw808 nm · HS-A0406
-
-##### [Complete 808 nm Diode Laser Maintenance in Warsaw – Cooling System Service and Handpiece Sealing](https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/)
-
-Complete 808 nm diode laser maintenance in Warsaw. Coolant replacement, internal cleaning, diode power verification and handpiece sealing.
-
-[View case study](https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/)
 
 [View All Repair Cases](https://lasertechservice.pl/en/case-studies/)[Blog](https://lasertechservice.pl/en/blog/)
 
@@ -663,9 +663,9 @@ Warranty duration and conditions depend on the type of repair and the agreed ter
 
 #### Related repairs
 
+- [Diode Laser Repair in Zielona Góra. Water Flow Sensor Replacement](https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/)
 - [Diode Laser Servicing at PURE STUDIO Wrocław – Handpiece Housing Replacement and Power Verification](https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/)
 - [smartPULS IPL Handpiece Repair in Świdnica](https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/)
-- [Complete 808 nm Diode Laser Maintenance in Warsaw – Cooling System Service and Handpiece Sealing](https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/)
 
 ### Poznaj Laser Tech Service
 
@@ -825,6 +825,16 @@ Wyjaśniamy zakres prac, możliwe rozwiązania i warunki gwarancji.
 
 Każda naprawa to inna historia, inna usterka i konkretne rozwiązanie techniczne. Zobacz wybrane realizacje Laser Tech Service.
 
+![Przód lasera diodowego podczas serwisu w Zielonej Górze](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
+
+Zielona GóraUkład chłodzenia
+
+##### [Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/)
+
+Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody, konserwacja i czyszczenie głowicy. Serwis na miejscu.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/)
+
 ![Recepcja salonu PURE STUDIO we Wrocławiu](https://lasertechservice.pl/img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera.webp)
 
 WrocławPURE STUDIO
@@ -844,16 +854,6 @@ Wymiana obudowy głowicy lasera, czyszczenie optyki, uszczelnienie i pomiar mocy
 Do Laser Tech Service zgłosił się klient ze Świdnicy z problemem dotyczącym niemieckiego urządzenia smartPULS, wykorzystywanego do zabiegów kosmetologicznych z zastosowaniem technologii IPL. Według zgłoszenia lampa w głowicy przestała działać i podejrzewano jej przepalenie.
 
 [Zobacz realizację](https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/)
-
-![Laser diodowy z ekranem, głowicą i przewodem na wózku](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa.webp)
-
-Warszawa808 nm · HS-A0406
-
-##### [Pełny serwis lasera diodowego 808 nm w Warszawie – konserwacja, chłodzenie i uszczelnienie głowicy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/)
-
-Pełny serwis lasera diodowego 808 nm w Warszawie. Wymiana płynu, czyszczenie, kontrola mocy diody i uszczelnienie głowicy. Laser Tech Service.
-
-[Zobacz realizację](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/)
 
 [Zobacz wszystkie realizacje](https://lasertechservice.pl/realizacje/)[Blog](https://lasertechservice.pl/blog/)
 
@@ -898,9 +898,9 @@ Czas trwania i warunki gwarancji zależą od rodzaju naprawy oraz uzgodnionych w
 
 #### Powiązane realizacje
 
+- [Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/)
 - [Serwis lasera diodowego w PURE STUDIO Wrocław – wymiana obudowy głowicy i kontrola mocy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/)
 - [smartPULS – przywrócenie działania głowicy IPL w Świdnicy](https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/)
-- [Pełny serwis lasera diodowego 808 nm w Warszawie – konserwacja, chłodzenie i uszczelnienie głowicy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/)
 
 ### Ремонт диодных лазеров и косметологического оборудования
 
@@ -1274,6 +1274,16 @@ Frontend Developer & SEO Engineer
 
 Каждый ремонт — отдельная техническая задача. Посмотрите реальные примеры неисправностей и выполненных работ.
 
+![Диодный лазер спереди во время ремонта в Зелёна-Гуре](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
+
+Zielona GóraСистема охлаждения
+
+##### [Ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)
+
+Выездной ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды, обслуживание системы охлаждения и очистка манипулы.
+
+[Посмотреть реализацию](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)
+
 ![Ресепшен салона PURE STUDIO во Вроцлаве](https://lasertechservice.pl/img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera.webp)
 
 WrocławPURE STUDIO
@@ -1293,16 +1303,6 @@ WrocławPURE STUDIO
 В Laser Tech Service обратился клиент из города Свидница с проблемой немецкого косметологического аппарата smartPULS. По словам клиента, в манипуле перестала работать IPL-лампа. Первоначально предполагалось, что лампа перегорела и требует замены.
 
 [Подробнее](https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/)
-
-![Диодный лазер с экраном, манипулой и шлангом на тележке](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa.webp)
-
-Варшава808 nm · HS-A0406
-
-##### [Полное техническое обслуживание диодного лазера 808 нм в Варшаве — охлаждение, очистка и герметизация манипулы](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/)
-
-Полное обслуживание диодного лазера 808 нм в Варшаве: замена охлаждающей жидкости, очистка, проверка мощности и герметизация манипулы.
-
-[Подробнее](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/)
 
 [Все наши работы](https://lasertechservice.pl/ru/realizacje/)[Блог](https://lasertechservice.pl/ru/blog/)
 
@@ -1347,9 +1347,9 @@ ul. Marszałka Józefa Piłsudskiego 74, lok. 320
 
 #### Связанные работы
 
+- [Ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)
 - [Обслуживание диодного лазера в PURE STUDIO, Вроцлав — замена корпуса манипулы и проверка мощности](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/)
 - [smartPULS — восстановление работы IPL-манипулы в Свиднице](https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/)
-- [Полное техническое обслуживание диодного лазера 808 нм в Варшаве — охлаждение, очистка и герметизация манипулы](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/)
 
 ## Services
 
@@ -12756,6 +12756,119 @@ Laser Tech Service provides laser servicing, refurbishment and aesthetic laser r
 
 - [Why Is Regular Water Filter Replacement Important in Diode Lasers?](https://lasertechservice.pl/en/blog/diode-laser-water-filter-replacement/)
 
+### Diode Laser Repair in Zielona Góra. Water Flow Sensor Replacement
+
+HTML source: [Diode Laser Repair in Zielona Góra. Water Flow Sensor Replacement](https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/)
+
+Language: English
+
+Other language version: [Polski](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/), [Русский](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)
+
+> On-site diode laser repair in Zielona Góra. Water flow sensor replacement, cooling system maintenance and laser handpiece cleaning.
+
+Publication date: 2026-11-20
+
+A diode hair removal laser at a beauty salon in Zielona Góra stopped operating because of a cooling system monitoring fault. During an on-site inspection, Laser Tech Service technicians identified a defective water flow sensor.
+
+![Front of the diode laser during servicing in Zielona Góra](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
+
+![Rear of the device with ATTRE.EU label and cooling connections](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/diagnostyka-lasera-diodowego.webp)
+
+Rear of the device with ATTRE.EU label and cooling connections
+
+#### The problem
+
+When a diode laser stops working, a beauty salon may have to cancel appointments and lose revenue.
+
+Rather than shipping the equipment to a workshop and waiting several days, the customer requested an on-site repair.
+
+Our technicians reached Zielona Góra after approximately two hours of travel.
+
+![Removed MOJO H783C-24V water flow sensor](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/uszkodzony-czujnik-mojo-h783c.webp)
+
+Removed MOJO H783C-24V water flow sensor
+
+#### Diagnosing the cooling system
+
+We opened the equipment housing and inspected the cooling circuit.
+
+The defective component was identified as a MOJO H783C-24V water flow sensor.
+
+This sensor provides the control system with information about coolant circulation.
+
+If the controller does not receive a valid flow signal, it may prevent laser emission to protect the equipment from operating without adequate cooling.
+
+![Cleaning components inside the disassembled laser handpiece](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/czyszczenie-glowicy-laserowej.webp)
+
+Cleaning components inside the disassembled laser handpiece
+
+#### Repair and maintenance
+
+We replaced the faulty water flow sensor and renewed the coolant.
+
+We also performed equipment maintenance, disassembled and cleaned the laser handpiece, and checked the operation of the laser diode.
+
+After completing the repair, we verified the equipment's operation and documented the work in the service record.
+
+#### Result
+
+The on-site repair took approximately two hours.
+
+The laser was restored to working condition, allowing the salon to resume treatments.
+
+This case demonstrates how a relatively small cooling system component can prevent an entire laser device from operating.
+
+**Laser Tech Service provides on-site diagnostics, maintenance and repair of professional aesthetic lasers throughout Poland.**
+
+Phone: [+48 790 402 597](tel:+48790402597)
+[https://lasertechservice.pl/en/](https://lasertechservice.pl/en/)
+
+#### Service photos
+
+![Laser housing bearing the LaserMagic salon name](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-kosmetyczny-serwis-zielona-gora.webp)
+
+![Technician working inside the open diode laser housing](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/naprawa-ukladu-chlodzenia-lasera.webp)
+
+![Flow sensor, electrical wiring and hoses inside the laser](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/czujnik-przeplywu-wody-laser.webp)
+
+![Checking electrical connections inside the device](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/diagnostyka-czujnika-przeplywu.webp)
+
+![Powered laser display and handpiece check after repair](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/test-lasera-po-naprawie.webp)
+
+![Disassembled laser handpiece showing its module and wiring](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/serwis-glowicy-lasera-diodowego.webp)
+
+![Servicing the module of the disassembled laser handpiece](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/konserwacja-manipuly-lasera.webp)
+
+![Technician completing the service documentation beside the device](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/ksiazka-serwisowa-lasera.webp)
+
+#### Related resources
+
+- [Diode laser diagnostics](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
+
+- [Laser equipment cooling system repair](https://lasertechservice.pl/en/services/laser-cooling-system-repair/)
+
+- [Aesthetic equipment cleaning and maintenance](https://lasertechservice.pl/en/services/aesthetic-equipment-maintenance/)
+
+- [Laser handpiece and applicator refurbishment](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
+
+- [Diode Laser Not Starting? Sometimes a Small Sensor Is the Problem, Not the Laser Module](https://lasertechservice.pl/en/blog/diode-laser-not-starting-water-flow-sensor/)
+
+- [Contact the service team](https://lasertechservice.pl/en/contact/)
+
+#### Service offerings
+
+- [Professional laser and aesthetic equipment servicing](https://lasertechservice.pl/en/services/)
+- [Service pricing](https://lasertechservice.pl/en/pricing/)
+- [Technical Service for Beauty Salon Chains and Aesthetic Clinics](https://lasertechservice.pl/en/services/service-for-salon-chains/)
+- [Diode laser diagnostics](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
+- [Laser equipment cooling system repair](https://lasertechservice.pl/en/services/laser-cooling-system-repair/)
+- [Aesthetic equipment cleaning and maintenance](https://lasertechservice.pl/en/services/aesthetic-equipment-maintenance/)
+- [Laser handpiece and applicator refurbishment](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
+
+#### Related articles
+
+- [Diode Laser Not Starting? Sometimes a Small Sensor Is the Problem, Not the Laser Module](https://lasertechservice.pl/en/blog/diode-laser-not-starting-water-flow-sensor/)
+
 ### Diode Laser Servicing at PURE STUDIO Wrocław – Handpiece Housing Replacement and Power Verification
 
 HTML source: [Diode Laser Servicing at PURE STUDIO Wrocław – Handpiece Housing Replacement and Power Verification](https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/)
@@ -15677,6 +15790,115 @@ Serwis laserów, regeneracja laserów i naprawa laserów to usługi dobierane do
 #### Powiązane artykuły
 
 - [Laser nie pracował przez rok? Dlaczego długi przestój może doprowadzić do kosztownej naprawy układu chłodzenia](https://lasertechservice.pl/blog/laser-po-roku-przestoju-uklad-chlodzenia/)
+
+### Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody
+
+Źródło HTML: [Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/)
+
+Język: Polski
+
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/), [English](https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/)
+
+> Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody, konserwacja i czyszczenie głowicy. Serwis na miejscu.
+
+Data publikacji: 2026-11-20
+
+Laser diodowy w salonie kosmetologicznym w Zielonej Górze przestał pracować. Problem dotyczył układu chłodzenia, jednak jego przyczyną nie była potwierdzona awaria pompy ani samego modułu laserowego. Podczas diagnostyki technicy Laser Tech Service wykryli uszkodzony czujnik przepływu wody.
+
+![Przód lasera diodowego podczas serwisu w Zielonej Górze](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
+
+![Tył urządzenia z etykietą ATTRE.EU i przyłączami układu chłodzenia](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/diagnostyka-lasera-diodowego.webp)
+
+Tył urządzenia z etykietą ATTRE.EU i przyłączami układu chłodzenia
+
+#### Problem z uruchomieniem lasera
+
+Klient zgłosił, że urządzenie nie pozwala rozpocząć normalnej pracy. Dla salonu wykonującego zabiegi depilacji laserowej oznaczało to ryzyko odwołania zaplanowanych wizyt.
+
+Zamiast wysyłać urządzenie do serwisu i czekać kilka dni, klient zdecydował się na naprawę na miejscu.
+
+Nasi technicy dotarli do Zielonej Góry po około dwóch godzinach.
+
+![Wymontowany czujnik przepływu wody MOJO H783C-24V](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/uszkodzony-czujnik-mojo-h783c.webp)
+
+Wymontowany czujnik przepływu wody MOJO H783C-24V
+
+#### Diagnostyka układu chłodzenia
+
+Po otwarciu obudowy sprawdziliśmy elementy odpowiedzialne za obieg cieczy chłodzącej.
+
+Przyczyną problemu okazał się uszkodzony czujnik przepływu wody MOJO H783C-24V.
+
+Jego zadaniem jest przekazywanie informacji o przepływie cieczy do układu sterowania. Jeżeli sterownik nie otrzymuje prawidłowego sygnału, może zablokować uruchomienie emisji laserowej, aby chronić urządzenie przed pracą bez odpowiedniego chłodzenia.
+
+![Czyszczenie elementów wewnątrz rozebranej głowicy laserowej](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/czyszczenie-glowicy-laserowej.webp)
+
+Czyszczenie elementów wewnątrz rozebranej głowicy laserowej
+
+#### Wymiana czujnika i konserwacja
+
+Wymieniliśmy uszkodzony czujnik, a następnie przeprowadziliśmy dodatkowe prace serwisowe.
+
+Wymieniliśmy ciecz chłodzącą, wykonaliśmy konserwację urządzenia oraz rozebraliśmy i oczyściliśmy głowicę zabiegową. Sprawdziliśmy również działanie diody laserowej.
+
+Po zakończeniu prac skontrolowaliśmy funkcjonowanie urządzenia i uzupełniliśmy książkę serwisową.
+
+#### Rezultat naprawy
+
+Cała naprawa na miejscu trwała około dwóch godzin. Laser odzyskał sprawność i mógł wrócić do pracy w salonie.
+
+Ten przypadek pokazuje, że nawet niewielki element układu chłodzenia może zatrzymać całe urządzenie.
+
+**Laser Tech Service wykonuje diagnostykę, naprawy i konserwację laserów kosmetologicznych na terenie Polski, również z dojazdem do klienta.**
+
+Kontakt: [+48 790 402 597](tel:+48790402597)
+[https://lasertechservice.pl/](https://lasertechservice.pl/)
+
+#### Zdjęcia z serwisu
+
+![Obudowa lasera z oznaczeniem salonu LaserMagic](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-kosmetyczny-serwis-zielona-gora.webp)
+
+![Technik przy otwartej obudowie lasera diodowego](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/naprawa-ukladu-chlodzenia-lasera.webp)
+
+![Czujnik przepływu, przewody elektryczne i węże wewnątrz lasera](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/czujnik-przeplywu-wody-laser.webp)
+
+![Sprawdzanie połączeń elektrycznych wewnątrz urządzenia](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/diagnostyka-czujnika-przeplywu.webp)
+
+![Włączony ekran lasera i kontrola głowicy po naprawie](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/test-lasera-po-naprawie.webp)
+
+![Rozebrana głowica lasera z widocznym modułem i przewodami](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/serwis-glowicy-lasera-diodowego.webp)
+
+![Prace serwisowe przy module rozebranej manipuły lasera](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/konserwacja-manipuly-lasera.webp)
+
+![Technik uzupełnia dokumentację serwisową przy urządzeniu](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/ksiazka-serwisowa-lasera.webp)
+
+#### Powiązane materiały
+
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
+- [Naprawa układów chłodzenia urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/)
+
+- [Czyszczenie i konserwacja urządzeń kosmetologicznych](https://lasertechservice.pl/uslugi/konserwacja-urzadzen-kosmetologicznych/)
+
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+- [Laser nie działa? Czasami winny jest mały czujnik, a nie drogi moduł laserowy](https://lasertechservice.pl/blog/laser-nie-dziala-czujnik-przeplywu-wody/)
+
+- [Skontaktuj się z serwisem](https://lasertechservice.pl/kontakt/)
+
+#### Usługi serwisowe
+
+- [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Serwis urządzeń kosmetycznych dla sieci salonów i klinik](https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+- [Naprawa układów chłodzenia urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/)
+- [Czyszczenie i konserwacja urządzeń kosmetologicznych](https://lasertechservice.pl/uslugi/konserwacja-urzadzen-kosmetologicznych/)
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+#### Powiązane artykuły
+
+- [Laser nie działa? Czasami winny jest mały czujnik, a nie drogi moduł laserowy](https://lasertechservice.pl/blog/laser-nie-dziala-czujnik-przeplywu-wody/)
 
 ### Naprawa Lumenis LightSheer DESIRE w Oleśnicy – wyciek płynu i awaria układu chłodzenia
 
@@ -20428,6 +20650,121 @@ Pharaon 1470 · LSO Medical · Denica · Wrocław
 
 - [Вода в лазере для эпиляции: почему её необходимо менять и вовремя проводить обслуживание?](https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/)
 
+### Ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды
+
+Источник HTML: [Ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)
+
+Язык: Русский
+
+Версия на другом языке: [Polski](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/), [English](https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/)
+
+> Выездной ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды, обслуживание системы охлаждения и очистка манипулы.
+
+Дата публикации: 2026-11-20
+
+В салоне лазерной косметологии в Зелёна-Гуре перестал работать диодный лазер. Аппарат не переходил в рабочий режим из-за проблемы с контролем системы охлаждения. Во время диагностики специалисты Laser Tech Service обнаружили неисправный датчик потока воды.
+
+![Диодный лазер спереди во время ремонта в Зелёна-Гуре](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
+
+![Задняя панель аппарата с маркировкой ATTRE.EU и соединениями системы охлаждения](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/diagnostyka-lasera-diodowego.webp)
+
+Задняя панель аппарата с маркировкой ATTRE.EU и соединениями системы охлаждения
+
+#### Почему аппарат перестал работать
+
+Для салона лазерной эпиляции остановка оборудования означает отменённые процедуры, недовольных клиентов и потерю выручки.
+
+Владелец решил не отправлять аппарат в сервисный центр, а вызвать наших специалистов непосредственно в салон.
+
+Дорога до клиента заняла около двух часов.
+
+![Снятый датчик потока воды MOJO H783C-24V](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/uszkodzony-czujnik-mojo-h783c.webp)
+
+Снятый датчик потока воды MOJO H783C-24V
+
+#### Поиск неисправности
+
+После разборки корпуса мы проверили систему циркуляции охлаждающей жидкости.
+
+Причиной неисправности оказался датчик потока воды MOJO H783C-24V.
+
+Этот компонент контролирует прохождение жидкости через систему охлаждения и передаёт соответствующий сигнал контроллеру.
+
+Если контроллер не получает правильный сигнал, он может блокировать работу лазера. Такая защита необходима, чтобы предотвратить эксплуатацию лазерного модуля без достаточного охлаждения.
+
+![Очистка элементов внутри разобранной лазерной манипулы](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/czyszczenie-glowicy-laserowej.webp)
+
+Очистка элементов внутри разобранной лазерной манипулы
+
+#### Замена датчика и обслуживание лазера
+
+Мы заменили неисправный датчик потока воды.
+
+Одновременно заменили охлаждающую жидкость, провели техническое обслуживание аппарата, разобрали и очистили манипулу.
+
+Дополнительно проверили работу лазерного диода.
+
+После завершения ремонта проверили работоспособность оборудования и внесли информацию о выполненных работах в сервисную книжку.
+
+#### Результат
+
+Ремонт занял около двух часов.
+
+Работоспособность диодного лазера была восстановлена, и салон получил возможность продолжить обслуживание клиентов.
+
+Иногда причиной остановки дорогостоящего оборудования становится небольшой компонент, который невозможно правильно диагностировать без проверки системы.
+
+**Laser Tech Service выполняет выездную диагностику, ремонт и техническое обслуживание косметологических лазеров по всей Польше.**
+
+Телефон: [+48 790 402 597](tel:+48790402597)
+[https://lasertechservice.pl/ru/](https://lasertechservice.pl/ru/)
+
+#### Фотографии ремонта
+
+![Корпус лазера с обозначением салона LaserMagic](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-kosmetyczny-serwis-zielona-gora.webp)
+
+![Техник у открытого корпуса диодного лазера](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/naprawa-ukladu-chlodzenia-lasera.webp)
+
+![Датчик потока, электрические провода и шланги внутри лазера](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/czujnik-przeplywu-wody-laser.webp)
+
+![Проверка электрических соединений внутри аппарата](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/diagnostyka-czujnika-przeplywu.webp)
+
+![Включённый экран лазера и проверка манипулы после ремонта](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/test-lasera-po-naprawie.webp)
+
+![Разобранная манипула лазера с видимым модулем и проводами](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/serwis-glowicy-lasera-diodowego.webp)
+
+![Сервисные работы с модулем разобранной манипулы лазера](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/konserwacja-manipuly-lasera.webp)
+
+![Техник заполняет сервисную документацию рядом с аппаратом](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/ksiazka-serwisowa-lasera.webp)
+
+#### Связанные материалы
+
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
+- [Ремонт систем охлаждения лазерного оборудования](https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/)
+
+- [Чистка и техническое обслуживание косметологического оборудования](https://lasertechservice.pl/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/)
+
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
+- [Лазер не запускается? Иногда виноват маленький датчик, а не дорогой лазерный модуль](https://lasertechservice.pl/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/)
+
+- [Связаться с сервисом](https://lasertechservice.pl/ru/kontakt/)
+
+#### Услуги сервиса
+
+- [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Сервисное обслуживание сетей салонов красоты и косметологических клиник](https://lasertechservice.pl/ru/uslugi/servis-dlya-setey-salonov/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+- [Ремонт систем охлаждения лазерного оборудования](https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/)
+- [Чистка и техническое обслуживание косметологического оборудования](https://lasertechservice.pl/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/)
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
+#### Связанные статьи
+
+- [Лазер не запускается? Иногда виноват маленький датчик, а не дорогой лазерный модуль](https://lasertechservice.pl/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/)
+
 ### Ремонт Lumenis LightSheer DESIRE в Олеснице — утечка жидкости и неисправность системы охлаждения
 
 Источник HTML: [Ремонт Lumenis LightSheer DESIRE в Олеснице — утечка жидкости и неисправность системы охлаждения](https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/)
@@ -24856,6 +25193,189 @@ Tak rozumiemy [diagnostykę i naprawę urządzeń laserowych](https://lasertechs
 
 - [Dlaczego mały przewód powoduje duże problemy?](https://lasertechservice.pl/blog/dlaczego-maly-przewod-powoduje-duze-problemy/)
 
+### Laser nie działa? Czasami winny jest mały czujnik, a nie drogi moduł laserowy
+
+Źródło HTML: [Laser nie działa? Czasami winny jest mały czujnik, a nie drogi moduł laserowy](https://lasertechservice.pl/blog/laser-nie-dziala-czujnik-przeplywu-wody/)
+
+Język: Polski
+
+Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/), [English](https://lasertechservice.pl/en/blog/diode-laser-not-starting-water-flow-sensor/)
+
+> Dlaczego laser diodowy nie chce się uruchomić? Poznaj przypadek awarii czujnika przepływu wody i naprawy na miejscu w Zielonej Górze.
+
+Autor: Олександр Падалко
+
+Data publikacji: 2026-11-20
+
+Wyobraź sobie zwykły dzień w salonie kosmetologicznym. Klientki są zapisane na depilację laserową, grafik jest pełny, a urządzenie nagle odmawia współpracy. Nie można rozpocząć zabiegu. Co robić? Wysyłać laser do serwisu i odwołać wizyty na kilka dni? Niekoniecznie. Niedawno w Zielonej Górze pokazaliśmy, że czasami rozwiązanie problemu zajmuje zaledwie dwie godziny.
+
+![Wymontowany czujnik przepływu wody MOJO H783C-24V](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/uszkodzony-czujnik-mojo-h783c.webp)
+
+Wymontowany czujnik przepływu wody MOJO H783C-24V
+
+#### Awaria, której przyczyna nie była oczywista
+
+Zostaliśmy wezwani do salonu kosmetologicznego w Zielonej Górze. Laser diodowy przestał pracować, a problem wskazywał na układ chłodzenia.
+
+W takich sytuacjach łatwo podejrzewać pompę wody, zatkany obieg albo awarię elektroniki. Jednak bez diagnostyki nie da się uczciwie wskazać przyczyny.
+
+Po przyjeździe rozebraliśmy obudowę urządzenia i sprawdziliśmy układ chłodzenia.
+
+Okazało się, że uszkodzony jest czujnik przepływu wody.
+
+To element, który podczas rutynowej diagnostyki łatwo pominąć, ponieważ w naszej praktyce jego awarie zdarzają się stosunkowo rzadko.
+
+![Technik przy otwartej obudowie lasera diodowego](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/naprawa-ukladu-chlodzenia-lasera.webp)
+
+Technik przy otwartej obudowie lasera diodowego
+
+#### Po co laserowi czujnik przepływu wody?
+
+Laser diodowy wytwarza ciepło podczas pracy. Aby utrzymać właściwe warunki działania, potrzebuje sprawnego układu chłodzenia.
+
+Ciecz chłodząca odbiera ciepło z odpowiednich elementów urządzenia, a jej obieg musi być kontrolowany.
+
+Właśnie tutaj pracuje czujnik przepływu wody.
+
+Jego zadaniem jest przekazywanie informacji, czy ciecz przepływa przez układ. W zależności od konstrukcji urządzenia kontroler wykorzystuje ten sygnał jako jeden z warunków dopuszczenia lasera do pracy.
+
+Jeśli sygnał jest nieprawidłowy albo go brakuje, urządzenie może zablokować emisję laserową.
+
+Co ważne, taki objaw nie oznacza automatycznie, że pompa nie działa. Problem może dotyczyć samego czujnika, przewodów, połączeń elektrycznych lub rzeczywistego przepływu cieczy.
+
+Dlatego nie należy omijać zabezpieczenia ani wymuszać uruchomienia lasera. Trzeba znaleźć przyczynę.
+
+#### Co znaleźliśmy w Zielonej Górze?
+
+Podczas diagnostyki zidentyfikowaliśmy uszkodzony czujnik MOJO H783C-24V.
+
+Wymieniliśmy go na sprawny element.
+
+Ponieważ urządzenie było już rozebrane, wykonaliśmy również wymianę cieczy chłodzącej oraz techniczne czynności konserwacyjne.
+
+Następnie zajęliśmy się głowicą zabiegową.
+
+Rozebraliśmy man ipulę, oczyściliśmy jej elementy i sprawdziliśmy działanie diody laserowej.
+
+Po zakończeniu prac przeprowadziliśmy kontrolę działania urządzenia.
+
+Całość została udokumentowana w książce serwisowej.
+
+![Czyszczenie elementów wewnątrz rozebranej głowicy laserowej](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/czyszczenie-glowicy-laserowej.webp)
+
+Czyszczenie elementów wewnątrz rozebranej głowicy laserowej
+
+#### Dwie godziny dojazdu i dwie godziny naprawy
+
+To właśnie najważniejsza część tej historii.
+
+Dojazd do Zielonej Góry zajął nam około dwóch godzin. Sama naprawa, wraz z dodatkowymi czynnościami serwisowymi, również trwała około dwóch godzin.
+
+Klient nie musiał organizować transportu ciężkiego urządzenia, pakować go ani czekać na diagnozę po dostarczeniu do warsztatu.
+
+Laser został naprawiony bezpośrednio w salonie.
+
+Oczywiście nie każdą awarię da się usunąć w ciągu jednej wizyty. Czasami potrzebna jest specjalistyczna część, dłuższa diagnostyka lub naprawa warsztatowa.
+
+Jednak wiele typowych usterek można rozwiązać na miejscu.
+
+![Przód lasera diodowego podczas serwisu w Zielonej Górze](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
+
+Przód lasera diodowego podczas serwisu w Zielonej Górze
+
+#### Czy dojazd serwisanta naprawdę się opłaca?
+
+Właściciele salonów często patrzą przede wszystkim na koszt dojazdu technika.
+
+To zrozumiałe. Ale warto policzyć również koszt przestoju.
+
+Załóżmy, że salon ma kilka lub kilkanaście zabiegów zaplanowanych na kolejne dni.
+
+Jeżeli urządzenie nie działa przez trzy lub cztery dni, pojawia się problem z przekładaniem wizyt. Nie każdy klient będzie mógł przyjść w innym terminie. Część przychodów może zostać utracona.
+
+Do tego dochodzi czas pracowników, kontaktowanie się z klientami oraz ryzyko pogorszenia opinii o salonie.
+
+Dlatego koszt dojazdu specjalisty warto porównać z potencjalną stratą wynikającą z kilku dni przestoju.
+
+Czasami szybka naprawa na miejscu jest po prostu korzystniejszym rozwiązaniem biznesowym.
+
+#### Dlaczego przywozimy części zamienne?
+
+W Laser Tech Service zajmujemy się naprawą urządzeń kosmetologicznych na co dzień.
+
+Wiemy, że awaria nie zawsze dotyczy najdroższego podzespołu.
+
+Dlatego podczas wyjazdów serwisowych zabieramy ze sobą zapas wybranych części, czujników i elementów potrzebnych do usuwania typowych usterek.
+
+Nie oznacza to, że dysponujemy każdą częścią do każdego modelu. Jednak odpowiednie przygotowanie zwiększa szansę zakończenia naprawy podczas jednej wizyty.
+
+W Zielonej Górze właśnie tak było.
+
+#### Regularny serwis to mniej niespodzianek
+
+Przy okazji tej naprawy wykonaliśmy także konserwację urządzenia.
+
+Wymieniliśmy ciecz chłodzącą, oczyściliśmy głowicę i sprawdziliśmy działanie diody.
+
+Takie czynności pomagają utrzymać sprzęt w odpowiednim stanie technicznym.
+
+Warto pamiętać, że układ chłodzenia to nie tylko pompa i zbiornik. To również przewody, połączenia, czujniki oraz elementy odbierające ciepło.
+
+Zaniedbania w jednym miejscu mogą wpływać na funkcjonowanie całego urządzenia.
+
+Częstotliwość konserwacji należy dopasować do zaleceń producenta, intensywności pracy oraz stanu technicznego konkretnego lasera.
+
+![Technik uzupełnia dokumentację serwisową przy urządzeniu](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/ksiazka-serwisowa-lasera.webp)
+
+Technik uzupełnia dokumentację serwisową przy urządzeniu
+
+#### Nie zawsze potrzebna jest duża naprawa
+
+Przypadek z Zielonej Góry dobrze pokazuje, dlaczego prawidłowa diagnostyka jest tak ważna.
+
+Laser nie pracował, ale przyczyną nie był potwierdzony problem z drogim modułem diodowym.
+
+Wystarczyło zidentyfikować i wymienić uszkodzony czujnik przepływu wody.
+
+Po około dwóch godzinach prac serwisowych urządzenie wróciło do działania.
+
+Jeśli prowadzisz salon kosmetologiczny i Twój laser przestał pracować, skontaktuj się z Laser Tech Service.
+
+Sprawdzimy możliwość diagnostyki i naprawy na miejscu, aby ograniczyć przestój Twojego salonu.
+
+**Laser Tech Service — serwis laserów kosmetologicznych w całej Polsce.**
+
+Telefon i WhatsApp: [+48 790 402 597](tel:+48790402597)
+[https://lasertechservice.pl/](https://lasertechservice.pl/)
+
+#### Powiązane materiały
+
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+
+- [Naprawa układów chłodzenia urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/)
+
+- [Czyszczenie i konserwacja urządzeń kosmetologicznych](https://lasertechservice.pl/uslugi/konserwacja-urzadzen-kosmetologicznych/)
+
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+- [Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/)
+
+- [Skontaktuj się z serwisem](https://lasertechservice.pl/kontakt/)
+
+#### Usługi serwisowe
+
+- [Profesjonalny serwis urządzeń laserowych i kosmetologicznych](https://lasertechservice.pl/uslugi/)
+- [Cennik usług serwisowych](https://lasertechservice.pl/uslugi/cennik/)
+- [Serwis urządzeń kosmetycznych dla sieci salonów i klinik](https://lasertechservice.pl/uslugi/serwis-dla-sieci-salonow/)
+- [Diagnostyka laserów diodowych](https://lasertechservice.pl/uslugi/diagnostyka-laserow-diodowych/)
+- [Naprawa układów chłodzenia urządzeń laserowych](https://lasertechservice.pl/uslugi/naprawa-ukladow-chlodzenia/)
+- [Czyszczenie i konserwacja urządzeń kosmetologicznych](https://lasertechservice.pl/uslugi/konserwacja-urzadzen-kosmetologicznych/)
+- [Regeneracja głowic i manipulatorów laserowych](https://lasertechservice.pl/uslugi/regeneracja-glowic-i-manipulatorow/)
+
+#### Powiązane realizacje
+
+- [Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/)
+
 ### Laser nie pracował przez rok? Dlaczego długi przestój może doprowadzić do kosztownej naprawy układu chłodzenia
 
 Źródło HTML: [Laser nie pracował przez rok? Dlaczego długi przestój może doprowadzić do kosztownej naprawy układu chłodzenia](https://lasertechservice.pl/blog/laser-po-roku-przestoju-uklad-chlodzenia/)
@@ -28334,6 +28854,205 @@ Frequency depends on the model, usage intensity and manufacturer guidance. Regar
 #### Related articles
 
 - [5 signs that a hair removal laser diode needs inspection or replacement](https://lasertechservice.pl/en/blog/five-signs-laser-diode-needs-inspection/)
+
+### Diode Laser Not Starting? Sometimes a Small Sensor Is the Problem, Not the Laser Module
+
+HTML source: [Diode Laser Not Starting? Sometimes a Small Sensor Is the Problem, Not the Laser Module](https://lasertechservice.pl/en/blog/diode-laser-not-starting-water-flow-sensor/)
+
+Language: English
+
+Other language version: [Polski](https://lasertechservice.pl/blog/laser-nie-dziala-czujnik-przeplywu-wody/), [Русский](https://lasertechservice.pl/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/)
+
+> Learn how a faulty water flow sensor can prevent a diode laser from operating and how on-site repair reduced downtime in Zielona Góra.
+
+Author: Олександр Падалко
+
+Publication date: 2026-11-20
+
+Imagine a busy day at a laser hair removal salon. Appointments are scheduled, clients are arriving, and the equipment suddenly refuses to operate. Should you cancel several days of appointments and ship the laser to a repair workshop? Not necessarily. A recent Laser Tech Service visit to Zielona Góra shows how an unexpected cooling system fault can sometimes be resolved in just a few hours.
+
+![Removed MOJO H783C-24V water flow sensor](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/uszkodzony-czujnik-mojo-h783c.webp)
+
+Removed MOJO H783C-24V water flow sensor
+
+#### A problem that was not immediately obvious
+
+We received a service request from a beauty salon in Zielona Góra, Poland.
+
+Its diode hair removal laser had stopped working.
+
+The symptoms suggested a problem related to the cooling system, but the exact cause was unknown.
+
+A cooling fault can have several possible causes, including insufficient circulation, a faulty pump, electrical connections or defective sensors.
+
+That is why proper diagnosis matters.
+
+After arriving at the salon, we opened the equipment housing and inspected the cooling system.
+
+The defective component turned out to be a water flow sensor.
+
+In our service experience, failures of this particular type of component are relatively uncommon. Without checking the sensor, a technician could spend time investigating other parts of the system.
+
+![Technician working inside the open diode laser housing](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/naprawa-ukladu-chlodzenia-lasera.webp)
+
+Technician working inside the open diode laser housing
+
+#### What does a water flow sensor do?
+
+Diode lasers generate heat during operation.
+
+To maintain suitable operating conditions, they rely on a cooling system that circulates coolant through the relevant components.
+
+A water flow sensor helps the controller determine whether coolant is circulating.
+
+Depending on the equipment design, the controller may require a valid flow signal before allowing laser emission.
+
+If the signal is missing or incorrect, the system may prevent the laser from operating.
+
+This is an important protective function.
+
+However, a missing flow signal does not necessarily mean that the pump has stopped working.
+
+The problem may involve the sensor itself, electrical wiring, connectors or actual coolant circulation.
+
+Bypassing this safety function is not an appropriate repair. The underlying fault must be identified and corrected.
+
+#### What we found in Zielona Góra
+
+During the inspection, we identified a defective MOJO H783C-24V water flow sensor.
+
+We replaced the component and continued with additional maintenance.
+
+The coolant was renewed, and the equipment received a technical inspection and servicing.
+
+We also disassembled and cleaned the laser handpiece, inspected its internal components and checked the operation of the laser diode.
+
+After completing the work, we verified the equipment's operation.
+
+The service activities were recorded in the maintenance documentation.
+
+![Cleaning components inside the disassembled laser handpiece](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/czyszczenie-glowicy-laserowej.webp)
+
+Cleaning components inside the disassembled laser handpiece
+
+#### Two hours of travel and two hours of repair
+
+Our journey to Zielona Góra took approximately two hours.
+
+The repair and additional maintenance took another two hours.
+
+The equipment was restored directly at the customer's premises.
+
+There was no need to arrange shipping for a heavy laser device or wait for it to reach a workshop.
+
+Of course, not every technical problem can be resolved during a single visit.
+
+Some repairs require additional components, specialist workshop equipment or more extensive diagnostic work.
+
+Nevertheless, many common faults can be repaired on-site when the technician has the right experience and spare parts.
+
+![Front of the diode laser during servicing in Zielona Góra](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
+
+Front of the diode laser during servicing in Zielona Góra
+
+#### Is an on-site service visit worth the cost?
+
+Salon owners naturally consider the cost of technician travel.
+
+However, it is also important to consider the cost of equipment downtime.
+
+Imagine having appointments scheduled for the next three or four days.
+
+If the laser is not working, those appointments may need to be postponed or cancelled.
+
+Some clients will accept a new appointment. Others may choose another salon.
+
+The business may lose revenue while staff spend additional time rearranging the schedule.
+
+This is why the cost of an on-site service visit should be compared with the potential financial impact of several days without working equipment.
+
+In some situations, paying for technician travel is the more economical decision.
+
+#### Why our technicians carry spare parts
+
+At Laser Tech Service, we understand that equipment downtime affects salon operations.
+
+Our technicians therefore carry a selection of commonly needed replacement components during service visits.
+
+These may include sensors, cooling system components and electrical parts used in typical repairs.
+
+We cannot carry every component for every laser model.
+
+However, practical experience helps us prepare for many common faults.
+
+In Zielona Góra, having a suitable replacement sensor available allowed us to complete the repair without waiting for another delivery.
+
+#### Maintenance is part of reliable operation
+
+We did more than replace the defective sensor.
+
+The coolant was renewed, the handpiece was cleaned, and the laser diode was checked.
+
+These activities are important because the cooling system includes more than a pump and a water tank.
+
+It also contains hoses, connectors, sensors and heat transfer components.
+
+A problem in one area may affect the operation of the entire device.
+
+Regular maintenance helps identify developing problems and maintain appropriate operating conditions.
+
+The recommended service interval should follow the manufacturer's instructions and reflect how intensively the equipment is used.
+
+![Technician completing the service documentation beside the device](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/ksiazka-serwisowa-lasera.webp)
+
+Technician completing the service documentation beside the device
+
+#### The importance of proper diagnosis
+
+The Zielona Góra repair illustrates an important principle.
+
+A laser that refuses to start does not automatically have a defective or expensive diode module.
+
+Sometimes the problem is a relatively small component that is easy to overlook.
+
+Correct diagnosis, suitable spare parts and an experienced technician can make a significant difference to repair time.
+
+If your diode laser has stopped working, contact Laser Tech Service.
+
+We can assess whether an on-site repair is possible and help reduce unnecessary downtime.
+
+**Laser Tech Service provides professional aesthetic laser repair and maintenance throughout Poland.**
+
+Phone and WhatsApp: [+48 790 402 597](tel:+48790402597)
+[https://lasertechservice.pl/en/](https://lasertechservice.pl/en/)
+
+#### Related resources
+
+- [Diode laser diagnostics](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
+
+- [Laser equipment cooling system repair](https://lasertechservice.pl/en/services/laser-cooling-system-repair/)
+
+- [Aesthetic equipment cleaning and maintenance](https://lasertechservice.pl/en/services/aesthetic-equipment-maintenance/)
+
+- [Laser handpiece and applicator refurbishment](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
+
+- [Diode Laser Repair in Zielona Góra. Water Flow Sensor Replacement](https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/)
+
+- [Contact the service team](https://lasertechservice.pl/en/contact/)
+
+#### Service offerings
+
+- [Professional laser and aesthetic equipment servicing](https://lasertechservice.pl/en/services/)
+- [Service pricing](https://lasertechservice.pl/en/pricing/)
+- [Technical Service for Beauty Salon Chains and Aesthetic Clinics](https://lasertechservice.pl/en/services/service-for-salon-chains/)
+- [Diode laser diagnostics](https://lasertechservice.pl/en/services/diode-laser-diagnostics/)
+- [Laser equipment cooling system repair](https://lasertechservice.pl/en/services/laser-cooling-system-repair/)
+- [Aesthetic equipment cleaning and maintenance](https://lasertechservice.pl/en/services/aesthetic-equipment-maintenance/)
+- [Laser handpiece and applicator refurbishment](https://lasertechservice.pl/en/services/laser-handpiece-repair/)
+
+#### Related repairs
+
+- [Diode Laser Repair in Zielona Góra. Water Flow Sensor Replacement](https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/)
 
 ### Why Is Regular Water Filter Replacement Important in Diode Lasers?
 
@@ -33929,6 +34648,205 @@ Oleksandr Padalko с наградой Złota Firma 2026 для Laser Tech Servic
 
 - [3000 NAIN — диагностика и ремонт блока питания](https://lasertechservice.pl/ru/realizacje/naprawa-3000-nain-bloku-zasilania/)
 
+### Лазер не запускается? Иногда виноват маленький датчик, а не дорогой лазерный модуль
+
+Источник HTML: [Лазер не запускается? Иногда виноват маленький датчик, а не дорогой лазерный модуль](https://lasertechservice.pl/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/)
+
+Язык: Русский
+
+Версия на другом языке: [Polski](https://lasertechservice.pl/blog/laser-nie-dziala-czujnik-przeplywu-wody/), [English](https://lasertechservice.pl/en/blog/diode-laser-not-starting-water-flow-sensor/)
+
+> Почему диодный лазер не работает? Реальный случай неисправности датчика потока воды и выездного ремонта в Зелёна-Гуре.
+
+Автор: Олександр Падалко
+
+Дата публикации: 2026-11-20
+
+Представьте обычный рабочий день в салоне лазерной эпиляции. Клиенты записаны, расписание заполнено, сотрудники готовы к процедурам. И тут лазер перестаёт работать. Отправлять аппарат в сервис, отменять записи и ждать несколько дней? Не всегда это необходимо. Недавно в Зелёна-Гуре мы устранили подобную неисправность примерно за два часа.
+
+![Снятый датчик потока воды MOJO H783C-24V](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/uszkodzony-czujnik-mojo-h783c.webp)
+
+Снятый датчик потока воды MOJO H783C-24V
+
+#### Неисправность, которую не сразу заметишь
+
+Нас вызвали в косметологический салон в Зелёна-Гуре.
+
+Диодный лазер перестал работать. По характеру проблемы нужно было проверить систему охлаждения.
+
+В подобных случаях можно предположить неисправность насоса, нарушение циркуляции воды, проблемы с электроникой или датчиками.
+
+Но предположение ещё не является диагнозом.
+
+Мы приехали к клиенту, разобрали корпус аппарата и приступили к проверке системы охлаждения.
+
+Причиной оказался неисправный датчик потока воды.
+
+В нашей практике такие датчики выходят из строя сравнительно редко. Поэтому без полноценной диагностики можно потратить много времени на поиск неисправности совсем в другом месте.
+
+![Техник у открытого корпуса диодного лазера](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/naprawa-ukladu-chlodzenia-lasera.webp)
+
+Техник у открытого корпуса диодного лазера
+
+#### Зачем диодному лазеру датчик потока воды?
+
+Во время работы диодный лазер выделяет тепло.
+
+Для его отвода используется система охлаждения, в которой циркулирует специальная жидкость.
+
+Но одного наличия воды в баке недостаточно. Важно, чтобы она действительно проходила через необходимые элементы системы.
+
+Для контроля циркуляции используется датчик потока воды.
+
+Он передаёт контроллеру сигнал о движении охлаждающей жидкости.
+
+Если сигнал отсутствует или не соответствует ожидаемому, система управления может запретить запуск лазерного излучения.
+
+Это защитная функция, которая помогает предотвратить работу оборудования без необходимого охлаждения.
+
+При этом отсутствие сигнала не всегда означает отсутствие циркуляции. Причиной могут быть неисправность датчика, проводки, контактов или проблемы с самим гидравлическим контуром.
+
+Именно поэтому нельзя просто отключить датчик или обойти защиту. Необходимо установить настоящую причину.
+
+#### Что мы обнаружили в Зелёна-Гуре
+
+После диагностики выяснилось, что неисправен датчик потока воды MOJO H783C-24V.
+
+Мы заменили его исправным компонентом.
+
+Заодно решили выполнить техническое обслуживание аппарата, чтобы клиенту не пришлось отдельно останавливать оборудование для профилактики.
+
+Заменили охлаждающую жидкость, проверили систему охлаждения, разобрали и очистили манипулу.
+
+Отдельное внимание уделили состоянию лазерной головки и проверке работы диода.
+
+После завершения ремонта проверили работоспособность аппарата.
+
+Все выполненные работы внесли в сервисную книжку.
+
+![Очистка элементов внутри разобранной лазерной манипулы](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/czyszczenie-glowicy-laserowej.webp)
+
+Очистка элементов внутри разобранной лазерной манипулы
+
+#### Два часа дороги и два часа ремонта
+
+До клиента мы добирались примерно два часа.
+
+Сам ремонт вместе с техническим обслуживанием занял ещё около двух часов.
+
+В результате аппарат удалось восстановить непосредственно в салоне.
+
+Не пришлось упаковывать тяжёлое оборудование, организовывать доставку и ждать, пока оно попадёт в мастерскую.
+
+Конечно, далеко не каждую неисправность можно устранить за один выезд. Иногда необходимы дополнительные детали или более сложный ремонт.
+
+Но в этом случае всё удалось сделать на месте.
+
+![Диодный лазер спереди во время ремонта в Зелёна-Гуре](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
+
+Диодный лазер спереди во время ремонта в Зелёна-Гуре
+
+#### Почему выезд мастера иногда выгоднее доставки аппарата
+
+Некоторые владельцы салонов стараются сэкономить на выезде специалиста.
+
+Их можно понять. Дорога мастера тоже стоит денег.
+
+Но давайте посмотрим на ситуацию немного иначе.
+
+Допустим, на ближайшие три или четыре дня у вас записаны клиенты на лазерную эпиляцию.
+
+Аппарат не работает.
+
+Вам приходится переносить процедуры, звонить клиентам, менять расписание. Кто-то согласится подождать, а кто-то просто уйдёт в другой салон.
+
+Теперь посчитайте, сколько денег может стоить такой простой.
+
+И сравните эту сумму со стоимостью выезда специалиста, который при наличии необходимых деталей может устранить неисправность за несколько часов.
+
+Иногда заплатить за дорогу мастера гораздо выгоднее, чем потерять несколько рабочих дней.
+
+#### Почему наши мастера возят с собой запасные части
+
+Мы в Laser Tech Service хорошо понимаем, что простой оборудования напрямую влияет на доход салона.
+
+Поэтому при выездных ремонтах стараемся иметь с собой набор наиболее востребованных запасных компонентов.
+
+Это датчики, отдельные элементы системы охлаждения, электрические компоненты и другие детали, которые могут потребоваться при типичных неисправностях.
+
+Разумеется, невозможно возить с собой абсолютно всё для любой модели лазера.
+
+Но опыт работы позволяет заранее подготовиться к наиболее вероятным проблемам.
+
+Именно благодаря такой подготовке в Зелёна-Гуре мы смогли заменить неисправный датчик без дополнительного ожидания доставки.
+
+#### Техническое обслуживание тоже важно
+
+Во время ремонта мы не ограничились заменой одного датчика.
+
+Заменили охлаждающую жидкость, очистили манипулу и проверили работу лазерного диода.
+
+Почему это важно?
+
+Потому что система охлаждения состоит из нескольких взаимосвязанных компонентов.
+
+Загрязнение, недостаточная циркуляция, проблемы с соединениями или несвоевременная замена жидкости могут привести к дополнительным неисправностям.
+
+Регулярное техническое обслуживание позволяет контролировать состояние оборудования и своевременно замечать потенциальные проблемы.
+
+Периодичность обслуживания зависит от рекомендаций производителя и интенсивности эксплуатации.
+
+![Техник заполняет сервисную документацию рядом с аппаратом](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/ksiazka-serwisowa-lasera.webp)
+
+Техник заполняет сервисную документацию рядом с аппаратом
+
+#### Главное не гадать, а диагностировать
+
+История из Зелёна-Гуры показывает одну простую вещь.
+
+Если лазер перестал работать, это ещё не означает, что вышел из строя дорогой диодный модуль.
+
+Иногда причиной оказывается небольшой датчик, который редко привлекает внимание.
+
+Правильная диагностика, необходимая запасная часть и опытный специалист позволяют устранить такую проблему гораздо быстрее, чем можно ожидать.
+
+Если ваш диодный лазер перестал запускаться, не спешите отправлять его в мастерскую.
+
+Свяжитесь с Laser Tech Service. Мы оценим возможность выездного ремонта и постараемся сократить простой вашего оборудования.
+
+**Laser Tech Service. Ремонт и техническое обслуживание косметологических лазеров по всей Польше.**
+
+Телефон и WhatsApp: [+48 790 402 597](tel:+48790402597)
+[https://lasertechservice.pl/ru/](https://lasertechservice.pl/ru/)
+
+#### Связанные материалы
+
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+
+- [Ремонт систем охлаждения лазерного оборудования](https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/)
+
+- [Чистка и техническое обслуживание косметологического оборудования](https://lasertechservice.pl/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/)
+
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
+- [Ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)
+
+- [Связаться с сервисом](https://lasertechservice.pl/ru/kontakt/)
+
+#### Услуги сервиса
+
+- [Профессиональный сервис лазерного и косметологического оборудования](https://lasertechservice.pl/ru/uslugi/)
+- [Прайс-лист сервисных услуг](https://lasertechservice.pl/ru/uslugi/cennik/)
+- [Сервисное обслуживание сетей салонов красоты и косметологических клиник](https://lasertechservice.pl/ru/uslugi/servis-dlya-setey-salonov/)
+- [Диагностика диодных лазеров](https://lasertechservice.pl/ru/uslugi/diagnostika-diodnyh-lazerov/)
+- [Ремонт систем охлаждения лазерного оборудования](https://lasertechservice.pl/ru/uslugi/remont-sistem-ohlazhdeniya/)
+- [Чистка и техническое обслуживание косметологического оборудования](https://lasertechservice.pl/ru/uslugi/tehnicheskoe-obsluzhivanie-oborudovaniya/)
+- [Восстановление головок и манипул лазерных аппаратов](https://lasertechservice.pl/ru/uslugi/vosstanovlenie-golovok-i-manipul/)
+
+#### Связанные работы
+
+- [Ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)
+
 ### Лазер простаивал целый год? Почему длительный простой может привести к дорогому ремонту системы охлаждения
 
 Источник HTML: [Лазер простаивал целый год? Почему длительный простой может привести к дорогому ремонту системы охлаждения](https://lasertechservice.pl/ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/)
@@ -38397,6 +39315,7 @@ lok. 320
 - [Polski: Jak prawidłowo kupić używany laser kosmetyczny i nie stracić pieniędzy?](https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/) — [Русский](https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/) — [English](https://lasertechservice.pl/en/blog/how-to-buy-a-used-hair-removal-laser/)
 - [Polski: Kupujesz używany laser kosmetyczny? Sprawdź, ile może kosztować pozorna oszczędność](https://lasertechservice.pl/blog/kontrola-uzywanego-lasera-przed-zakupem/) — [Русский](https://lasertechservice.pl/ru/blog/proverka-bu-lazera-pered-pokupkoy/) — [English](https://lasertechservice.pl/en/blog/used-aesthetic-laser-pre-purchase-inspection/)
 - [Polski: Laser CO₂ nie reaguje na pedał? Objaw to jeszcze nie diagnoza](https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/) — [Русский](https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/) — [English](https://lasertechservice.pl/en/blog/co2-laser-not-responding-to-foot-pedal/)
+- [Polski: Laser nie działa? Czasami winny jest mały czujnik, a nie drogi moduł laserowy](https://lasertechservice.pl/blog/laser-nie-dziala-czujnik-przeplywu-wody/) — [Русский](https://lasertechservice.pl/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/) — [English](https://lasertechservice.pl/en/blog/diode-laser-not-starting-water-flow-sensor/)
 - [Polski: Laser nie pracował przez rok? Dlaczego długi przestój może doprowadzić do kosztownej naprawy układu chłodzenia](https://lasertechservice.pl/blog/laser-po-roku-przestoju-uklad-chlodzenia/) — [Русский](https://lasertechservice.pl/ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/) — [English](https://lasertechservice.pl/en/blog/laser-unused-for-a-year-cooling-system/)
 - [Polski: Laser Tech Service z nagrodą Złota Firma 2026](https://lasertechservice.pl/blog/laser-tech-service-zlota-firma-2026/) — [Русский](https://lasertechservice.pl/ru/blog/laser-tech-service-zlota-firma-2026/) — [English](https://lasertechservice.pl/en/blog/laser-tech-service-zlota-firma-2026/)
 - [Polski: Lasery dinozaury – dlaczego wiek urządzenia ma znaczenie dla skuteczności zabiegów?](https://lasertechservice.pl/blog/lasery-dinozaury-wiek-stan-techniczny/) — [Русский](https://lasertechservice.pl/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/) — [English](https://lasertechservice.pl/en/blog/dinosaur-lasers-age-technical-condition/)
@@ -38424,6 +39343,7 @@ lok. 320
 - [Polski: Naprawa Alma Accent – wymiana przewodu układu chłodzenia głowicy RF](https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/) — [Русский](https://lasertechservice.pl/ru/realizacje/naprawa-alma-accent-gorlitz/) — [English](https://lasertechservice.pl/en/case-studies/alma-accent-cooling-hose-repair-gorlitz/)
 - [Polski: Naprawa Beauty Planet 3D Contour – vacuum i RF](https://lasertechservice.pl/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/) — [Русский](https://lasertechservice.pl/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/) — [English](https://lasertechservice.pl/en/case-studies/beauty-planet-vacuum-rf-repair-wroclaw/)
 - [Polski: Naprawa układu chłodzenia Lumenis LightSheer DESIRE – wymiana przewodów i przywrócenie cyrkulacji](https://lasertechservice.pl/realizacje/naprawa-chlodzenia-lightsheer-desire-wroclaw/) — [Русский](https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/) — [English](https://lasertechservice.pl/en/case-studies/lightsheer-desire-cooling-tubing-repair-wroclaw/)
+- [Polski: Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/) — [Русский](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/) — [English](https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/)
 - [Polski: Naprawa Lumenis LightSheer DESIRE w Oleśnicy – wyciek płynu i awaria układu chłodzenia](https://lasertechservice.pl/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/) — [Русский](https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/) — [English](https://lasertechservice.pl/en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/)
 - [Polski: Naprawa urządzenia Multipolar RF w Lublinie](https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/) — [Русский](https://lasertechservice.pl/ru/realizacje/naprawa-multipolar-rf-lublin/) — [English](https://lasertechservice.pl/en/case-studies/multipolar-rf-repair-lublin/)
 - [Polski: Naprawa NUBWAY NBW-VSIII – serwis RF i układu podciśnienia](https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/) — [Русский](https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/) — [English](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-repair-wroclaw/)

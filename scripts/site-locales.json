@@ -1783,6 +1783,54 @@
           "status": "published"
         }
       }
+    },
+    {
+      "id": "realizacje:naprawa-lasera-diodowego-zielona-gora",
+      "type": "case-study",
+      "x_default": "/realizacje/naprawa-lasera-diodowego-zielona-gora/",
+      "hreflang": {
+        "pl": "pl-PL",
+        "ru": "ru",
+        "en": "en"
+      },
+      "routes": {
+        "pl": {
+          "url": "/realizacje/naprawa-lasera-diodowego-zielona-gora/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/remont-diodnogo-lazera-zelena-gura/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/diode-laser-repair-zielona-gora/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:laser-nie-dziala-czujnik-przeplywu-wody",
+      "type": "article",
+      "x_default": "/blog/laser-nie-dziala-czujnik-przeplywu-wody/",
+      "hreflang": {
+        "pl": "pl-PL",
+        "ru": "ru",
+        "en": "en"
+      },
+      "routes": {
+        "pl": {
+          "url": "/blog/laser-nie-dziala-czujnik-przeplywu-wody/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/diode-laser-not-starting-water-flow-sensor/",
+          "status": "published"
+        }
+      }
     }
   ]
 }

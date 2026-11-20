@@ -1332,6 +1332,24 @@
       "related_services": []
     },
     {
+      "id": "article:blog:laser-nie-dziala-czujnik-przeplywu-wody",
+      "title": "Laser nie działa? Czasami winny jest mały czujnik, a nie drogi moduł laserowy",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/laser-nie-dziala-czujnik-przeplywu-wody/",
+      "description": "Dlaczego laser diodowy nie chce się uruchomić? Poznaj przypadek awarii czujnika przepływu wody i naprawy na miejscu w Zielonej Górze.",
+      "topics": [
+        "Układ chłodzenia"
+      ],
+      "datePublished": "2026-11-20",
+      "dateModified": "2026-11-20",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow"
+      ]
+    },
+    {
       "id": "article:blog:laser-po-roku-przestoju-uklad-chlodzenia",
       "title": "Laser nie pracował przez rok? Dlaczego długi przestój może doprowadzić do kosztownej naprawy układu chłodzenia",
       "language": "pl",
@@ -1688,6 +1706,24 @@
       "datePublished": "2026-09-11",
       "dateModified": "2026-09-11",
       "related_services": []
+    },
+    {
+      "id": "article:en:blog:diode-laser-not-starting-water-flow-sensor",
+      "title": "Diode Laser Not Starting? Sometimes a Small Sensor Is the Problem, Not the Laser Module",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/diode-laser-not-starting-water-flow-sensor/",
+      "description": "Learn how a faulty water flow sensor can prevent a diode laser from operating and how on-site repair reduced downtime in Zielona Góra.",
+      "topics": [
+        "Cooling system"
+      ],
+      "datePublished": "2026-11-20",
+      "dateModified": "2026-11-20",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow"
+      ]
     },
     {
       "id": "article:en:blog:diode-laser-water-filter-replacement",
@@ -2193,6 +2229,24 @@
       "datePublished": "2026-10-02",
       "dateModified": "2026-10-02",
       "related_services": []
+    },
+    {
+      "id": "article:ru:blog:lazer-ne-zapuskaetsya-datchik-potoka-vody",
+      "title": "Лазер не запускается? Иногда виноват маленький датчик, а не дорогой лазерный модуль",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/",
+      "description": "Почему диодный лазер не работает? Реальный случай неисправности датчика потока воды и выездного ремонта в Зелёна-Гуре.",
+      "topics": [
+        "Система охлаждения"
+      ],
+      "datePublished": "2026-11-20",
+      "dateModified": "2026-11-20",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow"
+      ]
     },
     {
       "id": "article:ru:blog:lazer-posle-goda-prostoya-sistema-ohlazhdeniya",
@@ -2754,6 +2808,32 @@
       "result": [
         "The laser is working again. This failure highlights the importance of regularly checking filters and cooling system connections for leaks.",
         "Laser Tech Service provides laser servicing, refurbishment and aesthetic laser repairs, including on-site visits."
+      ]
+    },
+    {
+      "id": "case:en:case-studies:diode-laser-repair-zielona-gora",
+      "title": "Diode Laser Repair in Zielona Góra. Water Flow Sensor Replacement",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/",
+      "description": "On-site diode laser repair in Zielona Góra. Water flow sensor replacement, cooling system maintenance and laser handpiece cleaning.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "MOJO H783C-24V"
+      },
+      "fault": [],
+      "performed_work": [
+        "We replaced the faulty water flow sensor and renewed the coolant.",
+        "We also performed equipment maintenance, disassembled and cleaned the laser handpiece, and checked the operation of the laser diode.",
+        "After completing the repair, we verified the equipment's operation and documented the work in the service record."
+      ],
+      "result": [
+        "The on-site repair took approximately two hours.",
+        "The laser was restored to working condition, allowing the salon to resume treatments.",
+        "This case demonstrates how a relatively small cooling system component can prevent an entire laser device from operating.",
+        "Laser Tech Service provides on-site diagnostics, maintenance and repair of professional aesthetic lasers throughout Poland.",
+        "Phone: +48 790 402 597 https://lasertechservice.pl/en/"
       ]
     },
     {
@@ -3349,6 +3429,31 @@
       "result": [
         "Po wymianie przewodów i płynu przywróciliśmy cyrkulację. Układ chłodzenia działa prawidłowo, aparat przeszedł sprawdzenie i wrócił do eksploatacji. Klient był zadowolony z wyniku i został stałym klientem Laser Tech Service.",
         "Serwis laserów, regeneracja laserów i naprawa laserów to usługi dobierane do rzeczywistego stanu urządzenia. W tym przypadku naprawa Lumenis LightSheer dotyczyła układu chłodzenia, a nie regeneracji modułu diodowego. Nasz serwis laserów diodowych rozpoczął pracę od ustalenia przyczyny objawów."
+      ]
+    },
+    {
+      "id": "case:realizacje:naprawa-lasera-diodowego-zielona-gora",
+      "title": "Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/",
+      "description": "Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody, konserwacja i czyszczenie głowicy. Serwis na miejscu.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "MOJO H783C-24V"
+      },
+      "fault": [
+        "Klient zgłosił, że urządzenie nie pozwala rozpocząć normalnej pracy. Dla salonu wykonującego zabiegi depilacji laserowej oznaczało to ryzyko odwołania zaplanowanych wizyt.",
+        "Zamiast wysyłać urządzenie do serwisu i czekać kilka dni, klient zdecydował się na naprawę na miejscu.",
+        "Nasi technicy dotarli do Zielonej Góry po około dwóch godzinach."
+      ],
+      "performed_work": [],
+      "result": [
+        "Cała naprawa na miejscu trwała około dwóch godzin. Laser odzyskał sprawność i mógł wrócić do pracy w salonie.",
+        "Ten przypadek pokazuje, że nawet niewielki element układu chłodzenia może zatrzymać całe urządzenie.",
+        "Laser Tech Service wykonuje diagnostykę, naprawy i konserwację laserów kosmetologicznych na terenie Polski, również z dojazdem do klienta.",
+        "Kontakt: +48 790 402 597 https://lasertechservice.pl/"
       ]
     },
     {
@@ -4285,6 +4390,28 @@
       ]
     },
     {
+      "id": "case:ru:realizacje:remont-diodnogo-lazera-zelena-gura",
+      "title": "Ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/",
+      "description": "Выездной ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды, обслуживание системы охлаждения и очистка манипулы.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "MOJO H783C-24V"
+      },
+      "fault": [],
+      "performed_work": [],
+      "result": [
+        "Ремонт занял около двух часов.",
+        "Работоспособность диодного лазера была восстановлена, и салон получил возможность продолжить обслуживание клиентов.",
+        "Иногда причиной остановки дорогостоящего оборудования становится небольшой компонент, который невозможно правильно диагностировать без проверки системы.",
+        "Laser Tech Service выполняет выездную диагностику, ремонт и техническое обслуживание косметологических лазеров по всей Польше.",
+        "Телефон: +48 790 402 597 https://lasertechservice.pl/ru/"
+      ]
+    },
+    {
       "id": "case:ru:realizacje:remont-lumenis-lightsheer-desire-olesnica",
       "title": "Ремонт Lumenis LightSheer DESIRE в Олеснице — утечка жидкости и неисправность системы охлаждения",
       "language": "ru",
@@ -4723,6 +4850,7 @@
       "https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/": "https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/index.md",
       "https://lasertechservice.pl/blog/kontrola-uzywanego-lasera-przed-zakupem/": "https://lasertechservice.pl/blog/kontrola-uzywanego-lasera-przed-zakupem/index.md",
       "https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/": "https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/index.md",
+      "https://lasertechservice.pl/blog/laser-nie-dziala-czujnik-przeplywu-wody/": "https://lasertechservice.pl/blog/laser-nie-dziala-czujnik-przeplywu-wody/index.md",
       "https://lasertechservice.pl/blog/laser-po-roku-przestoju-uklad-chlodzenia/": "https://lasertechservice.pl/blog/laser-po-roku-przestoju-uklad-chlodzenia/index.md",
       "https://lasertechservice.pl/blog/laser-tech-service-zlota-firma-2026/": "https://lasertechservice.pl/blog/laser-tech-service-zlota-firma-2026/index.md",
       "https://lasertechservice.pl/blog/lasery-dinozaury-wiek-stan-techniczny/": "https://lasertechservice.pl/blog/lasery-dinozaury-wiek-stan-techniczny/index.md",
@@ -4751,6 +4879,7 @@
       "https://lasertechservice.pl/en/blog/damaged-handpiece-cable/": "https://lasertechservice.pl/en/blog/damaged-handpiece-cable/index.md",
       "https://lasertechservice.pl/en/blog/dinosaur-lasers-age-technical-condition/": "https://lasertechservice.pl/en/blog/dinosaur-lasers-age-technical-condition/index.md",
       "https://lasertechservice.pl/en/blog/diode-laser-handpiece-seals-optics/": "https://lasertechservice.pl/en/blog/diode-laser-handpiece-seals-optics/index.md",
+      "https://lasertechservice.pl/en/blog/diode-laser-not-starting-water-flow-sensor/": "https://lasertechservice.pl/en/blog/diode-laser-not-starting-water-flow-sensor/index.md",
       "https://lasertechservice.pl/en/blog/diode-laser-water-filter-replacement/": "https://lasertechservice.pl/en/blog/diode-laser-water-filter-replacement/index.md",
       "https://lasertechservice.pl/en/blog/five-signs-laser-diode-needs-inspection/": "https://lasertechservice.pl/en/blog/five-signs-laser-diode-needs-inspection/index.md",
       "https://lasertechservice.pl/en/blog/hair-removal-laser-cooling-water-maintenance/": "https://lasertechservice.pl/en/blog/hair-removal-laser-cooling-water-maintenance/index.md",
@@ -4789,6 +4918,7 @@
       "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-replacement-wroclaw/": "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-replacement-wroclaw/index.md",
       "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-service-poznan/": "https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-service-poznan/index.md",
       "https://lasertechservice.pl/en/case-studies/diode-laser-overheating-gliwice-water-filter/": "https://lasertechservice.pl/en/case-studies/diode-laser-overheating-gliwice-water-filter/index.md",
+      "https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/": "https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/index.md",
       "https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/": "https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/index.md",
       "https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/": "https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/index.md",
       "https://lasertechservice.pl/en/case-studies/estelase-power-p808l-maintenance/": "https://lasertechservice.pl/en/case-studies/estelase-power-p808l-maintenance/index.md",
@@ -4841,6 +4971,7 @@
       "https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/": "https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/": "https://lasertechservice.pl/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-chlodzenia-lightsheer-desire-wroclaw/": "https://lasertechservice.pl/realizacje/naprawa-chlodzenia-lightsheer-desire-wroclaw/index.md",
+      "https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/": "https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/": "https://lasertechservice.pl/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/": "https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/": "https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/index.md",
@@ -4880,6 +5011,7 @@
       "https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/": "https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/index.md",
       "https://lasertechservice.pl/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/": "https://lasertechservice.pl/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/index.md",
       "https://lasertechservice.pl/ru/blog/laser-tech-service-zlota-firma-2026/": "https://lasertechservice.pl/ru/blog/laser-tech-service-zlota-firma-2026/index.md",
+      "https://lasertechservice.pl/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/": "https://lasertechservice.pl/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/index.md",
       "https://lasertechservice.pl/ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/": "https://lasertechservice.pl/ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/index.md",
       "https://lasertechservice.pl/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/": "https://lasertechservice.pl/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/index.md",
       "https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/": "https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/index.md",
@@ -4925,6 +5057,7 @@
       "https://lasertechservice.pl/ru/realizacje/przeglad-estelase-power-p808l/": "https://lasertechservice.pl/ru/realizacje/przeglad-estelase-power-p808l/index.md",
       "https://lasertechservice.pl/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/": "https://lasertechservice.pl/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/index.md",
       "https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/": "https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/index.md",
+      "https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/": "https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/index.md",
       "https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/": "https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/index.md",
       "https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/": "https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/index.md",
       "https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/": "https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/index.md",
@@ -4980,5 +5113,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-11-17T13:19:31Z"
+  "generated_at": "2026-11-20T18:55:58Z"
 }

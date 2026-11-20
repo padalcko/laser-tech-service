@@ -10,6 +10,12 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/), [
 
 Praktyczna wiedza o serwisie, diagnostyce, naprawach i eksploatacji urządzeń laserowych oraz kosmetycznych.
 
+Układ chłodzenia20 listopada 2026
+
+## [Laser nie działa? Czasami winny jest mały czujnik, a nie drogi moduł laserowy](https://lasertechservice.pl/blog/laser-nie-dziala-czujnik-przeplywu-wody/)
+
+Dlaczego laser diodowy nie chce się uruchomić? Poznaj przypadek awarii czujnika przepływu wody i naprawy na miejscu w Zielonej Górze.
+
 Laser Tech Service2026-11-17
 
 ## [Kupujesz używany laser kosmetyczny? Sprawdź, ile może kosztować pozorna oszczędność](https://lasertechservice.pl/blog/kontrola-uzywanego-lasera-przed-zakupem/)
@@ -222,6 +228,7 @@ Gwarancja, dokumentacja wykonanych prac, historia serwisowa, możliwość szybki
 
 ## Powiązane artykuły
 
+- [Laser nie działa? Czasami winny jest mały czujnik, a nie drogi moduł laserowy](https://lasertechservice.pl/blog/laser-nie-dziala-czujnik-przeplywu-wody/)
 - [Kupujesz używany laser kosmetyczny? Sprawdź, ile może kosztować pozorna oszczędność](https://lasertechservice.pl/blog/kontrola-uzywanego-lasera-przed-zakupem/)
 - [Dlaczego cenimy salony, które dbają o swoje lasery? PURE STUDIO we Wrocławiu jako przykład odpowiedzialnego podejścia](https://lasertechservice.pl/blog/dlaczego-regularny-serwis-lasera-jest-wazny-pure-studio/)
 - [Ile mocy naprawdę ma Twój laser? Laser Tech Service rozszerza możliwości diagnostyczne](https://lasertechservice.pl/blog/pomiar-mocy-lasera-laserpoint/)

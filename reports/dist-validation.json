@@ -1,14 +1,14 @@
 {
   "status": "PASS",
-  "source_pages": 274,
-  "dist_pages": 274,
+  "source_pages": 280,
+  "dist_pages": 280,
   "languages": {
-    "pl": 92,
-    "en": 91,
-    "ru": 91
+    "pl": 94,
+    "en": 93,
+    "ru": 93
   },
-  "public_files": 1791,
-  "sitemap_urls": 273,
+  "public_files": 1863,
+  "sitemap_urls": 279,
   "missing_pages": [],
   "dist_only_pages": [],
   "pages": [
@@ -186,6 +186,16 @@
       "source": "blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/index.html",
       "dist": true,
       "url": "/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/",
+      "language": "pl",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "blog/laser-nie-dziala-czujnik-przeplywu-wody/index.html",
+      "dist": true,
+      "url": "/blog/laser-nie-dziala-czujnik-przeplywu-wody/",
       "language": "pl",
       "seo_preserved": true,
       "noindex": false,
@@ -446,6 +456,16 @@
       "source": "en/blog/diode-laser-handpiece-seals-optics/index.html",
       "dist": true,
       "url": "/en/blog/diode-laser-handpiece-seals-optics/",
+      "language": "en",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "en/blog/diode-laser-not-starting-water-flow-sensor/index.html",
+      "dist": true,
+      "url": "/en/blog/diode-laser-not-starting-water-flow-sensor/",
       "language": "en",
       "seo_preserved": true,
       "noindex": false,
@@ -826,6 +846,16 @@
       "source": "en/case-studies/diode-laser-overheating-gliwice-water-filter/index.html",
       "dist": true,
       "url": "/en/case-studies/diode-laser-overheating-gliwice-water-filter/",
+      "language": "en",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "en/case-studies/diode-laser-repair-zielona-gora/index.html",
+      "dist": true,
+      "url": "/en/case-studies/diode-laser-repair-zielona-gora/",
       "language": "en",
       "seo_preserved": true,
       "noindex": false,
@@ -1383,6 +1413,16 @@
       "status": "ready"
     },
     {
+      "source": "realizacje/naprawa-lasera-diodowego-zielona-gora/index.html",
+      "dist": true,
+      "url": "/realizacje/naprawa-lasera-diodowego-zielona-gora/",
+      "language": "pl",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
       "source": "realizacje/naprawa-lumenis-lightsheer-desire-olesnica/index.html",
       "dist": true,
       "url": "/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/",
@@ -1756,6 +1796,16 @@
       "source": "ru/blog/laser-tech-service-zlota-firma-2026/index.html",
       "dist": true,
       "url": "/ru/blog/laser-tech-service-zlota-firma-2026/",
+      "language": "ru",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/index.html",
+      "dist": true,
+      "url": "/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/",
       "language": "ru",
       "seo_preserved": true,
       "noindex": false,
@@ -2216,6 +2266,16 @@
       "source": "ru/realizacje/przeglad-techniczny-lasera-do-depilacji/index.html",
       "dist": true,
       "url": "/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/",
+      "language": "ru",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "ru/realizacje/remont-diodnogo-lazera-zelena-gura/index.html",
+      "dist": true,
+      "url": "/ru/realizacje/remont-diodnogo-lazera-zelena-gura/",
       "language": "ru",
       "seo_preserved": true,
       "noindex": false,

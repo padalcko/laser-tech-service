@@ -156,6 +156,16 @@ Frontend Developer & SEO Engineer
 
 Каждый ремонт — отдельная техническая задача. Посмотрите реальные примеры неисправностей и выполненных работ.
 
+![Диодный лазер спереди во время ремонта в Зелёна-Гуре](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
+
+Zielona GóraСистема охлаждения
+
+### [Ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)
+
+Выездной ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды, обслуживание системы охлаждения и очистка манипулы.
+
+[Посмотреть реализацию](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)
+
 ![Ресепшен салона PURE STUDIO во Вроцлаве](https://lasertechservice.pl/img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera.webp)
 
 WrocławPURE STUDIO
@@ -175,16 +185,6 @@ WrocławPURE STUDIO
 В Laser Tech Service обратился клиент из города Свидница с проблемой немецкого косметологического аппарата smartPULS. По словам клиента, в манипуле перестала работать IPL-лампа. Первоначально предполагалось, что лампа перегорела и требует замены.
 
 [Подробнее](https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/)
-
-![Диодный лазер с экраном, манипулой и шлангом на тележке](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa.webp)
-
-Варшава808 nm · HS-A0406
-
-### [Полное техническое обслуживание диодного лазера 808 нм в Варшаве — охлаждение, очистка и герметизация манипулы](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/)
-
-Полное обслуживание диодного лазера 808 нм в Варшаве: замена охлаждающей жидкости, очистка, проверка мощности и герметизация манипулы.
-
-[Подробнее](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/)
 
 [Все наши работы](https://lasertechservice.pl/ru/realizacje/)[Блог](https://lasertechservice.pl/ru/blog/)
 
@@ -229,6 +229,6 @@ ul. Marszałka Józefa Piłsudskiego 74, lok. 320
 
 ## Связанные работы
 
+- [Ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)
 - [Обслуживание диодного лазера в PURE STUDIO, Вроцлав — замена корпуса манипулы и проверка мощности](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/)
 - [smartPULS — восстановление работы IPL-манипулы в Свиднице](https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/)
-- [Полное техническое обслуживание диодного лазера 808 нм в Варшаве — охлаждение, очистка и герметизация манипулы](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/)

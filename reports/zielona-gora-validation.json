@@ -1,0 +1,424 @@
+{
+  "status": "PASS",
+  "date": "2026-11-20",
+  "scope": "Local source and dist only; no commit, push, remote CI or deployment",
+  "routes": {
+    "case": {
+      "pl": "/realizacje/naprawa-lasera-diodowego-zielona-gora/",
+      "ru": "/ru/realizacje/remont-diodnogo-lazera-zelena-gura/",
+      "en": "/en/case-studies/diode-laser-repair-zielona-gora/"
+    },
+    "blog": {
+      "pl": "/blog/laser-nie-dziala-czujnik-przeplywu-wody/",
+      "ru": "/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/",
+      "en": "/en/blog/diode-laser-not-starting-water-flow-sensor/"
+    }
+  },
+  "dist_routes": [
+    {
+      "source": "realizacje/naprawa-lasera-diodowego-zielona-gora/index.html",
+      "dist": true,
+      "url": "/realizacje/naprawa-lasera-diodowego-zielona-gora/",
+      "language": "pl",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "ru/realizacje/remont-diodnogo-lazera-zelena-gura/index.html",
+      "dist": true,
+      "url": "/ru/realizacje/remont-diodnogo-lazera-zelena-gura/",
+      "language": "ru",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "en/case-studies/diode-laser-repair-zielona-gora/index.html",
+      "dist": true,
+      "url": "/en/case-studies/diode-laser-repair-zielona-gora/",
+      "language": "en",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "blog/laser-nie-dziala-czujnik-przeplywu-wody/index.html",
+      "dist": true,
+      "url": "/blog/laser-nie-dziala-czujnik-przeplywu-wody/",
+      "language": "pl",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/index.html",
+      "dist": true,
+      "url": "/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/",
+      "language": "ru",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "en/blog/diode-laser-not-starting-water-flow-sensor/index.html",
+      "dist": true,
+      "url": "/en/blog/diode-laser-not-starting-water-flow-sensor/",
+      "language": "en",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    }
+  ],
+  "source_templates": {
+    "case": "/realizacje/przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra/",
+    "blog": "/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/"
+  },
+  "copy": {
+    "six_supplied_texts": "Exact headings, leads and paragraphs verified against content/zielona-gora-texts.json extracted from user attachment",
+    "sections": 36,
+    "original_typo_preserved": "man ipulę",
+    "existing_articles_and_cases_unchanged": 201
+  },
+  "photos": {
+    "originals": 12,
+    "missing": [],
+    "format": "WebP",
+    "responsive_files": 60,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "bytes": 5105608,
+    "exif_xmp_icc": "Removed and checked with Pillow",
+    "cropping": "Image assets unchanged. Case hero, narrative images, gallery previews and cards use the shared cover styling of the Pharaon reference; full images are available in the viewer.",
+    "ai_retouch": false,
+    "shared_across_languages": true,
+    "gallery": 12,
+    "blog_images_per_language": 5,
+    "hero_case": "IMG_8507.heic",
+    "hero_blog": "IMG_8513.heic",
+    "watermark": "No active watermark standard found in the reference workflow; no added watermark"
+  },
+  "validation": {
+    "build": "python3 scripts/build-site.py: exit 0 (includes package-site.py and validate-dist.py)",
+    "npm": "Unavailable in this environment; ran the exact Python entry point from package.json",
+    "independent_dist": "python3 scripts/validate-dist.py: exit 0",
+    "scoped": "python3 scripts/check-zielona-gora.py: exit 0",
+    "seo_geo_ai": "Built-in check-site-locales, check-language-switcher, check-ai-search, check-geo-seo passed",
+    "diff": "git diff --check passed",
+    "browser": {
+      "results": [
+        {
+          "url": "/realizacje/naprawa-lasera-diodowego-zielona-gora/",
+          "width": 320,
+          "overflow": false
+        },
+        {
+          "url": "/realizacje/naprawa-lasera-diodowego-zielona-gora/",
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "url": "/realizacje/naprawa-lasera-diodowego-zielona-gora/",
+          "width": 1440,
+          "overflow": false
+        },
+        {
+          "url": "/ru/realizacje/remont-diodnogo-lazera-zelena-gura/",
+          "width": 320,
+          "overflow": false
+        },
+        {
+          "url": "/ru/realizacje/remont-diodnogo-lazera-zelena-gura/",
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "url": "/ru/realizacje/remont-diodnogo-lazera-zelena-gura/",
+          "width": 1440,
+          "overflow": false
+        },
+        {
+          "url": "/en/case-studies/diode-laser-repair-zielona-gora/",
+          "width": 320,
+          "overflow": false
+        },
+        {
+          "url": "/en/case-studies/diode-laser-repair-zielona-gora/",
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "url": "/en/case-studies/diode-laser-repair-zielona-gora/",
+          "width": 1440,
+          "overflow": false
+        },
+        {
+          "url": "/blog/laser-nie-dziala-czujnik-przeplywu-wody/",
+          "width": 320,
+          "overflow": false
+        },
+        {
+          "url": "/blog/laser-nie-dziala-czujnik-przeplywu-wody/",
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "url": "/blog/laser-nie-dziala-czujnik-przeplywu-wody/",
+          "width": 1440,
+          "overflow": false
+        },
+        {
+          "url": "/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/",
+          "width": 320,
+          "overflow": false
+        },
+        {
+          "url": "/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/",
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "url": "/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/",
+          "width": 1440,
+          "overflow": false
+        },
+        {
+          "url": "/en/blog/diode-laser-not-starting-water-flow-sensor/",
+          "width": 320,
+          "overflow": false
+        },
+        {
+          "url": "/en/blog/diode-laser-not-starting-water-flow-sensor/",
+          "width": 390,
+          "overflow": false
+        },
+        {
+          "url": "/en/blog/diode-laser-not-starting-water-flow-sensor/",
+          "width": 1440,
+          "overflow": false
+        }
+      ],
+      "errors": [],
+      "languageTransitions": 12,
+      "galleries": 3,
+      "listingCards": 6,
+      "externalRequests": "blocked"
+    },
+    "screenshots": "/tmp/zielona/; case/blog PL/RU/EN at 390 and 1440 px plus photo sections; representative case and blog screenshots visually inspected",
+    "pharaon_visual_correction": {
+      "results": [
+        {
+          "url": "/realizacje/naprawa-lasera-diodowego-zielona-gora/",
+          "width": 390,
+          "referenceMatch": true
+        },
+        {
+          "url": "/realizacje/",
+          "width": 390,
+          "cardCover": true
+        },
+        {
+          "url": "/o-nas/",
+          "width": 390,
+          "cardCover": true
+        },
+        {
+          "url": "/ru/realizacje/remont-diodnogo-lazera-zelena-gura/",
+          "width": 390,
+          "referenceMatch": true
+        },
+        {
+          "url": "/ru/realizacje/",
+          "width": 390,
+          "cardCover": true
+        },
+        {
+          "url": "/ru/o-nas/",
+          "width": 390,
+          "cardCover": true
+        },
+        {
+          "url": "/en/case-studies/diode-laser-repair-zielona-gora/",
+          "width": 390,
+          "referenceMatch": true
+        },
+        {
+          "url": "/en/case-studies/",
+          "width": 390,
+          "cardCover": true
+        },
+        {
+          "url": "/en/about-us/",
+          "width": 390,
+          "cardCover": true
+        },
+        {
+          "url": "/realizacje/naprawa-lasera-diodowego-zielona-gora/",
+          "width": 1440,
+          "referenceMatch": true
+        },
+        {
+          "url": "/realizacje/",
+          "width": 1440,
+          "cardCover": true
+        },
+        {
+          "url": "/o-nas/",
+          "width": 1440,
+          "cardCover": true
+        },
+        {
+          "url": "/ru/realizacje/remont-diodnogo-lazera-zelena-gura/",
+          "width": 1440,
+          "referenceMatch": true
+        },
+        {
+          "url": "/ru/realizacje/",
+          "width": 1440,
+          "cardCover": true
+        },
+        {
+          "url": "/ru/o-nas/",
+          "width": 1440,
+          "cardCover": true
+        },
+        {
+          "url": "/en/case-studies/diode-laser-repair-zielona-gora/",
+          "width": 1440,
+          "referenceMatch": true
+        },
+        {
+          "url": "/en/case-studies/",
+          "width": 1440,
+          "cardCover": true
+        },
+        {
+          "url": "/en/about-us/",
+          "width": 1440,
+          "cardCover": true
+        }
+      ],
+      "errors": []
+    },
+    "visual_inspection": "Corrected RU About card and RU case hero inspected: images fill frames, no side bands. Desktop/mobile geometry compared with Pharaon for all three locales."
+  },
+  "design": "Existing shared templates, styles, navigation, footer, analytics and consent preserved; no CSS or JS changes",
+  "derived_about_pages": "The existing build-about.py automatically refreshed the three latest-case cards to include the new case; no manual About copy changes",
+  "publication_date": "2026-11-20 preparation date; repair date not invented; actual deployment and indexing not performed",
+  "changed_files": [
+    "_headers",
+    "ai-catalog.json",
+    "blog/index.html",
+    "blog/index.md",
+    "blog/laser-nie-dziala-czujnik-przeplywu-wody/index.html",
+    "blog/laser-nie-dziala-czujnik-przeplywu-wody/index.md",
+    "content/zielona-gora-images.json",
+    "content/zielona-gora-texts.json",
+    "en/about-us/index.html",
+    "en/about-us/index.md",
+    "en/blog/diode-laser-not-starting-water-flow-sensor/index.html",
+    "en/blog/diode-laser-not-starting-water-flow-sensor/index.md",
+    "en/blog/index.html",
+    "en/blog/index.md",
+    "en/case-studies/diode-laser-repair-zielona-gora/index.html",
+    "en/case-studies/diode-laser-repair-zielona-gora/index.md",
+    "en/case-studies/index.html",
+    "en/case-studies/index.md",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/czujnik-przeplywu-wody-laser-320w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/czujnik-przeplywu-wody-laser-480w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/czujnik-przeplywu-wody-laser-640w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/czujnik-przeplywu-wody-laser-960w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/czujnik-przeplywu-wody-laser.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/czyszczenie-glowicy-laserowej-320w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/czyszczenie-glowicy-laserowej-480w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/czyszczenie-glowicy-laserowej-640w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/czyszczenie-glowicy-laserowej-960w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/czyszczenie-glowicy-laserowej.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/diagnostyka-czujnika-przeplywu-320w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/diagnostyka-czujnika-przeplywu-480w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/diagnostyka-czujnika-przeplywu-640w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/diagnostyka-czujnika-przeplywu-960w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/diagnostyka-czujnika-przeplywu.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/diagnostyka-lasera-diodowego-320w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/diagnostyka-lasera-diodowego-480w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/diagnostyka-lasera-diodowego-640w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/diagnostyka-lasera-diodowego-960w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/diagnostyka-lasera-diodowego.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/konserwacja-manipuly-lasera-320w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/konserwacja-manipuly-lasera-480w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/konserwacja-manipuly-lasera-640w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/konserwacja-manipuly-lasera-960w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/konserwacja-manipuly-lasera.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/ksiazka-serwisowa-lasera-320w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/ksiazka-serwisowa-lasera-480w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/ksiazka-serwisowa-lasera-640w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/ksiazka-serwisowa-lasera-960w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/ksiazka-serwisowa-lasera.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora-320w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora-480w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora-640w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora-960w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/laser-kosmetyczny-serwis-zielona-gora-320w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/laser-kosmetyczny-serwis-zielona-gora-480w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/laser-kosmetyczny-serwis-zielona-gora-640w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/laser-kosmetyczny-serwis-zielona-gora-960w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/laser-kosmetyczny-serwis-zielona-gora.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/naprawa-ukladu-chlodzenia-lasera-320w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/naprawa-ukladu-chlodzenia-lasera-480w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/naprawa-ukladu-chlodzenia-lasera-640w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/naprawa-ukladu-chlodzenia-lasera-960w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/naprawa-ukladu-chlodzenia-lasera.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/serwis-glowicy-lasera-diodowego-320w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/serwis-glowicy-lasera-diodowego-480w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/serwis-glowicy-lasera-diodowego-640w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/serwis-glowicy-lasera-diodowego-960w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/serwis-glowicy-lasera-diodowego.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/test-lasera-po-naprawie-320w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/test-lasera-po-naprawie-480w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/test-lasera-po-naprawie-640w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/test-lasera-po-naprawie-960w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/test-lasera-po-naprawie.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/uszkodzony-czujnik-mojo-h783c-320w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/uszkodzony-czujnik-mojo-h783c-480w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/uszkodzony-czujnik-mojo-h783c-640w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/uszkodzony-czujnik-mojo-h783c-960w.webp",
+    "img/realizacje/zielona-gora-czujnik-przeplywu/uszkodzony-czujnik-mojo-h783c.webp",
+    "llms-full.txt",
+    "llms.txt",
+    "o-nas/index.html",
+    "o-nas/index.md",
+    "realizacje/index.html",
+    "realizacje/index.md",
+    "realizacje/naprawa-lasera-diodowego-zielona-gora/index.html",
+    "realizacje/naprawa-lasera-diodowego-zielona-gora/index.md",
+    "reports/dist-validation.json",
+    "reports/zielona-gora-validation.json",
+    "ru/blog/index.html",
+    "ru/blog/index.md",
+    "ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/index.html",
+    "ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/index.md",
+    "ru/o-nas/index.html",
+    "ru/o-nas/index.md",
+    "ru/realizacje/index.html",
+    "ru/realizacje/index.md",
+    "ru/realizacje/remont-diodnogo-lazera-zelena-gura/index.html",
+    "ru/realizacje/remont-diodnogo-lazera-zelena-gura/index.md",
+    "scripts/check-zielona-gora.py",
+    "scripts/site-locales.json",
+    "sitemap.xml"
+  ],
+  "visual_reference": "/realizacje/przeglad-serwis-pharaon-1470-wroclaw/",
+  "visual_correction": "Removed the incorrect inline object-fit: contain override from three case pages and all six catalogue/About cards. Shared CSS unchanged."
+}

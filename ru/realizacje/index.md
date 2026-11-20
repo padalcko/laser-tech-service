@@ -16,6 +16,16 @@
 
 Каждое устройство требует индивидуальной диагностики. Ниже представлены отдельные примеры нашей работы.
 
+![Диодный лазер спереди во время ремонта в Зелёна-Гуре](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
+
+Zielona GóraСистема охлаждения
+
+## [Ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)
+
+Выездной ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды, обслуживание системы охлаждения и очистка манипулы.
+
+[Посмотреть реализацию](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)
+
 ![Ресепшен салона PURE STUDIO во Вроцлаве](https://lasertechservice.pl/img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera.webp)
 
 WrocławPURE STUDIO
@@ -394,6 +404,7 @@ RF Вакуум Диагностика Ремонт
 
 ## Связанные работы
 
+- [Ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)
 - [Обслуживание диодного лазера в PURE STUDIO, Вроцлав — замена корпуса манипулы и проверка мощности](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/)
 - [smartPULS — восстановление работы IPL-манипулы в Свиднице](https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/)
 - [Полное техническое обслуживание диодного лазера 808 нм в Варшаве — охлаждение, очистка и герметизация манипулы](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/)

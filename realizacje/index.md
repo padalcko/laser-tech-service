@@ -16,6 +16,16 @@ Pokazujemy rzeczywiste realizacje serwisowe: zakres zlecenia, wykonane prace ora
 
 Każde urządzenie wymaga indywidualnej diagnostyki. Poniżej prezentujemy wybrane realizacje naszego serwisu.
 
+![Przód lasera diodowego podczas serwisu w Zielonej Górze](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
+
+Zielona GóraUkład chłodzenia
+
+## [Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/)
+
+Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody, konserwacja i czyszczenie głowicy. Serwis na miejscu.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/)
+
 ![Recepcja salonu PURE STUDIO we Wrocławiu](https://lasertechservice.pl/img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera.webp)
 
 WrocławPURE STUDIO
@@ -394,6 +404,7 @@ Serwisujemy lasery diodowe, urządzenia ND:YAG, IPL, CO2 oraz inne urządzenia w
 
 ## Powiązane realizacje
 
+- [Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/)
 - [Serwis lasera diodowego w PURE STUDIO Wrocław – wymiana obudowy głowicy i kontrola mocy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/)
 - [smartPULS – przywrócenie działania głowicy IPL w Świdnicy](https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/)
 - [Pełny serwis lasera diodowego 808 nm w Warszawie – konserwacja, chłodzenie i uszczelnienie głowicy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/)

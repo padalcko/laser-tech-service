@@ -10,6 +10,12 @@ Other language version: [Polski](https://lasertechservice.pl/blog/), [Русск
 
 Practical knowledge about servicing, diagnostics, repairs and operation of laser and aesthetic equipment.
 
+Cooling system20 November 2026
+
+## [Diode Laser Not Starting? Sometimes a Small Sensor Is the Problem, Not the Laser Module](https://lasertechservice.pl/en/blog/diode-laser-not-starting-water-flow-sensor/)
+
+Learn how a faulty water flow sensor can prevent a diode laser from operating and how on-site repair reduced downtime in Zielona Góra.
+
 Laser Tech Service2026-11-17
 
 ## [Buying a Used Aesthetic Laser? A Cheap Deal Could Become an Expensive Mistake](https://lasertechservice.pl/en/blog/used-aesthetic-laser-pre-purchase-inspection/)
@@ -222,6 +228,7 @@ Warranty, work documentation, service history, prompt on-site visits and respons
 
 ## Related articles
 
+- [Diode Laser Not Starting? Sometimes a Small Sensor Is the Problem, Not the Laser Module](https://lasertechservice.pl/en/blog/diode-laser-not-starting-water-flow-sensor/)
 - [Buying a Used Aesthetic Laser? A Cheap Deal Could Become an Expensive Mistake](https://lasertechservice.pl/en/blog/used-aesthetic-laser-pre-purchase-inspection/)
 - [Why We Value Beauty Studios That Take Laser Maintenance Seriously: PURE STUDIO in Wrocław](https://lasertechservice.pl/en/blog/why-regular-laser-maintenance-matters-pure-studio/)
 - [How Much Power Does Your Laser Really Deliver? Laser Tech Service Expands Its Diagnostic Capabilities](https://lasertechservice.pl/en/blog/laser-power-measurement-laserpoint/)

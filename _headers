@@ -91,6 +91,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/blog/laser-nie-dziala-czujnik-przeplywu-wody/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/blog/laser-nie-dziala-czujnik-przeplywu-wody/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /blog/laser-po-roku-przestoju-uklad-chlodzenia/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -230,6 +235,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/blog/diode-laser-handpiece-seals-optics/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/en/blog/diode-laser-not-starting-water-flow-sensor/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/blog/diode-laser-not-starting-water-flow-sensor/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /en/blog/diode-laser-water-filter-replacement/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -420,6 +430,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/case-studies/diode-laser-overheating-gliwice-water-filter/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/en/case-studies/diode-laser-repair-zielona-gora/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /en/case-studies/diode-laser-service-pure-studio-wroclaw/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -681,6 +696,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/realizacje/naprawa-chlodzenia-lightsheer-desire-wroclaw/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/realizacje/naprawa-lasera-diodowego-zielona-gora/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /realizacje/naprawa-lumenis-lightsheer-desire-olesnica/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -875,6 +895,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/blog/laser-tech-service-zlota-firma-2026/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -1100,6 +1125,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/realizacje/remont-diodnogo-lazera-zelena-gura/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/index.md
   Content-Type: text/markdown; charset=utf-8

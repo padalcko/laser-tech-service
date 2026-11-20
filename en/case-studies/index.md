@@ -16,6 +16,16 @@ Actual service work: the job scope, completed repairs and photographic and video
 
 Every device needs individual diagnostics. Explore selected examples of our service work below.
 
+![Front of the diode laser during servicing in Zielona Góra](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
+
+Zielona GóraCooling system
+
+## [Diode Laser Repair in Zielona Góra. Water Flow Sensor Replacement](https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/)
+
+On-site diode laser repair in Zielona Góra. Water flow sensor replacement, cooling system maintenance and laser handpiece cleaning.
+
+[View case study](https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/)
+
 ![Reception at PURE STUDIO in Wrocław](https://lasertechservice.pl/img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera.webp)
 
 WrocławPURE STUDIO
@@ -394,6 +404,7 @@ We service diode lasers, Nd:YAG, IPL, CO₂ and other equipment used in aestheti
 
 ## Related repairs
 
+- [Diode Laser Repair in Zielona Góra. Water Flow Sensor Replacement](https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/)
 - [Diode Laser Servicing at PURE STUDIO Wrocław – Handpiece Housing Replacement and Power Verification](https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/)
 - [smartPULS IPL Handpiece Repair in Świdnica](https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/)
 - [Complete 808 nm Diode Laser Maintenance in Warsaw – Cooling System Service and Handpiece Sealing](https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/)

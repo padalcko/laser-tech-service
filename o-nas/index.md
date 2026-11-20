@@ -156,6 +156,16 @@ Wyjaśniamy zakres prac, możliwe rozwiązania i warunki gwarancji.
 
 Każda naprawa to inna historia, inna usterka i konkretne rozwiązanie techniczne. Zobacz wybrane realizacje Laser Tech Service.
 
+![Przód lasera diodowego podczas serwisu w Zielonej Górze](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
+
+Zielona GóraUkład chłodzenia
+
+### [Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/)
+
+Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody, konserwacja i czyszczenie głowicy. Serwis na miejscu.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/)
+
 ![Recepcja salonu PURE STUDIO we Wrocławiu](https://lasertechservice.pl/img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera.webp)
 
 WrocławPURE STUDIO
@@ -175,16 +185,6 @@ Wymiana obudowy głowicy lasera, czyszczenie optyki, uszczelnienie i pomiar mocy
 Do Laser Tech Service zgłosił się klient ze Świdnicy z problemem dotyczącym niemieckiego urządzenia smartPULS, wykorzystywanego do zabiegów kosmetologicznych z zastosowaniem technologii IPL. Według zgłoszenia lampa w głowicy przestała działać i podejrzewano jej przepalenie.
 
 [Zobacz realizację](https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/)
-
-![Laser diodowy z ekranem, głowicą i przewodem na wózku](https://lasertechservice.pl/img/realizacje/diode-808-warsaw/laser-diodowy-808nm-serwis-warszawa.webp)
-
-Warszawa808 nm · HS-A0406
-
-### [Pełny serwis lasera diodowego 808 nm w Warszawie – konserwacja, chłodzenie i uszczelnienie głowicy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/)
-
-Pełny serwis lasera diodowego 808 nm w Warszawie. Wymiana płynu, czyszczenie, kontrola mocy diody i uszczelnienie głowicy. Laser Tech Service.
-
-[Zobacz realizację](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/)
 
 [Zobacz wszystkie realizacje](https://lasertechservice.pl/realizacje/)[Blog](https://lasertechservice.pl/blog/)
 
@@ -229,6 +229,6 @@ Czas trwania i warunki gwarancji zależą od rodzaju naprawy oraz uzgodnionych w
 
 ## Powiązane realizacje
 
+- [Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/)
 - [Serwis lasera diodowego w PURE STUDIO Wrocław – wymiana obudowy głowicy i kontrola mocy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/)
 - [smartPULS – przywrócenie działania głowicy IPL w Świdnicy](https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/)
-- [Pełny serwis lasera diodowego 808 nm w Warszawie – konserwacja, chłodzenie i uszczelnienie głowicy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/)

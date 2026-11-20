@@ -10,6 +10,12 @@
 
 Пишем о том, с чем сталкиваемся каждый день: ремонте лазеров, диагностике неисправностей, обслуживании косметологического оборудования и обычных проблемах, которые возникают у владельцев салонов и кабинетов.
 
+Система охлаждения20 ноября 2026
+
+## [Лазер не запускается? Иногда виноват маленький датчик, а не дорогой лазерный модуль](https://lasertechservice.pl/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/)
+
+Почему диодный лазер не работает? Реальный случай неисправности датчика потока воды и выездного ремонта в Зелёна-Гуре.
+
 Laser Tech Service2026-11-17
 
 ## [Покупаете подержанный косметологический лазер? Узнайте, чем может обернуться экономия](https://lasertechservice.pl/ru/blog/proverka-bu-lazera-pered-pokupkoy/)
@@ -222,6 +228,7 @@ Pharaon 1470, LSO Medical и OSYRIS: история обозначений, ос
 
 ## Связанные статьи
 
+- [Лазер не запускается? Иногда виноват маленький датчик, а не дорогой лазерный модуль](https://lasertechservice.pl/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/)
 - [Покупаете подержанный косметологический лазер? Узнайте, чем может обернуться экономия](https://lasertechservice.pl/ru/blog/proverka-bu-lazera-pered-pokupkoy/)
 - [Почему мы ценим салоны, которые заботятся о своих лазерах? PURE STUDIO во Вроцлаве](https://lasertechservice.pl/ru/blog/pochemu-vazhno-obsluzhivat-lazer-pure-studio/)
 - [Сколько мощности на самом деле выдаёт ваш лазер? Laser Tech Service расширяет возможности диагностики](https://lasertechservice.pl/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/)
