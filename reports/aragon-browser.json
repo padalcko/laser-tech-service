@@ -1,0 +1,105 @@
+{
+  "results": [
+    {
+      "route": "/realizacje/serwis-lasera-aragon-wroclaw/",
+      "width": 320
+    },
+    {
+      "route": "/realizacje/serwis-lasera-aragon-wroclaw/",
+      "width": 1440
+    },
+    {
+      "route": "/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/",
+      "width": 320
+    },
+    {
+      "route": "/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/",
+      "width": 1440
+    },
+    {
+      "route": "/en/case-studies/aragon-diode-laser-service-wroclaw/",
+      "width": 320
+    },
+    {
+      "route": "/en/case-studies/aragon-diode-laser-service-wroclaw/",
+      "width": 1440
+    },
+    {
+      "route": "/blog/filtr-chlodzenia-lasera-diodowego/",
+      "width": 320
+    },
+    {
+      "route": "/blog/filtr-chlodzenia-lasera-diodowego/",
+      "width": 1440
+    },
+    {
+      "route": "/ru/blog/filtr-ohlazhdeniya-diodnogo-lasera/",
+      "width": 320
+    },
+    {
+      "route": "/ru/blog/filtr-ohlazhdeniya-diodnogo-lasera/",
+      "width": 1440
+    },
+    {
+      "route": "/en/blog/diode-laser-cooling-filter-maintenance/",
+      "width": 320
+    },
+    {
+      "route": "/en/blog/diode-laser-cooling-filter-maintenance/",
+      "width": 1440
+    },
+    {
+      "route": "/blog/przeglad-techniczny-lasera-diodowego-checklista/",
+      "width": 320
+    },
+    {
+      "route": "/blog/przeglad-techniczny-lasera-diodowego-checklista/",
+      "width": 1440
+    },
+    {
+      "route": "/ru/blog/chek-list-obsluzhivaniya-diodnogo-lasera/",
+      "width": 320
+    },
+    {
+      "route": "/ru/blog/chek-list-obsluzhivaniya-diodnogo-lasera/",
+      "width": 1440
+    },
+    {
+      "route": "/en/blog/diode-laser-maintenance-checklist/",
+      "width": 320
+    },
+    {
+      "route": "/en/blog/diode-laser-maintenance-checklist/",
+      "width": 1440
+    },
+    {
+      "route": "/blog/jaka-woda-do-lasera-diodowego/",
+      "width": 320
+    },
+    {
+      "route": "/blog/jaka-woda-do-lasera-diodowego/",
+      "width": 1440
+    },
+    {
+      "route": "/ru/blog/kakuyu-vodu-zalivat-v-diodnyy-lazer/",
+      "width": 320
+    },
+    {
+      "route": "/ru/blog/kakuyu-vodu-zalivat-v-diodnyy-lazer/",
+      "width": 1440
+    },
+    {
+      "route": "/en/blog/diode-laser-cooling-water-guide/",
+      "width": 320
+    },
+    {
+      "route": "/en/blog/diode-laser-cooling-water-guide/",
+      "width": 1440
+    }
+  ],
+  "errors": [],
+  "badResponses": [],
+  "languageSwitchers": 12,
+  "mobileMenus": 12,
+  "photoDialogs": 3
+}

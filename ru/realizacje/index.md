@@ -16,6 +16,16 @@
 
 Каждое устройство требует индивидуальной диагностики. Ниже представлены отдельные примеры нашей работы.
 
+![Манипула и экран лазера Aragon Beauty Planet во время обслуживания](https://lasertechservice.pl/img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka.webp)
+
+WrocławAragon / Beauty Planet
+
+## [Техническое обслуживание диодного лазера Aragon во Вроцлаве. Замена фильтра и охлаждающей жидкости](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/)
+
+Обслуживание диодного лазера Aragon Beauty Planet во Вроцлаве. Замена фильтра, охлаждающей воды и проверка системы охлаждения.
+
+[Смотреть реализацию](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/)
+
 ![Диодный лазер спереди во время ремонта в Зелёна-Гуре](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
 
 Zielona GóraСистема охлаждения
@@ -404,6 +414,7 @@ RF Вакуум Диагностика Ремонт
 
 ## Связанные работы
 
+- [Техническое обслуживание диодного лазера Aragon во Вроцлаве. Замена фильтра и охлаждающей жидкости](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/)
 - [Ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)
 - [Обслуживание диодного лазера в PURE STUDIO, Вроцлав — замена корпуса манипулы и проверка мощности](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/)
 - [smartPULS — восстановление работы IPL-манипулы в Свиднице](https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/)

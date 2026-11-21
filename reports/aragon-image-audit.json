@@ -1,0 +1,134 @@
+[
+  {
+    "original": "/Users/macbookpro/Downloads/IMG_8476.heic",
+    "sha256": "2b14924a01b5b5d26c21af4eae98bcc8e9ca8b9cdb6dd32fb12a0f18abcb518d",
+    "width": 3213,
+    "height": 5712,
+    "derivatives": [
+      {
+        "file": "img/realizacje/aragon-wroclaw/filtry-ukladu-chlodzenia-lasera-porownanie-320w.webp",
+        "bytes": 23274
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/filtry-ukladu-chlodzenia-lasera-porownanie-480w.webp",
+        "bytes": 37752
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/filtry-ukladu-chlodzenia-lasera-porownanie-640w.webp",
+        "bytes": 53800
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/filtry-ukladu-chlodzenia-lasera-porownanie-768w.webp",
+        "bytes": 66244
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/filtry-ukladu-chlodzenia-lasera-porownanie-960w.webp",
+        "bytes": 87908
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/filtry-ukladu-chlodzenia-lasera-porownanie.webp",
+        "bytes": 125570
+      }
+    ],
+    "watermark": "Subtle bottom-right Laser Tech Service; full frame; no technical details obscured"
+  },
+  {
+    "original": "/Users/macbookpro/Downloads/IMG_8477.heic",
+    "sha256": "e8aa9793959640b8ed41bdf6380db592b1f57f1c4ed21c11701c9c2611f1320b",
+    "width": 3213,
+    "height": 5712,
+    "derivatives": [
+      {
+        "file": "img/realizacje/aragon-wroclaw/wymiana-wody-chlodzacej-laser-diodowy-320w.webp",
+        "bytes": 19554
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/wymiana-wody-chlodzacej-laser-diodowy-480w.webp",
+        "bytes": 36848
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/wymiana-wody-chlodzacej-laser-diodowy-640w.webp",
+        "bytes": 57710
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/wymiana-wody-chlodzacej-laser-diodowy-768w.webp",
+        "bytes": 77502
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/wymiana-wody-chlodzacej-laser-diodowy-960w.webp",
+        "bytes": 114814
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/wymiana-wody-chlodzacej-laser-diodowy.webp",
+        "bytes": 197028
+      }
+    ],
+    "watermark": "Subtle bottom-right Laser Tech Service; full frame; no technical details obscured"
+  },
+  {
+    "original": "/Users/macbookpro/Downloads/IMG_8478.heic",
+    "sha256": "9ef755bebdb8827edf64457c8514c1a2a41913665b915d3df30f7177c205efe8",
+    "width": 2268,
+    "height": 4032,
+    "derivatives": [
+      {
+        "file": "img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka-320w.webp",
+        "bytes": 17698
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka-480w.webp",
+        "bytes": 31046
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka-640w.webp",
+        "bytes": 46266
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka-768w.webp",
+        "bytes": 59038
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka-960w.webp",
+        "bytes": 80380
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka.webp",
+        "bytes": 120950
+      }
+    ],
+    "watermark": "Subtle bottom-right Laser Tech Service; full frame; no technical details obscured"
+  },
+  {
+    "original": "/Users/macbookpro/Downloads/IMG_8479.heic",
+    "sha256": "559deafb700822fc77ba5af5a30ce52ab68b6317c85229e9f43f3ea68a5af931",
+    "width": 3213,
+    "height": 5712,
+    "derivatives": [
+      {
+        "file": "img/realizacje/aragon-wroclaw/serwis-lasera-aragon-wroclaw-wymiana-filtra-320w.webp",
+        "bytes": 13478
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/serwis-lasera-aragon-wroclaw-wymiana-filtra-480w.webp",
+        "bytes": 21906
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/serwis-lasera-aragon-wroclaw-wymiana-filtra-640w.webp",
+        "bytes": 30322
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/serwis-lasera-aragon-wroclaw-wymiana-filtra-768w.webp",
+        "bytes": 38248
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/serwis-lasera-aragon-wroclaw-wymiana-filtra-960w.webp",
+        "bytes": 50792
+      },
+      {
+        "file": "img/realizacje/aragon-wroclaw/serwis-lasera-aragon-wroclaw-wymiana-filtra.webp",
+        "bytes": 73610
+      }
+    ],
+    "watermark": "Subtle bottom-right Laser Tech Service; full frame; no technical details obscured"
+  }
+]

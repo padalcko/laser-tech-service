@@ -10,6 +10,24 @@ Other language version: [Polski](https://lasertechservice.pl/blog/), [Русск
 
 Practical knowledge about servicing, diagnostics, repairs and operation of laser and aesthetic equipment.
 
+Cooling system2026-11-21
+
+## [What Water Should You Use in a Diode Laser Cooling System?](https://lasertechservice.pl/en/blog/diode-laser-cooling-water-guide/)
+
+Distilled or deionized water for diode lasers? Learn about coolant quality, electrical conductivity, contamination and maintenance.
+
+Cooling system2026-11-21
+
+## [Diode Laser Maintenance Checklist: Cooling System Inspection](https://lasertechservice.pl/en/blog/diode-laser-maintenance-checklist/)
+
+A practical diode laser cooling system maintenance checklist covering filters, coolant, pumps, sensors and leak inspection.
+
+Cooling system2026-11-21
+
+## [Diode Laser Cooling Filters: Why Regular Replacement Matters](https://lasertechservice.pl/en/blog/diode-laser-cooling-filter-maintenance/)
+
+Learn how contaminated cooling filters affect diode laser performance, coolant circulation and equipment reliability.
+
 Cooling system20 November 2026
 
 ## [Diode Laser Not Starting? Sometimes a Small Sensor Is the Problem, Not the Laser Module](https://lasertechservice.pl/en/blog/diode-laser-not-starting-water-flow-sensor/)
@@ -228,6 +246,9 @@ Warranty, work documentation, service history, prompt on-site visits and respons
 
 ## Related articles
 
+- [What Water Should You Use in a Diode Laser Cooling System?](https://lasertechservice.pl/en/blog/diode-laser-cooling-water-guide/)
+- [Diode Laser Maintenance Checklist: Cooling System Inspection](https://lasertechservice.pl/en/blog/diode-laser-maintenance-checklist/)
+- [Diode Laser Cooling Filters: Why Regular Replacement Matters](https://lasertechservice.pl/en/blog/diode-laser-cooling-filter-maintenance/)
 - [Diode Laser Not Starting? Sometimes a Small Sensor Is the Problem, Not the Laser Module](https://lasertechservice.pl/en/blog/diode-laser-not-starting-water-flow-sensor/)
 - [Buying a Used Aesthetic Laser? A Cheap Deal Could Become an Expensive Mistake](https://lasertechservice.pl/en/blog/used-aesthetic-laser-pre-purchase-inspection/)
 - [Why We Value Beauty Studios That Take Laser Maintenance Seriously: PURE STUDIO in Wrocław](https://lasertechservice.pl/en/blog/why-regular-laser-maintenance-matters-pure-studio/)

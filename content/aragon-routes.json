@@ -1,0 +1,22 @@
+{
+  "case": {
+    "pl": "/realizacje/serwis-lasera-aragon-wroclaw/",
+    "ru": "/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/",
+    "en": "/en/case-studies/aragon-diode-laser-service-wroclaw/"
+  },
+  "filters": {
+    "pl": "/blog/filtr-chlodzenia-lasera-diodowego/",
+    "ru": "/ru/blog/filtr-ohlazhdeniya-diodnogo-lasera/",
+    "en": "/en/blog/diode-laser-cooling-filter-maintenance/"
+  },
+  "checklist": {
+    "pl": "/blog/przeglad-techniczny-lasera-diodowego-checklista/",
+    "ru": "/ru/blog/chek-list-obsluzhivaniya-diodnogo-lasera/",
+    "en": "/en/blog/diode-laser-maintenance-checklist/"
+  },
+  "water": {
+    "pl": "/blog/jaka-woda-do-lasera-diodowego/",
+    "ru": "/ru/blog/kakuyu-vodu-zalivat-v-diodnyy-lazer/",
+    "en": "/en/blog/diode-laser-cooling-water-guide/"
+  }
+}

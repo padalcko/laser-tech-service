@@ -156,6 +156,16 @@ We explain the proposed work, available solutions and applicable warranty condit
 
 Every repair presents a different technical challenge. Explore real examples of equipment failures and the solutions we have delivered.
 
+![Aragon Beauty Planet laser handpiece and display during servicing](https://lasertechservice.pl/img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka.webp)
+
+WrocławAragon / Beauty Planet
+
+### [Aragon Diode Laser Maintenance in Wrocław — Cooling Filter and Water Replacement](https://lasertechservice.pl/en/case-studies/aragon-diode-laser-service-wroclaw/)
+
+Aragon Beauty Planet diode laser maintenance in Wrocław. Cooling filter replacement, coolant renewal and cooling system inspection.
+
+[View case study](https://lasertechservice.pl/en/case-studies/aragon-diode-laser-service-wroclaw/)
+
 ![Front of the diode laser during servicing in Zielona Góra](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
 
 Zielona GóraCooling system
@@ -175,16 +185,6 @@ WrocławPURE STUDIO
 Diode laser handpiece housing replacement, optical cleaning, sealing and laser power verification at PURE STUDIO Wrocław.
 
 [View case study](https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/)
-
-![smartPULS handpiece held in a hand, with its optical window visible](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp)
-
-ŚwidnicasmartPULS · IPL
-
-### [smartPULS IPL Handpiece Repair in Świdnica](https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/)
-
-A client from Świdnica contacted Laser Tech Service after the IPL handpiece of a German-made smartPULS cosmetic device stopped working. The client initially suspected that the IPL lamp had burned out and needed replacement.
-
-[View case study](https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/)
 
 [View All Repair Cases](https://lasertechservice.pl/en/case-studies/)[Blog](https://lasertechservice.pl/en/blog/)
 
@@ -229,6 +229,6 @@ Warranty duration and conditions depend on the type of repair and the agreed ter
 
 ## Related repairs
 
+- [Aragon Diode Laser Maintenance in Wrocław — Cooling Filter and Water Replacement](https://lasertechservice.pl/en/case-studies/aragon-diode-laser-service-wroclaw/)
 - [Diode Laser Repair in Zielona Góra. Water Flow Sensor Replacement](https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/)
 - [Diode Laser Servicing at PURE STUDIO Wrocław – Handpiece Housing Replacement and Power Verification](https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/)
-- [smartPULS IPL Handpiece Repair in Świdnica](https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/)

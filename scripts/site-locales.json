@@ -1831,6 +1831,94 @@
           "status": "published"
         }
       }
+    },
+    {
+      "id": "realizacje:serwis-lasera-aragon-wroclaw",
+      "type": "case-study",
+      "x_default": "/realizacje/serwis-lasera-aragon-wroclaw/",
+      "hreflang": {
+        "pl": "pl-PL"
+      },
+      "routes": {
+        "pl": {
+          "url": "/realizacje/serwis-lasera-aragon-wroclaw/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/aragon-diode-laser-service-wroclaw/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:filtr-chlodzenia-lasera-diodowego",
+      "type": "article",
+      "x_default": "/blog/filtr-chlodzenia-lasera-diodowego/",
+      "hreflang": {
+        "pl": "pl-PL"
+      },
+      "routes": {
+        "pl": {
+          "url": "/blog/filtr-chlodzenia-lasera-diodowego/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/filtr-ohlazhdeniya-diodnogo-lasera/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/diode-laser-cooling-filter-maintenance/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:przeglad-techniczny-lasera-diodowego-checklista",
+      "type": "article",
+      "x_default": "/blog/przeglad-techniczny-lasera-diodowego-checklista/",
+      "hreflang": {
+        "pl": "pl-PL"
+      },
+      "routes": {
+        "pl": {
+          "url": "/blog/przeglad-techniczny-lasera-diodowego-checklista/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/chek-list-obsluzhivaniya-diodnogo-lasera/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/diode-laser-maintenance-checklist/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:jaka-woda-do-lasera-diodowego",
+      "type": "article",
+      "x_default": "/blog/jaka-woda-do-lasera-diodowego/",
+      "hreflang": {
+        "pl": "pl-PL"
+      },
+      "routes": {
+        "pl": {
+          "url": "/blog/jaka-woda-do-lasera-diodowego/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/kakuyu-vodu-zalivat-v-diodnyy-lazer/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/diode-laser-cooling-water-guide/",
+          "status": "published"
+        }
+      }
     }
   ]
 }

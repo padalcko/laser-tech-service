@@ -66,6 +66,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/blog/filtr-chlodzenia-lasera-diodowego/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/blog/filtr-chlodzenia-lasera-diodowego/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /blog/filtr-wody-laser-diodowy-kiedy-wymieniac/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -80,6 +85,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/blog/jaka-woda-do-lasera-diodowego/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/blog/jaka-woda-do-lasera-diodowego/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /blog/kontrola-uzywanego-lasera-przed-zakupem/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -145,6 +155,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/blog/pomiar-mocy-lasera-laserpoint/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/blog/przeglad-techniczny-lasera-diodowego-checklista/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/blog/przeglad-techniczny-lasera-diodowego-checklista/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /blog/przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -231,10 +246,25 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/blog/dinosaur-lasers-age-technical-condition/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/en/blog/diode-laser-cooling-filter-maintenance/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/blog/diode-laser-cooling-filter-maintenance/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/en/blog/diode-laser-cooling-water-guide/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/blog/diode-laser-cooling-water-guide/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /en/blog/diode-laser-handpiece-seals-optics/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/blog/diode-laser-handpiece-seals-optics/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/en/blog/diode-laser-maintenance-checklist/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/blog/diode-laser-maintenance-checklist/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /en/blog/diode-laser-not-starting-water-flow-sensor/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -395,6 +425,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/case-studies/alma-accent-cooling-hose-repair-gorlitz/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/en/case-studies/aragon-diode-laser-service-wroclaw/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/case-studies/aragon-diode-laser-service-wroclaw/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /en/case-studies/beauty-planet-handpiece-cable-replacement-wroclaw/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -786,6 +821,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/realizacje/serwis-lasera-aragon-wroclaw/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/realizacje/serwis-lasera-aragon-wroclaw/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /realizacje/serwis-lasera-diodowego-808nm-warszawa/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -866,10 +906,20 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/blog/chek-list-obsluzhivaniya-diodnogo-lasera/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/blog/chek-list-obsluzhivaniya-diodnogo-lasera/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/blog/filtr-ohlazhdeniya-diodnogo-lasera/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/blog/filtr-ohlazhdeniya-diodnogo-lasera/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -885,6 +935,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/blog/kakuyu-vodu-zalivat-v-diodnyy-lazer/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/blog/kakuyu-vodu-zalivat-v-diodnyy-lazer/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -1095,6 +1150,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/index.md
   Content-Type: text/markdown; charset=utf-8

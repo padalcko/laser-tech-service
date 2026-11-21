@@ -16,6 +16,16 @@ Pokazujemy rzeczywiste realizacje serwisowe: zakres zlecenia, wykonane prace ora
 
 Każde urządzenie wymaga indywidualnej diagnostyki. Poniżej prezentujemy wybrane realizacje naszego serwisu.
 
+![Głowica i ekran lasera Aragon Beauty Planet podczas serwisu](https://lasertechservice.pl/img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka.webp)
+
+WrocławAragon / Beauty Planet
+
+## [Serwis lasera diodowego Aragon we Wrocławiu. Wymiana filtra i konserwacja układu chłodzenia](https://lasertechservice.pl/realizacje/serwis-lasera-aragon-wroclaw/)
+
+Serwis lasera diodowego Aragon Beauty Planet we Wrocławiu. Wymiana filtra, wody chłodzącej i kontrola układu chłodzenia. Laser Tech Service.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/serwis-lasera-aragon-wroclaw/)
+
 ![Przód lasera diodowego podczas serwisu w Zielonej Górze](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
 
 Zielona GóraUkład chłodzenia
@@ -404,6 +414,7 @@ Serwisujemy lasery diodowe, urządzenia ND:YAG, IPL, CO2 oraz inne urządzenia w
 
 ## Powiązane realizacje
 
+- [Serwis lasera diodowego Aragon we Wrocławiu. Wymiana filtra i konserwacja układu chłodzenia](https://lasertechservice.pl/realizacje/serwis-lasera-aragon-wroclaw/)
 - [Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/)
 - [Serwis lasera diodowego w PURE STUDIO Wrocław – wymiana obudowy głowicy i kontrola mocy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/)
 - [smartPULS – przywrócenie działania głowicy IPL w Świdnicy](https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/)

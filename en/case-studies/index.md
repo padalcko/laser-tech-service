@@ -16,6 +16,16 @@ Actual service work: the job scope, completed repairs and photographic and video
 
 Every device needs individual diagnostics. Explore selected examples of our service work below.
 
+![Aragon Beauty Planet laser handpiece and display during servicing](https://lasertechservice.pl/img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka.webp)
+
+WrocławAragon / Beauty Planet
+
+## [Aragon Diode Laser Maintenance in Wrocław — Cooling Filter and Water Replacement](https://lasertechservice.pl/en/case-studies/aragon-diode-laser-service-wroclaw/)
+
+Aragon Beauty Planet diode laser maintenance in Wrocław. Cooling filter replacement, coolant renewal and cooling system inspection.
+
+[View case study](https://lasertechservice.pl/en/case-studies/aragon-diode-laser-service-wroclaw/)
+
 ![Front of the diode laser during servicing in Zielona Góra](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
 
 Zielona GóraCooling system
@@ -404,6 +414,7 @@ We service diode lasers, Nd:YAG, IPL, CO₂ and other equipment used in aestheti
 
 ## Related repairs
 
+- [Aragon Diode Laser Maintenance in Wrocław — Cooling Filter and Water Replacement](https://lasertechservice.pl/en/case-studies/aragon-diode-laser-service-wroclaw/)
 - [Diode Laser Repair in Zielona Góra. Water Flow Sensor Replacement](https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/)
 - [Diode Laser Servicing at PURE STUDIO Wrocław – Handpiece Housing Replacement and Power Verification](https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/)
 - [smartPULS IPL Handpiece Repair in Świdnica](https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/)

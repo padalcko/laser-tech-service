@@ -1,14 +1,14 @@
 {
   "status": "PASS",
-  "source_pages": 280,
-  "dist_pages": 280,
+  "source_pages": 292,
+  "dist_pages": 292,
   "languages": {
-    "pl": 94,
-    "en": 93,
-    "ru": 93
+    "pl": 98,
+    "en": 97,
+    "ru": 97
   },
-  "public_files": 1863,
-  "sitemap_urls": 279,
+  "public_files": 1911,
+  "sitemap_urls": 291,
   "missing_pages": [],
   "dist_only_pages": [],
   "pages": [
@@ -133,6 +133,16 @@
       "status": "ready"
     },
     {
+      "source": "blog/filtr-chlodzenia-lasera-diodowego/index.html",
+      "dist": true,
+      "url": "/blog/filtr-chlodzenia-lasera-diodowego/",
+      "language": "pl",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
       "source": "blog/filtr-wody-laser-diodowy-kiedy-wymieniac/index.html",
       "dist": true,
       "url": "/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/",
@@ -166,6 +176,16 @@
       "source": "blog/jak-kupic-uzywany-laser-do-depilacji/index.html",
       "dist": true,
       "url": "/blog/jak-kupic-uzywany-laser-do-depilacji/",
+      "language": "pl",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "blog/jaka-woda-do-lasera-diodowego/index.html",
+      "dist": true,
+      "url": "/blog/jaka-woda-do-lasera-diodowego/",
       "language": "pl",
       "seo_preserved": true,
       "noindex": false,
@@ -296,6 +316,16 @@
       "source": "blog/pomiar-mocy-lasera-laserpoint/index.html",
       "dist": true,
       "url": "/blog/pomiar-mocy-lasera-laserpoint/",
+      "language": "pl",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "blog/przeglad-techniczny-lasera-diodowego-checklista/index.html",
+      "dist": true,
+      "url": "/blog/przeglad-techniczny-lasera-diodowego-checklista/",
       "language": "pl",
       "seo_preserved": true,
       "noindex": false,
@@ -453,9 +483,39 @@
       "status": "ready"
     },
     {
+      "source": "en/blog/diode-laser-cooling-filter-maintenance/index.html",
+      "dist": true,
+      "url": "/en/blog/diode-laser-cooling-filter-maintenance/",
+      "language": "en",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "en/blog/diode-laser-cooling-water-guide/index.html",
+      "dist": true,
+      "url": "/en/blog/diode-laser-cooling-water-guide/",
+      "language": "en",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
       "source": "en/blog/diode-laser-handpiece-seals-optics/index.html",
       "dist": true,
       "url": "/en/blog/diode-laser-handpiece-seals-optics/",
+      "language": "en",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "en/blog/diode-laser-maintenance-checklist/index.html",
+      "dist": true,
+      "url": "/en/blog/diode-laser-maintenance-checklist/",
       "language": "en",
       "seo_preserved": true,
       "noindex": false,
@@ -776,6 +836,16 @@
       "source": "en/case-studies/alma-accent-cooling-hose-repair-gorlitz/index.html",
       "dist": true,
       "url": "/en/case-studies/alma-accent-cooling-hose-repair-gorlitz/",
+      "language": "en",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "en/case-studies/aragon-diode-laser-service-wroclaw/index.html",
+      "dist": true,
+      "url": "/en/case-studies/aragon-diode-laser-service-wroclaw/",
       "language": "en",
       "seo_preserved": true,
       "noindex": false,
@@ -1593,6 +1663,16 @@
       "status": "ready"
     },
     {
+      "source": "realizacje/serwis-lasera-aragon-wroclaw/index.html",
+      "dist": true,
+      "url": "/realizacje/serwis-lasera-aragon-wroclaw/",
+      "language": "pl",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
       "source": "realizacje/serwis-lasera-diodowego-808nm-warszawa/index.html",
       "dist": true,
       "url": "/realizacje/serwis-lasera-diodowego-808nm-warszawa/",
@@ -1733,9 +1813,29 @@
       "status": "ready"
     },
     {
+      "source": "ru/blog/chek-list-obsluzhivaniya-diodnogo-lasera/index.html",
+      "dist": true,
+      "url": "/ru/blog/chek-list-obsluzhivaniya-diodnogo-lasera/",
+      "language": "ru",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
       "source": "ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/index.html",
       "dist": true,
       "url": "/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/",
+      "language": "ru",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "ru/blog/filtr-ohlazhdeniya-diodnogo-lasera/index.html",
+      "dist": true,
+      "url": "/ru/blog/filtr-ohlazhdeniya-diodnogo-lasera/",
       "language": "ru",
       "seo_preserved": true,
       "noindex": false,
@@ -1776,6 +1876,16 @@
       "source": "ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/index.html",
       "dist": true,
       "url": "/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/",
+      "language": "ru",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "ru/blog/kakuyu-vodu-zalivat-v-diodnyy-lazer/index.html",
+      "dist": true,
+      "url": "/ru/blog/kakuyu-vodu-zalivat-v-diodnyy-lazer/",
       "language": "ru",
       "seo_preserved": true,
       "noindex": false,
@@ -2206,6 +2316,16 @@
       "source": "ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/index.html",
       "dist": true,
       "url": "/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/",
+      "language": "ru",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/index.html",
+      "dist": true,
+      "url": "/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/",
       "language": "ru",
       "seo_preserved": true,
       "noindex": false,

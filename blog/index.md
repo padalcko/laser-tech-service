@@ -10,6 +10,24 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/), [
 
 Praktyczna wiedza o serwisie, diagnostyce, naprawach i eksploatacji urządzeń laserowych oraz kosmetycznych.
 
+Układ chłodzenia2026-11-21
+
+## [Jaka woda do lasera diodowego? Woda destylowana, dejonizowana i przewodność elektryczna](https://lasertechservice.pl/blog/jaka-woda-do-lasera-diodowego/)
+
+Jaka woda nadaje się do chłodzenia lasera do depilacji? Wyjaśniamy różnice między wodą destylowaną i dejonizowaną oraz znaczenie przewodności.
+
+Układ chłodzenia2026-11-21
+
+## [Przegląd techniczny lasera diodowego. Lista kontrolna układu chłodzenia](https://lasertechservice.pl/blog/przeglad-techniczny-lasera-diodowego-checklista/)
+
+Jak kontrolować chłodzenie lasera do depilacji? Lista czynności dla operatora i technika serwisowego, kontrola filtra, wody i pompy.
+
+Układ chłodzenia2026-11-21
+
+## [Filtr układu chłodzenia lasera diodowego. Dlaczego jego regularna wymiana jest tak ważna?](https://lasertechservice.pl/blog/filtr-chlodzenia-lasera-diodowego/)
+
+Dlaczego zabrudzony filtr chłodzenia może uszkodzić laser diodowy? Objawy, zagrożenia, kontrola i wymiana filtrów w laserach do depilacji.
+
 Układ chłodzenia20 listopada 2026
 
 ## [Laser nie działa? Czasami winny jest mały czujnik, a nie drogi moduł laserowy](https://lasertechservice.pl/blog/laser-nie-dziala-czujnik-przeplywu-wody/)
@@ -228,6 +246,9 @@ Gwarancja, dokumentacja wykonanych prac, historia serwisowa, możliwość szybki
 
 ## Powiązane artykuły
 
+- [Jaka woda do lasera diodowego? Woda destylowana, dejonizowana i przewodność elektryczna](https://lasertechservice.pl/blog/jaka-woda-do-lasera-diodowego/)
+- [Przegląd techniczny lasera diodowego. Lista kontrolna układu chłodzenia](https://lasertechservice.pl/blog/przeglad-techniczny-lasera-diodowego-checklista/)
+- [Filtr układu chłodzenia lasera diodowego. Dlaczego jego regularna wymiana jest tak ważna?](https://lasertechservice.pl/blog/filtr-chlodzenia-lasera-diodowego/)
 - [Laser nie działa? Czasami winny jest mały czujnik, a nie drogi moduł laserowy](https://lasertechservice.pl/blog/laser-nie-dziala-czujnik-przeplywu-wody/)
 - [Kupujesz używany laser kosmetyczny? Sprawdź, ile może kosztować pozorna oszczędność](https://lasertechservice.pl/blog/kontrola-uzywanego-lasera-przed-zakupem/)
 - [Dlaczego cenimy salony, które dbają o swoje lasery? PURE STUDIO we Wrocławiu jako przykład odpowiedzialnego podejścia](https://lasertechservice.pl/blog/dlaczego-regularny-serwis-lasera-jest-wazny-pure-studio/)

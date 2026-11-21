@@ -156,6 +156,16 @@ Frontend Developer & SEO Engineer
 
 Каждый ремонт — отдельная техническая задача. Посмотрите реальные примеры неисправностей и выполненных работ.
 
+![Манипула и экран лазера Aragon Beauty Planet во время обслуживания](https://lasertechservice.pl/img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka.webp)
+
+WrocławAragon / Beauty Planet
+
+### [Техническое обслуживание диодного лазера Aragon во Вроцлаве. Замена фильтра и охлаждающей жидкости](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/)
+
+Обслуживание диодного лазера Aragon Beauty Planet во Вроцлаве. Замена фильтра, охлаждающей воды и проверка системы охлаждения.
+
+[Смотреть реализацию](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/)
+
 ![Диодный лазер спереди во время ремонта в Зелёна-Гуре](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
 
 Zielona GóraСистема охлаждения
@@ -175,16 +185,6 @@ WrocławPURE STUDIO
 Замена корпуса манипулы, очистка оптики, герметизация и проверка мощности диодного лазера в PURE STUDIO, Вроцлав.
 
 [Подробнее](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/)
-
-![Манипула smartPULS в руке с видимым оптическим окном](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp)
-
-СвидницаsmartPULS · IPL
-
-### [smartPULS — восстановление работы IPL-манипулы в Свиднице](https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/)
-
-В Laser Tech Service обратился клиент из города Свидница с проблемой немецкого косметологического аппарата smartPULS. По словам клиента, в манипуле перестала работать IPL-лампа. Первоначально предполагалось, что лампа перегорела и требует замены.
-
-[Подробнее](https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/)
 
 [Все наши работы](https://lasertechservice.pl/ru/realizacje/)[Блог](https://lasertechservice.pl/ru/blog/)
 
@@ -229,6 +229,6 @@ ul. Marszałka Józefa Piłsudskiego 74, lok. 320
 
 ## Связанные работы
 
+- [Техническое обслуживание диодного лазера Aragon во Вроцлаве. Замена фильтра и охлаждающей жидкости](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/)
 - [Ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)
 - [Обслуживание диодного лазера в PURE STUDIO, Вроцлав — замена корпуса манипулы и проверка мощности](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/)
-- [smartPULS — восстановление работы IPL-манипулы в Свиднице](https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/)

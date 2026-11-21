@@ -156,6 +156,16 @@ Wyjaśniamy zakres prac, możliwe rozwiązania i warunki gwarancji.
 
 Każda naprawa to inna historia, inna usterka i konkretne rozwiązanie techniczne. Zobacz wybrane realizacje Laser Tech Service.
 
+![Głowica i ekran lasera Aragon Beauty Planet podczas serwisu](https://lasertechservice.pl/img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka.webp)
+
+WrocławAragon / Beauty Planet
+
+### [Serwis lasera diodowego Aragon we Wrocławiu. Wymiana filtra i konserwacja układu chłodzenia](https://lasertechservice.pl/realizacje/serwis-lasera-aragon-wroclaw/)
+
+Serwis lasera diodowego Aragon Beauty Planet we Wrocławiu. Wymiana filtra, wody chłodzącej i kontrola układu chłodzenia. Laser Tech Service.
+
+[Zobacz realizację](https://lasertechservice.pl/realizacje/serwis-lasera-aragon-wroclaw/)
+
 ![Przód lasera diodowego podczas serwisu w Zielonej Górze](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
 
 Zielona GóraUkład chłodzenia
@@ -175,16 +185,6 @@ WrocławPURE STUDIO
 Wymiana obudowy głowicy lasera, czyszczenie optyki, uszczelnienie i pomiar mocy lasera diodowego w PURE STUDIO Wrocław.
 
 [Zobacz realizację](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/)
-
-![Głowica smartPULS trzymana w dłoni, z widocznym oknem optycznym](https://lasertechservice.pl/img/realizacje/smartpuls-swidnica/smartpuls-ipl-handpiece-lamp-repair-swidnica.webp)
-
-ŚwidnicasmartPULS · IPL
-
-### [smartPULS – przywrócenie działania głowicy IPL w Świdnicy](https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/)
-
-Do Laser Tech Service zgłosił się klient ze Świdnicy z problemem dotyczącym niemieckiego urządzenia smartPULS, wykorzystywanego do zabiegów kosmetologicznych z zastosowaniem technologii IPL. Według zgłoszenia lampa w głowicy przestała działać i podejrzewano jej przepalenie.
-
-[Zobacz realizację](https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/)
 
 [Zobacz wszystkie realizacje](https://lasertechservice.pl/realizacje/)[Blog](https://lasertechservice.pl/blog/)
 
@@ -229,6 +229,6 @@ Czas trwania i warunki gwarancji zależą od rodzaju naprawy oraz uzgodnionych w
 
 ## Powiązane realizacje
 
+- [Serwis lasera diodowego Aragon we Wrocławiu. Wymiana filtra i konserwacja układu chłodzenia](https://lasertechservice.pl/realizacje/serwis-lasera-aragon-wroclaw/)
 - [Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/)
 - [Serwis lasera diodowego w PURE STUDIO Wrocław – wymiana obudowy głowicy i kontrola mocy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/)
-- [smartPULS – przywrócenie działania głowicy IPL w Świdnicy](https://lasertechservice.pl/realizacje/smartpuls-ipl-swidnica/)
