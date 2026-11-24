@@ -1145,6 +1145,42 @@
       "related_services": []
     },
     {
+      "id": "article:blog:chlodzenie-lasera-a-skutecznosc-depilacji",
+      "title": "Chłodzenie lasera a skuteczność depilacji. Dlaczego sprawny układ chłodzenia jest tak ważny?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/chlodzenie-lasera-a-skutecznosc-depilacji/",
+      "description": "Jak chłodzenie wpływa na pracę lasera diodowego? Poznaj przyczyny przegrzewania, problemy z przepływem cieczy i znaczenie kontroli temperatury.",
+      "topics": [
+        "Krótka odpowiedź"
+      ],
+      "datePublished": "2026-11-24",
+      "dateModified": "2026-11-24",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow",
+        "service:uslugi:wymiana-i-kalibracja-diod-laserowych"
+      ]
+    },
+    {
+      "id": "article:blog:czyszczenie-glowicy-lasera",
+      "title": "Profesjonalne czyszczenie głowicy lasera do depilacji. Dlaczego sama dezynfekcja nie wystarcza?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/czyszczenie-glowicy-lasera/",
+      "description": "Profesjonalne czyszczenie głowicy lasera do depilacji, kontrola optyki, chłodzenia i pomiar mocy. Sprawdź, dlaczego sama dezynfekcja nie wystarcza.",
+      "topics": [
+        "Serwis głowic laserowych"
+      ],
+      "datePublished": "2026-11-24",
+      "dateModified": "2026-11-24",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow"
+      ]
+    },
+    {
       "id": "article:blog:czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie",
       "title": "Dlaczego regularne czyszczenie układu chłodzenia lasera jest tak ważne? Kurz, awarie wentylatorów i ryzyko przegrzania",
       "language": "pl",
@@ -1309,6 +1345,24 @@
       "datePublished": "2026-09-14",
       "dateModified": "2026-09-14",
       "related_services": []
+    },
+    {
+      "id": "article:blog:jak-czesto-serwisowac-laser-do-depilacji",
+      "title": "Jak często należy serwisować laser do depilacji? Praktyczny poradnik dla właścicieli salonów",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/jak-czesto-serwisowac-laser-do-depilacji/",
+      "description": "Jak często wykonywać przegląd lasera do depilacji? Sprawdź zasady konserwacji, wymiany filtrów, kontroli chłodzenia i pomiaru mocy lasera.",
+      "topics": [
+        "Konserwacja laserów kosmetycznych"
+      ],
+      "datePublished": "2026-11-24",
+      "dateModified": "2026-11-24",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow"
+      ]
     },
     {
       "id": "article:blog:jak-kupic-uzywany-laser-do-depilacji",
@@ -1909,6 +1963,25 @@
       "related_services": []
     },
     {
+      "id": "article:en:blog:laser-cooling-system-and-hair-removal-performance",
+      "title": "Laser Cooling and Hair Removal Performance: Why a Reliable Cooling System Matters",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/laser-cooling-system-and-hair-removal-performance/",
+      "description": "Learn how laser cooling affects diode performance, output stability and equipment lifespan. Discover common cooling faults and overheating warning signs.",
+      "topics": [
+        "Short answer"
+      ],
+      "datePublished": "2026-11-24",
+      "dateModified": "2026-11-24",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow",
+        "service:uslugi:wymiana-i-kalibracja-diod-laserowych"
+      ]
+    },
+    {
       "id": "article:en:blog:laser-cooling-system-cleaning-overheating",
       "title": "Why is regular laser cooling system cleaning so important? Dust, fan failures and overheating risks",
       "language": "en",
@@ -1920,6 +1993,41 @@
       "dateModified": "2026-10-12",
       "related_services": [
         "service:uslugi:diagnostyka-laserow-diodowych"
+      ]
+    },
+    {
+      "id": "article:en:blog:laser-hair-removal-maintenance-schedule",
+      "title": "How Often Should a Laser Hair Removal Machine Be Serviced? A Practical Guide for Clinic Owners",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/laser-hair-removal-maintenance-schedule/",
+      "description": "Learn when to service a laser hair removal machine, including filter replacement, cooling system checks, optical inspection and laser output measurement.",
+      "topics": [
+        "Aesthetic laser maintenance"
+      ],
+      "datePublished": "2026-11-24",
+      "dateModified": "2026-11-24",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow"
+      ]
+    },
+    {
+      "id": "article:en:blog:laser-handpiece-cleaning",
+      "title": "Professional Laser Hair Removal Handpiece Cleaning: Why Disinfection Alone Is Not Enough",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/laser-handpiece-cleaning/",
+      "description": "Professional laser handpiece cleaning, optical inspection, cooling system maintenance and laser output measurement. Learn why disinfection alone is not enough.",
+      "topics": [
+        "Laser handpiece servicing"
+      ],
+      "datePublished": "2026-11-24",
+      "dateModified": "2026-11-24",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow"
       ]
     },
     {
@@ -2269,6 +2377,23 @@
       ]
     },
     {
+      "id": "article:ru:blog:chistka-manipuly-lazera",
+      "title": "Профессиональная чистка манипулы лазера для эпиляции. Почему одной дезинфекции недостаточно?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/chistka-manipuly-lazera/",
+      "description": "Профессиональная чистка лазерной манипулы, проверка оптики, системы охлаждения и мощности лазера. Почему одной дезинфекции недостаточно?",
+      "topics": [
+        "Сервис лазерных манипул"
+      ],
+      "datePublished": "2026-11-24",
+      "dateModified": "2026-11-24",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow"
+      ]
+    },
+    {
       "id": "article:ru:blog:co2-lazer-ne-reagiruet-na-pedal-diagnostika",
       "title": "CO₂-лазер не реагирует на педаль: симптом — ещё не диагноз",
       "language": "ru",
@@ -2323,6 +2448,24 @@
       "related_services": [
         "service:uslugi:diagnostyka-laserow-diodowych",
         "service:uslugi:konserwacja-urzadzen-kosmetologicznych"
+      ]
+    },
+    {
+      "id": "article:ru:blog:kak-chasto-obsluzhivat-lazer",
+      "title": "Как часто необходимо обслуживать лазер для эпиляции? Практическое руководство для владельцев салонов",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/kak-chasto-obsluzhivat-lazer/",
+      "description": "Периодичность обслуживания лазера для эпиляции, замена фильтров, проверка охлаждения, чистка оптики и измерение мощности.",
+      "topics": [
+        "Обслуживание косметологических лазеров"
+      ],
+      "datePublished": "2026-11-24",
+      "dateModified": "2026-11-24",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow"
       ]
     },
     {
@@ -2501,6 +2644,25 @@
       "dateModified": "2026-10-12",
       "related_services": [
         "service:uslugi:diagnostyka-laserow-diodowych"
+      ]
+    },
+    {
+      "id": "article:ru:blog:ohlazhdenie-lazera-i-effektivnost-epilyatsii",
+      "title": "Охлаждение лазера и эффективность эпиляции. Почему исправная система охлаждения так важна?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/ohlazhdenie-lazera-i-effektivnost-epilyatsii/",
+      "description": "Как охлаждение влияет на работу диодного лазера? Причины перегрева, нарушения циркуляции жидкости, нестабильной мощности и неисправностей манипулы.",
+      "topics": [
+        "Краткий ответ"
+      ],
+      "datePublished": "2026-11-24",
+      "dateModified": "2026-11-24",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow",
+        "service:uslugi:wymiana-i-kalibracja-diod-laserowych"
       ]
     },
     {
@@ -5033,6 +5195,8 @@
       "https://lasertechservice.pl/blog/3000-nain-laser-historia-konstrukcja-serwis/": "https://lasertechservice.pl/blog/3000-nain-laser-historia-konstrukcja-serwis/index.md",
       "https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/": "https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/index.md",
       "https://lasertechservice.pl/blog/beauty-planet-3d-contour-mozliwosci-serwis/": "https://lasertechservice.pl/blog/beauty-planet-3d-contour-mozliwosci-serwis/index.md",
+      "https://lasertechservice.pl/blog/chlodzenie-lasera-a-skutecznosc-depilacji/": "https://lasertechservice.pl/blog/chlodzenie-lasera-a-skutecznosc-depilacji/index.md",
+      "https://lasertechservice.pl/blog/czyszczenie-glowicy-lasera/": "https://lasertechservice.pl/blog/czyszczenie-glowicy-lasera/index.md",
       "https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/": "https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/index.md",
       "https://lasertechservice.pl/blog/dlaczego-maly-przewod-powoduje-duze-problemy/": "https://lasertechservice.pl/blog/dlaczego-maly-przewod-powoduje-duze-problemy/index.md",
       "https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/": "https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/index.md",
@@ -5044,6 +5208,7 @@
       "https://lasertechservice.pl/blog/filtr-chlodzenia-lasera-diodowego/": "https://lasertechservice.pl/blog/filtr-chlodzenia-lasera-diodowego/index.md",
       "https://lasertechservice.pl/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/": "https://lasertechservice.pl/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/index.md",
       "https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/": "https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/index.md",
+      "https://lasertechservice.pl/blog/jak-czesto-serwisowac-laser-do-depilacji/": "https://lasertechservice.pl/blog/jak-czesto-serwisowac-laser-do-depilacji/index.md",
       "https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/": "https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/index.md",
       "https://lasertechservice.pl/blog/jaka-woda-do-lasera-diodowego/": "https://lasertechservice.pl/blog/jaka-woda-do-lasera-diodowego/index.md",
       "https://lasertechservice.pl/blog/kontrola-uzywanego-lasera-przed-zakupem/": "https://lasertechservice.pl/blog/kontrola-uzywanego-lasera-przed-zakupem/index.md",
@@ -5088,7 +5253,10 @@
       "https://lasertechservice.pl/en/blog/handpiece-connections-overheating-nd-yag-calibration/": "https://lasertechservice.pl/en/blog/handpiece-connections-overheating-nd-yag-calibration/index.md",
       "https://lasertechservice.pl/en/blog/hifu-technology-applications-service/": "https://lasertechservice.pl/en/blog/hifu-technology-applications-service/index.md",
       "https://lasertechservice.pl/en/blog/how-to-buy-a-used-hair-removal-laser/": "https://lasertechservice.pl/en/blog/how-to-buy-a-used-hair-removal-laser/index.md",
+      "https://lasertechservice.pl/en/blog/laser-cooling-system-and-hair-removal-performance/": "https://lasertechservice.pl/en/blog/laser-cooling-system-and-hair-removal-performance/index.md",
       "https://lasertechservice.pl/en/blog/laser-cooling-system-cleaning-overheating/": "https://lasertechservice.pl/en/blog/laser-cooling-system-cleaning-overheating/index.md",
+      "https://lasertechservice.pl/en/blog/laser-hair-removal-maintenance-schedule/": "https://lasertechservice.pl/en/blog/laser-hair-removal-maintenance-schedule/index.md",
+      "https://lasertechservice.pl/en/blog/laser-handpiece-cleaning/": "https://lasertechservice.pl/en/blog/laser-handpiece-cleaning/index.md",
       "https://lasertechservice.pl/en/blog/laser-handpiece-overheating-long-wires/": "https://lasertechservice.pl/en/blog/laser-handpiece-overheating-long-wires/index.md",
       "https://lasertechservice.pl/en/blog/laser-power-measurement-laserpoint/": "https://lasertechservice.pl/en/blog/laser-power-measurement-laserpoint/index.md",
       "https://lasertechservice.pl/en/blog/laser-tech-service-zlota-firma-2026/": "https://lasertechservice.pl/en/blog/laser-tech-service-zlota-firma-2026/index.md",
@@ -5210,10 +5378,12 @@
       "https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/": "https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/index.md",
       "https://lasertechservice.pl/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/": "https://lasertechservice.pl/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/index.md",
       "https://lasertechservice.pl/ru/blog/chek-list-obsluzhivaniya-diodnogo-lasera/": "https://lasertechservice.pl/ru/blog/chek-list-obsluzhivaniya-diodnogo-lasera/index.md",
+      "https://lasertechservice.pl/ru/blog/chistka-manipuly-lazera/": "https://lasertechservice.pl/ru/blog/chistka-manipuly-lazera/index.md",
       "https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/": "https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/index.md",
       "https://lasertechservice.pl/ru/blog/filtr-ohlazhdeniya-diodnogo-lasera/": "https://lasertechservice.pl/ru/blog/filtr-ohlazhdeniya-diodnogo-lasera/index.md",
       "https://lasertechservice.pl/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/": "https://lasertechservice.pl/ru/blog/hifu-chto-eto-kak-rabotaet-primenenie-servis/index.md",
       "https://lasertechservice.pl/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/": "https://lasertechservice.pl/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/index.md",
+      "https://lasertechservice.pl/ru/blog/kak-chasto-obsluzhivat-lazer/": "https://lasertechservice.pl/ru/blog/kak-chasto-obsluzhivat-lazer/index.md",
       "https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/": "https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/index.md",
       "https://lasertechservice.pl/ru/blog/kakuyu-vodu-zalivat-v-diodnyy-lazer/": "https://lasertechservice.pl/ru/blog/kakuyu-vodu-zalivat-v-diodnyy-lazer/index.md",
       "https://lasertechservice.pl/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/": "https://lasertechservice.pl/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/index.md",
@@ -5226,6 +5396,7 @@
       "https://lasertechservice.pl/ru/blog/nubway-nbw-vsiii-harakteristiki-obsluzhivanie/": "https://lasertechservice.pl/ru/blog/nubway-nbw-vsiii-harakteristiki-obsluzhivanie/index.md",
       "https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/": "https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/index.md",
       "https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/": "https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/index.md",
+      "https://lasertechservice.pl/ru/blog/ohlazhdenie-lazera-i-effektivnost-epilyatsii/": "https://lasertechservice.pl/ru/blog/ohlazhdenie-lazera-i-effektivnost-epilyatsii/index.md",
       "https://lasertechservice.pl/ru/blog/peregrev-lazernoy-manipuly-dlinnye-provoda/": "https://lasertechservice.pl/ru/blog/peregrev-lazernoy-manipuly-dlinnye-provoda/index.md",
       "https://lasertechservice.pl/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/": "https://lasertechservice.pl/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/index.md",
       "https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/": "https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/index.md",
@@ -5321,5 +5492,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-11-21T09:58:05Z"
+  "generated_at": "2026-11-24T13:39:12Z"
 }

@@ -1,14 +1,14 @@
 {
   "status": "PASS",
-  "source_pages": 292,
-  "dist_pages": 292,
+  "source_pages": 301,
+  "dist_pages": 301,
   "languages": {
-    "pl": 98,
-    "en": 97,
-    "ru": 97
+    "pl": 101,
+    "en": 100,
+    "ru": 100
   },
-  "public_files": 1911,
-  "sitemap_urls": 291,
+  "public_files": 1929,
+  "sitemap_urls": 300,
   "missing_pages": [],
   "dist_only_pages": [],
   "pages": [
@@ -46,6 +46,26 @@
       "source": "blog/beauty-planet-3d-contour-mozliwosci-serwis/index.html",
       "dist": true,
       "url": "/blog/beauty-planet-3d-contour-mozliwosci-serwis/",
+      "language": "pl",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "blog/chlodzenie-lasera-a-skutecznosc-depilacji/index.html",
+      "dist": true,
+      "url": "/blog/chlodzenie-lasera-a-skutecznosc-depilacji/",
+      "language": "pl",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "blog/czyszczenie-glowicy-lasera/index.html",
+      "dist": true,
+      "url": "/blog/czyszczenie-glowicy-lasera/",
       "language": "pl",
       "seo_preserved": true,
       "noindex": false,
@@ -166,6 +186,16 @@
       "source": "blog/index.html",
       "dist": true,
       "url": "/blog/",
+      "language": "pl",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "blog/jak-czesto-serwisowac-laser-do-depilacji/index.html",
+      "dist": true,
+      "url": "/blog/jak-czesto-serwisowac-laser-do-depilacji/",
       "language": "pl",
       "seo_preserved": true,
       "noindex": false,
@@ -603,9 +633,39 @@
       "status": "ready"
     },
     {
+      "source": "en/blog/laser-cooling-system-and-hair-removal-performance/index.html",
+      "dist": true,
+      "url": "/en/blog/laser-cooling-system-and-hair-removal-performance/",
+      "language": "en",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
       "source": "en/blog/laser-cooling-system-cleaning-overheating/index.html",
       "dist": true,
       "url": "/en/blog/laser-cooling-system-cleaning-overheating/",
+      "language": "en",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "en/blog/laser-hair-removal-maintenance-schedule/index.html",
+      "dist": true,
+      "url": "/en/blog/laser-hair-removal-maintenance-schedule/",
+      "language": "en",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "en/blog/laser-handpiece-cleaning/index.html",
+      "dist": true,
+      "url": "/en/blog/laser-handpiece-cleaning/",
       "language": "en",
       "seo_preserved": true,
       "noindex": false,
@@ -1823,6 +1883,16 @@
       "status": "ready"
     },
     {
+      "source": "ru/blog/chistka-manipuly-lazera/index.html",
+      "dist": true,
+      "url": "/ru/blog/chistka-manipuly-lazera/",
+      "language": "ru",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
       "source": "ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/index.html",
       "dist": true,
       "url": "/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/",
@@ -1866,6 +1936,16 @@
       "source": "ru/blog/izmerenie-moshchnosti-lazera-laserpoint/index.html",
       "dist": true,
       "url": "/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/",
+      "language": "ru",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "ru/blog/kak-chasto-obsluzhivat-lazer/index.html",
+      "dist": true,
+      "url": "/ru/blog/kak-chasto-obsluzhivat-lazer/",
       "language": "ru",
       "seo_preserved": true,
       "noindex": false,
@@ -1986,6 +2066,16 @@
       "source": "ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/index.html",
       "dist": true,
       "url": "/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/",
+      "language": "ru",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "ru/blog/ohlazhdenie-lazera-i-effektivnost-epilyatsii/index.html",
+      "dist": true,
+      "url": "/ru/blog/ohlazhdenie-lazera-i-effektivnost-epilyatsii/",
       "language": "ru",
       "seo_preserved": true,
       "noindex": false,

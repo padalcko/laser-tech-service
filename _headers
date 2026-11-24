@@ -26,6 +26,16 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/blog/beauty-planet-3d-contour-mozliwosci-serwis/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/blog/chlodzenie-lasera-a-skutecznosc-depilacji/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/blog/chlodzenie-lasera-a-skutecznosc-depilacji/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/blog/czyszczenie-glowicy-lasera/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/blog/czyszczenie-glowicy-lasera/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -80,6 +90,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/blog/jak-czesto-serwisowac-laser-do-depilacji/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/blog/jak-czesto-serwisowac-laser-do-depilacji/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /blog/jak-kupic-uzywany-laser-do-depilacji/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -301,10 +316,25 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/blog/how-to-buy-a-used-hair-removal-laser/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/en/blog/laser-cooling-system-and-hair-removal-performance/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/blog/laser-cooling-system-and-hair-removal-performance/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /en/blog/laser-cooling-system-cleaning-overheating/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/blog/laser-cooling-system-cleaning-overheating/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/en/blog/laser-hair-removal-maintenance-schedule/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/blog/laser-hair-removal-maintenance-schedule/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/en/blog/laser-handpiece-cleaning/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/blog/laser-handpiece-cleaning/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /en/blog/laser-handpiece-overheating-long-wires/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -911,6 +941,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/blog/chek-list-obsluzhivaniya-diodnogo-lasera/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/blog/chistka-manipuly-lazera/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/blog/chistka-manipuly-lazera/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -930,6 +965,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/blog/kak-chasto-obsluzhivat-lazer/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/blog/kak-chasto-obsluzhivat-lazer/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -990,6 +1030,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/blog/ohlazhdenie-lazera-i-effektivnost-epilyatsii/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/blog/ohlazhdenie-lazera-i-effektivnost-epilyatsii/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/blog/peregrev-lazernoy-manipuly-dlinnye-provoda/index.md
   Content-Type: text/markdown; charset=utf-8

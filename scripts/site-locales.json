@@ -1919,6 +1919,78 @@
           "status": "published"
         }
       }
+    },
+    {
+      "id": "blog:czyszczenie-glowicy-lasera",
+      "type": "article",
+      "x_default": "/blog/czyszczenie-glowicy-lasera/",
+      "routes": {
+        "pl": {
+          "url": "/blog/czyszczenie-glowicy-lasera/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/chistka-manipuly-lazera/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/laser-handpiece-cleaning/",
+          "status": "published"
+        }
+      },
+      "hreflang": {
+        "pl": "pl-PL",
+        "ru": "ru-RU",
+        "en": "en"
+      }
+    },
+    {
+      "id": "blog:jak-czesto-serwisowac-laser-do-depilacji",
+      "type": "article",
+      "x_default": "/blog/jak-czesto-serwisowac-laser-do-depilacji/",
+      "routes": {
+        "pl": {
+          "url": "/blog/jak-czesto-serwisowac-laser-do-depilacji/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/kak-chasto-obsluzhivat-lazer/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/laser-hair-removal-maintenance-schedule/",
+          "status": "published"
+        }
+      },
+      "hreflang": {
+        "pl": "pl-PL",
+        "ru": "ru-RU",
+        "en": "en"
+      }
+    },
+    {
+      "id": "blog:chlodzenie-lasera-a-skutecznosc-depilacji",
+      "type": "article",
+      "x_default": "/blog/chlodzenie-lasera-a-skutecznosc-depilacji/",
+      "routes": {
+        "pl": {
+          "url": "/blog/chlodzenie-lasera-a-skutecznosc-depilacji/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/ohlazhdenie-lazera-i-effektivnost-epilyatsii/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/laser-cooling-system-and-hair-removal-performance/",
+          "status": "published"
+        }
+      },
+      "hreflang": {
+        "pl": "pl-PL",
+        "ru": "ru-RU",
+        "en": "en"
+      }
     }
   ]
 }

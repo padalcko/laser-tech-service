@@ -10,6 +10,24 @@ Other language version: [Polski](https://lasertechservice.pl/blog/), [Русск
 
 Practical knowledge about servicing, diagnostics, repairs and operation of laser and aesthetic equipment.
 
+Laser Tech Service2026-11-24
+
+## [Laser Cooling and Hair Removal Performance](https://lasertechservice.pl/en/blog/laser-cooling-system-and-hair-removal-performance/)
+
+Discover how temperature, coolant circulation and cooling system condition affect diode laser performance and equipment reliability.
+
+Laser maintenance24 November 2026
+
+## [How Often Should a Laser Hair Removal Machine Be Serviced?](https://lasertechservice.pl/en/blog/laser-hair-removal-maintenance-schedule/)
+
+Learn when to arrange laser maintenance, replace filters, inspect cooling systems and verify actual laser output.
+
+Laser handpiece servicing24 November 2026
+
+## [Professional Laser Handpiece Cleaning](https://lasertechservice.pl/en/blog/laser-handpiece-cleaning/)
+
+A clean handpiece is not necessarily a properly functioning handpiece. Learn the difference between surface disinfection and professional technical servicing.
+
 Cooling system2026-11-21
 
 ## [What Water Should You Use in a Diode Laser Cooling System?](https://lasertechservice.pl/en/blog/diode-laser-cooling-water-guide/)
@@ -246,6 +264,9 @@ Warranty, work documentation, service history, prompt on-site visits and respons
 
 ## Related articles
 
+- [Laser Cooling and Hair Removal Performance: Why a Reliable Cooling System Matters](https://lasertechservice.pl/en/blog/laser-cooling-system-and-hair-removal-performance/)
+- [How Often Should a Laser Hair Removal Machine Be Serviced? A Practical Guide for Clinic Owners](https://lasertechservice.pl/en/blog/laser-hair-removal-maintenance-schedule/)
+- [Professional Laser Hair Removal Handpiece Cleaning: Why Disinfection Alone Is Not Enough](https://lasertechservice.pl/en/blog/laser-handpiece-cleaning/)
 - [What Water Should You Use in a Diode Laser Cooling System?](https://lasertechservice.pl/en/blog/diode-laser-cooling-water-guide/)
 - [Diode Laser Maintenance Checklist: Cooling System Inspection](https://lasertechservice.pl/en/blog/diode-laser-maintenance-checklist/)
 - [Diode Laser Cooling Filters: Why Regular Replacement Matters](https://lasertechservice.pl/en/blog/diode-laser-cooling-filter-maintenance/)
