@@ -1,14 +1,14 @@
 {
   "status": "PASS",
-  "source_pages": 307,
-  "dist_pages": 307,
+  "source_pages": 313,
+  "dist_pages": 313,
   "languages": {
-    "pl": 103,
-    "en": 102,
-    "ru": 102
+    "pl": 105,
+    "en": 104,
+    "ru": 104
   },
-  "public_files": 1951,
-  "sitemap_urls": 306,
+  "public_files": 1973,
+  "sitemap_urls": 312,
   "missing_pages": [],
   "dist_only_pages": [],
   "pages": [
@@ -383,6 +383,16 @@
       "status": "ready"
     },
     {
+      "source": "blog/serwis-laserow-przemyslowych-i-technicznych/index.html",
+      "dist": true,
+      "url": "/blog/serwis-laserow-przemyslowych-i-technicznych/",
+      "language": "pl",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
       "source": "blog/smartpuls-ipl-linux-30000-impulsow/index.html",
       "dist": true,
       "url": "/blog/smartpuls-ipl-linux-30000-impulsow/",
@@ -636,6 +646,16 @@
       "source": "en/blog/index.html",
       "dist": true,
       "url": "/en/blog/",
+      "language": "en",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "en/blog/industrial-and-technical-laser-service/index.html",
+      "dist": true,
+      "url": "/en/blog/industrial-and-technical-laser-service/",
       "language": "en",
       "seo_preserved": true,
       "noindex": false,
@@ -1133,6 +1153,16 @@
       "status": "ready"
     },
     {
+      "source": "en/case-studies/longer-laser-engraver-calibration/index.html",
+      "dist": true,
+      "url": "/en/case-studies/longer-laser-engraver-calibration/",
+      "language": "en",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
       "source": "en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/index.html",
       "dist": true,
       "url": "/en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/",
@@ -1526,6 +1556,16 @@
       "source": "realizacje/index.html",
       "dist": true,
       "url": "/realizacje/",
+      "language": "pl",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "realizacje/kalibracja-plotera-laserowego-longer/index.html",
+      "dist": true,
+      "url": "/realizacje/kalibracja-plotera-laserowego-longer/",
       "language": "pl",
       "seo_preserved": true,
       "noindex": false,
@@ -2253,6 +2293,16 @@
       "status": "ready"
     },
     {
+      "source": "ru/blog/servis-promyshlennyh-i-tehnicheskih-lazerov/index.html",
+      "dist": true,
+      "url": "/ru/blog/servis-promyshlennyh-i-tehnicheskih-lazerov/",
+      "language": "ru",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
       "source": "ru/blog/sgorel-lazernyy-diod-remont-manipuly/index.html",
       "dist": true,
       "url": "/ru/blog/sgorel-lazernyy-diod-remont-manipuly/",
@@ -2366,6 +2416,16 @@
       "source": "ru/realizacje/index.html",
       "dist": true,
       "url": "/ru/realizacje/",
+      "language": "ru",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "ru/realizacje/kalibrovka-lazernogo-gravera-longer/index.html",
+      "dist": true,
+      "url": "/ru/realizacje/kalibrovka-lazernogo-gravera-longer/",
       "language": "ru",
       "seo_preserved": true,
       "noindex": false,

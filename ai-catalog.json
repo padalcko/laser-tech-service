@@ -1626,6 +1626,20 @@
       "related_services": []
     },
     {
+      "id": "article:blog:serwis-laserow-przemyslowych-i-technicznych",
+      "title": "Serwis laserów przemysłowych i technicznych – nie tylko kosmetologia",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/serwis-laserow-przemyslowych-i-technicznych/",
+      "description": "Serwis, diagnostyka, naprawa i kalibracja laserów technicznych, ploterów laserowych oraz grawerek CNC. Laser Tech Service – Wrocław i cała Polska.",
+      "topics": [],
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:serwis-laserow-co2"
+      ]
+    },
+    {
       "id": "article:blog:smartpuls-ipl-linux-30000-impulsow",
       "title": "smartPULS – niemiecki IPL z systemem Linux. Dlaczego sprawna lampa przestała działać po 30 000 impulsów?",
       "language": "pl",
@@ -1976,6 +1990,20 @@
       ],
       "dateModified": "2026-10-12",
       "related_services": []
+    },
+    {
+      "id": "article:en:blog:industrial-and-technical-laser-service",
+      "title": "Industrial and Technical Laser Service: Beyond Aesthetic Equipment",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/industrial-and-technical-laser-service/",
+      "description": "Diagnostics, repair and calibration of technical lasers, laser engravers and CNC laser equipment. Laser Tech Service in Wrocław and across Poland.",
+      "topics": [],
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:serwis-laserow-co2"
+      ]
     },
     {
       "id": "article:en:blog:laser-cooling-system-and-hair-removal-performance",
@@ -2877,6 +2905,20 @@
       "related_services": []
     },
     {
+      "id": "article:ru:blog:servis-promyshlennyh-i-tehnicheskih-lazerov",
+      "title": "Сервис промышленных и технических лазеров: не только косметология",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/servis-promyshlennyh-i-tehnicheskih-lazerov/",
+      "description": "Диагностика, ремонт и калибровка технических лазеров, лазерных граверов и станков CNC. Laser Tech Service во Вроцлаве и по всей Польше.",
+      "topics": [],
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:serwis-laserow-co2"
+      ]
+    },
+    {
       "id": "article:ru:blog:sgorel-lazernyy-diod-remont-manipuly",
       "title": "Сгорел лазерный диод: обязательно ли покупать новую манипулу?",
       "language": "ru",
@@ -3430,6 +3472,19 @@
       ]
     },
     {
+      "id": "case:en:case-studies:longer-laser-engraver-calibration",
+      "title": "LONGER Laser Engraver Calibration for Cutting and Engraving",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/case-studies/longer-laser-engraver-calibration/",
+      "description": "Technical and software calibration of a LONGER laser engraver. Diagnostics, troubleshooting and operational testing of laser equipment for plywood cutting.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": null,
+      "fault": [],
+      "performed_work": [],
+      "result": []
+    },
+    {
       "id": "case:en:case-studies:lumenis-lightsheer-desire-cooling-repair-olesnica",
       "title": "Lumenis LightSheer DESIRE repair in Oleśnica — coolant leak and cooling system failure",
       "language": "en",
@@ -3719,6 +3774,22 @@
       "result": [
         "Po wymianie przewodu i złożeniu urządzenia przetestowaliśmy system podciśnienia. Sprawdziliśmy pracę vacuum w manipule — funkcja ponownie działała po naprawie.",
         "Samo uruchomienie aparatu nie byłoby wystarczającym potwierdzeniem: przed serwisem również się włączał. Dlatego końcowa kontrola dotyczyła właśnie funkcji, z którą zgłoszono problem."
+      ]
+    },
+    {
+      "id": "case:realizacje:kalibracja-plotera-laserowego-longer",
+      "title": "Kalibracja plotera laserowego LONGER do cięcia i grawerowania",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/kalibracja-plotera-laserowego-longer/",
+      "description": "Kalibracja techniczna i programowa plotera laserowego LONGER. Diagnostyka, usunięcie problemu i sprawdzenie działania urządzenia do cięcia sklejki.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": null,
+      "fault": [],
+      "performed_work": [],
+      "result": [
+        "Zgłoszony problem został usunięty, a urządzenie prawidłowo skalibrowane zarówno pod względem technicznym, jak i programowym.",
+        "Ploter laserowy został przywrócony do pracy."
       ]
     },
     {
@@ -4478,6 +4549,22 @@
       "result": [
         "После замены кабеля и сборки протестировали вакуумную систему. Проверка подтвердила работу вакуума в манипуле после ремонта.",
         "Одного включения аппарата было бы недостаточно: он включался и до обращения в сервис. Поэтому заключительная проверка касалась именно той функции, с которой возникла проблема."
+      ]
+    },
+    {
+      "id": "case:ru:realizacje:kalibrovka-lazernogo-gravera-longer",
+      "title": "Калибровка лазерного гравера LONGER для резки и гравировки",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/kalibrovka-lazernogo-gravera-longer/",
+      "description": "Техническая и программная калибровка лазерного гравера LONGER. Диагностика, устранение проблемы и проверка работы оборудования для резки фанеры.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": null,
+      "fault": [],
+      "performed_work": [],
+      "result": [
+        "Заявленная проблема была устранена. Лазерное оборудование откалибровано как на техническом, так и на программном уровне.",
+        "Работоспособность устройства восстановлена."
       ]
     },
     {
@@ -5358,6 +5445,7 @@
       "https://lasertechservice.pl/blog/przeglad-techniczny-lasera-diodowego-checklista/": "https://lasertechservice.pl/blog/przeglad-techniczny-lasera-diodowego-checklista/index.md",
       "https://lasertechservice.pl/blog/przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody/": "https://lasertechservice.pl/blog/przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody/index.md",
       "https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/": "https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/index.md",
+      "https://lasertechservice.pl/blog/serwis-laserow-przemyslowych-i-technicznych/": "https://lasertechservice.pl/blog/serwis-laserow-przemyslowych-i-technicznych/index.md",
       "https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/": "https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/index.md",
       "https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/": "https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/index.md",
       "https://lasertechservice.pl/blog/system-chlodzenia-primelase-hr-excellence/": "https://lasertechservice.pl/blog/system-chlodzenia-primelase-hr-excellence/index.md",
@@ -5385,6 +5473,7 @@
       "https://lasertechservice.pl/en/blog/handpiece-connections-overheating-nd-yag-calibration/": "https://lasertechservice.pl/en/blog/handpiece-connections-overheating-nd-yag-calibration/index.md",
       "https://lasertechservice.pl/en/blog/hifu-technology-applications-service/": "https://lasertechservice.pl/en/blog/hifu-technology-applications-service/index.md",
       "https://lasertechservice.pl/en/blog/how-to-buy-a-used-hair-removal-laser/": "https://lasertechservice.pl/en/blog/how-to-buy-a-used-hair-removal-laser/index.md",
+      "https://lasertechservice.pl/en/blog/industrial-and-technical-laser-service/": "https://lasertechservice.pl/en/blog/industrial-and-technical-laser-service/index.md",
       "https://lasertechservice.pl/en/blog/laser-cooling-system-and-hair-removal-performance/": "https://lasertechservice.pl/en/blog/laser-cooling-system-and-hair-removal-performance/index.md",
       "https://lasertechservice.pl/en/blog/laser-cooling-system-cleaning-overheating/": "https://lasertechservice.pl/en/blog/laser-cooling-system-cleaning-overheating/index.md",
       "https://lasertechservice.pl/en/blog/laser-hair-removal-maintenance-schedule/": "https://lasertechservice.pl/en/blog/laser-hair-removal-maintenance-schedule/index.md",
@@ -5434,6 +5523,7 @@
       "https://lasertechservice.pl/en/case-studies/hifu-kimed-k1-w1601-service-gorlitz/": "https://lasertechservice.pl/en/case-studies/hifu-kimed-k1-w1601-service-gorlitz/index.md",
       "https://lasertechservice.pl/en/case-studies/laser-cooling-fan-replacement-wroclaw/": "https://lasertechservice.pl/en/case-studies/laser-cooling-fan-replacement-wroclaw/index.md",
       "https://lasertechservice.pl/en/case-studies/lightsheer-desire-cooling-tubing-repair-wroclaw/": "https://lasertechservice.pl/en/case-studies/lightsheer-desire-cooling-tubing-repair-wroclaw/index.md",
+      "https://lasertechservice.pl/en/case-studies/longer-laser-engraver-calibration/": "https://lasertechservice.pl/en/case-studies/longer-laser-engraver-calibration/index.md",
       "https://lasertechservice.pl/en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/": "https://lasertechservice.pl/en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/index.md",
       "https://lasertechservice.pl/en/case-studies/multipolar-rf-repair-lublin/": "https://lasertechservice.pl/en/case-studies/multipolar-rf-repair-lublin/index.md",
       "https://lasertechservice.pl/en/case-studies/nd-yag-tattoo-removal-laser-filter-service/": "https://lasertechservice.pl/en/case-studies/nd-yag-tattoo-removal-laser-filter-service/index.md",
@@ -5472,6 +5562,7 @@
       "https://lasertechservice.pl/partnerzy/": "https://lasertechservice.pl/partnerzy/index.md",
       "https://lasertechservice.pl/realizacje/": "https://lasertechservice.pl/realizacje/index.md",
       "https://lasertechservice.pl/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/": "https://lasertechservice.pl/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/index.md",
+      "https://lasertechservice.pl/realizacje/kalibracja-plotera-laserowego-longer/": "https://lasertechservice.pl/realizacje/kalibracja-plotera-laserowego-longer/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-3000-nain-bloku-zasilania/": "https://lasertechservice.pl/realizacje/naprawa-3000-nain-bloku-zasilania/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/": "https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/": "https://lasertechservice.pl/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/index.md",
@@ -5545,6 +5636,7 @@
       "https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/": "https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/index.md",
       "https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/": "https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/index.md",
       "https://lasertechservice.pl/ru/blog/proverka-bu-lazera-pered-pokupkoy/": "https://lasertechservice.pl/ru/blog/proverka-bu-lazera-pered-pokupkoy/index.md",
+      "https://lasertechservice.pl/ru/blog/servis-promyshlennyh-i-tehnicheskih-lazerov/": "https://lasertechservice.pl/ru/blog/servis-promyshlennyh-i-tehnicheskih-lazerov/index.md",
       "https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/": "https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/index.md",
       "https://lasertechservice.pl/ru/blog/sistema-ohlazhdeniya-primelase-hr-excellence/": "https://lasertechservice.pl/ru/blog/sistema-ohlazhdeniya-primelase-hr-excellence/index.md",
       "https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/": "https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/index.md",
@@ -5556,6 +5648,7 @@
       "https://lasertechservice.pl/ru/partnerzy/": "https://lasertechservice.pl/ru/partnerzy/index.md",
       "https://lasertechservice.pl/ru/realizacje/": "https://lasertechservice.pl/ru/realizacje/index.md",
       "https://lasertechservice.pl/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/": "https://lasertechservice.pl/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/index.md",
+      "https://lasertechservice.pl/ru/realizacje/kalibrovka-lazernogo-gravera-longer/": "https://lasertechservice.pl/ru/realizacje/kalibrovka-lazernogo-gravera-longer/index.md",
       "https://lasertechservice.pl/ru/realizacje/naprawa-3000-nain-bloku-zasilania/": "https://lasertechservice.pl/ru/realizacje/naprawa-3000-nain-bloku-zasilania/index.md",
       "https://lasertechservice.pl/ru/realizacje/naprawa-alma-accent-gorlitz/": "https://lasertechservice.pl/ru/realizacje/naprawa-alma-accent-gorlitz/index.md",
       "https://lasertechservice.pl/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/": "https://lasertechservice.pl/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/index.md",
@@ -5629,5 +5722,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-11-25T09:00:57Z"
+  "generated_at": "2026-11-25T11:27:24Z"
 }

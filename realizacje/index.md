@@ -16,6 +16,16 @@ Pokazujemy rzeczywiste realizacje serwisowe: zakres zlecenia, wykonane prace ora
 
 Każde urządzenie wymaga indywidualnej diagnostyki. Poniżej prezentujemy wybrane realizacje naszego serwisu.
 
+![Ploter laserowy CNC LONGER podczas kalibracji w Laser Tech Service](https://lasertechservice.pl/img/realizacje/longer-laser-calibration/longer-laser-engraver-calibration.webp)
+
+Lasery techniczne
+
+## [Kalibracja plotera laserowego LONGER](https://lasertechservice.pl/realizacje/kalibracja-plotera-laserowego-longer/)
+
+Diagnostyka, usunięcie problemu oraz kalibracja techniczna i programowa urządzenia do cięcia i grawerowania.
+
+[Zobacz realizację →](https://lasertechservice.pl/realizacje/kalibracja-plotera-laserowego-longer/)
+
 ![Serwis lasera Primelase we Wrocławiu](https://lasertechservice.pl/img/realizacje/primelase-hr-excellence/primelase-laser-service-wroclaw.webp)
 
 WrocławPrimelase
@@ -424,6 +434,7 @@ Serwisujemy lasery diodowe, urządzenia ND:YAG, IPL, CO2 oraz inne urządzenia w
 
 ## Powiązane realizacje
 
+- [Kalibracja plotera laserowego LONGER do cięcia i grawerowania](https://lasertechservice.pl/realizacje/kalibracja-plotera-laserowego-longer/)
 - [Naprawa wentylatora Primelase HR Excellence i wymiana łożyska we Wrocławiu](https://lasertechservice.pl/realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/)
 - [Serwis lasera diodowego Aragon we Wrocławiu. Wymiana filtra i konserwacja układu chłodzenia](https://lasertechservice.pl/realizacje/serwis-lasera-aragon-wroclaw/)
 - [Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/)

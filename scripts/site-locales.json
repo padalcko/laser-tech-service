@@ -2029,6 +2029,44 @@
           "status": "published"
         }
       }
+    },
+    {
+      "id": "realizacje:kalibracja-plotera-laserowego-longer",
+      "type": "case-study",
+      "x_default": "/realizacje/kalibracja-plotera-laserowego-longer/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/kalibracja-plotera-laserowego-longer/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/kalibrovka-lazernogo-gravera-longer/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/longer-laser-engraver-calibration/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "blog:serwis-laserow-przemyslowych-i-technicznych",
+      "type": "article",
+      "x_default": "/blog/serwis-laserow-przemyslowych-i-technicznych/",
+      "routes": {
+        "pl": {
+          "url": "/blog/serwis-laserow-przemyslowych-i-technicznych/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/servis-promyshlennyh-i-tehnicheskih-lazerov/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/industrial-and-technical-laser-service/",
+          "status": "published"
+        }
+      }
     }
   ]
 }

@@ -16,6 +16,16 @@ Actual service work: the job scope, completed repairs and photographic and video
 
 Every device needs individual diagnostics. Explore selected examples of our service work below.
 
+![LONGER CNC laser engraver during calibration at Laser Tech Service](https://lasertechservice.pl/img/realizacje/longer-laser-calibration/longer-laser-engraver-calibration.webp)
+
+Technical Lasers
+
+## [LONGER Laser Engraver Calibration](https://lasertechservice.pl/en/case-studies/longer-laser-engraver-calibration/)
+
+Diagnostics, troubleshooting, technical and software calibration of laser cutting and engraving equipment.
+
+[View case study →](https://lasertechservice.pl/en/case-studies/longer-laser-engraver-calibration/)
+
 ![Primelase laser service in Wrocław](https://lasertechservice.pl/img/realizacje/primelase-hr-excellence/primelase-laser-service-wroclaw.webp)
 
 WrocławPrimelase
@@ -424,6 +434,7 @@ We service diode lasers, Nd:YAG, IPL, CO₂ and other equipment used in aestheti
 
 ## Related repairs
 
+- [LONGER Laser Engraver Calibration for Cutting and Engraving](https://lasertechservice.pl/en/case-studies/longer-laser-engraver-calibration/)
 - [Primelase HR Excellence Cooling Fan Bearing Replacement in Wrocław](https://lasertechservice.pl/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/)
 - [Aragon Diode Laser Maintenance in Wrocław — Cooling Filter and Water Replacement](https://lasertechservice.pl/en/case-studies/aragon-diode-laser-service-wroclaw/)
 - [Diode Laser Repair in Zielona Góra. Water Flow Sensor Replacement](https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/)

@@ -156,6 +156,16 @@ Frontend Developer & SEO Engineer
 
 Каждый ремонт — отдельная техническая задача. Посмотрите реальные примеры неисправностей и выполненных работ.
 
+![Лазерный гравер CNC LONGER во время калибровки в Laser Tech Service](https://lasertechservice.pl/img/realizacje/longer-laser-calibration/longer-laser-engraver-calibration.webp)
+
+Технические лазеры
+
+### [Калибровка лазерного гравера LONGER](https://lasertechservice.pl/ru/realizacje/kalibrovka-lazernogo-gravera-longer/)
+
+Диагностика, устранение проблемы, техническая и программная калибровка оборудования для резки и гравировки.
+
+[Посмотреть реализацию →](https://lasertechservice.pl/ru/realizacje/kalibrovka-lazernogo-gravera-longer/)
+
 ![Сервис лазера Primelase во Вроцлаве](https://lasertechservice.pl/img/realizacje/primelase-hr-excellence/primelase-laser-service-wroclaw.webp)
 
 WrocławPrimelase
@@ -175,16 +185,6 @@ WrocławAragon / Beauty Planet
 Обслуживание диодного лазера Aragon Beauty Planet во Вроцлаве. Замена фильтра, охлаждающей воды и проверка системы охлаждения.
 
 [Смотреть реализацию](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/)
-
-![Диодный лазер спереди во время ремонта в Зелёна-Гуре](https://lasertechservice.pl/img/realizacje/zielona-gora-czujnik-przeplywu/laser-diodowy-naprawa-zielona-gora.webp)
-
-Zielona GóraСистема охлаждения
-
-### [Ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)
-
-Выездной ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды, обслуживание системы охлаждения и очистка манипулы.
-
-[Посмотреть реализацию](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)
 
 [Все наши работы](https://lasertechservice.pl/ru/realizacje/)[Блог](https://lasertechservice.pl/ru/blog/)
 
@@ -229,6 +229,6 @@ ul. Marszałka Józefa Piłsudskiego 74, lok. 320
 
 ## Связанные работы
 
+- [Калибровка лазерного гравера LONGER для резки и гравировки](https://lasertechservice.pl/ru/realizacje/kalibrovka-lazernogo-gravera-longer/)
 - [Ремонт вентилятора Primelase HR Excellence и замена подшипника во Вроцлаве](https://lasertechservice.pl/ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/)
 - [Техническое обслуживание диодного лазера Aragon во Вроцлаве. Замена фильтра и охлаждающей жидкости](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/)
-- [Ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)

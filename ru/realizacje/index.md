@@ -16,6 +16,16 @@
 
 Каждое устройство требует индивидуальной диагностики. Ниже представлены отдельные примеры нашей работы.
 
+![Лазерный гравер CNC LONGER во время калибровки в Laser Tech Service](https://lasertechservice.pl/img/realizacje/longer-laser-calibration/longer-laser-engraver-calibration.webp)
+
+Технические лазеры
+
+## [Калибровка лазерного гравера LONGER](https://lasertechservice.pl/ru/realizacje/kalibrovka-lazernogo-gravera-longer/)
+
+Диагностика, устранение проблемы, техническая и программная калибровка оборудования для резки и гравировки.
+
+[Посмотреть реализацию →](https://lasertechservice.pl/ru/realizacje/kalibrovka-lazernogo-gravera-longer/)
+
 ![Сервис лазера Primelase во Вроцлаве](https://lasertechservice.pl/img/realizacje/primelase-hr-excellence/primelase-laser-service-wroclaw.webp)
 
 WrocławPrimelase
@@ -424,6 +434,7 @@ RF Вакуум Диагностика Ремонт
 
 ## Связанные работы
 
+- [Калибровка лазерного гравера LONGER для резки и гравировки](https://lasertechservice.pl/ru/realizacje/kalibrovka-lazernogo-gravera-longer/)
 - [Ремонт вентилятора Primelase HR Excellence и замена подшипника во Вроцлаве](https://lasertechservice.pl/ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/)
 - [Техническое обслуживание диодного лазера Aragon во Вроцлаве. Замена фильтра и охлаждающей жидкости](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/)
 - [Ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)

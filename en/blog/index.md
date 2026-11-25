@@ -10,6 +10,12 @@ Other language version: [Polski](https://lasertechservice.pl/blog/), [Русск
 
 Practical knowledge about servicing, diagnostics, repairs and operation of laser and aesthetic equipment.
 
+Technical Lasers2026-11-25
+
+## [Industrial and Technical Laser Service](https://lasertechservice.pl/en/blog/industrial-and-technical-laser-service/)
+
+Laser Tech Service goes beyond aesthetic equipment. Discover our laser diagnostics, repair and calibration capabilities.
+
 Laser Tech Service2026-11-25
 
 ## [Primelase HR Excellence Cooling System: Why Cooling Fan Condition Matters](https://lasertechservice.pl/en/blog/primelase-hr-excellence-cooling-system/)
@@ -270,6 +276,7 @@ Warranty, work documentation, service history, prompt on-site visits and respons
 
 ## Related articles
 
+- [Industrial and Technical Laser Service: Beyond Aesthetic Equipment](https://lasertechservice.pl/en/blog/industrial-and-technical-laser-service/)
 - [Primelase HR Excellence Cooling System: Why Cooling Fan Condition Matters](https://lasertechservice.pl/en/blog/primelase-hr-excellence-cooling-system/)
 - [Laser Cooling and Hair Removal Performance: Why a Reliable Cooling System Matters](https://lasertechservice.pl/en/blog/laser-cooling-system-and-hair-removal-performance/)
 - [How Often Should a Laser Hair Removal Machine Be Serviced? A Practical Guide for Clinic Owners](https://lasertechservice.pl/en/blog/laser-hair-removal-maintenance-schedule/)

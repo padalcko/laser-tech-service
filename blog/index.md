@@ -10,6 +10,12 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/), [
 
 Praktyczna wiedza o serwisie, diagnostyce, naprawach i eksploatacji urządzeń laserowych oraz kosmetycznych.
 
+Lasery techniczne2026-11-25
+
+## [Serwis laserów przemysłowych i technicznych](https://lasertechservice.pl/blog/serwis-laserow-przemyslowych-i-technicznych/)
+
+Laser Tech Service to nie tylko kosmetologia. Poznaj nasze możliwości w zakresie diagnostyki, naprawy i kalibracji urządzeń laserowych.
+
 Laser Tech Service2026-11-25
 
 ## [Układ chłodzenia Primelase HR Excellence. Dlaczego stan wentylatora ma znaczenie dla całego urządzenia?](https://lasertechservice.pl/blog/system-chlodzenia-primelase-hr-excellence/)
@@ -270,6 +276,7 @@ Gwarancja, dokumentacja wykonanych prac, historia serwisowa, możliwość szybki
 
 ## Powiązane artykuły
 
+- [Serwis laserów przemysłowych i technicznych – nie tylko kosmetologia](https://lasertechservice.pl/blog/serwis-laserow-przemyslowych-i-technicznych/)
 - [Układ chłodzenia Primelase HR Excellence. Dlaczego stan wentylatora ma znaczenie dla całego urządzenia?](https://lasertechservice.pl/blog/system-chlodzenia-primelase-hr-excellence/)
 - [Chłodzenie lasera a skuteczność depilacji. Dlaczego sprawny układ chłodzenia jest tak ważny?](https://lasertechservice.pl/blog/chlodzenie-lasera-a-skutecznosc-depilacji/)
 - [Jak często należy serwisować laser do depilacji? Praktyczny poradnik dla właścicieli salonów](https://lasertechservice.pl/blog/jak-czesto-serwisowac-laser-do-depilacji/)

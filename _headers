@@ -186,6 +186,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/blog/serwis-laserow-przemyslowych-i-technicznych/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/blog/serwis-laserow-przemyslowych-i-technicznych/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /blog/smartpuls-ipl-linux-30000-impulsow/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -320,6 +325,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/blog/how-to-buy-a-used-hair-removal-laser/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/en/blog/industrial-and-technical-laser-service/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/blog/industrial-and-technical-laser-service/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /en/blog/laser-cooling-system-and-hair-removal-performance/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -566,6 +576,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/case-studies/lightsheer-desire-cooling-tubing-repair-wroclaw/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/en/case-studies/longer-laser-engraver-calibration/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/case-studies/longer-laser-engraver-calibration/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -755,6 +770,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/realizacje/kalibracja-plotera-laserowego-longer/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/realizacje/kalibracja-plotera-laserowego-longer/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /realizacje/naprawa-3000-nain-bloku-zasilania/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -1121,6 +1141,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/blog/proverka-bu-lazera-pered-pokupkoy/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/ru/blog/servis-promyshlennyh-i-tehnicheskih-lazerov/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/blog/servis-promyshlennyh-i-tehnicheskih-lazerov/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /ru/blog/sgorel-lazernyy-diod-remont-manipuly/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -1175,6 +1200,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/realizacje/kalibrovka-lazernogo-gravera-longer/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/realizacje/kalibrovka-lazernogo-gravera-longer/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/realizacje/naprawa-3000-nain-bloku-zasilania/index.md
   Content-Type: text/markdown; charset=utf-8
