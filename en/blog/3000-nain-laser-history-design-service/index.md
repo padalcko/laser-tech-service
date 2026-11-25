@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/3000-nain-lase
 
 > A closer look at the 3000 NAIN: model history, Q-switched Nd:YAG technology, its large housing and the importance of electronics repair. What is known and what remains unconfirmed?
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-09-19
 

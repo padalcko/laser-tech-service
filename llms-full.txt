@@ -23632,7 +23632,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/3000
 
 > 3000 NAIN z bliska: historia modelu, technologia Nd:YAG Q-Switched, duża obudowa i znaczenie naprawy elektroniki. Co wiemy, a czego nie potwierdzono?
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-09-19
 
@@ -23740,7 +23740,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/5-pr
 
 > Poznaj 5 oznak, które mogą wskazywać na zużycie lub uszkodzenie diody w laserze do depilacji. Sprawdź, kiedy potrzebna jest diagnostyka i wymiana diody laserowej.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-09-10
 
@@ -24190,7 +24190,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/ohla
 
 > Jak chłodzenie wpływa na pracę lasera diodowego? Poznaj przyczyny przegrzewania, problemy z przepływem cieczy i znaczenie kontroli temperatury.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-24
 
@@ -24531,7 +24531,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/chis
 
 > Profesjonalne czyszczenie głowicy lasera do depilacji, kontrola optyki, chłodzenia i pomiar mocy. Sprawdź, dlaczego sama dezynfekcja nie wystarcza.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-24
 
@@ -24718,7 +24718,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/ochi
 
 > Jak kurz ogranicza chłodzenie lasera? Przyczyny awarii, dobór wentylatorów według przepływu i ciśnienia, objawy przegrzania oraz zasady konserwacji.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Regularne czyszczenie pomaga zachować drożność kanałów powietrznych i zdolność oddawania ciepła. Kurz może ograniczać przepływ, zanieczyszczać radiatory oraz pogarszać warunki pracy wentylatorów. Sama wymiana wentylatora nie rozwiązuje problemu zatkanego układu: potrzebne są diagnostyka, właściwy dobór części i konserwacja zgodna z dokumentacją urządzenia.
 
@@ -24880,7 +24880,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/poch
 
 > Aparat się włącza, ale manipuła nie działa? Wyjaśniamy, jak wewnętrzne uszkodzenie przewodu zatrzymuje funkcję urządzenia, na przykładzie Beauty Planet 3D Contour.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-09-30
 
@@ -24960,7 +24960,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/poch
 
 > Źle założona uszczelka doprowadziła do zalania diody w laserze w Poznaniu. Wyjaśniamy ryzyko, koszty i objawy wymagające wyłączenia urządzenia.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-10-05
 
@@ -25068,7 +25068,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/poch
 
 > Dlaczego moduły diodowe w laserach do depilacji ulegają uszkodzeniu? Przyczyny, objawy, koszty awarii oraz znaczenie diagnostyki i regularnego serwisu.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-09-15
 
@@ -25296,7 +25296,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/poch
 
 > Dlaczego rurki chłodzenia tracą szczelność, kiedy wymienić osłonę i co zrobić przy wycieku? Wyjaśnienie na przykładzie naprawy dla klienta z Pragi.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-02
 
@@ -25525,7 +25525,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/zach
 
 > Dlaczego regularny serwis laserów jest ważny? Wyjaśniamy rolę chłodzenia, czyszczenia i uszczelnienia głowicy na przykładzie z Warszawy.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-05
 
@@ -25785,7 +25785,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/filt
 
 > Dlaczego zabrudzony filtr chłodzenia może uszkodzić laser diodowy? Objawy, zagrożenia, kontrola i wymiana filtrów w laserach do depilacji.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-21
 
@@ -25923,7 +25923,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/kogd
 
 > Dlaczego filtr wody w laserze diodowym może przeciekać? Poznaj przypadek z Gliwic i dowiedz się, jak zapobiegać przegrzewaniu lasera.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-10-28
 
@@ -25989,7 +25989,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/hifu
 
 > HIFU – co to jest i jak działa? Wyjaśniamy zasadę działania skoncentrowanych ultradźwięków, głębokości 1,5, 3,0 i 4,5 mm, zastosowanie HIFU, budowę urządzeń oraz ich serwis.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-09-14
 
@@ -26335,7 +26335,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/kak-
 
 > Jak często wykonywać przegląd lasera do depilacji? Sprawdź zasady konserwacji, wymiany filtrów, kontroli chłodzenia i pomiaru mocy lasera.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-24
 
@@ -26785,7 +26785,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/kaku
 
 > Jaka woda nadaje się do chłodzenia lasera do depilacji? Wyjaśniamy różnice między wodą destylowaną i dejonizowaną oraz znaczenie przewodności.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-21
 
@@ -27079,7 +27079,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/co2-
 
 > Brak reakcji lasera CO₂ na pedał nie musi oznaczać awarii pedału. Przypadek z Poznania pokazuje, dlaczego najpierw szukamy przerwy w obwodzie.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-10-06
 
@@ -27181,7 +27181,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/laze
 
 > Dlaczego laser diodowy nie chce się uruchomić? Poznaj przypadek awarii czujnika przepływu wody i naprawy na miejscu w Zielonej Górze.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-20
 
@@ -27364,7 +27364,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/laze
 
 > Długi przestój lasera wymaga kontroli chłodzenia. Dowiedz się, jak osady i słaby przepływ wpływają na aparat oraz dlaczego wymiana przewodów jest pracochłonna.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-10-27
 
@@ -27541,7 +27541,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/laze
 
 > Ładny ekran nie potwierdza sprawności lasera. Starzenie diod, chłodzenie, pomiary i pytania, które warto zadać salonowi przed depilacją.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-10-27
 
@@ -27666,7 +27666,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/ligh
 
 > LightSheer DESIRE, technologia HIT i ChillTip: jak chłodzenie, osady oraz uszczelnienia wpływają na niezawodność? Wnioski z naprawy w Oleśnicy.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Wiek profesjonalnego lasera nie przesądza o jego dalszej przydatności. Na przykładzie urządzenia mającego około dziesięciu lat wyjaśniamy technologię LightSheer DESIRE oraz rolę drożnego i szczelnego obiegu chłodzenia. Kwota około 200 000 zł jest orientacyjnym odniesieniem do klasy sprzętu, nie aktualną ceną naprawianego egzemplarza.
 
@@ -27795,7 +27795,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/modu
 
 > Jak działa moduł Peltiera w głowicy lasera? Objawy usterek, rola termopasty, odprowadzanie ciepła i znaczenie diagnostyki przed wymianą TEC.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-10-15
 
@@ -27915,7 +27915,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/nubw
 
 > Poznaj NUBWAY NBW-VSIII: masaż próżniowy, RF, IR, parametry, typowe usterki i serwis układu podciśnienia.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-03
 
@@ -28111,7 +28111,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/phar
 
 > Pharaon 1470, LSO Medical i OSYRIS: historia oznaczeń, znaczenie długości fali 1470 nm oraz jej zastosowanie w medycynie, na podstawie źródeł i badań.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-09-30
 
@@ -28189,7 +28189,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/plan
 
 > Dlaczego warto wykonywać planowy przegląd lasera diodowego? Wyjaśniamy znaczenie czyszczenia, kontroli układu chłodzenia, filtra, wody i sprawdzenia urządzenia po serwisie.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-09-12
 
@@ -28448,7 +28448,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/podk
 
 > Dlaczego podłączenie głowic wpływa na chłodzenie? Moduł Peltiera, objawy przegrzewania i kalibracja Nd:YAG po wymianie elementu laserowego.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Dlaczego podłączenie głowic wpływa na chłodzenie? Moduł Peltiera, objawy przegrzewania i kalibracja Nd:YAG po wymianie elementu laserowego.
 
@@ -28696,7 +28696,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/izme
 
 > Ile mocy naprawdę ma Twój laser? Poznaj technologię LaserPoint, normy bezpieczeństwa i możliwości diagnostyczne Laser Tech Service Wrocław.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-09
 
@@ -28854,7 +28854,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/chek
 
 > Jak kontrolować chłodzenie lasera do depilacji? Lista czynności dla operatora i technika serwisowego, kontrola filtra, wody i pompy.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-21
 
@@ -29008,7 +29008,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/pere
 
 > Czy zbyt długie przewody mogą przegrzewać głowicę lasera? Poznaj przyczyny, ryzyko samodzielnej naprawy i przypadek serwisowy z Lubina.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-10-29
 
@@ -29090,7 +29090,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/obsl
 
 > Nieszczelna głowica lasera może powodować zabrudzenie optyki, spadek skuteczności zabiegów i ryzyko uszkodzenia modułu diodowego. Zobacz rzeczywisty przypadek serwisowy.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-09-11
 
@@ -29304,7 +29304,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/serv
 
 > Serwis, diagnostyka, naprawa i kalibracja laserów technicznych, ploterów laserowych oraz grawerek CNC. Laser Tech Service – Wrocław i cała Polska.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-25
 
@@ -29478,7 +29478,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/smar
 
 > smartPULS na Linux: diagnostyka IPL w Świdnicy, interwał 30 000 impulsów i hipotezy dotyczące obwodu głowicy. Fakty i granice ustaleń serwisowych.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-06
 
@@ -29610,7 +29610,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/sgor
 
 > Czy spalona dioda oznacza konieczność zakupu nowej głowicy? Poznaj rzeczywisty przypadek wymiany diody i możliwości naprawy manipuły w Laser Tech Service.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Czy spalona dioda oznacza konieczność zakupu nowej głowicy? Poznaj rzeczywisty przypadek wymiany diody i możliwości naprawy manipuły w Laser Tech Service.
 
@@ -29691,7 +29691,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/sist
 
 > Jak działa układ chłodzenia lasera Primelase HR Excellence? Rola wentylatora, modułów Peltiera, chłodnicy i skutki zużycia łożysk.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-25
 
@@ -29870,7 +29870,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/povr
 
 > Jak uszkodzony przewód lub złącze wpływa na pracę manipuły? Objawy, przyczyny, pielęgnacja kabla i przykład naprawy aparatu RSL w Warszawie.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-10-09
 
@@ -30156,7 +30156,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/wate
 
 > Płyn jest w laserze, ale nie ma obiegu? Wyjaśniamy Water flow error, rolę szczotek silnika i kiedy warto naprawić pompę zamiast ją wymieniać.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-02
 
@@ -30258,7 +30258,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/zame
 
 > Dlaczego chłodzenie lasera wymaga regularnej obsługi? Jakość wody, obieg, ryzyko przegrzania i terminy wymiany zgodne z dokumentacją urządzenia.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-10-09
 
@@ -30364,7 +30364,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/3000-nain-lase
 
 > A closer look at the 3000 NAIN: model history, Q-switched Nd:YAG technology, its large housing and the importance of electronics repair. What is known and what remains unconfirmed?
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-09-19
 
@@ -30716,7 +30716,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/spalona-dioda-
 
 > Does a burned-out laser diode mean you need a new handpiece? Explore a real diode replacement, the repair outcome and what to consider before replacement.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Does a burned-out laser diode mean you need a new handpiece? Explore a real diode replacement, the repair outcome and what to consider before replacement.
 
@@ -30797,7 +30797,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/laser-co2-nie-
 
 > A CO₂ laser failing to respond to its pedal does not necessarily have a faulty pedal. A Poznań case shows why we investigate the circuit first.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-10-06
 
@@ -30899,7 +30899,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/uszkodzony-prz
 
 > How does a damaged cable or connector affect handpiece operation? Symptoms, causes, cable care and an RSL repair example from Warsaw.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-10-09
 
@@ -31011,7 +31011,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/lasery-dinozau
 
 > A working screen is not proof of laser performance. Diode wear, cooling, measurements and the questions to ask before booking hair removal.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-10-27
 
@@ -31136,7 +31136,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/filtr-chlodzen
 
 > Learn how contaminated cooling filters affect diode laser performance, coolant circulation and equipment reliability.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-21
 
@@ -31266,7 +31266,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/jaka-woda-do-l
 
 > Distilled or deionized water for diode lasers? Learn about coolant quality, electrical conductivity, contamination and maintenance.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-21
 
@@ -31416,7 +31416,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/serwis-glowicy
 
 > Compromised handpiece sealing can contaminate optics, reduce treatment effectiveness and risk diode module damage. See an actual service case.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-09-11
 
@@ -31630,7 +31630,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/przeglad-techn
 
 > A practical diode laser cooling system maintenance checklist covering filters, coolant, pumps, sensors and leak inspection.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-21
 
@@ -31786,7 +31786,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/laser-nie-dzia
 
 > Learn how a faulty water flow sensor can prevent a diode laser from operating and how on-site repair reduced downtime in Zielona Góra.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-20
 
@@ -31985,7 +31985,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/filtr-wody-las
 
 > A cracked water filter fitting caused coolant loss and overheating in Gliwice. Learn why regular diode laser filter maintenance matters.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-10-28
 
@@ -32053,7 +32053,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/5-oznak-wymian
 
 > Discover 5 signs that may indicate wear or damage to a hair removal laser diode. Learn when diagnostics and laser diode replacement are needed.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-09-10
 
@@ -32259,7 +32259,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/wymiana-wody-w
 
 > Why does laser cooling need regular maintenance? Water quality, circulation, overheating risks and replacement intervals based on device documentation.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-10-09
 
@@ -32365,7 +32365,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/podlaczenie-gl
 
 > Why do handpiece connections affect cooling? Peltier modules, overheating symptoms and Nd:YAG calibration after laser component replacement.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Why do handpiece connections affect cooling? Peltier modules, overheating symptoms and Nd:YAG calibration after laser component replacement.
 
@@ -32613,7 +32613,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/hifu-co-to-jes
 
 > What is HIFU and how does it work? Focused ultrasound principles, 1.5, 3.0 and 4.5 mm depths, applications, device construction and servicing explained.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-09-14
 
@@ -33161,7 +33161,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/serwis-laserow
 
 > Diagnostics, repair and calibration of technical lasers, laser engravers and CNC laser equipment. Laser Tech Service in Wrocław and across Poland.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-25
 
@@ -33337,7 +33337,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/chlodzenie-las
 
 > Learn how laser cooling affects diode performance, output stability and equipment lifespan. Discover common cooling faults and overheating warning signs.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-24
 
@@ -33678,7 +33678,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/czyszczenie-uk
 
 > How does dust restrict laser cooling? Causes of failure, fan selection by flow and pressure, overheating symptoms and maintenance principles.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Regular cleaning helps keep air passages clear and maintain heat dissipation. Dust can restrict airflow, contaminate heat sinks and impair fan operating conditions. Replacing a fan alone does not resolve a blocked system: diagnostics, correct component selection and maintenance in accordance with the device documentation are needed.
 
@@ -33840,7 +33840,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/jak-czesto-ser
 
 > Learn when to service a laser hair removal machine, including filter replacement, cooling system checks, optical inspection and laser output measurement.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-24
 
@@ -34088,7 +34088,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/czyszczenie-gl
 
 > Professional laser handpiece cleaning, optical inspection, cooling system maintenance and laser output measurement. Learn why disinfection alone is not enough.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-24
 
@@ -34275,7 +34275,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/przegrzewanie-
 
 > Can long wires cause laser handpiece overheating? Learn about electrical resistance, soldering risks and a real repair in Lubin.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-10-29
 
@@ -34367,7 +34367,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/pomiar-mocy-la
 
 > How much power does your laser really deliver? Discover LaserPoint measurement technology, laser safety standards and Laser Tech Service diagnostics.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-09
 
@@ -34615,7 +34615,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/laser-po-roku-
 
 > Long laser downtime calls for cooling checks. Learn how deposits and poor circulation affect equipment and why replacing cooling tubing takes time.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-10-27
 
@@ -34714,7 +34714,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/water-flow-err
 
 > Coolant is present but the laser has no flow. Learn how pump brushes can fail, what Water flow error means and when pump repair may be worthwhile.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-02
 
@@ -34816,7 +34816,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/lightsheer-des
 
 > LightSheer DESIRE, HIT and ChillTip: how do cooling, deposits and seals affect reliability? Lessons from an Oleśnica repair.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 A professional laser’s age does not determine its continuing usefulness. Using a roughly ten-year-old device as an example, we explain LightSheer DESIRE technology and the importance of a clear, leak-free cooling circuit. Approximately PLN 200,000 is an indicative reference to this equipment class, not the current price of the repaired unit.
 
@@ -34945,7 +34945,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/nubway-nbw-vsi
 
 > Explore NUBWAY NBW-VSIII vacuum massage technology, RF, IR, technical specifications and maintenance requirements.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-03
 
@@ -35161,7 +35161,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/modul-peltiera
 
 > How does a laser handpiece Peltier module work? Fault symptoms, thermal paste, heat removal and the importance of diagnostics before TEC replacement.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-10-15
 
@@ -35281,7 +35281,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/pharaon-1470-h
 
 > Pharaon 1470, LSO Medical and OSYRIS: the history of the names, the meaning of 1470 nm and its medical applications, based on sources and studies.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-09-30
 
@@ -35359,7 +35359,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/system-chlodze
 
 > Technical overview of the Primelase HR Excellence cooling system, Peltier modules, radiator airflow and cooling fan bearing failure.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-25
 
@@ -35628,7 +35628,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/dlaczego-nie-w
 
 > An incorrectly fitted seal flooded a laser diode module in Poznań. We explain the risks, costs and symptoms requiring the device to be switched off.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-10-05
 
@@ -35736,7 +35736,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/planowy-przegl
 
 > Why arrange scheduled diode laser maintenance? The importance of cleaning, cooling checks, filters, water and testing after servicing explained.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-09-12
 
@@ -35995,7 +35995,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/smartpuls-ipl-
 
 > A smartPULS IPL service visit in Świdnica: Linux controls, the 30,000-pulse interval and handpiece circuit hypotheses, with evidence limits explained.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-06
 
@@ -36454,7 +36454,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/dlaczego-maly-
 
 > The device switches on but the handpiece does not work? We explain how internal wire damage can disable a function, using a Beauty Planet 3D Contour example.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-09-30
 
@@ -36534,7 +36534,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/dlaczego-serwi
 
 > Learn why regular diode laser maintenance, coolant replacement, internal cleaning and handpiece sealing help protect cosmetic laser equipment.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-05
 
@@ -36689,7 +36689,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/dlaczego-przew
 
 > Why cooling tubes deteriorate, why replacing the sleeve alone may not help, and what to do about a leak. A repair example from Laser Tech Service.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-02
 
@@ -36791,7 +36791,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/dlaczego-pala-
 
 > Why do hair removal laser diode modules fail? Causes, symptoms, failure costs and the importance of diagnostics and regular servicing.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-09-15
 
@@ -37146,7 +37146,7 @@ If your beauty studio requires professional laser servicing or technical support
 
 > Знакомимся с 3000 NAIN: история модели, Nd:YAG Q-Switched, устройство корпуса и ремонт электроники. Подтверждённые сведения и наблюдения сервисной команды.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-09-19
 
@@ -37254,7 +37254,7 @@ Nd:YAG обозначает активную среду лазера, а Q-Switc
 
 > 5 признаков, которые могут указывать на износ или неисправность диода в лазере для эпиляции. Когда нужна диагностика и когда действительно требуется замена диода.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-09-10
 
@@ -37716,7 +37716,7 @@ Beauty Planet 3D Contour может быть интересной платфор
 
 > Практический чек-лист обслуживания лазера для эпиляции: фильтры, охлаждающая жидкость, насос, датчики и проверка герметичности.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-11-21
 
@@ -37876,7 +37876,7 @@ Laser Tech Service проводит техническое обслуживан�
 
 > Профессиональная чистка лазерной манипулы, проверка оптики, системы охлаждения и мощности лазера. Почему одной дезинфекции недостаточно?
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-11-24
 
@@ -38063,7 +38063,7 @@ Laser Tech Service выполняет диагностику, ремонт и о
 
 > Почему исправная педаль может казаться сломанной? Разбираем поиск обрыва провода манипулы на примере срочного ремонта CO₂-аппарата в Познани.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-10-06
 
@@ -38167,7 +38167,7 @@ CO₂-аппарат в студии медицинской эстетики п�
 
 > Чем опасен загрязнённый фильтр охлаждения лазера для эпиляции? Причины перегрева, признаки неисправности и правила обслуживания.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-11-21
 
@@ -38301,7 +38301,7 @@ Laser Tech Service обслуживает и ремонтирует лазеры
 
 > HIFU — что это и как работает? Объясняем принцип сфокусированного ультразвука, глубины 1,5, 3,0 и 4,5 мм, назначение HIFU, устройство аппаратов и их сервис.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-09-14
 
@@ -38663,7 +38663,7 @@ HIFU — это технология, использующая **сфокуси�
 
 > Сколько мощности действительно выдаёт ваш лазер? Измерения LaserPoint, нормы безопасности и профессиональная диагностика Laser Tech Service.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-11-09
 
@@ -38833,7 +38833,7 @@ Email: [contact@lasertechservice.pl](mailto:contact@lasertechservice.pl)
 
 > Периодичность обслуживания лазера для эпиляции, замена фильтров, проверка охлаждения, чистка оптики и измерение мощности.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-11-24
 
@@ -39283,7 +39283,7 @@ Laser Tech Service выполняет профессиональную диаг�
 
 > Какая вода подходит для охлаждения лазера эпиляции? Разница между дистиллированной и деионизированной водой, EC и правила обслуживания.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-11-21
 
@@ -39437,7 +39437,7 @@ Laser Tech Service занимается диагностикой, обслужи
 
 > Трещина возле фильтра, утечка охлаждающей жидкости и перегрев лазера. Реальный случай ремонта Laser Tech Service в Гливице.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-10-28
 
@@ -39583,7 +39583,7 @@ Oleksandr Padalko с наградой Złota Firma 2026 для Laser Tech Servic
 
 > Почему диодный лазер не работает? Реальный случай неисправности датчика потока воды и выездного ремонта в Зелёна-Гуре.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-11-20
 
@@ -39782,7 +39782,7 @@ Oleksandr Padalko с наградой Złota Firma 2026 для Laser Tech Servic
 
 > Почему лазеру нужен контроль охлаждения во время простоя? Отложения, нарушение циркуляции и трудоёмкая замена трубок на примере LightSheer DESIRE.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-10-27
 
@@ -39881,7 +39881,7 @@ Laser Tech Service выполняет сервис, восстановление
 
 > Рабочий экран не доказывает исправность лазера. Износ диодов, охлаждение, измерения и вопросы, которые стоит задать салону перед эпиляцией.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-10-27
 
@@ -40006,7 +40006,7 @@ Laser Tech Service выполняет сервис, восстановление
 
 > Как работают HIT и ChillTip в LightSheer DESIRE? Охлаждение, отложения, уплотнения и обслуживание на примере ремонта аппарата в Олеснице.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Возраст профессионального лазера сам по себе не определяет его дальнейшую ценность. На примере аппарата примерно после десяти лет эксплуатации разбираем LightSheer DESIRE, вакуумную технологию и роль охлаждения. Около 200 000 zł — ориентир стоимости техники такого класса, а не текущая цена отремонтированного экземпляра.
 
@@ -40135,7 +40135,7 @@ Laser Tech Service выполняет [диагностику, ремонт и �
 
 > Как работает модуль Пельтье в лазерной манипуле: симптомы неисправностей, роль термопасты, отвод тепла и диагностика перед заменой TEC.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-10-15
 
@@ -40259,7 +40259,7 @@ Laser Tech Service выполняет [диагностику, ремонт и �
 
 > Как работает NUBWAY NBW-VSIII: вакуумный массаж, RF, IR, характеристики, обслуживание и неисправности.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-11-03
 
@@ -40469,7 +40469,7 @@ E-mail: contact@lasertechservice.pl
 
 > Негерметичная головка диодного лазера может привести к загрязнению оптики, снижению эффективности процедур и повреждению диодного модуля. Реальный случай ремонта.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-09-11
 
@@ -40679,7 +40679,7 @@ E-mail: contact@lasertechservice.pl
 
 > Как пыль мешает охлаждению лазера? Причины поломок, подбор вентиляторов по расходу и давлению, признаки перегрева и правила технического обслуживания.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Регулярная очистка помогает сохранять проходимость воздушных каналов и способность системы отводить тепло. Пыль может ограничивать поток, загрязнять радиаторы и ухудшать условия работы вентиляторов. Замена вентилятора не устраняет засорение системы: необходимы диагностика, правильный подбор компонентов и обслуживание по документации аппарата.
 
@@ -40841,7 +40841,7 @@ E-mail: contact@lasertechservice.pl
 
 > Как охлаждение влияет на работу диодного лазера? Причины перегрева, нарушения циркуляции жидкости, нестабильной мощности и неисправностей манипулы.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-11-24
 
@@ -41182,7 +41182,7 @@ Laser Tech Service выполняет диагностику, ремонт и т
 
 > Как длина проводов влияет на перегрев лазерной головки, почему опасна самостоятельная пайка и как мы устранили проблему в Любине.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-10-29
 
@@ -41268,7 +41268,7 @@ Laser Tech Service выполняет профессиональное обсл�
 
 > Pharaon 1470, LSO Medical и OSYRIS: история обозначений, особенности излучения 1470 нм и применение технологии в медицине по данным производителя и исследований.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-09-30
 
@@ -41346,7 +41346,7 @@ LSO Medical сообщает о выходе Endotherme 1470 на рынок в 
 
 > Почему важно выполнять плановое обслуживание диодного лазера? Рассказываем о чистке, системе охлаждения, фильтре, воде и проверке аппарата после сервиса.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-09-12
 
@@ -41605,7 +41605,7 @@ Laser Tech Service занимается диагностикой, ремонто
 
 > Аппарат включается, но манипула не работает? Объясняем, почему внутреннее повреждение кабеля отключает отдельную функцию, на примере Beauty Planet 3D Contour.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-09-30
 
@@ -41685,7 +41685,7 @@ Laser Tech Service занимается диагностикой, ремонто
 
 > Неправильно установленная прокладка привела к залитию диода лазера в Познани. Разбираем риски, расходы и признаки, при которых аппарат нужно выключить.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-10-05
 
@@ -41793,7 +41793,7 @@ Laser Tech Service занимается диагностикой, ремонто
 
 > Почему стареют трубки охлаждения, достаточно ли заменить гофру и что делать при утечке? Объясняем на примере ремонта для клиента из Праги.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-11-02
 
@@ -41893,7 +41893,7 @@ Laser Tech Service выполняет диагностику, обслужива
 
 > Почему выходят из строя диодные модули в лазерах для эпиляции? Причины, симптомы, последствия, стоимость простоя и роль своевременной диагностики.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-09-15
 
@@ -42582,7 +42582,7 @@ LTS Market открыт не только для покупателей.
 
 > Как подключение манипул влияет на охлаждение? Элемент Пельтье, признаки перегрева и калибровка ND:YAG после замены лазерного элемента.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Как подключение манипул влияет на охлаждение? Элемент Пельтье, признаки перегрева и калибровка ND:YAG после замены лазерного элемента.
 
@@ -42830,7 +42830,7 @@ Laser Tech Service выполняет диагностику, ремонт, за
 
 > Как кабель и разъём влияют на работу манипулы: признаки неисправности, причины повреждений, уход и пример ремонта RSL-аппарата в Варшаве.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-10-09
 
@@ -43083,7 +43083,7 @@ Laser Tech Service — диагностика, обслуживание и ре�
 
 > Диагностика, ремонт и калибровка технических лазеров, лазерных граверов и станков CNC. Laser Tech Service во Вроцлаве и по всей Польше.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-11-25
 
@@ -43259,7 +43259,7 @@ Laser Tech Service объединяет опыт в диагностике, эл
 
 > Нужна ли новая манипула, если сгорел лазерный диод? Реальный случай замены диода, результат ремонта и выбор между ремонтом и заменой манипулы.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Нужна ли новая манипула, если сгорел лазерный диод? Реальный случай замены диода, результат ремонта и выбор между ремонтом и заменой манипулы.
 
@@ -43340,7 +43340,7 @@ Laser Tech Service — сервис лазерного оборудования 
 
 > Устройство системы охлаждения Primelase HR Excellence, роль вентилятора радиатора, модулей Пельтье и последствия износа подшипника.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-11-25
 
@@ -43509,7 +43509,7 @@ contact@lasertechservice.pl
 
 > smartPULS на Linux: диагностика IPL в Свиднице, интервал 30 000 импульсов и гипотезы о цепи манипулы. Подтверждённые наблюдения и ограничения выводов.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-11-06
 
@@ -43651,7 +43651,7 @@ Laser Tech Service занимается диагностикой, ремонто
 
 > Почему наличие жидкости не гарантирует охлаждение лазера? Ошибка Water flow error, щётки двигателя и ремонт помпы на примере E808 в Праге.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-11-02
 
@@ -43753,7 +43753,7 @@ Laser Tech Service занимается диагностикой, ремонто
 
 > Почему регулярное ТО диодного лазера важно? Охлаждение, очистка, герметизация манипулы и защита диодного модуля от загрязнений.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-11-05
 
@@ -43918,7 +43918,7 @@ Laser Tech Service выполняет диагностику, обслужива
 
 > Зачем обслуживать охлаждение лазера: качество воды, циркуляция, риск перегрева и сроки замены по документации конкретного аппарата.
 
-Автор: Олександр Падалко
+Автор: Дмитрий Зайцев
 
 Дата публикации: 2026-10-09
 

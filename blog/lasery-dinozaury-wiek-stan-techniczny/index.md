@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/laze
 
 > Ładny ekran nie potwierdza sprawności lasera. Starzenie diod, chłodzenie, pomiary i pytania, które warto zadać salonowi przed depilacją.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-10-27
 

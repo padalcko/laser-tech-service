@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/laser-nie-dzia
 
 > Learn how a faulty water flow sensor can prevent a diode laser from operating and how on-site repair reduced downtime in Zielona Góra.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-20
 

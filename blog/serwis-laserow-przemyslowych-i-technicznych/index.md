@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/serv
 
 > Serwis, diagnostyka, naprawa i kalibracja laserów technicznych, ploterów laserowych oraz grawerek CNC. Laser Tech Service – Wrocław i cała Polska.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-25
 

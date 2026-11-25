@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/poch
 
 > Źle założona uszczelka doprowadziła do zalania diody w laserze w Poznaniu. Wyjaśniamy ryzyko, koszty i objawy wymagające wyłączenia urządzenia.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-10-05
 

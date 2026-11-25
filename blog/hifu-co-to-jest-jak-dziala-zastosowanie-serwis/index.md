@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/hifu
 
 > HIFU – co to jest i jak działa? Wyjaśniamy zasadę działania skoncentrowanych ultradźwięków, głębokości 1,5, 3,0 i 4,5 mm, zastosowanie HIFU, budowę urządzeń oraz ich serwis.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-09-14
 

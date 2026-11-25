@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/pere
 
 > Czy zbyt długie przewody mogą przegrzewać głowicę lasera? Poznaj przyczyny, ryzyko samodzielnej naprawy i przypadek serwisowy z Lubina.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-10-29
 

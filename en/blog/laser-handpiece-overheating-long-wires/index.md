@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/przegrzewanie-
 
 > Can long wires cause laser handpiece overheating? Learn about electrical resistance, soldering risks and a real repair in Lubin.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-10-29
 

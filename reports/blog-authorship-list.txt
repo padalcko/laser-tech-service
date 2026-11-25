@@ -1,0 +1,92 @@
+Розподіл авторства блогу Laser Tech Service
+Авторство Дмитра підтверджене користувачем. Кожен запис охоплює PL/RU/EN.
+
+Дмитро Зайцев — 36 статей (83,7%)
+1. 3000 NAIN — poznajcie dinozaura wśród laserów
+   https://lasertechservice.pl/blog/3000-nain-laser-historia-konstrukcja-serwis/
+2. 5 oznak, że dioda w laserze do depilacji wymaga sprawdzenia lub wymiany
+   https://lasertechservice.pl/blog/5-oznak-wymiany-diody-w-laserze/
+3. Dlaczego regularne czyszczenie układu chłodzenia lasera jest tak ważne? Kurz, awarie wentylatorów i ryzyko przegrzania
+   https://lasertechservice.pl/blog/czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie/
+4. Dlaczego mały przewód powoduje duże problemy?
+   https://lasertechservice.pl/blog/dlaczego-maly-przewod-powoduje-duze-problemy/
+5. Dlaczego nie warto samodzielnie wymieniać uszczelek w urządzeniu laserowym?
+   https://lasertechservice.pl/blog/dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze/
+6. Dlaczego palą się moduły diodowe w laserach do depilacji? Przyczyny, objawy i konsekwencje
+   https://lasertechservice.pl/blog/dlaczego-pala-sie-moduly-diodowe-w-laserach/
+7. HIFU – co to jest, jak działa i do czego służy urządzenie HIFU?
+   https://lasertechservice.pl/blog/hifu-co-to-jest-jak-dziala-zastosowanie-serwis/
+8. Laser CO₂ nie reaguje na pedał? Objaw to jeszcze nie diagnoza
+   https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/
+9. Lumenis LightSheer DESIRE po 10 latach – dlaczego laser za 200 000 zł nadal może pracować niezawodnie?
+   https://lasertechservice.pl/blog/lightsheer-desire-chlodzenie-niezawodnosc/
+10. Moduł Peltiera w głowicy lasera – jak działa chłodzenie i dlaczego przestaje działać?
+   https://lasertechservice.pl/blog/modul-peltiera-chlodzenie-glowicy-lasera/
+11. Pharaon 1470 — historia urządzenia i światło, które pochłania woda
+   https://lasertechservice.pl/blog/pharaon-1470-historia-technologia-lasera/
+12. Planowy przegląd lasera diodowego – dlaczego jest ważny i co obejmuje?
+   https://lasertechservice.pl/blog/planowy-przeglad-lasera-diodowego-dlaczego-to-wazne/
+13. Jeden aparat, dwie awarie: jak nieprawidłowe podłączenie głowic prowadzi do przegrzewania i dlaczego laser Nd:YAG wymaga kalibracji
+   https://lasertechservice.pl/blog/podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag/
+14. Serwis głowicy lasera diodowego – dlaczego szczelność i czysta optyka są tak ważne?
+   https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/
+15. Mały przewód, duży problem. Dlaczego połączenie manipulatora z urządzeniem jest tak ważne?
+   https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/
+16. Woda w laserze do depilacji – dlaczego jej wymiana i regularny serwis są tak ważne?
+   https://lasertechservice.pl/blog/wymiana-wody-w-laserze-do-depilacji/
+17. Spalona dioda laserowa — czy trzeba wymieniać całą głowicę?
+   https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/
+18. Laser nie pracował przez rok? Dlaczego długi przestój może doprowadzić do kosztownej naprawy układu chłodzenia
+   https://lasertechservice.pl/blog/laser-po-roku-przestoju-uklad-chlodzenia/
+19. Lasery dinozaury – dlaczego wiek urządzenia ma znaczenie dla skuteczności zabiegów?
+   https://lasertechservice.pl/blog/lasery-dinozaury-wiek-stan-techniczny/
+20. Dlaczego warto regularnie wymieniać filtr wody w laserze diodowym?
+   https://lasertechservice.pl/blog/filtr-wody-laser-diodowy-kiedy-wymieniac/
+21. Czy zbyt długie przewody mogą powodować przegrzewanie głowicy lasera?
+   https://lasertechservice.pl/blog/przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody/
+22. Woda w laserze jest, ale chłodzenie nie działa. Dlaczego pompa obiegowa może się zatrzymać?
+   https://lasertechservice.pl/blog/water-flow-error-laser-pompa-obiegowa/
+23. Dlaczego przewody chłodzenia w głowicy lasera pękają i zaczynają przeciekać?
+   https://lasertechservice.pl/blog/dlaczego-przewody-chlodzenia-glowicy-przeciekaja/
+24. NUBWAY NBW-VSIII – jak działa urządzenie do masażu próżniowego i dlaczego warto o nie dbać?
+   https://lasertechservice.pl/blog/nubway-nbw-vsiii-dzialanie-serwis/
+25. Dlaczego laser diodowy warto serwisować co 6 miesięcy? Przykład klienta z Warszawy
+   https://lasertechservice.pl/blog/dlaczego-serwisowac-laser-diodowy-co-6-miesiecy/
+26. smartPULS – niemiecki IPL z systemem Linux. Dlaczego sprawna lampa przestała działać po 30 000 impulsów?
+   https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/
+27. Ile mocy naprawdę ma Twój laser? Laser Tech Service rozszerza możliwości diagnostyczne
+   https://lasertechservice.pl/blog/pomiar-mocy-lasera-laserpoint/
+28. Laser nie działa? Czasami winny jest mały czujnik, a nie drogi moduł laserowy
+   https://lasertechservice.pl/blog/laser-nie-dziala-czujnik-przeplywu-wody/
+29. Filtr układu chłodzenia lasera diodowego. Dlaczego jego regularna wymiana jest tak ważna?
+   https://lasertechservice.pl/blog/filtr-chlodzenia-lasera-diodowego/
+30. Przegląd techniczny lasera diodowego. Lista kontrolna układu chłodzenia
+   https://lasertechservice.pl/blog/przeglad-techniczny-lasera-diodowego-checklista/
+31. Jaka woda do lasera diodowego? Woda destylowana, dejonizowana i przewodność elektryczna
+   https://lasertechservice.pl/blog/jaka-woda-do-lasera-diodowego/
+32. Profesjonalne czyszczenie głowicy lasera do depilacji. Dlaczego sama dezynfekcja nie wystarcza?
+   https://lasertechservice.pl/blog/czyszczenie-glowicy-lasera/
+33. Jak często należy serwisować laser do depilacji? Praktyczny poradnik dla właścicieli salonów
+   https://lasertechservice.pl/blog/jak-czesto-serwisowac-laser-do-depilacji/
+34. Chłodzenie lasera a skuteczność depilacji. Dlaczego sprawny układ chłodzenia jest tak ważny?
+   https://lasertechservice.pl/blog/chlodzenie-lasera-a-skutecznosc-depilacji/
+35. Układ chłodzenia Primelase HR Excellence. Dlaczego stan wentylatora ma znaczenie dla całego urządzenia?
+   https://lasertechservice.pl/blog/system-chlodzenia-primelase-hr-excellence/
+36. Serwis laserów przemysłowych i technicznych – nie tylko kosmetologia
+   https://lasertechservice.pl/blog/serwis-laserow-przemyslowych-i-technicznych/
+
+Олександр Падалко — 7 статей (16,3%)
+1. Beauty Planet 3D Contour – co potrafi, jak działa i czy warto mieć go w gabinecie?
+   https://lasertechservice.pl/blog/beauty-planet-3d-contour-mozliwosci-serwis/
+2. Dlaczego warto korzystać z profesjonalnego serwisu urządzeń kosmetycznych?
+   https://lasertechservice.pl/blog/dlaczego-warto-korzystac-z-profesjonalnego-serwisu/
+3. Jak prawidłowo kupić używany laser kosmetyczny i nie stracić pieniędzy?
+   https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/
+4. Laser Tech Service z nagrodą Złota Firma 2026
+   https://lasertechservice.pl/blog/laser-tech-service-zlota-firma-2026/
+5. Używany laser diodowy – dlaczego warto kupować urządzenie z historią serwisową?
+   https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/
+6. Dlaczego cenimy salony, które dbają o swoje lasery? PURE STUDIO we Wrocławiu jako przykład odpowiedzialnego podejścia
+   https://lasertechservice.pl/blog/dlaczego-regularny-serwis-lasera-jest-wazny-pure-studio/
+7. Kupujesz używany laser kosmetyczny? Sprawdź, ile może kosztować pozorna oszczędność
+   https://lasertechservice.pl/blog/kontrola-uzywanego-lasera-przed-zakupem/

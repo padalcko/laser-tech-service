@@ -1,0 +1,232 @@
+{
+  "unique_articles": 43,
+  "authors": {
+    "dmytro": 36,
+    "oleksandr": 7
+  },
+  "changed": {
+    "html": 108,
+    "json_ld": 108,
+    "markdown": 108
+  },
+  "translation_parity": "PASS",
+  "unchanged_non_author_html_and_schema": "PASS",
+  "dist_matches": "PASS",
+  "articles": [
+    {
+      "id": "blog:3000-nain-laser-historia-konstrukcja-serwis",
+      "title": "3000 NAIN — poznajcie dinozaura wśród laserów",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:5-oznak-wymiany-diody-w-laserze",
+      "title": "5 oznak, że dioda w laserze do depilacji wymaga sprawdzenia lub wymiany",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:beauty-planet-3d-contour-mozliwosci-serwis",
+      "title": "Beauty Planet 3D Contour – co potrafi, jak działa i czy warto mieć go w gabinecie?",
+      "author": "oleksandr"
+    },
+    {
+      "id": "blog:czyszczenie-ukladu-chlodzenia-lasera-wentylatory-przegrzanie",
+      "title": "Dlaczego regularne czyszczenie układu chłodzenia lasera jest tak ważne? Kurz, awarie wentylatorów i ryzyko przegrzania",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:dlaczego-maly-przewod-powoduje-duze-problemy",
+      "title": "Dlaczego mały przewód powoduje duże problemy?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:dlaczego-nie-warto-samodzielnie-wymieniac-uszczelek-w-laserze",
+      "title": "Dlaczego nie warto samodzielnie wymieniać uszczelek w urządzeniu laserowym?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:dlaczego-pala-sie-moduly-diodowe-w-laserach",
+      "title": "Dlaczego palą się moduły diodowe w laserach do depilacji? Przyczyny, objawy i konsekwencje",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:dlaczego-warto-korzystac-z-profesjonalnego-serwisu",
+      "title": "Dlaczego warto korzystać z profesjonalnego serwisu urządzeń kosmetycznych?",
+      "author": "oleksandr"
+    },
+    {
+      "id": "blog:hifu-co-to-jest-jak-dziala-zastosowanie-serwis",
+      "title": "HIFU – co to jest, jak działa i do czego służy urządzenie HIFU?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:jak-kupic-uzywany-laser-do-depilacji",
+      "title": "Jak prawidłowo kupić używany laser kosmetyczny i nie stracić pieniędzy?",
+      "author": "oleksandr"
+    },
+    {
+      "id": "blog:laser-co2-nie-reaguje-na-pedal-diagnostyka",
+      "title": "Laser CO₂ nie reaguje na pedał? Objaw to jeszcze nie diagnoza",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:laser-tech-service-zlota-firma-2026",
+      "title": "Laser Tech Service z nagrodą Złota Firma 2026",
+      "author": "oleksandr"
+    },
+    {
+      "id": "blog:lightsheer-desire-chlodzenie-niezawodnosc",
+      "title": "Lumenis LightSheer DESIRE po 10 latach – dlaczego laser za 200 000 zł nadal może pracować niezawodnie?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:modul-peltiera-chlodzenie-glowicy-lasera",
+      "title": "Moduł Peltiera w głowicy lasera – jak działa chłodzenie i dlaczego przestaje działać?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:pharaon-1470-historia-technologia-lasera",
+      "title": "Pharaon 1470 — historia urządzenia i światło, które pochłania woda",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:planowy-przeglad-lasera-diodowego-dlaczego-to-wazne",
+      "title": "Planowy przegląd lasera diodowego – dlaczego jest ważny i co obejmuje?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:podlaczenie-glowic-przegrzewanie-kalibracja-nd-yag",
+      "title": "Jeden aparat, dwie awarie: jak nieprawidłowe podłączenie głowic prowadzi do przegrzewania i dlaczego laser Nd:YAG wymaga kalibracji",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:serwis-glowicy-lasera-diodowego-szczelnosc-optyka",
+      "title": "Serwis głowicy lasera diodowego – dlaczego szczelność i czysta optyka są tak ważne?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:uszkodzony-przewod-manipulatora",
+      "title": "Mały przewód, duży problem. Dlaczego połączenie manipulatora z urządzeniem jest tak ważne?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:uzywany-laser-diodowy-z-historia-serwisowa",
+      "title": "Używany laser diodowy – dlaczego warto kupować urządzenie z historią serwisową?",
+      "author": "oleksandr"
+    },
+    {
+      "id": "blog:wymiana-wody-w-laserze-do-depilacji",
+      "title": "Woda w laserze do depilacji – dlaczego jej wymiana i regularny serwis są tak ważne?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:spalona-dioda-laserowa-naprawa-glowicy",
+      "title": "Spalona dioda laserowa — czy trzeba wymieniać całą głowicę?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:laser-po-roku-przestoju-uklad-chlodzenia",
+      "title": "Laser nie pracował przez rok? Dlaczego długi przestój może doprowadzić do kosztownej naprawy układu chłodzenia",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:lasery-dinozaury-wiek-stan-techniczny",
+      "title": "Lasery dinozaury – dlaczego wiek urządzenia ma znaczenie dla skuteczności zabiegów?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:filtr-wody-laser-diodowy-kiedy-wymieniac",
+      "title": "Dlaczego warto regularnie wymieniać filtr wody w laserze diodowym?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:przegrzewanie-glowicy-lasera-zbyt-dlugie-przewody",
+      "title": "Czy zbyt długie przewody mogą powodować przegrzewanie głowicy lasera?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:water-flow-error-laser-pompa-obiegowa",
+      "title": "Woda w laserze jest, ale chłodzenie nie działa. Dlaczego pompa obiegowa może się zatrzymać?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:dlaczego-przewody-chlodzenia-glowicy-przeciekaja",
+      "title": "Dlaczego przewody chłodzenia w głowicy lasera pękają i zaczynają przeciekać?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:nubway-nbw-vsiii-dzialanie-serwis",
+      "title": "NUBWAY NBW-VSIII – jak działa urządzenie do masażu próżniowego i dlaczego warto o nie dbać?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:dlaczego-serwisowac-laser-diodowy-co-6-miesiecy",
+      "title": "Dlaczego laser diodowy warto serwisować co 6 miesięcy? Przykład klienta z Warszawy",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:smartpuls-ipl-linux-30000-impulsow",
+      "title": "smartPULS – niemiecki IPL z systemem Linux. Dlaczego sprawna lampa przestała działać po 30 000 impulsów?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:pomiar-mocy-lasera-laserpoint",
+      "title": "Ile mocy naprawdę ma Twój laser? Laser Tech Service rozszerza możliwości diagnostyczne",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:dlaczego-regularny-serwis-lasera-jest-wazny-pure-studio",
+      "title": "Dlaczego cenimy salony, które dbają o swoje lasery? PURE STUDIO we Wrocławiu jako przykład odpowiedzialnego podejścia",
+      "author": "oleksandr"
+    },
+    {
+      "id": "blog:kontrola-uzywanego-lasera-przed-zakupem",
+      "title": "Kupujesz używany laser kosmetyczny? Sprawdź, ile może kosztować pozorna oszczędność",
+      "author": "oleksandr"
+    },
+    {
+      "id": "blog:laser-nie-dziala-czujnik-przeplywu-wody",
+      "title": "Laser nie działa? Czasami winny jest mały czujnik, a nie drogi moduł laserowy",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:filtr-chlodzenia-lasera-diodowego",
+      "title": "Filtr układu chłodzenia lasera diodowego. Dlaczego jego regularna wymiana jest tak ważna?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:przeglad-techniczny-lasera-diodowego-checklista",
+      "title": "Przegląd techniczny lasera diodowego. Lista kontrolna układu chłodzenia",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:jaka-woda-do-lasera-diodowego",
+      "title": "Jaka woda do lasera diodowego? Woda destylowana, dejonizowana i przewodność elektryczna",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:czyszczenie-glowicy-lasera",
+      "title": "Profesjonalne czyszczenie głowicy lasera do depilacji. Dlaczego sama dezynfekcja nie wystarcza?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:jak-czesto-serwisowac-laser-do-depilacji",
+      "title": "Jak często należy serwisować laser do depilacji? Praktyczny poradnik dla właścicieli salonów",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:chlodzenie-lasera-a-skutecznosc-depilacji",
+      "title": "Chłodzenie lasera a skuteczność depilacji. Dlaczego sprawny układ chłodzenia jest tak ważny?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:system-chlodzenia-primelase-hr-excellence",
+      "title": "Układ chłodzenia Primelase HR Excellence. Dlaczego stan wentylatora ma znaczenie dla całego urządzenia?",
+      "author": "dmytro"
+    },
+    {
+      "id": "blog:serwis-laserow-przemyslowych-i-technicznych",
+      "title": "Serwis laserów przemysłowych i technicznych – nie tylko kosmetologia",
+      "author": "dmytro"
+    }
+  ]
+}

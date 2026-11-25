@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/pharaon-1470-h
 
 > Pharaon 1470, LSO Medical and OSYRIS: the history of the names, the meaning of 1470 nm and its medical applications, based on sources and studies.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-09-30
 

@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/smartpuls-ipl-
 
 > A smartPULS IPL service visit in Świdnica: Linux controls, the 30,000-pulse interval and handpiece circuit hypotheses, with evidence limits explained.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-06
 

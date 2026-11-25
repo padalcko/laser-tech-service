@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/laze
 
 > Długi przestój lasera wymaga kontroli chłodzenia. Dowiedz się, jak osady i słaby przepływ wpływają na aparat oraz dlaczego wymiana przewodów jest pracochłonna.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-10-27
 

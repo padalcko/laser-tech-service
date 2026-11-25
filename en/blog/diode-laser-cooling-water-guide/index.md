@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/jaka-woda-do-l
 
 > Distilled or deionized water for diode lasers? Learn about coolant quality, electrical conductivity, contamination and maintenance.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-21
 

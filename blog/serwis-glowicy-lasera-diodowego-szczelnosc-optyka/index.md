@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/obsl
 
 > Nieszczelna głowica lasera może powodować zabrudzenie optyki, spadek skuteczności zabiegów i ryzyko uszkodzenia modułu diodowego. Zobacz rzeczywisty przypadek serwisowy.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-09-11
 

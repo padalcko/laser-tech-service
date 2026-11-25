@@ -11,15 +11,16 @@ for path in layout.paths():
  source=path.read_text();tree=main_tree(source);rel=str(path.relative_to(layout.ROOT))
  assert layout.transform(source)==source,('stale',rel)
  signatures=tree.all('article-signature');assert len(signatures)==1,rel
- assert signatures[0].render()==layout.SIGNATURE,rel
+ author,signature=layout.authorship(source)
+ assert signatures[0].render()==signature,rel
  assert signatures[0].parent.children[-1] is signatures[0],rel
- assert f'<meta name="author" content="{layout.AUTHOR["name"]}" />' in source,rel
+ assert f'<meta name="author" content="{author["name"]}" />' in source,rel
  authors=[]
  for raw in re.findall(r'<script[^>]*type="application/ld\+json"[^>]*>(.*?)</script>',source,re.S):
   schema=json.loads(raw)
   for node in schema.get('@graph',[schema]):
    if 'author' in node:authors.append(node['author'])
- assert authors and all(a==layout.AUTHOR for a in authors),rel
+ assert authors and all(a==author for a in authors),rel
  for cta in tree.all('article-cta'):
   assert len(cta.all('article-cta__eyebrow'))==1,rel
   assert len(cta.all('article-cta__button--primary'))==1,rel
@@ -37,4 +38,4 @@ for path in layout.paths():
   for tag in ['h1','h2','h3','p','li','figcaption']:
    a=Counter(re.sub(r'\s+',' ',n.text()).strip() for n in before.all(tag=tag));b=Counter(re.sub(r'\s+',' ',n.text()).strip() for n in after.all(tag=tag));assert not a-b,(rel,tag,a-b)
   assert old[old.index('</main>')+7:]==source[source.index('</main>')+7:],rel
-print('PASS: 96 blog layouts, single reference signature, metadata/schema author, CTA controls, photo caps and idempotence'+('; original copy/media/forms/dates preserved' if args.compare_head else ''))
+print(f'PASS: {len(layout.paths())} blog layouts, single reference signature, metadata/schema author, CTA controls, photo caps and idempotence'+('; original copy/media/forms/dates preserved' if args.compare_head else ''))

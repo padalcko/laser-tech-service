@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/wymiana-wody-w
 
 > Why does laser cooling need regular maintenance? Water quality, circulation, overheating risks and replacement intervals based on device documentation.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-10-09
 

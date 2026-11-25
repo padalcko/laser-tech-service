@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/kaku
 
 > Jaka woda nadaje się do chłodzenia lasera do depilacji? Wyjaśniamy różnice między wodą destylowaną i dejonizowaną oraz znaczenie przewodności.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-21
 

@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/lasery-dinozau
 
 > A working screen is not proof of laser performance. Diode wear, cooling, measurements and the questions to ask before booking hair removal.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-10-27
 

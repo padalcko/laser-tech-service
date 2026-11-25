@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/chek
 
 > Jak kontrolować chłodzenie lasera do depilacji? Lista czynności dla operatora i technika serwisowego, kontrola filtra, wody i pompy.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-21
 

@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/czyszczenie-gl
 
 > Professional laser handpiece cleaning, optical inspection, cooling system maintenance and laser output measurement. Learn why disinfection alone is not enough.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-24
 

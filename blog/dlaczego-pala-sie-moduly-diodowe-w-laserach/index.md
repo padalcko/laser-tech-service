@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/poch
 
 > Dlaczego moduły diodowe w laserach do depilacji ulegają uszkodzeniu? Przyczyny, objawy, koszty awarii oraz znaczenie diagnostyki i regularnego serwisu.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-09-15
 

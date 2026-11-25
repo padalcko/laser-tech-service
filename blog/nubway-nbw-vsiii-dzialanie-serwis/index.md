@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/nubw
 
 > Poznaj NUBWAY NBW-VSIII: masaż próżniowy, RF, IR, parametry, typowe usterki i serwis układu podciśnienia.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-03
 

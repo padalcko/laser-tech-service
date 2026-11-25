@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/laze
 
 > Dlaczego laser diodowy nie chce się uruchomić? Poznaj przypadek awarii czujnika przepływu wody i naprawy na miejscu w Zielonej Górze.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-20
 

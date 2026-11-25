@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/laser-po-roku-
 
 > Long laser downtime calls for cooling checks. Learn how deposits and poor circulation affect equipment and why replacing cooling tubing takes time.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-10-27
 

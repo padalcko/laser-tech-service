@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/plan
 
 > Dlaczego warto wykonywać planowy przegląd lasera diodowego? Wyjaśniamy znaczenie czyszczenia, kontroli układu chłodzenia, filtra, wody i sprawdzenia urządzenia po serwisie.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-09-12
 

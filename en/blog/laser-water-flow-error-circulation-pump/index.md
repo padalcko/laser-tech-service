@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/water-flow-err
 
 > Coolant is present but the laser has no flow. Learn how pump brushes can fail, what Water flow error means and when pump repair may be worthwhile.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-02
 

@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/chis
 
 > Profesjonalne czyszczenie głowicy lasera do depilacji, kontrola optyki, chłodzenia i pomiar mocy. Sprawdź, dlaczego sama dezynfekcja nie wystarcza.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-24
 

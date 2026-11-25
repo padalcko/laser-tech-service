@@ -11,6 +11,24 @@ markup=importlib.util.module_from_spec(spec);spec.loader.exec_module(markup)
 Tree,Node,element=markup.Tree,markup.Node,markup.element
 AUTHOR={'@type':'Person','name':'Олександр Падалко','url':'https://raccoon-studio.com.ua/'}
 SIGNATURE='<div class="article-signature">Олександр Падалко<br /><a href="https://raccoon-studio.com.ua/" target="_blank" rel="noopener noreferrer">Raccoon Seo Studio</a><br />Wrocław, 2026</div>'
+REGISTRY=site_locales.load()
+ROUTES=site_locales.index(REGISTRY)
+BLOG_AUTHORS=json.loads((ROOT/'content/blog-authors.json').read_text())
+TECHNICAL_TITLES={'pl':'Główny specjalista techniczny','ru':'Главный технический специалист','en':'Chief Technical Specialist'}
+def authorship(source):
+ canonical=re.search(r'<link\b[^>]*rel="canonical"[^>]*href="([^"]+)"',source)[1]
+ group,lang,_=ROUTES[canonical.removeprefix(REGISTRY['base_url'])]
+ # New publications retain their existing default until explicitly classified.
+ key=BLOG_AUTHORS.get(group['id'],'oleksandr')
+ assert key in ('dmytro','oleksandr'),group['id']
+ if key=='oleksandr':return AUTHOR.copy(),SIGNATURE
+ home=next(p for p in REGISTRY['pages'] if p['id']=='home')['routes'][lang]['url']
+ url=REGISTRY['base_url']+home
+ name='Дмитрий Зайцев' if lang=='ru' else 'Dmytro Zaitsev'
+ title=TECHNICAL_TITLES[lang]
+ author={'@type':'Person','name':name,'jobTitle':title,'worksFor':{'@type':'Organization','@id':REGISTRY['base_url']+'/#organization','name':'Laser Tech Service','url':REGISTRY['base_url']+'/'}}
+ signature=f'<div class="article-signature">{name}<br /><a href="{url}" target="_blank" rel="noopener noreferrer">Laser Tech Service</a><br />{title}</div>'
+ return author,signature
 LABELS={
  'pl':('Potrzebujesz serwisu urządzenia?', 'Prześlij model urządzenia, zdjęcia i krótki opis problemu, aby omówić dalszy sposób działania.', 'Skontaktuj się z serwisem','/kontakt/'),
  'ru':('Нужен сервис оборудования?', 'Пришлите модель аппарата, фотографии и краткое описание проблемы, чтобы обсудить дальнейшие действия.', 'Связаться с сервисом','/ru/kontakt/'),
@@ -27,6 +45,7 @@ def strip_dimensions(node):
  if 'style' in node.attrs:
   node.set('style',re.sub(r'(?:max-width|min-width|width|max-height|min-height|height|aspect-ratio|object-fit|transform|margin-left)\s*:[^;]+;?','',node.attrs['style']).strip())
 def transform(source):
+ author,signature=authorship(source)
  lang=re.search(r'<html[^>]+lang="([^"]+)"',source)[1]
  match=re.search(r'<main\b.*?</main>',source,re.S);tree=Tree(match[0]);main=tree.root.all(tag='main')[0]
  main.classes('article-page'); main.set('data-blog-layout','maintenance')
@@ -66,7 +85,7 @@ def transform(source):
   title,lead,label,href=LABELS[lang]
   add_html(content,f'<div class="article-cta"><span class="article-cta__eyebrow">Laser Tech Service</span><h2>{title}</h2><p>{lead}</p><div class="article-cta__actions"><a class="article-cta__button article-cta__button--primary" href="{href}">{label}</a><a class="article-cta__button article-cta__button--secondary" href="https://wa.me/48790402597" target="_blank" rel="noopener noreferrer">WhatsApp</a></div></div>')
  # The sole signature is the last article block, matching the reference.
- add_html(content,SIGNATURE)
+ add_html(content,signature)
  for figure in main.all('article-image'):
   if 'data-photo-width' not in figure.attrs:
    cap=re.search(r'max-width:\s*(\d+)px',figure.attrs.get('style',''))
@@ -81,7 +100,7 @@ def transform(source):
    strip_dimensions(img)
    img.set('sizes',f'(max-width: {cap+48}px) calc(100vw - 48px), {cap}px')
  updated=source[:match.start()]+re.sub(r'[ \t]+(?=\n)','',tree.root.render())+source[match.end():]
- author_meta='<meta name="author" content="'+AUTHOR['name']+'" />'
+ author_meta='<meta name="author" content="'+author['name']+'" />'
  if re.search(r'<meta\b[^>]*name="author"[^>]*>',updated):updated=re.sub(r'<meta\b[^>]*name="author"[^>]*>',author_meta,updated)
  else:updated=updated.replace('</head>','    '+author_meta+'\n  </head>',1)
  def schema(match):
@@ -90,7 +109,7 @@ def transform(source):
   for node in nodes:
    types=node.get('@type',[]);types=[types] if isinstance(types,str) else types
    if any(t in ['Article','BlogPosting','NewsArticle','TechArticle'] for t in types):
-    if node.get('author')!=AUTHOR:node['author']=AUTHOR.copy();changed=True
+    if node.get('author')!=author:node['author']=author.copy();changed=True
   return '<script type="application/ld+json">'+json.dumps(data,ensure_ascii=False,indent=2)+'</script>' if changed else match[0]
  return re.sub(r'<script\b[^>]*type="application/ld\+json"[^>]*>(.*?)</script>',schema,updated,flags=re.S)
 def run():

@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/dlaczego-przew
 
 > Why cooling tubes deteriorate, why replacing the sleeve alone may not help, and what to do about a leak. A repair example from Laser Tech Service.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-02
 

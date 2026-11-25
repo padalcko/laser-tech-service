@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/serwis-laserow
 
 > Diagnostics, repair and calibration of technical lasers, laser engravers and CNC laser equipment. Laser Tech Service in Wrocław and across Poland.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-25
 

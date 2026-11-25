@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/dlaczego-serwi
 
 > Learn why regular diode laser maintenance, coolant replacement, internal cleaning and handpiece sealing help protect cosmetic laser equipment.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-05
 

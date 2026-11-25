@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/podlaczenie-gl
 
 > Why do handpiece connections affect cooling? Peltier modules, overheating symptoms and Nd:YAG calibration after laser component replacement.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Why do handpiece connections affect cooling? Peltier modules, overheating symptoms and Nd:YAG calibration after laser component replacement.
 

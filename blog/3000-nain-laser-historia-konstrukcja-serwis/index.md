@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/3000
 
 > 3000 NAIN z bliska: historia modelu, technologia Nd:YAG Q-Switched, duża obudowa i znaczenie naprawy elektroniki. Co wiemy, a czego nie potwierdzono?
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-09-19
 

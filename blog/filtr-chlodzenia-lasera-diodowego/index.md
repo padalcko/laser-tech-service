@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/filt
 
 > Dlaczego zabrudzony filtr chłodzenia może uszkodzić laser diodowy? Objawy, zagrożenia, kontrola i wymiana filtrów w laserach do depilacji.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-21
 

@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/nubway-nbw-vsi
 
 > Explore NUBWAY NBW-VSIII vacuum massage technology, RF, IR, technical specifications and maintenance requirements.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-03
 

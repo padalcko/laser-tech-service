@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/izme
 
 > Ile mocy naprawdę ma Twój laser? Poznaj technologię LaserPoint, normy bezpieczeństwa i możliwości diagnostyczne Laser Tech Service Wrocław.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-09
 

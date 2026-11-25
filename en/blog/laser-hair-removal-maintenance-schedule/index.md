@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/jak-czesto-ser
 
 > Learn when to service a laser hair removal machine, including filter replacement, cooling system checks, optical inspection and laser output measurement.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-24
 

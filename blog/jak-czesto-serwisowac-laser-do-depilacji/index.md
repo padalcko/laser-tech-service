@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/kak-
 
 > Jak często wykonywać przegląd lasera do depilacji? Sprawdź zasady konserwacji, wymiany filtrów, kontroli chłodzenia i pomiaru mocy lasera.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-24
 

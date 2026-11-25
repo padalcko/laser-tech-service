@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/filtr-chlodzen
 
 > Learn how contaminated cooling filters affect diode laser performance, coolant circulation and equipment reliability.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-21
 

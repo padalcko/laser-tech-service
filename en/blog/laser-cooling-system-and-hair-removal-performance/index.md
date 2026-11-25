@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/chlodzenie-las
 
 > Learn how laser cooling affects diode performance, output stability and equipment lifespan. Discover common cooling faults and overheating warning signs.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-24
 

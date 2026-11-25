@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/ohla
 
 > Jak chłodzenie wpływa na pracę lasera diodowego? Poznaj przyczyny przegrzewania, problemy z przepływem cieczy i znaczenie kontroli temperatury.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-24
 

@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/przeglad-techn
 
 > A practical diode laser cooling system maintenance checklist covering filters, coolant, pumps, sensors and leak inspection.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-21
 

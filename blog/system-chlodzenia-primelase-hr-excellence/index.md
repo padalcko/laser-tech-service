@@ -8,7 +8,7 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/sist
 
 > Jak działa układ chłodzenia lasera Primelase HR Excellence? Rola wentylatora, modułów Peltiera, chłodnicy i skutki zużycia łożysk.
 
-Autor: Олександр Падалко
+Autor: Dmytro Zaitsev
 
 Data publikacji: 2026-11-25
 

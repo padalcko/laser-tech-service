@@ -8,7 +8,7 @@ Other language version: [Polski](https://lasertechservice.pl/blog/system-chlodze
 
 > Technical overview of the Primelase HR Excellence cooling system, Peltier modules, radiator airflow and cooling fan bearing failure.
 
-Author: Олександр Падалко
+Author: Dmytro Zaitsev
 
 Publication date: 2026-11-25
 
