@@ -10,6 +10,12 @@ Other language version: [Polski](https://lasertechservice.pl/blog/), [Русск
 
 Practical knowledge about servicing, diagnostics, repairs and operation of laser and aesthetic equipment.
 
+Laser Tech Service2026-11-25
+
+## [Primelase HR Excellence Cooling System: Why Cooling Fan Condition Matters](https://lasertechservice.pl/en/blog/primelase-hr-excellence-cooling-system/)
+
+Technical overview of the Primelase HR Excellence cooling system, Peltier modules, radiator airflow and cooling fan bearing failure.
+
 Laser Tech Service2026-11-24
 
 ## [Laser Cooling and Hair Removal Performance](https://lasertechservice.pl/en/blog/laser-cooling-system-and-hair-removal-performance/)
@@ -264,6 +270,7 @@ Warranty, work documentation, service history, prompt on-site visits and respons
 
 ## Related articles
 
+- [Primelase HR Excellence Cooling System: Why Cooling Fan Condition Matters](https://lasertechservice.pl/en/blog/primelase-hr-excellence-cooling-system/)
 - [Laser Cooling and Hair Removal Performance: Why a Reliable Cooling System Matters](https://lasertechservice.pl/en/blog/laser-cooling-system-and-hair-removal-performance/)
 - [How Often Should a Laser Hair Removal Machine Be Serviced? A Practical Guide for Clinic Owners](https://lasertechservice.pl/en/blog/laser-hair-removal-maintenance-schedule/)
 - [Professional Laser Hair Removal Handpiece Cleaning: Why Disinfection Alone Is Not Enough](https://lasertechservice.pl/en/blog/laser-handpiece-cleaning/)

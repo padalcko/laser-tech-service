@@ -10,6 +10,12 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/), [
 
 Praktyczna wiedza o serwisie, diagnostyce, naprawach i eksploatacji urządzeń laserowych oraz kosmetycznych.
 
+Laser Tech Service2026-11-25
+
+## [Układ chłodzenia Primelase HR Excellence. Dlaczego stan wentylatora ma znaczenie dla całego urządzenia?](https://lasertechservice.pl/blog/system-chlodzenia-primelase-hr-excellence/)
+
+Jak działa układ chłodzenia lasera Primelase HR Excellence? Rola wentylatora, modułów Peltiera, chłodnicy i skutki zużycia łożysk.
+
 Laser Tech Service2026-11-24
 
 ## [Chłodzenie lasera a skuteczność depilacji](https://lasertechservice.pl/blog/chlodzenie-lasera-a-skutecznosc-depilacji/)
@@ -264,6 +270,7 @@ Gwarancja, dokumentacja wykonanych prac, historia serwisowa, możliwość szybki
 
 ## Powiązane artykuły
 
+- [Układ chłodzenia Primelase HR Excellence. Dlaczego stan wentylatora ma znaczenie dla całego urządzenia?](https://lasertechservice.pl/blog/system-chlodzenia-primelase-hr-excellence/)
 - [Chłodzenie lasera a skuteczność depilacji. Dlaczego sprawny układ chłodzenia jest tak ważny?](https://lasertechservice.pl/blog/chlodzenie-lasera-a-skutecznosc-depilacji/)
 - [Jak często należy serwisować laser do depilacji? Praktyczny poradnik dla właścicieli salonów](https://lasertechservice.pl/blog/jak-czesto-serwisowac-laser-do-depilacji/)
 - [Profesjonalne czyszczenie głowicy lasera do depilacji. Dlaczego sama dezynfekcja nie wystarcza?](https://lasertechservice.pl/blog/czyszczenie-glowicy-lasera/)

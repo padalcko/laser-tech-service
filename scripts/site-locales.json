@@ -1991,6 +1991,44 @@
         "ru": "ru-RU",
         "en": "en"
       }
+    },
+    {
+      "id": "blog:system-chlodzenia-primelase-hr-excellence",
+      "type": "article",
+      "x_default": "/blog/system-chlodzenia-primelase-hr-excellence/",
+      "routes": {
+        "pl": {
+          "url": "/blog/system-chlodzenia-primelase-hr-excellence/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/sistema-ohlazhdeniya-primelase-hr-excellence/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/primelase-hr-excellence-cooling-system/",
+          "status": "published"
+        }
+      }
+    },
+    {
+      "id": "realizacje:naprawa-wentylatora-primelase-hr-excellence-wroclaw",
+      "type": "case-study",
+      "x_default": "/realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/",
+      "routes": {
+        "pl": {
+          "url": "/realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/",
+          "status": "published"
+        }
+      }
     }
   ]
 }

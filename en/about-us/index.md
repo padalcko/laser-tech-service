@@ -156,6 +156,16 @@ We explain the proposed work, available solutions and applicable warranty condit
 
 Every repair presents a different technical challenge. Explore real examples of equipment failures and the solutions we have delivered.
 
+![Primelase laser service in Wrocław](https://lasertechservice.pl/img/realizacje/primelase-hr-excellence/primelase-laser-service-wroclaw.webp)
+
+WrocławPrimelase
+
+### [Primelase HR Excellence Cooling Fan Bearing Replacement in Wrocław](https://lasertechservice.pl/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/)
+
+Cooling fan bearing replacement, radiator cleaning and comprehensive maintenance of a Primelase HR Excellence diode laser in Wrocław.
+
+[→](https://lasertechservice.pl/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/)
+
 ![Aragon Beauty Planet laser handpiece and display during servicing](https://lasertechservice.pl/img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka.webp)
 
 WrocławAragon / Beauty Planet
@@ -175,16 +185,6 @@ Zielona GóraCooling system
 On-site diode laser repair in Zielona Góra. Water flow sensor replacement, cooling system maintenance and laser handpiece cleaning.
 
 [View case study](https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/)
-
-![Reception at PURE STUDIO in Wrocław](https://lasertechservice.pl/img/realizacje/pure-studio/pure-studio-wroclaw-serwis-lasera.webp)
-
-WrocławPURE STUDIO
-
-### [Diode Laser Servicing at PURE STUDIO Wrocław – Handpiece Housing Replacement and Power Verification](https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/)
-
-Diode laser handpiece housing replacement, optical cleaning, sealing and laser power verification at PURE STUDIO Wrocław.
-
-[View case study](https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/)
 
 [View All Repair Cases](https://lasertechservice.pl/en/case-studies/)[Blog](https://lasertechservice.pl/en/blog/)
 
@@ -229,6 +229,6 @@ Warranty duration and conditions depend on the type of repair and the agreed ter
 
 ## Related repairs
 
+- [Primelase HR Excellence Cooling Fan Bearing Replacement in Wrocław](https://lasertechservice.pl/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/)
 - [Aragon Diode Laser Maintenance in Wrocław — Cooling Filter and Water Replacement](https://lasertechservice.pl/en/case-studies/aragon-diode-laser-service-wroclaw/)
 - [Diode Laser Repair in Zielona Góra. Water Flow Sensor Replacement](https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/)
-- [Diode Laser Servicing at PURE STUDIO Wrocław – Handpiece Housing Replacement and Power Verification](https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/)

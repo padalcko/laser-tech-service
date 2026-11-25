@@ -1,14 +1,14 @@
 {
   "status": "PASS",
-  "source_pages": 301,
-  "dist_pages": 301,
+  "source_pages": 307,
+  "dist_pages": 307,
   "languages": {
-    "pl": 101,
-    "en": 100,
-    "ru": 100
+    "pl": 103,
+    "en": 102,
+    "ru": 102
   },
-  "public_files": 1929,
-  "sitemap_urls": 300,
+  "public_files": 1951,
+  "sitemap_urls": 306,
   "missing_pages": [],
   "dist_only_pages": [],
   "pages": [
@@ -403,6 +403,16 @@
       "status": "ready"
     },
     {
+      "source": "blog/system-chlodzenia-primelase-hr-excellence/index.html",
+      "dist": true,
+      "url": "/blog/system-chlodzenia-primelase-hr-excellence/",
+      "language": "pl",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
       "source": "blog/uszkodzony-przewod-manipulatora/index.html",
       "dist": true,
       "url": "/blog/uszkodzony-przewod-manipulatora/",
@@ -756,6 +766,16 @@
       "source": "en/blog/pharaon-1470-laser-history-technology/index.html",
       "dist": true,
       "url": "/en/blog/pharaon-1470-laser-history-technology/",
+      "language": "en",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "en/blog/primelase-hr-excellence-cooling-system/index.html",
+      "dist": true,
+      "url": "/en/blog/primelase-hr-excellence-cooling-system/",
       "language": "en",
       "seo_preserved": true,
       "noindex": false,
@@ -1193,6 +1213,16 @@
       "status": "ready"
     },
     {
+      "source": "en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/index.html",
+      "dist": true,
+      "url": "/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/",
+      "language": "en",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
       "source": "en/case-studies/rsl-massage-device-repair-warsaw/index.html",
       "dist": true,
       "url": "/en/case-studies/rsl-massage-device-repair-warsaw/",
@@ -1596,6 +1626,16 @@
       "source": "realizacje/naprawa-rsl-masaz-warszawa/index.html",
       "dist": true,
       "url": "/realizacje/naprawa-rsl-masaz-warszawa/",
+      "language": "pl",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/index.html",
+      "dist": true,
+      "url": "/realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/",
       "language": "pl",
       "seo_preserved": true,
       "noindex": false,
@@ -2223,6 +2263,16 @@
       "status": "ready"
     },
     {
+      "source": "ru/blog/sistema-ohlazhdeniya-primelase-hr-excellence/index.html",
+      "dist": true,
+      "url": "/ru/blog/sistema-ohlazhdeniya-primelase-hr-excellence/",
+      "language": "ru",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
       "source": "ru/blog/smartpuls-ipl-linux-30000-vspyshek/index.html",
       "dist": true,
       "url": "/ru/blog/smartpuls-ipl-linux-30000-vspyshek/",
@@ -2526,6 +2576,16 @@
       "source": "ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/index.html",
       "dist": true,
       "url": "/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/",
+      "language": "ru",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/index.html",
+      "dist": true,
+      "url": "/ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/",
       "language": "ru",
       "seo_preserved": true,
       "noindex": false,

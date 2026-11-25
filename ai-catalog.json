@@ -1660,6 +1660,21 @@
       ]
     },
     {
+      "id": "article:blog:system-chlodzenia-primelase-hr-excellence",
+      "title": "Układ chłodzenia Primelase HR Excellence. Dlaczego stan wentylatora ma znaczenie dla całego urządzenia?",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/system-chlodzenia-primelase-hr-excellence/",
+      "description": "Jak działa układ chłodzenia lasera Primelase HR Excellence? Rola wentylatora, modułów Peltiera, chłodnicy i skutki zużycia łożysk.",
+      "topics": [],
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:naprawa-ukladow-chlodzenia"
+      ]
+    },
+    {
       "id": "article:blog:uszkodzony-przewod-manipulatora",
       "title": "Mały przewód, duży problem. Dlaczego połączenie manipulatora z urządzeniem jest tak ważne?",
       "language": "pl",
@@ -2159,6 +2174,21 @@
       "datePublished": "2026-09-30",
       "dateModified": "2026-09-30",
       "related_services": []
+    },
+    {
+      "id": "article:en:blog:primelase-hr-excellence-cooling-system",
+      "title": "Primelase HR Excellence Cooling System: Why Cooling Fan Condition Matters",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/primelase-hr-excellence-cooling-system/",
+      "description": "Technical overview of the Primelase HR Excellence cooling system, Peltier modules, radiator airflow and cooling fan bearing failure.",
+      "topics": [],
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:naprawa-ukladow-chlodzenia"
+      ]
     },
     {
       "id": "article:en:blog:professional-aesthetic-equipment-service",
@@ -2863,6 +2893,21 @@
       ]
     },
     {
+      "id": "article:ru:blog:sistema-ohlazhdeniya-primelase-hr-excellence",
+      "title": "Система охлаждения Primelase HR Excellence. Почему состояние вентилятора влияет на работу всего аппарата?",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/sistema-ohlazhdeniya-primelase-hr-excellence/",
+      "description": "Устройство системы охлаждения Primelase HR Excellence, роль вентилятора радиатора, модулей Пельтье и последствия износа подшипника.",
+      "topics": [],
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:naprawa-ukladow-chlodzenia"
+      ]
+    },
+    {
       "id": "article:ru:blog:smartpuls-ipl-linux-30000-vspyshek",
       "title": "smartPULS — немецкий IPL-аппарат на Linux. Почему исправная лампа перестала работать после 30 000 вспышек?",
       "language": "ru",
@@ -3549,6 +3594,31 @@
       "result": []
     },
     {
+      "id": "case:en:case-studies:primelase-hr-excellence-fan-repair-wroclaw",
+      "title": "Primelase HR Excellence Cooling Fan Bearing Replacement in Wrocław",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/",
+      "description": "Cooling fan bearing replacement, radiator cleaning and comprehensive maintenance of a Primelase HR Excellence diode laser in Wrocław.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "Primelase HR Excellence"
+      },
+      "fault": [
+        "After accessing the internal components, a failed bearing was identified in the main radiator cooling fan.",
+        "This fan provides forced airflow through the heat exchanger serving the thermoelectric heat rejection circuit.",
+        "Bearing deterioration was identified as the source of the reported mechanical noise. Additional inspection revealed dust and operational debris on the radiator surface."
+      ],
+      "performed_work": [
+        "The identified mechanical fault was addressed through bearing replacement, accompanied by maintenance of the heat rejection system.",
+        "Replacement of the entire fan and radiator assembly was not required.",
+        "Further information about Primelase cooling architecture, thermoelectric modules and radiator fan operation is available in our technical blog article.",
+        "Related material"
+      ],
+      "result": []
+    },
+    {
       "id": "case:en:case-studies:rsl-massage-device-repair-warsaw",
       "title": "Urgent RSL massage device repair in Warsaw — cable repair and connector replacement",
       "language": "en",
@@ -3880,6 +3950,27 @@
       ],
       "performed_work": [],
       "result": []
+    },
+    {
+      "id": "case:realizacje:naprawa-wentylatora-primelase-hr-excellence-wroclaw",
+      "title": "Naprawa wentylatora Primelase HR Excellence i wymiana łożyska we Wrocławiu",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/",
+      "description": "Wymiana łożyska wentylatora lasera Primelase HR Excellence, czyszczenie chłodnicy i kompleksowy przegląd techniczny we Wrocławiu.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "Primelase HR Excellence"
+      },
+      "fault": [],
+      "performed_work": [],
+      "result": [
+        "Usunięto zidentyfikowaną usterkę mechaniczną poprzez wymianę łożyska oraz przeprowadzono konserwację układu odprowadzania ciepła.",
+        "Naprawa nie wymagała wymiany kompletnego zespołu wentylatora i chłodnicy.",
+        "Więcej informacji dotyczących architektury chłodzenia tego modelu, funkcji modułów Peltiera oraz wpływu wentylatora na bilans cieplny przedstawiliśmy w artykule technicznym na naszym blogu.",
+        "Powiązany materiał"
+      ]
     },
     {
       "id": "case:realizacje:naprawa-wycieku-chlodzenia-glowicy-klient-praga",
@@ -4882,6 +4973,46 @@
       ]
     },
     {
+      "id": "case:ru:realizacje:remont-ventilyatora-primelase-hr-excellence-wroclaw",
+      "title": "Ремонт вентилятора Primelase HR Excellence и замена подшипника во Вроцлаве",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/",
+      "description": "Замена подшипника вентилятора Primelase HR Excellence, очистка радиатора и полное техническое обслуживание лазера во Вроцлаве.",
+      "city": null,
+      "equipment_type": null,
+      "equipment": {
+        "@type": "Thing",
+        "name": "Primelase HR Excellence"
+      },
+      "fault": [
+        "В сервис Laser Tech Service поступил аппарат Primelase HR Excellence, при эксплуатации которого появились необычные механические звуки, дребезжание и ухудшение отвода тепла из внутреннего пространства корпуса.",
+        "Характер неисправности требовал диагностики вентиляторного узла и системы теплообмена."
+      ],
+      "performed_work": [
+        "Диагностика заявленных симптомов.",
+        "Определение повреждения подшипника.",
+        "Демонтаж вентиляторного узла.",
+        "Замена повреждённого подшипника.",
+        "Очистка радиатора.",
+        "Очистка внутренних компонентов от загрязнений.",
+        "Комплексное техническое обслуживание.",
+        "Laser Tech Service выполняет ремонт диодных лазеров, диагностику систем охлаждения и техническое обслуживание профессионального косметологического оборудования.",
+        "Сервис во Вроцлаве. Обслуживание клиентов на территории Польши.",
+        "+48 790 402 597",
+        "contact@lasertechservice.pl",
+        "Диагностика диодных лазеров",
+        "Ремонт систем охлаждения",
+        "Техническое обслуживание",
+        "Контакты"
+      ],
+      "result": [
+        "Выявленная механическая неисправность устранена посредством замены подшипника. Дополнительно проведено обслуживание системы отвода тепла.",
+        "Замена вентилятора и радиатора в сборе не потребовалась.",
+        "Подробнее об архитектуре системы охлаждения Primelase, назначении элементов Пельтье и влиянии вентилятора на тепловой баланс можно прочитать в технической статье нашего блога.",
+        "Связанный материал"
+      ]
+    },
+    {
       "id": "case:ru:realizacje:servis-lasera-sapphire-zamena-zhidkosti",
       "title": "Сервис лазера Sapphire — замена охлаждающей жидкости и обслуживание аппарата",
       "language": "ru",
@@ -5229,6 +5360,7 @@
       "https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/": "https://lasertechservice.pl/blog/serwis-glowicy-lasera-diodowego-szczelnosc-optyka/index.md",
       "https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/": "https://lasertechservice.pl/blog/smartpuls-ipl-linux-30000-impulsow/index.md",
       "https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/": "https://lasertechservice.pl/blog/spalona-dioda-laserowa-naprawa-glowicy/index.md",
+      "https://lasertechservice.pl/blog/system-chlodzenia-primelase-hr-excellence/": "https://lasertechservice.pl/blog/system-chlodzenia-primelase-hr-excellence/index.md",
       "https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/": "https://lasertechservice.pl/blog/uszkodzony-przewod-manipulatora/index.md",
       "https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/": "https://lasertechservice.pl/blog/uzywany-laser-diodowy-z-historia-serwisowa/index.md",
       "https://lasertechservice.pl/blog/water-flow-error-laser-pompa-obiegowa/": "https://lasertechservice.pl/blog/water-flow-error-laser-pompa-obiegowa/index.md",
@@ -5266,6 +5398,7 @@
       "https://lasertechservice.pl/en/blog/nubway-nbw-vsiii-features-maintenance/": "https://lasertechservice.pl/en/blog/nubway-nbw-vsiii-features-maintenance/index.md",
       "https://lasertechservice.pl/en/blog/peltier-module-laser-handpiece-cooling/": "https://lasertechservice.pl/en/blog/peltier-module-laser-handpiece-cooling/index.md",
       "https://lasertechservice.pl/en/blog/pharaon-1470-laser-history-technology/": "https://lasertechservice.pl/en/blog/pharaon-1470-laser-history-technology/index.md",
+      "https://lasertechservice.pl/en/blog/primelase-hr-excellence-cooling-system/": "https://lasertechservice.pl/en/blog/primelase-hr-excellence-cooling-system/index.md",
       "https://lasertechservice.pl/en/blog/professional-aesthetic-equipment-service/": "https://lasertechservice.pl/en/blog/professional-aesthetic-equipment-service/index.md",
       "https://lasertechservice.pl/en/blog/risks-of-replacing-laser-seals-yourself/": "https://lasertechservice.pl/en/blog/risks-of-replacing-laser-seals-yourself/index.md",
       "https://lasertechservice.pl/en/blog/scheduled-diode-laser-maintenance/": "https://lasertechservice.pl/en/blog/scheduled-diode-laser-maintenance/index.md",
@@ -5309,6 +5442,7 @@
       "https://lasertechservice.pl/en/case-studies/overheating-laser-handpiece-lubin-diode-wiring/": "https://lasertechservice.pl/en/case-studies/overheating-laser-handpiece-lubin-diode-wiring/index.md",
       "https://lasertechservice.pl/en/case-studies/peltier-replacement-nd-yag-laser-repair/": "https://lasertechservice.pl/en/case-studies/peltier-replacement-nd-yag-laser-repair/index.md",
       "https://lasertechservice.pl/en/case-studies/pharaon-1470-maintenance-wroclaw/": "https://lasertechservice.pl/en/case-studies/pharaon-1470-maintenance-wroclaw/index.md",
+      "https://lasertechservice.pl/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/": "https://lasertechservice.pl/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/index.md",
       "https://lasertechservice.pl/en/case-studies/rsl-massage-device-repair-warsaw/": "https://lasertechservice.pl/en/case-studies/rsl-massage-device-repair-warsaw/index.md",
       "https://lasertechservice.pl/en/case-studies/sapphire-coolant-replacement-maintenance/": "https://lasertechservice.pl/en/case-studies/sapphire-coolant-replacement-maintenance/index.md",
       "https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/": "https://lasertechservice.pl/en/case-studies/smartpuls-ipl-swidnica/index.md",
@@ -5348,6 +5482,7 @@
       "https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/": "https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/": "https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/": "https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/index.md",
+      "https://lasertechservice.pl/realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/": "https://lasertechservice.pl/realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/index.md",
       "https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/": "https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/index.md",
       "https://lasertechservice.pl/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/": "https://lasertechservice.pl/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/index.md",
       "https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/": "https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/index.md",
@@ -5411,6 +5546,7 @@
       "https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/": "https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/index.md",
       "https://lasertechservice.pl/ru/blog/proverka-bu-lazera-pered-pokupkoy/": "https://lasertechservice.pl/ru/blog/proverka-bu-lazera-pered-pokupkoy/index.md",
       "https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/": "https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/index.md",
+      "https://lasertechservice.pl/ru/blog/sistema-ohlazhdeniya-primelase-hr-excellence/": "https://lasertechservice.pl/ru/blog/sistema-ohlazhdeniya-primelase-hr-excellence/index.md",
       "https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/": "https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/index.md",
       "https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/": "https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/index.md",
       "https://lasertechservice.pl/ru/blog/zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev/": "https://lasertechservice.pl/ru/blog/zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev/index.md",
@@ -5441,6 +5577,7 @@
       "https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/": "https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/index.md",
       "https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/": "https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/index.md",
       "https://lasertechservice.pl/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/": "https://lasertechservice.pl/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/index.md",
+      "https://lasertechservice.pl/ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/": "https://lasertechservice.pl/ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/index.md",
       "https://lasertechservice.pl/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/": "https://lasertechservice.pl/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/index.md",
       "https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/": "https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/index.md",
       "https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/": "https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/index.md",
@@ -5492,5 +5629,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-11-24T13:39:12Z"
+  "generated_at": "2026-11-25T09:00:57Z"
 }
