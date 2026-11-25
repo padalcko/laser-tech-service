@@ -1,0 +1,58 @@
+/* Scoped to the maintenance articles; reuse the site's palette and controls. */
+.lts-maintenance-checklist,
+.lts-maintenance-calculator {
+  margin: 28px 0;
+  padding: clamp(16px, 3vw, 28px);
+  background: var(--black-card);
+  border: 1px solid var(--gold);
+  border-radius: var(--radius-lg);
+  overflow-wrap: anywhere;
+}
+.lts-maintenance-checklist [hidden],
+.lts-maintenance-calculator [hidden] { display: none !important; }
+.lts-maintenance-group { margin: 24px 0; }
+.lts-maintenance-group ul { list-style: none; padding: 0; }
+.lts-maintenance-group li { padding: 0; margin: 0; }
+.lts-maintenance-group li::before { display: none; }
+.lts-maintenance-group label { display: flex; align-items: flex-start; gap: 12px; padding: 10px 0; cursor: pointer; }
+.lts-maintenance-group input { flex: 0 0 22px; width: 22px; height: 22px; margin-top: 3px; accent-color: var(--gold); }
+.lts-maintenance-checklist progress { width: 100%; height: 18px; accent-color: var(--gold); }
+.lts-maintenance-actions { display: flex; flex-wrap: wrap; gap: 12px; margin: 16px 0; }
+.lts-maintenance-actions .btn,
+.lts-maintenance-calculator .btn { white-space: normal; height: auto; max-width: 100%; }
+.lts-maintenance-fields { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
+.lts-maintenance-fields label { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.lts-maintenance-fields input { box-sizing: border-box; width: 100%; min-width: 0; padding: 12px; color: var(--white); background: var(--black-deep); border: 1px solid var(--gold); border-radius: 6px; font: inherit; }
+.lts-maintenance-fields input[type="range"] { padding: 0; accent-color: var(--gold); }
+.lts-maintenance-checklist :focus-visible,
+.lts-maintenance-calculator :focus-visible { outline: 2px solid var(--gold-light); outline-offset: 4px; }
+.lts-maintenance-calculator dt { margin-top: 16px; }
+.lts-maintenance-calculator dd { margin: 4px 0 18px; font-size: 1.3em; color: var(--gold-light); font-weight: 700; }
+.lts-maintenance-bar { height: 14px; background: var(--gold); margin: 10px 0; }
+.lts-maintenance-bar--cost { background: var(--white); }
+.lts-maintenance-print-heading { display: none; }
+@media (max-width: 600px) { .lts-maintenance-fields { grid-template-columns: 1fr; } }
+@media (prefers-reduced-motion: reduce) { .lts-maintenance-checklist *, .lts-maintenance-calculator * { transition: none !important; animation: none !important; } }
+@media print {
+  body.lts-maintenance-print { background: white !important; color: black !important; }
+  body.lts-maintenance-print > :not(main),
+  body.lts-maintenance-print .article-breadcrumbs,
+  body.lts-maintenance-print .article-header,
+  body.lts-maintenance-print .article-content > :not(.lts-maintenance-checklist),
+  body.lts-maintenance-print [data-check-controls],
+  body.lts-maintenance-print [data-group-progress] { display: none !important; }
+  body.lts-maintenance-print main,
+  body.lts-maintenance-print article,
+  body.lts-maintenance-print .container,
+  body.lts-maintenance-print .article-content { padding: 0 !important; margin: 0 !important; max-width: none !important; background: white !important; }
+  body.lts-maintenance-print .lts-maintenance-checklist { padding: 0; margin: 0; border: 0; background: white; }
+  body.lts-maintenance-print .lts-maintenance-checklist * { color: black !important; }
+  body.lts-maintenance-print .lts-maintenance-print-heading { display: block; font-weight: 700; }
+  body.lts-maintenance-print .lts-maintenance-group label { padding: 3px 0; }
+  body.lts-maintenance-print .lts-maintenance-group li { break-inside: avoid; }
+  body.lts-maintenance-print input { appearance: auto; print-color-adjust: exact; }
+}
+.lts-maintenance-table { max-width: 100%; overflow-x: auto; margin: 24px 0; }
+.lts-maintenance-table table { width: 100%; border-collapse: collapse; font-size: inherit; }
+.lts-maintenance-table th, .lts-maintenance-table td { padding: 12px; border-bottom: 1px solid var(--gold); text-align: left; vertical-align: top; overflow-wrap: anywhere; }
+.lts-maintenance-table th { color: var(--gold-light); font-weight: 700; }

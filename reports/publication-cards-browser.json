@@ -3,27 +3,27 @@
     {
       "route": "/blog/",
       "width": 320,
-      "count": 43
+      "count": 44
     },
     {
       "route": "/blog/",
       "width": 390,
-      "count": 43
+      "count": 44
     },
     {
       "route": "/blog/",
       "width": 768,
-      "count": 43
+      "count": 44
     },
     {
       "route": "/blog/",
       "width": 1024,
-      "count": 43
+      "count": 44
     },
     {
       "route": "/blog/",
       "width": 1440,
-      "count": 43
+      "count": 44
     },
     {
       "route": "/en/about-us/",
@@ -53,27 +53,27 @@
     {
       "route": "/en/blog/",
       "width": 320,
-      "count": 43
+      "count": 44
     },
     {
       "route": "/en/blog/",
       "width": 390,
-      "count": 43
+      "count": 44
     },
     {
       "route": "/en/blog/",
       "width": 768,
-      "count": 43
+      "count": 44
     },
     {
       "route": "/en/blog/",
       "width": 1024,
-      "count": 43
+      "count": 44
     },
     {
       "route": "/en/blog/",
       "width": 1440,
-      "count": 43
+      "count": 44
     },
     {
       "route": "/en/case-studies/",
@@ -353,27 +353,27 @@
     {
       "route": "/ru/blog/",
       "width": 320,
-      "count": 43
+      "count": 44
     },
     {
       "route": "/ru/blog/",
       "width": 390,
-      "count": 43
+      "count": 44
     },
     {
       "route": "/ru/blog/",
       "width": 768,
-      "count": 43
+      "count": 44
     },
     {
       "route": "/ru/blog/",
       "width": 1024,
-      "count": 43
+      "count": 44
     },
     {
       "route": "/ru/blog/",
       "width": 1440,
-      "count": 43
+      "count": 44
     },
     {
       "route": "/ru/o-nas/",
@@ -593,7 +593,7 @@
     {
       "route": "/ru/uslugi/vosstanovlenie-golovok-i-manipul/",
       "width": 1024,
-      "count": 3
+      "count": 0
     },
     {
       "route": "/ru/uslugi/vosstanovlenie-golovok-i-manipul/",
@@ -826,6 +826,1063 @@
       "count": 1
     }
   ],
-  "failures": [],
+  "failures": [
+    {
+      "route": "/blog/",
+      "width": 768,
+      "failures": [
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            6265.609375,
+            6233.8125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            6367.609375,
+            6335.8125
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/blog/",
+      "width": 1024,
+      "failures": [
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            4494.890625,
+            4494.890625,
+            4463.09375
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            4596.890625,
+            4596.890625,
+            4565.09375
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/blog/",
+      "width": 1440,
+      "failures": [
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            4005.4375,
+            4005.4375,
+            3973.640625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            4107.4375,
+            4107.4375,
+            4075.640625
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/en/about-us/",
+      "width": 1024,
+      "failures": [
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            5923.8125,
+            5923.8125,
+            5960.8125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            6025.8125,
+            6025.8125,
+            6062.8125
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/en/blog/",
+      "width": 768,
+      "failures": [
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            5783.921875,
+            5752.125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            5885.921875,
+            5854.125
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/en/blog/",
+      "width": 1024,
+      "failures": [
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            4156.265625,
+            4156.265625,
+            4124.46875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            4258.265625,
+            4258.265625,
+            4226.46875
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/en/blog/",
+      "width": 1440,
+      "failures": [
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            3874.1875,
+            3874.1875,
+            3842.390625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            3976.1875,
+            3976.1875,
+            3944.390625
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/en/case-studies/",
+      "width": 1024,
+      "failures": [
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            1233.3125,
+            1233.3125,
+            1270.3125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            1335.3125,
+            1335.3125,
+            1372.3125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            1915.40625,
+            1878.40625,
+            1878.40625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            2017.40625,
+            1980.40625,
+            1980.40625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            2591.5,
+            2591.5,
+            2639.5
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            2693.5,
+            2693.5,
+            2741.5
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            3284.59375,
+            3247.59375,
+            3247.59375
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            3386.59375,
+            3349.59375,
+            3349.59375
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            3982.1875,
+            3982.1875,
+            3945.1875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            4084.1875,
+            4084.1875,
+            4047.1875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            4616.53125,
+            4653.53125,
+            4653.53125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            4718.53125,
+            4755.53125,
+            4755.53125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            5324.875,
+            5287.875,
+            5287.875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            5426.875,
+            5389.875,
+            5389.875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            5906.71875,
+            5906.71875,
+            5943.71875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            6008.71875,
+            6008.71875,
+            6045.71875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            6615.0625,
+            6615.0625,
+            6578.0625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            6717.0625,
+            6717.0625,
+            6680.0625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            7947,
+            7984,
+            7947
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            8049,
+            8086,
+            8049
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            8707.84375,
+            8670.84375,
+            8670.84375
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            8809.84375,
+            8772.84375,
+            8772.84375
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/en/case-studies/",
+      "width": 1440,
+      "failures": [
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            2556.625,
+            2556.625,
+            2593.625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            2658.625,
+            2658.625,
+            2695.625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            6435.96875,
+            6472.96875,
+            6435.96875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            6537.96875,
+            6574.96875,
+            6537.96875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            7091.484375,
+            7128.484375,
+            7091.484375
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            7193.484375,
+            7230.484375,
+            7193.484375
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/o-nas/",
+      "width": 1024,
+      "failures": [
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            6156.1875,
+            6156.1875,
+            6193.1875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            6258.1875,
+            6258.1875,
+            6295.1875
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/realizacje/",
+      "width": 1024,
+      "failures": [
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            1233.3125,
+            1233.3125,
+            1270.3125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            1335.3125,
+            1335.3125,
+            1372.3125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            1915.40625,
+            1878.40625,
+            1878.40625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            2017.40625,
+            1980.40625,
+            1980.40625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            2617.75,
+            2617.75,
+            2654.75
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            2719.75,
+            2719.75,
+            2756.75
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            3299.84375,
+            3262.84375,
+            3262.84375
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            3401.84375,
+            3364.84375,
+            3364.84375
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            4012.9375,
+            4012.9375,
+            3975.9375
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            4114.9375,
+            4114.9375,
+            4077.9375
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            4647.28125,
+            4647.28125,
+            4684.28125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            4749.28125,
+            4749.28125,
+            4786.28125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            5329.375,
+            5292.375,
+            5292.375
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            5431.375,
+            5394.375,
+            5394.375
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            5937.46875,
+            5937.46875,
+            5974.46875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            6039.46875,
+            6039.46875,
+            6076.46875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            6619.5625,
+            6619.5625,
+            6582.5625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            6721.5625,
+            6721.5625,
+            6684.5625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            7290.90625,
+            7290.90625,
+            7253.90625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            7392.90625,
+            7392.90625,
+            7355.90625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            7977.75,
+            8014.75,
+            7977.75
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            8079.75,
+            8116.75,
+            8079.75
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/realizacje/",
+      "width": 1440,
+      "failures": [
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            2654.125,
+            2654.125,
+            2691.125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            2756.125,
+            2756.125,
+            2793.125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            6533.46875,
+            6570.46875,
+            6533.46875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            6635.46875,
+            6672.46875,
+            6635.46875
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/ru/blog/",
+      "width": 768,
+      "failures": [
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            6289.671875,
+            6257.875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            6391.671875,
+            6359.875
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/ru/blog/",
+      "width": 1024,
+      "failures": [
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            4685.640625,
+            4685.640625,
+            4653.84375
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            4787.640625,
+            4787.640625,
+            4755.84375
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/ru/blog/",
+      "width": 1440,
+      "failures": [
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            4222.4375,
+            4222.4375,
+            4190.640625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            4324.4375,
+            4324.4375,
+            4292.640625
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/ru/o-nas/",
+      "width": 1024,
+      "failures": [
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            6355.453125,
+            6355.453125,
+            6392.453125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            6457.453125,
+            6457.453125,
+            6494.453125
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/ru/realizacje/",
+      "width": 1024,
+      "failures": [
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            1271.703125,
+            1271.703125,
+            1308.703125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            1373.703125,
+            1373.703125,
+            1410.703125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            1980.046875,
+            1943.046875,
+            1943.046875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            2082.046875,
+            2045.046875,
+            2045.046875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            2682.390625,
+            2682.390625,
+            2719.390625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            2784.390625,
+            2784.390625,
+            2821.390625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            4077.578125,
+            4077.578125,
+            4040.578125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            4179.578125,
+            4179.578125,
+            4142.578125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            4711.921875,
+            4748.921875,
+            4748.921875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            4813.921875,
+            4850.921875,
+            4850.921875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            5446.515625,
+            5409.515625,
+            5409.515625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            5548.515625,
+            5511.515625,
+            5511.515625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            6080.859375,
+            6080.859375,
+            6117.859375
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            6182.859375,
+            6182.859375,
+            6219.859375
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            6762.953125,
+            6762.953125,
+            6725.953125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            6864.953125,
+            6864.953125,
+            6827.953125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            8173.640625,
+            8210.640625,
+            8173.640625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            8275.640625,
+            8312.640625,
+            8275.640625
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            8986.984375,
+            8949.984375,
+            8949.984375
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            9088.984375,
+            9051.984375,
+            9051.984375
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/ru/realizacje/",
+      "width": 1440,
+      "failures": [
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            2654.125,
+            2654.125,
+            2691.125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            2756.125,
+            2756.125,
+            2793.125
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            5359.6875,
+            5322.6875,
+            5322.6875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            5461.6875,
+            5424.6875,
+            5424.6875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            6622.96875,
+            6659.96875,
+            6622.96875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            6724.96875,
+            6761.96875,
+            6724.96875
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__title",
+          "vals": [
+            7304.734375,
+            7341.734375,
+            7304.734375
+          ]
+        },
+        {
+          "type": "alignment",
+          "selector": ".lts-card__description",
+          "vals": [
+            7406.734375,
+            7443.734375,
+            7406.734375
+          ]
+        }
+      ]
+    }
+  ],
   "errors": []
 }

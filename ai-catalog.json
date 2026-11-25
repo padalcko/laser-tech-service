@@ -1394,6 +1394,25 @@
       ]
     },
     {
+      "id": "article:blog:konserwacja-laserow-kosmetycznych",
+      "title": "Konserwacja laserów kosmetycznych: kompletny poradnik i interaktywna lista kontrolna",
+      "language": "pl",
+      "canonical_url": "https://lasertechservice.pl/blog/konserwacja-laserow-kosmetycznych/",
+      "description": "Jak dbać o laser kosmetyczny? Interaktywna lista kontrolna, objawy awarii, harmonogram przeglądów i kalkulator kosztów przestoju. Laser Tech Service.",
+      "topics": [],
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:naprawa-zasilaczy-i-elektroniki",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow",
+        "service:uslugi:serwis-pogwarancyjny",
+        "service:uslugi:wymiana-i-kalibracja-diod-laserowych"
+      ]
+    },
+    {
       "id": "article:blog:kontrola-uzywanego-lasera-przed-zakupem",
       "title": "Kupujesz używany laser kosmetyczny? Sprawdź, ile może kosztować pozorna oszczędność",
       "language": "pl",
@@ -1755,6 +1774,25 @@
       "datePublished": "2026-09-19",
       "dateModified": "2026-09-19",
       "related_services": []
+    },
+    {
+      "id": "article:en:blog:aesthetic-laser-maintenance",
+      "title": "Aesthetic Laser Maintenance: Complete Guide and Interactive Checklist",
+      "language": "en",
+      "canonical_url": "https://lasertechservice.pl/en/blog/aesthetic-laser-maintenance/",
+      "description": "Learn how to maintain aesthetic lasers, identify common faults and calculate downtime costs with our interactive maintenance checklist.",
+      "topics": [],
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:naprawa-zasilaczy-i-elektroniki",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow",
+        "service:uslugi:serwis-pogwarancyjny",
+        "service:uslugi:wymiana-i-kalibracja-diod-laserowych"
+      ]
     },
     {
       "id": "article:en:blog:beauty-planet-3d-contour-features-service",
@@ -2675,6 +2713,25 @@
         "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
         "service:uslugi:naprawa-urzadzen-lpg",
         "service:uslugi:naprawa-urzadzen-rf"
+      ]
+    },
+    {
+      "id": "article:ru:blog:obsluzhivanie-kosmetologicheskih-lazerov",
+      "title": "Техническое обслуживание косметологических лазеров: полное руководство и интерактивный чек-лист",
+      "language": "ru",
+      "canonical_url": "https://lasertechservice.pl/ru/blog/obsluzhivanie-kosmetologicheskih-lazerov/",
+      "description": "Как правильно обслуживать косметологический лазер? Интерактивный чек-лист, признаки неисправностей, стоимость сервиса и калькулятор потерь от простоя.",
+      "topics": [],
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "related_services": [
+        "service:uslugi:diagnostyka-laserow-diodowych",
+        "service:uslugi:konserwacja-urzadzen-kosmetologicznych",
+        "service:uslugi:naprawa-ukladow-chlodzenia",
+        "service:uslugi:naprawa-zasilaczy-i-elektroniki",
+        "service:uslugi:regeneracja-glowic-i-manipulatorow",
+        "service:uslugi:serwis-pogwarancyjny",
+        "service:uslugi:wymiana-i-kalibracja-diod-laserowych"
       ]
     },
     {
@@ -5429,6 +5486,7 @@
       "https://lasertechservice.pl/blog/jak-czesto-serwisowac-laser-do-depilacji/": "https://lasertechservice.pl/blog/jak-czesto-serwisowac-laser-do-depilacji/index.md",
       "https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/": "https://lasertechservice.pl/blog/jak-kupic-uzywany-laser-do-depilacji/index.md",
       "https://lasertechservice.pl/blog/jaka-woda-do-lasera-diodowego/": "https://lasertechservice.pl/blog/jaka-woda-do-lasera-diodowego/index.md",
+      "https://lasertechservice.pl/blog/konserwacja-laserow-kosmetycznych/": "https://lasertechservice.pl/blog/konserwacja-laserow-kosmetycznych/index.md",
       "https://lasertechservice.pl/blog/kontrola-uzywanego-lasera-przed-zakupem/": "https://lasertechservice.pl/blog/kontrola-uzywanego-lasera-przed-zakupem/index.md",
       "https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/": "https://lasertechservice.pl/blog/laser-co2-nie-reaguje-na-pedal-diagnostyka/index.md",
       "https://lasertechservice.pl/blog/laser-nie-dziala-czujnik-przeplywu-wody/": "https://lasertechservice.pl/blog/laser-nie-dziala-czujnik-przeplywu-wody/index.md",
@@ -5457,6 +5515,7 @@
       "https://lasertechservice.pl/en/about-us/": "https://lasertechservice.pl/en/about-us/index.md",
       "https://lasertechservice.pl/en/blog/": "https://lasertechservice.pl/en/blog/index.md",
       "https://lasertechservice.pl/en/blog/3000-nain-laser-history-design-service/": "https://lasertechservice.pl/en/blog/3000-nain-laser-history-design-service/index.md",
+      "https://lasertechservice.pl/en/blog/aesthetic-laser-maintenance/": "https://lasertechservice.pl/en/blog/aesthetic-laser-maintenance/index.md",
       "https://lasertechservice.pl/en/blog/beauty-planet-3d-contour-features-service/": "https://lasertechservice.pl/en/blog/beauty-planet-3d-contour-features-service/index.md",
       "https://lasertechservice.pl/en/blog/burned-out-laser-diode-handpiece-repair/": "https://lasertechservice.pl/en/blog/burned-out-laser-diode-handpiece-repair/index.md",
       "https://lasertechservice.pl/en/blog/co2-laser-not-responding-to-foot-pedal/": "https://lasertechservice.pl/en/blog/co2-laser-not-responding-to-foot-pedal/index.md",
@@ -5620,6 +5679,7 @@
       "https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/": "https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/index.md",
       "https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/": "https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/index.md",
       "https://lasertechservice.pl/ru/blog/nubway-nbw-vsiii-harakteristiki-obsluzhivanie/": "https://lasertechservice.pl/ru/blog/nubway-nbw-vsiii-harakteristiki-obsluzhivanie/index.md",
+      "https://lasertechservice.pl/ru/blog/obsluzhivanie-kosmetologicheskih-lazerov/": "https://lasertechservice.pl/ru/blog/obsluzhivanie-kosmetologicheskih-lazerov/index.md",
       "https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/": "https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/index.md",
       "https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/": "https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/index.md",
       "https://lasertechservice.pl/ru/blog/ohlazhdenie-lazera-i-effektivnost-epilyatsii/": "https://lasertechservice.pl/ru/blog/ohlazhdenie-lazera-i-effektivnost-epilyatsii/index.md",
@@ -5722,5 +5782,5 @@
       "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/": "https://lasertechservice.pl/uslugi/wymiana-i-kalibracja-diod-laserowych/index.md"
     }
   },
-  "generated_at": "2026-11-25T11:27:24Z"
+  "generated_at": "2026-11-25T16:25:16Z"
 }

@@ -1,0 +1,23 @@
+[
+  {
+    "lang": "pl",
+    "preservedTextFragments": 159,
+    "tables": 3,
+    "faq": 6,
+    "author": "Dmytro Zaitsev"
+  },
+  {
+    "lang": "ru",
+    "preservedTextFragments": 159,
+    "tables": 3,
+    "faq": 6,
+    "author": "Дмитрий Зайцев"
+  },
+  {
+    "lang": "en",
+    "preservedTextFragments": 159,
+    "tables": 3,
+    "faq": 6,
+    "author": "Dmytro Zaitsev"
+  }
+]

@@ -10,6 +10,12 @@ Inna wersja językowa: [Русский](https://lasertechservice.pl/ru/blog/), [
 
 Praktyczna wiedza o serwisie, diagnostyce, naprawach i eksploatacji urządzeń laserowych oraz kosmetycznych.
 
+Lista kontrolna konserwacji2026-11-25
+
+## [Konserwacja laserów: poradnik i checklista](https://lasertechservice.pl/blog/konserwacja-laserow-kosmetycznych/)
+
+Praktyczny poradnik konserwacji laserów kosmetycznych. Interaktywna lista kontrolna, najczęstsze objawy awarii, harmonogram przeglądów oraz kalkulator kosztów przestoju urządzenia.
+
 Lasery techniczne2026-11-25
 
 ## [Serwis laserów przemysłowych i technicznych](https://lasertechservice.pl/blog/serwis-laserow-przemyslowych-i-technicznych/)
@@ -276,6 +282,7 @@ Gwarancja, dokumentacja wykonanych prac, historia serwisowa, możliwość szybki
 
 ## Powiązane artykuły
 
+- [Konserwacja laserów kosmetycznych: kompletny poradnik i interaktywna lista kontrolna](https://lasertechservice.pl/blog/konserwacja-laserow-kosmetycznych/)
 - [Serwis laserów przemysłowych i technicznych – nie tylko kosmetologia](https://lasertechservice.pl/blog/serwis-laserow-przemyslowych-i-technicznych/)
 - [Układ chłodzenia Primelase HR Excellence. Dlaczego stan wentylatora ma znaczenie dla całego urządzenia?](https://lasertechservice.pl/blog/system-chlodzenia-primelase-hr-excellence/)
 - [Chłodzenie lasera a skuteczność depilacji. Dlaczego sprawny układ chłodzenia jest tak ważny?](https://lasertechservice.pl/blog/chlodzenie-lasera-a-skutecznosc-depilacji/)

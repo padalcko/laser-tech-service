@@ -126,6 +126,20 @@ def render(node, page, seen_images):
         src = node.attrs.get('src', '')
         if 'youtube.com/embed/' not in src: return ''
         return '\n\n['+node.attrs.get('title', 'Video')+']('+absolute(src,page['canonical'])+')\n\n'
+    if node.tag == 'table' and node.attrs.get('data-markdown') == 'table':
+        # Explicit opt-in preserves legacy exports while retaining real table structure.
+        rows = []
+        for row in node.all('tr'):
+            cells = [clean(''.join(render(c, page, seen_images) for c in cell.children))
+                     .replace('|', '\\|').replace('\n', ' ')
+                     for cell in row.children if cell.tag in ('th', 'td')]
+            if cells:
+                rows.append(cells)
+        if not rows:
+            return ''
+        lines = ['| ' + ' | '.join(row) + ' |' for row in rows]
+        lines.insert(1, '| ' + ' | '.join('---' for _ in rows[0]) + ' |')
+        return '\n\n' + '\n'.join(lines) + '\n\n'
     body = ''.join(render(c, page, seen_images) for c in node.children)
     if node.tag == 'a':
         href = node.attrs.get('href', '')

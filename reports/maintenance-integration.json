@@ -1,0 +1,92 @@
+{
+  "status": "local integration validated; existing global card alignment issues reported",
+  "routes": {
+    "pl": "https://lasertechservice.pl/blog/konserwacja-laserow-kosmetycznych/",
+    "ru": "https://lasertechservice.pl/ru/blog/obsluzhivanie-kosmetologicheskih-lazerov/",
+    "en": "https://lasertechservice.pl/en/blog/aesthetic-laser-maintenance/"
+  },
+  "markdown": [
+    "blog/konserwacja-laserow-kosmetycznych/index.md",
+    "ru/blog/obsluzhivanie-kosmetologicheskih-lazerov/index.md",
+    "en/blog/aesthetic-laser-maintenance/index.md"
+  ],
+  "pricing_sources": [
+    "uslugi/cennik/index.html",
+    "ru/uslugi/cennik/index.html",
+    "en/pricing/index.html"
+  ],
+  "calculator_maintenance_minimum_pln": 800,
+  "english_currency_policy": "Existing EUR service prices preserved; calculator and supplied business examples remain in PLN. Registered in the existing editorial PLN allowlist; no conversion performed.",
+  "build": "PASS: python3 scripts/build-site.py (npm is unavailable; same package.json entry point)",
+  "package": "PASS",
+  "validate_dist": "PASS: 315 sitemap URLs, 1982 public files, zero errors or warnings",
+  "publication_regression": {
+    "status": "PASS",
+    "new_routes": [
+      "realizacje",
+      "blog",
+      "uslugi",
+      "ru/realizacje",
+      "ru/blog",
+      "ru/uslugi",
+      "en/case-studies",
+      "en/blog",
+      "en/services"
+    ],
+    "fixture_pages": 10,
+    "private_files_excluded": true,
+    "negative_checks": [
+      "broken-asset",
+      "broken-link",
+      "invalid-sitemap-url",
+      "missing-file",
+      "stale-or-modified-file",
+      "unexpected-public-file"
+    ],
+    "cleanup_build": "PASS",
+    "repeat_build_identical": true,
+    "final_pages": 316
+  },
+  "content": "159 supplied fragments per locale verified in both HTML and Markdown; 31 checklist items, 3 tables, 6 FAQ answers per locale",
+  "seo": "Canonical, reciprocal hreflang/x-default, language, Article/BreadcrumbList/FAQPage, author and dates validated; generic existing home/blog OG fallback reused, no new images",
+  "functional_tests": "reports/maintenance-browser.json",
+  "new_card_tests": "reports/maintenance-cards-browser.json",
+  "global_card_tests": "165 layouts / 1452 card instances; 18 route-width combinations have alignment failures; no title/CTA/image/overflow/pageerror failures. Baseline HEAD reproduces blog alignment failures. Shared styles and other cards unchanged.",
+  "print_limit": "Print CSS and window.print invocation tested; no physical printer or OS print-dialog interaction",
+  "remote": "No commit, push, deployment, production/indexing or remote CI verification",
+  "changes": [
+    "_headers",
+    "ai-catalog.json",
+    "blog/index.html",
+    "blog/index.md",
+    "content/blog-authors.json",
+    "en/blog/index.html",
+    "en/blog/index.md",
+    "llms-full.txt",
+    "llms.txt",
+    "reports/dist-regression.json",
+    "reports/dist-validation.json",
+    "reports/publication-cards-browser.json",
+    "ru/blog/index.html",
+    "ru/blog/index.md",
+    "scripts/build-ai-search.py",
+    "scripts/en-price-bindings.json",
+    "scripts/publication-card-titles.json",
+    "scripts/site-locales.json",
+    "sitemap.xml"
+  ],
+  "created": [
+    "blog/konserwacja-laserow-kosmetycznych/index.html",
+    "blog/konserwacja-laserow-kosmetycznych/index.md",
+    "css/maintenance-tools.css",
+    "en/blog/aesthetic-laser-maintenance/index.html",
+    "en/blog/aesthetic-laser-maintenance/index.md",
+    "js/maintenance-tools.js",
+    "reports/maintenance-browser.json",
+    "reports/maintenance-cards-browser.json",
+    "reports/maintenance-integration.json",
+    "reports/maintenance-static.json",
+    "ru/blog/obsluzhivanie-kosmetologicheskih-lazerov/index.html",
+    "ru/blog/obsluzhivanie-kosmetologicheskih-lazerov/index.md"
+  ]
+}

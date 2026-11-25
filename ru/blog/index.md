@@ -10,6 +10,12 @@
 
 Пишем о том, с чем сталкиваемся каждый день: ремонте лазеров, диагностике неисправностей, обслуживании косметологического оборудования и обычных проблемах, которые возникают у владельцев салонов и кабинетов.
 
+Чек-лист обслуживания2026-11-25
+
+## [Обслуживание лазеров: руководство и чек-лист](https://lasertechservice.pl/ru/blog/obsluzhivanie-kosmetologicheskih-lazerov/)
+
+Практическое руководство по обслуживанию косметологических лазеров. Интерактивный чек-лист, признаки неисправностей, график технических осмотров и калькулятор потерь от простоя оборудования.
+
 Технические лазеры2026-11-25
 
 ## [Сервис промышленных и технических лазеров](https://lasertechservice.pl/ru/blog/servis-promyshlennyh-i-tehnicheskih-lazerov/)
@@ -276,6 +282,7 @@ Pharaon 1470, LSO Medical и OSYRIS: история обозначений, ос
 
 ## Связанные статьи
 
+- [Техническое обслуживание косметологических лазеров: полное руководство и интерактивный чек-лист](https://lasertechservice.pl/ru/blog/obsluzhivanie-kosmetologicheskih-lazerov/)
 - [Сервис промышленных и технических лазеров: не только косметология](https://lasertechservice.pl/ru/blog/servis-promyshlennyh-i-tehnicheskih-lazerov/)
 - [Система охлаждения Primelase HR Excellence. Почему состояние вентилятора влияет на работу всего аппарата?](https://lasertechservice.pl/ru/blog/sistema-ohlazhdeniya-primelase-hr-excellence/)
 - [Охлаждение лазера и эффективность эпиляции. Почему исправная система охлаждения так важна?](https://lasertechservice.pl/ru/blog/ohlazhdenie-lazera-i-effektivnost-epilyatsii/)

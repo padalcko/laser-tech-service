@@ -106,6 +106,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/blog/jaka-woda-do-lasera-diodowego/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
+/blog/konserwacja-laserow-kosmetycznych/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/blog/konserwacja-laserow-kosmetycznych/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
 /blog/kontrola-uzywanego-lasera-przed-zakupem/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -245,6 +250,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/en/blog/3000-nain-laser-history-design-service/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/en/blog/aesthetic-laser-maintenance/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/en/blog/aesthetic-laser-maintenance/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /en/blog/beauty-planet-3d-contour-features-service/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -1060,6 +1070,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://lasertechservice.pl/ru/blog/nubway-nbw-vsiii-harakteristiki-obsluzhivanie/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
+
+/ru/blog/obsluzhivanie-kosmetologicheskih-lazerov/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://lasertechservice.pl/ru/blog/obsluzhivanie-kosmetologicheskih-lazerov/>; rel="canonical", <https://lasertechservice.pl/llms.txt>; rel="describedby"
 
 /ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/index.md
   Content-Type: text/markdown; charset=utf-8

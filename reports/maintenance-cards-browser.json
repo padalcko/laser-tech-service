@@ -1,0 +1,86 @@
+[
+  {
+    "lang": "pl",
+    "width": 375,
+    "rowFailures": [],
+    "overflow": false,
+    "title": "Konserwacja laserów: poradnik i checklista",
+    "cta": "Przeczytaj artykuł →"
+  },
+  {
+    "lang": "pl",
+    "width": 768,
+    "rowFailures": [],
+    "overflow": false,
+    "title": "Konserwacja laserów: poradnik i checklista",
+    "cta": "Przeczytaj artykuł →"
+  },
+  {
+    "lang": "pl",
+    "width": 1440,
+    "rowFailures": [],
+    "overflow": false,
+    "title": "Konserwacja laserów: poradnik i checklista",
+    "cta": "Przeczytaj artykuł →"
+  },
+  {
+    "lang": "pl",
+    "baselineAlignmentFailures": 1
+  },
+  {
+    "lang": "ru",
+    "width": 375,
+    "rowFailures": [],
+    "overflow": false,
+    "title": "Обслуживание лазеров: руководство и чек-лист",
+    "cta": "Читать статью →"
+  },
+  {
+    "lang": "ru",
+    "width": 768,
+    "rowFailures": [],
+    "overflow": false,
+    "title": "Обслуживание лазеров: руководство и чек-лист",
+    "cta": "Читать статью →"
+  },
+  {
+    "lang": "ru",
+    "width": 1440,
+    "rowFailures": [],
+    "overflow": false,
+    "title": "Обслуживание лазеров: руководство и чек-лист",
+    "cta": "Читать статью →"
+  },
+  {
+    "lang": "ru",
+    "baselineAlignmentFailures": 1
+  },
+  {
+    "lang": "en",
+    "width": 375,
+    "rowFailures": [],
+    "overflow": false,
+    "title": "Laser maintenance: guide and checklist",
+    "cta": "Read article →"
+  },
+  {
+    "lang": "en",
+    "width": 768,
+    "rowFailures": [],
+    "overflow": false,
+    "title": "Laser maintenance: guide and checklist",
+    "cta": "Read article →"
+  },
+  {
+    "lang": "en",
+    "width": 1440,
+    "rowFailures": [],
+    "overflow": false,
+    "title": "Laser maintenance: guide and checklist",
+    "cta": "Read article →"
+  },
+  {
+    "lang": "en",
+    "baselineAlignmentFailures": 1
+  }
+]

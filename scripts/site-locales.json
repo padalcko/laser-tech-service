@@ -2067,6 +2067,25 @@
           "status": "published"
         }
       }
+    },
+    {
+      "id": "blog:konserwacja-laserow-kosmetycznych",
+      "type": "article",
+      "x_default": "/blog/konserwacja-laserow-kosmetycznych/",
+      "routes": {
+        "pl": {
+          "url": "/blog/konserwacja-laserow-kosmetycznych/",
+          "status": "published"
+        },
+        "ru": {
+          "url": "/ru/blog/obsluzhivanie-kosmetologicheskih-lazerov/",
+          "status": "published"
+        },
+        "en": {
+          "url": "/en/blog/aesthetic-laser-maintenance/",
+          "status": "published"
+        }
+      }
     }
   ]
 }

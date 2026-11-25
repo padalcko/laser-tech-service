@@ -10,6 +10,12 @@ Other language version: [Polski](https://lasertechservice.pl/blog/), [Русск
 
 Practical knowledge about servicing, diagnostics, repairs and operation of laser and aesthetic equipment.
 
+Maintenance checklist2026-11-25
+
+## [Laser maintenance: guide and checklist](https://lasertechservice.pl/en/blog/aesthetic-laser-maintenance/)
+
+A practical guide to aesthetic laser maintenance, including an interactive checklist, common fault symptoms, inspection intervals and an equipment downtime calculator.
+
 Technical Lasers2026-11-25
 
 ## [Industrial and Technical Laser Service](https://lasertechservice.pl/en/blog/industrial-and-technical-laser-service/)
@@ -276,6 +282,7 @@ Warranty, work documentation, service history, prompt on-site visits and respons
 
 ## Related articles
 
+- [Aesthetic Laser Maintenance: Complete Guide and Interactive Checklist](https://lasertechservice.pl/en/blog/aesthetic-laser-maintenance/)
 - [Industrial and Technical Laser Service: Beyond Aesthetic Equipment](https://lasertechservice.pl/en/blog/industrial-and-technical-laser-service/)
 - [Primelase HR Excellence Cooling System: Why Cooling Fan Condition Matters](https://lasertechservice.pl/en/blog/primelase-hr-excellence-cooling-system/)
 - [Laser Cooling and Hair Removal Performance: Why a Reliable Cooling System Matters](https://lasertechservice.pl/en/blog/laser-cooling-system-and-hair-removal-performance/)

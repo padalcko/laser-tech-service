@@ -1,0 +1,44 @@
+{
+  "results": [
+    {
+      "lang": "pl",
+      "checklist": "PASS",
+      "calculatorCases": 7,
+      "invalidCases": 8,
+      "printCSS": "PASS",
+      "widths": [
+        375,
+        768,
+        1440
+      ]
+    },
+    {
+      "lang": "ru",
+      "checklist": "PASS",
+      "calculatorCases": 7,
+      "invalidCases": 8,
+      "printCSS": "PASS",
+      "widths": [
+        375,
+        768,
+        1440
+      ]
+    },
+    {
+      "lang": "en",
+      "checklist": "PASS",
+      "calculatorCases": 7,
+      "invalidCases": 8,
+      "printCSS": "PASS",
+      "widths": [
+        375,
+        768,
+        1440
+      ]
+    }
+  ],
+  "crossLanguage": "PASS",
+  "blockedStorage": "PASS",
+  "noJavaScript": "PASS",
+  "pageErrors": []
+}

@@ -1,14 +1,14 @@
 {
   "status": "PASS",
-  "source_pages": 313,
-  "dist_pages": 313,
+  "source_pages": 316,
+  "dist_pages": 316,
   "languages": {
-    "pl": 105,
-    "en": 104,
-    "ru": 104
+    "pl": 106,
+    "en": 105,
+    "ru": 105
   },
-  "public_files": 1974,
-  "sitemap_urls": 312,
+  "public_files": 1982,
+  "sitemap_urls": 315,
   "missing_pages": [],
   "dist_only_pages": [],
   "pages": [
@@ -216,6 +216,16 @@
       "source": "blog/jaka-woda-do-lasera-diodowego/index.html",
       "dist": true,
       "url": "/blog/jaka-woda-do-lasera-diodowego/",
+      "language": "pl",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "blog/konserwacja-laserow-kosmetycznych/index.html",
+      "dist": true,
+      "url": "/blog/konserwacja-laserow-kosmetycznych/",
       "language": "pl",
       "seo_preserved": true,
       "noindex": false,
@@ -476,6 +486,16 @@
       "source": "en/blog/3000-nain-laser-history-design-service/index.html",
       "dist": true,
       "url": "/en/blog/3000-nain-laser-history-design-service/",
+      "language": "en",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "en/blog/aesthetic-laser-maintenance/index.html",
+      "dist": true,
+      "url": "/en/blog/aesthetic-laser-maintenance/",
       "language": "en",
       "seo_preserved": true,
       "noindex": false,
@@ -2126,6 +2146,16 @@
       "source": "ru/blog/nubway-nbw-vsiii-harakteristiki-obsluzhivanie/index.html",
       "dist": true,
       "url": "/ru/blog/nubway-nbw-vsiii-harakteristiki-obsluzhivanie/",
+      "language": "ru",
+      "seo_preserved": true,
+      "noindex": false,
+      "assets_and_links": true,
+      "status": "ready"
+    },
+    {
+      "source": "ru/blog/obsluzhivanie-kosmetologicheskih-lazerov/index.html",
+      "dist": true,
+      "url": "/ru/blog/obsluzhivanie-kosmetologicheskih-lazerov/",
       "language": "ru",
       "seo_preserved": true,
       "noindex": false,

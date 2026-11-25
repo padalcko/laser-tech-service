@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <ns0:urlset xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://www.sitemaps.org/schemas/sitemap/0.9">
   <ns0:url>
     <ns0:loc>https://lasertechservice.pl/</ns0:loc>
@@ -2285,5 +2285,29 @@
     <html:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/blog/servis-promyshlennyh-i-tehnicheskih-lazerov/" />
     <html:link rel="alternate" hreflang="en" href="https://lasertechservice.pl/en/blog/industrial-and-technical-laser-service/" />
     <html:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/blog/serwis-laserow-przemyslowych-i-technicznych/" />
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://lasertechservice.pl/blog/konserwacja-laserow-kosmetycznych/</ns0:loc>
+    <ns0:lastmod>2026-11-25</ns0:lastmod>
+    <html:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/blog/konserwacja-laserow-kosmetycznych/" />
+    <html:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/blog/obsluzhivanie-kosmetologicheskih-lazerov/" />
+    <html:link rel="alternate" hreflang="en" href="https://lasertechservice.pl/en/blog/aesthetic-laser-maintenance/" />
+    <html:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/blog/konserwacja-laserow-kosmetycznych/" />
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://lasertechservice.pl/ru/blog/obsluzhivanie-kosmetologicheskih-lazerov/</ns0:loc>
+    <ns0:lastmod>2026-11-25</ns0:lastmod>
+    <html:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/blog/konserwacja-laserow-kosmetycznych/" />
+    <html:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/blog/obsluzhivanie-kosmetologicheskih-lazerov/" />
+    <html:link rel="alternate" hreflang="en" href="https://lasertechservice.pl/en/blog/aesthetic-laser-maintenance/" />
+    <html:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/blog/konserwacja-laserow-kosmetycznych/" />
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://lasertechservice.pl/en/blog/aesthetic-laser-maintenance/</ns0:loc>
+    <ns0:lastmod>2026-11-25</ns0:lastmod>
+    <html:link rel="alternate" hreflang="pl" href="https://lasertechservice.pl/blog/konserwacja-laserow-kosmetycznych/" />
+    <html:link rel="alternate" hreflang="ru" href="https://lasertechservice.pl/ru/blog/obsluzhivanie-kosmetologicheskih-lazerov/" />
+    <html:link rel="alternate" hreflang="en" href="https://lasertechservice.pl/en/blog/aesthetic-laser-maintenance/" />
+    <html:link rel="alternate" hreflang="x-default" href="https://lasertechservice.pl/blog/konserwacja-laserow-kosmetycznych/" />
   </ns0:url>
 </ns0:urlset>
