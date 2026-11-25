@@ -113,7 +113,7 @@ We discuss the faults found and agree the repair before proceeding.
 
 ![Module replacement after liquid ingress — Poznań](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp)
 
-### Module replacement after liquid ingress — Poznań
+### Flooded diode module — replacement
 
 **Symptom:** A damaged laser diode module following liquid ingress.
 

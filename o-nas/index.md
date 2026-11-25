@@ -170,17 +170,17 @@ Diagnostyka, usunięcie problemu oraz kalibracja techniczna i programowa urządz
 
 WrocławPrimelase
 
-### [Naprawa wentylatora Primelase HR Excellence i wymiana łożyska we Wrocławiu](https://lasertechservice.pl/realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/)
+### [Primelase HR Excellence — naprawa wentylatora](https://lasertechservice.pl/realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/)
 
 Wymiana łożyska wentylatora lasera Primelase HR Excellence, czyszczenie chłodnicy i kompleksowy przegląd techniczny we Wrocławiu.
 
-[→](https://lasertechservice.pl/realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/)
+[Zobacz realizację](https://lasertechservice.pl/realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/)
 
 ![Głowica i ekran lasera Aragon Beauty Planet podczas serwisu](https://lasertechservice.pl/img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka.webp)
 
 WrocławAragon / Beauty Planet
 
-### [Serwis lasera diodowego Aragon we Wrocławiu. Wymiana filtra i konserwacja układu chłodzenia](https://lasertechservice.pl/realizacje/serwis-lasera-aragon-wroclaw/)
+### [Aragon — serwis chłodzenia we Wrocławiu](https://lasertechservice.pl/realizacje/serwis-lasera-aragon-wroclaw/)
 
 Serwis lasera diodowego Aragon Beauty Planet we Wrocławiu. Wymiana filtra, wody chłodzącej i kontrola układu chłodzenia. Laser Tech Service.
 

@@ -30,17 +30,17 @@ Diagnostyka, usunięcie problemu oraz kalibracja techniczna i programowa urządz
 
 WrocławPrimelase
 
-## [Naprawa wentylatora Primelase HR Excellence i wymiana łożyska we Wrocławiu](https://lasertechservice.pl/realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/)
+## [Primelase HR Excellence — naprawa wentylatora](https://lasertechservice.pl/realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/)
 
 Wymiana łożyska wentylatora lasera Primelase HR Excellence, czyszczenie chłodnicy i kompleksowy przegląd techniczny we Wrocławiu.
 
-[→](https://lasertechservice.pl/realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/)
+[Zobacz realizację](https://lasertechservice.pl/realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/)
 
 ![Głowica i ekran lasera Aragon Beauty Planet podczas serwisu](https://lasertechservice.pl/img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka.webp)
 
 WrocławAragon / Beauty Planet
 
-## [Serwis lasera diodowego Aragon we Wrocławiu. Wymiana filtra i konserwacja układu chłodzenia](https://lasertechservice.pl/realizacje/serwis-lasera-aragon-wroclaw/)
+## [Aragon — serwis chłodzenia we Wrocławiu](https://lasertechservice.pl/realizacje/serwis-lasera-aragon-wroclaw/)
 
 Serwis lasera diodowego Aragon Beauty Planet we Wrocławiu. Wymiana filtra, wody chłodzącej i kontrola układu chłodzenia. Laser Tech Service.
 
@@ -50,7 +50,7 @@ Serwis lasera diodowego Aragon Beauty Planet we Wrocławiu. Wymiana filtra, wody
 
 Zielona GóraUkład chłodzenia
 
-## [Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/)
+## [Zielona Góra — wymiana czujnika przepływu](https://lasertechservice.pl/realizacje/naprawa-lasera-diodowego-zielona-gora/)
 
 Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody, konserwacja i czyszczenie głowicy. Serwis na miejscu.
 
@@ -60,7 +60,7 @@ Naprawa lasera diodowego w Zielonej Górze. Wymiana czujnika przepływu wody, ko
 
 WrocławPURE STUDIO
 
-## [Serwis lasera diodowego w PURE STUDIO Wrocław – wymiana obudowy głowicy i kontrola mocy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/)
+## [PURE STUDIO — obudowa głowicy i kontrola mocy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-pure-studio-wroclaw/)
 
 Wymiana obudowy głowicy lasera, czyszczenie optyki, uszczelnienie i pomiar mocy lasera diodowego w PURE STUDIO Wrocław.
 
@@ -80,7 +80,7 @@ Do Laser Tech Service zgłosił się klient ze Świdnicy z problemem dotyczącym
 
 Warszawa808 nm · HS-A0406
 
-## [Pełny serwis lasera diodowego 808 nm w Warszawie – konserwacja, chłodzenie i uszczelnienie głowicy](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/)
+## [Laser 808 nm — pełny serwis w Warszawie](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-808nm-warszawa/)
 
 Pełny serwis lasera diodowego 808 nm w Warszawie. Wymiana płynu, czyszczenie, kontrola mocy diody i uszczelnienie głowicy. Laser Tech Service.
 
@@ -90,7 +90,7 @@ Pełny serwis lasera diodowego 808 nm w Warszawie. Wymiana płynu, czyszczenie, 
 
 WrocławNUBWAY
 
-## [Naprawa zaworu podciśnienia w NUBWAY NBW-VSIII we Wrocławiu](https://lasertechservice.pl/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/)
+## [NUBWAY NBW-VSIII — naprawa zaworu próżni](https://lasertechservice.pl/realizacje/nubway-nbw-vsiii-naprawa-zaworu-podcisnienia-wroclaw/)
 
 Naprawa zaworu podciśnienia NUBWAY NBW-VSIII we Wrocławiu. Czyszczenie i regeneracja zaworu bez kosztownej wymiany.
 
@@ -100,7 +100,7 @@ Naprawa zaworu podciśnienia NUBWAY NBW-VSIII we Wrocławiu. Czyszczenie i regen
 
 Klient z Pragi, CzechyNaprawa wycieku
 
-## [Naprawa wycieku chłodziwa z głowicy lasera kosmetycznego — klient z Pragi](https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/)
+## [Praga — naprawa wycieku z głowicy lasera](https://lasertechservice.pl/realizacje/naprawa-wycieku-chlodzenia-glowicy-klient-praga/)
 
 Do Laser Tech Service trafił nowy klient z Pragi, który przywiózł do naszego serwisu laser kosmetyczny z uszkodzoną głowicą zabiegową.
 
@@ -110,7 +110,7 @@ Do Laser Tech Service trafił nowy klient z Pragi, który przywiózł do naszego
 
 Praga, CzechyNaprawa pompy
 
-## [Naprawa pompy chłodzenia lasera Unique Light System E808 w Pradze](https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/)
+## [Unique Light System E808 — naprawa pompy w Pradze](https://lasertechservice.pl/realizacje/naprawa-pompy-lasera-e808-praga/)
 
 Nowy klient z Pragi zgłosił brak chłodzenia i komunikat „Water flow error”, mimo obecności płynu w układzie. Naprawiliśmy silnik pompy, przywracając cyrkulację bez zakupu nowego zespołu.
 
@@ -120,7 +120,7 @@ Nowy klient z Pragi zgłosił brak chłodzenia i komunikat „Water flow error�
 
 LubinPilny serwis
 
-## [Przegrzewanie głowicy lasera w Lubinie — naprawa przewodów diody laserowej](https://lasertechservice.pl/realizacje/przegrzewanie-glowicy-lasera-lubin-naprawa-przewodow/)
+## [Lubin — przegrzanie głowicy i naprawa przewodów](https://lasertechservice.pl/realizacje/przegrzewanie-glowicy-lasera-lubin-naprawa-przewodow/)
 
 Pilny wyjazd serwisowy do Lubina. Głowica lasera przegrzewała się z powodu zbyt długich przewodów podłączonych do diody laserowej. Skróciliśmy przewody, wykonaliśmy ponowne podłączenie i przywróciliśmy prawidłową pracę urządzenia.
 
@@ -130,7 +130,7 @@ Pilny wyjazd serwisowy do Lubina. Głowica lasera przegrzewała się z powodu zb
 
 GliwicePilny serwis
 
-## [Przegrzewanie lasera diodowego w Gliwicach — pilna wymiana filtra wody](https://lasertechservice.pl/realizacje/przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra/)
+## [Gliwice — przegrzanie lasera i wymiana filtra](https://lasertechservice.pl/realizacje/przegrzewanie-lasera-diodowego-gliwice-wymiana-filtra/)
 
 Pilny wyjazd serwisowy do Gliwic z powodu przegrzewania lasera diodowego. Przyczyną było pęknięte mocowanie przy filtrze wody, powodujące wyciek płynu chłodzącego. Wymieniliśmy filtr i uzupełniliśmy układ nowym płynem.
 
@@ -140,7 +140,7 @@ Pilny wyjazd serwisowy do Gliwic z powodu przegrzewania lasera diodowego. Przycz
 
 LegnicaSerwis i konserwacja
 
-## [Serwis lasera Sapphire – wymiana płynu chłodzącego i konserwacja urządzenia](https://lasertechservice.pl/realizacje/serwis-lasera-sapphire-wymiana-plynu/)
+## [Sapphire — wymiana płynu i konserwacja](https://lasertechservice.pl/realizacje/serwis-lasera-sapphire-wymiana-plynu/)
 
 Serwis Sapphire w Legnicy: usunięcie resztek starego płynu, napełnienie układu, oczyszczenie aparatu oraz uruchomienie i sprawdzenie działania.
 
@@ -150,7 +150,7 @@ Serwis Sapphire w Legnicy: usunięcie resztek starego płynu, napełnienie ukła
 
 WrocławChłodzenie i serwis
 
-## [Naprawa układu chłodzenia Lumenis LightSheer DESIRE – wymiana przewodów i przywrócenie cyrkulacji](https://lasertechservice.pl/realizacje/naprawa-chlodzenia-lightsheer-desire-wroclaw/)
+## [LightSheer DESIRE — naprawa przewodów chłodzenia](https://lasertechservice.pl/realizacje/naprawa-chlodzenia-lightsheer-desire-wroclaw/)
 
 Serwis Lumenis LightSheer DESIRE we Wrocławiu: ET BP over temperature, wymiana zabrudzonych przewodów i płynu oraz przywrócenie cyrkulacji.
 
@@ -170,7 +170,7 @@ Wymiana spalonej diody laserowej w Laser Tech Service: rozmontowanie głowicy, d
 
 Diagnostyka i naprawa
 
-## [Jeden aparat, dwie usterki — wymiana modułu Peltiera i naprawa lasera Nd:YAG](https://lasertechservice.pl/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/)
+## [Wymiana Peltiera i naprawa Nd:YAG](https://lasertechservice.pl/realizacje/wymiana-peltiera-naprawa-lasera-nd-yag/)
 
 Dwie niezależne usterki jednego aparatu: wymiana modułu Peltiera, naprawa głowicy Nd:YAG i kalibracja. Przebieg prac Laser Tech Service.
 
@@ -180,7 +180,7 @@ Dwie niezależne usterki jednego aparatu: wymiana modułu Peltiera, naprawa gło
 
 PoznańChłodzenie i serwis
 
-## [Wymiana modułu Peltiera w głowicy lasera ESTETECH – naprawa chłodzenia w Poznaniu](https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/)
+## [ESTETECH — wymiana modułu Peltiera](https://lasertechservice.pl/realizacje/wymiana-modulu-peltiera-estetech-poznan/)
 
 Wyjazdowa naprawa ESTETECH w Poznaniu: wymiana modułu Peltiera, odnowienie termointerfejsu i przywrócenie chłodzenia manipuły. Zobacz przebieg prac.
 
@@ -190,7 +190,7 @@ Wyjazdowa naprawa ESTETECH w Poznaniu: wymiana modułu Peltiera, odnowienie term
 
 OleśnicaSerwis i konserwacja
 
-## [Naprawa Lumenis LightSheer DESIRE w Oleśnicy – wyciek płynu i awaria układu chłodzenia](https://lasertechservice.pl/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/)
+## [LightSheer DESIRE — wyciek chłodziwa w Oleśnicy](https://lasertechservice.pl/realizacje/naprawa-lumenis-lightsheer-desire-olesnica/)
 
 Wyjazdowy serwis Lumenis LightSheer DESIRE w Oleśnicy: zabrudzony filtr i zawór zwrotny, nieszczelne O-ring, czyszczenie oraz przywrócenie chłodzenia.
 
@@ -200,7 +200,7 @@ Wyjazdowy serwis Lumenis LightSheer DESIRE w Oleśnicy: zabrudzony filtr i zawó
 
 WrocławChłodzenie i konserwacja
 
-## [Wymiana wentylatorów chłodzenia lasera — Wrocław](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/)
+## [Wrocław — wymiana wentylatorów](https://lasertechservice.pl/realizacje/wymiana-wentylatorow-chlodzenia-lasera-wroclaw/)
 
 Niesprawne wentylatory i kurz wewnątrz aparatu: diagnostyka, wymiana komponentów, czyszczenie oraz przywrócenie działania chłodzenia.
 
@@ -210,7 +210,7 @@ Niesprawne wentylatory i kurz wewnątrz aparatu: diagnostyka, wymiana komponent�
 
 Naprawa RSL · Warszawa
 
-## [Pilna naprawa urządzenia do masażu RSL w Warszawie – naprawa przewodu i wymiana złącza](https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/)
+## [RSL — przewód i złącze, naprawa w Warszawie](https://lasertechservice.pl/realizacje/naprawa-rsl-masaz-warszawa/)
 
 Pilna naprawa urządzenia do masażu RSL w Warszawie. Naprawa przewodu manipulatora i wymiana złącza przez Laser Tech Service.
 
@@ -230,7 +230,7 @@ Serwis lasera do depilacji. Przegląd techniczny i znaczenie regularnej konserwa
 
 PoznańSerwis wyjazdowy
 
-## [Pilna naprawa lasera CO₂ w Poznaniu — serwis u klienta](https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/)
+## [CO₂ w Poznaniu — naprawa przewodów](https://lasertechservice.pl/realizacje/pilna-naprawa-lasera-co2-poznan/)
 
 Pilny serwis lasera CO₂ w Poznaniu: sprawny pedał, wewnętrzne przerwanie czerwonego przewodu manipuły, jego wymiana i przywrócenie działania.
 
@@ -270,7 +270,7 @@ Pharaon 1470 w klinice Denica we Wrocławiu: diagnostyka, czyszczenie wnętrza, 
 
 BEAUTY PLANET 3D CONTOURWrocław · studio Tiamo
 
-## [Beauty Planet 3D Contour — wymiana przewodu zasilającego manipułę we Wrocławiu](https://lasertechservice.pl/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/)
+## [Beauty Planet 3D Contour — wymiana przewodu](https://lasertechservice.pl/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/)
 
 Brak vacuum w manipule Beauty Planet 3D Contour w studio Tiamo we Wrocławiu. Diagnostyka, wymiana uszkodzonego przewodu zasilającego i test podciśnienia.
 
@@ -294,8 +294,6 @@ BEAUTY PLANET 3D CONTOUR Wrocław
 
 Diagnostyka i naprawa manipuły urządzenia Beauty Planet 3D Contour. Brak prawidłowego zasilania powodował niesprawność systemu vacuum oraz funkcji RF. Po naprawie działanie obu funkcji zostało przywrócone.
 
-Beauty Planet 3D Contour Vacuum RF
-
 [Zobacz realizację](https://lasertechservice.pl/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/)
 
 ![Laser ESTELASE POWER P-808L z włączonym panelem po planowym przeglądzie](https://lasertechservice.pl/img/realizacje/przeglad-estelase-power-p808l/estelase-power-p808l-wlaczony-panel.webp)
@@ -305,8 +303,6 @@ ESTELASE POWER Planowy przegląd
 ## [Przegląd ESTELASE POWER P-808L — wymiana filtra i wody](https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/)
 
 Planowa obsługa lasera diodowego do depilacji. Wykonaliśmy przedmuch urządzenia, wymianę filtra i wody oraz sprawdzenie działania po zakończeniu prac. Realizację dokumentują zdjęcia i trzy nagrania wideo.
-
-Laser diodowy Wymiana filtra Wymiana wody Przedmuch
 
 [Zobacz realizację](https://lasertechservice.pl/realizacje/przeglad-estelase-power-p808l/)
 
@@ -318,19 +314,15 @@ ALMA ACCENT Görlitz, Niemcy
 
 Serwis urządzenia Alma Accent w Görlitz. Uszkodzony w trzech miejscach przewód doprowadzający wodę do głowicy RF został wymieniony, a obieg chłodzenia przywrócony do prawidłowego działania.
 
-Alma Accent RF Układ chłodzenia Głowica RF
-
 [Zobacz realizację](https://lasertechservice.pl/realizacje/naprawa-alma-accent-gorlitz/)
 
 ![Kontrola połączenia obudowy nieszczelnej głowicy lasera](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/nieszczelnosc-manipuly-lasera.webp)
 
 LASER DIODOWY Poznań
 
-## [Serwis głowicy lasera diodowego – czyszczenie i przywrócenie szczelności](https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/)
+## [Głowica lasera — czyszczenie i uszczelnienie](https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/)
 
 Rozszczelnienie manipulatora spowodowało przedostawanie się kurzu i zabrudzeń do wnętrza głowicy. Wykonaliśmy demontaż, dokładne czyszczenie, kontrolę układu optycznego oraz ponowne prawidłowe uszczelnienie głowicy.
-
-Głowica Optyka Czyszczenie Uszczelnienie
 
 [Zobacz realizację →](https://lasertechservice.pl/realizacje/serwis-glowicy-lasera-diodowego-poznan/)
 
@@ -342,8 +334,6 @@ CAVI SHAPE ADVANCED Wrocław
 
 Kompleksowa diagnostyka urządzenia Cavi Shape Advanced. Nie działały trzy głowice RF oraz światło podczerwone, a ultradźwięki pracowały nieprawidłowo. Wykonaliśmy czyszczenie styków i płyty głównej, naprawę połączeń oraz poprawę lutowania elektroniki.
 
-RF Podczerwień Ultradźwięki Elektronika
-
 [Zobacz realizację](https://lasertechservice.pl/realizacje/serwis-cavi-shape-advanced-wroclaw/)
 
 ![Technik przy tylnej ściance lasera diodowego](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-3.webp)
@@ -353,8 +343,6 @@ LASER DIODOWY Wrocław
 ## [Serwis lasera diodowego – wymiana głowicy we Wrocławiu](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/)
 
 Kompleksowa obsługa techniczna lasera diodowego do depilacji. Wymiana głowicy zabiegowej, czyszczenie urządzenia oraz końcowa kontrola działania.
-
-Laser diodowy Wymiana głowicy Obsługa techniczna Czyszczenie
 
 [Zobacz realizację](https://lasertechservice.pl/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/)
 
@@ -366,8 +354,6 @@ HIFU · KIMED Görlitz, Niemcy
 
 Naprawa niedziałającej głowicy HIFU, obsługa techniczna urządzenia KIMED K1-W1601 oraz czyszczenie zbiornika i elementów układu wodnego u klienta w Görlitz.
 
-HIFU KIMED Naprawa głowicy Układ wodny
-
 [Zobacz realizację](https://lasertechservice.pl/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/)
 
 ![Naprawa urządzenia Multipolar RF w Lublinie](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin.webp)
@@ -378,16 +364,6 @@ Multipolar RF Lublin
 
 Urządzenie słabo wytwarzało podciśnienie, a element RF nie nagrzewał się. Diagnostyka wykazała nieszczelność uszkodzonej pompy oraz problem ze stykiem w złączu RF.
 
-- diagnostyka układu podciśnienia
-
-- naprawa i uszczelnienie pompy
-
-- naprawa złącza RF
-
-- lutowanie nowego styku
-
-- czyszczenie urządzenia
-
 [Zobacz realizację](https://lasertechservice.pl/realizacje/naprawa-multipolar-rf-lublin/)
 
 ![Naprawa urządzenia NUBWAY NBW-VSIII 5D we Wrocławiu](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw.webp)
@@ -397,8 +373,6 @@ NUBWAY Wrocław
 ## [Naprawa NUBWAY NBW-VSIII – serwis RF i układu podciśnienia](https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/)
 
 Kompleksowy serwis urządzenia NUBWAY NBW-VSIII 5D w studiu rehabilitacji we Wrocławiu. Wymiana przewodów układu podciśnienia, naprawa systemu RF, naprawa elementu odpowiedzialnego za wytwarzanie podciśnienia oraz czyszczenie urządzenia.
-
-RF Podciśnienie Diagnostyka Naprawa
 
 [Zobacz realizację](https://lasertechservice.pl/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/)
 

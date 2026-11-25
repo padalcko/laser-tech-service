@@ -41,7 +41,7 @@ for lang,url in about.ROUTES.items():
  assert 'noindex' not in s
  assert 'Złota Firma' in text
  assert len(re.findall('class="about-person"',main))==3
- assert len(re.findall('class="realizacja-card"',main))==3
+ assert len(re.findall('class="realizacja-card(?: [^"]*)?"',main))==3
  assert '2024' in text
 registry=locales.load();count=0
 for g in registry['pages']:

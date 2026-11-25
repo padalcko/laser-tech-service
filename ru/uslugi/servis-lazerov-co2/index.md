@@ -130,7 +130,7 @@
 
 ![CO₂ в Познани — диагностика проводов манипулы](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/manipula-lasera-diagnostyka-multimetrem.webp)
 
-### CO₂ в Познани — диагностика проводов манипулы
+### CO₂ в Познани — ремонт проводов
 
 **Симптом:** Аппарат неправильно реагировал на нажатие педали.
 

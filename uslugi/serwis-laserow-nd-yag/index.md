@@ -101,7 +101,7 @@ Pomiar energii impulsów i kontrola stabilności w zakresie dostępnym dla model
 
 ![Dwie usterki aparatu — Peltier i Nd:YAG](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/serwis-manipuly-nd-yag.webp)
 
-### Dwie usterki aparatu — Peltier i Nd:YAG
+### Wymiana Peltiera i naprawa Nd:YAG
 
 **Objaw:** Dwie niezależne usterki manipulatorów jednego aparatu.
 

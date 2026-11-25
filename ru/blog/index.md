@@ -18,7 +18,7 @@ Laser Tech Service занимается не только косметологи
 
 Laser Tech Service2026-11-25
 
-## [Система охлаждения Primelase HR Excellence. Почему состояние вентилятора влияет на работу всего аппарата?](https://lasertechservice.pl/ru/blog/sistema-ohlazhdeniya-primelase-hr-excellence/)
+## [Primelase HR Excellence — роль вентилятора](https://lasertechservice.pl/ru/blog/sistema-ohlazhdeniya-primelase-hr-excellence/)
 
 Устройство системы охлаждения Primelase HR Excellence, роль вентилятора радиатора, модулей Пельтье и последствия износа подшипника.
 
@@ -42,157 +42,157 @@ Laser Tech Service2026-11-24
 
 Система охлаждения2026-11-21
 
-## [Какую воду заливать в диодный лазер? Дистиллированная, деионизированная и электропроводность](https://lasertechservice.pl/ru/blog/kakuyu-vodu-zalivat-v-diodnyy-lazer/)
+## [Вода для лазера: типы и электропроводность](https://lasertechservice.pl/ru/blog/kakuyu-vodu-zalivat-v-diodnyy-lazer/)
 
 Какая вода подходит для охлаждения лазера эпиляции? Разница между дистиллированной и деионизированной водой, EC и правила обслуживания.
 
 Система охлаждения2026-11-21
 
-## [Чек-лист технического обслуживания диодного лазера. Проверка системы охлаждения](https://lasertechservice.pl/ru/blog/chek-list-obsluzhivaniya-diodnogo-lasera/)
+## [Обслуживание лазера — чек-лист охлаждения](https://lasertechservice.pl/ru/blog/chek-list-obsluzhivaniya-diodnogo-lasera/)
 
 Практический чек-лист обслуживания лазера для эпиляции: фильтры, охлаждающая жидкость, насос, датчики и проверка герметичности.
 
 Система охлаждения2026-11-21
 
-## [Фильтр охлаждения диодного лазера. Почему его необходимо своевременно менять?](https://lasertechservice.pl/ru/blog/filtr-ohlazhdeniya-diodnogo-lasera/)
+## [Зачем вовремя менять фильтр охлаждения лазера?](https://lasertechservice.pl/ru/blog/filtr-ohlazhdeniya-diodnogo-lasera/)
 
 Чем опасен загрязнённый фильтр охлаждения лазера для эпиляции? Причины перегрева, признаки неисправности и правила обслуживания.
 
 Система охлаждения20 ноября 2026
 
-## [Лазер не запускается? Иногда виноват маленький датчик, а не дорогой лазерный модуль](https://lasertechservice.pl/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/)
+## [Лазер не работает? Проверьте датчик потока](https://lasertechservice.pl/ru/blog/lazer-ne-zapuskaetsya-datchik-potoka-vody/)
 
 Почему диодный лазер не работает? Реальный случай неисправности датчика потока воды и выездного ремонта в Зелёна-Гуре.
 
 Laser Tech Service2026-11-17
 
-## [Покупаете подержанный косметологический лазер? Узнайте, чем может обернуться экономия](https://lasertechservice.pl/ru/blog/proverka-bu-lazera-pered-pokupkoy/)
+## [Подержанный лазер — проверка перед покупкой](https://lasertechservice.pl/ru/blog/proverka-bu-lazera-pered-pokupkoy/)
 
 Покупка подержанного косметологического аппарата может стать отличным решением для салона красоты или косметологического кабинета. На вторичном рынке можно найти диодные лазеры, аппараты IPL, Nd:YAG, CO₂ и другое профессиональное оборудование по привлекательным ценам.
 
 PURE STUDIO2026-11-10
 
-## [Почему мы ценим салоны, которые заботятся о своих лазерах? PURE STUDIO во Вроцлаве](https://lasertechservice.pl/ru/blog/pochemu-vazhno-obsluzhivat-lazer-pure-studio/)
+## [PURE STUDIO — зачем регулярно обслуживать лазер?](https://lasertechservice.pl/ru/blog/pochemu-vazhno-obsluzhivat-lazer-pure-studio/)
 
 На примере PURE STUDIO во Вроцлаве рассказываем о профилактике диодных лазеров, очистке оптики и контроле мощности.
 
 LaserPoint9 ноября 2026
 
-## [Сколько мощности на самом деле выдаёт ваш лазер? Laser Tech Service расширяет возможности диагностики](https://lasertechservice.pl/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/)
+## [Измерение мощности лазера с LaserPoint](https://lasertechservice.pl/ru/blog/izmerenie-moshchnosti-lazera-laserpoint/)
 
 Сколько мощности действительно выдаёт ваш лазер? Измерения LaserPoint, нормы безопасности и профессиональная диагностика Laser Tech Service.
 
 Сервис IPL6 ноября 2026
 
-## [smartPULS — немецкий IPL-аппарат на Linux. Почему исправная лампа перестала работать после 30 000 вспышек?](https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/)
+## [smartPULS на Linux: блокировка после 30 000 вспышек](https://lasertechservice.pl/ru/blog/smartpuls-ipl-linux-30000-vspyshek/)
 
 Во время ремонта косметологического аппарата в Свиднице специалисты Laser Tech Service столкнулись с интересным техническим решением. Немецкий smartPULS оказался не только необычным аппаратом с Linux, но и устройством с весьма специфической системой обслуживания IPL-лампы.
 
 Обслуживание лазеров5 ноября 2026
 
-## [Почему диодный лазер нужно регулярно обслуживать? Пример одного из наших самых дисциплинированных клиентов](https://lasertechservice.pl/ru/blog/zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev/)
+## [Обслуживание лазера каждые 6 месяцев](https://lasertechservice.pl/ru/blog/zachem-obsluzhivat-diodnyj-lazer-kazhdye-6-mesyatsev/)
 
 Почему регулярное ТО диодного лазера важно? Охлаждение, очистка, герметизация манипулы и защита диодного модуля от загрязнений.
 
 Вакуумная система3 ноября 2026
 
-## [NUBWAY NBW-VSIII: как работает аппарат вакуумного массажа, его преимущества и особенности обслуживания](https://lasertechservice.pl/ru/blog/nubway-nbw-vsiii-harakteristiki-obsluzhivanie/)
+## [NUBWAY NBW-VSIII — возможности и обслуживание](https://lasertechservice.pl/ru/blog/nubway-nbw-vsiii-harakteristiki-obsluzhivanie/)
 
 Как работает NUBWAY NBW-VSIII: вакуумный массаж, RF, IR, характеристики, обслуживание и неисправности.
 
 Система охлаждения2 ноября 2026
 
-## [Почему стареют и протекают трубки охлаждения внутри лазерной манипулы?](https://lasertechservice.pl/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/)
+## [Почему протекают трубки охлаждения манипулы?](https://lasertechservice.pl/ru/blog/pochemu-protekayut-trubki-ohlazhdeniya-manipuly/)
 
 Почему стареют трубки охлаждения, достаточно ли заменить гофру и что делать при утечке? Объясняем на примере ремонта для клиента из Праги.
 
 Система охлаждения2 ноября 2026
 
-## [В лазере есть вода, но охлаждение не работает. Почему останавливается циркуляционная помпа?](https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/)
+## [Нет циркуляции воды — помпа охлаждения лазера](https://lasertechservice.pl/ru/blog/water-flow-error-lazer-cirkulyacionnaya-pompa/)
 
 Почему наличие жидкости не гарантирует охлаждение лазера? Ошибка Water flow error, щётки двигателя и ремонт помпы на примере E808 в Праге.
 
 Электрические соединения29 октября 2026
 
-## [Почему слишком длинные провода могут вызывать перегрев лазерной манипулы?](https://lasertechservice.pl/ru/blog/peregrev-lazernoy-manipuly-dlinnye-provoda/)
+## [Длинные провода и перегрев манипулы](https://lasertechservice.pl/ru/blog/peregrev-lazernoy-manipuly-dlinnye-provoda/)
 
 Как длина проводов влияет на перегрев лазерной головки, почему опасна самостоятельная пайка и как мы устранили проблему в Любине.
 
 Система охлаждения28 октября 2026
 
-## [Почему важно регулярно менять водяной фильтр в диодном лазере?](https://lasertechservice.pl/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/)
+## [Зачем регулярно менять водяной фильтр лазера?](https://lasertechservice.pl/ru/blog/kogda-menyat-vodyanoy-filtr-diodnogo-lazera/)
 
 Трещина возле фильтра, утечка охлаждающей жидкости и перегрев лазера. Реальный случай ремонта Laser Tech Service в Гливице.
 
 Техническое состояние и сервис27 октября 2026
 
-## [Лазеры-динозавры: почему возраст оборудования влияет на эффективность процедур?](https://lasertechservice.pl/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/)
+## [Возраст лазера и эффективность процедур](https://lasertechservice.pl/ru/blog/lazery-dinozavry-vozrast-tehnicheskoe-sostoyanie/)
 
 Рабочий экран не доказывает исправность лазера. Износ диодов, охлаждение, измерения и вопросы, которые стоит задать салону перед эпиляцией.
 
 Охлаждение и сервис27 октября 2026
 
-## [Лазер простаивал целый год? Почему длительный простой может привести к дорогому ремонту системы охлаждения](https://lasertechservice.pl/ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/)
+## [Год простоя лазера: риски для охлаждения](https://lasertechservice.pl/ru/blog/lazer-posle-goda-prostoya-sistema-ohlazhdeniya/)
 
 Почему лазеру нужен контроль охлаждения во время простоя? Отложения, нарушение циркуляции и трудоёмкая замена трубок на примере LightSheer DESIRE.
 
 Ремонт лазерных манипул26 октября 2026
 
-## [Сгорел лазерный диод: обязательно ли покупать новую манипулу?](https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/)
+## [Сгорел диод — нужна ли новая манипула?](https://lasertechservice.pl/ru/blog/sgorel-lazernyy-diod-remont-manipuly/)
 
 Нужна ли новая манипула, если сгорел лазерный диод? Реальный случай замены диода, результат ремонта и выбор между ремонтом и заменой манипулы.
 
 Диагностика и ремонт
 
-## [Один аппарат, две поломки: как неправильное подключение манипул приводит к перегреву и почему ND:YAG требует калибровки](https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/)
+## [Подключение манипул и калибровка Nd:YAG](https://lasertechservice.pl/ru/blog/podklyuchenie-manipul-peregrev-kalibrovka-nd-yag/)
 
 Как подключение манипул влияет на охлаждение? Элемент Пельтье, признаки перегрева и калибровка ND:YAG после замены лазерного элемента.
 
 Охлаждение и сервис15 октября 2026
 
-## [Модуль Пельтье: почему манипула лазера не охлаждается?](https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/)
+## [Модуль Пельтье и охлаждение манипулы](https://lasertechservice.pl/ru/blog/modul-pelte-ohlazhdenie-manipuly-lazera/)
 
 Как работает модуль Пельтье в лазерной манипуле: симптомы неисправностей, роль термопасты, отвод тепла и диагностика перед заменой TEC.
 
 Сервис и обслуживание14 октября 2026
 
-## [LightSheer DESIRE: охлаждение и надёжность спустя 10 лет](https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/)
+## [LightSheer DESIRE — охлаждение через 10 лет](https://lasertechservice.pl/ru/blog/lightsheer-desire-ohlazhdenie-nadezhnost/)
 
 Как работают HIT и ChillTip в LightSheer DESIRE? Охлаждение, отложения, уплотнения и обслуживание на примере ремонта аппарата в Олеснице.
 
 Покупка и диагностика12 октября 2026
 
-## [Как купить б/у косметологический лазер и не потерять деньги?](https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/)
+## [Как купить б/у лазер без потери денег?](https://lasertechservice.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyacii/)
 
 Покупаете б/у лазер в Польше? Узнайте, как проверить диод, охлаждение и историю ремонта, сравнить расходы и заказать диагностику в Laser Tech Service.
 
 Эксплуатация и сервис12 октября 2026
 
-## [Пыль, вентиляторы и перегрев: зачем очищать охлаждение лазера?](https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/)
+## [Пыль и перегрев — очистка охлаждения лазера](https://lasertechservice.pl/ru/blog/ochistka-sistemy-ohlazhdeniya-lazera-ventilyatory-peregrev/)
 
 Как пыль мешает охлаждению лазера? Причины поломок, подбор вентиляторов по расходу и давлению, признаки перегрева и правила технического обслуживания.
 
 Эксплуатация и сервис9 октября 2026
 
-## [Маленький кабель — большая проблема. Почему соединение манипулы с аппаратом так важно?](https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/)
+## [Почему важен кабель манипулы?](https://lasertechservice.pl/ru/blog/povrezhdennyj-kabel-manipuly/)
 
 Как кабель и разъём влияют на работу манипулы: признаки неисправности, причины повреждений, уход и пример ремонта RSL-аппарата в Варшаве.
 
 Эксплуатация и сервис9 октября 2026
 
-## [Вода в лазере для эпиляции: почему её необходимо менять и вовремя проводить обслуживание?](https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/)
+## [Вода в лазере — замена и обслуживание](https://lasertechservice.pl/ru/blog/zamena-vody-v-lazere-dlya-epilyacii/)
 
 Зачем обслуживать охлаждение лазера: качество воды, циркуляция, риск перегрева и сроки замены по документации конкретного аппарата.
 
 Диагностика и ремонт6 октября 2026
 
-## [CO₂-лазер не реагирует на педаль: симптом — ещё не диагноз](https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/)
+## [CO₂-лазер не реагирует на педаль: причины](https://lasertechservice.pl/ru/blog/co2-lazer-ne-reagiruet-na-pedal-diagnostika/)
 
 Почему нельзя ставить диагноз по одному симптому: исправная педаль, внутренний обрыв провода и последовательная диагностика на выезде в Познани.
 
 Сервис лазеров5 октября 2026
 
-## [Почему не стоит самостоятельно менять уплотнительные прокладки в лазерном аппарате](https://lasertechservice.pl/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/)
+## [Замена уплотнений своими силами: риски](https://lasertechservice.pl/ru/blog/pochemu-ne-stoit-samostoyatelno-menyat-uplotneniya-v-lazere/)
 
 Неправильно установленная прокладка привела к залитию диода лазера в Познани. Разбираем риски, расходы и признаки, при которых аппарат нужно выключить.
 
@@ -204,7 +204,7 @@ Laser Tech Service получил награду Złota Firma 2026. Спасиб
 
 Лазерные технологии30 сентября 2026
 
-## [Pharaon 1470 — история аппарата и свет, который поглощает вода](https://lasertechservice.pl/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/)
+## [Pharaon 1470 — история и поглощение света](https://lasertechservice.pl/ru/blog/pharaon-1470-istoriya-lazernoy-tehnologii/)
 
 Pharaon 1470, LSO Medical и OSYRIS: история обозначений, особенности излучения 1470 нм и применение технологии в медицине по данным производителя и исследований.
 
@@ -216,13 +216,13 @@ Pharaon 1470, LSO Medical и OSYRIS: история обозначений, ос
 
 Технологии и сервис лазеров19 сентября 2026
 
-## [3000 NAIN — знакомьтесь, динозавр среди лазеров](https://lasertechservice.pl/ru/blog/3000-nain-lazer-istoriya-konstrukciya-servis/)
+## [3000 NAIN — лазер-динозавр](https://lasertechservice.pl/ru/blog/3000-nain-lazer-istoriya-konstrukciya-servis/)
 
 Знакомимся с 3000 NAIN: история модели, Nd:YAG Q-Switched, устройство корпуса и ремонт электроники. Подтверждённые сведения и наблюдения сервисной команды.
 
 Сервис диодных лазеров   15 сентября 2026
 
-## [Почему сгорают диодные модули в лазерах для эпиляции?](https://lasertechservice.pl/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/)
+## [Почему сгорают диодные модули лазеров?](https://lasertechservice.pl/ru/blog/pochemu-sgorayut-diodnye-moduli-v-lazerah/)
 
 Почему выходит из строя один из самых дорогих компонентов лазера для эпиляции? Разбираем причины повреждения диодных модулей, значение своевременной диагностики и регулярного обслуживания, а также объясняем, почему простой аппарата означает для салона реальную потерю дохода.
 
@@ -234,37 +234,37 @@ Pharaon 1470, LSO Medical и OSYRIS: история обозначений, ос
 
 Косметологическое оборудование   14 сентября 2026
 
-## [Beauty Planet 3D Contour — что умеет, как работает и стоит ли иметь его в салоне?](https://lasertechservice.pl/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/)
+## [Beauty Planet 3D Contour — работа и возможности](https://lasertechservice.pl/ru/blog/beauty-planet-3d-contour-vozmozhnosti-servis/)
 
 Криолиполиз, эндомассаж, липолазер, ультразвук и RF с vacuum в одном аппарате. Рассказываем о возможностях Beauty Planet 3D Contour, его ценности для салона и показываем реальный случай ремонта vacuum и RF во Вроцлаве.
 
 Сервис диодных лазеров   12 сентября 2026
 
-## [Плановое обслуживание диодного лазера — почему это важно и что оно включает?](https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/)
+## [Обслуживание диодного лазера: зачем и что входит](https://lasertechservice.pl/ru/blog/planovoe-obsluzhivanie-diodnogo-lazera-pochemu-eto-vazhno/)
 
 Лазер не обязательно должен сломаться, чтобы ему потребовался сервис. Рассказываем, почему важно контролировать систему охлаждения, фильтр, охлаждающую жидкость, внутренние элементы аппарата и манипулу, а также показываем реальный пример планового обслуживания ESTELASE POWER P-808L.
 
 Сервис диодных лазеров   11 сентября 2026
 
-## [Сервис головки диодного лазера — почему герметичность и чистая оптика так важны?](https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/)
+## [Манипула лазера — герметичность и чистая оптика](https://lasertechservice.pl/ru/blog/obsluzhivanie-manipuly-lazera-germetichnost-optika/)
 
 Разгерметизация манипулы может привести к загрязнению оптики, снижению эффективности процедур и повреждению дорогостоящих компонентов. Показываем реальный случай ремонта и объясняем, почему регулярная проверка головки так важна.
 
 Сервис диодных лазеров   10 сентября 2026
 
-## [5 признаков, что диод в лазере для эпиляции требует проверки или замены](https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/)
+## [5 признаков, что диоду нужна проверка или замена](https://lasertechservice.pl/ru/blog/5-priznakov-zameny-dioda-v-lazere/)
 
 Сильный нагрев манипулы, рост температуры воды, снижение интенсивности излучения или более слабый результат процедур могут быть признаками того, что лазеру нужна диагностика. Разбираем, когда стоит проверить диод и когда действительно может потребоваться его замена.
 
 Покупка оборудования   9 сентября 2026
 
-## [Подержанный диодный лазер — почему важно покупать устройство с историей обслуживания?](https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/)
+## [Подержанный лазер — важна история обслуживания](https://lasertechservice.pl/ru/blog/pochemu-vazhno-pokupat-lazer-s-istoriey-servisa/)
 
 При покупке подержанного лазера важна не только цена. История ремонта, техническое состояние, документация и возможность дальнейшего сервисного обслуживания могут иметь гораздо большее значение.
 
 Сервис оборудования   8 сентября 2026
 
-## [Почему стоит пользоваться профессиональным сервисом косметологического оборудования?](https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/)
+## [Зачем нужен профессиональный сервис?](https://lasertechservice.pl/ru/blog/pochemu-stoit-polzovatsya-professionalnym-servisom/)
 
 Гарантия, выезд мастера, документация выполненных работ, история обслуживания и ответственность за ремонт — простыми словами о том, почему это действительно важно владельцу оборудования.
 

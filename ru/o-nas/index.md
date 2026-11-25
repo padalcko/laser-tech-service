@@ -170,17 +170,17 @@ Frontend Developer & SEO Engineer
 
 WrocławPrimelase
 
-### [Ремонт вентилятора Primelase HR Excellence и замена подшипника во Вроцлаве](https://lasertechservice.pl/ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/)
+### [Primelase HR Excellence — ремонт вентилятора](https://lasertechservice.pl/ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/)
 
 Замена подшипника вентилятора Primelase HR Excellence, очистка радиатора и полное техническое обслуживание лазера во Вроцлаве.
 
-[→](https://lasertechservice.pl/ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/)
+[Смотреть реализацию](https://lasertechservice.pl/ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/)
 
 ![Манипула и экран лазера Aragon Beauty Planet во время обслуживания](https://lasertechservice.pl/img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka.webp)
 
 WrocławAragon / Beauty Planet
 
-### [Техническое обслуживание диодного лазера Aragon во Вроцлаве. Замена фильтра и охлаждающей жидкости](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/)
+### [Aragon — сервис охлаждения во Вроцлаве](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/)
 
 Обслуживание диодного лазера Aragon Beauty Planet во Вроцлаве. Замена фильтра, охлаждающей воды и проверка системы охлаждения.
 

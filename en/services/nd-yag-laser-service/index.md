@@ -101,7 +101,7 @@ Pulse energy measurement and stability checks within the capabilities available 
 
 ![Two faults in one device — Peltier and Nd:YAG](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/serwis-manipuly-nd-yag.webp)
 
-### Two faults in one device — Peltier and Nd:YAG
+### Peltier replacement and Nd:YAG repair
 
 **Symptom:** Two independent handpiece faults in one device.
 

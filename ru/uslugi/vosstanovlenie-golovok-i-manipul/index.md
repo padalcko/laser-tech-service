@@ -152,7 +152,7 @@
 
 ![Сервис манипулы диодного лазера — Познань](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/nieszczelnosc-manipuly-lasera.webp)
 
-### Сервис манипулы диодного лазера — Познань
+### Манипула — очистка и герметизация
 
 **Симптом:** Негерметичная головка и загрязнения внутри манипулы.
 
@@ -164,7 +164,7 @@
 
 ![Ремонт охлаждения ESTETECH — Познань](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp)
 
-### Ремонт охлаждения ESTETECH — Познань
+### ESTETECH — замена Пельтье
 
 **Симптом:** Рабочая поверхность головки не охлаждалась должным образом.
 

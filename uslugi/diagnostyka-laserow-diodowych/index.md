@@ -134,7 +134,7 @@ Rzeczywiste przypadki pokazują, dlaczego objaw trzeba powiązać z jego przyczy
 
 ![Wymiana wentylatorów chłodzenia — Wrocław](https://lasertechservice.pl/img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw.webp)
 
-### Wymiana wentylatorów chłodzenia — Wrocław
+### Wrocław — wymiana wentylatorów
 
 **Objaw:** Niewystarczające chłodzenie aparatu laserowego.
 

@@ -11,3 +11,11 @@
 - `dist/` is ignored and untracked in Git. Netlify builds from source with `npm run build`, publishing `dist`. Keep that single deployment path; GitHub Actions validates but never deploys.
 - Preserve design, content, navigation, SEO, analytics and consent integrations. Packaging preserves HTML and asset bytes.
 - Do not commit, push or deploy without explicit user permission. Report local checks separately from remote CI and actual Netlify deployment.
+
+## Shared blog and case card standard (PL/RU/EN)
+
+- Every blog/case card, including About and service-page excerpts, uses the shared `lts-card` component in `css/publication-cards.css`. `scripts/build-publication-cards.py` discovers and normalizes all public cards during the existing build, after content generators. Do not add per-card geometry or locale-specific style fixes.
+- Keep card headings at the shared 20px / 1.4 typography with a three-line reserved block. Write concise, meaningful card-only titles in `scripts/publication-card-titles.json` when needed; do not truncate with ellipsis or hide text. Never alter article H1, body, SEO/GEO, metadata or URLs to fit a card.
+- Preserve the existing brand, original photos and complete descriptions. Shared grid/subgrid tracks align images, categories, titles and descriptions; cards have equal height per row and CTA controls align at the bottom. Service excerpt cards share the same component with their existing symptom/cause/result rows.
+- Every CTA must have visible, localized text and a valid destination; an arrow alone is invalid. Check Primelase and all other cards, not only recent publications.
+- For new publications run the build and `python3 scripts/build-publication-cards.py --check`, then verify all card layouts with `scripts/check-publication-cards.cjs` on desktop, tablet and mobile. Titles must actually fit within three lines without clipping; check row alignment, photos, CTA visibility and horizontal overflow. Keep short titles separate from full article titles.

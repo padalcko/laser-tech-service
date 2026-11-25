@@ -152,7 +152,7 @@ The 3000 NAIN power supply repair and RSL massage device cable and connector rep
 
 ![RSL — cable repair and connector replacement](https://lasertechservice.pl/img/realizacje/rsl-warszawa/rsl-naprawa-zlacza-manipuly-warszawa.webp)
 
-### RSL — cable repair and connector replacement
+### RSL — cable and connector repair in Warsaw
 
 **Symptom:** A damaged connection between the handpiece and aesthetic device.
 

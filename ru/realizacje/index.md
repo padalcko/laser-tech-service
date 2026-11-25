@@ -30,17 +30,17 @@
 
 WrocławPrimelase
 
-## [Ремонт вентилятора Primelase HR Excellence и замена подшипника во Вроцлаве](https://lasertechservice.pl/ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/)
+## [Primelase HR Excellence — ремонт вентилятора](https://lasertechservice.pl/ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/)
 
 Замена подшипника вентилятора Primelase HR Excellence, очистка радиатора и полное техническое обслуживание лазера во Вроцлаве.
 
-[→](https://lasertechservice.pl/ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/)
+[Смотреть реализацию](https://lasertechservice.pl/ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/)
 
 ![Манипула и экран лазера Aragon Beauty Planet во время обслуживания](https://lasertechservice.pl/img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka.webp)
 
 WrocławAragon / Beauty Planet
 
-## [Техническое обслуживание диодного лазера Aragon во Вроцлаве. Замена фильтра и охлаждающей жидкости](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/)
+## [Aragon — сервис охлаждения во Вроцлаве](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/)
 
 Обслуживание диодного лазера Aragon Beauty Planet во Вроцлаве. Замена фильтра, охлаждающей воды и проверка системы охлаждения.
 
@@ -50,7 +50,7 @@ WrocławAragon / Beauty Planet
 
 Zielona GóraСистема охлаждения
 
-## [Ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)
+## [Зелёна-Гура — замена датчика потока лазера](https://lasertechservice.pl/ru/realizacje/remont-diodnogo-lazera-zelena-gura/)
 
 Выездной ремонт диодного лазера в Зелёна-Гуре. Замена датчика потока воды, обслуживание системы охлаждения и очистка манипулы.
 
@@ -60,7 +60,7 @@ Zielona GóraСистема охлаждения
 
 WrocławPURE STUDIO
 
-## [Обслуживание диодного лазера в PURE STUDIO, Вроцлав — замена корпуса манипулы и проверка мощности](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/)
+## [PURE STUDIO — корпус манипулы и проверка мощности](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-pure-studio-vrotslav/)
 
 Замена корпуса манипулы, очистка оптики, герметизация и проверка мощности диодного лазера в PURE STUDIO, Вроцлав.
 
@@ -70,7 +70,7 @@ WrocławPURE STUDIO
 
 СвидницаsmartPULS · IPL
 
-## [smartPULS — восстановление работы IPL-манипулы в Свиднице](https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/)
+## [smartPULS — ремонт IPL-манипулы в Свиднице](https://lasertechservice.pl/ru/realizacje/smartpuls-ipl-svidnica/)
 
 В Laser Tech Service обратился клиент из города Свидница с проблемой немецкого косметологического аппарата smartPULS. По словам клиента, в манипуле перестала работать IPL-лампа. Первоначально предполагалось, что лампа перегорела и требует замены.
 
@@ -80,7 +80,7 @@ WrocławPURE STUDIO
 
 Варшава808 nm · HS-A0406
 
-## [Полное техническое обслуживание диодного лазера 808 нм в Варшаве — охлаждение, очистка и герметизация манипулы](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/)
+## [Лазер 808 нм — полное обслуживание в Варшаве](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-diodnogo-lazera-808nm-varshava/)
 
 Полное обслуживание диодного лазера 808 нм в Варшаве: замена охлаждающей жидкости, очистка, проверка мощности и герметизация манипулы.
 
@@ -90,7 +90,7 @@ WrocławPURE STUDIO
 
 WrocławNUBWAY
 
-## [Ремонт клапана сброса вакуума NUBWAY NBW-VSIII во Вроцлаве](https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/)
+## [NUBWAY NBW-VSIII — ремонт клапана вакуума](https://lasertechservice.pl/ru/realizacje/nubway-nbw-vsiii-remont-klapana-vakuuma-vrotslav/)
 
 Ремонт клапана сброса вакуума NUBWAY NBW-VSIII. Восстановление всасывания манипул без замены клапана.
 
@@ -100,7 +100,7 @@ WrocławNUBWAY
 
 Клиент из Праги, ЧехияУстранение протечки
 
-## [Ремонт протечки охлаждения лазерной манипулы — клиент из Праги](https://lasertechservice.pl/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/)
+## [Прага — ремонт протечки манипулы лазера](https://lasertechservice.pl/ru/realizacje/remont-protechki-ohlazhdeniya-manipuly-klient-praga/)
 
 В Laser Tech Service обратился новый клиент из Праги, который привёз в наш сервис косметологический лазер с неисправной манипулой.
 
@@ -110,7 +110,7 @@ WrocławNUBWAY
 
 Прага, ЧехияРемонт помпы
 
-## [Ремонт помпы охлаждения лазера Unique Light System E808 в Праге](https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/)
+## [Unique Light System E808 — ремонт помпы в Праге](https://lasertechservice.pl/ru/realizacje/remont-pompy-lazera-e808-praga/)
 
 Новый клиент из Праги сообщил об отсутствии охлаждения и ошибке «Water flow error», хотя жидкость в системе была. Мы восстановили двигатель помпы и циркуляцию без покупки нового узла.
 
@@ -120,7 +120,7 @@ WrocławNUBWAY
 
 ЛюбинСрочный ремонт
 
-## [Перегрев лазерной манипулы в Любине — ремонт подключения лазерного диода](https://lasertechservice.pl/ru/realizacje/peregrev-lazernoy-manipuly-lyubin-remont-provodov/)
+## [Любин — перегрев манипулы и ремонт проводов](https://lasertechservice.pl/ru/realizacje/peregrev-lazernoy-manipuly-lyubin-remont-provodov/)
 
 В Laser Tech Service поступила заявка из города Любин. Во время работы перегревалась головка лазера для эпиляции.
 
@@ -130,7 +130,7 @@ WrocławNUBWAY
 
 ГливицеСрочный ремонт
 
-## [Перегрев диодного лазера в Гливице — срочная замена водяного фильтра](https://lasertechservice.pl/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/)
+## [Гливице — перегрев лазера и замена фильтра](https://lasertechservice.pl/ru/realizacje/peregrev-diodnogo-lazera-glivitse-zamena-filtra/)
 
 Срочный выезд в Гливице из-за перегрева диодного лазера. Причиной стало треснувшее крепление возле водяного фильтра, через которое вытекала охлаждающая жидкость. Мы заменили фильтр и залили новую жидкость.
 
@@ -140,7 +140,7 @@ WrocławNUBWAY
 
 ЛегницаСервис и обслуживание
 
-## [Сервис лазера Sapphire — замена охлаждающей жидкости и обслуживание аппарата](https://lasertechservice.pl/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/)
+## [Sapphire — замена жидкости и обслуживание](https://lasertechservice.pl/ru/realizacje/servis-lasera-sapphire-zamena-zhidkosti/)
 
 Обслуживание Sapphire в Легнице: удаление остатков старой жидкости, заполнение контура, очистка аппарата, запуск и проверка работы.
 
@@ -150,7 +150,7 @@ WrocławNUBWAY
 
 WrocławОхлаждение и сервис
 
-## [Ремонт системы охлаждения Lumenis LightSheer DESIRE — замена трубок и восстановление циркуляции](https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/)
+## [LightSheer DESIRE — ремонт трубок охлаждения](https://lasertechservice.pl/ru/realizacje/remont-ohlazhdeniya-lightsheer-desire-vrotslav/)
 
 Сервис Lumenis LightSheer DESIRE во Вроцлаве: ET BP over temperature, замена загрязнённых трубок и жидкости, восстановление циркуляции.
 
@@ -170,7 +170,7 @@ WrocławОхлаждение и сервис
 
 Диагностика и ремонт
 
-## [Один аппарат — две неисправности: замена элемента Пельтье и ремонт лазера ND](https://lasertechservice.pl/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/)
+## [Замена Пельтье и ремонт Nd:YAG](https://lasertechservice.pl/ru/realizacje/zamena-pelte-remont-lazera-nd-yag/)
 
 Две независимые неисправности одного аппарата: замена элемента Пельтье, ремонт манипулы ND:YAG и калибровка. Работы Laser Tech Service.
 
@@ -180,7 +180,7 @@ WrocławОхлаждение и сервис
 
 PoznańОхлаждение и сервис
 
-## [Замена модуля Пельтье в манипуле лазера ESTETECH — ремонт системы охлаждения в Познани](https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/)
+## [ESTETECH — замена Пельтье](https://lasertechservice.pl/ru/realizacje/zamena-modulya-pelte-estetech-poznan/)
 
 Выездной ремонт ESTETECH в Познани: замена модуля Пельтье, обновление термоинтерфейса и восстановление охлаждения манипулы. Фотографии и ход работ.
 
@@ -190,7 +190,7 @@ PoznańОхлаждение и сервис
 
 OleśnicaСервис и обслуживание
 
-## [Ремонт Lumenis LightSheer DESIRE в Олеснице — утечка жидкости и неисправность системы охлаждения](https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/)
+## [LightSheer DESIRE — утечка охлаждения в Олеснице](https://lasertechservice.pl/ru/realizacje/remont-lumenis-lightsheer-desire-olesnica/)
 
 Выездной ремонт Lumenis LightSheer DESIRE в Олеснице: загрязнение фильтра и обратного клапана, уплотнения O-ring и восстановление охлаждения.
 
@@ -200,7 +200,7 @@ OleśnicaСервис и обслуживание
 
 WrocławОхлаждение и обслуживание
 
-## [Замена вентиляторов охлаждения лазера — Вроцлав](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/)
+## [Вроцлав — замена вентиляторов](https://lasertechservice.pl/ru/realizacje/zamena-ventilyatorov-ohlazhdeniya-lazera-vrotslav/)
 
 Неисправные вентиляторы и пыль внутри аппарата: диагностика, замена компонентов, очистка и восстановление работы охлаждения.
 
@@ -210,7 +210,7 @@ WrocławОхлаждение и обслуживание
 
 Ремонт RSL · Варшава
 
-## [Срочный ремонт аппарата для RSL-массажа в Варшаве — ремонт кабеля и замена разъёма](https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/)
+## [RSL — ремонт кабеля и разъёма в Варшаве](https://lasertechservice.pl/ru/realizacje/naprawa-rsl-masaz-warszawa/)
 
 Срочный ремонт аппарата для RSL-массажа в Варшаве: ремонт кабеля манипулы, замена разъёма и восстановление соединения. Laser Tech Service.
 
@@ -220,7 +220,7 @@ WrocławОхлаждение и обслуживание
 
 лазер для эпиляции
 
-## [Сервис лазера для эпиляции — техническое обслуживание аппарата](https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/)
+## [Лазер для эпиляции — техническое обслуживание](https://lasertechservice.pl/ru/realizacje/przeglad-techniczny-lasera-do-depilacji/)
 
 Техническое обслуживание лазера для эпиляции. Фотографии сервисных работ и значение регулярного ухода. Laser Tech Service.
 
@@ -230,7 +230,7 @@ WrocławОхлаждение и обслуживание
 
 ПознаньВыездной сервис
 
-## [Срочный ремонт CO₂-аппарата в Познани с выездом к клиенту](https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/)
+## [CO₂ в Познани — ремонт проводов](https://lasertechservice.pl/ru/realizacje/pilna-naprawa-lasera-co2-poznan/)
 
 Выездной ремонт CO₂-аппарата в Познани: диагностика исправной педали, поиск обрыва красного провода манипулы, замена и обслуживание.
 
@@ -260,7 +260,7 @@ GME EXSYS 308Сервисная проверка
 
 PHARAON 1470Wrocław · Denica
 
-## [Pharaon 1470 — диагностика и обслуживание во Вроцлаве](https://lasertechservice.pl/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/)
+## [Pharaon 1470 — сервис во Вроцлаве](https://lasertechservice.pl/ru/realizacje/przeglad-serwis-pharaon-1470-wroclaw/)
 
 Плановое обслуживание Pharaon 1470 в клинике Denica во Вроцлаве: диагностика, очистка аппарата, проверка после работ и запись в сервисную документацию.
 
@@ -270,7 +270,7 @@ PHARAON 1470Wrocław · Denica
 
 BEAUTY PLANET 3D CONTOURWrocław · studio Tiamo
 
-## [Beauty Planet 3D Contour — замена кабеля питания манипулы во Вроцлаве](https://lasertechservice.pl/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/)
+## [Beauty Planet 3D Contour — замена кабеля](https://lasertechservice.pl/ru/realizacje/beauty-planet-3d-contour-naprawa-przewodu-wroclaw/)
 
 В манипуле Beauty Planet 3D Contour в studio Tiamo во Вроцлаве не работал вакуум. Диагностика цепи, замена повреждённого кабеля питания и проверка после ремонта.
 
@@ -294,19 +294,15 @@ BEAUTY PLANET 3D CONTOUR Вроцлав
 
 Диагностика и ремонт манипулы Beauty Planet 3D Contour. Нарушение электропитания привело к отказу вакуумной системы и функции RF. После ремонта работа обеих функций восстановлена.
 
-Beauty Planet 3D Contour Вакуум RF
-
 [Посмотреть работу](https://lasertechservice.pl/ru/realizacje/naprawa-beauty-planet-3d-contour-wroclaw/)
 
 ![Лазер ESTELASE POWER P-808L с включённой панелью после планового обслуживания](https://lasertechservice.pl/img/realizacje/przeglad-estelase-power-p808l/estelase-power-p808l-wlaczony-panel.webp)
 
 ESTELASE POWER Плановое обслуживание
 
-## [Обслуживание ESTELASE POWER P-808L — замена фильтра и воды](https://lasertechservice.pl/ru/realizacje/przeglad-estelase-power-p808l/)
+## [ESTELASE P-808L — замена фильтра и воды](https://lasertechservice.pl/ru/realizacje/przeglad-estelase-power-p808l/)
 
 Плановое обслуживание диодного лазера для эпиляции. Выполнены продувка аппарата, замена фильтра и воды, проверка работы после обслуживания. Работы представлены на фотографиях и трёх видеозаписях.
-
-Диодный лазер Замена фильтра Замена воды Продувка
 
 [Посмотреть работу](https://lasertechservice.pl/ru/realizacje/przeglad-estelase-power-p808l/)
 
@@ -314,11 +310,9 @@ ESTELASE POWER Плановое обслуживание
 
 ALMA ACCENT Гёрлиц, Германия
 
-## [Ремонт Alma Accent — замена шланга системы охлаждения RF](https://lasertechservice.pl/ru/realizacje/naprawa-alma-accent-gorlitz/)
+## [Alma Accent — замена шланга охлаждения RF](https://lasertechservice.pl/ru/realizacje/naprawa-alma-accent-gorlitz/)
 
 Обслуживание Alma Accent в Гёрлице. Шланг подачи воды к RF-манипуле, повреждённый в трёх местах, заменён. Нормальная циркуляция охлаждающей жидкости восстановлена.
-
-Alma Accent RF Система охлаждения RF-манипула
 
 [Посмотреть работу](https://lasertechservice.pl/ru/realizacje/naprawa-alma-accent-gorlitz/)
 
@@ -326,11 +320,9 @@ Alma Accent RF Система охлаждения RF-манипула
 
 ДИОДНЫЙ ЛАЗЕР Познань
 
-## [Обслуживание манипулы диодного лазера — очистка и восстановление герметичности](https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/)
+## [Манипула — очистка и герметизация](https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/)
 
 Из-за разгерметизации внутрь манипулы проникали пыль и загрязнения. Выполнены разборка, тщательная очистка, проверка оптической системы и повторная герметизация манипулы.
-
-Манипула Оптика Очистка Герметизация
 
 [Посмотреть работу →](https://lasertechservice.pl/ru/realizacje/serwis-glowicy-lasera-diodowego-poznan/)
 
@@ -338,11 +330,9 @@ Alma Accent RF Система охлаждения RF-манипула
 
 CAVI SHAPE ADVANCED Вроцлав
 
-## [Обслуживание Cavi Shape Advanced — ремонт RF, ИК и ультразвука](https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/)
+## [Cavi Shape Advanced — ремонт RF, ИК и ультразвука](https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/)
 
 Комплексная диагностика Cavi Shape Advanced. Не работали три RF-манипулы и инфракрасное излучение, а ультразвук работал некорректно. Выполнены очистка контактов и основной платы, ремонт соединений и восстановление пайки электронных компонентов.
-
-RF Инфракрасное излучение Ультразвук Электроника
 
 [Посмотреть работу](https://lasertechservice.pl/ru/realizacje/serwis-cavi-shape-advanced-wroclaw/)
 
@@ -350,11 +340,9 @@ RF Инфракрасное излучение Ультразвук Электр
 
 ДИОДНЫЙ ЛАЗЕР Вроцлав
 
-## [Обслуживание диодного лазера — замена манипулы во Вроцлаве](https://lasertechservice.pl/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/)
+## [Замена манипулы лазера во Вроцлаве](https://lasertechservice.pl/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/)
 
 Комплексное техническое обслуживание диодного лазера для эпиляции. Замена рабочей манипулы, очистка аппарата и итоговая проверка работы.
-
-Диодный лазер Замена манипулы Техническое обслуживание Очистка
 
 [Посмотреть работу](https://lasertechservice.pl/ru/realizacje/serwis-lasera-diodowego-wymiana-glowicy-wroclaw/)
 
@@ -366,8 +354,6 @@ HIFU · KIMED Гёрлиц, Германия
 
 Ремонт неработающей манипулы HIFU, техническое обслуживание KIMED K1-W1601, очистка резервуара и элементов водяного контура у клиента в Гёрлице.
 
-HIFU KIMED Ремонт манипулы Водяной контур
-
 [Посмотреть работу](https://lasertechservice.pl/ru/realizacje/serwis-hifu-kimed-k1-w1601-gorlitz/)
 
 ![Ремонт аппарата Multipolar RF в Люблине](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin.webp)
@@ -378,27 +364,15 @@ Multipolar RF Люблин
 
 Аппарат слабо создавал вакуум, а RF-элемент не нагревался. Диагностика выявила негерметичность повреждённого насоса и проблему с контактом в RF-разъёме.
 
-- диагностика вакуумной системы
-
-- ремонт и герметизация насоса
-
-- ремонт RF-разъёма
-
-- пайка нового контакта
-
-- очистка аппарата
-
 [Посмотреть работу](https://lasertechservice.pl/ru/realizacje/naprawa-multipolar-rf-lublin/)
 
 ![Ремонт аппарата NUBWAY NBW-VSIII 5D во Вроцлаве](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw.webp)
 
 NUBWAY Вроцлав
 
-## [Ремонт NUBWAY NBW-VSIII — обслуживание RF и вакуумной системы](https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/)
+## [NUBWAY NBW-VSIII — сервис RF и вакуумной системы](https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/)
 
 Комплексное обслуживание NUBWAY NBW-VSIII 5D в реабилитационной студии во Вроцлаве. Замена шлангов вакуумной системы, ремонт RF-системы и элемента, создающего вакуум, а также очистка аппарата.
-
-RF Вакуум Диагностика Ремонт
 
 [Посмотреть работу](https://lasertechservice.pl/ru/realizacje/naprawa-nubway-nbw-vsiii-wroclaw/)
 
@@ -406,7 +380,7 @@ RF Вакуум Диагностика Ремонт
 
 Лазер ND:YAG Сервис
 
-## [Обслуживание лазера для удаления татуировок — замена фильтра](https://lasertechservice.pl/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/)
+## [Тату-лазер — замена фильтра](https://lasertechservice.pl/ru/realizacje/serwis-lasera-do-usuwania-tatuazu-wymiana-filtra/)
 
 Диагностика выявила неисправность, требующую замены элемента системы. Посмотрите ход ремонта и результат выполненных работ.
 

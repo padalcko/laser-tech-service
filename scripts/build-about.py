@@ -70,7 +70,7 @@ def render_main(lang):
    elif i==7:
     body+=paras([b[1]])
     listing=(ROOT/route('realizacje',lang).lstrip('/')/'index.html').read_text()
-    cards=re.findall(r'<article class="realizacja-card".*?</article>',listing,re.S)[:3]
+    cards=re.findall(r'<article class="realizacja-card(?: [^"]*)?".*?</article>',listing,re.S)[:3]
     assert len(cards)==3
     body+='<div class="about-cases">'+''.join(c.replace('<h2','<h3').replace('</h2>','</h3>') for c in cards)+'</div>'
     body+='<div class="about-actions">'+link(route('realizacje',lang),field(b,'CTA'),'btn btn-primary')+link(route('blog',lang),LABELS[lang][4],'btn btn-outline')+'</div>'

@@ -30,17 +30,17 @@ Diagnostics, troubleshooting, technical and software calibration of laser cuttin
 
 WrocławPrimelase
 
-## [Primelase HR Excellence Cooling Fan Bearing Replacement in Wrocław](https://lasertechservice.pl/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/)
+## [Primelase HR Excellence — fan bearing repair](https://lasertechservice.pl/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/)
 
 Cooling fan bearing replacement, radiator cleaning and comprehensive maintenance of a Primelase HR Excellence diode laser in Wrocław.
 
-[→](https://lasertechservice.pl/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/)
+[View case study](https://lasertechservice.pl/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/)
 
 ![Aragon Beauty Planet laser handpiece and display during servicing](https://lasertechservice.pl/img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka.webp)
 
 WrocławAragon / Beauty Planet
 
-## [Aragon Diode Laser Maintenance in Wrocław — Cooling Filter and Water Replacement](https://lasertechservice.pl/en/case-studies/aragon-diode-laser-service-wroclaw/)
+## [Aragon — cooling maintenance in Wrocław](https://lasertechservice.pl/en/case-studies/aragon-diode-laser-service-wroclaw/)
 
 Aragon Beauty Planet diode laser maintenance in Wrocław. Cooling filter replacement, coolant renewal and cooling system inspection.
 
@@ -50,7 +50,7 @@ Aragon Beauty Planet diode laser maintenance in Wrocław. Cooling filter replace
 
 Zielona GóraCooling system
 
-## [Diode Laser Repair in Zielona Góra. Water Flow Sensor Replacement](https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/)
+## [Zielona Góra — laser flow sensor replacement](https://lasertechservice.pl/en/case-studies/diode-laser-repair-zielona-gora/)
 
 On-site diode laser repair in Zielona Góra. Water flow sensor replacement, cooling system maintenance and laser handpiece cleaning.
 
@@ -60,7 +60,7 @@ On-site diode laser repair in Zielona Góra. Water flow sensor replacement, cool
 
 WrocławPURE STUDIO
 
-## [Diode Laser Servicing at PURE STUDIO Wrocław – Handpiece Housing Replacement and Power Verification](https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/)
+## [PURE STUDIO — handpiece housing and power check](https://lasertechservice.pl/en/case-studies/diode-laser-service-pure-studio-wroclaw/)
 
 Diode laser handpiece housing replacement, optical cleaning, sealing and laser power verification at PURE STUDIO Wrocław.
 
@@ -80,7 +80,7 @@ A client from Świdnica contacted Laser Tech Service after the IPL handpiece of 
 
 Warsaw808 nm · HS-A0406
 
-## [Complete 808 nm Diode Laser Maintenance in Warsaw – Cooling System Service and Handpiece Sealing](https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/)
+## [808 nm laser — maintenance in Warsaw](https://lasertechservice.pl/en/case-studies/808nm-diode-laser-maintenance-warsaw/)
 
 Complete 808 nm diode laser maintenance in Warsaw. Coolant replacement, internal cleaning, diode power verification and handpiece sealing.
 
@@ -110,7 +110,7 @@ A new customer from Prague brought a cosmetic laser device to Laser Tech Service
 
 Prague, Czech RepublicPump repair
 
-## [Laser Cooling Pump Repair — Unique Light System E808 in Prague](https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/)
+## [Unique Light System E808 — pump repair in Prague](https://lasertechservice.pl/en/case-studies/e808-laser-cooling-pump-repair-prague/)
 
 A new customer in Prague reported no cooling and a “Water flow error” message despite coolant being present. We repaired the pump motor and restored circulation without purchasing a new assembly.
 
@@ -120,7 +120,7 @@ A new customer in Prague reported no cooling and a “Water flow error” messag
 
 LubinEmergency service
 
-## [Overheating Laser Handpiece Repair in Lubin — Diode Wiring Correction](https://lasertechservice.pl/en/case-studies/overheating-laser-handpiece-lubin-diode-wiring/)
+## [Lubin — overheated handpiece wiring repair](https://lasertechservice.pl/en/case-studies/overheating-laser-handpiece-lubin-diode-wiring/)
 
 Laser Tech Service received a service request from Lubin, Poland, concerning an overheating laser hair removal handpiece.
 
@@ -130,7 +130,7 @@ Laser Tech Service received a service request from Lubin, Poland, concerning an 
 
 GliwiceEmergency service
 
-## [Diode laser overheating in Gliwice — emergency water filter replacement](https://lasertechservice.pl/en/case-studies/diode-laser-overheating-gliwice-water-filter/)
+## [Gliwice — overheating and water filter replacement](https://lasertechservice.pl/en/case-studies/diode-laser-overheating-gliwice-water-filter/)
 
 An urgent on-site visit to Gliwice for an overheating diode laser. A cracked fitting near the water filter was leaking coolant. We replaced the filter and refilled the system with fresh coolant.
 
@@ -140,7 +140,7 @@ An urgent on-site visit to Gliwice for an overheating diode laser. A cracked fit
 
 LegnicaServicing and maintenance
 
-## [Sapphire Laser Service — Coolant Replacement and Equipment Maintenance](https://lasertechservice.pl/en/case-studies/sapphire-coolant-replacement-maintenance/)
+## [Sapphire — coolant change and maintenance](https://lasertechservice.pl/en/case-studies/sapphire-coolant-replacement-maintenance/)
 
 Sapphire maintenance in Legnica: old coolant remnants removed, circuit refilled, equipment cleaned, started and checked for operation.
 
@@ -150,7 +150,7 @@ Sapphire maintenance in Legnica: old coolant remnants removed, circuit refilled,
 
 WrocławCooling and servicing
 
-## [Lumenis LightSheer DESIRE Cooling System Repair – Tubing Replacement and Coolant Circulation Restoration](https://lasertechservice.pl/en/case-studies/lightsheer-desire-cooling-tubing-repair-wroclaw/)
+## [LightSheer DESIRE — cooling tubing repair](https://lasertechservice.pl/en/case-studies/lightsheer-desire-cooling-tubing-repair-wroclaw/)
 
 Lumenis LightSheer DESIRE service in Wrocław: ET BP over temperature, contaminated tubing and coolant replacement, and restored circulation.
 
@@ -170,7 +170,7 @@ Laser Tech Service replaced a burned-out diode: the handpiece was disassembled, 
 
 Diagnostics and repair
 
-## [One device, two faults — Peltier module replacement and Nd:YAG laser repair](https://lasertechservice.pl/en/case-studies/peltier-replacement-nd-yag-laser-repair/)
+## [Peltier replacement and Nd:YAG repair](https://lasertechservice.pl/en/case-studies/peltier-replacement-nd-yag-laser-repair/)
 
 Two independent faults in one device: Peltier module replacement, Nd:YAG handpiece repair and calibration. Work carried out by Laser Tech Service.
 
@@ -180,7 +180,7 @@ Two independent faults in one device: Peltier module replacement, Nd:YAG handpie
 
 PoznańCooling and servicing
 
-## [ESTETECH laser handpiece Peltier module replacement – cooling repair in Poznań](https://lasertechservice.pl/en/case-studies/estetech-peltier-module-replacement-poznan/)
+## [ESTETECH — Peltier replacement](https://lasertechservice.pl/en/case-studies/estetech-peltier-module-replacement-poznan/)
 
 On-site ESTETECH repair in Poznań: Peltier module replacement, thermal interface renewal and restoration of handpiece cooling. See the work carried out.
 
@@ -190,7 +190,7 @@ On-site ESTETECH repair in Poznań: Peltier module replacement, thermal interfac
 
 OleśnicaServicing and maintenance
 
-## [Lumenis LightSheer DESIRE repair in Oleśnica — coolant leak and cooling system failure](https://lasertechservice.pl/en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/)
+## [LightSheer DESIRE — cooling leak in Oleśnica](https://lasertechservice.pl/en/case-studies/lumenis-lightsheer-desire-cooling-repair-olesnica/)
 
 On-site Lumenis LightSheer DESIRE servicing in Oleśnica: contaminated filter and non-return valve, leaking O-rings, cleaning and restoration of cooling.
 
@@ -210,7 +210,7 @@ Faulty fans and internal dust: diagnostics, component replacement, cleaning and 
 
 RSL repair · Warsaw
 
-## [Urgent RSL massage device repair in Warsaw — cable repair and connector replacement](https://lasertechservice.pl/en/case-studies/rsl-massage-device-repair-warsaw/)
+## [RSL — cable and connector repair in Warsaw](https://lasertechservice.pl/en/case-studies/rsl-massage-device-repair-warsaw/)
 
 Urgent RSL massage device repair in Warsaw. Handpiece cable repair and connector replacement by Laser Tech Service.
 
@@ -240,7 +240,7 @@ Urgent CO₂ laser servicing in Poznań: a working pedal, an internal break in a
 
 PoznańLaser servicing
 
-## [Flood-damaged laser diode module replacement – Poznań](https://lasertechservice.pl/en/case-studies/flood-damaged-diode-module-replacement-poznan/)
+## [Flooded diode module — replacement](https://lasertechservice.pl/en/case-studies/flood-damaged-diode-module-replacement-poznan/)
 
 An incorrectly fitted seal allowed liquid into the module. See the damage and the repair work carried out in Poznań.
 
@@ -270,7 +270,7 @@ Pharaon 1470 at Denica in Wrocław: diagnostics, internal cleaning, scheduled ma
 
 BEAUTY PLANET 3D CONTOURWrocław · studio Tiamo
 
-## [Beauty Planet 3D Contour — handpiece power cable replacement in Wrocław](https://lasertechservice.pl/en/case-studies/beauty-planet-handpiece-cable-replacement-wroclaw/)
+## [Beauty Planet 3D Contour — handpiece cable repair](https://lasertechservice.pl/en/case-studies/beauty-planet-handpiece-cable-replacement-wroclaw/)
 
 No vacuum in a Beauty Planet 3D Contour handpiece at Tiamo studio in Wrocław. Diagnostics, damaged power cable replacement and vacuum testing.
 
@@ -294,19 +294,15 @@ BEAUTY PLANET 3D CONTOUR Wrocław
 
 Beauty Planet 3D Contour handpiece diagnostics and repair. Missing power disabled vacuum and RF. Both functions were restored after repair.
 
-Beauty Planet 3D Contour Vacuum RF
-
 [View the case study](https://lasertechservice.pl/en/case-studies/beauty-planet-vacuum-rf-repair-wroclaw/)
 
 ![ESTELASE POWER P-808L laser with its panel switched on after scheduled maintenance](https://lasertechservice.pl/img/realizacje/przeglad-estelase-power-p808l/estelase-power-p808l-wlaczony-panel.webp)
 
 ESTELASE POWER Scheduled maintenance
 
-## [ESTELASE POWER P-808L maintenance — filter and water replacement](https://lasertechservice.pl/en/case-studies/estelase-power-p808l-maintenance/)
+## [ESTELASE P-808L — filter and water change](https://lasertechservice.pl/en/case-studies/estelase-power-p808l-maintenance/)
 
 Scheduled hair removal diode laser maintenance. We blew out dust, replaced the filter and water, and checked operation afterwards. Photographs and three videos document the work.
-
-Diode laser Filter replacement Water replacement Dust removal
 
 [View the case study](https://lasertechservice.pl/en/case-studies/estelase-power-p808l-maintenance/)
 
@@ -318,8 +314,6 @@ ALMA ACCENT Görlitz, Germany
 
 Alma Accent servicing in Görlitz. The water hose feeding the RF handpiece was damaged in three places. Replacement restored correct cooling circulation.
 
-Alma Accent RF Cooling system RF handpiece
-
 [View the case study](https://lasertechservice.pl/en/case-studies/alma-accent-cooling-hose-repair-gorlitz/)
 
 ![Checking the housing joint on a laser handpiece with a failed seal](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/nieszczelnosc-manipuly-lasera.webp)
@@ -329,8 +323,6 @@ DIODE LASER Poznań
 ## [Diode laser handpiece servicing — cleaning and resealing](https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-service-poznan/)
 
 Compromised handpiece sealing allowed dust and contamination inside. We dismantled and thoroughly cleaned the handpiece, checked the optics and restored its seal correctly.
-
-Handpiece Optics Cleaning Sealing
 
 [View case study →](https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-service-poznan/)
 
@@ -342,8 +334,6 @@ CAVI SHAPE ADVANCED Wrocław
 
 Comprehensive Cavi Shape Advanced diagnostics. Three RF handpieces and infrared light did not work, while ultrasound malfunctioned. We cleaned contacts and the main board, repaired connections and corrected solder joints.
 
-RF Infrared Ultrasound Electronics
-
 [View the case study](https://lasertechservice.pl/en/case-studies/cavi-shape-advanced-service-wroclaw/)
 
 ![Technician at the rear of a diode laser](https://lasertechservice.pl/img/realizacje/serwis-lasera-diodowego-wymiana-glowicy-3.webp)
@@ -353,8 +343,6 @@ DIODE LASER Wrocław
 ## [Diode laser servicing – handpiece replacement in Wrocław](https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-replacement-wroclaw/)
 
 Comprehensive hair removal diode laser maintenance. Treatment handpiece replacement, device cleaning and final operational checks.
-
-Diode laser Handpiece replacement Maintenance Cleaning
 
 [View the case study](https://lasertechservice.pl/en/case-studies/diode-laser-handpiece-replacement-wroclaw/)
 
@@ -366,8 +354,6 @@ HIFU · KIMED Görlitz, Germany
 
 Repair of a non-functioning HIFU handpiece, KIMED K1-W1601 maintenance, and reservoir and water circuit cleaning at the client’s premises in Görlitz.
 
-HIFU KIMED Handpiece repair Water system
-
 [View the case study](https://lasertechservice.pl/en/case-studies/hifu-kimed-k1-w1601-service-gorlitz/)
 
 ![Multipolar RF equipment repair in Lublin](https://lasertechservice.pl/img/realizacje/multipolar-rf-lublin.webp)
@@ -378,27 +364,15 @@ Multipolar RF Lublin
 
 The device produced weak vacuum and the RF element did not heat. Diagnostics identified a leak in the damaged pump and an RF connector contact problem.
 
-- vacuum system diagnostics
-
-- pump repair and sealing
-
-- RF connector repair
-
-- soldering a new contact
-
-- cleaning the device
-
 [View the case study](https://lasertechservice.pl/en/case-studies/multipolar-rf-repair-lublin/)
 
 ![NUBWAY NBW-VSIII 5D equipment repair in Wrocław](https://lasertechservice.pl/img/realizacje/naprawa-nubway-nbw-vsiii-wroclaw.webp)
 
 NUBWAY Wrocław
 
-## [NUBWAY NBW-VSIII repair — RF and vacuum system servicing](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-repair-wroclaw/)
+## [NUBWAY NBW-VSIII — RF and vacuum repair](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-repair-wroclaw/)
 
 Comprehensive NUBWAY NBW-VSIII 5D servicing at a rehabilitation studio in Wrocław. Vacuum hose replacement, RF repair, repair of the vacuum-generating component and device cleaning.
-
-RF Vacuum Diagnostics Repair
 
 [View the case study](https://lasertechservice.pl/en/case-studies/nubway-nbw-vsiii-repair-wroclaw/)
 

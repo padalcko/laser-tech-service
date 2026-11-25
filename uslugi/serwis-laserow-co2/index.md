@@ -130,7 +130,7 @@ Udokumentowany przypadek dotyczy usterki obwodu sterowania; nie jest przykładem
 
 ![CO₂ w Poznaniu — diagnostyka przewodów manipuły](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/manipula-lasera-diagnostyka-multimetrem.webp)
 
-### CO₂ w Poznaniu — diagnostyka przewodów manipuły
+### CO₂ w Poznaniu — naprawa przewodów
 
 **Objaw:** Aparat nie reagował prawidłowo na naciśnięcie pedału.
 

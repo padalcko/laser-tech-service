@@ -1,0 +1,831 @@
+{
+  "results": [
+    {
+      "route": "/blog/",
+      "width": 320,
+      "count": 43
+    },
+    {
+      "route": "/blog/",
+      "width": 390,
+      "count": 43
+    },
+    {
+      "route": "/blog/",
+      "width": 768,
+      "count": 43
+    },
+    {
+      "route": "/blog/",
+      "width": 1024,
+      "count": 43
+    },
+    {
+      "route": "/blog/",
+      "width": 1440,
+      "count": 43
+    },
+    {
+      "route": "/en/about-us/",
+      "width": 320,
+      "count": 3
+    },
+    {
+      "route": "/en/about-us/",
+      "width": 390,
+      "count": 3
+    },
+    {
+      "route": "/en/about-us/",
+      "width": 768,
+      "count": 3
+    },
+    {
+      "route": "/en/about-us/",
+      "width": 1024,
+      "count": 3
+    },
+    {
+      "route": "/en/about-us/",
+      "width": 1440,
+      "count": 3
+    },
+    {
+      "route": "/en/blog/",
+      "width": 320,
+      "count": 43
+    },
+    {
+      "route": "/en/blog/",
+      "width": 390,
+      "count": 43
+    },
+    {
+      "route": "/en/blog/",
+      "width": 768,
+      "count": 43
+    },
+    {
+      "route": "/en/blog/",
+      "width": 1024,
+      "count": 43
+    },
+    {
+      "route": "/en/blog/",
+      "width": 1440,
+      "count": 43
+    },
+    {
+      "route": "/en/case-studies/",
+      "width": 320,
+      "count": 37
+    },
+    {
+      "route": "/en/case-studies/",
+      "width": 390,
+      "count": 37
+    },
+    {
+      "route": "/en/case-studies/",
+      "width": 768,
+      "count": 37
+    },
+    {
+      "route": "/en/case-studies/",
+      "width": 1024,
+      "count": 37
+    },
+    {
+      "route": "/en/case-studies/",
+      "width": 1440,
+      "count": 37
+    },
+    {
+      "route": "/en/services/co2-laser-service/",
+      "width": 320,
+      "count": 1
+    },
+    {
+      "route": "/en/services/co2-laser-service/",
+      "width": 390,
+      "count": 1
+    },
+    {
+      "route": "/en/services/co2-laser-service/",
+      "width": 768,
+      "count": 1
+    },
+    {
+      "route": "/en/services/co2-laser-service/",
+      "width": 1024,
+      "count": 1
+    },
+    {
+      "route": "/en/services/co2-laser-service/",
+      "width": 1440,
+      "count": 1
+    },
+    {
+      "route": "/en/services/diode-laser-diagnostics/",
+      "width": 320,
+      "count": 3
+    },
+    {
+      "route": "/en/services/diode-laser-diagnostics/",
+      "width": 390,
+      "count": 3
+    },
+    {
+      "route": "/en/services/diode-laser-diagnostics/",
+      "width": 768,
+      "count": 3
+    },
+    {
+      "route": "/en/services/diode-laser-diagnostics/",
+      "width": 1024,
+      "count": 3
+    },
+    {
+      "route": "/en/services/diode-laser-diagnostics/",
+      "width": 1440,
+      "count": 3
+    },
+    {
+      "route": "/en/services/laser-cooling-system-repair/",
+      "width": 320,
+      "count": 1
+    },
+    {
+      "route": "/en/services/laser-cooling-system-repair/",
+      "width": 390,
+      "count": 1
+    },
+    {
+      "route": "/en/services/laser-cooling-system-repair/",
+      "width": 768,
+      "count": 1
+    },
+    {
+      "route": "/en/services/laser-cooling-system-repair/",
+      "width": 1024,
+      "count": 1
+    },
+    {
+      "route": "/en/services/laser-cooling-system-repair/",
+      "width": 1440,
+      "count": 1
+    },
+    {
+      "route": "/en/services/laser-diode-replacement-calibration/",
+      "width": 320,
+      "count": 1
+    },
+    {
+      "route": "/en/services/laser-diode-replacement-calibration/",
+      "width": 390,
+      "count": 1
+    },
+    {
+      "route": "/en/services/laser-diode-replacement-calibration/",
+      "width": 768,
+      "count": 1
+    },
+    {
+      "route": "/en/services/laser-diode-replacement-calibration/",
+      "width": 1024,
+      "count": 1
+    },
+    {
+      "route": "/en/services/laser-diode-replacement-calibration/",
+      "width": 1440,
+      "count": 1
+    },
+    {
+      "route": "/en/services/laser-handpiece-repair/",
+      "width": 320,
+      "count": 3
+    },
+    {
+      "route": "/en/services/laser-handpiece-repair/",
+      "width": 390,
+      "count": 3
+    },
+    {
+      "route": "/en/services/laser-handpiece-repair/",
+      "width": 768,
+      "count": 3
+    },
+    {
+      "route": "/en/services/laser-handpiece-repair/",
+      "width": 1024,
+      "count": 3
+    },
+    {
+      "route": "/en/services/laser-handpiece-repair/",
+      "width": 1440,
+      "count": 3
+    },
+    {
+      "route": "/en/services/nd-yag-laser-service/",
+      "width": 320,
+      "count": 1
+    },
+    {
+      "route": "/en/services/nd-yag-laser-service/",
+      "width": 390,
+      "count": 1
+    },
+    {
+      "route": "/en/services/nd-yag-laser-service/",
+      "width": 768,
+      "count": 1
+    },
+    {
+      "route": "/en/services/nd-yag-laser-service/",
+      "width": 1024,
+      "count": 1
+    },
+    {
+      "route": "/en/services/nd-yag-laser-service/",
+      "width": 1440,
+      "count": 1
+    },
+    {
+      "route": "/en/services/post-warranty-equipment-service/",
+      "width": 320,
+      "count": 1
+    },
+    {
+      "route": "/en/services/post-warranty-equipment-service/",
+      "width": 390,
+      "count": 1
+    },
+    {
+      "route": "/en/services/post-warranty-equipment-service/",
+      "width": 768,
+      "count": 1
+    },
+    {
+      "route": "/en/services/post-warranty-equipment-service/",
+      "width": 1024,
+      "count": 1
+    },
+    {
+      "route": "/en/services/post-warranty-equipment-service/",
+      "width": 1440,
+      "count": 1
+    },
+    {
+      "route": "/en/services/power-supply-electronics-repair/",
+      "width": 320,
+      "count": 2
+    },
+    {
+      "route": "/en/services/power-supply-electronics-repair/",
+      "width": 390,
+      "count": 2
+    },
+    {
+      "route": "/en/services/power-supply-electronics-repair/",
+      "width": 768,
+      "count": 2
+    },
+    {
+      "route": "/en/services/power-supply-electronics-repair/",
+      "width": 1024,
+      "count": 2
+    },
+    {
+      "route": "/en/services/power-supply-electronics-repair/",
+      "width": 1440,
+      "count": 2
+    },
+    {
+      "route": "/o-nas/",
+      "width": 320,
+      "count": 3
+    },
+    {
+      "route": "/o-nas/",
+      "width": 390,
+      "count": 3
+    },
+    {
+      "route": "/o-nas/",
+      "width": 768,
+      "count": 3
+    },
+    {
+      "route": "/o-nas/",
+      "width": 1024,
+      "count": 3
+    },
+    {
+      "route": "/o-nas/",
+      "width": 1440,
+      "count": 3
+    },
+    {
+      "route": "/realizacje/",
+      "width": 320,
+      "count": 37
+    },
+    {
+      "route": "/realizacje/",
+      "width": 390,
+      "count": 37
+    },
+    {
+      "route": "/realizacje/",
+      "width": 768,
+      "count": 37
+    },
+    {
+      "route": "/realizacje/",
+      "width": 1024,
+      "count": 37
+    },
+    {
+      "route": "/realizacje/",
+      "width": 1440,
+      "count": 37
+    },
+    {
+      "route": "/ru/blog/",
+      "width": 320,
+      "count": 43
+    },
+    {
+      "route": "/ru/blog/",
+      "width": 390,
+      "count": 43
+    },
+    {
+      "route": "/ru/blog/",
+      "width": 768,
+      "count": 43
+    },
+    {
+      "route": "/ru/blog/",
+      "width": 1024,
+      "count": 43
+    },
+    {
+      "route": "/ru/blog/",
+      "width": 1440,
+      "count": 43
+    },
+    {
+      "route": "/ru/o-nas/",
+      "width": 320,
+      "count": 3
+    },
+    {
+      "route": "/ru/o-nas/",
+      "width": 390,
+      "count": 3
+    },
+    {
+      "route": "/ru/o-nas/",
+      "width": 768,
+      "count": 3
+    },
+    {
+      "route": "/ru/o-nas/",
+      "width": 1024,
+      "count": 3
+    },
+    {
+      "route": "/ru/o-nas/",
+      "width": 1440,
+      "count": 3
+    },
+    {
+      "route": "/ru/realizacje/",
+      "width": 320,
+      "count": 37
+    },
+    {
+      "route": "/ru/realizacje/",
+      "width": 390,
+      "count": 37
+    },
+    {
+      "route": "/ru/realizacje/",
+      "width": 768,
+      "count": 37
+    },
+    {
+      "route": "/ru/realizacje/",
+      "width": 1024,
+      "count": 37
+    },
+    {
+      "route": "/ru/realizacje/",
+      "width": 1440,
+      "count": 37
+    },
+    {
+      "route": "/ru/uslugi/diagnostika-diodnyh-lazerov/",
+      "width": 320,
+      "count": 3
+    },
+    {
+      "route": "/ru/uslugi/diagnostika-diodnyh-lazerov/",
+      "width": 390,
+      "count": 3
+    },
+    {
+      "route": "/ru/uslugi/diagnostika-diodnyh-lazerov/",
+      "width": 768,
+      "count": 3
+    },
+    {
+      "route": "/ru/uslugi/diagnostika-diodnyh-lazerov/",
+      "width": 1024,
+      "count": 3
+    },
+    {
+      "route": "/ru/uslugi/diagnostika-diodnyh-lazerov/",
+      "width": 1440,
+      "count": 3
+    },
+    {
+      "route": "/ru/uslugi/poslegarantiynoe-obsluzhivanie/",
+      "width": 320,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/poslegarantiynoe-obsluzhivanie/",
+      "width": 390,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/poslegarantiynoe-obsluzhivanie/",
+      "width": 768,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/poslegarantiynoe-obsluzhivanie/",
+      "width": 1024,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/poslegarantiynoe-obsluzhivanie/",
+      "width": 1440,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/",
+      "width": 320,
+      "count": 2
+    },
+    {
+      "route": "/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/",
+      "width": 390,
+      "count": 2
+    },
+    {
+      "route": "/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/",
+      "width": 768,
+      "count": 2
+    },
+    {
+      "route": "/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/",
+      "width": 1024,
+      "count": 2
+    },
+    {
+      "route": "/ru/uslugi/remont-blokov-pitaniya-i-elektroniki/",
+      "width": 1440,
+      "count": 2
+    },
+    {
+      "route": "/ru/uslugi/remont-sistem-ohlazhdeniya/",
+      "width": 320,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/remont-sistem-ohlazhdeniya/",
+      "width": 390,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/remont-sistem-ohlazhdeniya/",
+      "width": 768,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/remont-sistem-ohlazhdeniya/",
+      "width": 1024,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/remont-sistem-ohlazhdeniya/",
+      "width": 1440,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-co2/",
+      "width": 320,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-co2/",
+      "width": 390,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-co2/",
+      "width": 768,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-co2/",
+      "width": 1024,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-co2/",
+      "width": 1440,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-nd-yag/",
+      "width": 320,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-nd-yag/",
+      "width": 390,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-nd-yag/",
+      "width": 768,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-nd-yag/",
+      "width": 1024,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/servis-lazerov-nd-yag/",
+      "width": 1440,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/vosstanovlenie-golovok-i-manipul/",
+      "width": 320,
+      "count": 3
+    },
+    {
+      "route": "/ru/uslugi/vosstanovlenie-golovok-i-manipul/",
+      "width": 390,
+      "count": 3
+    },
+    {
+      "route": "/ru/uslugi/vosstanovlenie-golovok-i-manipul/",
+      "width": 768,
+      "count": 3
+    },
+    {
+      "route": "/ru/uslugi/vosstanovlenie-golovok-i-manipul/",
+      "width": 1024,
+      "count": 3
+    },
+    {
+      "route": "/ru/uslugi/vosstanovlenie-golovok-i-manipul/",
+      "width": 1440,
+      "count": 3
+    },
+    {
+      "route": "/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/",
+      "width": 320,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/",
+      "width": 390,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/",
+      "width": 768,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/",
+      "width": 1024,
+      "count": 1
+    },
+    {
+      "route": "/ru/uslugi/zamena-i-kalibrovka-lazernyh-diodov/",
+      "width": 1440,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/diagnostyka-laserow-diodowych/",
+      "width": 320,
+      "count": 3
+    },
+    {
+      "route": "/uslugi/diagnostyka-laserow-diodowych/",
+      "width": 390,
+      "count": 3
+    },
+    {
+      "route": "/uslugi/diagnostyka-laserow-diodowych/",
+      "width": 768,
+      "count": 3
+    },
+    {
+      "route": "/uslugi/diagnostyka-laserow-diodowych/",
+      "width": 1024,
+      "count": 3
+    },
+    {
+      "route": "/uslugi/diagnostyka-laserow-diodowych/",
+      "width": 1440,
+      "count": 3
+    },
+    {
+      "route": "/uslugi/naprawa-ukladow-chlodzenia/",
+      "width": 320,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/naprawa-ukladow-chlodzenia/",
+      "width": 390,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/naprawa-ukladow-chlodzenia/",
+      "width": 768,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/naprawa-ukladow-chlodzenia/",
+      "width": 1024,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/naprawa-ukladow-chlodzenia/",
+      "width": 1440,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/naprawa-zasilaczy-i-elektroniki/",
+      "width": 320,
+      "count": 2
+    },
+    {
+      "route": "/uslugi/naprawa-zasilaczy-i-elektroniki/",
+      "width": 390,
+      "count": 2
+    },
+    {
+      "route": "/uslugi/naprawa-zasilaczy-i-elektroniki/",
+      "width": 768,
+      "count": 2
+    },
+    {
+      "route": "/uslugi/naprawa-zasilaczy-i-elektroniki/",
+      "width": 1024,
+      "count": 2
+    },
+    {
+      "route": "/uslugi/naprawa-zasilaczy-i-elektroniki/",
+      "width": 1440,
+      "count": 2
+    },
+    {
+      "route": "/uslugi/regeneracja-glowic-i-manipulatorow/",
+      "width": 320,
+      "count": 3
+    },
+    {
+      "route": "/uslugi/regeneracja-glowic-i-manipulatorow/",
+      "width": 390,
+      "count": 3
+    },
+    {
+      "route": "/uslugi/regeneracja-glowic-i-manipulatorow/",
+      "width": 768,
+      "count": 3
+    },
+    {
+      "route": "/uslugi/regeneracja-glowic-i-manipulatorow/",
+      "width": 1024,
+      "count": 3
+    },
+    {
+      "route": "/uslugi/regeneracja-glowic-i-manipulatorow/",
+      "width": 1440,
+      "count": 3
+    },
+    {
+      "route": "/uslugi/serwis-laserow-co2/",
+      "width": 320,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/serwis-laserow-co2/",
+      "width": 390,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/serwis-laserow-co2/",
+      "width": 768,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/serwis-laserow-co2/",
+      "width": 1024,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/serwis-laserow-co2/",
+      "width": 1440,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/serwis-laserow-nd-yag/",
+      "width": 320,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/serwis-laserow-nd-yag/",
+      "width": 390,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/serwis-laserow-nd-yag/",
+      "width": 768,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/serwis-laserow-nd-yag/",
+      "width": 1024,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/serwis-laserow-nd-yag/",
+      "width": 1440,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/serwis-pogwarancyjny/",
+      "width": 320,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/serwis-pogwarancyjny/",
+      "width": 390,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/serwis-pogwarancyjny/",
+      "width": 768,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/serwis-pogwarancyjny/",
+      "width": 1024,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/serwis-pogwarancyjny/",
+      "width": 1440,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/wymiana-i-kalibracja-diod-laserowych/",
+      "width": 320,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/wymiana-i-kalibracja-diod-laserowych/",
+      "width": 390,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/wymiana-i-kalibracja-diod-laserowych/",
+      "width": 768,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/wymiana-i-kalibracja-diod-laserowych/",
+      "width": 1024,
+      "count": 1
+    },
+    {
+      "route": "/uslugi/wymiana-i-kalibracja-diod-laserowych/",
+      "width": 1440,
+      "count": 1
+    }
+  ],
+  "failures": [],
+  "errors": []
+}

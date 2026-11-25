@@ -1,0 +1,48 @@
+/* Shared publication card geometry. Existing blog/case styles own colors,
+   borders and hover treatments; copy and photos remain in source HTML. */
+:is(.blog-grid, .realizacje-grid, .about-cases, .service-cases-grid) {
+    align-items: stretch;
+}
+.lts-card.lts-card {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+}
+.lts-card .lts-card__body {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    min-width: 0;
+}
+.lts-card.lts-card .lts-card__title {
+    box-sizing: content-box;
+    margin: 0 0 18px;
+    min-height: 4.2em;
+    height: 4.2em;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.4;
+    letter-spacing: -0.4px;
+    overflow-wrap: anywhere;
+}
+.lts-card .lts-card__description { margin: 0 0 24px; }
+.lts-card .lts-card__cta { align-self: start; margin-top: auto; }
+.lts-card .blog-card__footer { margin-top: auto; }
+.lts-card .realizacja-card__image { flex: none; width: 100%; }
+.lts-card .realizacja-card__meta { align-content: start; }
+.lts-card .realizacja-card__meta span { max-width: 100%; line-height: 1.4; }
+
+/* Keep the content wrapper intact: flattening it made extra case metadata
+   occupy implicit grid tracks and overlap the CTA. */
+.lts-card.realizacja-card .realizacja-card__content {
+    padding: 30px 30px 32px;
+}
+.lts-card.realizacja-card .realizacja-card__meta { min-height: 29px; }
+.lts-card.realizacja-card .lts-card__description {
+    font-size: 15px;
+    line-height: 1.75;
+    color: var(--text-soft);
+}
+@media (max-width: 650px) {
+    .lts-card.realizacja-card .realizacja-card__content { padding: 23px 20px 26px; }
+}

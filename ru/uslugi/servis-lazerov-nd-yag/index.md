@@ -101,7 +101,7 @@
 
 ![Две неисправности аппарата — Пельтье и Nd:YAG](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/serwis-manipuly-nd-yag.webp)
 
-### Две неисправности аппарата — Пельтье и Nd:YAG
+### Замена Пельтье и ремонт Nd:YAG
 
 **Симптом:** Две независимые неисправности манипул одного аппарата.
 

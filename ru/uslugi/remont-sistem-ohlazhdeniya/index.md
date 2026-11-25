@@ -101,7 +101,7 @@
 
 ![Замена вентиляторов охлаждения — Вроцлав](https://lasertechservice.pl/img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw.webp)
 
-### Замена вентиляторов охлаждения — Вроцлав
+### Вроцлав — замена вентиляторов
 
 **Симптом:** Недостаточное охлаждение лазерного аппарата.
 

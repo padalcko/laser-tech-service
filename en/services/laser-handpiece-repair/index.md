@@ -140,7 +140,7 @@ We check the repaired systems before returning the equipment.
 
 ![Module replacement after liquid ingress — Poznań](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp)
 
-### Module replacement after liquid ingress — Poznań
+### Flooded diode module — replacement
 
 **Symptom:** A damaged laser diode module following liquid ingress.
 
@@ -164,7 +164,7 @@ We check the repaired systems before returning the equipment.
 
 ![ESTETECH cooling repair — Poznań](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp)
 
-### ESTETECH cooling repair — Poznań
+### ESTETECH — Peltier replacement
 
 **Symptom:** The handpiece surface was not cooling correctly.
 

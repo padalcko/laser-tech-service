@@ -164,7 +164,7 @@ Weryfikujemy działanie naprawionych układów przed przekazaniem sprzętu.
 
 ![Naprawa chłodzenia ESTETECH — Poznań](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp)
 
-### Naprawa chłodzenia ESTETECH — Poznań
+### ESTETECH — wymiana modułu Peltiera
 
 **Objaw:** Powierzchnia głowicy nie chłodziła prawidłowo.
 

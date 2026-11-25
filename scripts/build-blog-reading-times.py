@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CARD = re.compile(r'<article class="blog-card">.*?</article>', re.S)
+CARD = re.compile(r'<article class="blog-card(?: [^"]*)?">.*?</article>', re.S)
 LABELS = {'pl': 'Około {} min czytania', 'ru': 'Около {} мин чтения', 'en': 'About {} min read'}
 
 
@@ -19,7 +19,7 @@ def build(check=False):
         def update(match):
             card = match[0]
             for cls in ['blog-card__top', 'blog-card__content', 'blog-card__title', 'blog-card__description', 'blog-card__footer', 'blog-card__link']:
-                assert f'class="{cls}"' in card, (filename, cls)
+                assert re.search(r'class="[^"]*\b' + re.escape(cls) + r'(?: |")', card), (filename, cls)
             if 'class="blog-card__reading-time"' in card:
                 assert card.count('class="blog-card__reading-time"') == 1
                 return card

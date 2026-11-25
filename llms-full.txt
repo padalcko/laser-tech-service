@@ -604,17 +604,17 @@ Diagnostics, troubleshooting, technical and software calibration of laser cuttin
 
 WrocławPrimelase
 
-##### [Primelase HR Excellence Cooling Fan Bearing Replacement in Wrocław](https://lasertechservice.pl/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/)
+##### [Primelase HR Excellence — fan bearing repair](https://lasertechservice.pl/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/)
 
 Cooling fan bearing replacement, radiator cleaning and comprehensive maintenance of a Primelase HR Excellence diode laser in Wrocław.
 
-[→](https://lasertechservice.pl/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/)
+[View case study](https://lasertechservice.pl/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/)
 
 ![Aragon Beauty Planet laser handpiece and display during servicing](https://lasertechservice.pl/img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka.webp)
 
 WrocławAragon / Beauty Planet
 
-##### [Aragon Diode Laser Maintenance in Wrocław — Cooling Filter and Water Replacement](https://lasertechservice.pl/en/case-studies/aragon-diode-laser-service-wroclaw/)
+##### [Aragon — cooling maintenance in Wrocław](https://lasertechservice.pl/en/case-studies/aragon-diode-laser-service-wroclaw/)
 
 Aragon Beauty Planet diode laser maintenance in Wrocław. Cooling filter replacement, coolant renewal and cooling system inspection.
 
@@ -839,17 +839,17 @@ Diagnostyka, usunięcie problemu oraz kalibracja techniczna i programowa urządz
 
 WrocławPrimelase
 
-##### [Naprawa wentylatora Primelase HR Excellence i wymiana łożyska we Wrocławiu](https://lasertechservice.pl/realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/)
+##### [Primelase HR Excellence — naprawa wentylatora](https://lasertechservice.pl/realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/)
 
 Wymiana łożyska wentylatora lasera Primelase HR Excellence, czyszczenie chłodnicy i kompleksowy przegląd techniczny we Wrocławiu.
 
-[→](https://lasertechservice.pl/realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/)
+[Zobacz realizację](https://lasertechservice.pl/realizacje/naprawa-wentylatora-primelase-hr-excellence-wroclaw/)
 
 ![Głowica i ekran lasera Aragon Beauty Planet podczas serwisu](https://lasertechservice.pl/img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka.webp)
 
 WrocławAragon / Beauty Planet
 
-##### [Serwis lasera diodowego Aragon we Wrocławiu. Wymiana filtra i konserwacja układu chłodzenia](https://lasertechservice.pl/realizacje/serwis-lasera-aragon-wroclaw/)
+##### [Aragon — serwis chłodzenia we Wrocławiu](https://lasertechservice.pl/realizacje/serwis-lasera-aragon-wroclaw/)
 
 Serwis lasera diodowego Aragon Beauty Planet we Wrocławiu. Wymiana filtra, wody chłodzącej i kontrola układu chłodzenia. Laser Tech Service.
 
@@ -1288,17 +1288,17 @@ Frontend Developer & SEO Engineer
 
 WrocławPrimelase
 
-##### [Ремонт вентилятора Primelase HR Excellence и замена подшипника во Вроцлаве](https://lasertechservice.pl/ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/)
+##### [Primelase HR Excellence — ремонт вентилятора](https://lasertechservice.pl/ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/)
 
 Замена подшипника вентилятора Primelase HR Excellence, очистка радиатора и полное техническое обслуживание лазера во Вроцлаве.
 
-[→](https://lasertechservice.pl/ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/)
+[Смотреть реализацию](https://lasertechservice.pl/ru/realizacje/remont-ventilyatora-primelase-hr-excellence-wroclaw/)
 
 ![Манипула и экран лазера Aragon Beauty Planet во время обслуживания](https://lasertechservice.pl/img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka.webp)
 
 WrocławAragon / Beauty Planet
 
-##### [Техническое обслуживание диодного лазера Aragon во Вроцлаве. Замена фильтра и охлаждающей жидкости](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/)
+##### [Aragon — сервис охлаждения во Вроцлаве](https://lasertechservice.pl/ru/realizacje/obsluzhivanie-lasera-aragon-vrotslav/)
 
 Обслуживание диодного лазера Aragon Beauty Planet во Вроцлаве. Замена фильтра, охлаждающей воды и проверка системы охлаждения.
 
@@ -2382,7 +2382,7 @@ These documented cases show why symptoms must be traced to their cause. The fan 
 
 ![Module replacement after liquid ingress — Poznań](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp)
 
-##### Module replacement after liquid ingress — Poznań
+##### Flooded diode module — replacement
 
 **Symptom:** A damaged laser diode module following liquid ingress.
 
@@ -2935,7 +2935,7 @@ We discuss the faults found and agree the repair before proceeding.
 
 ![Module replacement after liquid ingress — Poznań](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp)
 
-##### Module replacement after liquid ingress — Poznań
+##### Flooded diode module — replacement
 
 **Symptom:** A damaged laser diode module following liquid ingress.
 
@@ -3156,7 +3156,7 @@ We check the repaired systems before returning the equipment.
 
 ![Module replacement after liquid ingress — Poznań](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp)
 
-##### Module replacement after liquid ingress — Poznań
+##### Flooded diode module — replacement
 
 **Symptom:** A damaged laser diode module following liquid ingress.
 
@@ -3180,7 +3180,7 @@ We check the repaired systems before returning the equipment.
 
 ![ESTETECH cooling repair — Poznań](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp)
 
-##### ESTETECH cooling repair — Poznań
+##### ESTETECH — Peltier replacement
 
 **Symptom:** The handpiece surface was not cooling correctly.
 
@@ -3513,7 +3513,7 @@ Pulse energy measurement and stability checks within the capabilities available 
 
 ![Two faults in one device — Peltier and Nd:YAG](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/serwis-manipuly-nd-yag.webp)
 
-##### Two faults in one device — Peltier and Nd:YAG
+##### Peltier replacement and Nd:YAG repair
 
 **Symptom:** Two independent handpiece faults in one device.
 
@@ -3835,7 +3835,7 @@ Post-repair operational assessment and discussion of ongoing maintenance.
 
 ![Module replacement after liquid ingress — Poznań](https://lasertechservice.pl/img/realizacje/wymiana-modulu-diodowego-poznan/uszkodzony-modul-diodowy-poznan.webp)
 
-##### Module replacement after liquid ingress — Poznań
+##### Flooded diode module — replacement
 
 **Symptom:** A damaged laser diode module following liquid ingress.
 
@@ -4056,7 +4056,7 @@ The 3000 NAIN power supply repair and RSL massage device cable and connector rep
 
 ![RSL — cable repair and connector replacement](https://lasertechservice.pl/img/realizacje/rsl-warszawa/rsl-naprawa-zlacza-manipuly-warszawa.webp)
 
-##### RSL — cable repair and connector replacement
+##### RSL — cable and connector repair in Warsaw
 
 **Symptom:** A damaged connection between the handpiece and aesthetic device.
 
@@ -5088,7 +5088,7 @@ lok. 320
 
 ![Сервис манипулы диодного лазера — Познань](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/nieszczelnosc-manipuly-lasera.webp)
 
-##### Сервис манипулы диодного лазера — Познань
+##### Манипула — очистка и герметизация
 
 **Симптом:** Негерметичная головка и загрязнения внутри манипулы.
 
@@ -5100,7 +5100,7 @@ lok. 320
 
 ![Замена вентиляторов охлаждения — Вроцлав](https://lasertechservice.pl/img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw.webp)
 
-##### Замена вентиляторов охлаждения — Вроцлав
+##### Вроцлав — замена вентиляторов
 
 **Симптом:** Недостаточное охлаждение лазерного аппарата.
 
@@ -6150,7 +6150,7 @@ Laser Tech Service выполняет профессиональную диаг�
 
 ![Замена вентиляторов охлаждения — Вроцлав](https://lasertechservice.pl/img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw.webp)
 
-##### Замена вентиляторов охлаждения — Вроцлав
+##### Вроцлав — замена вентиляторов
 
 **Симптом:** Недостаточное охлаждение лазерного аппарата.
 
@@ -6660,7 +6660,7 @@ Laser Tech Service предлагает индивидуальные услов�
 
 ![CO₂ в Познани — диагностика проводов манипулы](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/manipula-lasera-diagnostyka-multimetrem.webp)
 
-##### CO₂ в Познани — диагностика проводов манипулы
+##### CO₂ в Познани — ремонт проводов
 
 **Симптом:** Аппарат неправильно реагировал на нажатие педали.
 
@@ -6842,7 +6842,7 @@ Laser Tech Service предлагает индивидуальные услов�
 
 ![Две неисправности аппарата — Пельтье и Nd:YAG](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/serwis-manipuly-nd-yag.webp)
 
-##### Две неисправности аппарата — Пельтье и Nd:YAG
+##### Замена Пельтье и ремонт Nd:YAG
 
 **Симптом:** Две независимые неисправности манипул одного аппарата.
 
@@ -7559,7 +7559,7 @@ Laser Tech Service предлагает индивидуальные услов�
 
 ![Сервис манипулы диодного лазера — Познань](https://lasertechservice.pl/img/blog/serwis-glowicy-lasera/nieszczelnosc-manipuly-lasera.webp)
 
-##### Сервис манипулы диодного лазера — Познань
+##### Манипула — очистка и герметизация
 
 **Симптом:** Негерметичная головка и загрязнения внутри манипулы.
 
@@ -7571,7 +7571,7 @@ Laser Tech Service предлагает индивидуальные услов�
 
 ![Ремонт охлаждения ESTETECH — Познань](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp)
 
-##### Ремонт охлаждения ESTETECH — Познань
+##### ESTETECH — замена Пельтье
 
 **Симптом:** Рабочая поверхность головки не охлаждалась должным образом.
 
@@ -8345,7 +8345,7 @@ Rzeczywiste przypadki pokazują, dlaczego objaw trzeba powiązać z jego przyczy
 
 ![Wymiana wentylatorów chłodzenia — Wrocław](https://lasertechservice.pl/img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw.webp)
 
-##### Wymiana wentylatorów chłodzenia — Wrocław
+##### Wrocław — wymiana wentylatorów
 
 **Objaw:** Niewystarczające chłodzenie aparatu laserowego.
 
@@ -8823,7 +8823,7 @@ Kontrola przepływu, szczelności i temperatury po naprawie.
 
 ![Wymiana wentylatorów chłodzenia — Wrocław](https://lasertechservice.pl/img/realizacje/wentylatory-wroclaw/technik-serwisu-laserowego-wroclaw.webp)
 
-##### Wymiana wentylatorów chłodzenia — Wrocław
+##### Wrocław — wymiana wentylatorów
 
 **Objaw:** Niewystarczające chłodzenie aparatu laserowego.
 
@@ -9626,7 +9626,7 @@ Weryfikujemy działanie naprawionych układów przed przekazaniem sprzętu.
 
 ![Naprawa chłodzenia ESTETECH — Poznań](https://lasertechservice.pl/img/realizacje/estetech-peltier-poznan/estetech-rozebrana-manipula.webp)
 
-##### Naprawa chłodzenia ESTETECH — Poznań
+##### ESTETECH — wymiana modułu Peltiera
 
 **Objaw:** Powierzchnia głowicy nie chłodziła prawidłowo.
 
@@ -10147,7 +10147,7 @@ Udokumentowany przypadek dotyczy usterki obwodu sterowania; nie jest przykładem
 
 ![CO₂ w Poznaniu — diagnostyka przewodów manipuły](https://lasertechservice.pl/img/realizacje/laser-co2-poznan/manipula-lasera-diagnostyka-multimetrem.webp)
 
-##### CO₂ w Poznaniu — diagnostyka przewodów manipuły
+##### CO₂ w Poznaniu — naprawa przewodów
 
 **Objaw:** Aparat nie reagował prawidłowo na naciśnięcie pedału.
 
@@ -10329,7 +10329,7 @@ Pomiar energii impulsów i kontrola stabilności w zakresie dostępnym dla model
 
 ![Dwie usterki aparatu — Peltier i Nd:YAG](https://lasertechservice.pl/img/realizacje/peltier-nd-yag/serwis-manipuly-nd-yag.webp)
 
-##### Dwie usterki aparatu — Peltier i Nd:YAG
+##### Wymiana Peltiera i naprawa Nd:YAG
 
 **Objaw:** Dwie niezależne usterki manipulatorów jednego aparatu.
 

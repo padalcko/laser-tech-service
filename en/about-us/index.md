@@ -170,17 +170,17 @@ Diagnostics, troubleshooting, technical and software calibration of laser cuttin
 
 WrocławPrimelase
 
-### [Primelase HR Excellence Cooling Fan Bearing Replacement in Wrocław](https://lasertechservice.pl/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/)
+### [Primelase HR Excellence — fan bearing repair](https://lasertechservice.pl/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/)
 
 Cooling fan bearing replacement, radiator cleaning and comprehensive maintenance of a Primelase HR Excellence diode laser in Wrocław.
 
-[→](https://lasertechservice.pl/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/)
+[View case study](https://lasertechservice.pl/en/case-studies/primelase-hr-excellence-fan-repair-wroclaw/)
 
 ![Aragon Beauty Planet laser handpiece and display during servicing](https://lasertechservice.pl/img/realizacje/aragon-wroclaw/laser-aragon-beauty-planet-diagnostyka.webp)
 
 WrocławAragon / Beauty Planet
 
-### [Aragon Diode Laser Maintenance in Wrocław — Cooling Filter and Water Replacement](https://lasertechservice.pl/en/case-studies/aragon-diode-laser-service-wroclaw/)
+### [Aragon — cooling maintenance in Wrocław](https://lasertechservice.pl/en/case-studies/aragon-diode-laser-service-wroclaw/)
 
 Aragon Beauty Planet diode laser maintenance in Wrocław. Cooling filter replacement, coolant renewal and cooling system inspection.
 
