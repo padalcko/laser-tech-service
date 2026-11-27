@@ -56,3 +56,38 @@
 .lts-maintenance-table table { width: 100%; border-collapse: collapse; font-size: inherit; }
 .lts-maintenance-table th, .lts-maintenance-table td { padding: 12px; border-bottom: 1px solid var(--gold); text-align: left; vertical-align: top; overflow-wrap: anywhere; }
 .lts-maintenance-table th { color: var(--gold-light); font-weight: 700; }
+
+@media (max-width: 767px) {
+  .lts-maintenance-table--prices { overflow-x: visible; }
+  .lts-maintenance-table--prices table,
+  .lts-maintenance-table--prices tbody,
+  .lts-maintenance-table--prices tr,
+  .lts-maintenance-table--prices td { display: block; width: 100%; box-sizing: border-box; }
+  .lts-maintenance-table--prices thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+  .lts-maintenance-table--prices tr {
+    margin-bottom: 16px;
+    padding: 16px;
+    border: 1px solid var(--gold);
+    border-radius: var(--radius-lg);
+    background: var(--black-card);
+  }
+  .lts-maintenance-table--prices td {
+    padding: 0;
+    border: 0;
+    overflow-wrap: normal;
+    word-break: normal;
+  }
+  .lts-maintenance-table--prices td + td { margin-top: 12px; }
+  .lts-maintenance-table--prices td:first-child { font-weight: 700; }
+  .lts-maintenance-table--prices td:nth-child(2) { color: var(--gold-light); font-weight: 700; }
+}
